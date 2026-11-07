@@ -1,0 +1,223 @@
+N: TS  5,   8   3  10   1  21
+X: 8
+%%Orig filename was ThornBass.abc
+T:Thornley Barn Raiser (Basic Theorbo) (2:09)
+Z:Erlindale of Mirkwood
+M:4/4
+L:1/8
+Q:1/4=110
+%%part-name Basic Theorbo
+K:G
+z2 E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|
+B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|
+B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|E2 E,2 E2 A,B,|
+DE A,G GG A,F|FF A,E EE A,D|DD A,G GG A,F|FF A,E EE A,D|
+DD A,G GG A,F|FF A,E EE A,D|DD A,G A,F A,E|A,D A,G A,F A,D|
+B,D E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|
+B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|E2 E,2 E2 A,B,|
+G,D, E,2 E2 B/2A/2G|B,A G2 B,G F/2E/2D|A,B, E,2 E2 B/2A/2G|B,A E,2 E2 B/2A/2G|
+B,A A,3/2z2z/2 B,3/2z/2|z2 C2 EF G2|G,2 A,2 A,2 B,2|B,2 C2 G2 C2|
+G2 C2 A2 C2|G2 G,6-|G,3/2z6z/2|z8|
+z6 zB,|DE A,G GG A,F|FF A,E EE A,D|DD A,G GG A,F|
+FF A,E EE A,D|DD A,G GG A,F|FF A,E EE A,D|DD A,G A,F A,E|
+A,D A,G A,F A,D|B,D E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|
+E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|E2 E,2 E2 G,A,|B,A, E,2 E2 E,2|
+E2 E,2 E2 A,B,|G,D, E,3-E,/2z2z/2|z2 E,6-|E,3/2
+
+X: 3
+%%Orig filename was ThornClar.abc
+T:Thornley Barn Raiser (Basic Clarinet) (2:09)
+%%part-name Basic Clarinet
+Z:Erlindale of Mirkwood
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+z8|z8|z8|z8|
+z8|z4 b2 a2|f2 B2 g2 f3/2z/2|zF G2 B2 A2|
+dc B2 E3-E/2z/2|z2 bB ag fd|AB bB ag fd|AF G3A/2B/2 Af-|
+fd e4 d2-|d2 ^c4 B2-|B2 G2 A2 F/2E/2D/2E/2|FG EF/2G/2 AF Bz|
+Bz e4 d2-|d2 ^c4 B2-|B2 G2 A2 ^C/2D/2E/2F/2|GF GA FA EA|
+DA G3-G/2z2z/2|z4 b2 a2|f2 B2 g2 f3/2z/2|zF G2 B2 A2|
+d=c B2 E3-E/2z/2|z2 bB ag fd|AB bB ag fd|AF G3-G/2z2z/2|
+z8|z8|z8|z8|
+z8|z8|z8|z2 GE =CE GE|
+CE G^D C^D =F^D|=F^D =D3/2z4z/2|z2 G^F ED ED|B,G, B,3/2z4z/2|
+z6 zB|de e4 d2-|d2 ^c4 B2-|B2 G2 A2 F/2E/2D/2E/2|
+FG EF/2G/2 AF Bz|Bz e4 d2-|d2 ^c4 B2-|B2 G2 A2 ^C/2D/2E/2F/2|
+GF GA FA EA|DA G3-G/2z2z/2|z4 b2 a2|f2 B2 g2 f3/2z/2|
+zF G2 B2 A2|d=c B2 E3-E/2z/2|z2 bB ag fd|AB bB ag fd|
+AF G3-G/2z2z/2|z3B Bd de|gf e6-|e3/2
+
+X: 10
+%%Orig filename was ThornDrums.abc
+T:Thornley Barn Raiser (Basic Drum) (2:09)
+%%part-name Basic Drum
+Z:Erlindale of Mirkwood
+M:4/4
+K:G
+L:1/8
+M:4/4
+K:G
+Q:1/4=110
+=F=F[^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^C,G,]^C,[^C,=A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,/^C,/[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/|\
+[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/|\
+[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/|\
+[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/|\
+[^C,A,]^C,/^C,/[^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^C,G,]^C,[^C,=A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,/^C,/[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/|\
+[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/[^C,A,]^C,/^C,/[^C,G,]^C,/^C,/|\
+[^C,A,]^C,/^C,/[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,6^C6]|\
+[C,2C2][^C,6^C6]|\
+[C,2C2][^C,6^C6]|\
+[C,2C2][^C,4^C4][F,D]G,|\
+[=F,D]^F,[^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^C,G,]^C,[^C,=A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^C,G,]^C,[^C,A,]^C,[^C,G,]^C,|\
+[^C,A,]^C,[^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,2C2]|\
+[^A,2C2][^G,2C2][^A,2C2][^G,C]=F|\
+[^G,C=F]=F[^G,2C2][^A,2C2][^G,C]=F|\
+[^G,C=F]=F[^C,6^C6]|\
+[C,2C2][^C,6^C6]|
+
+X: 1
+%%Orig filename was ThornFlute.abc
+T:Thornley Barn Raiser (Basic Flute) (2:09)
+%%part-name Basic Flute
+Z:Erlindale of Mirkwood
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+z8|z8|z8|z8|
+z4 b2 a2|f2 B2 g2 f3/2z/2|zF G2 B2 A2|dc B2 E3-E/2z/2|
+z2 bB ag fd|AF G3A/2B/2 Af-|fd e3-e/2z2z/2|z4 zd AB|
+de g4 f2-|f2 e4 d2-|d2 e2 f2 d/2^c/2B/2^c/2|de ^cd/2e/2 fd gz|
+gz g4 f2-|f2 e4 d2-|d2 eA dA ^cA|BA e2 d2 g2|
+f2 e2 b2 a2|f2 B2 g2 f3/2z/2|zF G2 B2 A2|d=c B2 E3-E/2z/2|
+z2 bB ag fd|AF G3A/2B/2 Af-|fd e3-e/2z3/2B|cd e3-e/2z2z/2|
+z8|z8|z8|z8|
+z8|z8|z8|z2 EC G,C EC|
+G,C ^DC A,C ^DC|GC B,3/2z4z/2|z2 gf ed ed|BG ^D3/2z4z/2|
+z2 EB, EG BB|de g4 f2-|f2 e4 d2-|d2 e2 f2 d/2^c/2B/2^c/2|
+de ^cd/2e/2 fd gz|gz g4 f2-|f2 e4 d2-|d2 eA dA ^cA|
+BA e2 d2 g2|f2 e2 b2 a2|f2 B2 g2 f3/2z/2|zF G2 B2 A2|
+d=c B2 E3-E/2z/2|z2 bB ag fd|AF G3A/2B/2 Af-|fd e3-e/2z3/2B|
+cd e3-e/2z2z/2|z3G GA AB|dc B6-|B3/2
+%Clarinet
+%Lute
+%Bass
+
+X: 21
+%%Orig filename was ThornLute.abc
+T:Thornley Barn Raiser (Basic Lute) (2:09)
+%%part-name Basic Lute
+Z:Erlindale of Mirkwood
+M:4/4
+K:G
+L:1/8
+M:4/4
+Q:1/4=110
+K:G
+
+Bd[EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Be][E,Fd][EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGB]E,|\
+[E,B][E,d][EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Bd][E,Fc][EB]E,[E,EGe]E,E,E,|\
+[EFd]E,[EGe][E,EG][E,EG][E,FA][EGB]E,|\
+[E,B][E,d][EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Bd][E,Fc][EB]E,[E,EGe]E,E,E,|\
+[EFd]E,[EGe][E,EG][E,EG][E,FA][EGA][E,GB]|\
+[E,GBd][E,GBe][A,2^c2g2][G2^c2a2][A,/G/f/]e/d/e/|\
+[GAf]g[^C/G/A/e/]d/^c/d/[G^ce]e/f/[A/d/g/]a/b|\
+^c/d/e/f/[G^cg]A[G^cg]A[G^cf]A|\
+[G^cf]A[E^ce]A[E^ce]A[GAd]A|\
+[GAd]A[A,2^c2g2][G2^c2a2][A,/G/f/]e/d/e/|\
+[GAf]g[^C/G/A/e/]d/^c/d/[G^ce]e/f/[A/d/g/]a/b|\
+^c/d/e/f/[G^cg]A[G^cf]A[G^ce]A|\
+[GAd]A[^cgb]A[^cga]A[^ceg]A|\
+[G^cf]A[EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Bd][E,Fc][EB]E,[E,EGe]E,E,E,|\
+[EFd]E,[EGe][E,EG][E,EG][E,FA][EGB]E,|\
+[E,B][E,d][EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Bd][E,F][EB]E,[E,EGe]E,E,E,|\
+[EFd]E,[EGe][E,EG][E,EG][E,FA][EGA][E,GB]|\
+[E,GBd][FAB][E,e][EG][EG][EG][E,d][EF]|\
+[EF][EF][E,e][EG][EG][FA][GB]E|\
+[GB][DFd][E,e][EG][EG][EG][E,d][EF]|\
+[EF][EF][E,e][EG][EG][EFA][E,GB][EBeg]|\
+[G,Bdf][B,GBd][A,^ce]A[E^cg]A[B,/B/^d/]^c/[A/^d/]e/|\
+[F^df]B[Cce]G[eg]E[GB=d][Gf]|\
+[dg][Gf][A,^ce]A[E^cg]A[B,/B/^d/]b/[A/a/]g/|\
+[F^df][Aa][Ceg]c[Geb]c[Cea]c|\
+[Geg]c[C^dg]c[G^d^a]c[C^d=a]c|\
+[G^dg]c[G,GBg]D,G,B,DG|\
+Bd[G,6G6B6d6g6]|\
+[G,2G2B2d2g2][B,FAB^d]A,B,^DFA|\
+B^d[E,EGBe]G,B,EGB|\
+de[A,2^c2g2][G2^c2a2][A,/G/f/]e/d/e/|\
+[GAf]g[^C/G/A/e/]d/^c/d/[G^ce]e/f/[A/d/g/]a/b|\
+^c/d/e/f/[G^cg]A[G^cg]A[G^cf]A|\
+[G^cf]A[E^ce]A[E^ce]A[GAd]A|\
+[GAd]A[A,2^c2g2][G2^c2a2][A,/G/f/]e/d/e/|\
+[GAf]g[^C/G/A/e/]d/^c/d/[G^ce]e/f/[A/d/g/]a/b|\
+^c/d/e/f/[G^cg]A[G^cf]A[G^ce]A|\
+[GAd]A[^cgb]A[^cga]A[^ceg]A|\
+[G^cf]A[EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Bd][E,Fc][EB]E,[E,EGe]E,E,E,|\
+[EFd]E,[EGe][E,EG][E,EG][E,FA][EGB]E,|\
+[E,B][E,d][EGe]E,E,E,[EFd]E,|\
+E,E,[EGe][E,EG][E,EG][E,FA][EGA][E,B]|\
+[E,Bd][E,F][EB]E,[E,EGe]E,E,E,|\
+[EFd]E,[EGe][E,EG][E,EG][E,FA][EGA][E,GB]|\
+[E,GBd][FAB][E,3E3G3e3]z3|\
+z[E,7E7G7e7]|\
+[E,EGe]
+

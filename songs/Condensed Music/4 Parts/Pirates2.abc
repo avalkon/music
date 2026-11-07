@@ -1,0 +1,447 @@
+%abc-2.1
+%%song-title       He's a Pirate
+%%song-duration    1:18
+%%song-transcriber Arranged by Fin
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:34:34
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title:  - He's a Pirate
+N: TS  4,   9  5  8  1
+I:decoration +
+
+X: 9
+T: He's a Pirate (1:18) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+%%user-pan auto
+Z: Arranged by Fin
+M: 6/8
+Q: 200
+L: 1/8
+K: C maj
++mf+ z3 |
+z3 |
+z3 |
+d3 |
+d3 |
+^a3/2 =a3/4 a3/4 |
+d7/4 z// d/ e/ |
+f7/4 z// f/ g/ |
+e7/4 z// d/ c/ |
+% Bar 10 (0:09)
+c/ d/ z A/ c/ |
+d7/4 z// d/ e/ |
+f7/4 z// f/ g/ |
+e7/4 z// d/ c/ |
+d3/4 z5/4 A/ c/ |
+d7/4 z// d/ f/ |
+g7/4 z// g/ a/ |
+^a7/4 z// =a/ g/ |
+a/ d z/ d/ e/ |
+f7/4 z// g |
+% Bar 20 (0:18)
+a/ d z/ d/ f/ |
+e7/4 z// f/ d/ |
+e3/2 z/ a/ c'/ |
+d7/4 z// d/ e/ |
+f7/4 z// f/ g/ |
+e7/4 z// d/ c'/ |
+c'/ d5/4 z// a/ c'/ |
+d7/4 z// d/ e/ |
+f7/4 z// f/ g/ |
+e7/4 z// d/ c'/ |
+% Bar 30 (0:27)
+d3/4 z5/4 a/ c'/ |
+d7/4 z// d/ f/ |
+g7/4 z// g/ a/ |
+^a7/4 z// =a/ g/ |
+a/ d z/ d/ e/ |
+f7/4 z// g |
+a/ d z/ d/ f/ |
+e7/4 z// d/ c'/ |
+d7/4 z// e |
+[fc'] f3/4 z// g |
+% Bar 40 (0:36)
+a7/4 z// f |
+z3 |
+^a3 |
+z3 |
+[c3/2e3/2] d3/2 |
+f3 |
+a3 |
+^a3/4 z9/4 |
+g3 |
+a3/4 z9/4 |
+% Bar 50 (0:45)
+a3 |
+^a3/4 z9/4 |
+g f3/4 z// e |
+d3/4 z5/4 d/ e/ |
+[A3f3] |
+g7/4 z// e |
+f g3/4 z// a |
+[c3g3] |
+a7/4 z// g/ f/ |
+e f3/4 z// e |
+% Bar 60 (0:54)
+d7/4 z// e/ c/ |
+d7/4 z// d/ e/ |
+[f3a3] |
+g f3/4 z// g |
+a g3/4 z// f |
+[d7/4f7/4] z// e |
+f g3/4 z// a |
+^a d3/4 z// g |
+f7/4 z// g/ e/ |
+d3 |
+% Bar 70 (1:03)
+a3 |
+^a3 |
+a a3/4 z// a |
+a/ g5/4 z5/4 |
+g3 |
+f3 |
+f g3/4 z// e |
+d3 |
+a3 |
+^a3 |
+% Bar 80 (1:12)
+a a3/4 z// c' |
+a/ g5/4 z5/4 |
+g3 |
+f3 |
+f g3/4 z// e |
+d3 |
+z3 |
+z2 |]
+
+
+X: 5
+T: He's a Pirate (1:18) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+%%user-pan auto
+Z: Arranged by Fin
+M: 6/8
+Q: 200
+L: 1/8
+K: C maj
++ff+ d d/ d d/ |
+d d/ d/ d/ d/ |
+d d/ d d/ |
+d d/ d/ d/ d/ |
+d d/ d d/ |
+d d/ d/ A/ c/ |
+[FAd] [FAd] [F/A/d/] [A/c/e/] |
+[^Adf] [Adf] [A/d/f/] [d/g/] |
+[Ace] [Ace] [A/d/] [G/c/] |
+% Bar 10 (0:09)
+[A/c/] [Ad] z/ A/ c/ |
+[F^Ad] [FAd] [A/d/] [A/e/] |
+[Acf] [Acf] [c/f/] [c/g/] |
+[Ace] [Ace] [A/d/] [G/c/] |
+[F3/4A3/4d3/4] z5/4 A/ c/ |
+[FAd] [FAd] [A/d/] [A/f/] |
+[^Adg] [Adg] [d/g/] [d/a/] |
+[dg^a] [dga] [f/=a/] [e/g/] |
+[f/a/] d z/ d/ e/ |
+[^Adf] [Adf] [Adg] |
+% Bar 20 (0:18)
+[f/a/] d z/ d/ f/ |
+[A^ce] [Ace] [d/f/] [B/d/] |
+[A3/2^c3/2e3/2] z/ a/ c'/ |
+[dfa] [dfa] [d/f/a/] [e/a/c'/] |
+[df^a] [dfa] [d/f/a/] [d/g/] |
+[eac'] [eac'] [d/a/] [g/c'/] |
+[a/c'/] [da] z/ a/ c'/ |
+[df^a] [dfa] [d/a/] [e/a/] |
+[fac'] [fac'] [f/c'/] [g/c'/] |
+[ec'] [ec'] [d/a/] c'/ |
+% Bar 30 (0:27)
+[d3/4f3/4a3/4] z5/4 a/ c'/ |
+[dfa] [dfa] [d/a/] [f/a/] |
+[dg^a] [dga] [d/g/] [d/=a/] |
+[dg^a] [dga] [f/=a/] [e/g/] |
+[f/a/] d z/ d/ e/ |
+[df^a] [dfa] [dga] |
+[f/a/] d z/ d/ f/ |
+[^cea] [cea] d/ c/ |
+[da] [da] [eac'] |
+[dfc'] f/ f/ [dg^a] |
+% Bar 40 (0:36)
+[d/a/] f/ z [f/a/] [d/a/] |
+a3/4 z9/4 |
+[d3/4g3/4^a3/4] z5/4 [g/a/] [d/a/] |
+^a3/4 z9/4 |
+[^c/e/] [ce] [G3/2d3/2] |
+[A3/2^c3/2f3/2] z/ f/ g/ |
+[dfa] [d3/4f3/4a3/4] z// [dfa] |
+[d/f/^a/] [d/f/=a/] z2 |
+[ceg] [c3/4e3/4g3/4] z// [ceg] |
+[c/e/g/] [c/f/a/] z2 |
+% Bar 50 (0:45)
+[dfa] [d3/4f3/4a3/4] z// [dfa] |
+[d/f/^a/] [d/f/=a/] z2 |
+[^ceg] [c3/4f3/4] z// [Ae] |
+[F3/4A3/4d3/4] z5/4 d/ e/ |
+[A7/4d7/4f7/4] z// g/ a/ |
+[cg] [c3/4f3/4] z// [ce] |
+[Acf] [A3/4c3/4g3/4] z// [Aca] |
+[c3/4e3/4g3/4] z5/4 f/ g/ |
+[c3/4f3/4a3/4] z5/4 g/ f/ |
+[^ce] [c3/4f3/4] z// [ce] |
+% Bar 60 (0:54)
+[F3/4A3/4d3/4] z5/4 e/ c/ |
+[F3/4A3/4d3/4] z5/4 d/ e/ |
+[d3/4f3/4a3/4] z5/4 e/ f/ |
+[gc'] [f3/4c'3/4] z// [gc'] |
+[fa] [g3/4c'3/4] z// [fc'] |
+[d3/4f3/4^a3/4] z5/4 d/ e/ |
+[dfa] [d3/4g3/4a3/4] z// [da] |
+[d^a] [d3/4a3/4] z// [ga] |
+[f3/4a3/4] z5/4 g/ e/ |
+[d3/4a3/4] z5/4 e/ ^c/ |
+% Bar 70 (1:03)
+[d3/4f3/4a3/4] z9/4 |
+[d3/4g3/4^a3/4] z9/4 |
+[fac'] [f3/4a3/4c'3/4] z// [fac'] |
+[e/a/c'/] g/ z2 |
+[d3/4g3/4^a3/4] z9/4 |
+[d3/4f3/4a3/4] z9/4 |
+[fa] [g3/4a3/4] z// [ea] |
+[d3/2f3/2a3/2] d/ e/ f/ |
+[d3/2f3/2a3/2] d/ e/ f/ |
+[d3/2f3/2^a3/2] d/ e/ f/ |
+% Bar 80 (1:12)
+[fac'] [f3/4a3/4c'3/4] z// [fc'] |
+[e/a/c'/] g/ z2 |
+[d3/4g3/4^a3/4] z9/4 |
+[d3/4f3/4a3/4] z9/4 |
+[fa] [g3/4a3/4] z// [ea] |
+[d3/2f3/2a3/2] z3/2 |
+d3- |
+d5/4 z3/4 |]
+
+
+X: 8
+T: He's a Pirate (1:18) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+Z: Arranged by Fin
+M: 6/8
+Q: 200
+L: 1/8
+K: C maj
++ff+ z3 |
+z3 |
+z3 |
+z3 |
+[D,11/4D11/4] z// |
+[D,3/2D3/2] [D,3/2D3/2] |
+[Dd] [D/d/] [Dd] [C/c/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+% Bar 10 (0:09)
+[Dd] [D/d/] [Dd] [D/d/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[G,G] [G,/G/] [G,G] [G,/G/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+% Bar 20 (0:18)
+[Dd] [D/d/] [Dd] [D/d/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D/d/] [Dd] [C/c/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[F,F] [F,/F/] [F,F] [F,/F/] |
+[Cc] [C/c/] [A,A] [A,/A/] |
+% Bar 30 (0:27)
+[Dd] [D/d/] [Dd] [D/d/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[G,G] [G,/G/] [G,G] [G,/G/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[^A,^A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D3/4d3/4] z// [Cc] |
+[Cc] [C3/4c3/4] z// [^A,^A] |
+% Bar 40 (0:36)
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[G,G] [G,/G/] [G,G] [G,/G/] |
+[G,G] [G,/G/] [G,G] [G,/G/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[Cc] [C/c/] [Cc] [C/c/] |
+[Ff] [F/f/] [F/f/] [F/f/] [F/f/] |
+% Bar 50 (0:45)
+[Dd] [D/d/] [Dd] [D/d/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[A,A] [A,/A/] [A,A] [A,/A/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[Dd] [D/d/] [Dd] [D/d/] |
+[Cc] [C/c/] [C/c/] [C/c/] [C/c/] |
+[Ff] [F/f/] [F/f/] [F/f/] [F/f/] |
+[Cc] [C/c/] [C/c/] [C/c/] [C/c/] |
+[Ff] [F/f/] [F/f/] [F/f/] [F/f/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+% Bar 60 (0:54)
+[Dd] [D/d/] [Dd] [D/d/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[Cc] [C/c/] [C/c/] [C/c/] [C/c/] |
+[Ff] [F/f/] [F/f/] [F/f/] [F/f/] |
+[^A,^A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[G,G] [G,/G/] [G,/G/] [G,/G/] [G,/G/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+% Bar 70 (1:03)
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[G,G] [G,/G/] [G,/G/] [G,/G/] [G,/G/] |
+[Ff] [F/f/] [Ff] [F/f/] |
+[Cc] [C/c/] [C/c/] [C/c/] [C/c/] |
+[G,G] [G,/G/] [G,/G/] [G,/G/] [G,/G/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[Dd] [D/d/] [D/d/] [D/d/] [D/d/] |
+[^A,^A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+% Bar 80 (1:12)
+[Ff] [F/f/] [F/f/] [F/f/] [F/f/] |
+[Cc] [C/c/] [C/c/] [C/c/] [C/c/] |
+[G,G] [G,/G/] [G,/G/] [G,/G/] [G,/G/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+[A,A] [A,/A/] [A,/A/] [A,/A/] [A,/A/] |
+[D3/2d3/2] [D/d/] [D/d/] [D/d/] |
+[D,3-D3-] |
+[D,5/4D5/4] z3/4 |]
+
+
+X: 1
+T: He's a Pirate (1:18) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+Z: Arranged by Fin
+M: 6/8
+Q: 200
+L: 1/8
+K: C maj
++ff+ D, D,/ D, D,/ |
+D, D,/ D,/ D,/ D,/ |
+D, D,/ D, D,/ |
+D, D,/ D,/ D,/ D,/ |
+D, D,/ D, D,/ |
+D, D,/ D,/ A,/ C,/ |
+[D,F,A,] [D,F,A,] [D,/F,/A,/] [C,/E,/A,/] |
+[D,F,^A,] [D,F,A,] [D,/F,/A,/] [D,/G,/] |
+[C,E,A,] [C,E,A,] [D,/A,/] [C,/G,/] |
+% Bar 10 (0:09)
+[C,/A,/] [D,A,] z/ A,/ C,/ |
+[D,F,^A,] [D,F,A,] [D,/A,/] [E,/A,/] |
+[C,F,A,] [C,F,A,] [C,/F,/] [C,/G,/] |
+[C,E,A,] [C,E,A,] [D,/A,/] [C,/G,/] |
+[D,3/4F,3/4A,3/4] z5/4 A,/ C,/ |
+[D,F,A,] [D,F,A,] [D,/A,/] [F,/A,/] |
+[D,G,^A,] [D,G,A,] [D,/G,/] [D,/=A,/] |
+[D,G,^A,] [D,G,A,] [F,/=A,/] [E,/G,/] |
+[F,/A,/] D, z/ D,/ E,/ |
+[D,F,^A,] [D,F,A,] [D,G,A,] |
+% Bar 20 (0:18)
+[F,/A,/] D, z/ D,/ F,/ |
+[^C,E,A,] [C,E,A,] [D,/F,/] [D,/B,/] |
+[^C,3/2E,3/2A,3/2] z/ A,/ C/ |
+[F,A,D] [F,A,D] [F,/A,/D/] [A,/C/E/] |
+[^A,DF] [A,DF] [A,/D/F/] [D/G/] |
+[A,CE] [A,CE] [A,/D/] [G,/C/] |
+[A,/C/] [A,D] z/ A,/ C/ |
+[F,^A,D] [F,A,D] [A,/D/] [A,/E/] |
+[A,CF] [A,CF] [C/F/] [C/G/] |
+[CE] [CE] [A,/D/] C/ |
+% Bar 30 (0:27)
+[F,3/4A,3/4D3/4] z5/4 A,/ C/ |
+[F,A,D] [F,A,D] [A,/D/] [A,/F/] |
+[^A,DG] [A,DG] [D/G/] [D/A/] |
+[DG^A] [DGA] [F/=A/] [E/G/] |
+[F/A/] D z/ D/ E/ |
+[^A,DF] [A,DF] [A,DG] |
+[F/A/] D z/ D/ F/ |
+[A,^CE] [A,CE] D/ C/ |
+[A,D] [A,D] [A,CE] |
+[CDF] F/ F/ [^A,DG] |
+% Bar 40 (0:36)
+[D/A/] F/ z [A,/F/] [A,/D/] |
+A,3/4 z9/4 |
+[D3/4G3/4^A3/4] z5/4 [^A,/G/] [A,/D/] |
+^A,3/4 z9/4 |
+[^C,/E,/] [C,E,] [D,3/2G,3/2] |
+[^C,3/2F,3/2A,3/2] z/ F,/ G,/ |
+[D,F,A,] [D,3/4F,3/4A,3/4] z// [D,F,A,] |
+[D,/F,/^A,/] [D,/F,/=A,/] z2 |
+[C,E,G,] [C,3/4E,3/4G,3/4] z// [C,E,G,] |
+[C,/E,/G,/] [C,/F,/A,/] z2 |
+% Bar 50 (0:45)
+[D,F,A,] [D,3/4F,3/4A,3/4] z// [D,F,A,] |
+[D,/F,/^A,/] [D,/F,/=A,/] z2 |
+[^C,E,G,] [C,3/4F,3/4] z// [E,A,] |
+[D,3/4F,3/4A,3/4] z5/4 D,/ E,/ |
+[D,7/4F,7/4A,7/4] z// G,/ A,/ |
+[C,G,] [C,3/4F,3/4] z// [C,E,] |
+[C,F,A,] [C,3/4G,3/4A,3/4] z// [C,A,] |
+[C,3/4E,3/4G,3/4] z5/4 F,/ G,/ |
+[C,3/4F,3/4A,3/4] z5/4 G,/ F,/ |
+[^C,E,] [C,3/4F,3/4] z// [C,E,] |
+% Bar 60 (0:54)
+[D,3/4F,3/4A,3/4] z5/4 E,/ C,/ |
+[D,3/4F,3/4A,3/4] z5/4 D/ E/ |
+[A,3/4D3/4F3/4] z5/4 E/ F/ |
+[CG] [C3/4F3/4] z// [CG] |
+[FA] [C3/4G3/4] z// [CF] |
+[F,3/4^A,3/4D3/4] z5/4 D/ E/ |
+[A,DF] [A,3/4D3/4G3/4] z// [DA] |
+[^A,D^A] [A,3/4D3/4] z// [A,G] |
+[A,3/4F3/4] z5/4 G/ E/ |
+[A,3/4D3/4] z5/4 E/ ^C/ |
+% Bar 70 (1:03)
+[D3/4F3/4A3/4] z9/4 |
+[D3/4G3/4^A3/4] z9/4 |
+[CFA] [C3/4F3/4A3/4] z// [CFA] |
+[C/E/A/] G/ z2 |
+[^A,3/4D3/4G3/4] z9/4 |
+[A,3/4D3/4F3/4] z9/4 |
+[A,F] [A,3/4G3/4] z// [A,E] |
+[F,3/2A,3/2D3/2] D/ E/ F/ |
+[D3/2F3/2A3/2] D/ E/ F/ |
+[D3/2F3/2^A3/2] D/ E/ F/ |
+% Bar 80 (1:12)
+[CFA] [C3/4F3/4A3/4] z// [Fc] |
+[C/E/A/] G/ z2 |
+[^A,3/4D3/4G3/4] z9/4 |
+[A,3/4D3/4F3/4] z9/4 |
+[A,F] [A,3/4G3/4] z// [A,E] |
+[F,3/2A,3/2D3/2] z3/2 |
+D,3- |
+D,5/4 z3/4 |]
+

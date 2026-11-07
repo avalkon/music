@@ -1,0 +1,72 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was FallingSlowly-solo.abc
+T:Glen Hansard & Marketa Irglova (3:18) - Falling Slowly
+M:4/4
+L:1/8
+Q:1/4=75
+%%part-name Unknown Instrument
+K:C % 0 sharps
+[c-C][cG-] [d-G][dG-] [e-G][eG-] [d-G][dG]| \
+[c-C][cA-] [d-A][dA-] [f-A][fA-] [e-A][eA]| \
+[c-C][cG-] [d-G][dG-] [e-G][eG-] [dG][cG]| \
+CA- [c-A][cA-] [c-A][cA-] [c-A][cA]|
+[e-c-C][ecG-] [f-d-G][fdG-] [g-e-G][geG-] [f-d-G][fdG]| \
+[e-c-C][ecA-] [f-d-A][fdA-] [a-f-A][afA-] [g-e-A][geA]| \
+[e-c-C][ecG-] [f-d-G][fdG-] [g-e-G][geG-] [fdG][ecG]| \
+CA- [c-A][cA-] [c-A][cA-] [c-A][cA]|
+[A-A,][AE] [e-C][eE] [dG,][cD] [BG]D| \
+[A-F,][AC] [e-A,][eC] [dG,][cB,] [BD]B,| \
+[A-A,][AE] [e-C][eE] [dG,][cD] [BG]D| \
+[A-F,][AC] FG AF GA|
+[A-F-][AFC-] [A-F-C][AFC-] [c-A-F-C][cAFC-] [c-A-F-C][cAFC]| \
+[c-c-C][ccG-] [d-d-G][ddG-] [b-B-G][bBG-] [c-c-G][ccG]| \
+[c-c-F,][ccF-] [d-d-F][ddF-] [b-B-F][bBF-] [c-c-F][ccF]| \
+[c-c-A,][ccE-] [d-d-E][ddE-] [b-B-E][bBE-] [c-c-E][ccE]|
+[g-g-F,][g-g-C] [g-g-F][ggG] [f-f-A][ffG] Ac| \
+[c-c-C][ccG-] [d-d-G][ddG-] [b-B-G][bBG-] [c-c-G][ccG]| \
+[c-c-F,][ccF-] [d-d-F][ddF-] [b-B-F][bBF-] [c-c-F][ccF]| \
+[c-c-A,][ccE-] [d-d-E][ddE-] [b-B-E][bBE-] [c-c-E][ccE]|
+[g-g-F,][g-g-C] [g-g-F][ggG] [f-f-A][ffG] Ac| \
+f8| \
+[c-C,][cG,-] [d-G,][dG,-] [e-G,][eG,-] [d-G,][dG,]| \
+[c-C,][cA,-] [d-A,][dA,-] [f-A,][fA,-] [e-A,][eA,]|
+[c-C,][cG,-] [d-G,][dG,-] [e-G,][eG,-] [dG,][cG,]| \
+C,A,- [C-A,][CA,-] [C-A,][CA,-] [C-A,][CA,]| \
+[e-c-C,][ecG,-] [f-d-G,][fdG,-] [g-e-G,][geG,-] [f-d-G,][fdG,]| \
+[e-c-C,][ecA,-] [f-d-A,][fdA,-] [a-f-A,][afA,-] [g-e-A,][geA,]|
+[e-c-C,][ecG,-] [f-d-G,][fdG,-] [g-e-G,][geG,-] [fdG,][ecG,]| \
+C,A,- [C-A,][CA,-] [C-A,][CA,-] [C-A,][CA,]| \
+[A-E-A,][AEE,] [e-c-A-C,][ecAE,] [dBG,][cAD,] [BGG,]D,| \
+[A-E-F,][AEC,] [e-c-A-A,][ecAC,] [dBG,][cAB,] [BGD,]B,|
+[A-E-A,][AEE,] [e-c-A-C,][ecAE,] [dBG,][cAD,] [BGG,]D,| \
+[A-F-F,][AFC,] F,G, A,C FG| \
+[A-F-][AFC-] [A-F-C][AFC-] [c-A-F-C][cAFC-] [c-A-F-C][cAFC]| \
+[c-c-C,][ccC-] [d-d-C][d/2-d/2-G,/2][d/2d/2C/2-] [b-B-C][bBG,] [c-c-C][ccC,]|
+[c-c-F,][ccF,-] [d-d-F,][d/2-d/2-C,/2][d/2d/2F,/2-] [b-B-F,][bBC,] [c-c-F,][ccF,]| \
+[c-c-A,][ccA,-] [d-d-A,][d/2-d/2-E,/2][d/2d/2A,/2-] [b-B-A,][bBE,] [c-c-A,][ccA,]| \
+[g-g-F,][g-g-C,] [g-g-F,][ggG,] [f-f-A,][ffG,] A,C| \
+[c-c-C,][ccC-] [d-d-C][d/2-d/2-G,/2][d/2d/2C/2-] [b-B-C][bBG,] [c-c-C][ccC,]|
+[c-c-F,][ccF,-] [d-d-F,][d/2-d/2-C,/2][d/2d/2F,/2-] [b-B-F,][bBC,] [c-c-F,][ccF,]| \
+[c-c-A,][ccA,-] [d-d-A,][d/2-d/2-E,/2][d/2d/2A,/2-] [b-B-A,][bBE,] [c-c-A,][ccA,]| \
+[g-g-F,][g-g-C,] [g-g-F,][ggG,] [f-f-A,][ffG,] A,C| \
+[c-C,][cC-] [d-C][d/2-G,/2][d/2C/2-] [B-C][BG,] [c-C][cC,]|
+[c-F,][cF,-] [d-F,][d/2-C,/2][d/2F,/2-] [B-F,][BC,] [c-F,][cF,]| \
+[c-A,][cA,-] [d-A,][d/2-E,/2][d/2A,/2-] [B-A,][BE,] [c-A,][cA,]| \
+[g-F,][g-C,] [g-F,][gG,] [f-A,][fG,] A,C| \
+[c-C,][cC-] [d-C][d/2-G,/2][d/2C/2-] [B-C][BG,] [c-C][cC,]|
+[c-F,][cF,-] [d-F,][d/2-C,/2][d/2F,/2-] [B-F,][BC,] [c-F,][cF,]| \
+[c-A,][cA,-] [d-A,][d/2-E,/2][d/2A,/2-] [B-A,][BE,] [c-A,][cA,]| \
+[g-F,][g-C,] [g-F,][gG,] [f-A,][fG,] A,C| \
+[c-F,-][cF,-F,-] [b-F,F,-][bF,-F,-] [g-F,F,-][gF,-F,-] [f-F,F,-][fF,-F,]|
+[c-F,][cF,-] [B-F,][BF,-] [G-F,][GF,-] [F-F,][FF,]| \
+[E-F,-][EF,-F,-] [D-F,F,-][DF,-F,-] [C-F,F,-][CF,-F,-] [A,-F,F,-][A,F,F,]| \
+[G3E3C3F,3]x [G3E3C3F,3]x| \
+[G3E3C3F,3]x [G3E3C3F,3]x|
+[G8E8C8F,8]| \
+[c-C][cG-] [d-G][dG-] [e-G][eG-] [d-G][dG]| \
+[c-C][cA-] [d-A][dA-] [f-A][fA-] [e-A][eA]| \
+[c-C][cG-] [d-G][dG-] [e-G][eG-] [d-G][dG]|
+[c-C][cA-] [d-A][dA-] [f-A][fA-] [e-A][eA]| \
+[e8c8G8C8]|
+

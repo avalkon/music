@@ -1,0 +1,45 @@
+N: TS 2,   21 22
+
+X:21
+%%Orig filename was labyr1.abc
+T: Labyrinth (Main) (0:00)
+Z: Nightwind of Windfola
+G: Movie Soundtrack
+I: Lute
+Q: 1/4=117
+M: 4/4
+L: 1/8
+%%part-name Basic Lute 1
+K: Eb
+
+z8|z8|z8|z8|
+C4 G4|FG A2 d2 z2|EF G2 c2 z2|DE F2 B,C D2|
+C4 G4|FG Az d2 z2|EF Gz c2 z2|DE Fz B,C Dz|
+z4 zG FG|EG DG CG DG|E3z2G FG|EG DG CG DG|
+E2- E/2z4z3/2|C4 G4|FG A2 d2 z2|EF G2 c2 z2|
+DE F2 B,C D2|C4 G4|FG Az d2 z2|EF Gz c2 z2|
+DE Fz B,C Dz|z4 zG FG|EG DG CG DG|E3z2G FG|
+EG DG CG DG|E2- E/2
+
+X:22
+%%Orig filename was labyr2.abc
+T: Labyrinth (Support) (0:00)
+Z: Nightwind of Windfola
+G: Movie Soundtrack
+I: Lute
+Q: 1/4=117
+M: 4/4
+L: 1/8
+%%part-name Basic Lute 2
+K: Eb
+
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD ED CG,|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD ED CG,|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|C,G, CD Ez3|
+C,G, CD Ez3|C,G, CD E
+

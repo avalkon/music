@@ -1,0 +1,20 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was SuperMarioBros-UnderwaterTheme-Solo.abc
+T:Super Mario Bros. (0:26) - Underwater Theme
+C:Koji Kondo
+Z:LD
+M:3/4
+L:1/4
+Q:1/4=220
+%%part-name Unknown Instrument
+K:C
+D [^CE] [=C^F]|[B,G] [CA] [^C^A]|[D/2B/2][D/2B/2] [DB] [G,EB]|[F2B2G,2] G |
+[AeC,] G, C|[^F^dB,] G, B,|[C,Ae] G, C|E,/2 G/2 [G,/2A/2]B/2 [C/2c/2]d/2 |
+[AeC,] G, C|[^F^dB,] G, [B,Af]|[C,Ae] G, C|E, G, C/2 G/2 |
+[D,Fd] G, B,|[^C,G^c] ^F, ^A,|[D,Fd] G, B,|B,/2 G/2 [G,/2A/2]B/2 [B,/2c/2]^c/2 |
+[D,Fd] G, B,|[B,D,G] G, [B,Af]|[C,Ge] G, C|G, G, C/2 G/2 |
+[C,eg] G, E|[B,dg] G, D|[^A,^cg] G ^C|[^C,g] [G,a] E/2 g/2 |
+[D,df] A, F|[^C,^cf] A, F|[=C,=cf] A, F|[B,f] [G,g] F/2 f/2 |
+[C,ce] G, E|[G,FA] [G,GB] [G,Bf]|[F,/2B/2e/2][F,/2B/2e/2][FB/2e/2] z/2 [B,/2F/2B/2]|[C3E3c3] |
+

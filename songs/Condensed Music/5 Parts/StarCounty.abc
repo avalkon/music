@@ -1,0 +1,198 @@
+N: TS  5,   3   1   5   4   8
+X: 3
+%%Orig filename was StarCountyClar.abc
+T: Star of the County Down-clarinet (3:33)
+%%part-name Basic Clarinet
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Star_of_the_County_Down.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
++pp+ z16 z16 z16 z16 z16 z16 z16 z16 z16 z16 z16 z16 z12 d3 d3 ^f3 e3 d3 d3
+^c3 ^c3 d3 d3 ^f3 e3 d3 d3 d3 d3 d3 d3 ^f3 e3 d3 d3 ^c3 ^c3 d3 d3 ^f3
+e3 d3 d3 d3 d3 d3 d3 e3 e3 d3 d3 ^c3 ^c3 d3 d3 ^f3 e3 d3 d3 d3 d3 d3
+d3 e3 e3 d3 d3 ^c3 ^c3 d3 d3 ^f3 e3 d3 d3 d3 d3 d3 d25/8 z/8 ^f13/4
+e27/8 d7/2 d29/8 z/8 d15/4 d43/8
+
+X: 1
+%%Orig filename was StarCountyFlute.abc
+T: Star of the County Down-flute (3:33)
+%%part-name Basic Flute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Star_of_the_County_Down.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
++mp+ z11 ^F B2 B B3/2 A/2 B d2 d e2 d/2 e/2 ^f3/2 e/2 d B3/2 A/2 ^F A3 A2
+^F B2 B B3/2 A/2 B d2 d e2 d/2 e/2 ^f3/2 e/2 d B2 A B3 B2 ^F B2 B
+B3/2 A/2 B d2 d e2 d/2 e/2 ^f3/2 e/2 d B3/2 A/2 ^F A3 A2 ^F/2 A/2 B2
+B B3/2 A/2 B d2 d e2 d/2 e/2 ^f3/2 e/2 d B2 A B3 B2 ^f a2 ^f ^f3/2
+e/2 d e2 e e2 d/2 e/2 ^f3/2 e/2 d B3/2 A/2 ^F A3 A2 d/2 ^c/2 B2 B
+B3/2 A/2 B d2 d e2 d/2 e/2 ^f3/2 e/2 d B2 A B3 B2 ^f a2 ^f ^f3/2 e/2
+d e2 e e2 d/2 e/2 ^f3/2 e/2 d B3/2 A/2 ^F A3 A2 d/2 ^c/2 B2 B B3/2
+A/2 B d2 d e2 d/2 e/2 ^f3/2 e/2 d B2 A B3 B2 ^F B2 B B3/2 A/2 B d2 d
+e2 d/2 e/2 ^f3/2 e/2 d B3/2 A/2 ^F A3 A2 ^F B2 B B3/2 A/2 B d2 d e2
+d/2 e/2 ^f3/2 e/2 d B2 A B3 B2 ^F B2 B B3/2 A/2 B d2 d e2 d/2 e/2
+^f3/2 e/2 d B3/2 A/2 ^F A3 A2 ^F/2 A/2 B2 B B3/2 A/2 B d2 d e2 d/2
+e/2 ^f3/2 e/2 d B2 A B3 B2 ^f a2 ^f ^f3/2 e/2 d e2 e e2 d/2 e/2 ^f3/2
+e/2 d B3/2 A/2 ^F A3 A2 d/2 ^c/2 B2 B B3/2 A/2 B d2 d e2 d/2 e/2
+^f3/2 e/2 d B2 A B3 B2 ^f a2 ^f ^f3/2 e/2 d e2 e e2 d/2 e/2 ^f3/2 e/2
+d B3/2 A/2 ^F A3 A2 d/2 ^c/2 B2 B B3/2 A/2 B d2 d e2 d/2 e/2 ^f3/2
+e/2 d B2 A B3 B2 d/2 ^c/2 B2 B B13/8 A/2 B z/8 d17/8 d9/8 e9/4 d/2
+e5/8 ^f7/4 e5/8 d9/8 B5/2 A9/8 z/8 B15/4 B43/8
+
+X: 5
+%%Orig filename was StarCountyHarp.abc
+T: Star of the County Down-harp (3:33)
+%%part-name Basic Harp
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Star_of_the_County_Down.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+[^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2] B/2 d/2 ^f/2 b/2 ^f/2 [^F3z/2]
+B/2 d/2 ^f/2 b/2 d/2 [^F3z/2] B/2 d/2 ^f/2 b/2 ^f/2 [^F3z/2] B/2 d/2
+^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2] B/2 d/2 ^f/2 a/2
+d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2
+[G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2
+[^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2
+[G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2] B/2 d/2 ^f/2 a/2 d/2 [A3z/2]
+^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2
+a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2] B/2 d/2 ^f/2 b/2
+d/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2
+[^F3z/2] B/2 d/2 ^f/2 a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2]
+B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2
+a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2
+b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2] B/2 d/2 ^f/2 a/2 d/2
+[A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2]
+d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2] B/2 d/2
+^f/2 b/2 d/2 [A3z/2] d/2 ^f/2 a/2 d/2 ^f/2 [A3z/2] d/2 ^f/2 a/2 d/2
+^f/2 [A3z/2] e/2 a/2 ^c/2 e/2 a/2 [A3z/2] e/2 a/2 ^c/2 e/2 a/2
+[^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2]
+^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 d/2 ^f/2 [^F3z/2] B/2
+d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2] B/2 d/2 ^f/2
+a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2
+[G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2]
+B/2 d/2 ^f/2 b/2 d/2 [A3z/2] d/2 ^f/2 a/2 d/2 ^f/2 [A3z/2] d/2 ^f/2
+a/2 d/2 ^f/2 [A3z/2] e/2 a/2 ^c/2 e/2 a/2 [A3z/2] e/2 a/2 ^c/2 e/2
+a/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2
+[^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 d/2 ^f/2
+[^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2]
+B/2 d/2 ^f/2 a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2
+^f/2 b/2 d/2 [G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2
+d/2 b3 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2
+[^F3z/2] B/2 d/2 ^f/2 a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2]
+B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2
+a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2
+b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2] B/2 d/2 ^f/2 a/2 d/2
+[A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2]
+d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2] B/2 d/2
+^f/2 b/2 d/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2
+g/2 [^F3z/2] B/2 d/2 ^f/2 a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2
+[^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2]
+^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2
+d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2] B/2 d/2 ^f/2
+a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2
+[G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2]
+B/2 d/2 ^f/2 b/2 d/2 [A3z/2] d/2 ^f/2 a/2 d/2 ^f/2 [A3z/2] d/2 ^f/2
+a/2 d/2 ^f/2 [A3z/2] e/2 a/2 ^c/2 e/2 a/2 [A3z/2] e/2 a/2 ^c/2 e/2
+a/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2
+[^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2 d/2 ^f/2
+[^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2 [^F3z/2]
+B/2 d/2 ^f/2 a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2] B/2 d/2
+^f/2 b/2 d/2 [G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2
+d/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [A3z/2] d/2 ^f/2 a/2 d/2 ^f/2
+[A3z/2] d/2 ^f/2 a/2 d/2 ^f/2 [A3z/2] e/2 a/2 ^c/2 e/2 a/2 [A3z/2]
+e/2 a/2 ^c/2 e/2 a/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2
+b/2 d/2 g/2 [^F3z/2] ^c/2 ^f/2 a/2 ^c/2 ^f/2 [^F3z/2] ^c/2 ^f/2 a/2
+d/2 ^f/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 b/2 d/2 g/2
+[^F3z/2] B/2 d/2 ^f/2 a/2 d/2 [A3z/2] ^c/2 e/2 a/2 d/2 e/2 [^F3z/2]
+B/2 d/2 ^f/2 b/2 d/2 [G3z/2] d/2 g/2 a/2 ^c/2 ^f/2 [^F3z/2] B/2 d/2
+^f/2 b/2 d/2 [^F3z/2] B/2 d/2 ^f/2 b/2 d/2 [^F3z/2] B/2 d/2 ^f/2 b/2
+d/2 [G25/8z5/8] d/2 g/2 b/2 d/2 g/2 z/8 [^F13/4z/2] B/2 d/2 z/8 ^f/2
+a/2 d5/8 [A27/8z/2] ^c5/8 e/2 a5/8 d/2 e5/8 [^F7/2z5/8] B/2 d5/8
+^f5/8 b/2 d5/8 [G29/8z5/8] d5/8 g5/8 a5/8 ^c/2 z/8 ^f/2 z/8
+[^F15/4z5/8] B5/8 d5/8 ^f5/8 b5/8 ^f5/8 b43/8
+
+X: 4
+%%Orig filename was StarCountyHorn.abc
+T: Star of the County Down-horn (3:33)
+%%part-name Basic Horn
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Star_of_the_County_Down.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
++pp+ z16 z16 z16 z12 ^F3 G3 z ^F D A2 G ^F3 G3 ^F3 ^F3 ^F3 G3 z ^F D A2 G
+^F3 G3 ^F3 ^F3 d2 A A3 A3 A3 ^F3 G3 ^F3 ^F2 z ^F3 G3 z ^F D A2 G ^F3
+G3 ^F3 ^F2 z d2 A A3 A3 A3 ^F3 G3 ^F3 ^F3 ^F3 G3 z ^F D A2 G ^F3 G3
+^F3 ^F2 z ^F3 G3 z ^F D A2 G ^F3 G3 ^F3 ^F3 ^F3 G3 z ^F D A2 G ^F3 G3
+^F3 ^F2 z ^F3 G3 z ^F D A2 G ^F3 G3 ^F3 ^F3 ^F3 G3 z ^F D A2 G ^F3 G3
+^F3 ^F2 z d2 A A3 A3 A3 ^F3 G3 ^F3 ^F3 ^F3 G3 z ^F D A2 G ^F3 G3 ^F3
+^F2 z d2 A A3 A3 A3 ^F3 G3 ^F3 ^F3 ^F3 G3 z ^F D A2 G ^F3 G3 ^F3 ^F2
+z ^F3 G25/8 z9/8 ^F9/8 D9/8 A9/4 G9/8 ^F7/2 G29/8 z/8 ^F15/4 ^F43/8
+
+X: 8
+%%Orig filename was StarCountyLute.abc
+T: Star of the County Down-lute (3:33)
+%%part-name Basic Lute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Star_of_the_County_Down.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z12 [^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z]
+[ae^c] [^cea] [^F2z] [^fdB] [^fdB] [G2z] [Bgd] [Bgd] [^F2z] [a^f^c]
+[a^f^c] [^F2z] [a^f^c] [a^f^c] [^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg]
+[^F2z] [^fdB] [Bd^f] [A2z] [ae^c] [^cea] [^F2z] [^fdB] [Bd^f] [G2z]
+[Bgd] [gdB] [^F2z] [^fdB] [Bd^f] [^F2z] [^fdB] [Bd^f] [^F2z] [Bd^f]
+[Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z] [ae^c] [^cea]
+[^F2z] [^fdB] [^fdB] [G2z] [Bgd] [Bgd] [^F2z] [a^f^c] [a^f^c] [^F2z]
+[a^f^c] [a^f^c] [^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB]
+[Bd^f] [A2z] [ae^c] [^cea] [^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [gdB]
+[^F2z] [^fdB] [Bd^f] [^F2z] [^fdB] [Bd^f] [A2z] [a^fd] [d^fa] [A2z]
+[a^fd] [d^fa] [A2z] [a^ce] [^cea] [A2z] [^cea] [^cea] [^F2z] [^fdB]
+[Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [A^f^c] [A^c^f] [^F2z] [A^c^f]
+[A^c^f] [^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f]
+[A2z] [ae^c] [^cea] [^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [gdB] [^F2z]
+[^fdB] [Bd^f] [^F2z] [^fdB] [Bd^f] [A2z] [a^fd] [d^fa] [A2z] [a^fd]
+[d^fa] [A2z] [a^ce] [^cea] [A2z] [^cea] [^cea] [^F2z] [^fdB] [Bd^f]
+[G2z] [Bgd] [Bdg] [^F2z] [A^f^c] [A^c^f] [^F2z] [A^c^f] [A^c^f]
+[^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z]
+[ae^c] [^cea] [^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [gdB] [^F2z] [^fdB]
+[Bd^f] [^F2z] [^fdB] [Bd^f] [^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg]
+[^F2z] [^fdB] [Bd^f] [A2z] [ae^c] [^cea] [^F2z] [^fdB] [^fdB] [G2z]
+[Bgd] [Bgd] [^F2z] [a^f^c] [a^f^c] [^F2z] [a^f^c] [a^f^c] [^F2z]
+[Bd^f] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z] [ae^c]
+[^cea] [^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [gdB] [^F2z] [^fdB] [Bd^f]
+[^F2z] [^fdB] [Bd^f] [^F2z] [Bd^f] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z]
+[^fdB] [Bd^f] [A2z] [ae^c] [^cea] [^F2z] [^fdB] [^fdB] [G2z] [Bgd]
+[Bgd] [^F2z] [a^f^c] [a^f^c] [^F2z] [a^f^c] [a^f^c] [^F2z] [Bd^f]
+[Bd^f] [G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z] [ae^c] [^cea]
+[^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [gdB] [^F2z] [^fdB] [Bd^f] [^F2z]
+[^fdB] [Bd^f] [A2z] [a^fd] [d^fa] [A2z] [a^fd] [d^fa] [A2z] [a^ce]
+[^cea] [A2z] [^cea] [^cea] [^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [Bdg]
+[^F2z] [A^f^c] [A^c^f] [^F2z] [A^c^f] [A^c^f] [^F2z] [Bd^f] [Bd^f]
+[G2z] [Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z] [ae^c] [^cea] [^F2z]
+[^fdB] [Bd^f] [G2z] [Bgd] [gdB] [^F2z] [^fdB] [Bd^f] [^F2z] [^fdB]
+[Bd^f] [A2z] [a^fd] [d^fa] [A2z] [a^fd] [d^fa] [A2z] [a^ce] [^cea]
+[A2z] [^cea] [^cea] [^F2z] [^fdB] [Bd^f] [G2z] [Bgd] [Bdg] [^F2z]
+[A^f^c] [A^c^f] [^F2z] [A^c^f] [A^c^f] [^F2z] [Bd^f] [Bd^f] [G2z]
+[Bgd] [Bdg] [^F2z] [^fdB] [Bd^f] [A2z] [ae^c] [^cea] [^F2z] [^fdB]
+[Bd^f] [G2z] [Bgd] [gdB] [^F2z] [^fdB] [Bd^f] [^F2z] [^fdB] [Bd^f]
+[^F2z] [Bd^f] [Bd^f] [G17/8z9/8] [Bgd] [Bdg] z/8 [^F17/8z]
+[^f9/8d9/8B9/8] [B9/8d9/8^f9/8] [A9/4z9/8] [a9/8e9/8^c9/8]
+[^c9/8e9/8a9/8] [^F19/8z9/8] [^f5/4d5/4B5/4] [B9/8d9/8^f9/8]
+[G5/2z5/4] [B5/4g5/4d5/4] [g9/8d9/8B9/8] z/8 [^F5/2z5/4]
+[^f5/4d5/4B5/4] [B5/4d5/4^f5/4] [^F43/8B43/8d43/8^f43/8]
+

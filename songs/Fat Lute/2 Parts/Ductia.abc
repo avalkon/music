@@ -1,0 +1,52 @@
+N: TS  2,  10   1
+X: 10
+%%Orig filename was Ductia__Drums1.abc
+T:Ductia (A Limefail production:Danse Royale percussion A French court dance of the 13th century) (0:55)
+%%part-name Basic Drum
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:Ductia (high lo).mid
+%  Transpose:-7
+L:1/4
+Q:120
+K:C
+E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2
+B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E,
+B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D,
+B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2
+[D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2
+E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2]
+E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2
+E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2
+D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2
+[D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2
+E, B,/2 E, B,/2 [D,z/2] E,/2 B,/2 D, B,/2 E, B,/2 E, B,/2 [D,z/2]
+E,/2 B,/2 D, B,/2 [E,B,/2D,/2] [B,/2D,/2] [B,/2E,/2D,/2] D,/2
+
+X: 1
+%%Orig filename was Ductia__Flute2.abc
+T:Ductia (A Limefail production:Danse Royale hi & lo A French court dance of the 13th century) (0:54)
+%%part-name Basic Flute
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:Ductia (high lo).mid
+%  Transpose:-7
+L:1/4
+Q:120
+K:C
+[gc] [g/2c/2] [gc] [f/4^A/4] [e/4=A/4] [f3/2^A3/2] [f^A] z/2 [ad]
+[a/2d/2] [ad] [g/4c/4] [f/4^A/4] [g3/2c3/2] [gc] z/2 [cF] [d/2G/2]
+[f^A] [f/2^A/2] [g/2c/2] [f/4^A/4] [e/4=A/4] [f/2^A/2] [e=A] z/2 [gc]
+[g/2c/2] [gc] [f/4^A/4] [e/4=A/4] [f3/2^A3/2] [f^A] z/2 [ad] [a/2d/2]
+[ad] [g/4c/4] [f/4^A/4] [g3/2c3/2] [gc] z/2 [cF] [d/2G/2] [f^A]
+[e/2=A/2] [dG] [e/2A/2] [dG] z/2 [c'f] [b/2f/2] [ad] [g/2c/2]
+[a3/2d3/2] [ad] z/2 [ad] [d/2G/2] [dG] [e/2A/2] [c3/2F3/2] [cF] z/2
+[cF] [d/2G/2] [f^A] [f/2^A/2] [g/2c/2] [f/4^A/4] [e/4=A/4] [f/2^A/2]
+[e=A] z/2 [c'f] [b/2f/2] [ad] [g/2c/2] [a3/2d3/2] [ad] z/2 [ad]
+[d/2G/2] [dG] [e/2A/2] [c3/2F3/2] [cF] z/2 [cF] [d/2G/2] [f^A]
+[e/2=A/2] [dG] [e/2A/2] [dG] z/2 [f^A] [g/2c/2] [ad] [a/2d/2] [gc]
+[a/2d/2] [dG] z/2 [f^A] [g/2c/2] [f/4^A/4] [e/4=A/4] [f/2^A/2]
+[d/2G/2] [e3/2=A3/2] [eA] z/2 [cF] [d/2G/2] [f^A] [f/2^A/2] [g/2c/2]
+[f/4^A/4] [e/4=A/4] [f/2^A/2] [e=A] z/2 [f^A] [g/2c/2] [ad] [a/2d/2]
+[gc] [a/2d/2] [dG] z/2 [f^A] [g/2c/2] [f/4^A/4] [e/4=A/4] [f/2^A/2]
+[d/2G/2] [e3/2=A3/2] [eA] z/2 [cF] [d/2G/2] [f^A] [e/2=A/2] [dG]
+[e/2A/2] [dG]
+

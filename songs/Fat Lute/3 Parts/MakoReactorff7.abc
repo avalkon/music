@@ -1,0 +1,117 @@
+N: TS  3,   1   4   8
+X: 1
+%%Orig filename was MakoReactorff7__Flute1.abc
+T:Mako Reactor (ff7) by Nobuo Uematsu (2:48)
+%%part-name Basic Flute
+Z:Orelion of Riddlemark
+Q:1/4=80
+K:C
+z8  z8
+z8  z8
+z8  z8
+z8  z8
+z8  z8
+z8  z8
+[_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z  [_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z
+[_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z  [_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z
+z2_BzAz3  z2FzGz3
+z2_BzAzFz  Gz3[_B,2G2][A,2D2]
+[_B,2G2]_BzAz3  z2FzGz3
+z2_BzAzC'z  _Bz3[_B,2G2][A,2D2]
+[_B,2_D2F2]_D'zC'z3  z2_Az_Bz3
+z2_D'zC'z_Az  _Bz3[B,2_D2F2][_A,2C2_E2]
+[_B,2_D2F2]_D'zC'z3  z2_Az_Bz3
+z2_D'zC'z_E'z  _D'z3[B,2_D2F2][C2_E2_A2]
+z8  z8
+z8  z8
+z8  z8
+z8  z8
+[_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z  [_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z
+[_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z  [_E,G,C]z[_E,G,C]z[_D,F,_B,]z[_D,F,_B,]z
+z2_BzAz3  z2FzGz3
+z2_BzAzFz  Gz3[_B,2G2][A,2D2]
+[_B,2G2]_BzAz3  z2FzGz3
+z2_BzAzC'z  _Bz3[_B,2G2][A,2D2]
+[_B,2_D2F2]_D'zC'z3  z2_Az_Bz3
+z2_D'zC'z_Az  _Bz3[B,2_D2F2][_A,2C2_E2]
+
+X: 4
+%%Orig filename was MakoReactorff7__Horn2.abc
+T:Mako Reactor (ff7) by Nobuo Uematsu (3:12)
+%%part-name Basic Horn
+Z:Orelion of Riddlemark
+Q:1/4=80
+K:C
+z8  z8
+z8  z8
+z2G_A_BG'z2  z8
+z2G_A_BG'zF'  _B'z_D'z5
+z2G_A_BG'z_E'  z8
+z2FG_A_D'zB  C'z7
+z8  z8
+z8  z8
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[F'A']z[F'A']z
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[G'_B']z[F'A']z
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[F'A']z[F'A']z
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[G'_B']z[F'A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[_E'_A']z[_E'_A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[F'_B']z[_E'_A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[_E'_A']z[_E'_A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[F'_B']z[_E'_A']z
+z2G_A_BG'z2  z8
+z2G_A_BG'zF'  _B'z_D'z5
+z2G_A_BG'z_E'  z8
+z2FG_A_D'zB  C'z7
+z8  z8
+z8  z8
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[F'A']z[F'A']z
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[G'_B']z[F'A']z
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[F'A']z[F'A']z
+Gz[G'_B']z[F'A']z[F'A']z  Gz[G'_B']z[G'_B']z[F'A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[_E'_A']z[_E'_A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[F'_B']z[_E'_A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[_E'_A']z[_E'_A']z
+_B,z[F'_B']z[_E'_A']z[_E'_A']z  _B,z[F'_B']z[F'_B']z[_E'_A']z
+z2G_A_BG'z2  z8
+z2G_A_BG'zF'  _B'z_D'z5
+
+X: 8
+%%Orig filename was MakoReactorff7__Lute3.abc
+T:Mako Reactor (ff7) by Nobuo Uematsu (3:12)
+%%part-name Basic Lute
+Z:Orelion of Riddlemark
+Q:1/4=160
+K:C
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+[C,6C'6_E'6G'6]C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+[C,6C'6_E'6G'6]C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+z16  z16
+[C,6C'6_E'6G'6]C,C,C,4C,4  C,16
+C,6C,C,C,4C,4  C,16
+

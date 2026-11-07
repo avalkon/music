@@ -1,0 +1,36 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was Always-Always-Harp.abc
+T:Always (2:56)
+C:Composer:Eleilinde
+N:For Eowine
+Q:1/4=96
+M:3/4
+L:1/8
+%%part-name Basic Harp
+K:C
+A3 B ce |[F3A3] B [cE2] e |[f3D6] d B2 |[d3F3] e [dE2] B |
+[F3d3] e [dE2] B |[A,3c3] B [cE2] B |[A6C6] |[A,A]E [zA4] B ce |[FA]C [zF4] B ce |
+[fD]A, [D4z] e d2 |z2 [^G4E]B, [E2-z] B |[E2d]e [^G4B,]G [zE2-] B |[dE2] e [c4A,]E [zA,2-] B |
+[cA,2] B [zA4-] E A,E |[A,A4] E FE FE |[A,A][EB] [cF4] B3/2 A/B |[A,E6] E FE FE |
+[^GB][Dc] [Ed]c [EB][cF] |[FA6] A FE [D2-z2] |[dD4] e fe dc |[B6E]B EA [z2B2-] |
+[BB4] c dc3/2 B/c |[A6A,]E Ac ea |B4 ec |[B2A,6E6F6] A2 ec |
+[B2A,6E6F6] A2 fc |[B2F6A,6D6] A2 fc |[B2F6A,6D6] A2 ec |[B2E6^G6B,6D6] G2 dB |
+[^G2E6B,6D6] E2 cB |[cA,6] B A4 |[e/A,4] c/B/A/ [e/A,4] c/B/A/ [e/A,2] c/B/A/ |
+[e/A,4] c/B/A/ [A,/e/]c/B/A/ [e/A,2] c/B/A/ |[f/F4] c/B/A/ [F/f/]c/B/A/ [f/F2] c/B/A/ |
+[D4f/]c/B/A/ f/c/B/A/ [f/D2] c/B/A/ |[d/E4] B/^G/E/ d/B/G/E/ [d/E2] B/G/E/ |
+[d/B,4] B/^G/E/ d/B/G/E/ [d/B,2] B/G/E/ |[c/A,6] B/c/e/ a/e/c/B/ A/E/C/B,/ |[A4A,4] EA |
+[B2A,6] B2 AB |[c2F6] c2 Bc |[d2E6] d2 cB |[A,A4] E Ac e A |B6 |
+BA BA EA |[DF]A, DF DF |Ac BA FA |[Ee4] B, EF AB |
+c2 B4 |[A,A]E [zA4] B ce |[FA]C [zF4] B ce |[Df]A, [zD4] e d2 |
+z2 [E^G4] B, [zE2-] B |[dE2] e [B^G4] G [zE2-] B |[dE2] e [A,c4] E [zA,2-] B |[cA,2] B [zA4-] E AE |
+[A,4A4] z2 |Ae Ae Ae |Ae Ae [A,A][Ee] |[AF6] e Ae Ae |
+Ae Ae [A,A][Ee] |[dF6] A dA dA |[A,d]A [dF4] A dA |[d^G6] G c2 B2 |
+[A,A6] E FE FE |[A,A][EB] [cF4] B3/2 A/B |[A,E6] E FE FE |[^GB][Dc] [Ed]c [EB][Fc] |
+[FA6] A, FE [z2D2-] |[dD4] e fe dc |[EB6] B, EA [z2B2-] |[BB4] c dc3/2 B/c |
+[A,A6] E Ac ec |B6 |BA BA EA |[DF]A, DF df |
+ac' ba fa |[Ee4] B, EF AB |c2 B4 |[A,A]E [zA4] B ce |
+[FA]C [zF4] B ce |[Df]A [zD4-] e d2- |[d2D2] [E^G]B, [zE2-] B |[d2E4] e2 [E^G]B, |
+[zE6] B d2 e2 |[A,c]E [zA4] B ce |[A,a6-] E Ac fa |[c2a2] B2 [A2-A,2-] |[A4A,4] z2 |]
+     %End of file
+

@@ -1,0 +1,253 @@
+N: TS  2,   9   5
+X: 9
+%%Orig filename was ComeLittle2Ages.abc
+T: Come Little Children (duet v2.1) (2:38) - Lute of Ages
+%%part-name Lute of Ages
+Z: Raymiond of Gladden
+M: 3/4
+Q: 120
+K: C maj
+
++fff+ z6 |
+z6 |
+z6 |
+z6 |
+c2 [c2^d2] [c2=d2f2] |
+[c2^d2g2] [c2d2g2] [c2d2g2] |
+[G3d3^a3] [Gd=a] [G2d2g2] |
+[A6d6f6] |
+[c2f2^g2] [c2^d2=g2] [^G2=d2f2] |
+% Bar 10 (0:13)
+[G3c3^d3] [G=df] [G2c2^d2] |
+[A6c6d6] |
+[B6d6g6] |
+c2 [c2^d2] [c2=d2f2] |
+[c2^d2g2] [c3d3g3] [cdg] |
+[G2d2^a2] [G3d3=a3] [Gdg] |
+[A6d6f6] |
+[c2f2^g2] [c2^d2=g2] [^G2=d2f2] |
+[G3c3^d3] [G=df] [G2c2^d2] |
+[G4-c4d4-] [G2B2d2] |
+% Bar 20 (0:28)
+c6- |
+c4 z2 |
+[^d2-g2-c'2] [d2-g2-b2] [d2g2c'2] |
+[c6^d6g6] |
+[^d2-g2-c'2] [d2-g2-b2] [d2g2c'2] |
+[c6^d6g6] |
+[c2^d2c'2-] [d2-c'2-] [d2f2c'2] |
+[^d2g2] [=d2f2g2] [^d2g2c'2] |
+[d2-^a2-] [d3-=a3^a3-] [dga] |
+[f2-a2] [e2f2g2] [d2f2] |
+% Bar 30 (0:43)
+[f2-^g2-] [f2=g2^g2] [d2f2] |
+[^d3-g3-] [dfg-] [d2g2] |
+d2- [d2-^f2a2] [c2d2f2] |
+[B2g2-] [c2g2-a2] [d2g2b2] |
+[c2^d2c'2-] [d2-c'2-] [d2f2c'2] |
+[^d2g2] [=d2f2g2-] [^d-gc'-] [dgc'] |
+[d2-^a2-] [d3-=a3^a3-] [dga] |
+[f2-a2] [e2f2g2] [d2f2] |
+[f2-^g2-] [f2=g2^g2-] [d2f2g2] |
+[^d3-g3-] [dfg-] [c2d2g2-] |
+% Bar 40 (0:58)
+[B6d6g6] |
+[c2-^d2-c'2] [c2-d2-b2] [c2d2c'2] |
+[c2-g2-c'2] [c2-g2-b2] [c2g2c'2] |
+[^d2-g2-c'2] [d2-g2-b2] [d2-g2c'2] |
+[^d2-g2-c'2] [d2-g2-b2] [d2g2c'2] |
+c2 [^d-g] [=d^df] [c2d2f2] |
+g2 [^dg-] [=dfg] [^d2g2c'2] |
+^a2 [g=a^a] [=a-c'] [d-a^a-] [dga] |
+f2 [f-a] [efg] [d-f-] [dfg] |
+^g2 [f=g^g] [=g^a] [f2^g2c'2] |
+% Bar 50 (1:13)
+^d2 [dg] [=df] [^d2c'2] |
+d2- [d2-a2c'2] [d2^f2a2] |
+[g2-b2] [g2-a2c'2] [d2g2b2] |
+c2 [^d-g] [=d^df] [c2d2f2] |
+g g [^dg-c'] [=dfg] [^d-g] [dg] |
+^a2 [d=a^a] [=a-c'] [ga^a-] [ga] |
+f- [fa] [df-] [efg] [f2a2] |
+^g2- [^dgc'] [=d=g^a] [f2^g2c'2] |
+^d2 [dg] [=df] [c2^d2] |
+[B6d6g6] |
+% Bar 60 (1:28)
+c- [c-^d] [c-=d] [cf] ^d [dg] |
+[df] [f^g] [^d=g] [dgc'] [=dfb] [df^g] |
+[^dgc'] [gc'] [f^gb] [=dfg] [=gc'] [^dgc'] |
+[f^gb] [df] [^d=gc'] [cdg] [=df^g] [Bdf] |
+[^dg] [cd] [=df] [Bdf] ^d [cdg] |
+[df] [Bf^g] [^d=g] [dgc'] [=dfb] [df^g] |
+[^dgc'] [gc'] [f^gb] [=dfg] [=gc'] [^dgc'] |
+[f^gb] [df] [^d=gc'] [cdg] [=df^g] [dfb] |
+[^d2-g2c'2] [d2g2-] [d2g2] |
+[^d2-c'2-] [d2g2c'2-] [d2f2c'2] |
+% Bar 70 (1:43)
+[d2-g2^a2] [d2g2-] [d2g2] |
+[d2-a2] [d2a2-] [e2f2a2] |
+[f2^g2c'2-] [f2-c'2] [f2c'2] |
+[g2c'2] [f2g2] [^dfc'-] [dc'] |
+[d4^f4-] [efc'-] [fc'] |
+[d6g6b6] |
+[^d2-c'2-] [d2g2c'2-] [d2c'2] |
+[^d2-c'2-] [d2g2c'2-] [d2f2c'2] |
+[d2-g2^a2] [d2g2-] [d2g2] |
+[d2-a2] [d2a2-] [e2f2a2] |
+% Bar 80 (1:58)
+[f2^g2c'2-] [f2-c'2] [f2c'2] |
+[g2c'2] [f2g2] [^dfc'-] [dc'] |
+[d6g6b6] |
+[c6-c'6-] |
+[c6-c'6-] |
+[c6c'6] |
+z6 |
+z6 |
+%%z6 |
+c2 [c2^d2] [c2=d2f2] |
+% Bar 90 (2:13)
+[c2^d2g2] [c2d2g2] [c2d2g2] |
+[G3d3^a3] [Gd=a] [G2d2g2] |
+[A6d6f6] |
+[c2f2^g2] [c2^d2=g2] [^G2=d2f2] |
+[G3c3^d3] [G=df] [G2c2^d2] |
+[A6c6d6] |
+[B6d6g6] |
+c2 [c2^d2] [c2=d2f2] |
+[c2^d2g2] [c3d3g3] [cdg] |
+[G2d2^a2] [G3d3=a3] [Gdg] |
+% Bar 100 (2:28)
+[A6d6f6] |
+[c3f3^g3] [c^d=g] [^G2=d2f2] |
+[G3c3^d3] [G=df] [G2c2^d2] |
+[G6c6d6] |
+[B6d6g6] |
+c6- |
+c6 |]
+
+X: 5
+%%Orig filename was ComeLittle2Harp.abc
+T: Come Little Children (duet v2.1) (2:38) - Basic Harp
+%%part-name Basic Harp
+Z: Raymiond of Gladden
+M: 3/4
+Q: 120
+K: C maj
+
++mf+ C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+[C^a-] [G-a] [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-^A] [D3/4d3/4-] d// |
+D A- [A-d] [A-e] [A-f] [A3/4a3/4-] a// |
+F, C- [C-F] [C-G] [C-^G] [C3/4c3/4-] c// |
+% Bar 10 (0:13)
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+D A- [A-d] [A-e] [A-^f] [A3/4a3/4-] a// |
+G, D- [D-G] [D-A] [D-B-] [D3/4B3/4-] B// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-^A] [D3/4d3/4-] d// |
+D A- [A-d] [A-e] [A-f] [A3/4a3/4-] a// |
+F, C- [C-F] [C-G] [C-^G] [C3/4c3/4-] c// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-B] [D3/4d3/4-] d// |
+% Bar 20 (0:28)
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-^A] [D3/4d3/4-] d// |
+D A- [A-d] [A-e] [A-f] [A3/4a3/4-] a// |
+% Bar 30 (0:43)
+F, C- [C-F] [C-G] [C-^G] [C3/4c3/4-] c// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+D A- [A-d] [A-e] [A-^f] [A3/4a3/4-] a// |
+G, D- [D-G] [D-A] [D-B-] [D3/4B3/4-] B// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-^A] [D3/4d3/4-] d// |
+D A- [A-d] [A-e] [A-f] [A3/4a3/4-] a// |
+F, C- [C-F] [C-G] [C-^G] [C3/4c3/4-] c// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+% Bar 40 (0:58)
+G, D- [D-G] [D-A] [D-B] [D3/4d3/4-] d// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-g-] [G3/4g3/4-] g// |
+[C,2-C2-] [C,2-C2-^d2-g2-c'2-] [C,-C-d-g-c'-] [C,3/4C3/4d3/4g3/4c'3/4] z// |
+[C,2-C2-] [C,2-C2-^d2-g2-c'2-] [C,-C-d-g-c'-] [C,3/4C3/4d3/4g3/4c'3/4] z// |
+[G,2-G2-] [G,2-G2-d2-g2-^a2-] [G,-G-d-g-a-] [G,3/4G3/4d3/4g3/4a3/4] z// |
+[D,2-D2-] [D,2-D2-d2-f2-a2-] [D,-D-d-f-a-] [D,3/4D3/4d3/4f3/4a3/4] z// |
+[F,2-F2-] [F,2-F2-f2-^g2-c'2-] [F,-F-f-g-c'-] [F,3/4F3/4f3/4g3/4c'3/4] z// |
+% Bar 50 (1:13)
+[C,2-C2-] [C,2-C2-^d2-g2-c'2-] [C,-C-d-g-c'-] [C,3/4C3/4d3/4g3/4c'3/4] z// |
+[D,2-D2-] [D,2-D2-d2-^f2-a2-] [D,-D-d-f-a-] [D,3/4D3/4d3/4f3/4a3/4] z// |
+[G,2-G2-] [G,2-G2-d2-g2-b2-] [G,-G-d-g-b-] [G,3/4G3/4d3/4g3/4b3/4] z// |
+[C,2-C2-] [C,2-C2-^d2-g2-c'2-] [C,-C-d-g-c'-] [C,3/4C3/4d3/4g3/4c'3/4] z// |
+[C,2-C2-] [C,2-C2-^d2-g2-c'2-] [C,-C-d-g-c'-] [C,3/4C3/4d3/4g3/4c'3/4] z// |
+[G,2-G2-] [G,2-G2-d2-g2-^a2-] [G,-G-d-g-a-] [G,3/4G3/4d3/4g3/4a3/4] z// |
+[D,2-D2-] [D,2-D2-d2-f2-a2-] [D,-D-d-f-a-] [D,3/4D3/4d3/4f3/4a3/4] z// |
+[F,2-F2-] [F,2-F2-f2-^g2-c'2-] [F,-F-f-g-c'-] [F,3/4F3/4f3/4g3/4c'3/4] z// |
+[C,2-C2-] [C,2-C2-^d2-g2-c'2-] [C,-C-d-g-c'-] [C,3/4C3/4d3/4g3/4c'3/4] z// |
+[G,2-G2-] [G,2-G2-d2-g2-b2-] [G,-G-d-g-b-] [G,3/4G3/4d3/4g3/4b3/4] z// |
+% Bar 60 (1:28)
+[C,4-C4-] [C,-C-] [C,3/4C3/4] z// |
+[C,4-C4-] [C,-C-] [C,3/4C3/4] z// |
+[C,4-C4-] [C,-C-] [C,3/4C3/4] z// |
+[C,4-C4-] [C,-C-] [C,3/4C3/4] z// |
+[C,2-C2-] [C,2-C2-c2-c'2-] [C,-C-c-c'-] [C,3/4C3/4c3/4c'3/4] z// |
+[C,2-C2-] [C,2-C2-c2-c'2-] [C,-C-c-c'-] [C,3/4C3/4c3/4c'3/4] z// |
+[C,2-C2-] [C,2-C2-c2-c'2-] [C,-C-c-c'-] [C,3/4C3/4c3/4c'3/4] z// |
+[C,2-C2-] [C,2-C2-c2-c'2-] [C,-C-c-c'-] [C,3/4C3/4c3/4c'3/4] z// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+% Bar 70 (1:43)
+G, D- [D-G] [D-A] [D-^A] [D3/4d3/4-] d// |
+D A- [A-d] [A-e] [A-f] [A3/4a3/4-] a// |
+F, C- [C-F] [C-G] [C-^G] [C3/4c3/4-] c// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+D A- [A-d] [A-e] [A-^f] [A3/4a3/4-] a// |
+G, D- [D-G] [D-A] [D-B-] [D3/4B3/4-] B// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-^A] [D3/4d3/4-] d// |
+D A- [A-d] [A-e] [A-f] [A3/4a3/4-] a// |
+% Bar 80 (1:58)
+F, C- [C-F] [C-G] [C-^G] [C3/4c3/4-] c// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+G, D- [D-G] [D-A] [D-B] [D3/4d3/4-] d// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+C G- [G-c] [G-d] [G-^d] [G3/4g3/4-] g// |
+c'6- |
+c'4- c'3/2 z/ |
+%%z6 |
+z6 |
+% Bar 90 (2:13)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 100 (2:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+

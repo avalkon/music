@@ -1,0 +1,51 @@
+N: TS  2,   8  21
+X: 8
+%%Orig filename was 100Years__Lute1.abc
+T:100YearsLute1      (5:39)
+%%part-name Basic Lute 1
+C:Five for Fighting     
+N:  
+Q:1/4=120     
+M:4/4    
+L:1/8     
+K:C
+z8 |[G,6G6z2] g2 [zg4g4] B [G,2z] c |[gCG,8] G c[CB] c [d3z] [C2z] G |[A,dG,8] G g [A,2g10922/4096] B g5461/4096 [zA,2] [cg] |[gDG,8] [zG4] c[DB] cd [D2c]B |[B,G,8] g G [g10922/4096B,2] [Gd3] g5461/4096 B,[BGg] |
+[G,8zgE4d] G BG [GB]c [dE][eG] |[G,8A,]G B [B2A,2G2] [BG] [zA,2] [GB] |[G,8D]A B[Gd] D^F DG |[zG,8] g G [G2g2] [GB] [G2z] [gc] |[G,8C]G c[CB] c [zd3] [zC2] G |[G,8A,d] G g [A,2g10922/4096] B g5461/4096 [A,2z] [Gcg] |
+[G,8Dg] [zG4] c[DB] cd [cD2] B |[G,8B,]g G [g10922/4096B,2] [d3G] g5461/4096 B,[GgB] |[G,8E4zdg] G BG [GB]c [Ed][eG] |[G,8A,]G B [A,2G2B2] [BG] [A,2z] [BG] |[G,8D]A B[dG] D^F DG |[zG,8] g G [G2g2] [GB] [G2z] [gc] |
+[CG,8] G c[CB] c [d3z] [zC2] G |[A,dG,8] G g [g10922/4096A,2] B g5461/4096 [A,2z] [Ggc] |[DgG,8] [G4z] c[BD] cd [D2c]B |[B,G,8] g G [B,2g10922/4096] [d3G] g5461/4096 B,[BGg] |[dzE4G,8g] G BG [BG]c [Ed][Ge] |
+[G,8A,]G B [G2A,2B2] [BG] [A,2z] [BG] |[G,8D]A B[Gd] D^F DG |[G,8zG,8] [zG4] D g2 D G^F |[G,4D,]D A, [E2C,2] C [z2G,2] |[G,8zG,8] [G4z] D g2 D G^F |[D,G,8] D A, [C,2E2] C g2 |[zG,8G,8] [zG4] D g2 D G^F |
+[D,G,8] D A, [C,2E2] C g2 |[E,4E,4B,4E4G4G,8] [D,A,EGD,4] ^F D2 |[C,8C,8C8D8G8G,8] |[G,8C,8C,8C8D8G8] |[z8G,8] |[GG,8] D G [z2G4] g [zD2] g |[G2D2G,8] [A,3D3G3] [A,2D2^F2] [A,DF] |
+[DA,^FG,8] D A, [G2D2E2] G [zC2] G |[G2D2G,8] [D2G2] [^F3D3] [DG] |[z2D,6G,8G,8] G B,2 G2 B, |[z2G,6C,8G,8] C D2 C3 |[G,G,8] G, G G2 D3 |[z2D,8A,8G,8] C [z2G4] C2 D |[z2D,6B,8G,8] [z2G4] B4 |
+[z2E,8B,8G,8] E [z2B4] G [E2G2] |[G,8z2A,8A,6] C [E4z2] C2 A |[G,8z3] [GDG] [GDG][^F,D^F] [FF,D][DGG] |[G,8G,DG] [G2G2] [G2G2] B,2 C |[G,8z2] CB, CD B,C |[G,8A,]G G G2 D2 A,|[G,8A,]A, G^F GF DB, |
+[G,8B,] G2 G2 D EG |[G,8E,]G B, E,2 z3 |[G,8z2A,4C6] [zE4] G2 A,3 |[G,8A,] D2 [G2G2] [^F,2^F2] [GG] |[G,8G,G] [G2G2] [G2G2] [G2G2] ^F |[G,8^F] D2 [z2E4] C2 D |[G,8D] [D2G2] D2 G2 ^F |
+[G,8^F] D2 E2 C2 [B,EG] |[G,8B,EG] [B,2E2G2] [B,2E2G2] [B,2E2G2] [A,D^F] |[G,8A,D^F] [A,2D2^F2] [A,2D2F2] [A,2D2F2] [GDE]|[G,8G,DE][GC] [DGB] [D2G2B2] [D2G2] [CG] |[G,8D2G2] [C2G2] [D2G2] z2 |
+[G,8z7] [E^F] |[G,8D2E2^F] E,2 C2 [z2D2] |[G8z21845/4096D8] z5461/4096 z2730/4096 z2 [z//D/]E// |[G,8^F]E D E2 G2 [B,EG] |[G,8B,4E4G4] G^F D[CDG] |[G,8C4D4G4] z4 |[G,8z8] |[G,8z8] |
+[GG,8] D G [G2C2D2] G E,G |[z2D,8A,8G,8] [zD6] [A2d2^F2] [A3d3] |[G,8zE,6] [B,DB,4] [zE4] [B,4D4] [A,CE] |[A,3C3E3G,8] [A,/G3] E D2 DG/|[G,8G]D GD [zG4] D A,2 |[G,4A,] G2 G2 ^F2 G |
+[z2G6G,8] g [g2g10922/4096] B g5461/4096 [zG2] [cg] |[CgG,8] G c[CB] c [zd3] [zC2] G |[A,dG,8] G g [A,2g10922/4096] B g5461/4096 [zA,2] [cg] |[DgG,8] [zG4] c[DB] cd [zD2] G |[zG,8] g G [g2G2] [GB] [zG2] [gc] |
+[CG,8] G c[CB] c [zd3] [zC2] G |[A,dG,8] G g [A,2g10922/4096] B g5461/4096 [zA,2] [Gcg] |[DgG,8] [zG4] c[DB] cd [cD2] B |[B,G,8] g G [B,2g10922/4096] [Gd3] g5461/4096 B,[BGg] |[zE4dgG,8] G BG [GB]c [Ed][Ge] |
+[A,G,8] G B [A,2G2B2] [GB] [zA,2] [GB] |[DG,8] A B[Gd] D^F DG|[GG,8] G D G2 D2 ^F |[^FG,8] E2 [z2E4] C [zG2] C |[B,G,8] [zG4] B, g2 B, [zG2] ^F |[^FG,4] E2 E2 C [z2G,2] |[zG,8] G [zD6] G [z3G4] ^F |
+[^FG,4G,8] E2 E2 C G,2 |[B,G,8] [zG4] B, g2 B, [zG2] ^F |[^FG,8] E2 E2 C g2 |[G,DG,8] [G,2D2] [G,3D3] [DG,][DG,] |[G,DG,8] [G,2D2] G,2 ^F, D,B, |[G,DG,8] [G,2D2] [G,3D3] [G,D][G,D] |[G,8G,D] [G2D2] g2 ^F, [C,D,]A, |
+[G,8G,D] [G2D2] [G3D3] [GD][A,D] |[G,8A,D] [A,2D2] [G2D2] [^F,2D2] [E,B,D]|[G,8E,B,D]D [DGB] [D2G2B2] [D2G2B2] [DGB] |[G,8z] [G2B2d2] [G2B2d2] G2 [B,DG] |[G,8B,2D2G2] [B,3D3G3] B, [zD2] G |
+[G,8D3^F3A,3] [A,2D2G2] [A,2D2F2] A, |[G,8B,3E3G3] [B,2E2G2] B, [zE2] G |[G,8C2D2G2] [C3D3G3] C2 [B,DG] |[G,8B,3D3G3] [B,2D2G2] B, DG |[G,8A,2D2^F2] [A,3D3G3] F [zD2] A, |[G,8B,4E4G4] [A,2D2^F2] [G2C2E2] |
+[G,8G,4C4E4] z4 |[G,8z8] |[G,8z8] |[z2G4G,6] g2 [zg4G4] B [zG,2] [Dc] |[CgG,8] G c[CB] c [zd3] [zC2] G |[A,dG,8] G g [A,2g10922/4096] B g5461/4096 [zA,2] [Gcg] |[DgG,8] [zG4] c[DB] c2 d2 |
+[d8G,8] |[dG,4] z7 |]
+
+X: 21
+%%Orig filename was 100Years__Lute2.abc
+T:100YearsLute2      (3:52)
+%%part-name Basic Lute 2
+C:Five for Fighting     
+N:   
+Q:1/4=120     
+M:4/4  
+L:1/8     
+K:C
+z8 |z8 |z8 |z8 |z8 |z8 |z8 |z8 |z8 |z G2 G2 B,2 C- |C2 CB, C D2 z |z2 G G2 B,2 C |z2 CB, CD CB, |F2 F2 [z3D4] B,- |B,4 B,C DE |z2 B, B,2 B,2 B,- |B, A,2 z10922/4096- z5461/4096- z |z2 G G2 B,2 C |z2 CB, C D2 z |
+z2 G, G2 B,2 C |z2 CB, CD CB, |F2 F2 D2 B,2 |z4 B,C DE- |E3 B,2 B,2 B,- |B,2 z6 |z3 B2 A2 A |z A2 A3 GG |z3 A4 A |z A2 A2 G2 G/E/ |D3 B2 A2 G |z3 B, B,B, DE- |E4 A,2 G,G,- |G,6 D,D, |A,2 A, A,2 A,3-|
+A,G, G,4 ^F,G,- |G, z7 |z8 |z8 |z8 |z G2 G2 B,2 C- |C2 CB, C D2 z |z2 G, G2 B,2 C |z2 CB, CD CB,- |B,4 B,C DD- |D2 B,3 z2 G, |C2 C C2 B,2 B,- |B,2 z6 |z2 G, G2 B,2 C |z2 CB, C D2 z |z2 G, G2 B,2 C |z2 CB, CD CB,- |
+B, G2 G2 D2 B,- |B,4 B,C DE- |E2 B,2 B,4 |B,6 z2 |z3 B2 A2 A |A2 G4 G2 |z3 A3 AA |A2 A3 G2 G- |G ^F2 D3 B,B, |B,2 B,4 A,A,- |A,2 z6 |z8 |z3 B2 A2 A |A2 A4 GG |z3 B2 A2 G- |G4 B,B, DE- |E4 A,2 G,G,- |
+G,6 D,D, |A,2 A, A,2 A,3-|A,G, G,4 ^F,G, |z2 G,2 G, G,2 A, |z2 A,A, A, A,2 B, |z2 B,B, B,B, B,C |z2 CC CB, A,G,-|G,G, G,G, G,G, G,A,- |A, z2 G, G,2 ^F,2 |G,8 |z8 |z8 |z8 |z G2 G2 B,2 C- |C2 CB, C D2 z |
+z3 G2 B,2 C-|CB, CB, CD CB, |G2 G3 D2 B,- |B,4 B,C DE- |E3 B, B, B,2 B,- |B, A,2 z10922/4096- z5461/4096- z |z3 B2 A2 A |z A2 A3 GG- |G2 A4 A2 |A2 A3 G2 G/E/ |D2 A4 AA |A2 A2 A2 A2 |z3 A3 AA |A3 A2 A2 ^F- |
+^F G2 G3 ^FF- |^F G2 z10922/4096- z5461/4096- z |^F G2 G3 FF- |^F G2 z10922/4096- z5461/4096- z |^F G2 G3 FF- |^F G2 G2 ^F [z2-G2-] |[z7G8] E |G8 |z3 B2 A2 A |z A2 A3 GG- |G2 A4 AA |A2 A2 G2 G2 |D3 B2 D2 z |
+z3 B, B,B, DE- |E4 A,2 G,2 |G,6 D,D, |A,2 A, A,2 A,3-|A,G, G,2 z2 ^F,G,- |G, z7 |]
+

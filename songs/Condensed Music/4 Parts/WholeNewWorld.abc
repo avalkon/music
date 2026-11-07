@@ -1,0 +1,400 @@
+%abc-2.1
+%%song-title       Whole New World
+%%song-composer    Alan Menken w/ Tim Rice
+%%song-duration    2:30
+%%song-transcriber Raymiond of Gladden
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:40:31
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title: Alan Menken w/ Tim Rice - Whole New World
+N: TS  4,   9  5  3 11
+I:decoration +
+
+X: 9
+T: Whole New World (2:30) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+%%user-pan auto
+C: Alan Menken w/ Tim Rice
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+L: 1/8
+K: C maj
++f+ z8 |
+z3 a ^f g e f- |
+[d15/2^f15/2] z/ |
+a15/4 z// g2 ^f2 |
+A2 G B2 A G2 |
+^F3 z5 |
+A2 G B19/4 z// |
+[G15/4d15/4] z// A15/4 z// |
+B11/4 z// ^A19/4 z// |
+% Bar 10 (0:18)
+^c2 B2 A2 B2 |
+G2 z6 |
+A3 A- [A7/4d7/4-] d// [G2^c2e2] |
+A2 G B2 A G2 |
+^F3 z5 |
+A2 G B19/4 z// |
+[G15/4d15/4] z// A15/4 z// |
+B11/4 z// ^A19/4 z// |
+^F15/2 z/ |
+z3 B15/4 z// d- |
+% Bar 20 (0:38)
+d11/4 z// d e2 g2 |
+^c A c d e2 A2 |
+[d11/4^f11/4] z// d e2 g2 |
+[A11/4^c11/4] z// [A19/4c19/4] z// |
+e2 A2 d15/4 z// |
+a2 g2 e2 d2 |
+a2 g2 e2 d2 |
+[A15/4d15/4] z// A z [^G2B2] |
+[G2B2-] B3/4 z// d e2 g2 |
+^c A c d e2 A2 |
+% Bar 30 (0:58)
+[d11/4^f11/4] z// d e2 g2 |
+[^ce] z2 [c2e2] z2 [ce] |
+[B15/4d15/4] z// c15/4 z// |
+a2 g2 e2 d2 |
+a2 b2 e2 d2 |
+d2 A2 A2 ^G2 |
+e2 ^f2 G15/4 z// |
+d e2 g2 ^f2 b- |
+b a2 e11/4 z// d2 |
+c'2 ^A d2 c A2 |
+% Bar 40 (1:18)
+A11/4 z// ^A19/4 z// |
+c2 ^A d2 c =A2 |
+[^A15/4f15/4] z// c15/4 z// |
+d15/4 z// d2 ^c2 |
+e2 d2 A15/4 z// |
+d15/2 z/ |
+c11/4 z// c g2 ^a2 |
+e2- [e-a] [e-a] [e5/4-a5/4] [e5/4-g5/4] e//- [e3/4f3/4-] f/ |
+A11/4 z// f g2 ^a2 |
+[c2-e2-] [c-e-a] [c-e-a] [c5/4-e5/4-a5/4] [c5/4-e5/4-g5/4] [c//-e//] [c3/4e3/4-] e/ |
+% Bar 50 (1:38)
+g f11/4 z// f15/4 z// |
+c'2 ^a2 g2 f2 |
+c'2 ^a2 g2 f2 |
+c15/4 z// c2 B2 |
+[d3-f3-] [d-f-a] [d2f2-^a2] [d3/2-f3/2] d/ |
+[e15/2c'15/2] z/ |
+A11/4 z// [fa] [g2^a2] [d2a2] |
+[e-c'] [e2-g2] [e3/4^a3/4-] a//- [e-a] [e2-=a2] [e3/4a3/4-] a//- |
+[d15/4a15/4] z// [^d5/4-f5/4] [d5/4-g5/4] d//- [da-] a// |
+c'2 ^a2 [g2=a2] f2 |
+% Bar 60 (1:58)
+c'2 d2 [g2a2-] [f7/4-a7/4] f// |
+[c2-c'2] [c2-c'2] [c7/4b7/4-] b// [B2b2] |
+[^d2g2-] [d-g-] [d3/4g3/4c'3/4-] c'// [^A2=d2c'2] [A2e2^a2] |
+[A15/2d15/2f15/2a15/2] z/ |
+[A11/4c11/4f11/4] z// [fa] [g2^a2] [d2a2] |
+[d15/2f15/2c'15/2] z/ |
+[c11/4f11/4] z// a ^a2 d2 |
+[c15/2f15/2c'15/2] z/ |
+[c11/4f11/4] z// a ^a2 d2 |
+[c15/2f15/2c'15/2] z/ |
+% Bar 70 (2:18)
+[c11/4f11/4^a11/4c'11/4] z// c =a2 g2 |
+[a2c'2] [g^a] [d2a2] [=ac'] [f2^a2] |
+[a2c'2-] [gc'-] [^a2c'2-] [=ac'-] [f3/2-c'3/2] f/ |
+[a2c'2] [g^a] [d2a2] [=ac'] [f2^a2] |
+[f15/4c'15/4] z// A c f g |
+a//- [a//-c'//-] [f//-a//-c'//] [f17/4a17/4c'17/4] |]
+
+
+X: 5
+T: Whole New World (2:30) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+%%user-pan auto
+C: Alan Menken w/ Tim Rice
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+L: 1/8
+K: C maj
++f+ D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+B,15/4 z// ^C15/4 z// |
+G,11/4 z// ^F,11/4 z// ^A,2 |
+% Bar 10 (0:18)
+B,15/4 z// A,15/4 z// |
+G,- [G,-D] [G,-G-] [G,9/2G9/2A9/2-] A// z// |
+D,23/4 z// A,2 |
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+B,15/4 z// ^C15/4 z// |
+G,11/4 z// ^F,11/4 z// ^A,2 |
+B,15/4 z// A,15/4 z// |
+G,- [G,-D] [G,11/2G11/2-] G// z// |
+% Bar 20 (0:38)
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+A,11/4 z// B, ^C2 A,2 |
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+A,11/4 z// ^C11/4 z// A,2 |
+D15/2 z/ |
+G, D G2 ^F15/4 z// |
+G, D G2 ^F15/4 z// |
+B,15/4 z// E15/4 z// |
+A,2- [A,11/2G11/2-] G// z// |
+A,11/4 z// B, ^C2 A,2 |
+% Bar 30 (0:58)
+D,- [D,-A,] [D,11/2D11/2-] D// z// |
+A,11/4 z// ^A,11/4 z// A,2 |
+B,15/4 z// [D,15/4D15/4] z// |
+G, D G2 ^F15/4 z// |
+G, D G2 ^F15/4 z// |
+[B,15/4^F15/4] z// E,15/4 z// |
+C15/4 z// A,15/4 z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+D,- [D,-A,] [D,-E] [D,9/2^F9/2-] F// z// |
+F,- [F,-C] [F,11/2F11/2-] F// z// |
+% Bar 40 (1:18)
+F,- [F,-C] [F,-F] [F,9/2G9/2-] G// z// |
+F,- [F,-C] [F,11/2F11/2-] F// z// |
+D15/4 z// E15/4 z// |
+^A,15/4 z// =A,15/4 z// |
+D15/4 z// C15/4 z// |
+^A,- [A,-F] [A,11/2^A11/2-] A// z// |
+F,- [F,-C] [F,11/2F11/2-] F// z// |
+C11/4 z// D E2 C2 |
+F,- [F,-C] [F,11/2F11/2-] F// z// |
+C11/4 z// E11/4 z// C2 |
+% Bar 50 (1:38)
+F23/4 z// F2 |
+^A, F ^A2 =A15/4 z// |
+^A, F ^A2 =A15/4 z// |
+D15/4 z// G,15/4 z// |
+C- [C-F] [C11/2^A11/2-] A// z// |
+C11/4 z// D E2 C2 |
+F,- [F,-C] [F,11/2F11/2-] F// z// |
+A,15/4 z// [^C15/4^A15/4] z// |
+[D15/4A15/4] z// C15/4 z// |
+^A, F ^A2 =A15/4 z// |
+% Bar 60 (1:58)
+^A, F ^A2 =A15/4 z// |
+[D15/4A15/4] z// G,15/4 z// |
+^D, ^A, ^D2 C, G, C2 |
+D,11/4 z// A, D2 F2 |
+[C,15/2C15/2] z/ |
+^A,15/2 z/ |
+A,- [A,-F] [A,11/2A11/2-] A// z// |
+G,15/2 z/ |
+A,- [A,-F] [A,11/2A11/2-] A// z// |
+^A,15/2 z/ |
+% Bar 70 (2:18)
+C15/2 z/ |
+F,23/4 z// C2 |
+F,15/2 z/ |
+F,23/4 z// C2 |
+F,- [F,-C] [F,-F] [F,-G] F,4- |
+F,5 |]
+
+
+X: 3
+T: Whole New World (2:30) - Basic Clarinet
+%%part-name Basic Clarinet
+%%made-for Basic Clarinet
+%%user-pan auto
+C: Alan Menken w/ Tim Rice
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+L: 1/8
+K: C maj
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+^F2 E G2 F D2 |
+A,15/2 z/ |
+^F2 E G2 F D2 |
+^F15/4 z// E15/4 z// |
+E2 ^D ^F2 E ^C2 |
+% Bar 10 (0:18)
+E2 D2 ^C2 D2 |
+B, ^C2 E2 D2 A,- |
+A,15/2 z/ |
+^F2 E G2 F D2 |
+A,15/2 z/ |
+^F2 E G2 F D2 |
+^F15/4 z// E15/4 z// |
+E2 ^D ^F2 E ^C2 |
+E2 D2 ^C2 D2 |
+B, ^C2 E2 D2 ^F- |
+% Bar 20 (0:38)
+^F11/4 z// F G2 B2 |
+A8- |
+A5/2 z/ ^F G2 B2 |
+A E2 G2 ^F z F- |
+^F15/4 z// F5/4 G5/4 z// A5/4 |
+^C2 B2 A11/4 z// D |
+^C2 B2 A11/4 z// D |
+^F E2 D2 B, D2 |
+E11/4 z// ^F G2 B2 |
+A8- |
+% Bar 30 (0:58)
+A5/2 z/ ^F G2 B2 |
+A E2 G2 ^F z F- |
+^F15/4 z// F5/4 G5/4 z// A5/4 |
+^C2 B2 A11/4 z// D |
+^C2 D2 A11/4 z// D |
+^F2 E2 D2 E2 |
+G2 ^F2 D2 ^C2 |
+D8- |
+D21/4 z11/4 |
+A2 G ^A2 =A F2 |
+% Bar 40 (1:18)
+C15/2 z/ |
+A2 G ^A2 =A F2 |
+A15/4 z// G15/4 z// |
+G2 ^F A2 G E2 |
+G2 F2 E2 F2 |
+D E2 G2 F2 A- |
+A11/4 z// A ^A2 D2 |
+c8- |
+c5/2 z/ A ^A2 D2 |
+c2 G2 ^A11/4 z// =A |
+% Bar 50 (1:38)
+A15/4 z// A5/4 ^A5/4 z// c5/4 |
+E2 D2 c11/4 z// F |
+E2 D2 c11/4 z// A |
+A2 G2 F2 G2 |
+^A2 =A2 F2 D2 |
+G2 A A A5/4 G5/4 z// F5/4 |
+C15/2 z/ |
+z2 A A A5/4 G5/4 z// F5/4 |
+G F11/4 z// A5/4 ^A5/4 z// c5/4 |
+E2 D2 c11/4 z// F |
+% Bar 60 (1:58)
+E2 F2 c15/4 z// |
+A2 G2 F2 G2 |
+^A2 =A2 F2 E2 |
+F8- |
+F3/2 z13/2 |
+z3 A ^A2 D2 |
+c8- |
+c5/2 z/ A ^A2 D2 |
+c15/2 z/ |
+z3 A ^A2 D2 |
+% Bar 70 (2:18)
+c2 z C F2 E2 |
+F8- |
+F8- |
+F4- F11/4 z5/4 |
+z8 |
+z5 |]
+
+
+X: 11
+T: Whole New World (2:30) - Bardic Fiddle
+%%part-name Bardic Fiddle
+%%made-for Bardic Fiddle
+%%user-pan auto
+C: Alan Menken w/ Tim Rice
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+L: 1/8
+K: C maj
++p+ z8 |
+z8 |
+z8 |
+z8 |
+^F2 E G2 F D2 |
+A,15/2 z/ |
+^F2 E G2 F D2 |
+^F15/4 z// E15/4 z// |
+E2 ^D ^F2 E ^C2 |
+% Bar 10 (0:18)
+E2 D2 ^C2 D2 |
+B, ^C2 E2 D2 A,- |
+A,15/2 z/ |
+^F2 E G2 F D2 |
+A,15/2 z/ |
+^F2 E G2 F D2 |
+^F15/4 z// E15/4 z// |
+E2 ^D ^F2 E ^C2 |
+E2 D2 ^C2 D2 |
+B, ^C2 E2 D2 ^F- |
+% Bar 20 (0:38)
+^F11/4 z// F G2 B2 |
+A8- |
+A5/2 z/ ^F G2 B2 |
+A E2 G2 ^F z F- |
+^F15/4 z// F5/4 G5/4 z// A5/4 |
+^C2 B2 A11/4 z// D |
+^C2 B2 A11/4 z// D |
+^F E2 D2 B, D2 |
+E11/4 z// ^F G2 B2 |
+A8- |
+% Bar 30 (0:58)
+A5/2 z/ ^F G2 B2 |
+A E2 G2 ^F z F- |
+^F15/4 z// F5/4 G5/4 z// A5/4 |
+^C2 B2 A11/4 z// D |
+^C2 D2 A11/4 z// D |
+^F2 E2 D2 E2 |
+G2 ^F2 D2 ^C2 |
+D8- |
+D21/4 z11/4 |
+A2 G ^A2 =A F2 |
+% Bar 40 (1:18)
+C15/2 z/ |
+A2 G ^A2 =A F2 |
+A15/4 z// G15/4 z// |
+G2 ^F A2 G E2 |
+G2 F2 E2 F2 |
+D E2 G2 F2 A- |
+A11/4 z// A ^A2 D2 |
+c8- |
+c5/2 z/ A ^A2 D2 |
+c2 G2 ^A11/4 z// =A |
+% Bar 50 (1:38)
+A15/4 z// A5/4 ^A5/4 z// c5/4 |
+E2 D2 c11/4 z// F |
+E2 D2 c11/4 z// A |
+A2 G2 F2 G2 |
+^A2 =A2 F2 D2 |
+G2 A A A5/4 G5/4 z// F5/4 |
+C15/2 z/ |
+z2 A A A5/4 G5/4 z// F5/4 |
+G F11/4 z// A5/4 ^A5/4 z// c5/4 |
+E2 D2 c11/4 z// F |
+% Bar 60 (1:58)
+E2 F2 c15/4 z// |
+A2 G2 F2 G2 |
+^A2 =A2 F2 E2 |
+F8- |
+F3/2 z13/2 |
+z3 A ^A2 D2 |
+c8- |
+c5/2 z/ A ^A2 D2 |
+c15/2 z/ |
+z3 A ^A2 D2 |
+% Bar 70 (2:18)
+c2 z C F2 E2 |
+F8- |
+F8- |
+F4- F11/4 z5/4 |
+z8 |
+z5 |]
+

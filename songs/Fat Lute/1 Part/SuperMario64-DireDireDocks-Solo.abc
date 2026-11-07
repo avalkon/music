@@ -1,0 +1,23 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was SuperMario64-DireDireDocks-Solo.abc
+T:Super Mario 64 (1:33) - Dire Dire Docks
+C:Koji Kondo
+Z:LD
+M:4/4
+L:1/8
+Q:1/4=130
+%%part-name Unknown Instrument
+K:C
+G,DGA zBzd|[G,G2]D[zG2][dg] z4| F,CFA zBzd|[F,G2]C[zF2][dg]z2C2|
+G,DGA zBzd|[G,G2]D[zG2][dg] z4| F,CFA zBzd|[F,G2]C[zF2][dg]z4|_E,_B,_EA z_Bzd|
+[_E,G2]_B,[z_E2][dg]z4|F,CFA zczd|[F,G2]C[zF2][dg]z2C2|G,DG[BA]Bc[GB][DA]|[F,G2]C[F2D2]C2G2|
+[_E,D2]_B,_EG z2_EG|F,CF2zCC[FC]|[G,B,]DG2 zAz[GB]|G,D[zG2]DzGD2|G,DG[BA]Bc[GB][DA]|
+[F,G2]C[F2D2]C2G2|[_E,D2]_B,_EG zG_EG|F,C[zF2]CzCzC|[G,B,]DG2zAz[DB]|G,B,GBz4|
+CG[zc2]Gedce|[B,d2]G[zB2]GzGB2|A,EAedc[E2B]c|[G,B2]DGGz2D2|CG[zc2]Gedce|
+[B,d2]G[zB2]Gz2B2|_B,G_B2cd[_B2c]=B|A,AG2[DE2]Az2|G,[GD]GABc[GB][CA]|[F,G2]C[F2D2]CC[F2G2]|
+[_E,D2]_B,_EGz2_B,G|F,CF2z2CC|[G,B,]DG2zAGB|G,2Ddz4|G,DG[AB]Bc[GB][DA]|
+[F,G2]C[F2D2]CCG|[_E,D2]_B,_EGzc_B,|F,CF2zCC[A,C]|[G,B,]DG2zAGB|G,DG4[B,2G2]|
+F,CF[A,F]z[A,F][A,F][A,F]|F,[CA,F][A,F][AA,F]z[CA,F][zF,2][A,F]|_E,_B,_E[G_B,]z[C_B,G]_B,[_B,G]|[z_E,4][_B,G]z[_B,G][_E4_B,G][_B,G][_B,G][_B,G]|
+D,A,D[FCG]z[DCG]C[CG]|D,[A,CG]D[FCG]z[DCG]A,2|
+

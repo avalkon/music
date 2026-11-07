@@ -1,0 +1,131 @@
+N: TS  2,   9  13
+X: 9
+%%Orig filename was YourLieAges.abc
+T: Your Lie in April (duet) (1:51) - Lute of Ages
+%%part-name Lute of Ages
+C: Masaru Yokoyama
+Z: Raymiond of Gladden
+M: 4/4
+Q: 102
+K: C maj
+
++f+ [g4c'4] [e3a3] [f-^a-] |
+[f4^a4] [d4f4] |
+[g4c'4] [e3a3] [f-^a-] |
+[f4^a4] [d2g2] [d2a2] |
+[C4G4] [A,3E3] [^A,-F-] |
+[^A,8F8] |
+[A,E] E- E E [CG] G- G [^A,-F-] |
+[^A,8F8] |
+A f g f ^A f g f |
+% Bar 10 (0:21)
+c f g f d f g f |
+A f g f ^A f g f |
+c f g f d f g f |
+A f g f ^A f g f |
+c f g f d f g f |
+A f g f ^A f g f |
+c f g f d f g f |
+%%Q: 98
+[^d408/49f408/49] |
+[d408/49f408/49] |
+[G408/49^d408/49] |
+% Bar 20 (0:44)
+[A408/49f408/49] |
+[^d408/49f408/49] |
+[d408/49f408/49] |
+[G204/49f204/49] [A204/49f204/49] |
+[d204/49^a204/49] [e204/49c'204/49] |
+%%Q: 102
+^A, F c F d F c F |
+^A, F c F d F c F |
+A, F c F d F c F |
+A, F c F d F c F |
+^A, F c F d F c F |
+% Bar 30 (1:09)
+^A, F c F d F c F |
+D A f A e A f A |
+D A e A d A D A |
+^A, F d F c F d F |
+^A, F d F c F d F |
+A, F c F d F c F |
+A, F d F e F f F |
+^A, F c F d F c F |
+C F c F C F d F |
+D A f A D A g A |
+% Bar 40 (1:32)
+D A a A g A f A |
+[F3^A3] c- c2 d2- |
+d e- e2 f4 |
+g3 a- a2 ^a2- |
+^a2 z2 z4 |
+^G//- [G31/4^d31/4] |
+[^F8^c8] |
+z8 |
+z8 |]
+
+X: 13
+%%Orig filename was YourLieSprightly.abc
+T: Your Lie in April (duet) (1:51) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+C: Masaru Yokoyama
+Z: Raymiond of Gladden
+M: 4/4
+Q: 102
+K: C maj
+
++f+ g e/ d/ c G c d e f- |
+f d/ c/ ^A F A c d2 |
+g e/ d/ c G c e g c'- |
+c' ^a a c' f a a d |
+G E/ D/ C G, C D E F- |
+F D/ C/ ^A, F, A, C D2 |
+E,2 A,2 E,2 G, [C,-F,-] |
+[C,F,] D, D, F, F, ^A, A, D |
+[C2F2c2] [C2F2] [C2G2] F2 |
+% Bar 10 (0:21)
+[C2E2] [C2F2] [C2G2] F2 |
+[C2F2c2] [C2F2] [C2G2] F2 |
+[C2E2] [C2F2] [G2e2] [A2f2] |
+[C2F2c2] F2 [G,2G2] F2 |
+[E,2E2] F2 [G,2G2] A2 |
+[A2f2] e2 [F2c2] G2 |
+[C2F2] C2 F2 G2 |
+%%Q: 98
+[^A,204/49F204/49] z51/49 F51/49 E51/49 F51/49 |
+C153/49 F,51/49 F,204/49 |
+^A,204/49 C204/49 |
+% Bar 20 (0:44)
+C204/49 F204/49 |
+[^A,204/49F204/49] z51/49 F51/49 E51/49 F51/49 |
+[C153/49c153/49] F51/49 F51/49 z51/49 z102/49 |
+^A,102/49 C102/49 C102/49 F102/49 |
+F102/49 G102/49 G102/49 c102/49 |
+%%Q: 102
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2c2] |
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2c2] |
+[C3F3c3] [F-f-] [F2f2] [E2e2] |
+[C3F3c3] [G,-G-] [G,2G2] [F,2F2] |
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2c2] |
+% Bar 30 (1:09)
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2c2] |
+[C3F3c3] [F-f-] [F2f2] [G2g2] |
+[G3c3g3] [A-a-] [A3a3] z |
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2F2c2] |
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2F2c2] |
+[C3F3c3] [F-c-f-] [F2c2f2] [E2c2e2] |
+[C3F3c3] [G,-C-G-] [G,2C2G2] [F,2C2F2] |
+[A,3D3A3] [^A,-^A-] [A,2A2] [C2c2] |
+[C3F3c3] [F-f-] [F2f2] [G2g2] |
+[F4d4f4] [E4e4] |
+% Bar 40 (1:32)
+[F8d8f8] |
+f ^A F e A F d A |
+F c ^A F c A F c |
+^A =A C A F C G F |
+C F C G, E C G, F, |
+z// F,//- [F,//-^A,//-C//-] [F,29/4A,29/4C29/4F29/4] |
+[^A,4C4] f4 |
+c'4 ^a4- |
+^a8 |]
+

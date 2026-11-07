@@ -1,0 +1,118 @@
+%abc-2.1
+%%song-title       A Beautiful Song (solo)
+%%song-composer    NieR: Automata (MIDI by Ninjin Myosotis)
+%%song-duration    2:48
+%%song-transcriber Raymiond of Gladden
+%%abc-creator Maestro v3.1.9
+%%export-timestamp 2025-04-06 00:58:21
+%%swing-rhythm false
+%%mix-timings true
+%%skip-silence-at-start false
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+X: 1
+T: A Beautiful Song (solo) (2:48) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: NieR: Automata (MIDI by Ninjin Myosotis)
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++fff+ d D f D f D e D |
+f D A D e D d D |
+g D A D d D F D |
+f D d D f D d D |
+d D f D f D e D |
+f D A D e D d D |
+e C G C e C G C |
+E C G C e C G C |
+d D F D A D F D |
+% Bar 10 (0:18)
+d D A D F D A, D |
+e D A D d D A D |
+F D d D e D f D |
+g D a D e D A D |
+F D A D F D A D |
+a C G C e C G C |
+E C d C e C g C |
+g ^D ^A D G D A D |
+^f D A D a D A D |
+a G d G g G d G |
+% Bar 20 (0:38)
+^A G ^a G =a G g G |
+g F c F f F c F |
+A F c F d F e F |
+f ^A, ^A A, F A, A A, |
+F ^A, ^A A, g A, A A, |
+f A, E A, ^C A, E A, |
+e A, E A, ^C A, E A, |
+d D f D f D e D |
+e D A D F D A D |
+F D d D d D ^c D |
+% Bar 30 (0:58)
+^c D A D F D A D |
+F D c D c D ^A D |
+^A D F D G D =A D |
+^A D F D =A D F D |
+d D A D F D A D |
+^A ^A, f A, f A, e A, |
+e ^A, F A, D A, F A, |
+D ^A, d A, d A, c A, |
+c ^A, F A, D A, F A, |
+D ^A, c A, c A, ^A A, |
+% Bar 40 (1:18)
+^A ^A, F A, G A, =A A, |
+^A A, E A, ^C A, E A, |
+A A, E A, ^C A, E A, |
+A G, D G, ^A, G, D G, |
+^A G, D G, c G, D G, |
+A F, C F, A, F, C F, |
+d F, C F, A, F, C F, |
+d E, B, E, ^G, E, B, E, |
+^c E, B, E, e E, B, E, |
+e D, D D, A, D, D D, |
+% Bar 50 (1:38)
+f D, D D, A, D, D D, |
+A G, D G, ^A G, D G, |
+^A, G, D G, c G, D G, |
+d F, C F, e F, C F, |
+f F, C F, d F, C F, |
+a E, B, E, ^G, E, B, E, |
+g E, B, E, d E, B, E, |
+f ^D, ^A, D, G, D, A, D, |
+g ^D, ^A, D, G, D, A, D, |
+a ^D, ^A, D, G, D, A, D, |
+% Bar 60 (1:58)
+^a ^D, ^A, D, G, D, A, D, |
+d D A D F D A D |
+a D A D a D A D |
+a D A D g D A D |
+d D A D F D A D |
+d D A D F D A D |
+f D A D f D A D |
+f D A D e D A D |
+d D A D F D A D |
+^A ^A, F A, D A, F A, |
+% Bar 70 (2:18)
+a ^A, F A, a A, F A, |
+a ^A, F A, g A, F A, |
+^A ^A, F A, D A, F A, |
+^a A, E A, =a A, E A, |
+A A, E A, ^C A, E A, |
+A A, E A, ^C A, E A, |
+A A, E A, ^C A, E A, |
+f d d f d d f d |
+d f d d f d f d |
+e d d e d d e d |
+% Bar 80 (2:38)
+d e d d e d e d |
+f d d f d d f d |
+d f d d f d f d |
+e d d e d d e d |
+d e d d e d e d |
+z8 |]
+

@@ -1,0 +1,55 @@
+N: TS  2,   3   1
+X: 3
+%%Orig filename was Startingup__Clar1.abc
+T:Starting up (Basic Clarinet) by Nobuo Uematsu (ff8) (1:14)
+%%part-name Basic Clarinet
+Z:Orelion of Riddlemark
+Q:1/4=260
+K:C
+[C16G16]  ^F8^F,^G,A,B,CB,A,^G,  z16
+B8B,^CDEFEDC  z16
+^F'8^F^GABC'BA^G  z16
+z16  C'8^G,B,CF^FBC'F'
+^F,3z^F,2^F,2^F,3z^F,2^F,2  ^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2  ^F,2^C2A,2B,2G,2A,2E,2G,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2  ^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2  ^F,3z^F,2^F,2^F,3zE,2^E,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,3z^F,2^F,2^F,3zE,2^E,2
+A,16  B,16  C16 ^C16  z2^F2E2^C2B,2A,2E,2^E,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2  ^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,3z^F,2^F,2^F,3z^F,2^F,2  ^F,3z^F,2^F,2^F,3z^F,2^F,2
+^F,16  ^G,16
+A,16  B,16
+C16  D16
+^D32  [^D,32^D32]
+
+X: 1
+%%Orig filename was Startingup__Flute2.abc
+T:Starting up (Basic Flute) by Nobuo Uematsu (ff8) (1:12)
+%%part-name Basic Flute
+Z:Orelion of Riddlemark
+Q:1/4=260
+K:C
+z16 z16  C8A,B,CDEF^FA
+z16  G,8DEFG^GABC'
+z16  C'8ABC'D'_E'F'^F'G'
+B8B,^CDEFED^C  z16
+z16  z16
+z16  z16
+A,2^F,2z2^F,2A,2^F,2z2^F,2  E,2^F,2z2^F,2A,2^F,2B,2^G,2
+A,2^F,2z2^F,2E,2^F,2z2^F,2  E,2^F,2z2^F,2A,2^F,2B,4
+[C2A2][^C2^F2]z2^C2  [C2A2][^C2^F2]z2^C2
+[^G,2E2][A,2^F2]z2[A,2^F2]  [C2A2][^C2^F2][E2B2][C2^G2]
+[C2A2][^C2^F2]z2[^C2^F2]   [^G,2E2][^C2^F2]z2[^C2^F2]
+[^G,2E2][^C2^F2]z2[^C2^F2]  [C2A2][^C2^F2][E2B2][C2^G2]
+^C8[C8^F8]  [B8F8]^C8  [D8E8][C8G8]  [B,16B16]
+z16  z[^G,2A,2C2][^G,2A,2C2][^G,2A,2C2][^F,8A,8^C8]
+z16  z16
+[^F,16A,16]  [^G,8B,8]^F,^G,A,B,CB,A,^G,
+[A,16C16]  [^G,8B,8]^F,^G,A,B,CD_EF
+[^F,16A,16]  [^G,16B,16]
+[A,24C24]^F,^G,A,B,CB,CD  [G,32A,32B,32_E32]
+

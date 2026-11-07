@@ -1,0 +1,93 @@
+N: TS 3,   21 5 8
+
+X:21
+%%Orig filename was cocbass.abc
+T:Cockles and Mussles Bass (0:00)
+M:3/4
+L:1/8
+Q:1/4=120
+N:Last note suggests minor mode tune
+%%part-name Basic Theorbo
+K:F#
+ 
+z6|F6|d6|c6|
+c6|D6|d6|G6|
+=E6|F6|d6|c6|
+c6|D6|D6|=E6|
+d6|D6|d6|c6|
+C6|d6|G6|=e6|
+=B6|D6|B6|A6|
+C6|B6|D6|=e6|
+=e6|F6|F6|C6|
+C6|D6|G6|G6|
+F6|F6|d6|C6|
+c6|B6|G6|G6|
+B4C2|G6|G6|D6|
+d6|^e6|c6|F6|
+f6|^E6|e6|^B6|
+d6|E6|c6|A6|
+e6|G6|c6|^B6|
+d6|e6|E6|F6|
+c6|E6|A6|A6|
+E6-|E4
+
+X:5
+%%Orig filename was cocharp.abc
+T:Cockles and Mussles Harp (0:00)
+M:3/4
+L:1/8
+Q:1/4=120
+N:Last note suggests minor mode tune
+%%part-name Basic Harp
+K:F#
+ 
+z4F2|B2B3B|Bd3B2|c2c3c|
+c=e3c2|f2d3B|fd3B2|Gc3B2|
+A4F2|B2B3B|Bd3B2|c2c3c|
+c=e3dc|fd3B2|fd3B2|c3 Bc2|
+B4F2|B3 BB2|Bd3B2|c3 cc2|
+c=e3dc|fd3B2|fd3B2|c3 Bc2|
+B4z2|B,DF DBF|B,DF DBF|FAc Afc|
+FAc Afc|FBd Bfd|FBd Bfd|Gc=e cGc|
+FAc AFA|B,DF DBF|B,DF DBF|FAc Afc|
+FAc Afc|FBd Bfd|GBd Bfd|CGc =eAc|
+z6|B,DF DBF|B,DF DBF|FAc Afc|
+FAc Afc|FBd Bfd|FBd Bfd|CGc =eAc|
+z4G2|CEG EcG|CEG EcG|G^Bd ^Bgd|
+G^Bd ^Bgd|Gc^e cge|Gce cge|Adf dAd|
+G^Bd ^BG^B|CEG EcG|CEG EcG|G^Bd ^Bgd|
+G^Bd ^Bgd|Gce cge|Ace cge|DAd f^Bd|
+z6|CEG EcG|CEG EcG|G^Bd ^Bgd|
+G^Bd ^Bgd|Gce cge|Gce cge|DAd f^Bd|
+z6|Gce cge|Gce cge|DAd f^Bd|
+
+X:8
+%%Orig filename was coclute.abc
+T:Cockles and Mussles Lute/Flute (1:57)
+M:3/4
+L:1/8
+Q:1/4=120
+N:Last note suggests minor mode tune
+%%part-name Basic Lute
+K:F#
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z4F2|=B2B3B|Bd3B2|c2c3c|
+c=e3c2|f2d3B|fd3B2|Gc3B3/2A/2|
+A4F2|B2B3B|Bd3B2|c2c3c|
+c=e3dc|fd3B2|fd3B3/2c/2|c3 Bc2|
+B4F2|B3 BB2|Bd3B2|c3 cc2|
+c=e3dc|fd3B2|fd3B3/2c/2|c3 Bc2|
+B4G2|c2c3c|c^e3c2|d2d3d|
+df3d2|g2e3c|ge3c2|Ad3c3/2^B/2|
+^B4G2|c2c3c|ce3c2|d2d3d|
+df3ed|ge3c2|ge3c3/2d/2|d3 cd2|
+c4G2|c3 cc2|ce3c2|d3 dd2|
+df3ed|ge3c2|ge3c3/2d/2|d3 cd2|
+c4z2|ge3c2|ge3c3/2d/2|d3 cd2|
+c6-|c4
+

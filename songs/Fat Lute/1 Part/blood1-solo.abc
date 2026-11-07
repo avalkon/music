@@ -1,0 +1,18 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was blood1-solo.abc
+T:Blood 1 E1M1[X-command] (1:05)
+Z: X-command
+M:4/4
+L:1/8
+Q:1/4=103
+%%part-name Unknown Instrument
+K:Eb
+G-[d/2-G/2]d/2 gd/2z/2 Ad B_d|G=d gd Ad B_d|G=d- [g/2-d/2]g/2d Ad B_d|G=d gd Ad B_d|
+G=d- [g/2-d/2]g/2d Ad B_d|G=d g-[g/2d/2-]d/2 Ad B_d|G,D,- [G,/2-D,/2]G,/2D, A,D, B,_D,|G,=D, G,D, A,D, B,_D,|
+G,=D,- [G,/2-D,/2]G,/2D, A,D, B,_D,|C,-[G,C,-] [CC,-][G,-C,] [G,_D,-][=B,-_D,] [=B,=D,-][A,-D,]|[A,C,-][G,C,-] [CC,-][G,-C,] [G,_D,-][=B,-_D,] [=B,=D,-][A,-D,]|[A,C,-][G,C,-] [CC,-][G,-C,] [G,_D,-][=B,-_D,] [=B,=D,-][A,-D,]|
+[A,F,-][=B,F,-] [FF,-][=B,-F,] [=B,A,-][=E-A,] [=E=A,-][_E-=A,]|[EF,-][=B,F,-] [FF,-][=B,-F,] [=B,_A,-][=E-A,] [=E=A,-][_E-=A,]|[EF,-][=B,F,-] [FF,-][=B,-F,] [=B,_A,-][=E-A,] [=E=A,-][_E-=A,]|[EG,-][G,/2D,/2-]D,/2 G,D,/2z/2 _A,D, _B,_D,|
+G,=D, G,-[G,/2D,/2-]D,/2 A,D, B,_D,|G,=D,- [G,/2-D,/2]G,/2D, A,D, B,_D,|G,=D, G,D, A,D, B,_D,|G,=D,- [G,/2-D,/2]G,/2D, A,D, B,_D,|
+C,-[G,C,-] [CC,-][G,-C,] [G,_D,-][=B,-_D,] [=B,=D,-][A,-D,]|[A,C,-][G,C,-] [CC,-][G,-C,] [G,_D,-][=B,-_D,] [=B,=D,-][A,-D,]|[A,C,-][G,C,-] [CC,-][G,-C,] [G,_D,-][=B,-_D,] [=B,=D,-][A,-D,]|[A,F,-][=B,F,-] [FF,-][=B,-F,] [=B,A,-][=E-A,] [=E=A,-][_E-=A,]|
+[EF,-][=B,F,-] [FF,-][=B,-F,] [=B,_A,-][=E-A,] [=E=A,-][_E-=A,]|[EF,-][=B,F,-] [FF,-][=B,-F,] [=B,_A,-][=E-A,] [=E=A,-][_E=A,]|G,D,- [G,/2-D,/2]G,/2D, _A,D, _B,_D,|G,D- [G/2-D/2]G/2D A,D B,_D|
+

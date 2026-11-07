@@ -1,0 +1,604 @@
+N: TS  5,   3  10   5   8  21
+X: 3
+%%Orig filename was GirlfriendInAComa__Clar1.abc
+T:Girlfriend In A Coma (Basic Clarinet) [v.1 by Cranberry] (1:42)
+%%part-name Basic Clarinet
+M:4/4
+L:1/8
+Q:1/4=115
+K:G % 1 sharps
+%%MIDI program 10
+x8| \
+x8| \
+% Girl
+A
+% friend 
+B 
+% in 
+B
+% a 
+A 
+% co
+A
+% ma 
+B 
+% I 
+B
+% know, 
+G-| \
+G2 
+% I 
+B2<
+% know, 
+A2 
+% it's 
+c2|
+% ser
+c
+% i
+B 
+% ous 
+B6| \
+x8| \
+% Girl
+A
+% friend 
+B 
+% in 
+B
+% a 
+A 
+% co
+A
+% ma 
+B 
+% I 
+B
+% know, 
+B-| \
+B
+% I 
+B2
+% know 
+A2
+% it's 
+A 
+% real
+c
+% ly 
+c|
+% ser
+c2 
+% i
+B
+% ous 
+B3 x2| \
+x6 
+% There 
+G
+% were 
+A| \
+% times 
+B
+% when 
+c 
+% I 
+B
+% could 
+B2
+% have 
+B2
+% mur
+d-| \
+d3
+% dered 
+B4
+% her 
+d-|
+d8| \
+x2 
+% But 
+G
+% you 
+A 
+% know 
+B2 
+% I 
+G
+% would 
+A| \
+% hate 
+B2 
+% an
+B
+% y
+A 
+% thing 
+G2 
+% to 
+E2| \
+% hap
+E
+% pen 
+G 
+% to 
+c
+% her 
+B3 x2|
+x4 x
+% no 
+G 
+% I 
+A
+% DON'T 
+B-| \
+B
+% want 
+G 
+% to 
+A
+% see 
+B 
+% her 
+Ax 
+% do 
+A
+% you 
+A| \
+% real
+B
+% ly 
+B 
+% think 
+B2 x
+% she'll 
+B2
+% pull 
+B| \
+% through? 
+G2 x4 
+% do 
+B
+% you 
+B|
+% real
+B
+% ly 
+B 
+% think 
+B
+% she'll 
+c2
+% pull 
+d2
+% through?? 
+G-| \
+Gx2
+% oooh 
+e2d3| \
+ed Bd2e/2d/2 B2| \
+x8|
+% Girl
+A
+% friend 
+B 
+% in 
+B
+% a 
+B 
+% co
+c
+% ma 
+B 
+% I 
+A
+% know, 
+G-| \
+G2 
+% I 
+G2<
+% know, 
+F2 
+% it's 
+E2| \
+% ser
+E
+% i
+D 
+% ous 
+D6| \
+x8|
+% my 
+G2 
+% my 
+G2 
+% my 
+G
+% my 
+G2
+% my 
+G-| \
+G
+% my 
+G2
+% ba
+F2
+% by 
+F 
+% good
+F
+% bye 
+G-| \
+Gx6x| \
+x6 
+% There 
+G
+% were 
+A|
+% times 
+B
+% when 
+c 
+% I 
+B
+% could 
+B2
+% have 
+B2
+% stran
+d-| \
+d3
+% gled 
+B4
+% her 
+d-| \
+d8| \
+x2 
+% But 
+G
+% you 
+A 
+% know 
+B2 
+% I 
+G
+% would 
+A|
+% hate 
+B2 
+% an
+B
+% y
+A 
+% thing 
+G2 
+% to 
+E2| \
+% hap
+E
+% pen 
+G 
+% to 
+c
+% her 
+B3 x2| \
+x4 x
+% would 
+G 
+% you 
+A
+% PLEASE 
+B-| \
+B
+% let 
+G 
+% me 
+A
+% see 
+B 
+% her 
+Ax 
+% do 
+A
+% you 
+A|
+% real
+B
+% ly 
+B 
+% think 
+B2 x
+% she'll 
+B2
+% pull 
+B| \
+% through? 
+G2 x4 
+% do 
+B
+% you 
+B| \
+% real
+B
+% ly 
+B 
+% think 
+B
+% she'll 
+c2
+% pull 
+d2
+% through?? 
+G-| \
+Gx2
+% oooh 
+e2d3|
+ed Bd2e/2d/2 B2| \
+x6 
+% let 
+G
+% me 
+A| \
+% whis
+B
+% per 
+B 
+% my 
+B
+% last 
+c2
+% good
+B2
+% byes 
+G-| \
+G
+% I 
+B2
+% know 
+A3 
+% it's 
+c2|
+% ser
+c
+% i
+B 
+% ous 
+B6|
+
+X: 10
+%%Orig filename was GirlfriendInAComa__Drums2.abc
+T:Girlfriend In A Coma (Basic Drum) [v.1 by Cranberry] (1:41)
+%%part-name Basic Drum
+M:4/4
+L:1/8
+Q:1/4=115
+K:G % 1 sharps
+%%MIDI channel 10
+%%MIDI program 0
+C/2x/2F/2x/2 C/2x/2F/2x/2 C/2x/2F/2x/2 [A/2C/2]x/2F/2x/2| \
+C/2x/2F/2x/2 C/2x/2F/2x/2 C/2x/2F/2x/2 [A/2C/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2[^A/2D/2C/2]x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[^c/2^A/2F/2D/2=C/2]x/2[^A/2D/2]x/2 [^A/2F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2[^A/2D/2]x/2| \
+[F/2D/2C/2]x/2[^A/2D/2]x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[^c/2^A/2F/2D/2=C/2]x/2[^A/2D/2]x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2[^A/2D/2C/2]x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[^c/2^A/2F/2D/2=C/2]x/2[^A/2D/2]x/2 [^A/2F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2[^A/2D/2]x/2| \
+[F/2D/2C/2]x/2[^A/2D/2]x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[^c/2^A/2F/2D/2=C/2]x/2[^A/2D/2]x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2|
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2 [F/2C/2]x/2^A/2x/2 [F/2D/2]x/2^A/2x/2| \
+[F/2B,/2]x/2F/2x/2 F/2x/2F/2x/2 [F/2B,/2]x/2F/2x/2 F/2x/2F/2x/2| \
+[F/2B,/2]x/2F/2x/2 F/2x/2F/2x/2 [F/2B,/2]x/2F/2x/2 F/2x/2[F/2C/2]x/2|
+[=a/2B,/2]x/2B,/2x/2
+
+X: 5
+%%Orig filename was GirlfriendInAComa__Harp3.abc
+T:Girlfriend In A Coma (Basic Harp) [v.1 by Cranberry] (1:42)
+%%part-name Basic Harp
+M:4/4
+L:1/8
+Q:1/4=115
+K:G % 1 sharps
+%%MIDI program 88
+x8| \
+x8| \
+[G4D4] [F2D2] [E2-C2-]| \
+[E3C3][F4-D4-][FD]|
+[G4D4] [F4D4B,4]| \
+[c2G2-E2-] [BG-E-][AGE] [F2D2-A,2-] [GD-A,-][ADA,]| \
+[G4D4] [F3D3][E-C-]| \
+[EC]x2[F4-D4-][FD]|
+[G3D3][F4-D4-][FD]| \
+c2 BA F2 GA| \
+[G3D3][F4D4][G-E-]| \
+[G3E3][F4D4][B-G-]|
+[B4G4] AF D2| \
+[E4C4] [F4D4]| \
+[G4D4] [D4B,4]| \
+[E3C3][F4-D4-][FD]|
+[B4G4D4] [FD]x2[G-E-]| \
+[G4E4] [F4D4]| \
+[GE][GE] [G2E2] x[F3D3]| \
+[GE-C-][GE-C-] [BE-C-][GE-C-] [AE-C-][GEC] [BF-D-][BFD]|
+[GE][GE] [GE][G2E2][A2F2][E-C-]| \
+[E2C2] x[c2G2]x3| \
+[B3G3][B2G2][A3F3]| \
+[E-C-][GE-C-] [BE-C-][GE-C-] [AEC]G [FD-][AD]|
+[G4D4] [F2D2] [E2-C2-]| \
+[E3C3][F4-D4-][FD]| \
+[G4D4] [F4D4B,4]| \
+[c2G2-E2-] [BG-E-][AGE] [F2D2-A,2-] [GD-A,-][ADA,]|
+[G4D4] [F3D3][E-C-]| \
+[EC]x2[F4-D4-][FD]| \
+[G3D3][F4-D4-][FD]| \
+c2 BA F2 GA|
+[G3D3][F4D4][G-E-]| \
+[G3E3][F4D4][B-G-]| \
+[B4G4] AF D2| \
+[E4C4] [F4D4]|
+[G4D4] [D4B,4]| \
+[E3C3][F4-D4-][FD]| \
+[B4G4D4] [FD]x2[G-E-]| \
+[G4E4] [F4D4]|
+[GE][GE] [G2E2] x[F3D3]| \
+[GE-C-][GE-C-] [BE-C-][GE-C-] [AE-C-][GEC] [BF-D-][BFD]| \
+[GE][GE] [GE][G2E2][A2F2][E-C-]| \
+[E2C2] x[c2G2]x3|
+[B3G3][B2G2][A3F3]| \
+[E-C-][GE-C-] [BE-C-][GE-C-] [AE-C-][GEC] [GD][AFD]| \
+[G2D2] [F4-D4-] [FD][E-C-]| \
+[E3C3][F3D3] [A2F2D2]|
+[G8D8]|
+
+X: 8
+%%Orig filename was GirlfriendInAComa__Lute4.abc
+T:Girlfriend In A Coma (Basic Lute) [v.1 by Cranberry] (1:42)
+%%part-name Basic Lute
+M:4/4
+L:1/8
+Q:1/4=115
+K:G % 1 sharps
+%%MIDI program 25
+x8| \
+x8| \
+[AG-D-][BG-D-] [BG-D-][AGD] [AF-D-][BFD] [BE-C-][G-E-C-]| \
+[G2E2-C2-] [BEC][A3F3-D3-] [c2F2D2]|
+[cG-D-][BG-D-] [B2-G2D2] [B4F4D4B,4]| \
+[c2G2-E2-] [BG-E-][AGE] [F2D2-A,2-] [GD-A,-][ADA,]| \
+[AG-D-][BG-D-] [BG-D-][AGD] [AF-D-][BF-D-] [BFD][B-E-C-]| \
+[BEC]B2[A2F2-D2-][AF-D-] [cF-D-][cFD]|
+[c2G2-D2-] [BGD][B3F3-D3-] [F2D2]| \
+c2 BA F2 GA| \
+[BG-D-][cG-D-] [BGD][B2F2-D2-][B2F2D2][d-G-E-]| \
+[d3G3E3][B4F4D4][d-B-G-]|
+[d4-B4G4] [d-A][d-F] [d2D2]| \
+[E3-C3-][AEC] [B2F2-D2-] [GF-D-][AFD]| \
+[B2G2-D2-] [BG-D-][AGD] [G2D2-B,2-] [E2D2B,2]| \
+[E-C-][GE-C-] [cEC][B3F3-D3-] [F2D2]|
+[B4G4D4] [FD]x A[B-G-E-]| \
+[BG-E-][G-E-] [AG-E-][BGE] [AF-D-][F-D-] [AF-D-][AFD]| \
+[BGE][BGE] [B2G2E2] x[B2F2-D2-][BFD]| \
+[GE-C-][GE-C-] [BE-C-][GE-C-] [AE-C-][GEC] [BF-D-][BFD]|
+[BGE][BGE] [BGE][c2G2E2][d2A2F2][G-E-C-]| \
+[GE-C-][EC] x[e2c2G2]d3| \
+[eB-G-][dB-G-] [BG][d2B2G2][e/2A/2-F/2-][d/2A/2-F/2-] [B2A2F2]| \
+[E-C-][GE-C-] [BE-C-][GE-C-] [AEC]G [FD-][AD]|
+[AG-D-][BG-D-] [BG-D-][BGD] [cF-D-][BFD] [AE-C-][G-E-C-]| \
+[G2E2-C2-] [GEC][F3-D3-] [F2E2D2]| \
+[G-ED-][G3D3] [F4D4B,4]| \
+[c2G2-E2-] [BG-E-][AGE] [F2D2-A,2-] [GD-A,-][ADA,]|
+[G4D4] [GF-D-][G2F2D2][G-E-C-]| \
+[GEC]G2[F4-D4-][FD]| \
+[G3D3][F4-D4-][FD]| \
+c2 BA F2 GA|
+[BG-D-][cG-D-] [BGD][B2F2-D2-][B2F2D2][d-G-E-]| \
+[d3G3E3][B4F4D4][d-B-G-]| \
+[d4-B4G4] [d-A][d-F] [d2D2]| \
+[E3-C3-][AEC] [B2F2-D2-] [GF-D-][AFD]|
+[B2G2-D2-] [BG-D-][AGD] [G2D2-B,2-] [E2D2B,2]| \
+[E-C-][GE-C-] [cEC][B3F3-D3-] [F2D2]| \
+[B4G4D4] [FD]x A[B-G-E-]| \
+[BG-E-][G-E-] [AG-E-][BGE] [AF-D-][F-D-] [AF-D-][AFD]|
+[BGE][BGE] [B2G2E2] x[B2F2-D2-][BFD]| \
+[GE-C-][GE-C-] [BE-C-][GE-C-] [AE-C-][GEC] [BF-D-][BFD]| \
+[BGE][BGE] [BGE][c2G2E2][d2A2F2][G-E-C-]| \
+[GE-C-][EC] x[e2c2G2]d3|
+[eB-G-][dB-G-] [BG][d2B2G2][e/2A/2-F/2-][d/2A/2-F/2-] [B2A2F2]| \
+[E-C-][GE-C-] [BE-C-][GE-C-] [AE-C-][GEC] [GD][AFD]| \
+[BG-D-][BGD] [BF-D-][c2F2-D2-][B2F2D2][G-E-C-]| \
+[GE-C-][B2E2C2][A3F3D3] [c2A2F2D2]|
+[cG-D-][BG-D-] [B6G6D6]|
+
+X: 21
+%%Orig filename was GirlfriendInAComa__Theorbo5.abc
+T:Girlfriend In A Coma (theo) [v.1 by Cranberry] (1:42)
+M:4/4
+L:1/8
+Q:1/4=115
+%%part-name Basic Theorbo
+K:G % 1 sharps
+%%MIDI program 33
+[G,G,]G G,G G,G G,G| \
+G,G G,G G,G G,G| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+E,B, E,2 xD,3| \
+C,6 D,2|
+E,B, E,2 xD,3| \
+C,6 D,2| \
+E,B, E,2 xD,3| \
+C,2 C,2 C,2 D,2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2| \
+G,2 G,2 G,2 G,2| \
+C2 C2 D2 D2|
+E,B, E,2 xD,3| \
+C,6 D,2| \
+E,B, E,2 xD,3| \
+C,6 D,2|
+E,B, E,2 xD,3| \
+C,2 C,2 C,2 D,2| \
+G,2 G,2 G,2 G,2| \
+C,2 C,2 D,2 D,2|
+G,8|
+

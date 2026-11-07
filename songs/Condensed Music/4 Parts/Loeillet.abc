@@ -1,0 +1,202 @@
+%abc-2.1
+%%song-title       Loeillet
+%%song-duration    1:36
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:29:11
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title:  - Loeillet
+N: TS  4,   8 21  1  4
+I:decoration +
+
+X: 8
+T: Loeillet (1:36) - Basic Lute 1
+%%part-name Basic Lute 1
+%%made-for Basic Lute
+%%user-pan auto
+M: 4/4
+Q: 80
+L: 1/8
+K: C maj
++mf+ [B,2^D2^G2] z [^A,D] [B,DG] B,/ D/ G [^C=G] |
+[^D-^G] [D^A] [D-GB] [D=GA] [D-^G] [D/-A/] [D/B/] G [D=G] |
+[^C^G-] [EG] [E/-=G/^c/-] [E/-^G/c/-] [E^Ac] [EG-c] [^DGB] D/- [D/B/] [E/-A/] [E/G/] |
+[^D-G] [D/^G/-] [E/G/-] [^A,-D-G] [A,D=G] [B,2D2^G2] z2 |
+[B,2^D2^G2] z [^A,D] [B,D] [^C=G] [D-^G] [D-^A] |
+[^D/B/-] [E/B/-] [^F/B/] [E/^A/] [D/-B/] [D/A/] [D^G-] [E2G2] z [D-=GA] |
+[^D2^G2] [DGB] [^C=G^A] [D^G] [EA] [GA-] [=GA] |
+[B,2^D2^G2] z [D^A] [B,2D2G2] z [^C=G] |
+[^D^G] [^A,D-] [B,D] [A,D=G] [B,2D2^G2] z [B,=GB] |
+% Bar 10 (0:27)
+[^C^G-] [E/G/-] [^D/G/] [C/-=G/] [C/^G/] [CE^A] [CEG-] [B,2D2G2] [^A,EG] |
+[^A,^DG] [B,^G-] [A,-D-G] [A,D=G] [B,2D2^G2] z [D^A] |
+[^D2B2] z [^CG] [D-^G] [DB] [C^F] [E^c-] |
+[^D/-^c/] [D/c/] [E/-B/] [E/^A/] [^F/-B/] [F/-B/] [F/-c/] [F/^d/] [F2B2-] [E/-B/] [E/-B/] [E/-A/] [E/-^G/] |
+[E2^A2-] [^D-A] [D/-^G/] [D/-^F/] [DG-] [^C/G/-] [B,/G/-] [C-G] [C/-A/] [C/-B/] |
+[^C2^A2] [^FB-] [EB] [^DB-] [F-B] [F^c-] [Cc] |
+[^DB] [E/-^A/] [E/^G/] [B,-^F] [B,G] [^A,E] [B,D] [B,^C] [A,F] |
+[B,2^D2] z [^C^F] [D2F2] z [E^A^c] |
+[^F2B2] z [^CF] [^D2-F2] [D2^G2-] |
+[F2^G2] [^F2^A2^c2] [^D2F2B2] [^C2G2B2] |
+% Bar 20 (0:57)
+[^C^F^A] [B,=F] [C^F] [^D^G] [C=F] [D^F] [C-G] [C/-A/] [C/B/] |
+[^C^F^A] [^DFB] [C-F^G-] [C=FG] [^A,2C2^F2] z [^G,C] |
+[^A,2^C2] z [A,C] [^G,2C2] z [CF] |
+[^A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2^D2] [B,2D2^G2] z [A,D] |
+[B,2^D2] z [CD] [^C2E2] z [D^G] |
+[E2^G2] z [E^A] [^D-=G] [DA] [D-^G] [DB] |
+[E2^G2] [E2^c2] c [^D^FB] z [^CFc] |
+z [^D^GB] z [D^A] z [B,DG] z [EA] |
+[^D-G] [D2^G2] [^C=G] [B,2D2^G2] z [^A,D] |
+[B,2^D2] z [^CG] [D/-^G/] [D/-=G/] [D/-^G/] [D/^A/] [D/-B/] [D/-^c/] [D/-A/] [D/-^d/] |
+% Bar 30 (1:27)
+[^DB] [^CG] [D-^G] [D^A] [D/-B/] [D/^c/] [=G/-B/] [G/A/] ^G [DG] |
+[E2^G2] z [^D=G^A] [D-^G-^d] [D-G-^c] [D-G-d] [DGB] |
+[E-^G-e] [EG^c] [G^A-] [=GA] [B,4^D4^G4] |]
+
+
+X: 21
+T: Loeillet (1:36) - Basic Lute 2
+%%part-name Basic Lute 2
+%%made-for Basic Lute
+%%user-pan auto
+M: 4/4
+Q: 80
+L: 1/8
+K: C maj
++mf+ ^G, B,/ ^D/ ^G =G ^G2 z ^A |
+B G ^G ^D/ ^C/ B,2 z D |
+E ^C/ B,/ ^A, G ^G ^G, B, C |
+^D E/ ^C/ D ^D, ^G,2 z2 |
+^G, B,/ ^D/ ^G =G ^G ^A B =G |
+^G ^D/ ^C/ B, B ^c2 z c |
+B ^A ^G A B ^c ^d ^D |
+^G, B,/ ^D/ ^G =G ^G2 z ^A |
+B G ^G ^D/ ^C/ B,2 z D |
+% Bar 10 (0:27)
+E ^C/ B,/ ^A, G ^G ^G, B, C |
+^D/ ^C/ B,/ C/ D ^D, ^G, B,/ D/ ^G =G |
+^G2 z ^A B G A ^F |
+B, ^C ^D B, ^G3 ^F/ E/ |
+^F3 E/ ^D/ E2 z ^C |
+^F E ^D ^C B,2 ^A,2 |
+B, ^C ^D E ^F B, F ^F, |
+B, ^D/ ^F/ B ^A B2 z ^c |
+^d2 z ^A B A B ^G |
+^c B ^A ^F ^G F =F ^C |
+% Bar 20 (0:57)
+^F ^G ^A B ^c2 =F2 |
+^F B, ^C ^C, ^F, ^A,/ C/ F =F |
+^F2 z F =F2 z ^C |
+^F2 G2 ^G, B,/ ^D/ ^G =G |
+^G2 z G ^C E/ G/ ^c =c |
+^c2 z ^C ^D C B, ^G, |
+^C B, ^A, ^F, z B, z A, |
+z ^G, z ^F, z E, z ^C |
+^D/ ^C/ B,/ C/ D ^D, ^G, B,/ D/ ^G =G |
+^G2 z ^A B B,/ ^D/ G =G |
+% Bar 30 (1:27)
+^G ^A B =G ^G ^D/ ^C/ B, B |
+^c2 z c B ^A B ^G |
+^c ^A ^d ^D ^G,4 |]
+
+
+X: 1
+T: Loeillet (1:36) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+M: 4/4
+Q: 80
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z4 ^G B/ ^d/ ^g =g |
+^g2 z ^a b =g ^g ^d/ ^c/ |
+B2 z ^d e ^c/ B/ ^A g |
+^g ^G B ^c ^d e/ ^A/ B/ z/ A/ G/ |
+^G2 z2 G B/ ^d/ ^g [=g/-^a/] g/ |
+^g ^a/3 b/3 g/3 b =g ^g ^d/ ^c/ B B |
+% Bar 10 (0:27)
+^c3/2 z/ e3/2 e/ z/ e/ ^d z ^g/ ^a/ |
+g/ ^d/ ^g/ ^a/ b/ z/ a/ g/ g2 z a |
+b ^a ^g =g ^g a/ b/ ^f3/2 e/ |
+^d e/ z/ ^f5/2 z/ e/ d/ e2- |
+e/ z/ ^d// ^c3/4 d5/2 z/ e/ d/ c c/ B/ |
+^A ^F B5/2 ^d/ ^c/ B/ c/ e/ d/ c/ |
+^d e ^f ^g/ z/ ^c/ e/ d/ c/ z c// B3/4 |
+B2 z2 B ^d/ ^f/ b ^a/ z/ |
+b ^f/ e/ ^d e/3 d/3 ^c/3 z/ d5/2 ^g/ f/ |
+f ^c ^f ^A z/ B2 ^d/ c/ B/ |
+% Bar 20 (0:57)
+^A B/ z/ ^c ^d ^G c3/2 B/ A/ G/ |
+^A f/ ^f/ A/ z/ ^G/ ^F/ F2 z G |
+^A/ B/ ^c/ B/ A ^F ^G c/ ^d/ c/ B/ A/ G/ |
+^A ^d/ e/ d/ ^c/ B/ A/ B ^G z A |
+B ^d ^G G e/ d/ ^c z d |
+e ^c/ B/ ^A3/2 A/ ^g =g z ^d |
+e/ ^d/ ^c/ d/ e3/2 e/ e/ d/ d d/ c/ c |
+^c/ B/ B b/ ^a/ a a/ ^g/ g g a/ b/ |
+g/ ^d/ ^g/ ^a/ b/ z/ a/ g/ g2 z2 |
+^G B/ ^d/ ^g =g ^g2 z ^a/3 b/3 g/3 |
+% Bar 30 (1:27)
+b g ^g ^d/ ^c/ B2 z d |
+e ^c/ B/ ^A g ^g2 z ^d |
+e/ ^d/ ^c/ B/ B/ z/ ^A/ ^G/ G4 |]
+
+
+X: 4
+T: Loeillet (1:36) - Basic Horn
+%%part-name Basic Horn
+%%made-for Basic Horn
+%%user-pan auto
+M: 4/4
+Q: 80
+L: 1/8
+K: C maj
++mf+ ^G, B,/ ^D/ ^G =G ^G2 z ^A |
+B G ^G ^D/ ^C/ B,2 z D |
+E ^C/ B,/ ^A, G ^G ^G, B, C |
+^D E/ ^C/ D ^D, ^G,2 z2 |
+^G, B,/ ^D/ ^G =G ^G ^A B =G |
+^G ^D/ ^C/ B, B ^c2 z c |
+B ^A ^G A B ^c ^d ^D |
+^G, B,/ ^D/ ^G =G ^G2 z ^A |
+B G ^G ^D/ ^C/ B,2 z D |
+% Bar 10 (0:27)
+E ^C/ B,/ ^A, G ^G ^G, B, C |
+^D/ ^C/ B,/ C/ D ^D, ^G, B,/ D/ ^G =G |
+^G2 z ^A B G A ^F |
+B, ^C ^D B, ^G3 ^F/ E/ |
+^F3 E/ ^D/ E2 z ^C |
+^F E ^D ^C B,2 ^A,2 |
+B, ^C ^D E ^F B, F ^F, |
+B, ^D/ ^F/ B ^A B2 z ^c |
+^d2 z ^A B A B ^G |
+^c B ^A ^F ^G F =F ^C |
+% Bar 20 (0:57)
+^F ^G ^A B ^c2 =F2 |
+^F B, ^C ^C, ^F, ^A,/ C/ F =F |
+^F2 z F =F2 z ^C |
+^F2 G2 ^G, B,/ ^D/ ^G =G |
+^G2 z G ^C E/ G/ ^c =c |
+^c2 z ^C ^D C B, ^G, |
+^C B, ^A, ^F, z B, z A, |
+z ^G, z ^F, z E, z ^C |
+^D/ ^C/ B,/ C/ D ^D, ^G, B,/ D/ ^G =G |
+^G2 z ^A B B,/ ^D/ G =G |
+% Bar 30 (1:27)
+^G ^A B =G ^G ^D/ ^C/ B, B |
+^c2 z c B ^A B ^G |
+^c ^A ^d ^D ^G,4 |]
+

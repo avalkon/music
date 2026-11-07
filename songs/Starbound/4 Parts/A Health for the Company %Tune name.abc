@@ -1,0 +1,56 @@
+N: TS 4,   3 21 1 4
+
+X:3
+%%Orig filename was healcla2.abc
+T:A Health for the Company (Clarinet 2)    %Tune name (1:28)
+C:Traditional     %Tune composer
+N:     %Tune infos
+Q:1/4=104     %Tempo
+M:3/4     %Meter
+L:1/8     %
+%%part-name Basic Clarinet 1
+K:G
+z4 ee |e2 A3 B |AG E3 E |E2 B2 G2 |A6 |A2 c3 g |g2 e2 z d |e2 c3 d |B4 z2 |A2 c3 g |g2 e2 z d |c2 A3 B |A4 EE |E2 B2 B2 |AG E3 E |E2 B2 G2 |A6- |A2 z2 ee |e2 E3 E |BB B3 B |e2 B2 D2 |E4 A2 |A2 E2 c2 |
+e2 G3 G |c2 A2 A2 |B4 A2 |A2 E2 c2 |e2 G3 G |A2 A3 A |B4 AA |A2 E2 E2 |B2 B2 B2 |B2 G2 D2 |E4 ee |e2 A3 B |AG E3 E |E2 B2 G2 |A6 |A2 E2 c2 |e2 G3 G |c2 A2 A2 |B4 A2 |A2 c3 g |g2 e2 z d |c2 A3 B |B4 AA |
+A2 E2 E2 |B2 B2 B2 |B2 G2 D2 |E6- |E6 |]
+
+X:21
+%%Orig filename was healclar.abc
+T:A Health for the Company  (Clarinet 1)   %Tune name (1:28)
+C:Traditional     %Tune composer
+N:     %Tune infos
+Q:1/4=104     %Tempo
+M:3/4     %Meter
+L:1/8     %
+%%part-name Basic Clarinet 2
+K:G
+z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z4 EE |E2 C3 D |CB, G,3 G, |G,2 D2 B,2 |A,4 A,2 |E2 c2 c2 |c2 c3 B |c2 A2 B2 |G4 E2 |E2 c2 c2 |c2 c3 B |A2 F3 G |E4 EE |E2 C2 D2 |(CB,) G,3 G, |
+G,2 D2 B,2 |A,6 |z6 |z6 |z6 |z6 |E2 c2 c2 |c2 c3 B |c2 A2 B2 |G6 |z6 |z6 |z6 |z4 EE |E2 C2 D2 |(CB,) G,3 G, |G,2 D2 B,2 |A,6- |A,6 |]
+
+X:1
+%%Orig filename was healflut.abc
+T:A Health for the Company   (Flute)  %Tune name (1:28)
+C:Traditional     %Tune composer
+N:     %Tune infos
+Q:1/4=104     %Tempo
+M:3/4     %Meter
+L:1/8     %
+%%part-name Basic Flute
+K:G
+z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z4 ee |e2 A3 B |AG E3 E |E2 B2 G2 |A4 A2 |A2 g2 g2 |g2 e3 d |e2 c2 d2 |B4 A2 |A2 g2 g2 |g2 e3 d |c2 A3 B |G4 ee |e2 A2 B2 |(AG) E3 E |
+E2 B2 G2 |A6 |z6 |z6 |z6 |z6 |A2 g2 g2 |g2 e3 d |e2 c2 d2 |B6 |z6 |z6 |z6 |z4 ee |e2 A2 B2 |(AG) E3 E |E2 B2 G2 |A6- |A6 |]
+
+X:4
+%%Orig filename was healhorn.abc
+T:A Health for the Company (Horn)    %Tune name (1:28)
+C:Traditional     %Tune composer
+N:     %Tune infos
+Q:1/4=104     %Tempo
+M:3/4     %Meter
+L:1/8     %
+%%part-name Basic Horn
+K:G
+z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z6 |z4 AA |A2 A,3 A, |EE E3 E |E2 E2 G,2 |A,4 A,2 |A,2 A,2 A,2 |A,2 B,3 B, |B,2 B,2 B,2 |E4 A,2 |A,2 A,2 A,2 |A,2 B,3 B, |D2 D3 D |E4 AA |
+A2 A,2 A,2 |E2 E2 E2 |E2 E2 G,2 |A,6 |z6 |z6 |z6 |z6 |A,2 A,2 A,2 |A,2 B,3 B, |B,2 B,2 B,2 |E6 |z6 |z6 |z6 |z4 AA |A2 A,2 A,2 |E2 E2 E2 |E2 E2 G,2 |A,6- |A,6 |]
+     %End of file
+

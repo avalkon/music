@@ -1,0 +1,405 @@
+N: TS  4,   9   8   1  14
+X: 9
+%%Orig filename was MewlipsAges.abc
+T: The Mewlips (2:42) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+Z: k&r
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ [^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[G,/g/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z [^G,/^g/] z/ z [=G,/^D/=g/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[B,/b/] z/ z [^A,/^a/] z/ z [^D,/^d/] z/ z [G,/g/] z/ z |
+[^A,/^a/] z/ z [^G,/^g/] z/ z [A,/a/] z/ z [B,/b/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+% Bar 10 (0:18)
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[G,/g/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z [^G,/^g/] z/ z [=G,/^D/=g/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[B,/b/] z/ z [^A,/^a/] z/ z [^D,/^d/] z/ z [G,/g/] z/ z |
+[^A,/^a/] z/ z [^G,/^g/] z/ z [A,/a/] z/ z [B,/b/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[G,/g/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+% Bar 20 (0:38)
+b/ z/ z [^A,/D/^a/] z/ z [^G,/^g/] z/ z [=G,/^D/=g/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[B,/b/] z/ z [^A,/^a/] z/ z [^D,/^d/] z/ z [G,/g/] z/ z |
+[^A,/^a/] z/ z [^G,/^g/] z/ z [A,/a/] z/ z [B,/b/] z/ z |
+[^D/g/] z/ z [^G/^g/] z/ D/ z/ [G/^a/] z/ ^A/ z/ [B/b/] z/ D/ z/ |
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [G/^d/] z/ ^A/ z/ [B/g/] z/ D/ z/ |
+[B/^a/] z/ ^A/ z/ [G/g/] z/ ^D/ z/ [A/^d/] z/ D/ z/ [B/=d/] z/ D/ z/ |
+[^A/g/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [G/^a/] z/ A/ z/ [B/b/] z/ D/ z/ |
+% Bar 30 (0:58)
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [^A/^a/] z/ D/ z/ [B/b/] z/ D/ z/ |
+[^A/^a/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [=G/=g/] z/ D/ z/ [D/^d/] z/ D/ z/ |
+[^D/g/] z/ z [^G/^g/] z/ D/ z/ [G/^a/] z/ ^A/ z/ [B/b/] z/ D/ z/ |
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [G/^d/] z/ ^A/ z/ [B/g/] z/ D/ z/ |
+[B/^a/] z/ ^A/ z/ [G/g/] z/ ^D/ z/ [A/^d/] z/ D/ z/ [B/=d/] z/ D/ z/ |
+[^A/g/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [G/^a/] z/ A/ z/ [B/b/] z/ D/ z/ |
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [^A/^a/] z/ D/ z/ [B/b/] z/ D/ z/ |
+% Bar 40 (1:18)
+[^A/^a/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [=G/=g/] z/ D/ z/ [D/^d/] z/ D/ z/ |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[G,/g/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z [^G,/^g/] z/ z [=G,/^D/=g/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[B,/b/] z/ z [^A,/^a/] z/ z [^D,/^d/] z/ z [G,/g/] z/ z |
+[^A,/^a/] z/ z [^G,/^g/] z/ z [A,/a/] z/ z [B,/b/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+% Bar 50 (1:38)
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[G,/g/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z [^G,/^g/] z/ z [=G,/^D/=g/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[B,/b/] z/ z [^A,/^a/] z/ z [^D,/^d/] z/ z [G,/g/] z/ z |
+[^A,/^a/] z/ z [^G,/^g/] z/ z [A,/a/] z/ z [B,/b/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[G,/g/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+% Bar 60 (1:58)
+b/ z/ z [^A,/D/^a/] z/ z [^G,/^g/] z/ z [=G,/^D/=g/] z/ z |
+[^D,/^d/] z/ z [^G,/^D/^g/] z/ z g/ z/ z [B,/D/b/] z/ z |
+b/ z/ z [^A,/D/^a/] z/ z a/ z/ z [^D,/^D/^d/] z/ z |
+[B,/b/] z/ z [^A,/^a/] z/ z [^D,/^d/] z/ z [G,/g/] z/ z |
+[^A,/^a/] z/ z [^G,/^g/] z/ z [A,/a/] z/ z [B,/b/] z/ z |
+[^D/g/] z/ z [^G/^g/] z/ D/ z/ [G/^a/] z/ ^A/ z/ [B/b/] z/ D/ z/ |
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [G/^d/] z/ ^A/ z/ [B/g/] z/ D/ z/ |
+[B/^a/] z/ ^A/ z/ [G/g/] z/ ^D/ z/ [A/^d/] z/ D/ z/ [B/=d/] z/ D/ z/ |
+[^A/g/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [G/^a/] z/ A/ z/ [B/b/] z/ D/ z/ |
+% Bar 70 (2:18)
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [^A/^a/] z/ D/ z/ [B/b/] z/ D/ z/ |
+[^A/^a/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [=G/=g/] z/ D/ z/ [D/^d/] z/ D/ z/ |
+[^D/g/] z/ z [^G/^g/] z/ D/ z/ [G/^a/] z/ ^A/ z/ [B/b/] z/ D/ z/ |
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [G/^d/] z/ ^A/ z/ [B/g/] z/ D/ z/ |
+[B/^a/] z/ ^A/ z/ [G/g/] z/ ^D/ z/ [A/^d/] z/ D/ z/ [B/=d/] z/ D/ z/ |
+[^A/g/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [G/^a/] z/ A/ z/ [B/b/] z/ D/ z/ |
+[B/^d/] z/ ^A/ z/ [G/=d/] z/ ^D/ z/ [G/b/] z/ B/ z/ [A/^a/] z/ G/ z/ |
+[^D/b/] z/ G/ z/ [^G/^g/] z/ D/ z/ [^A/^a/] z/ D/ z/ [B/b/] z/ D/ z/ |
+% Bar 80 (2:38)
+[^A/^a/] z/ ^D/ z/ [^G/^g/] z/ D/ z/ [=G/=g/] z/ D/ z/ [D/^d/] z/ D/ z/ |
+z5 |]
+
+X: 8
+%%Orig filename was MewlipsBass.abc
+T: The Mewlips (2:42) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+Z: k&r
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ G2 ^G2 ^D2 B2 |
+^G2 ^A2 ^D2 A2 |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 G2 ^D2 |
+^D2 ^G2 D2 B2 |
+^G2 ^A2 ^D2 =G2 |
+^D2 ^d2 ^A2 B2 |
+G2 ^G2 ^D2 D2 |
+G2 ^G2 ^D2 B2 |
+% Bar 10 (0:18)
+^G2 ^A2 ^D2 A2 |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 G2 ^D2 |
+^D2 ^G2 D2 B2 |
+^G2 ^A2 ^D2 =G2 |
+^D2 ^d2 ^A2 B2 |
+G2 ^G2 ^D2 D2 |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 ^D2 A2 |
+G2 ^G2 ^D2 B2 |
+% Bar 20 (0:38)
+^G2 ^A2 G2 ^D2 |
+^D2 ^G2 D2 B2 |
+^G2 ^A2 ^D2 =G2 |
+^D2 ^d2 ^A2 B2 |
+G2 ^G2 ^D2 D2 |
+B,/ z/ z ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 ^A,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 D,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+% Bar 30 (0:58)
+z2 ^D,/ z/ z3 B,/ z/ z |
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+B,/ z/ z ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 ^A,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 D,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+z2 ^D,/ z/ z3 B,/ z/ z |
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+% Bar 40 (1:18)
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 ^D2 A2 |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 G2 ^D2 |
+^D2 ^G2 D2 B2 |
+^G2 ^A2 ^D2 =G2 |
+^D2 ^d2 ^A2 B2 |
+G2 ^G2 ^D2 D2 |
+G2 ^G2 ^D2 B2 |
+% Bar 50 (1:38)
+^G2 ^A2 ^D2 A2 |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 G2 ^D2 |
+^D2 ^G2 D2 B2 |
+^G2 ^A2 ^D2 =G2 |
+^D2 ^d2 ^A2 B2 |
+G2 ^G2 ^D2 D2 |
+G2 ^G2 ^D2 B2 |
+^G2 ^A2 ^D2 A2 |
+G2 ^G2 ^D2 B2 |
+% Bar 60 (1:58)
+^G2 ^A2 G2 ^D2 |
+^D2 ^G2 D2 B2 |
+^G2 ^A2 ^D2 =G2 |
+^D2 ^d2 ^A2 B2 |
+G2 ^G2 ^D2 D2 |
+B,/ z/ z ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 ^A,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 D,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+% Bar 70 (2:18)
+z2 ^D,/ z/ z3 B,/ z/ z |
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+B,/ z/ z ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 ^A,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+z2 G,/ z/ z3 D,/ z/ z |
+z2 ^G,/ z/ z3 B,/ z/ z |
+z2 ^D,/ z/ z3 B,/ z/ z |
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+% Bar 80 (2:38)
+z2 ^G,/ z/ z3 ^D,/ z/ z |
+z5 |]
+
+X: 1
+%%Orig filename was MewlipsFlute.abc
+T: The Mewlips (2:42) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+Z: k&r
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ ^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+G,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 ^G,2 =G,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+B,2 ^A,2 ^D,2 G,2 |
+^A,2 ^G,2 A,2 B,2 |
+^D,2 ^G,2 G,2 B,2 |
+% Bar 10 (0:18)
+B,2 ^A,2 A,2 ^D,2 |
+G,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 ^G,2 =G,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+B,2 ^A,2 ^D,2 G,2 |
+^A,2 ^G,2 A,2 B,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+G,2 ^G,2 G,2 B,2 |
+% Bar 20 (0:38)
+B,2 ^A,2 ^G,2 =G,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+B,2 ^A,2 ^D,2 G,2 |
+^A,2 ^G,2 A,2 B,2 |
+G,2 ^G,2 ^A,2 B,2 |
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^D,2 G,2 |
+^A,2 G,2 ^D,2 =D,2 |
+G,2 ^G,2 ^A,2 B,2 |
+% Bar 30 (0:58)
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^A,2 B,2 |
+^A,2 ^G,2 =G,2 ^D,2 |
+G,2 ^G,2 ^A,2 B,2 |
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^D,2 G,2 |
+^A,2 G,2 ^D,2 =D,2 |
+G,2 ^G,2 ^A,2 B,2 |
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^A,2 B,2 |
+% Bar 40 (1:18)
+^A,2 ^G,2 =G,2 ^D,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+G,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 ^G,2 =G,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+B,2 ^A,2 ^D,2 G,2 |
+^A,2 ^G,2 A,2 B,2 |
+^D,2 ^G,2 G,2 B,2 |
+% Bar 50 (1:38)
+B,2 ^A,2 A,2 ^D,2 |
+G,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 ^G,2 =G,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+B,2 ^A,2 ^D,2 G,2 |
+^A,2 ^G,2 A,2 B,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+G,2 ^G,2 G,2 B,2 |
+% Bar 60 (1:58)
+B,2 ^A,2 ^G,2 =G,2 |
+^D,2 ^G,2 G,2 B,2 |
+B,2 ^A,2 A,2 ^D,2 |
+B,2 ^A,2 ^D,2 G,2 |
+^A,2 ^G,2 A,2 B,2 |
+G,2 ^G,2 ^A,2 B,2 |
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^D,2 G,2 |
+^A,2 G,2 ^D,2 =D,2 |
+G,2 ^G,2 ^A,2 B,2 |
+% Bar 70 (2:18)
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^A,2 B,2 |
+^A,2 ^G,2 =G,2 ^D,2 |
+G,2 ^G,2 ^A,2 B,2 |
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^D,2 G,2 |
+^A,2 G,2 ^D,2 =D,2 |
+G,2 ^G,2 ^A,2 B,2 |
+^D,2 =D,2 B,2 ^A,2 |
+B,2 ^G,2 ^A,2 B,2 |
+% Bar 80 (2:38)
+^A,2 ^G,2 =G,2 ^D,2 |
+z5 |]
+
+X: 14
+%%Orig filename was MewlipsTravellers.abc
+T: The Mewlips (2:42) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+%%made-for Traveller's Trusty Fiddle
+Z: k&r
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mp+ [^D,/G,/-] G,/- G, [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/A,/-^D/] A,/- A, |
+G,/ z/ z [^G,/^D/] z/ z ^D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z G,/ z/ z [^D,/-=G,/^D/] D,/- D, |
+^D,/ z/ z [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/=G,/-^D/] G,/- G, |
+[^D,/-B,/] D,/- D, [^A,/^D/-] D/- D [D,/A,/-] A,/- A, [G,/B,/-] B,/- B, |
+[G,/-^A,/] G,/- G, ^G,/ z/ z [^D,/-A,/] D,/- D, [D,/-B,/] D,/- D, |
+[^D,/G,/-] G,/- G, [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+% Bar 10 (0:18)
+^G,2 [^A,/D/] z/ z ^D,2 [D,/A,/-^D/] A,/- A, |
+G,/ z/ z [^G,/^D/] z/ z ^D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z G,/ z/ z [^D,/-=G,/^D/] D,/- D, |
+^D,/ z/ z [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/=G,/-^D/] G,/- G, |
+[^D,/-B,/] D,/- D, [^A,/^D/-] D/- D [D,/A,/-] A,/- A, [G,/B,/-] B,/- B, |
+[G,/-^A,/] G,/- G, ^G,/ z/ z [^D,/-A,/] D,/- D, [D,/-B,/] D,/- D, |
+[^D,/G,/-] G,/- G, [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/A,/-^D/] A,/- A, |
+G,/ z/ z [^G,/^D/] z/ z ^D,2 [B,/D/] z/ z |
+% Bar 20 (0:38)
+^G,2 [^A,/D/] z/ z G,/ z/ z [^D,/-=G,/^D/] D,/- D, |
+^D,/ z/ z [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/=G,/-^D/] G,/- G, |
+[^D,/-B,/] D,/- D, [^A,/^D/-] D/- D [D,/A,/-] A,/- A, [G,/B,/-] B,/- B, |
+[G,/-^A,/] G,/- G, ^G,/ z/ z [^D,/-A,/] D,/- D, [D,/-B,/] D,/- D, |
+[B,/^D/] z/ z [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ G/ z/ B/ z/ [^A,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ A/ z/ D/ z/ [D,/B/] z/ D/ z/ |
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ G/ z/ A/ z/ [B,/B/] z/ D/ z/ |
+% Bar 30 (0:58)
+B/ z/ ^A/ z/ [^D,/G/] z/ ^D/ z/ G/ z/ B/ z/ [B,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ ^A/ z/ D/ z/ [^D,/B/] z/ D/ z/ |
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ =G/ z/ D/ z/ [^D,/D/] z/ D/ z/ |
+[B,/^D/] z/ z [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ G/ z/ B/ z/ [^A,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ A/ z/ D/ z/ [D,/B/] z/ D/ z/ |
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ G/ z/ A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [^D,/G/] z/ ^D/ z/ G/ z/ B/ z/ [B,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ ^A/ z/ D/ z/ [^D,/B/] z/ D/ z/ |
+% Bar 40 (1:18)
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ =G/ z/ D/ z/ [^D,/D/] z/ D/ z/ |
+[^D,/G,/-] G,/- G, [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/A,/-^D/] A,/- A, |
+G,/ z/ z [^G,/^D/] z/ z ^D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z G,/ z/ z [^D,/-=G,/^D/] D,/- D, |
+^D,/ z/ z [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/=G,/-^D/] G,/- G, |
+[^D,/-B,/] D,/- D, [^A,/^D/-] D/- D [D,/A,/-] A,/- A, [G,/B,/-] B,/- B, |
+[G,/-^A,/] G,/- G, ^G,/ z/ z [^D,/-A,/] D,/- D, [D,/-B,/] D,/- D, |
+[^D,/G,/-] G,/- G, [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+% Bar 50 (1:38)
+^G,2 [^A,/D/] z/ z ^D,2 [D,/A,/-^D/] A,/- A, |
+G,/ z/ z [^G,/^D/] z/ z ^D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z G,/ z/ z [^D,/-=G,/^D/] D,/- D, |
+^D,/ z/ z [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/=G,/-^D/] G,/- G, |
+[^D,/-B,/] D,/- D, [^A,/^D/-] D/- D [D,/A,/-] A,/- A, [G,/B,/-] B,/- B, |
+[G,/-^A,/] G,/- G, ^G,/ z/ z [^D,/-A,/] D,/- D, [D,/-B,/] D,/- D, |
+[^D,/G,/-] G,/- G, [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/A,/-^D/] A,/- A, |
+G,/ z/ z [^G,/^D/] z/ z ^D,2 [B,/D/] z/ z |
+% Bar 60 (1:58)
+^G,2 [^A,/D/] z/ z G,/ z/ z [^D,/-=G,/^D/] D,/- D, |
+^D,/ z/ z [^G,/^D/] z/ z D,2 [B,/D/] z/ z |
+^G,2 [^A,/D/] z/ z ^D,2 [D,/=G,/-^D/] G,/- G, |
+[^D,/-B,/] D,/- D, [^A,/^D/-] D/- D [D,/A,/-] A,/- A, [G,/B,/-] B,/- B, |
+[G,/-^A,/] G,/- G, ^G,/ z/ z [^D,/-A,/] D,/- D, [D,/-B,/] D,/- D, |
+[B,/^D/] z/ z [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ G/ z/ B/ z/ [^A,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ A/ z/ D/ z/ [D,/B/] z/ D/ z/ |
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ G/ z/ A/ z/ [B,/B/] z/ D/ z/ |
+% Bar 70 (2:18)
+B/ z/ ^A/ z/ [^D,/G/] z/ ^D/ z/ G/ z/ B/ z/ [B,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ ^A/ z/ D/ z/ [^D,/B/] z/ D/ z/ |
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ =G/ z/ D/ z/ [^D,/D/] z/ D/ z/ |
+[B,/^D/] z/ z [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ G/ z/ B/ z/ [^A,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ G/ z/ ^A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [G,/G/] z/ ^D/ z/ A/ z/ D/ z/ [D,/B/] z/ D/ z/ |
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ G/ z/ A/ z/ [B,/B/] z/ D/ z/ |
+B/ z/ ^A/ z/ [^D,/G/] z/ ^D/ z/ G/ z/ B/ z/ [B,/A/] z/ G/ z/ |
+^D/ z/ G/ z/ [^G,/^G/] z/ D/ z/ ^A/ z/ D/ z/ [^D,/B/] z/ D/ z/ |
+% Bar 80 (2:38)
+^A/ z/ ^D/ z/ [^G,/^G/] z/ D/ z/ =G/ z/ D/ z/ [^D,/D/] z/ D/ z/ |
+z5 |]
+

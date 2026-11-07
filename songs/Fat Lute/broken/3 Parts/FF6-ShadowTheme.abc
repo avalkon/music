@@ -1,0 +1,71 @@
+N: TS  3,   1   8  21
+X: 1
+%%Orig filename was FF6-ShadowTheme__Flute2.abc
+T:FF3-Shadow (0:39)
+%%part-name Basic Flute
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:FF3-Shadow.mid
+%  Transpose:1
+L:1/4
+Q:120
+K:C
+z123/8 f/4 z3/8 [c'5/2b/4] z19/8 c'5/8 ^a/2 z/8 ^g5/8 z/8 =g/2 z/8 f/2
+z/4 g/2 z/4 ^g/2 z/8 ^d/2 z/8 f11/2 z15/8 [f3/4z5/8] c'19/8 z/8 c'5/8
+z/8 ^a/4 z/2 ^g/2 z/8 =g/4 z3/8 f3/8 z3/8 g5/8 ^g3/8 z3/8 ^d3/8 z/4
+f49/8 z9/8 c'3/4 ^d19/8 z/4 c'/4 z/8 =d/8 z/8 ^d3/8 z/4 =d27/8 z5/8
+^d3/4 =d3/8 z/4 c'3/8 z/4 d/2 z/4 =g/2 z/8 ^a3/8 z3/8 c'23/8 z3/8
+f3/8 z3/8 c'9/4 z3/8 c'/2 z/8 ^a/2 z/8 ^g/2 z/4 =g/2 z/8 f/2 z/4 g/2
+z/8 ^g/2 z/8 ^d/2 z/4 f51/8
+
+X: 8
+%%Orig filename was FF6-ShadowTheme__Lute3.abc
+T:FF3-Shadow (0:40)
+%%part-name Basic Lute
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:FF3-Shadow.mid
+%  Transpose:1
+L:1/4
+Q:120
+K:C
+z/8 [c9/8^G5/4z/8] [F5/4e/4f9/8] z11/8 [^G3/2F13/8c11/8z/8] f11/8 z/2
+[F3/2z/8] [^G3/2c11/8z/8] f5/4 z/2 [F13/8^G3/2c11/8z/8] f5/4 z5/8
+[F11/8^G11/8c9/8z/8] f9/8 z5/8 [F3/2z/8] [^G11/8c5/4z/8] f z7/8
+[F13/8^G13/8z/8] [c11/8f11/8] z/2 [F13/8^G13/8z/8] [c5/4f5/4] z5/8
+[F7/4z/8] [^G7/4c3/2z/8] f11/8 z/4 [F15/8z/8] [^G7/4z/8] [c3/2f13/8]
+z3/8 [F7/4z/8] [^G3/2^c3/2z/8] f11/8 z3/8 [^D15/8=G2^A7/4z/8] ^d13/8
+z/4 [F15/8z/8] [^G7/4=c13/8f13/8] z/4 [F2z/8] [^G15/8c13/8z/8] f3/2
+z3/8 [F7/4^G13/8c13/8z/8] f11/8 z3/8 [F15/8z/8] [^G7/4z/8] [c3/2f3/2]
+z/4 [F7/4z/8] [^G7/4z/8] [c3/2f13/8] z/4 [F13/8z/8] [c11/8^G11/8z/8]
+f11/8 z/4 [F15/8z/8] [^c13/8^G3/2f3/2] z3/8 [^D2=G17/8z/8]
+[^A7/4^d7/4] z/4 [F31/8z/8] [^G13/8=c3/2f3/2] z/2 [^G13/8c3/2z/8]
+f11/8 z3/8 [F7/4z/8] [^G3/2c5/4z/8] f5/4 z/2 [F13/8^G13/8c3/2z/8]
+f3/2 z/2 [^D13/8^G13/8c7/4^d7/4] z/8 [^D7/4z/8] [^G13/8z/8]
+[c7/4^d7/4] z/8 [F3/2^A13/8z/8] [=d13/8f3/2] z/4 [F13/8^A7/4z/8]
+[d7/4f15/8] z/8 [^D13/8c15/8z/8] [^d7/4^G3/2] z3/8 [F15/8^A7/4z/8]
+[=d15/8z/8] f3/2 z3/8 [c15/8e2=G15/8z/8] g7/4 z/8 [G9/4z/8]
+[c3/2e3/2z/8] g9/8 z3/4 [^G13/8c13/8F13/8z/8] f13/8 z/8 [F7/4z/8]
+[^G13/8c3/2z/8] f11/8 z3/8 [F15/8z/8] [^c13/8^G13/8f13/8] z/4
+[^D7/4=G15/8z/8] [^A3/2^d3/2] z/2 [F7/4^G15/8=c3/2f13/8] z/2
+[F7/4^G7/4c3/2z/8] f3/2 z/4 [F7/4^G7/4z/8] [c11/8f3/2] z/2 [F11/8z/8]
+[^G5/4c5/4f5/4]
+
+X: 21
+%%Orig filename was FF6-ShadowTheme__Theorbo1.abc
+T:FF3-Shadow (0:40)
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:FF3-Shadow.mid
+%  Transpose:1
+L:1/4
+Q:120
+%%part-name Basic Theorbo
+K:C
+z/4 F,11/8 z/4 F,7/4 z/4 F,15/8 z/8 F,5/8 C,3/4 [^D,3/4z5/8] F,7/4 z/4
+F,15/8 z/8 F,15/8 z/4 F,5/8 [C,3/4z5/8] ^D,3/4 F,7/4 z/4 F,/2 z/8
+F,5/8 G,3/4 ^G,5/4 ^C,5/8 =C,3/4 ^D,5/8 =G,5/8 F,2 F,15/8 z/8 F,15/8
+z/8 F,5/8 [C,7/8z3/4] [^D,3/4z5/8] F,15/8 z/8 F,/2 z/8 [F,7/8z3/4]
+^D,3/4 ^C,5/4 ^G,3/4 [=G,5/8z/2] [=C,7/8z3/4] ^D,5/8 F,7/4 z/8 F,15/8
+z/4 F,15/8 z/8 F,2 ^G,2 z/8 ^G,15/8 ^A,15/8 z/8 ^A,15/8 [^G,11/8z5/4]
+^D3/4 =D5/8 [=G,7/8z3/4] ^A,3/4 C15/8 z/8 C17/8 F,15/8 z/8 F,3/2
+G,5/8 ^G,9/8 ^C,5/8 [=C,3/4z5/8] ^D,3/4 [=G,3/4z5/8] F,2 F,2 z/8
+F,13/8 z/4 F,5/8 C,3/4 ^D,5/8
+

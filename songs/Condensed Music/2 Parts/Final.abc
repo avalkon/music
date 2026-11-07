@@ -1,0 +1,71 @@
+N: TS  2,   1  21
+X: 1
+%%Orig filename was FinalFlute1.abc
+% Information fields 
+T:FFIX Ceremony (1st part) % Song title  (0:08)
+%%part-name Basic Flute 1
+C:Composer: Nobuo Uematsu % Composer 
+N:Remarks: % Notes 
+Q:1/4=180 % Tempo 
+M:12/8 % Meter 
+L:1/8 % Default note length 
+K:Bb % Key 
+%ABC Tune Notation 
+f1 d1 f1 g1 e1 g1 f1 d1 f1 f1 z2| 
+f1 d1 f1 b1 g1 b1 a1 f1 a1 a1 z2| 
+e1 c1 e1 f1 d1 f1 e1 c1 e1 e1 z2| 
+e1 c1 e1 g2 f1 e1 d1 c1 d1 z2| 
+
+f1 d1 f1 g1 e1 g1 f1 d1 f1 f1 z2| 
+f1 d1 f1 b1 g1 b1 a1 f1 a1 a1 z2| 
+e1 c1 e1 f1 d1 f1 e1 c1 e1 e1 z2| 
+e1 c1 e1 g2 f1 e1 d1 c1 B1 z2| 
+
+g1 e1 g1 b1 g1 b1 a1 f1 a1 b1 z2| 
+g1 a1 b1 e1 d1 c1 f1 e1 c1 d1 z2| 
+g1 e1 g1 b1 g1 b1 a1 g1 a1 b1 z2| 
+M:18/8 % Meter 
+g1 a1 b1 b1 a1 g1 c'12| 
+
+M:12/8 % Meter 
+f1 d1 f1 g1 e1 g1 f1 d1 f1 f1 z2| 
+f1 d1 f1 b1 g1 b1 a1 f1 a1 a1 z2| 
+e1 c1 e1 f1 d1 f1 e1 c1 e1 e1 z2| 
+e1 c1 e1 g2 f1 e1 d1 c1 B3|] 
+%End of file
+
+X: 21
+%%Orig filename was FinalFlute2.abc
+% Information fields 
+T:FFIX Ceremony (2nd Part)% Song title  (0:08)
+%%part-name Basic Flute 2
+C:Composer: Nobuo Uematsu % Composer 
+N:Remarks: % Notes 
+Q:1/4=180 % Tempo 
+M:12/8 % Meter 
+L:1/8 % Default note length 
+K:Bb % Key 
+%ABC Tune Notation 
+B,3 E3 B,3 B,1 z2| 
+B,3 G,3 D3 D1 z2| 
+C3 D3 C3 C1 z2| 
+C3 F,3 B,3 B,1 z2| 
+
+B,3 E3 B,3 B,1 z2| 
+B,3 G,3 D3 D1 z2| 
+C3 D3 C3 C1 z2| 
+C3 F,3 B,3 B,1 z2| 
+
+E3 C3 F3 B,1 z2| 
+E3 C3 F3 B,1 z2| 
+E3 C3 F3 B,1 z2| 
+M:18/8 % Meter 
+G,3 C3 F3 E3 D3 C3| 
+
+M:12/8 % Meter 
+B,3 E3 B,3 B,1 z2| 
+B,3 G,3 D3 D1 z2| 
+C3 D3 C3 C1 z2| 
+C3 F,3 B,3 B,3|] 
+%End of file
+

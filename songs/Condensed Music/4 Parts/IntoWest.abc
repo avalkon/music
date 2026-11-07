@@ -1,0 +1,541 @@
+%abc-2.1
+%%song-title       Into The West
+%%song-duration    4:20
+%%song-transcriber Dallofin Bolderbrook of Crickhollow
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:27:50
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title:  - Into The West
+N: TS  4,   9  1  3 21
+I:decoration +
+
+X: 9
+T: Into The West (4:20) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+%%user-pan auto
+Z: Dallofin Bolderbrook of Crickhollow
+M: 4/4
+Q: 100
+L: 1/8
+K: C maj
++pp+ g c2 g c4- |
+c4 g4 |
+g c2 g c4- |
+c8 |
++p+ g c e g c e g c |
+g B d g B d g B |
+a d f a d f a d |
+a c e a c e a c |
+g c e g c e g c |
+% Bar 10 (0:22)
+g B d g B d g B |
+a d f a d f a d |
+a c e a c e a c |
+z c e g c e g c |
+g B d g B d g B |
+a d f a d f a d |
+a c e a c e a c |
+g c e g c e g c |
+g B d g B d g B |
+a d f a d f a d |
+% Bar 20 (0:46)
+a c e a c e a c |
++mp+ [A,a] c e [A,a] [A,c] e- [e-a] [ce] |
+[G,g] c e [G,g-] [G,cg-] [eg] g c |
+[A,a] c f [A,a-] [A,ca-] [f3/4-a3/4] f// a c |
+[G,g] B d [G,g] [G,B] d g B |
++mf+ A, c e [A,a] [A,c] e- [e-a] [ce] |
+[G,g] c e [G,g-] [G,cg-] [eg] g c |
+[A,a] c f [A,a-] [A,ca-] [f3/4-a3/4] f// a c |
+[G,g] B d [G,g] [G,B] d b- [Bb] |
+[A,a] c e [A,a] [A,c] e- [e-a] [ce] |
+% Bar 30 (1:10)
+[Cg] c e [Cg-] [Ccg-] [eg] g c |
+[F,a] c f [F,a-] [F,ca-] [f3/4-a3/4] f// a c |
+[G,g] B d [G,g] [G,B] d b- [Bb] |
++f+ [Cg] c e [CGg] [Cc] [eg] [Gg-] [cg] |
+[Cg] c [eg] [CGg] [C3/4-c3/4-e3/4] [C//c//-] [ce] [c-f-] [cfg] |
+[F,fa] c [fa] [F,A] [F,c] f [Aa-] [c3/4-a3/4] c// |
+[F,fa] c [fa] [F,A] [F,c] f [Aa-] [c3/4-a3/4] c// |
+[Cg] c e [CGg] [C3/4-c3/4-g3/4] [C//c//] e [Gg-] [cg] |
+[Cg] c e [CGg] [Ccg] e [Gg-] [cg] |
+[G,Gg] [Bg] d [G,G] [G,B] d G B |
+% Bar 40 (1:34)
+[G,d] G B [G,d] [G,G] B d G |
+[Cg] c e [CGg] [C3/4-c3/4-g3/4] [C//c//] e [Gg-] [cg] |
+[Cg] c e [CGg] [Cc-] [ce] [c-f-] [cfg] |
+[F,fa] c [fa] [F,A] [F,ca] f [Aa-] [c3/4-a3/4] c// |
+[F,fa] c [fa] [F,A] [F,ca] f A c |
+[Cg] c [eg] [CG] [C3/4-c3/4-g3/4] [C//c//] e [Gg-] [cg] |
+[Cg] c e [CGg] [Cc] e [Gg-] [cg] |
+[G,Gg] [Bg] d [G,G] [G,B] d G B |
+[G,g-] [gb-] [d3/4-b3/4] d// [G,g] [G,c'-] [dc'] g d |
+[A,Aa-] [ca] [ea] [A,A] [A,3/4-c3/4-a3/4] [A,//c//] e [Aa-] [ca] |
+% Bar 50 (1:58)
+[B,Gg-] [Bg] [eg] [B,G] [B,Bg-] [eg] [Gg-] [Bg] |
+[A,Aa-] [d3/4-a3/4] d// [fa-] [A,Aa] [A,da] f A//- [A3/4a3/4-] [da] |
+[G,G] B d [G,G] [G,B] d [Ga-] [Ba] |
+[A,Aa-] [c3/4-a3/4] c// [ea] [A,Aa] [A,ca-] [ea] [Aa-] [c3/4-a3/4] c// |
+[CGg-] [cg] [eg] [CG] [C//-c//-g//] [C3/4c3/4] e [Gg-] [c3/4-g3/4] c// |
++mf+ [G,Gg-] [cg] [fg] [G,G] [G,cg] [fg] [G,Gg-] [cg] |
+G +mp+ [G,B] [G,d] G B [dg] z// G3/4- [G//B//-] B3/4 |
+z +p+ G c e e G c e |
+z G B d d G B d |
+z F A d d F A d |
+% Bar 60 (2:22)
+A c e e A c e z |
+z G c e e G c e |
+z G B d d G B d |
+z F A d d F A d |
+A c e z// e3/4- [A//-e//] A3/4 c e z |
+z G c e e G c e |
+z G B d d G B d |
+z F A d d F A d |
+A c e z// e3/4- [A//-e//] A3/4 c e z |
+z G c e e G c e |
+% Bar 70 (2:46)
+z G B d d G B d |
+z F A d d F A d |
+A c e z// e3/4- +mf+ [A//-e//] A3/4 c e z |
+A- [Ac] e a c e- [e-a] [ce] |
+g c e g- [cg-] [eg] [e-g] [ce] |
+z// a3/4- [c//-a//] c3/4 f a- [ca-] [fa] a c |
+[G,/-G/-g/-] [G,/A,/-G/A/-g/] [A,/B,/-A/B/-] [B,/C/-B/c/-] [C/D/-c/d/-] [C/-D/c/-d/] [C/D/-c/d/-g/-] [D/E/-d/e/-g/] +f+ [D/-E/B/-d/-e/] [D/E/-B/d/e/-]
+	[E/F/-d/-e/f/-] [F/G/-d/f/] [F/-G/A/-f/] [F/G/-A/B/g/b/-] [G/A/-c/a/-b/c'/-] [A/B/-d/-a/b/c'/] |
++ff+ [B/c/-d/e/-g/-c'/-] [c/e/g/c'/] c [eg] G [c3/4-g3/4] c// e [Gg-] [cg] |
+g c [eg] G c- [ce] [c-f-] [cfg] |
+[fa] c [fa] A [ca] f [Aa-] [c3/4-a3/4] c// |
+% Bar 80 (3:10)
+f [ca] f A [ca] f A//- [A3/4a3/4-] [ca] |
+g c [eg] G [c3/4-g3/4] c// e [Gg-] [cg] |
+g c [eg] G [cg] e [Gg-] [cg] |
+[Gg] [Bg] d G B d G B |
+d G B d G B d G |
+g c [eg] G [c3/4-g3/4] c// e [Gg-] [cg] |
+g c [eg] G c- [ce] [c-f-] [cfg] |
+[fa] c [fa] A [ca] f [Aa-] [c3/4-a3/4] c// |
+[fa] c [fa] A [ca] f [Aa-] [c3/4-a3/4] c// |
+g c [eg] G [c3/4-g3/4] c// e [Gg-] [cg] |
+% Bar 90 (3:34)
+g c [eg] G [cg] e [Gg-] [cg] |
+[Gg] [Bg] d G B d G B |
+g- [gb-] [d3/4-b3/4] d// g g d [gb-] [db] |
++f+ [Aa-] [ca] [ea] A [c3/4-a3/4] c// e [Aa-] [ca] |
+[Gg-] [Bg] [eg] G [Bg-] [eg] [Gg-] [Bg] |
+[Aa-] [d3/4-a3/4] d// [fa-] [Aa] [da] f A//- [A3/4a3/4-] [da] |
+[Ga-] [Ba] d G B d G B |
++mf+ A c [ea] A [ca-] [ea] [Aa-] [c3/4-a3/4] c// |
+[Gg-] [cg] [eg] G [c//-g//] c3/4 e [Gg-] [c3/4-g3/4] c// |
+[Gg-] [cg] [fg] G [cg] f [Gg-] [cg] |
+% Bar 100 (3:58)
++mp+ [Gg] B [d//-g//] d3/4 G [Bg-] [dg] [Gg] [Bg] |
++p+ c G c f f G c f |
+g c z g c z3 |
+z8 |
++pp+ g c z g c z3 |
+z8 |
++ppp+ g c z g z4 |
+z8 |
+z8 |]
+
+
+X: 1
+T: Into The West (4:20) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+Z: Dallofin Bolderbrook of Crickhollow
+M: 4/4
+Q: 100
+L: 1/8
+K: C maj
++ppp+ [C8-G8-] |
+[C4-G4-] [C4G4g4] |
+[C-G-g] [C-G-c] [C-G-] [C-G-g] [C-G-c] [C3-G3-] |
+[C4-G4-] [C4G4g4-] |
++pp+ [G,4-C4-E4-G4-g4] [G,4-C4E4G4] |
+[G,8B,8D8-] |
+[F,8D8A8-] |
+[E,8C8A8] |
+[G,8-C8E8] |
+% Bar 10 (0:22)
+[G,8B,8D8-] |
+[F,8D8A8-] |
+[E,8C8A8] |
+[G,8-C8E8] |
+[G,8B,8D8-] |
+[F,8D8A8-] |
+[E,8C8A8] |
+[G,8-C8E8] |
+[G,8B,8D8-] |
+[F,8D8A8-] |
+% Bar 20 (0:46)
+[E,8C8-A8] |
+[A,31/4-C31/4-A31/4-e31/4] [A,//C//A//] |
+[G,8E8G8c8-] |
+[A,8C8F8c8] |
+[D,8B,8G8d8] |
+[A,31/4-A31/4-e31/4] [A,//A//] |
+[G,8E8G8c8-] |
+[A,8C8F8c8] |
+[D,8B,8G8d8] |
++p+ [A,31/4-A31/4-e31/4] [A,//A//] |
+% Bar 30 (1:10)
+[G,8E8G8c8-] |
+[A,8C8F8c8] |
+[D,8B,8G8d8] |
++mp+ [E,8C8G8] |
+[E,8-C8-G8] |
+[E,//F,//-A,//-C//-] [F,15/2-A,15/2-C15/2] [F,//A,//] |
+[F,31/4A,31/4-C31/4-] [A,//C//] |
++mf+ [E,8C8G8] |
+[E,8C8G8-] |
+[D,8G,8-B,8-G8] |
+% Bar 40 (1:34)
+[D,31/4-G,31/4B,31/4-G31/4-] [D,//B,//G//] |
+[E,8C8G8] |
+[E,8-C8-G8] |
+[E,//F,//-A,//-C//-] [F,15/2-A,15/2-C15/2] [F,//A,//] |
+[F,31/4A,31/4-C31/4-] [A,//C//] |
+[E,8C8G8] |
+[E,8C8G8] |
+[D,8G,8-B,8-] |
+[D,31/4-G,31/4B,31/4-G31/4-] [D,//B,//G//] |
++mp+ [E,8-A,8c8e8-] |
+% Bar 50 (1:58)
+[E,31/4-B,31/4-G31/4e31/4-] [E,//B,//e//] |
+[D,8-A,8F8-d8-] |
+[D,//-B,//-F//G//-d//-] [D,15/2-B,15/2G15/2-d15/2-] [D,//G//d//] |
+[E,8C8A8e8] |
+[E,8C8G8e8] |
++p+ [F,8D8F8G8-] |
+[B,8D8G8B8] |
++pp+ [G,8-C8E8] |
+[G,8B,8D8-] |
+[F,8D8A8-] |
+% Bar 60 (2:22)
+[E,8C8A8] |
+[G,8-C8E8] |
+[G,8B,8D8-] |
+[F,8D8A8-] |
+[E,8C8A8] |
+[G,8-C8E8] |
+[G,8B,8D8-] |
+[F,8D8A8-] |
+[E,8C8A8] |
+[G,8-C8E8] |
+% Bar 70 (2:46)
+[G,8B,8D8-] |
+[F,8D8A8-] |
+[E,8C8-A8] |
++p+ [A,31/4-C31/4-A31/4-e31/4] [A,//C//A//] |
+[G,8E8G8c8-] |
+[A,8C8F8c8] |
++mp+ [D,/-G,/-] [D,/-G,/-A,/-] [D,/-G,/-A,/B,/-] [D,/-G,/-B,/C/-] [D,/-G,/-C/D/-] [D,/-G,/-D/-E/-] [D,/-G,/-D/-E/F/-] [D,/-G,/-D/F/G/-] +mf+ [D,/-G,/-D/-G/]
+	[D,/-G,/-D/-E/-] [D,/-G,/-D/-E/F/-] [D,/-G,/-D/-F/G/-] [D,/-G,/-D/-G/-A/-] [D,/-G,/-D/-G/-A/B/-] [D,/-G,/-D/-G/-B/c/-] [D,/G,/D/G/c/d/-] |
++f+ [C/-G/-c/-d/e/-] [C15/2G15/2c15/2e15/2] |
+[E,8-C8-G8c8e8] |
+[E,//F,//-A,//-C//-A//-c//-] [F,15/2-A,15/2-C15/2A15/2-c15/2-] [F,//A,//A//c//] |
+% Bar 80 (3:10)
+[F,31/4A,31/4-C31/4A31/4-c31/4-d31/4-] [A,//A//c//d//] |
+[E,8C8G8c8e8] |
+[E,8C8G8-c8e8] |
+[D,8G,8-B,8-G8d8] |
+[D,31/4-G,31/4B,31/4-G31/4-B31/4-d31/4-] [D,//B,//G//B//d//] |
+[E,31/4-C31/4-G31/4c31/4-e31/4-] [E,//C//c//e//] |
+[E,8-C8-G8c8e8] |
+[E,//A,//-C//-A//-c//-f//-] [A,15/2-C15/2A15/2-c15/2-f15/2-] [A,//A//c//f//] |
+[F,31/4A,31/4-C31/4A31/4-c31/4-d31/4-] [A,//A//c//d//] |
+[E,8C8G8c8e8] |
+% Bar 90 (3:34)
+[E,8C8G8-c8e8] |
+[D,8G,8-B,8-G8c8d8] |
+[D,31/4-G,31/4B,31/4-G31/4-B31/4-d31/4-] [D,//B,//G//B//d//] |
++mf+ [E,8-A,8c8e8-] |
+[E,31/4-B,31/4-G31/4e31/4-] [E,//B,//e//] |
+[D,8-A,8F8-d8-] |
++mp+ [D,//-B,//-F//G//-d//-] [D,15/2-B,15/2G15/2-d15/2-] [D,//G//d//] |
+[E,8C8A8e8] |
++p+ [E,8C8G8e8] |
+[F,8D8F8G8-] |
+% Bar 100 (3:58)
+[B,8G8] |
+[G,8E8G8c8] |
+[B,4-D4F4-d4] [B,2-F2-c2] [B,2F2B2] |
+[G,4-C4-E4-G4-c4] [G,4C4E4G4] |
++pp+ [G,4-C4-] [G,4C4E4] |
+G,4- [C,4-G,4] |
+[C,-E,C] [C,-G,E] [C,-CGe-] +ppp+ [C,//-E//-c//-e//-] [C,3/4E3/4-G3/4-c3/4-e3/4-] [E4G4c4e4-] |
+[C,8-G,8-C8-c8e8] |
+[C,8G,8C8] |]
+
+
+X: 3
+T: Into The West (4:20) - [Horn 1] (4:19)
+%%part-name [Horn 1] (4:19)
+%%made-for Basic Horn
+%%user-pan auto
+Z: Dallofin Bolderbrook of Crickhollow
+M: 4/4
+Q: 100
+L: 1/8
+K: C maj
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z2 c3 G3- |
+G4 z4 |
+z3 G A c c d |
+A8 |
+z6 c A |
+% Bar 10 (0:22)
+c d7 |
+z3 d/ e/ d c A c |
+e8 |
+z4 f3/2 e/ d2 |
+d8 |
+d3 d/ e/ d c A c |
+e2 e/ d/ c c4 |
+z6 c A |
+c2 d6 |
+z3 d/ e/ d c A G |
+% Bar 20 (0:46)
+A8 |
+z4 +mf+ A B A c- |
+c8 |
+z4 A B A c- |
+c3 c B2 G B |
+A4 A B A c- |
+c8 |
+z4 A B A c- |
+c3 c d2 c e- |
+e4 e c d c- |
+% Bar 30 (1:10)
+c8 |
+z4 c5/4 d5/4- [c//-d//] c5/4 |
+e3 d d4 |
+z2 +f+ f2 e2 d2 |
+e8 |
+z9/4 c'7/4 b2 a2 |
+a2 g6 |
+z2 f2 e2 d2 |
+e4 g4 |
+g8- |
+% Bar 40 (1:34)
+g4 z4 |
+z2 f2 e2 d2 |
+e8 |
+z2 c'2 b7/4 z// a2 |
+a2 g6 |
+z2 f2 e2 d2 |
+e3 e z// e5/4 f5/4 g5/4 |
+d8- |
+d4 z4 |
+z3 A a11/4 z// a |
+% Bar 50 (1:58)
+g8 |
+z2 f2 z// f7/4 e2 |
+d8 |
+z3 +mf+ a a5/4 z// b z// a5/4 |
+a2 g6 |
+f4 e4 |
+d8 |
+z2 +mp+ c3 G3- |
+G4 z4 |
+z3 G A c c d |
+% Bar 60 (2:22)
+A8 |
+z6 c A |
+c d7 |
+z3 d/ e/ d c A c |
+e8 |
+z4 f3/2 e/ d2 |
+d8 |
+d3 d/ e/ d c A c |
+e2 e/ d/ c z// c15/4 |
+z6 c A |
+% Bar 70 (2:46)
+c2 d6 |
+z3 d/ e/ d c A G |
+A4 z +mf+ A B c |
+e5 c d c- |
+c31/4 z// |
+z5 d3 |
+e2 d6 |
+z2 +ff+ f2 e2 d2 |
+e8 |
+z9/4 +fff+ c'7/4 b2 a2 |
+% Bar 80 (3:10)
+a2 g6 |
+z2 f2 e2 d2 |
+e4 g4 |
+g8- |
+g4 z4 |
+z2 +ff+ f2 e2 d2 |
+e8 |
+z2 +fff+ c'2 b7/4 z// a2 |
+a2 g6 |
+z2 f2 e2 d2 |
+% Bar 90 (3:34)
+e3 e z// e5/4 f5/4 g5/4 |
+d8- |
+d4 z4 |
+z3 +ff+ A a11/4 z// a |
+g8 |
+z2 f2 z// f7/4 e2 |
+d8 |
+z3 +f+ a a5/4 z// b z// a5/4 |
+a2 g6 |
++mf+ f4 e4 |
+% Bar 100 (3:58)
+d15/4 z// +mp+ d5/4 c5/4- [B//-c//] B5/4 |
+c8- |
+c8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 21
+T: Into The West (4:20) - [Horn 2] (4:19)
+%%part-name [Horn 2] (4:19)
+%%made-for Basic Horn
+%%user-pan auto
+Z: Dallofin Bolderbrook of Crickhollow
+M: 4/4
+Q: 100
+L: 1/8
+K: C maj
++pp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:22)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:46)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:34)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:22)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:46)
+z8 |
+z8 |
+z8 |
+C8- |
+C8 |
++p+ F,8 |
++mf+ G, A, B, C +f+ D E F G |
++ff+ [C8E8] |
+[G,4-C4-c4-] [G,5/4-C5/4-E5/4c5/4-e5/4] [G,3/2-C3/2-F3/2c3/2-f3/2] [G,5/4C5/4G5/4c5/4g5/4] |
+[A8a8] |
+% Bar 80 (3:10)
+G,4- [G,/-A,/-A/-] [G,/-A,/B,/-A/B/-] [G,/-B,/C/-B/c/-] [G,/-C/D/-c/d/-] [G,/-C/-D/c/-d/] [G,/-C/D/-c/d/-] [G,/-D/E/-d/e/-] [G,/E/F/-e/f/-] |
+[C/-F/G/-c/-f/g/-] [C15/2G15/2c15/2g15/2] |
+[E8c8e8] |
+[G,2-D2-G2-d2-] [G,2-C2D2-G2-c2d2-] [G,2-B,2D2-G2-B2d2-] [G,2A,2D2G2A2d2] |
+[G,2-B,2B2d2-] [G,2-C2c2d2] [G,2-D2d2-] [G,2E2d2e2] |
+[C8E8c8] |
+[C4-G4-e4] [C5/4-E5/4G5/4-e5/4] [C3/4-F3/4-G3/4f3/4-] [C3/4-F3/4f3/4] [C5/4G5/4g5/4] |
+[F,8A8a8] |
+[G,2-G2-] [G,2-F2G2-f2] [G,2-E2G2-e2] [G,2D2G2d2] |
+[C8E8c8] |
+% Bar 90 (3:34)
+[G,4-E4-] [G,2-E2-A2] [G,2E2c2] |
+G8- |
+G8 |
++mf+ c6 d c |
+e6 d c |
+A6 F E |
+D6 A B |
++mp+ c6 d c |
+c2 E4 F G |
++p+ A8 |
+% Bar 100 (3:58)
++pp+ G8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+

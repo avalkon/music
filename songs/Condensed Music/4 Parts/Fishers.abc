@@ -1,0 +1,473 @@
+N: TS  4,   9  21   5  22
+X: 9
+%%Orig filename was FishersAges1.abc
+T: Fishers Hornpipe [Lute OA 1] (1:31)
+%%part-name Lute
+M: 2/4
+Q: 131
+K: C maj
+
++mf+ z6 ^D [FG] |
++f+ ^G +ff+ ^D +f+ C +ff+ D +f+ ^C F +ff+ D +f+ C |
++ff+ C +f+ ^G, C +ff+ ^D +f+ ^C +ff+ F +f+ D C |
++ff+ C +f+ ^D ^G, C +mf+ ^D, +f+ =G, ^A, +ff+ ^C |
++f+ C ^D +mf+ ^G +f+ c ^A +mf+ =G +f+ D c |
++ff+ ^G +f+ ^D C +ff+ D +f+ ^C F +ff+ D +f+ C |
+C ^G, C +ff+ ^D +f+ ^C F D C |
+C ^D ^G c ^A =G D A |
+^G2 c2 G2 ^D F |
+% Bar 10 (0:08)
++ff+ [G^G] +f+ ^D C +ff+ D +f+ ^C +ff+ F D +f+ C |
++ff+ C +mf+ ^G, +f+ C +ff+ ^D ^C +f+ F +ff+ D +f+ C |
+C +ff+ ^D +f+ ^G, C ^D, =G, ^A, +ff+ ^C |
++f+ C +ff+ ^D +f+ ^G c ^A =G D c |
++ff+ ^G ^D +f+ C +ff+ D +f+ ^C F +ff+ D +f+ C |
+C ^G, C +ff+ ^D +f+ ^C F D C |
++mf+ C +ff+ ^D +f+ ^G c ^A =G D +ff+ A |
++f+ ^G2 c2 +ff+ G2 +f+ =G ^G |
+^A G ^D z G A G A |
++ff+ ^d +f+ c ^G ^D G c G c |
+% Bar 20 (0:17)
+^G +ff+ ^A +mf+ =G +f+ ^D +mf+ G +f+ A +mf+ G +ff+ ^c |
+c +f+ ^A ^G +mf+ =G F +f+ ^D C +ff+ D |
++f+ ^G F ^C ^G, C F ^A G |
+F +ff+ ^D +f+ C ^G, +ff+ C +f+ D +ff+ C +f+ ^G |
++ff+ ^D F +f+ ^G +mf+ =G +f+ F +ff+ D +f+ ^C =C |
+^A, ^G,2 +ff+ C2 +f+ G,2 +mp+ G |
++ff+ ^G +f+ ^A =G ^D G A G A |
+^d +ff+ c +f+ ^G ^D G c G c |
+^G ^A +mf+ =G +f+ ^D G A +mf+ G +ff+ ^c |
++f+ c ^A ^G +mf+ =G +f+ F ^D C D |
+% Bar 30 (0:26)
+^G F ^C ^G, +ff+ C +f+ F ^A +mf+ G |
++f+ F +ff+ ^D +f+ C +mf+ ^G, +f+ C +ff+ D +f+ C ^G |
++fff+ ^D +f+ F ^G +mf+ =G +f+ F +ff+ D +f+ ^C =C |
+^A, ^G,2 +ff+ C2 +f+ G,2 ^D |
+[EG] ^G +ff+ ^D +mp+ B, +ff+ D +f+ ^C +mf+ E +f+ D |
+^C +mp+ B, +f+ ^G, +mf+ B, +ff+ ^D +f+ C +mf+ E +f+ D |
+^C B, ^G, +mf+ B, +ff+ ^D +f+ ^D, +mp+ =G, +ff+ ^A, |
+^C +f+ B, +ff+ ^D +f+ ^G B ^A =G D |
++ff+ ^A +f+ ^G +ff+ ^D +mf+ B, +ff+ D +f+ ^C E +ff+ D |
++f+ ^C +mp+ B, +f+ ^G, +mf+ B, +ff+ ^D C +f+ E D |
+% Bar 40 (0:35)
+^C +mf+ B, +f+ ^D ^G B ^A +mf+ =G +f+ D |
++ff+ ^A +f+ ^G2 B2 +ff+ G2 +f+ ^D |
+E +fff+ [G^G] +ff+ ^D +mf+ B, +ff+ D +f+ ^C E +ff+ D |
++f+ ^C B, ^G, +mf+ B, +ff+ ^D C +f+ E D |
++ff+ ^C +mp+ B, +f+ ^G, +mf+ B, +ff+ ^D ^D, +mf+ =G, +f+ ^A, |
++ff+ ^C +mf+ B, +ff+ ^D +f+ ^G B +ff+ ^A +f+ =G D |
++ff+ ^A +f+ ^G +ff+ ^D +mf+ B, +ff+ D +f+ ^C E +ff+ D |
++f+ ^C +mf+ B, +f+ ^G, +mf+ B, +ff+ ^D C +mp+ E +f+ D |
+^C B, +ff+ ^D +f+ ^G B ^A =G D |
+^A +ff+ ^G2 +f+ B2 +ff+ G2 +mf+ =G |
+% Bar 50 (0:44)
+z +f+ ^G +ff+ ^A +f+ =G ^D +mf+ G +f+ A +mp+ G |
++f+ ^A +ff+ ^d +mf+ B +f+ d ^D B d D |
+B ^G ^A =G ^D G A G |
++ff+ ^c +mf+ B +f+ ^A ^G =G E +ff+ ^D +f+ B, |
++ff+ ^D ^G +f+ E ^C ^G, +ff+ C +f+ E +ff+ ^A |
++f+ ^G E +ff+ ^D +f+ B, ^G, +mf+ B, +ff+ D +mf+ B, |
++f+ ^G +ff+ ^D +f+ E +ff+ G +mp+ =G +f+ E +ff+ D +f+ ^C |
+B, +ff+ ^A, +f+ ^G,2 +ff+ [B,2^D2] G,2 |
++f+ G +ff+ ^G +f+ ^A +mf+ =G +f+ ^D G A G |
++ff+ ^A ^d +f+ B +ff+ d +f+ ^D B d D |
+% Bar 60 (0:54)
++mf+ B +f+ ^G ^A +mf+ =G +f+ ^D G A +mf+ G |
++ff+ ^c +mf+ B +f+ ^A ^G =G E +ff+ ^D +f+ B, |
++ff+ ^D ^G +f+ E +ff+ ^C +f+ ^G, C E +ff+ ^A |
++f+ ^G E +ff+ ^D +mf+ B, ^G, B, +ff+ D +mf+ B, |
++f+ ^G +ff+ ^D E G +mf+ =G +f+ E +ff+ D +f+ ^C |
+B, ^A, +ff+ ^G, z [B,2^D2] +f+ G,2 |
++ff+ B, C +f+ ^G +ff+ ^D +f+ C +ff+ D +f+ ^C F |
++mp+ ^C +ff+ ^D +f+ =C ^G, +ff+ D +f+ C ^C D |
+F +ff+ ^C +f+ =C ^D ^G, C +mf+ ^D, =G, |
++ff+ ^A, +f+ ^C ^D =C ^G, +ff+ C A,2 |
+% Bar 70 (1:03)
++f+ ^G =G ^G2 G ^D F ^C |
+F ^G +ff+ ^D +f+ ^G, C G, ^C +ff+ D |
++f+ F ^C +mf+ =C +f+ ^G +ff+ ^D +f+ C ^A, ^C |
+G, +ff+ ^D +f+ ^G,2 +ff+ [C2D2] +mp+ G, +f+ D |
++ff+ ^G +p+ c' +f+ ^g +ff+ ^d +f+ c G ^c f |
++ff+ ^d +f+ ^c +ff+ =c +f+ ^G c d ^c f |
+^d ^c +ff+ =c ^G ^D +f+ C +ff+ ^D, +mf+ G, |
++f+ ^A, ^C ^G, ^D +ff+ ^G c +f+ ^A g |
++ff+ ^d c' ^g +f+ d c ^G +ff+ ^c +f+ f |
+^d ^c +ff+ =c +f+ ^G ^D C ^C F |
+% Bar 80 (1:12)
++ff+ ^D +f+ ^C =C D +mf+ ^G, +f+ C ^A, ^C |
++mf+ G, +ff+ ^D +f+ ^G,2 +ff+ [C2D2] +f+ G,2 |
++mf+ G, +f+ ^G, ^A, =G, +ff+ ^D, +mp+ G, z +ff+ A, |
++f+ ^D G +ff+ ^A c +f+ ^G D +ff+ G +f+ c |
++ff+ ^d ^g c' ^a =g +f+ d ^c +ff+ ^A |
++mf+ G +f+ ^D ^C ^A, ^G, +mp+ =G, +f+ A, +ff+ ^D, |
++mf+ G, +ff+ ^A, ^D F ^C +f+ ^G, +ff+ C +f+ F |
+^G +ff+ ^c +f+ f ^d =c G ^D C |
++ff+ ^D +f+ ^G c G +ff+ c +f+ =G +ff+ F D |
++f+ ^C =C ^A, ^G,2 +ff+ [C2^D2] +f+ G,- |
+% Bar 90 (1:21)
+^G, +mp+ =G, +f+ ^G, ^A, =G, ^D, +mf+ G, +ff+ A, |
+^D +f+ G +ff+ ^A +f+ c ^G D G +ff+ c |
+^d +f+ ^g c' +ff+ ^a +f+ =g +ff+ f +f+ ^c ^A |
+G +ff+ ^D +f+ ^C ^A, ^G, +mp+ =G, +ff+ A, ^D, |
++mf+ G, +ff+ ^A, ^D F ^C +f+ ^G, +ff+ C F |
++mf+ ^G +ff+ ^c f ^d =c +f+ G ^D C |
++ff+ ^D +f+ ^G c F +ff+ G +f+ =G F +ff+ D |
++f+ ^C +ff+ =C +f+ ^A, +ff+ ^G,2 [C2^D2] G,- |
+^G, ^D [FG] ^G D F +f+ G +ff+ D |
++f+ C ^C F +ff+ ^D +f+ C =C ^A, +ff+ [^G,-D-] |
+[^G,3^D3] z5 |]
+
+X: 21
+%%Orig filename was FishersAges2.abc
+T: Fishers Hornpipe [Lute OA 2] (1:31)
+%%part-name Lute
+M: 2/4
+Q: 131
+K: C maj
+
++mf+ z6 ^d [fg] |
++f+ [^G-^g] +ff+ [G^d] +f+ c +ff+ d +f+ [^C-^c] [Cf] +ff+ d +f+ c |
++ff+ [^Gc] +f+ G c +ff+ ^d +f+ [^C-^c] +ff+ [Cf] +f+ d c |
++ff+ [^G-c] +f+ [G^d] G c +mf+ ^D- +f+ [D=G] ^A +ff+ ^c |
++f+ [^G-c] [G^d] +mf+ ^g +f+ c' [^D-^a] +mf+ [D=g] +f+ d c' |
++ff+ [^G-^g] +f+ [G^d] c +ff+ d +f+ [^C-^c] [Cf] +ff+ d +f+ c |
+[^Gc] G c +ff+ ^d +f+ [^C-^c] [Cf] d c |
+[^G-c] [G^d] ^g c' [^D-^a] [D=g] d a |
+[^G2^g2] c'2 [^D2g2] ^d f |
+% Bar 10 (0:08)
++ff+ [^G-g^g] +f+ [G^d] c +ff+ d +f+ [^C-^c] +ff+ [Cf] d +f+ c |
++ff+ [^Gc] +mf+ G +f+ c +ff+ ^d [^C-^c] +f+ [Cf] +ff+ d +f+ c |
+[^G-c] +ff+ [G^d] +f+ G c ^D- [D=G] ^A +ff+ ^c |
++f+ [^G-c] +ff+ [G^d] +f+ ^g c' [^D-^a] [D=g] d c' |
++ff+ [^G-^g] [G^d] +f+ c +ff+ d +f+ [^C-^c] [Cf] +ff+ d +f+ c |
+[^Gc] G c +ff+ ^d +f+ [^C-^c] [Cf] d c |
++mf+ [^G-c] +ff+ [G^d] +f+ ^g c' [^D-^a] [D=g] d +ff+ a |
++f+ [^G2^g2] c'2 +ff+ g- +mf+ [G-g] +f+ [G=g] ^g |
+^a [^D-g] [D^d] z g [^A-a] [Ag] a |
++ff+ ^d +f+ [^G-c'] [G^g] d g [^D-c'] [Dg] c' |
+% Bar 20 (0:17)
+^g +ff+ [^D-^a] +mf+ [D=g] +f+ ^d +mf+ g +f+ [^A-a] +mf+ [Ag] +ff+ ^c |
+c' +f+ [^D-^a] [D^g] +mf+ =g f +f+ [^A-^d] [Ac] +ff+ d |
++f+ ^g [^C-f] [C^c] ^G c [G-f] [G^a] g |
+f +ff+ [^G-^d] +f+ [Gc] G +ff+ c +f+ [^D-d] +ff+ [Dc] +f+ ^g |
++ff+ ^d [^C-f] +f+ [C^g] +mf+ =g +f+ f +ff+ [^D-d] +f+ [D^c] =c |
+^A ^G2 +ff+ c2 +f+ G2 +mp+ g |
++ff+ ^g +f+ [^D-^a] [D=g] ^d g [^A-a] [Ag] a |
+^d +ff+ [^D-c'] +f+ [D^g] d g [^A-c'] [Ag] c' |
+^g [^D-^a] +mf+ [D=g] +f+ ^d g [^A-a] +mf+ [Ag] +ff+ ^c |
++f+ c' [^D-^a] [D^g] +mf+ =g +f+ f [^A-^d] [Ac] d |
+% Bar 30 (0:26)
+^g [^C-f] [C^c] ^G +ff+ c +f+ [G-f] [G^a] +mf+ g |
++f+ f +ff+ [^G-^d] +f+ [Gc] +mf+ G +f+ c +ff+ [^D-d] +f+ [Dc] ^g |
++fff+ ^d +f+ [^C-f] [C^g] +mf+ =g +f+ f +ff+ [^D-d] +f+ [D^c] =c |
+^A ^G2 +ff+ c2 +f+ G2 ^d |
+[eg] [^G-^g] +ff+ [G^d] +mp+ B +ff+ d +f+ [^C-^c] +mf+ [Ce] +f+ d |
+^c +mf+ [^GB] +f+ G +mf+ B +ff+ ^d +f+ [^C-c] +mf+ [Ce] +f+ d |
+^c [^GB] G +mf+ B +ff+ ^d +f+ ^D- +mp+ [D=G] +ff+ ^A |
+^c +f+ [^G-B] +ff+ [G^d] +f+ ^g b [^D-^a] [D=g] d |
++ff+ ^a +f+ [^G-^g] +ff+ [G^d] +mf+ B +ff+ d +f+ [^C-^c] [Ce] +ff+ d |
++f+ ^c +mf+ [^GB] +f+ G +mf+ B +ff+ ^d [^C-c] +f+ [Ce] d |
+% Bar 40 (0:35)
+^c +mf+ [^G-B] +f+ [G^d] ^g b [^D-^a] +mf+ [D=g] +f+ d |
++ff+ ^a +f+ [^G2^g2] b2 +ff+ [G2g2] +f+ ^d |
+e +fff+ [^G-g^g] +ff+ [G^d] +mf+ B +ff+ d +f+ [^C-^c] [Ce] +ff+ d |
++f+ ^c [^GB] G +mf+ B +ff+ ^d [^C-c] +f+ [Ce] d |
++ff+ ^c +mf+ [^GB] +f+ G +mf+ B +ff+ ^d [^C-^D] +mf+ [C=G] +f+ ^A |
++ff+ ^c +mf+ [^G-B] +ff+ [G^d] +f+ ^g b +ff+ [^D-^a] +f+ [D=g] d |
++ff+ ^a +f+ [^G-^g] +ff+ [G^d] +mf+ B +ff+ d +f+ [^C-^c] [Ce] +ff+ d |
++f+ ^c +mf+ [^GB] +f+ G +mf+ B +ff+ ^d [^C-c] +mp+ [Ce] +f+ d |
+^c [^G-B] +ff+ [G^d] +f+ ^g b [^D-^a] [D=g] d |
+^a +ff+ [^G2^g2] +f+ b2 +ff+ [G2g2] +mf+ =g |
+% Bar 50 (0:44)
+z +f+ ^g +ff+ [^D-^a] +f+ [D=g] ^d +mf+ g +f+ [^A-a] +mp+ [Ag] |
++f+ ^a +ff+ ^d +mf+ [^G-b] +f+ [Gd] d b [^D-d] [Dd] |
+b ^g [^D-^a] [D=g] ^d g [^A-a] [Ag] |
++ff+ ^c +mf+ b +f+ [^D-^a] [D^g] =g e +ff+ [^A-^d] +f+ [AB] |
++ff+ ^d ^g +f+ [^C-e] [C^c] ^G +ff+ c +f+ [G-e] +ff+ [G^a] |
++f+ ^g e +ff+ [^G-^d] +f+ [GB] G +mf+ B +ff+ [^D-d] +mf+ [DB] |
++f+ ^g +ff+ ^d +f+ [^C-e] +ff+ [Cg] +mp+ =g +f+ e +ff+ [^D-d] +f+ [D^c] |
+B +ff+ ^A +f+ ^G2 +ff+ [B2^d2] G2 |
++f+ g +ff+ ^g +f+ [^D-^a] +mf+ [D=g] +f+ ^d g [^A-a] [Ag] |
++ff+ ^a ^d +f+ [^G-b] +ff+ [Gd] +f+ d b [^D-d] [Dd] |
+% Bar 60 (0:54)
++mf+ b +f+ ^g [^D-^a] +mf+ [D=g] +f+ ^d g [^A-a] +mf+ [Ag] |
++ff+ ^c +mf+ b +f+ [^D-^a] [D^g] =g e +ff+ [^A-^d] +f+ [AB] |
++ff+ ^d ^g +f+ [^C-e] +ff+ [C^c] +f+ ^G c [G-e] +ff+ [G^a] |
++f+ ^g e +ff+ [^G-^d] +mf+ [GB] G B +ff+ [^D-d] +mf+ [DB] |
++f+ ^g +ff+ ^d [^C-e] [Cg] +mf+ =g +f+ e +ff+ [^D-d] +f+ [D^c] |
+B ^A +ff+ ^G2 [B2^d2] +f+ G2 |
++ff+ B c +f+ [^G-^g] +ff+ [G^d] +f+ c +ff+ d +f+ [^C-^c] [Cf] |
++mp+ ^c +ff+ ^d +f+ [^G=c] G +ff+ d +f+ c [^C-^c] [Cd] |
+f +ff+ ^c +f+ [^G-=c] [G^d] G c +mf+ ^D- [D=G] |
++ff+ ^A +f+ ^c [^G-^d] [G=c] G +ff+ c [^D2A2] |
+% Bar 70 (1:03)
++f+ ^g =g [^G2^g2] g ^d [^C-f] [C^c] |
+f ^g +ff+ [^G^d] +f+ G c G [^C-^c] +ff+ [Cd] |
++f+ f ^c +mf+ [^G-=c] +f+ [G^g] +ff+ ^d +f+ c [^D-^A] [D^c] |
+G +ff+ ^d +f+ ^G2 +ff+ [c2d2] +mf+ [^D-G] +f+ [Dd] |
++ff+ ^g +p+ c' +f+ [^G-g] +ff+ [G^d] +f+ c' g [^C-^c] [Cf] |
++ff+ ^d +f+ ^c +ff+ [^G-c'] +f+ [G^g] c' d [^C-c] [Cf] |
+^d ^c +ff+ [^G-c'] [G^g] d +f+ =c +ff+ ^D- +mf+ [D=G] |
++f+ ^A ^c ^G- [G^d] +ff+ ^g c' +f+ [^D-^a] [D=g] |
++ff+ ^d c' [^G-^g] +f+ [Gd] c' g +ff+ [^C-^c] +f+ [Cf] |
+^d ^c +ff+ [^G-c'] +f+ [G^g] d =c [^C-^c] [Cf] |
+% Bar 80 (1:12)
++ff+ ^d +f+ ^c [^G-=c] [Gd] +mf+ G +f+ c [^D-^A] [D^c] |
++mf+ G +ff+ ^d +f+ ^G2 +ff+ [c2d2] +f+ [^D2G2] |
++mf+ G +f+ ^G [^D-^A] [D=G] +ff+ D +mp+ G z +ff+ A- |
++f+ [^A^d] g +ff+ ^a [^G-c'] +f+ [G^g] d +ff+ g +f+ [^D-c'] |
++ff+ [^D^d] ^g c' [D-^a] [D=g] +f+ d ^c +ff+ [^A-a] |
++mf+ [^Ag] +f+ ^d ^c [^D-A] [D^G] +mp+ =G +f+ A +ff+ [DA-] |
++mf+ [G^A] +ff+ A ^d [^C-f] [C^c] +f+ ^G +ff+ c +f+ [G-f] |
+[^G^g] +ff+ ^c +f+ f [G-^d] [Gc'] g d [^D-=c] |
++ff+ [^D^d] +f+ ^g c' [^C-g] +ff+ [Cc'] +f+ =g +ff+ f [D-d] |
++f+ [^D^c] =c ^A ^G2 +ff+ [c2^d2] +f+ G- |
+% Bar 90 (1:21)
+^G +mp+ =G +f+ ^G [^D-^A] [D=G] D +mf+ G +ff+ A- |
+[^A^d] +f+ g +ff+ ^a +f+ [^G-c'] [G^g] d g +ff+ [^D-c'] |
+[^D^d] +f+ ^g c' +ff+ [D-^a] +f+ [D=g] +ff+ f +f+ ^c [^A-a] |
+[^Ag] +ff+ ^d +f+ ^c [^D-A] [D^G] +mp+ =G +ff+ A [DA-] |
++mf+ [G^A] +ff+ A ^d [^C-f] [C^c] +f+ ^G +ff+ c [G-f] |
++mf+ [^G^g] +ff+ ^c f [G-^d] [Gc'] +f+ g d [^D-=c] |
++ff+ [^D^d] +f+ ^g c' [^C-f] +ff+ [Cg] +f+ =g f +ff+ [D-d] |
++f+ [^D^c] +ff+ =c +f+ ^A +ff+ ^G2 [c2^d2] G- |
+^G ^d [fg] ^g d f +f+ g +ff+ d |
++f+ c ^c f +ff+ ^d +f+ c =c ^A +ff+ [^G-d-] |
+[^G3^d3] z5 |]
+
+X: 5
+%%Orig filename was FishersHarp1.abc
+T: Fishers Hornpipe Basic Harp 1 (1:31)
+%%part-name Basic Harp 1
+M: 2/4
+Q: 131
+K: C maj
+
++mp+ z8 |
+^G2 z2 +mf+ ^C2 z2 |
+^G2 z2 ^C2 z2 |
+^G2 z2 ^D2 z2 |
+^G2 z2 ^D2 z2 |
+^G2 z2 ^C2 z2 |
+^G2 z2 ^C2 z2 |
+^G2 z2 ^D2 z2 |
+^G2 z2 ^D2 z2 |
+% Bar 10 (0:08)
+^G2 z2 ^C2 z2 |
+^G2 z2 ^C2 z2 |
+^G2 z2 ^D2 z2 |
++mp+ ^G2 z2 +mf+ ^D2 z2 |
+^G2 z2 ^C2 z2 |
+^G2 z2 ^C2 z2 |
+^G2 z2 ^D2 z2 |
+^G2 z3 G2 z |
+z +mp+ ^D2 z2 +mf+ ^A2 z |
+z ^G2 z2 ^D2 z |
+% Bar 20 (0:17)
+z ^D2 z2 ^A2 z |
+z ^D2 z2 ^A2 z |
+z ^C2 z2 ^G2 z |
+z ^G2 z2 ^D2 z |
+z ^C2 z2 ^D2 z |
+z ^G2 z2 G2 z |
+z ^D2 z2 ^A2 z |
+z ^D2 z2 ^A2 z |
+z ^D2 z2 ^A2 z |
+z ^D2 z2 +mp+ ^A2 z |
+% Bar 30 (0:26)
+z +mf+ ^C2 z2 ^G2 z |
+z +mp+ ^G2 z2 +mf+ ^D2 z |
+z ^C2 z2 ^D2 z |
+z ^G2 z2 G2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^D2 z |
+z ^G2 z2 ^D2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^C2 z |
+% Bar 40 (0:35)
+z ^G2 z2 ^D2 z |
+z ^G2 z2 G2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^C2 z |
+z +mp+ ^G2 z2 +mf+ ^D2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^C2 z |
+z ^G2 z2 ^D2 z |
+z ^G2 z2 G2 z |
+% Bar 50 (0:44)
+z2 ^D2 z2 ^A2 |
+z2 ^G2 z2 ^D2 |
+z2 ^D2 z2 ^A2 |
+z2 ^D2 z2 ^A2 |
+z2 ^C2 z2 ^G2 |
+z2 ^G2 z2 ^D2 |
+z2 ^C2 z2 ^D2 |
+z2 ^G2 z2 G2 |
+z2 ^D2 z2 ^A2 |
+z2 ^G2 z2 ^D2 |
+% Bar 60 (0:54)
+z2 ^D2 z2 ^A2 |
+z2 ^D2 z2 ^A2 |
+z2 ^C2 z2 ^G2 |
+z2 ^G2 z2 ^D2 |
+z2 ^C2 z2 ^D2 |
+z2 ^G2 z2 G2 |
+z2 ^G2 z2 ^C2 |
+z2 ^G2 z2 ^C2 |
+z2 ^G2 z2 ^D2 |
+z2 ^G2 z2 ^D2 |
+% Bar 70 (1:03)
+z2 ^G2 z2 ^C2 |
+z2 ^G2 z2 ^C2 |
+z2 +mp+ ^G2 z2 +mf+ ^D2 |
+z2 ^G2 z2 ^D2 |
+z2 ^G2 z2 ^C2 |
+z2 ^G2 z2 ^C2 |
+z2 ^G2 z2 ^D2 |
+z2 ^G2 z2 ^D2 |
+z2 ^G2 z2 ^C2 |
+z2 ^G2 z2 ^C2 |
+% Bar 80 (1:12)
+z2 +mp+ ^G2 z2 +mf+ ^D2 |
+z2 ^G2 z2 ^D2 |
+z2 ^D2 z3 ^A- |
+^A z2 +mp+ ^G2 z2 +mf+ ^D- |
+^D z2 D2 z2 ^A- |
+^A z2 ^D2 z2 A- |
+^A z2 ^C2 z2 +mp+ ^G- |
+^G z2 +mf+ G2 z2 ^D- |
+^D z2 ^C2 z2 D- |
+^D z2 ^G2 z2 G- |
+% Bar 90 (1:21)
+^G z2 ^D2 z2 ^A- |
+^A z2 ^G2 z2 ^D- |
+^D z2 D2 z2 ^A- |
+^A z2 ^D2 z2 A- |
+^A z2 ^C2 z2 ^G- |
+^G z2 G2 z2 ^D- |
+^D z2 ^C2 z2 D- |
+^D z2 ^G2 z2 G- |
+^G z7 |
+z7 +mp+ ^G- |
+^G z7 |]
+
+X: 22
+%%Orig filename was FishersHarp2.abc
+T: Fishers Hornpipe Basic Harp 2 (1:31)
+%%part-name Basic Harp 2
+M: 2/4
+Q: 131
+K: C maj
+
++mp+ z8 |
+z2 [c^d^g] z3 [^cfg] z |
+z2 [c^d^g] z3 [^cfg] z |
+z2 [c^d^g] z3 [d=g^a] z |
+z2 +mf+ [c^d^g] z3 +mp+ [d=g^a] z |
+z2 [c^d^g] z3 [^cfg] z |
+z2 [c^d^g] z3 [^cfg] z |
+z2 +mf+ [c^d^g] z3 +mp+ [cdg] z |
+z2 [c^d^g] z [cdg] z3 |
+% Bar 10 (0:08)
+z2 [c^d^g] z3 [^cfg] z |
+z2 [c^d^g] z3 [^cfg] z |
+z2 [c^d^g] z3 [d=g^a] z |
+z2 [c^d^g] z3 [d=g^a] z |
+z2 [c^d^g] z3 [^cfg] z |
+z2 +mf+ [c^d^g] z3 +mp+ [^cfg] z |
+z2 +mf+ [c^d^g] z3 +mp+ [d=g^a] z |
+z2 +mf+ [c2^d2^g2] z [cdg] z2 |
+z3 +mp+ [^dg^a] z3 [dga] |
+z3 +mf+ [c^d^g] z3 +mp+ [cdg] |
+% Bar 20 (0:17)
+z3 [^dg^a] z3 [dga] |
+z3 [^dg^a] z3 [dga] |
+z3 [^cf^g] z3 [cfg] |
+z3 +mf+ [c^d^g] z3 [cdg] |
+z3 +mp+ [^cf^g] z3 [^d=g^a] |
+z3 +mf+ [c^d^g] z [cdg] z2 |
+z3 +mp+ [^dg^a] z3 [dga] |
+z3 [c^d^g] z3 [cdg] |
+z3 [^dg^a] z3 [dga] |
+z3 [^dg^a] z3 [dga] |
+% Bar 30 (0:26)
+z3 [^cf^g] z3 [cfg] |
+z3 +mf+ [c^d^g] z3 [cdg] |
+z3 +mp+ [^cf^g] z3 [^d=g^a] |
+z3 +mf+ [c^d^g] z +mp+ [cdg] z2 |
+z3 [B^d^g] z3 [^ceg] |
+z3 +mf+ [B^d^g] z3 [^ceg] |
+z3 [B^d^g] z3 [d=g^a] |
+z3 [B^d^g] z3 [d=g^a] |
+z3 +mp+ [B^d^g] z3 +mf+ [^ceg] |
+z3 +mp+ [B^d^g] z3 [^ceg] |
+% Bar 40 (0:35)
+z3 +mf+ [B^d^g] z3 [d=g^a] |
+z3 [B^d^g] z [Bdg] z2 |
+z3 [B^d^g] z3 +mp+ [^ceg] |
+z3 +mf+ [B^d^g] z3 +mp+ [^ceg] |
+z3 +mf+ [B^d^g] z3 [d=g^a] |
+z3 [B^d^g] z3 [d=g^a] |
+z3 +mp+ [B^d^g] z3 +mf+ [^ceg] |
+z3 +mp+ [B^d^g] z3 [^ceg] |
+z3 [B^d^g] z3 +mf+ [d=g^a] |
+z3 [B^d^g] z +mp+ [Bdg] z2 |
+% Bar 50 (0:44)
+z4 +mf+ [^dg^a] z3 |
++mp+ [^dg^a] z3 [Bd^g] z3 |
++mf+ [B^d^g] z3 +mp+ [d=g^a] z3 |
++mf+ [^dg^a] z3 +mp+ [dga] z3 |
+[^dg^a] z3 [^ce^g] z3 |
++mf+ [^ce^g] z3 +mp+ [B^dg] z3 |
++mf+ [B^d^g] z3 +mp+ [^ceg] z3 |
++mf+ [^dg^a] z3 [Bd^g] z +mp+ [Bdg] z |
+z4 [^dg^a] z3 |
+[^dg^a] z3 +mf+ [Bd^g] z3 |
+% Bar 60 (0:54)
++mp+ [B^d^g] z3 [d=g^a] z3 |
+[^dg^a] z3 [dga] z3 |
+[^dg^a] z3 [^ce^g] z3 |
+[^ce^g] z3 +mf+ [B^dg] z3 |
+[B^d^g] z3 +mp+ [^ceg] z3 |
+[^dg^a] z3 +mf+ [d^g] z +mp+ [Bdg] z |
+z4 [c^d^g] z3 |
+[^cf^g] z3 [=c^dg] z3 |
+[^cf^g] z3 [=c^dg] z3 |
+[^dg^a] z3 [cd^g] z3 |
+% Bar 70 (1:03)
+[^dg^a] z3 +mf+ [cd^g] z3 |
++mp+ [^cf^g] z3 +mf+ [=c^dg] z3 |
++mp+ [^cf^g] z3 +mf+ [=c^dg] z3 |
++mp+ [^dg^a] z3 +mf+ [cd^g] z3 |
++mp+ [c^d^g] z3 [cdg] z3 |
+[^cf^g] z3 [=c^dg] z3 |
+[^cf^g] z3 [=c^dg] z3 |
+[^dg^a] z3 [cd^g] z3 |
+[^dg^a] z3 [cd^g] z3 |
+[^cf^g] z3 [=c^dg] z3 |
+% Bar 80 (1:12)
+[^cf^g] z3 [=c^dg] z3 |
+[^dg^a] z3 +mf+ [cd^g] z +mp+ [cdg] z |
+z4 [^dg^a] z3 |
+z [^dg^a] z3 [cd^g] z2 |
+z [c^d^g] z3 [d=g^a] z2 |
+z +mf+ [^dg^a] z3 +mp+ [dga] z2 |
+z [^dg^a] z3 [^cf^g] z2 |
+z [^cf^g] z3 [=c^dg] z2 |
+z +mf+ [c^d^g] z3 +mp+ [^cfg] z2 |
+z [^dg^a] z3 [cd^g] z [cdg] |
+% Bar 90 (1:21)
+z5 [^dg^a] z2 |
+z [^dg^a] z3 [cd^g] z2 |
+z [c^d^g] z3 [d=g^a] z2 |
+z [^dg^a] z3 [dga] z2 |
+z [^dg^a] z3 [^cf^g] z2 |
+z [^cf^g] z3 +mf+ [=c^dg] z2 |
+z [c^d^g] z3 +mp+ [^cfg] z2 |
+z [^dg^a] z3 [cd^g] z [cdg] |
+z8 |
+z7 +mf+ [^G-c-^d-^g-] |
+[^Gc^d^g] z7 |]
+

@@ -1,0 +1,67 @@
+N: TS  2,   1   4
+X: 1
+%%Orig filename was Shop__Flute1.abc
+T:FFTShop-Flute (0:52)
+%%part-name Basic Flute
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:1-18-shop01.mid
+%  Transpose:-22
+L:1/4
+Q:96
+K:C
+z12 d/2 c/4 B/4 A/2 G/4 A/4 B/4 c/4 B/4 G/4 D/2 A/2 [G3D/2] C/4 B,/4
+A,/2 G,/4 A,/4 B,/4 C/4 B,/4 G,/4 D,/2 A,/2 [d/2G,3] c/4 B/4 A/2 G/4
+A/4 B/4 c/4 B/4 G/4 D/2 A/2 [G/4D,/4] [^F/4^C,/4] [G/4D,/4]
+[A/4^F,/4] [B/4G,/4] [A/4^F,/4] [B/4G,/4] [c/4A,/4] [d/4^A,/4]
+[c/4=A,/4] [d/4^A,/4] [e/4C/4] [f/4D/4] [e/4C/4] [d/4^A,/4]
+[c/4=A,/4] e/4 z/4 g/4 z/4 ^f/4 z/4 e/4 [d/2z/4] [e9/4z/2] G,/4 z/4
+E/4 z/4 C/4 z/4 [G3/2z/2] g/4 z/4 ^f/4 z/4 e/4 [d/2z/4] [e/4G/4] z/4
+[^f/4^F/4] z/4 [g/4E/4] z/4 [a/4D/4] z/4 g/4 z/4 ^a/4 z/4 =a/4 z/4
+g/4 =f/4 [g2z/2] ^A,/4 z/4 =F/4 z/4 ^D/4 z/4 [^A7/4z/2] ^a/4 z/4 =a/4
+z/4 g/4 f/4 [g/4^A/4] z/4 [a/4=A/4] z/4 [^a/4G/4] z/4 [c'/4F/4] z/4
+[d/2G11/4] c'/4 ^a/4 [=a5/2z] ^A/2 =A/4 [G5/4z/4] F [g/2F2] f/4
+[^d/2z/4] [f2z/2] ^C/4 [^D/2z/4] [F/2z/4] G/4 [F/2z/4] ^D/4
+[g3/4G^C5/4] z/4 [g4G15/4=D4] z17/4 =d/2 c/4 B/4 A/2 G/4 A/4 B/4 c/4
+B/4 G/4 D/2 A/2 [G3D/2] =C/4 B,/4 =A,/2 G,/4 A,/4 B,/4 C/4 B,/4 G,/4
+D,/2 A,/2 [d/2G,3] c/4 B/4 A/2 G/4 A/4 B/4 c/4 B/4 G/4 D/2 A/2
+[G/4D,/4] [^F/4^C,/4] [G/4D,/4] [A/4^F,/4] [B/4G,/4] [A/4^F,/4]
+[B/4G,/4] [c/4A,/4] [d/4^A,/4] [c/4=A,/4] [d/4^A,/4] [e/4C/4]
+[f/4D/4] [e/4C/4] [d/4^A,/4] [c/4=A,/4] e/4 z/4 g/4 z/4 ^f/4 z/4 e/4
+[d/2z/4] [e9/4z/2] G,/4 z/4 E/4 z/4 C/4 z/4 [G3/2z/2] g/4 z/4 ^f/4
+z/4 e/4 [d/2z/4] [e/4G/4] z/4 [^f/4^F/4] z/4 [g/4E/4] z/4 [a/4D/4]
+
+X: 4
+%%Orig filename was Shop__Horn2.abc
+T:FFTShop-Horn (0:52)
+%%part-name Basic Horn
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:1-18-shop01.mid
+%  Transpose:0
+L:1/4
+Q:96
+K:C
++ppp+ z4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [^A,/4^D,/4]
+z/4 [^A,/4D/4] z/4 [^A,/4^D,/4] z/4 [^A,/4D/4] z/4 ^A,/4 z11/4 C/4
+C/4 C/4 C/4 ^A,/4 z7/4 ^A,/4 z/4 G,/4 z/4 C/4 z/4 ^G,/4 z/4 ^C/4
+z11/4 ^D/4 ^D/4 ^D/4 ^D/4 ^C/4 z7/4 ^C/4 z/4 ^A,/4 z/4 ^D/4 z/4 =C/4
+z/4 [^C4F4] [B,4^D4] [=C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4
+[C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4 [C/4E/4] z/4 [C/4F,/4] z/4
+[C/4E/4] z/4 [^A,/4^D,/4] z/4 [^A,/4=D/4] z/4 [^A,/4^D,/4] z/4
+[^A,/4D/4] z/4 ^A,/4 z11/4 C/4 C/4 C/4 C/4 ^A,/4 z7/4 ^A,/4 z/4 =G,/4
+z/4 C/4 z/4 ^G,/4
+

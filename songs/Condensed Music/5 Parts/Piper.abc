@@ -1,0 +1,93 @@
+N: TS  5,   3  10   1  21   8
+X: 3
+%%Orig filename was PiperClar.abc
+T:The Galaway Piper (Basic Clarinet)- Irish Traditional (1:08)
+%%part-name Basic Clarinet
+N:Keptwise ABC arrangement - Elendilmir
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+DA, DA, DA, G/2F/2E/2D/2|CG, CE CE F/2E/2D/2C/2|DA, DF DF AA|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 Dz|
+dc/2B/2 AG FG A2|dc/2B/2 AG FG E2|dc/2B/2 AG FG A2|A,/2B,/2C/2D/2 EF D2 D2|
+dc/2B/2 AG FG AG|dz D3/2D/2 F,3
+
+X: 10
+%%Orig filename was PiperDrums.abc
+T:The Galaway Piper (Basic Drum)- Irish Traditional (1:04)
+%%part-name Basic Drum
+N:Keptwise ABC arrangement - Elendilmir
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|EE EE EE E/2E/2E/2E/2|EE/2zE/2E EE E/2E/2E/2E/2|
+EE/2zE/2E EE EE|EE/2E/2 E/2E/2E E/2z3/2 E/2z3/2|EE EE EE E/2z3/2|EE/2EE/2E/2zE/2E E/2z3/2|
+EE E/2E/2E Ez E/2z3/2|EE/2E/2 E/2EzE/2z E/2z3/2|z8|z8|
+EE EE EE E/2EE/2|EE EE EE E/2EE/2|E/2EEE/2E EE E/2z3/2|EE E/2EEE/2z E/2z3/2|
+E/2zEEE/2 EE E/2z3/2|EE E/2EE/2 EE E/2z3/2|EE E/2EE/2 EE E/2z3/2|EE/2E/2 EE E/2z3/2 E/2
+
+X: 1
+%%Orig filename was PiperFlute1.abc
+T:The Galaway Piper Basic Flute 1 (1:04) - Irish Traditional
+%%part-name Basic Flute 1
+N:Keptwise ABC arrangement - Elendilmir
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+dc/2B/2 AG FG A2|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 D3/2z/2|z8|z8|
+DF DF DF G/2F/2E/2D/2|CE CE CE F/2E/2D/2C/2|DF DF DF AA|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 Dz|
+dc/2B/2 AG FG A2|dc/2B/2 AG FG E2|dc/2B/2 AG FG A2|A,/2B,/2C/2D/2 EF D2 D3/2z/2|
+z8|z8|DF DF DF G/2F/2E/2D/2|CE CE CE F/2E/2D/2C/2|
+DF DF DF AA|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 Dz|dc/2B/2 AG FG A2|dc/2B/2 AG FG E2|
+dc/2B/2 AG FG A2|A,/2B,/2C/2D/2 EF D2 D3/2z/2|z8|z8|
+DF DF DF G/2F/2E/2D/2|CE CE CE F/2E/2D/2C/2|DF DF DF AA|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 Dz|
+dc/2B/2 AG FG A2|dc/2B/2 AG FG E2|dc/2B/2 AG FG A2|A,/2B,/2C/2D/2 EF D2 D3/2
+
+X: 21
+%%Orig filename was PiperFlute2.abc
+T:The Galaway Piper Basic Flute 2 (1:04) - Irish Traditional
+%%part-name Basic Flute 2
+N:Keptwise ABC arrangement - Elendilmir
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z8|z8|DA, DA, DA, G/2F/2E/2D/2|C=G, CE CE F/2E/2D/2C/2|
+DA, DF DF AA|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 Dz|dc/2B/2 AG FG A2|dc/2B/2 AG FG E2|
+dc/2B/2 AG FG A2|A,/2B,/2C/2D/2 EF D2 D3/2z/2|z8|z8|
+DA, DA, DA, G/2F/2E/2D/2|CG, CE CE F/2E/2D/2C/2|DA, DF DF AA|G/2F/2E/2D/2 C/2D/2E/2F/2 D2 Dz|
+dc/2B/2 AG FG A2|dc/2B/2 AG FG E2|dc/2B/2 AG FG A2|A,/2B,/2C/2D/2 EF D2 D3/2
+
+X: 8
+%%Orig filename was PiperLute.abc
+T:The Galaway Piper Basic Lute (1:08) - Irish Traditional
+%%part-name Basic Lute
+N:Keptwise ABC arrangement - Elendilmir
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+z4 DC/2B,/2 A,D,|A,2 G2 F2 D2|^G,A,3 ^G,A,3|^G,A, ^G,A, ^G,A, ^G,A,|
+D2 C2 B,2 A,2|E2 A,2 E2 A,2|D2 C2 B,2 A,3/2z/2|z2 G2 D2 DA,|
+A,6- A,/2z3/2|^G,A,4-A, =G,2|^G,A,6-A,/2z/2|z2 A,2 F2 F2|
+^G,A,3 ^G,A,3|^G,A, ^G,A, ^G,A, ^G,A,|D2 C2 B,2 A,2|E2 A,2 E2 A,2|
+D2 C2 B,2 A,3/2z/2|z2 G2 D2 DA,|A,6- A,/2z3/2|^G,A,4-A, =G,2|
+^G,A,6-A,/2z/2|z2 A,2 F2 F2|^G,A,3 ^G,A,3|^G,A, ^G,A, ^G,A, ^G,A,|
+D2 C2 B,2 A,2|E2 A,2 E2 A,2|D2 C2 B,2 A,3/2z/2|z2 G2 D2 DA,|
+A,6- A,/2z3/2|^G,A,4-A, =G,2|^G,A,6-A,/2z/2|z2 A,2 F2 F3/2z/2|
+z6 zA|Az D,2 D,3
+

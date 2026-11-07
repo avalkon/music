@@ -1,0 +1,1832 @@
+source_group,part_folder,export,reason
+IWantYouBack,10 Parts,broken/10 Parts/IWantYouBack.abc,IWantYouBack__Drums4.abc: 2:19 vs median 2:51
+IWantYouBack,10 Parts,broken/10 Parts/IWantYouBack.abc,IWantYouBack__Lute10.abc: 3:22 vs median 2:51
+Michelle,10 Parts,broken/10 Parts/Michelle.abc,Michelle__Clar9.abc: 2:20 vs median 3:06
+Michelle,10 Parts,broken/10 Parts/Michelle.abc,Michelle__Flute3.abc: 2:20 vs median 3:06
+Michelle,10 Parts,broken/10 Parts/Michelle.abc,Michelle__Flute8.abc: 2:23 vs median 3:06
+Michelle,10 Parts,broken/10 Parts/Michelle.abc,Michelle__Harp4.abc: 4:43 vs median 3:06
+Michelle,10 Parts,broken/10 Parts/Michelle.abc,Michelle__Lute10.abc: 5:07 vs median 3:06
+Michelle,10 Parts,broken/10 Parts/Michelle.abc,Michelle__Lute5.abc: 4:00 vs median 3:06
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,OHolyNight__Clar2.abc: 6:52 vs median 4:42
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,OHolyNight__Fiddle7.abc: 2:15 vs median 4:42
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,"OHolyNight__Fiddle8.abc: abc2midi failed: 0-6 : 3 b is not a power of 2
+Error in line-char 120-11 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-ybfute07/part.mid
+Error in line-char 44-15 : note length denominator is zero or less"
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,"OHolyNight__Flute10.abc: abc2midi failed: 3-51 : 3 b is not a power of 2
+Error in line-char 33-54 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-qgq040me/part.mid
+Error in line-char 15-45 : note length denominator is zero or less"
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,"OHolyNight__Flute9.abc: abc2midi failed: 4-48 : 3 b is not a power of 2
+Error in line-char 34-51 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-199keg1t/part.mid
+Error in line-char 18-32 : note length denominator is zero or less"
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,OHolyNight__Harp4.abc: 9:59 vs median 4:42
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,"OHolyNight__Horn5.abc: abc2midi failed:  95-9 : 6 b is not a power of 2
+Error in line-char 95-12 : 6 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-a1rl8e3o/part.mid
+Error in line-char 45-6 : note length denominator is zero or less"
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,OHolyNight__Lute6.abc: 2:39 vs median 4:42
+OHolyNight,10 Parts,broken/10 Parts/OHolyNight.abc,"OHolyNight__Pipes1.abc: abc2midi failed: -65 : 6 b is not a power of 2
+Error in line-char 116-69 : 6 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-2g98fre2/part.mid
+Error in line-char 19-50 : note length denominator is zero or less"
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Clar1.abc: 20:42 vs median 4:39
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Clar2.abc: 3:55 vs median 4:39
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Clar3.abc: 3:48 vs median 4:39
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Fiddle11.abc: 25:34 vs median 4:39
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Flute4.abc: 20:17 vs median 4:39
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Harp6.abc: 44:44 vs median 4:39
+AerithsTheme,11 Parts,broken/11 Parts/AerithsTheme.abc,AerithsTheme__Horn5.abc: 44:44 vs median 4:39
+BabaORiley,11 Parts,broken/11 Parts/BabaORiley.abc,BabaORiley__Clar3.abc: 3:26 vs median 5:06
+DaydreamBeliever,11 Parts,broken/11 Parts/DaydreamBeliever.abc,DaydreamBeliever__Flute7.abc: 4:27 vs median 2:41
+DaydreamBeliever,11 Parts,broken/11 Parts/DaydreamBeliever.abc,DaydreamBeliever__Harp8.abc: 4:25 vs median 2:41
+DaydreamBeliever,11 Parts,broken/11 Parts/DaydreamBeliever.abc,DaydreamBeliever__Lute10.abc: 4:25 vs median 2:41
+Everlong,11 Parts,broken/11 Parts/Everlong.abc,Everlong__Lute10.abc: 3:28 vs median 4:07
+FoggyMountainBreakdown,11 Parts,broken/11 Parts/FoggyMountainBreakdown.abc,FoggyMountainBreakdown__Clar2.abc: 2:03 vs median 3:31
+FoggyMountainBreakdown,11 Parts,broken/11 Parts/FoggyMountainBreakdown.abc,FoggyMountainBreakdown__Fiddle9.abc: 5:25 vs median 3:31
+FoggyMountainBreakdown,11 Parts,broken/11 Parts/FoggyMountainBreakdown.abc,FoggyMountainBreakdown__Flute4.abc: 2:26 vs median 3:31
+FoggyMountainBreakdown,11 Parts,broken/11 Parts/FoggyMountainBreakdown.abc,FoggyMountainBreakdown__Harp6.abc: 2:26 vs median 3:31
+FoggyMountainBreakdown,11 Parts,broken/11 Parts/FoggyMountainBreakdown.abc,FoggyMountainBreakdown__Lute7.abc: 2:52 vs median 3:31
+BornToBeWild,12 Parts,broken/12 Parts/BornToBeWild.abc,BornToBeWild__Flute8.abc: 5:01 vs median 3:43
+BornToBeWild,12 Parts,broken/12 Parts/BornToBeWild.abc,BornToBeWild__Horn10.abc: 4:25 vs median 3:43
+BornToBeWild,12 Parts,broken/12 Parts/BornToBeWild.abc,BornToBeWild__Horn3.abc: 3:10 vs median 3:43
+BornToBeWild,12 Parts,broken/12 Parts/BornToBeWild.abc,BornToBeWild__Pipes1.abc: 3:10 vs median 3:43
+BornToBeWild,12 Parts,broken/12 Parts/BornToBeWild.abc,BornToBeWild__Pipes5.abc: 4:32 vs median 3:43
+Santeria,12 Parts,broken/12 Parts/Santeria.abc,Santeria__Lute11.abc: 4:11 vs median 2:58
+Santeria,12 Parts,broken/12 Parts/Santeria.abc,Santeria__Lute8.abc: 1:52 vs median 2:58
+Santeria,12 Parts,broken/12 Parts/Santeria.abc,Santeria__Pipes1.abc: 3:33 vs median 2:58
+Santeria,12 Parts,broken/12 Parts/Santeria.abc,Santeria__Theorbo12.abc: 3:33 vs median 2:58
+SloopJohnB,12 Parts,broken/12 Parts/SloopJohnB.abc,SloopJohnB__Lute4.abc: 3:14 vs median 2:43
+SloopJohnB,12 Parts,broken/12 Parts/SloopJohnB.abc,SloopJohnB__Lute5.abc: 4:25 vs median 2:43
+SloopJohnB,12 Parts,broken/12 Parts/SloopJohnB.abc,SloopJohnB__Lute6.abc: 6:10 vs median 2:43
+SloopJohnB,12 Parts,broken/12 Parts/SloopJohnB.abc,SloopJohnB__Lute7.abc: 4:11 vs median 2:43
+ThemeSong,12 Parts,broken/12 Parts/ThemeSong.abc,ThemeSong__Flute10.abc: 1:23 vs median 2:21
+ThemeSong,12 Parts,broken/12 Parts/ThemeSong.abc,ThemeSong__Flute12.abc: 4:11 vs median 2:21
+ThemeSong,12 Parts,broken/12 Parts/ThemeSong.abc,ThemeSong__Theorbo11.abc: 0:54 vs median 2:21
+CanoninDMajor,13 Parts,broken/13 Parts/CanoninDMajor.abc,CanoninDMajor__Fiddle10.abc: 8:58 vs median 5:49
+CanoninDMajor,13 Parts,broken/13 Parts/CanoninDMajor.abc,CanoninDMajor__Fiddle11.abc: 7:26 vs median 5:49
+CanoninDMajor,13 Parts,broken/13 Parts/CanoninDMajor.abc,CanoninDMajor__Flute12.abc: 7:13 vs median 5:49
+CanoninDMajor,13 Parts,broken/13 Parts/CanoninDMajor.abc,CanoninDMajor__Lute5.abc: 3:57 vs median 5:49
+OvertheHillsandFarAway,13 Parts,broken/13 Parts/OvertheHillsandFarAway.abc,OvertheHillsandFarAway__Lute1.abc: 7:50 vs median 4:40
+OvertheHillsandFarAway,13 Parts,broken/13 Parts/OvertheHillsandFarAway.abc,OvertheHillsandFarAway__Lute8.abc: 6:23 vs median 4:40
+Smooth,15 Parts,broken/15 Parts/Smooth.abc,Smooth__Clar2.abc: 4:04 vs median 5:31
+Smooth,15 Parts,broken/15 Parts/Smooth.abc,Smooth__Clar4.abc: 3:48 vs median 5:31
+Smooth,15 Parts,broken/15 Parts/Smooth.abc,Smooth__Drums12.abc: 3:54 vs median 5:31
+Smooth,15 Parts,broken/15 Parts/Smooth.abc,Smooth__Horn7.abc: 7:54 vs median 5:31
+Smooth,15 Parts,broken/15 Parts/Smooth.abc,Smooth__Lute11.abc: 7:45 vs median 5:31
+Smooth,15 Parts,broken/15 Parts/Smooth.abc,Smooth__Theorbo1.abc: 7:08 vs median 5:31
+100Years,2 Parts,broken/2 Parts/100Years.abc,100Years__Lute1.abc: 5:39 vs median 4:45
+100Years,2 Parts,broken/2 Parts/100Years.abc,100Years__Lute2.abc: 3:52 vs median 4:45
+7colours,2 Parts,broken/2 Parts/7colours.abc,7colours__Drums1.abc: 4:38 vs median 6:18
+7colours,2 Parts,broken/2 Parts/7colours.abc,7colours__Lute2.abc: 7:59 vs median 6:18
+AGiftOfAThistle-Brave,2 Parts,broken/2 Parts/AGiftOfAThistle-Brave.abc,AGiftOfAThistle-Brave__Flute1.abc: 3:25 vs median 2:48
+AGiftOfAThistle-Brave,2 Parts,broken/2 Parts/AGiftOfAThistle-Brave.abc,AGiftOfAThistle-Brave__Harp2.abc: 2:10 vs median 2:48
+ANAng,2 Parts,broken/2 Parts/ANAng.abc,ANAng__Drums1.abc: 3:09 vs median 4:14
+ANAng,2 Parts,broken/2 Parts/ANAng.abc,ANAng__Lute2.abc: 5:20 vs median 4:14
+AchillesLastStand,2 Parts,broken/2 Parts/AchillesLastStand.abc,AchillesLastStand__Drums1.abc: 11:18 vs median 14:21
+AchillesLastStand,2 Parts,broken/2 Parts/AchillesLastStand.abc,AchillesLastStand__Lute2.abc: 17:23 vs median 14:21
+AcrosstheStars,2 Parts,broken/2 Parts/AcrosstheStars.abc,AcrosstheStars__Flute1.abc: 8:03 vs median 6:38
+AcrosstheStars,2 Parts,broken/2 Parts/AcrosstheStars.abc,AcrosstheStars__Flute2.abc: 5:14 vs median 6:38
+AdessoEFortuna,2 Parts,broken/2 Parts/AdessoEFortuna.abc,AdessoEFortuna__Flute1.abc: 3:27 vs median 5:08
+AdessoEFortuna,2 Parts,broken/2 Parts/AdessoEFortuna.abc,AdessoEFortuna__Harp2.abc: 6:49 vs median 5:08
+AftertheGoldRush,2 Parts,broken/2 Parts/AftertheGoldRush.abc,AftertheGoldRush__Horn1.abc: 3:23 vs median 4:18
+AftertheGoldRush,2 Parts,broken/2 Parts/AftertheGoldRush.abc,AftertheGoldRush__Lute2.abc: 5:14 vs median 4:18
+Agoraphobia,2 Parts,broken/2 Parts/Agoraphobia.abc,Agoraphobia__Ages2.abc: 6:11 vs median 4:56
+Agoraphobia,2 Parts,broken/2 Parts/Agoraphobia.abc,Agoraphobia__Theorbo1.abc: 3:40 vs median 4:56
+AintSeenNothinYet,2 Parts,broken/2 Parts/AintSeenNothinYet.abc,AintSeenNothinYet__Clar1.abc: 4:01 vs median 5:10
+AintSeenNothinYet,2 Parts,broken/2 Parts/AintSeenNothinYet.abc,AintSeenNothinYet__Lute2.abc: 6:20 vs median 5:10
+AlzahbiTheme,2 Parts,broken/2 Parts/AlzahbiTheme.abc,AlzahbiTheme__Clar1.abc: 3:50 vs median 6:38
+AlzahbiTheme,2 Parts,broken/2 Parts/AlzahbiTheme.abc,AlzahbiTheme__Lute2.abc: 9:26 vs median 6:38
+AnEmigrantDaughter,2 Parts,broken/2 Parts/AnEmigrantDaughter.abc,AnEmigrantDaughter__Flute1.abc: 3:34 vs median 4:59
+AnEmigrantDaughter,2 Parts,broken/2 Parts/AnEmigrantDaughter.abc,AnEmigrantDaughter__Lute2.abc: 6:24 vs median 4:59
+AndILoveHer-Loveher,2 Parts,broken/2 Parts/AndILoveHer-Loveher.abc,AndILoveHer-Loveher__Drums1.abc: 3:57 vs median 6:34
+AndILoveHer-Loveher,2 Parts,broken/2 Parts/AndILoveHer-Loveher.abc,AndILoveHer-Loveher__Lute2.abc: 9:11 vs median 6:34
+Arwen,2 Parts,broken/2 Parts/Arwen.abc,Arwen__Flute2.abc: 3:39 vs median 4:28
+Arwen,2 Parts,broken/2 Parts/Arwen.abc,Arwen__Harp1.abc: 5:16 vs median 4:28
+AtLast,2 Parts,broken/2 Parts/AtLast.abc,AtLast__Harp2.abc: 6:21 vs median 4:53
+AtLast,2 Parts,broken/2 Parts/AtLast.abc,AtLast__Theorbo1.abc: 3:26 vs median 4:53
+AtTheEndOfTheRainbow,2 Parts,broken/2 Parts/AtTheEndOfTheRainbow.abc,AtTheEndOfTheRainbow__Horn1.abc: 3:48 vs median 4:35
+AtTheEndOfTheRainbow,2 Parts,broken/2 Parts/AtTheEndOfTheRainbow.abc,AtTheEndOfTheRainbow__Lute2.abc: 5:22 vs median 4:35
+Battagalia,2 Parts,broken/2 Parts/Battagalia.abc,Battagalia__Clar1.abc: 3:24 vs median 4:03
+Battagalia,2 Parts,broken/2 Parts/Battagalia.abc,Battagalia__Drums2.abc: 4:42 vs median 4:03
+BeyondtheSea,2 Parts,broken/2 Parts/BeyondtheSea.abc,BeyondtheSea__Flute2.abc: 2:49 vs median 3:29
+BeyondtheSea,2 Parts,broken/2 Parts/BeyondtheSea.abc,BeyondtheSea__Theorbo1.abc: 4:09 vs median 3:29
+BlueGrassDuet,2 Parts,broken/2 Parts/BlueGrassDuet.abc,BlueGrassDuet__Clar1.abc: 2:20 vs median 3:22
+BlueGrassDuet,2 Parts,broken/2 Parts/BlueGrassDuet.abc,BlueGrassDuet__Lute2.abc: 4:24 vs median 3:22
+BluesforChessie,2 Parts,broken/2 Parts/BluesforChessie.abc,BluesforChessie__Lute2.abc: 3:11 vs median 2:38
+BluesforChessie,2 Parts,broken/2 Parts/BluesforChessie.abc,BluesforChessie__Theorbo1.abc: 2:05 vs median 2:38
+BringItOnHome,2 Parts,broken/2 Parts/BringItOnHome.abc,BringItOnHome__Drums1.abc: 4:00 vs median 5:04
+BringItOnHome,2 Parts,broken/2 Parts/BringItOnHome.abc,BringItOnHome__Lute2.abc: 6:09 vs median 5:04
+Bringonthenight-BringOntheNight,2 Parts,broken/2 Parts/Bringonthenight-BringOntheNight.abc,Bringonthenight-BringOntheNight__Drums1.abc: 4:19 vs median 5:41
+Bringonthenight-BringOntheNight,2 Parts,broken/2 Parts/Bringonthenight-BringOntheNight.abc,Bringonthenight-BringOntheNight__Flute2.abc: 7:03 vs median 5:41
+CarefulwiththatAxeEugene,2 Parts,broken/2 Parts/CarefulwiththatAxeEugene.abc,CarefulwiththatAxeEugene__Drums1.abc: 7:00 vs median 10:37
+CarefulwiththatAxeEugene,2 Parts,broken/2 Parts/CarefulwiththatAxeEugene.abc,CarefulwiththatAxeEugene__Lute2.abc: 14:13 vs median 10:37
+CarelessWhisper,2 Parts,broken/2 Parts/CarelessWhisper.abc,CarelessWhisper__Harp1.abc: 10:18 vs median 8:07
+CarelessWhisper,2 Parts,broken/2 Parts/CarelessWhisper.abc,CarelessWhisper__Horn2.abc: 5:57 vs median 8:07
+CarteBlanche,2 Parts,broken/2 Parts/CarteBlanche.abc,CarteBlanche__Drums1.abc: 4:47 vs median 6:58
+CarteBlanche,2 Parts,broken/2 Parts/CarteBlanche.abc,CarteBlanche__Lute2.abc: 9:10 vs median 6:58
+Castlesinthesky,2 Parts,broken/2 Parts/Castlesinthesky.abc,Castlesinthesky__Drums1.abc: 7:24 vs median 5:13
+Castlesinthesky,2 Parts,broken/2 Parts/Castlesinthesky.abc,Castlesinthesky__Lute2.abc: 3:03 vs median 5:13
+Celebration,2 Parts,broken/2 Parts/Celebration.abc,Celebration__Horn1.abc: 2:54 vs median 3:48
+Celebration,2 Parts,broken/2 Parts/Celebration.abc,Celebration__Lute2.abc: 4:42 vs median 3:48
+ChronoCross-ShoreofDreams-CC,2 Parts,broken/2 Parts/ChronoCross-ShoreofDreams-CC.abc,ChronoCross-ShoreofDreams-CC__Horn1.abc: 2:18 vs median 2:58
+ChronoCross-ShoreofDreams-CC,2 Parts,broken/2 Parts/ChronoCross-ShoreofDreams-CC.abc,ChronoCross-ShoreofDreams-CC__Lute2.abc: 3:38 vs median 2:58
+CloseEncountersoftheThirdKind,2 Parts,broken/2 Parts/CloseEncountersoftheThirdKind.abc,CloseEncountersoftheThirdKind__Clar1.abc: 3:46 vs median 6:23
+CloseEncountersoftheThirdKind,2 Parts,broken/2 Parts/CloseEncountersoftheThirdKind.abc,CloseEncountersoftheThirdKind__Lute2.abc: 9:00 vs median 6:23
+ComeCoverMe,2 Parts,broken/2 Parts/ComeCoverMe.abc,ComeCoverMe__Flute2.abc: 4:25 vs median 5:30
+ComeCoverMe,2 Parts,broken/2 Parts/ComeCoverMe.abc,ComeCoverMe__Lute1.abc: 6:35 vs median 5:30
+CosmoCanyon,2 Parts,broken/2 Parts/CosmoCanyon.abc,CosmoCanyon__Horn1.abc: 2:00 vs median 3:07
+CosmoCanyon,2 Parts,broken/2 Parts/CosmoCanyon.abc,CosmoCanyon__Lute2.abc: 4:14 vs median 3:07
+Courage,2 Parts,broken/2 Parts/Courage.abc,Courage__Drums1.abc: 3:45 vs median 4:38
+Courage,2 Parts,broken/2 Parts/Courage.abc,Courage__Lute2.abc: 5:31 vs median 4:38
+CurentsOfTimeCoP,2 Parts,broken/2 Parts/CurentsOfTimeCoP.abc,CurentsOfTimeCoP__Clar1.abc: 4:27 vs median 6:31
+CurentsOfTimeCoP,2 Parts,broken/2 Parts/CurentsOfTimeCoP.abc,CurentsOfTimeCoP__Lute2.abc: 8:35 vs median 6:31
+DailyLife,2 Parts,broken/2 Parts/DailyLife.abc,DailyLife__Flute1.abc: 1:38 vs median 2:20
+DailyLife,2 Parts,broken/2 Parts/DailyLife.abc,DailyLife__Lute2.abc: 3:03 vs median 2:20
+DancingDays,2 Parts,broken/2 Parts/DancingDays.abc,DancingDays__Drums1.abc: 3:49 vs median 6:17
+DancingDays,2 Parts,broken/2 Parts/DancingDays.abc,DancingDays__Lute2.abc: 8:45 vs median 6:17
+DazedandConfused,2 Parts,broken/2 Parts/DazedandConfused.abc,DazedandConfused__Drums1.abc: 7:14 vs median 9:13
+DazedandConfused,2 Parts,broken/2 Parts/DazedandConfused.abc,DazedandConfused__Lute2.abc: 11:13 vs median 9:13
+DillPickleRag,2 Parts,broken/2 Parts/DillPickleRag.abc,DillPickleRag__Lute1.abc: 3:20 vs median 2:54
+DillPickleRag,2 Parts,broken/2 Parts/DillPickleRag.abc,DillPickleRag__Lute2.abc: 2:27 vs median 2:54
+DontFollow,2 Parts,broken/2 Parts/DontFollow.abc,DontFollow__Flute2.abc: 4:17 vs median 5:59
+DontFollow,2 Parts,broken/2 Parts/DontFollow.abc,DontFollow__Lute1.abc: 7:42 vs median 5:59
+DontMatter,2 Parts,broken/2 Parts/DontMatter.abc,DontMatter__Drums1.abc: 4:49 vs median 7:02
+DontMatter,2 Parts,broken/2 Parts/DontMatter.abc,DontMatter__Harp2.abc: 9:16 vs median 7:02
+Donttellmethatitsover2pax,2 Parts,broken/2 Parts/Donttellmethatitsover2pax.abc,Donttellmethatitsover2pax__Flute2.abc: 3:10 vs median 4:10
+Donttellmethatitsover2pax,2 Parts,broken/2 Parts/Donttellmethatitsover2pax.abc,Donttellmethatitsover2pax__Lute1.abc: 5:09 vs median 4:10
+DreamALittleDreamOfMe,2 Parts,broken/2 Parts/DreamALittleDreamOfMe.abc,DreamALittleDreamOfMe__Horn1.abc: 3:33 vs median 5:49
+DreamALittleDreamOfMe,2 Parts,broken/2 Parts/DreamALittleDreamOfMe.abc,DreamALittleDreamOfMe__Lute2.abc: 8:05 vs median 5:49
+Eiforia,2 Parts,broken/2 Parts/Eiforia.abc,Eiforia__Drums1.abc: 5:41 vs median 8:34
+Eiforia,2 Parts,broken/2 Parts/Eiforia.abc,Eiforia__Fiddle2.abc: 11:27 vs median 8:34
+EightDaysaWeek,2 Parts,broken/2 Parts/EightDaysaWeek.abc,EightDaysaWeek__Clar1.abc: 2:31 vs median 3:06
+EightDaysaWeek,2 Parts,broken/2 Parts/EightDaysaWeek.abc,EightDaysaWeek__Lute2.abc: 3:42 vs median 3:06
+EponasSong,2 Parts,broken/2 Parts/EponasSong.abc,EponasSong__Flute1.abc: 4:00 vs median 6:04
+EponasSong,2 Parts,broken/2 Parts/EponasSong.abc,EponasSong__Lute2.abc: 8:07 vs median 6:04
+FatBottomGirls,2 Parts,broken/2 Parts/FatBottomGirls.abc,FatBottomGirls__Clar1.abc: 3:06 vs median 4:40
+FatBottomGirls,2 Parts,broken/2 Parts/FatBottomGirls.abc,FatBottomGirls__Lute2.abc: 6:14 vs median 4:40
+FeatherTheme,2 Parts,broken/2 Parts/FeatherTheme.abc,FeatherTheme__Lute1.abc: 5:33 vs median 7:13
+FeatherTheme,2 Parts,broken/2 Parts/FeatherTheme.abc,FeatherTheme__Theorbo2.abc: 8:52 vs median 7:13
+FinalFantasyVIIStaffRoll,2 Parts,broken/2 Parts/FinalFantasyVIIStaffRoll.abc,FinalFantasyVIIStaffRoll__Drums1.abc: 7:07 vs median 9:00
+FinalFantasyVIIStaffRoll,2 Parts,broken/2 Parts/FinalFantasyVIIStaffRoll.abc,FinalFantasyVIIStaffRoll__Lute2.abc: 10:53 vs median 9:00
+FireAndRainrightversion,2 Parts,broken/2 Parts/FireAndRainrightversion.abc,FireAndRainrightversion__Flute1.abc: 3:23 vs median 5:25
+FireAndRainrightversion,2 Parts,broken/2 Parts/FireAndRainrightversion.abc,FireAndRainrightversion__Lute2.abc: 7:27 vs median 5:25
+FlyAway,2 Parts,broken/2 Parts/FlyAway.abc,FlyAway__Fiddle1.abc: 3:42 vs median 4:24
+FlyAway,2 Parts,broken/2 Parts/FlyAway.abc,FlyAway__Flute2.abc: 5:05 vs median 4:24
+GhostRidersInTheSky [DIF],2 Parts,broken/2 Parts/GhostRidersInTheSky [DIF].abc,GhostRidersInTheSky [DIF]__Ages1.abc: 5:34 vs median 3:46
+GhostRidersInTheSky [DIF],2 Parts,broken/2 Parts/GhostRidersInTheSky [DIF].abc,GhostRidersInTheSky [DIF]__Flute2.abc: 1:57 vs median 3:46
+GlintofLight,2 Parts,broken/2 Parts/GlintofLight.abc,GlintofLight__Drums1.abc: 3:18 vs median 4:09
+GlintofLight,2 Parts,broken/2 Parts/GlintofLight.abc,GlintofLight__Lute2.abc: 5:01 vs median 4:09
+Glory,2 Parts,broken/2 Parts/Glory.abc,Glory__Ages1.abc: 19:19 vs median 11:47
+Glory,2 Parts,broken/2 Parts/Glory.abc,Glory__Harp2.abc: 4:15 vs median 11:47
+Gouryella,2 Parts,broken/2 Parts/Gouryella.abc,Gouryella__Drums1.abc: 2:57 vs median 3:53
+Gouryella,2 Parts,broken/2 Parts/Gouryella.abc,Gouryella__Lute2.abc: 4:49 vs median 3:53
+Gravity,2 Parts,broken/2 Parts/Gravity.abc,Gravity__Flute2.abc: 4:58 vs median 5:51
+Gravity,2 Parts,broken/2 Parts/Gravity.abc,Gravity__Lute1.abc: 6:45 vs median 5:51
+Greensleves,2 Parts,broken/2 Parts/Greensleves.abc,Greensleves__Harp1.abc: 1:39 vs median 2:41
+Greensleves,2 Parts,broken/2 Parts/Greensleves.abc,Greensleves__Lute2.abc: 3:43 vs median 2:41
+HardtoExplain,2 Parts,broken/2 Parts/HardtoExplain.abc,HardtoExplain__Harp2.abc: 6:10 vs median 4:58
+HardtoExplain,2 Parts,broken/2 Parts/HardtoExplain.abc,HardtoExplain__Theorbo1.abc: 3:46 vs median 4:58
+HaveYourselfAMerryLittleChristmas-Xmas,2 Parts,broken/2 Parts/HaveYourselfAMerryLittleChristmas-Xmas.abc,HaveYourselfAMerryLittleChristmas-Xmas__Flute1.abc: 3:09 vs median 5:02
+HaveYourselfAMerryLittleChristmas-Xmas,2 Parts,broken/2 Parts/HaveYourselfAMerryLittleChristmas-Xmas.abc,HaveYourselfAMerryLittleChristmas-Xmas__Lute2.abc: 6:56 vs median 5:02
+HeAintHeavy,2 Parts,broken/2 Parts/HeAintHeavy.abc,HeAintHeavy__Clar1.abc: 5:21 vs median 6:47
+HeAintHeavy,2 Parts,broken/2 Parts/HeAintHeavy.abc,HeAintHeavy__Lute2.abc: 8:14 vs median 6:47
+Heartbreaker,2 Parts,broken/2 Parts/Heartbreaker.abc,Heartbreaker__Drums1.abc: 4:34 vs median 5:25
+Heartbreaker,2 Parts,broken/2 Parts/Heartbreaker.abc,Heartbreaker__Lute2.abc: 6:15 vs median 5:25
+Hello-Hello,2 Parts,broken/2 Parts/Hello-Hello.abc,Hello-Hello__Flute1.abc: 3:05 vs median 5:08
+Hello-Hello,2 Parts,broken/2 Parts/Hello-Hello.abc,Hello-Hello__Lute2.abc: 7:11 vs median 5:08
+Holyorder,2 Parts,broken/2 Parts/Holyorder.abc,Holyorder__Harp1.abc: 2:56 vs median 3:34
+Holyorder,2 Parts,broken/2 Parts/Holyorder.abc,Holyorder__Lute2.abc: 4:13 vs median 3:34
+HotelCalifornia-Hotel,2 Parts,broken/2 Parts/HotelCalifornia-Hotel.abc,HotelCalifornia-Hotel__Lute2.abc: 10:05 vs median 8:21
+HotelCalifornia-Hotel,2 Parts,broken/2 Parts/HotelCalifornia-Hotel.abc,HotelCalifornia-Hotel__Theorbo1.abc: 6:37 vs median 8:21
+IPutaSpellonYou,2 Parts,broken/2 Parts/IPutaSpellonYou.abc,IPutaSpellonYou__Lute2.abc: 6:22 vs median 5:24
+IPutaSpellonYou,2 Parts,broken/2 Parts/IPutaSpellonYou.abc,IPutaSpellonYou__Theorbo1.abc: 4:26 vs median 5:24
+IfIaintgotyou,2 Parts,broken/2 Parts/IfIaintgotyou.abc,IfIaintgotyou__Drums1.abc: 3:45 vs median 4:55
+IfIaintgotyou,2 Parts,broken/2 Parts/IfIaintgotyou.abc,IfIaintgotyou__Harp2.abc: 6:05 vs median 4:55
+ImWithYou,2 Parts,broken/2 Parts/ImWithYou.abc,ImWithYou__Flute2.abc: 3:47 vs median 4:36
+ImWithYou,2 Parts,broken/2 Parts/ImWithYou.abc,ImWithYou__Harp1.abc: 5:24 vs median 4:36
+IntotheDeadSky,2 Parts,broken/2 Parts/IntotheDeadSky.abc,IntotheDeadSky__Fiddle1.abc: 8:02 vs median 5:08
+IntotheDeadSky,2 Parts,broken/2 Parts/IntotheDeadSky.abc,IntotheDeadSky__Fiddle2.abc: 2:14 vs median 5:08
+IntotheWilderness,2 Parts,broken/2 Parts/IntotheWilderness.abc,IntotheWilderness__Clar1.abc: 2:44 vs median 3:32
+IntotheWilderness,2 Parts,broken/2 Parts/IntotheWilderness.abc,IntotheWilderness__Lute2.abc: 4:21 vs median 3:32
+ItsNotMyBirthday,2 Parts,broken/2 Parts/ItsNotMyBirthday.abc,ItsNotMyBirthday__Drums1.abc: 1:47 vs median 2:08
+ItsNotMyBirthday,2 Parts,broken/2 Parts/ItsNotMyBirthday.abc,ItsNotMyBirthday__Lute2.abc: 2:29 vs median 2:08
+IwantyoutowantmeDuo,2 Parts,broken/2 Parts/IwantyoutowantmeDuo.abc,IwantyoutowantmeDuo__Fiddle1.abc: 7:46 vs median 6:36
+IwantyoutowantmeDuo,2 Parts,broken/2 Parts/IwantyoutowantmeDuo.abc,IwantyoutowantmeDuo__Flute2.abc: 5:25 vs median 6:36
+JesusHeKnowsMe,2 Parts,broken/2 Parts/JesusHeKnowsMe.abc,JesusHeKnowsMe__Drums1.abc: 4:34 vs median 5:34
+JesusHeKnowsMe,2 Parts,broken/2 Parts/JesusHeKnowsMe.abc,JesusHeKnowsMe__Lute2.abc: 6:34 vs median 5:34
+Karma,2 Parts,broken/2 Parts/Karma.abc,Karma__Clar1.abc: 4:21 vs median 5:39
+Karma,2 Parts,broken/2 Parts/Karma.abc,Karma__Lute2.abc: 6:57 vs median 5:39
+KathysSongDuet,2 Parts,broken/2 Parts/KathysSongDuet.abc,KathysSongDuet__Ages2.abc: 4:59 vs median 4:05
+KathysSongDuet,2 Parts,broken/2 Parts/KathysSongDuet.abc,KathysSongDuet__Flute1.abc: 3:10 vs median 4:05
+LearntoFly,2 Parts,broken/2 Parts/LearntoFly.abc,LearntoFly__Clar1.abc: 11:27 vs median 7:24
+LearntoFly,2 Parts,broken/2 Parts/LearntoFly.abc,LearntoFly__Lute2.abc: 3:20 vs median 7:24
+Leela,2 Parts,broken/2 Parts/Leela.abc,Leela__Drums1.abc: 3:31 vs median 4:16
+Leela,2 Parts,broken/2 Parts/Leela.abc,Leela__Lute2.abc: 5:00 vs median 4:16
+LinktothePast-FairySong,2 Parts,broken/2 Parts/LinktothePast-FairySong.abc,LinktothePast-FairySong__Ages2.abc: 1:33 vs median 1:58
+LinktothePast-FairySong,2 Parts,broken/2 Parts/LinktothePast-FairySong.abc,LinktothePast-FairySong__Theorbo1.abc: 2:22 vs median 1:58
+LooseYourself,2 Parts,broken/2 Parts/LooseYourself.abc,LooseYourself__Drums1.abc: 3:05 vs median 4:01
+LooseYourself,2 Parts,broken/2 Parts/LooseYourself.abc,LooseYourself__Lute2.abc: 4:57 vs median 4:01
+LostPieces,2 Parts,broken/2 Parts/LostPieces.abc,LostPieces__Flute2.abc: 2:23 vs median 3:57
+LostPieces,2 Parts,broken/2 Parts/LostPieces.abc,LostPieces__Lute1.abc: 5:31 vs median 3:57
+Loveisallaround,2 Parts,broken/2 Parts/Loveisallaround.abc,Loveisallaround__Clar1.abc: 10:38 vs median 7:00
+Loveisallaround,2 Parts,broken/2 Parts/Loveisallaround.abc,Loveisallaround__Lute2.abc: 3:23 vs median 7:00
+LoveofMyLife,2 Parts,broken/2 Parts/LoveofMyLife.abc,LoveofMyLife__Flute1.abc: 3:27 vs median 4:16
+LoveofMyLife,2 Parts,broken/2 Parts/LoveofMyLife.abc,LoveofMyLife__Lute2.abc: 5:05 vs median 4:16
+MajorTom,2 Parts,broken/2 Parts/MajorTom.abc,MajorTom__Flute2.abc: 3:47 vs median 4:46
+MajorTom,2 Parts,broken/2 Parts/MajorTom.abc,MajorTom__Lute1.abc: 5:44 vs median 4:46
+Malaguena,2 Parts,broken/2 Parts/Malaguena.abc,Malaguena__Fiddle2.abc: 2:40 vs median 3:28
+Malaguena,2 Parts,broken/2 Parts/Malaguena.abc,Malaguena__Lute1.abc: 4:17 vs median 3:28
+ManinaBox,2 Parts,broken/2 Parts/ManinaBox.abc,ManinaBox__Flute2.abc: 4:47 vs median 5:41
+ManinaBox,2 Parts,broken/2 Parts/ManinaBox.abc,ManinaBox__Lute1.abc: 6:35 vs median 5:41
+MayItBe [TFL],2 Parts,broken/2 Parts/MayItBe [TFL].abc,MayItBe [TFL]__Clar1.abc: 7:25 vs median 5:33
+MayItBe [TFL],2 Parts,broken/2 Parts/MayItBe [TFL].abc,MayItBe [TFL]__Flute2.abc: 3:40 vs median 5:33
+MeandBobbyMcGee,2 Parts,broken/2 Parts/MeandBobbyMcGee.abc,MeandBobbyMcGee__Ages2.abc: 7:20 vs median 5:49
+MeandBobbyMcGee,2 Parts,broken/2 Parts/MeandBobbyMcGee.abc,MeandBobbyMcGee__Lute1.abc: 4:18 vs median 5:49
+MhauraSong,2 Parts,broken/2 Parts/MhauraSong.abc,MhauraSong__Clar1.abc: 2:34 vs median 3:45
+MhauraSong,2 Parts,broken/2 Parts/MhauraSong.abc,MhauraSong__Lute2.abc: 4:56 vs median 3:45
+MiamiVice,2 Parts,broken/2 Parts/MiamiVice.abc,MiamiVice__Drums1.abc: 1:20 vs median 1:43
+MiamiVice,2 Parts,broken/2 Parts/MiamiVice.abc,MiamiVice__Lute2.abc: 2:07 vs median 1:43
+Minoc,2 Parts,broken/2 Parts/Minoc.abc,Minoc__Clar1.abc: 1:49 vs median 2:32
+Minoc,2 Parts,broken/2 Parts/Minoc.abc,Minoc__Lute2.abc: 3:16 vs median 2:32
+MirrorMirror,2 Parts,broken/2 Parts/MirrorMirror.abc,MirrorMirror__Flute1.abc: 5:01 vs median 6:04
+MirrorMirror,2 Parts,broken/2 Parts/MirrorMirror.abc,MirrorMirror__Lute2.abc: 7:07 vs median 6:04
+MistyMountainCold,2 Parts,broken/2 Parts/MistyMountainCold.abc,MistyMountainCold__Harp2.abc: 1:39 vs median 1:15
+MistyMountainCold,2 Parts,broken/2 Parts/MistyMountainCold.abc,MistyMountainCold__Theorbo1.abc: 0:51 vs median 1:15
+MommyKissingSantaClaus,2 Parts,broken/2 Parts/MommyKissingSantaClaus.abc,MommyKissingSantaClaus__Horn1.abc: 3:43 vs median 5:15
+MommyKissingSantaClaus,2 Parts,broken/2 Parts/MommyKissingSantaClaus.abc,MommyKissingSantaClaus__Lute2.abc: 6:47 vs median 5:15
+MorningPure,2 Parts,broken/2 Parts/MorningPure.abc,MorningPure__Ages2.abc: 9:16 vs median 6:39
+MorningPure,2 Parts,broken/2 Parts/MorningPure.abc,MorningPure__Theorbo1.abc: 4:03 vs median 6:39
+MothersJourney,2 Parts,broken/2 Parts/MothersJourney.abc,MothersJourney__Harp1.abc: 2:40 vs median 3:46
+MothersJourney,2 Parts,broken/2 Parts/MothersJourney.abc,MothersJourney__Lute2.abc: 4:53 vs median 3:46
+MoveOnUp,2 Parts,broken/2 Parts/MoveOnUp.abc,MoveOnUp__Clar1.abc: 3:22 vs median 4:09
+MoveOnUp,2 Parts,broken/2 Parts/MoveOnUp.abc,MoveOnUp__Lute2.abc: 4:55 vs median 4:09
+MrsRobinson-SimonandGarfunkel,2 Parts,broken/2 Parts/MrsRobinson-SimonandGarfunkel.abc,MrsRobinson-SimonandGarfunkel__Flute1.abc: 7:01 vs median 5:14
+MrsRobinson-SimonandGarfunkel,2 Parts,broken/2 Parts/MrsRobinson-SimonandGarfunkel.abc,MrsRobinson-SimonandGarfunkel__Flute2.abc: 3:27 vs median 5:14
+MuneGaDokiDoki,2 Parts,broken/2 Parts/MuneGaDokiDoki.abc,MuneGaDokiDoki__Flute1.abc: 5:56 vs median 5:05
+MuneGaDokiDoki,2 Parts,broken/2 Parts/MuneGaDokiDoki.abc,MuneGaDokiDoki__Flute2.abc: 4:14 vs median 5:05
+MyHeartWillGoOn,2 Parts,broken/2 Parts/MyHeartWillGoOn.abc,MyHeartWillGoOn__Harp1.abc: 4:05 vs median 8:59
+MyHeartWillGoOn,2 Parts,broken/2 Parts/MyHeartWillGoOn.abc,MyHeartWillGoOn__Lute2.abc: 13:53 vs median 8:59
+NewPacific,2 Parts,broken/2 Parts/NewPacific.abc,NewPacific__Drums1.abc: 3:08 vs median 5:37
+NewPacific,2 Parts,broken/2 Parts/NewPacific.abc,NewPacific__Lute2.abc: 8:06 vs median 5:37
+NightFever,2 Parts,broken/2 Parts/NightFever.abc,NightFever__Fiddle1.abc: 6:21 vs median 4:50
+NightFever,2 Parts,broken/2 Parts/NightFever.abc,NightFever__Flute2.abc: 3:18 vs median 4:50
+NoMoreMrNiceGuy,2 Parts,broken/2 Parts/NoMoreMrNiceGuy.abc,NoMoreMrNiceGuy__Clar1.abc: 3:03 vs median 3:41
+NoMoreMrNiceGuy,2 Parts,broken/2 Parts/NoMoreMrNiceGuy.abc,NoMoreMrNiceGuy__Lute2.abc: 4:18 vs median 3:41
+OnlyLove,2 Parts,broken/2 Parts/OnlyLove.abc,OnlyLove__Fiddle1.abc: 5:51 vs median 4:54
+OnlyLove,2 Parts,broken/2 Parts/OnlyLove.abc,OnlyLove__Flute2.abc: 3:56 vs median 4:54
+OrdinaryPeople,2 Parts,broken/2 Parts/OrdinaryPeople.abc,OrdinaryPeople__Fiddle1.abc: 4:45 vs median 3:46
+OrdinaryPeople,2 Parts,broken/2 Parts/OrdinaryPeople.abc,OrdinaryPeople__Flute2.abc: 2:48 vs median 3:46
+OutTonight,2 Parts,broken/2 Parts/OutTonight.abc,OutTonight__Flute1.abc: 3:48 vs median 4:32
+OutTonight,2 Parts,broken/2 Parts/OutTonight.abc,OutTonight__Lute2.abc: 5:15 vs median 4:32
+PapaDontPreach,2 Parts,broken/2 Parts/PapaDontPreach.abc,PapaDontPreach__Drums1.abc: 7:21 vs median 9:28
+PapaDontPreach,2 Parts,broken/2 Parts/PapaDontPreach.abc,PapaDontPreach__Lute2.abc: 11:36 vs median 9:28
+Passion,2 Parts,broken/2 Parts/Passion.abc,Passion__Lute1.abc: 6:44 vs median 5:28
+Passion,2 Parts,broken/2 Parts/Passion.abc,Passion__Lute2.abc: 4:12 vs median 5:28
+Peace,2 Parts,broken/2 Parts/Peace.abc,Peace__Drums1.abc: 2:03 vs median 3:41
+Peace,2 Parts,broken/2 Parts/Peace.abc,Peace__Lute2.abc: 5:18 vs median 3:41
+Pipline,2 Parts,broken/2 Parts/Pipline.abc,Pipline__Drums1.abc: 3:39 vs median 5:49
+Pipline,2 Parts,broken/2 Parts/Pipline.abc,Pipline__Lute2.abc: 7:59 vs median 5:49
+PleasePleaseMe,2 Parts,broken/2 Parts/PleasePleaseMe.abc,PleasePleaseMe__Clar1.abc: 2:11 vs median 2:40
+PleasePleaseMe,2 Parts,broken/2 Parts/PleasePleaseMe.abc,PleasePleaseMe__Lute2.abc: 3:10 vs median 2:40
+Recollections,2 Parts,broken/2 Parts/Recollections.abc,Recollections__Clar1.abc: 3:37 vs median 4:24
+Recollections,2 Parts,broken/2 Parts/Recollections.abc,Recollections__Lute2.abc: 5:11 vs median 4:24
+RedRiverValley,2 Parts,broken/2 Parts/RedRiverValley.abc,RedRiverValley__Horn1.abc: 2:24 vs median 3:05
+RedRiverValley,2 Parts,broken/2 Parts/RedRiverValley.abc,RedRiverValley__Lute2.abc: 3:47 vs median 3:05
+Redemptionsong,2 Parts,broken/2 Parts/Redemptionsong.abc,Redemptionsong__Ages1.abc: 6:10 vs median 5:02
+Redemptionsong,2 Parts,broken/2 Parts/Redemptionsong.abc,Redemptionsong__Flute2.abc: 3:53 vs median 5:02
+RhapsodyinBlue,2 Parts,broken/2 Parts/RhapsodyinBlue.abc,"RhapsodyinBlue__Fiddle2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 11-486 : Track 0 Bar 21 has 3 time units while the time signature has 4
+Error in line-char 12-3 : note length denominator is zero or less"
+RobosTheme,2 Parts,broken/2 Parts/RobosTheme.abc,RobosTheme__Drums1.abc: 1:14 vs median 1:42
+RobosTheme,2 Parts,broken/2 Parts/RobosTheme.abc,RobosTheme__Lute2.abc: 2:09 vs median 1:42
+RolanberryFieldsSong,2 Parts,broken/2 Parts/RolanberryFieldsSong.abc,RolanberryFieldsSong__Flute1.abc: 2:50 vs median 4:11
+RolanberryFieldsSong,2 Parts,broken/2 Parts/RolanberryFieldsSong.abc,RolanberryFieldsSong__Harp2.abc: 5:32 vs median 4:11
+RonfaureSong,2 Parts,broken/2 Parts/RonfaureSong.abc,RonfaureSong__Clar1.abc: 5:26 vs median 7:52
+RonfaureSong,2 Parts,broken/2 Parts/RonfaureSong.abc,RonfaureSong__Lute2.abc: 10:17 vs median 7:52
+Runningupthathill,2 Parts,broken/2 Parts/Runningupthathill.abc,Runningupthathill__Drums1.abc: 3:13 vs median 4:17
+Runningupthathill,2 Parts,broken/2 Parts/Runningupthathill.abc,Runningupthathill__Lute2.abc: 5:20 vs median 4:17
+RunningupthathillCORRECT,2 Parts,broken/2 Parts/RunningupthathillCORRECT.abc,RunningupthathillCORRECT__Drums1.abc: 3:13 vs median 4:12
+RunningupthathillCORRECT,2 Parts,broken/2 Parts/RunningupthathillCORRECT.abc,RunningupthathillCORRECT__Lute2.abc: 5:11 vs median 4:12
+Rushing,2 Parts,broken/2 Parts/Rushing.abc,Rushing__Drums1.abc: 1:26 vs median 1:50
+Rushing,2 Parts,broken/2 Parts/Rushing.abc,Rushing__Lute2.abc: 2:13 vs median 1:50
+RydiasThemeFFIV,2 Parts,broken/2 Parts/RydiasThemeFFIV.abc,RydiasThemeFFIV__Clar1.abc: 1:53 vs median 2:41
+RydiasThemeFFIV,2 Parts,broken/2 Parts/RydiasThemeFFIV.abc,RydiasThemeFFIV__Harp2.abc: 3:30 vs median 2:41
+SaxoBeat,2 Parts,broken/2 Parts/SaxoBeat.abc,SaxoBeat__Horn1.abc: 3:14 vs median 4:37
+SaxoBeat,2 Parts,broken/2 Parts/SaxoBeat.abc,SaxoBeat__Lute2.abc: 6:00 vs median 4:37
+SeeD,2 Parts,broken/2 Parts/SeeD.abc,SeeD__Drums1.abc: 2:32 vs median 3:22
+SeeD,2 Parts,broken/2 Parts/SeeD.abc,SeeD__Flute2.abc: 4:12 vs median 3:22
+SeguraoTchan,2 Parts,broken/2 Parts/SeguraoTchan.abc,SeguraoTchan__Horn1.abc: 4:10 vs median 5:25
+SeguraoTchan,2 Parts,broken/2 Parts/SeguraoTchan.abc,SeguraoTchan__Lute2.abc: 6:40 vs median 5:25
+SelbinaSong,2 Parts,broken/2 Parts/SelbinaSong.abc,SelbinaSong__Clar1.abc: 1:54 vs median 2:33
+SelbinaSong,2 Parts,broken/2 Parts/SelbinaSong.abc,SelbinaSong__Lute2.abc: 3:12 vs median 2:33
+SendmeanAngel,2 Parts,broken/2 Parts/SendmeanAngel.abc,SendmeanAngel__Horn1.abc: 5:38 vs median 8:09
+SendmeanAngel,2 Parts,broken/2 Parts/SendmeanAngel.abc,SendmeanAngel__Lute2.abc: 10:39 vs median 8:09
+SexyandIknowIt,2 Parts,broken/2 Parts/SexyandIknowIt.abc,SexyandIknowIt__Drums1.abc: 5:40 vs median 4:44
+SexyandIknowIt,2 Parts,broken/2 Parts/SexyandIknowIt.abc,SexyandIknowIt__Lute2.abc: 3:48 vs median 4:44
+SimplyaBallad,2 Parts,broken/2 Parts/SimplyaBallad.abc,SimplyaBallad__Fiddle1.abc: 7:20 vs median 5:57
+SimplyaBallad,2 Parts,broken/2 Parts/SimplyaBallad.abc,SimplyaBallad__Flute2.abc: 4:34 vs median 5:57
+SinceIveBeenLovingYou,2 Parts,broken/2 Parts/SinceIveBeenLovingYou.abc,SinceIveBeenLovingYou__Drums1.abc: 8:30 vs median 12:55
+SinceIveBeenLovingYou,2 Parts,broken/2 Parts/SinceIveBeenLovingYou.abc,SinceIveBeenLovingYou__Lute2.abc: 17:21 vs median 12:55
+SmallTwoofPieces,2 Parts,broken/2 Parts/SmallTwoofPieces.abc,SmallTwoofPieces__Fiddle1.abc: 5:28 vs median 4:34
+SmallTwoofPieces,2 Parts,broken/2 Parts/SmallTwoofPieces.abc,SmallTwoofPieces__Flute2.abc: 3:40 vs median 4:34
+SmileLikeYouMeanIt,2 Parts,broken/2 Parts/SmileLikeYouMeanIt.abc,SmileLikeYouMeanIt__Harp1.abc: 6:45 vs median 5:18
+SmileLikeYouMeanIt,2 Parts,broken/2 Parts/SmileLikeYouMeanIt.abc,SmileLikeYouMeanIt__Lute2.abc: 3:50 vs median 5:18
+Soultosqueeze,2 Parts,broken/2 Parts/Soultosqueeze.abc,Soultosqueeze__Flute2.abc: 4:44 vs median 6:03
+Soultosqueeze,2 Parts,broken/2 Parts/Soultosqueeze.abc,Soultosqueeze__Harp1.abc: 7:23 vs median 6:03
+SpeilMitMir,2 Parts,broken/2 Parts/SpeilMitMir.abc,SpeilMitMir__Flute2.abc: 5:19 vs median 4:36
+SpeilMitMir,2 Parts,broken/2 Parts/SpeilMitMir.abc,SpeilMitMir__Harp1.abc: 3:53 vs median 4:36
+StaffRoll,2 Parts,broken/2 Parts/StaffRoll.abc,StaffRoll__Harp1.abc: 7:20 vs median 6:00
+StaffRoll,2 Parts,broken/2 Parts/StaffRoll.abc,StaffRoll__Lute2.abc: 4:40 vs median 6:00
+Stan,2 Parts,broken/2 Parts/Stan.abc,Stan__Drums1.abc: 6:07 vs median 12:29
+Stan,2 Parts,broken/2 Parts/Stan.abc,Stan__Lute2.abc: 18:51 vs median 12:29
+Starofthecountingdown,2 Parts,broken/2 Parts/Starofthecountingdown.abc,Starofthecountingdown__Lute2.abc: 4:47 vs median 3:51
+Starofthecountingdown,2 Parts,broken/2 Parts/Starofthecountingdown.abc,Starofthecountingdown__Pipes1.abc: 2:55 vs median 3:51
+Still,2 Parts,broken/2 Parts/Still.abc,Still__Fiddle1.abc: 6:59 vs median 6:02
+Still,2 Parts,broken/2 Parts/Still.abc,Still__Flute2.abc: 5:06 vs median 6:02
+StrangeTale-StrangeTale,2 Parts,broken/2 Parts/StrangeTale-StrangeTale.abc,StrangeTale-StrangeTale__Harp1.abc: 2:31 vs median 3:05
+StrangeTale-StrangeTale,2 Parts,broken/2 Parts/StrangeTale-StrangeTale.abc,StrangeTale-StrangeTale__Lute2.abc: 3:40 vs median 3:05
+SuccessionofWitches,2 Parts,broken/2 Parts/SuccessionofWitches.abc,SuccessionofWitches__Flute1.abc: 1:52 vs median 2:16
+SuccessionofWitches,2 Parts,broken/2 Parts/SuccessionofWitches.abc,SuccessionofWitches__Harp2.abc: 2:40 vs median 2:16
+Superman,2 Parts,broken/2 Parts/Superman.abc,Superman__Horn1.abc: 5:50 vs median 7:21
+Superman,2 Parts,broken/2 Parts/Superman.abc,Superman__Lute2.abc: 8:53 vs median 7:21
+TheBellsAreRinging,2 Parts,broken/2 Parts/TheBellsAreRinging.abc,TheBellsAreRinging__Cowbell1.abc: 3:23 vs median 4:09
+TheBellsAreRinging,2 Parts,broken/2 Parts/TheBellsAreRinging.abc,TheBellsAreRinging__Lute2.abc: 4:56 vs median 4:09
+TheInnerLight,2 Parts,broken/2 Parts/TheInnerLight.abc,TheInnerLight__Flute1.abc: 1:42 vs median 2:32
+TheInnerLight,2 Parts,broken/2 Parts/TheInnerLight.abc,TheInnerLight__Harp2.abc: 3:22 vs median 2:32
+TheLemonSong,2 Parts,broken/2 Parts/TheLemonSong.abc,TheLemonSong__Drums1.abc: 6:29 vs median 7:56
+TheLemonSong,2 Parts,broken/2 Parts/TheLemonSong.abc,TheLemonSong__Lute2.abc: 9:23 vs median 7:56
+TheOldRambler,2 Parts,broken/2 Parts/TheOldRambler.abc,TheOldRambler__Flute1.abc: 2:08 vs median 3:03
+TheOldRambler,2 Parts,broken/2 Parts/TheOldRambler.abc,TheOldRambler__Lute2.abc: 3:57 vs median 3:03
+TimeWhatisTime,2 Parts,broken/2 Parts/TimeWhatisTime.abc,TimeWhatisTime__Flute2.abc: 5:41 vs median 8:25
+TimeWhatisTime,2 Parts,broken/2 Parts/TimeWhatisTime.abc,TimeWhatisTime__Lute1.abc: 11:10 vs median 8:25
+ToLoveYouMore,2 Parts,broken/2 Parts/ToLoveYouMore.abc,ToLoveYouMore__Fiddle1.abc: 11:49 vs median 9:52
+ToLoveYouMore,2 Parts,broken/2 Parts/ToLoveYouMore.abc,ToLoveYouMore__Flute2.abc: 7:55 vs median 9:52
+TracesofLove,2 Parts,broken/2 Parts/TracesofLove.abc,TracesofLove__Flute1.abc: 3:24 vs median 4:39
+TracesofLove,2 Parts,broken/2 Parts/TracesofLove.abc,TracesofLove__Harp2.abc: 5:54 vs median 4:39
+UnchainmyHeart,2 Parts,broken/2 Parts/UnchainmyHeart.abc,UnchainmyHeart__Flute1.abc: 4:10 vs median 3:36
+UnchainmyHeart,2 Parts,broken/2 Parts/UnchainmyHeart.abc,UnchainmyHeart__Theorbo2.abc: 3:03 vs median 3:36
+VardasEnigma-VardasEnigma,2 Parts,broken/2 Parts/VardasEnigma-VardasEnigma.abc,VardasEnigma-VardasEnigma__Drums1.abc: 1:51 vs median 2:13
+VardasEnigma-VardasEnigma,2 Parts,broken/2 Parts/VardasEnigma-VardasEnigma.abc,VardasEnigma-VardasEnigma__Harp2.abc: 2:36 vs median 2:13
+VolulezVous,2 Parts,broken/2 Parts/VolulezVous.abc,VolulezVous__Harp1.abc: 5:31 vs median 4:29
+VolulezVous,2 Parts,broken/2 Parts/VolulezVous.abc,VolulezVous__Lute2.abc: 3:27 vs median 4:29
+Wanderer,2 Parts,broken/2 Parts/Wanderer.abc,Wanderer__Harp2.abc: 3:48 vs median 3:13
+Wanderer,2 Parts,broken/2 Parts/Wanderer.abc,Wanderer__Lute1.abc: 2:38 vs median 3:13
+WhatdoyouWantfromMe,2 Parts,broken/2 Parts/WhatdoyouWantfromMe.abc,WhatdoyouWantfromMe__Harp1.abc: 6:36 vs median 5:10
+WhatdoyouWantfromMe,2 Parts,broken/2 Parts/WhatdoyouWantfromMe.abc,WhatdoyouWantfromMe__Lute2.abc: 3:45 vs median 5:10
+WhenTheChildrenCry,2 Parts,broken/2 Parts/WhenTheChildrenCry.abc,WhenTheChildrenCry__Flute1.abc: 4:06 vs median 5:49
+WhenTheChildrenCry,2 Parts,broken/2 Parts/WhenTheChildrenCry.abc,WhenTheChildrenCry__Lute2.abc: 7:33 vs median 5:49
+WhiteRabbit,2 Parts,broken/2 Parts/WhiteRabbit.abc,WhiteRabbit__Flute1.abc: 2:45 vs median 3:35
+WhiteRabbit,2 Parts,broken/2 Parts/WhiteRabbit.abc,WhiteRabbit__Lute2.abc: 4:26 vs median 3:35
+WickedWitch,2 Parts,broken/2 Parts/WickedWitch.abc,WickedWitch__Flute2.abc: 2:35 vs median 3:23
+WickedWitch,2 Parts,broken/2 Parts/WickedWitch.abc,WickedWitch__Lute1.abc: 4:11 vs median 3:23
+WindWakerCredits,2 Parts,broken/2 Parts/WindWakerCredits.abc,WindWakerCredits__Harp1.abc: 8:12 vs median 6:34
+WindWakerCredits,2 Parts,broken/2 Parts/WindWakerCredits.abc,WindWakerCredits__Lute2.abc: 4:56 vs median 6:34
+YouWereMeantForMeDuo,2 Parts,broken/2 Parts/YouWereMeantForMeDuo.abc,YouWereMeantForMeDuo__Fiddle1.abc: 16:36 vs median 10:37
+YouWereMeantForMeDuo,2 Parts,broken/2 Parts/YouWereMeantForMeDuo.abc,YouWereMeantForMeDuo__Flute2.abc: 4:38 vs median 10:37
+YoureBeautiful,2 Parts,broken/2 Parts/YoureBeautiful.abc,YoureBeautiful__Flute2.abc: 3:47 vs median 4:51
+YoureBeautiful,2 Parts,broken/2 Parts/YoureBeautiful.abc,YoureBeautiful__Lute1.abc: 5:56 vs median 4:51
+ZorasDomain,2 Parts,broken/2 Parts/ZorasDomain.abc,ZorasDomain__Fiddle2.abc: 7:37 vs median 5:42
+ZorasDomain,2 Parts,broken/2 Parts/ZorasDomain.abc,ZorasDomain__Flute1.abc: 3:47 vs median 5:42
+bouree [DIF],2 Parts,broken/2 Parts/bouree [DIF].abc,"bouree [DIF]__Flute2.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 16-44 : Track 0 Bar 28 has -6 time units while the time signature has 4
+Error in line-char 28-64 : note length denominator is zero or less"
+rachel,2 Parts,broken/2 Parts/rachel.abc,rachel__Clar1.abc: 2:37 vs median 3:15
+rachel,2 Parts,broken/2 Parts/rachel.abc,rachel__Harp2.abc: 3:53 vs median 3:15
+soloSonatainF,2 Parts,broken/2 Parts/soloSonatainF.abc,soloSonatainF__Flute1.abc: 2:37 vs median 3:18
+soloSonatainF,2 Parts,broken/2 Parts/soloSonatainF.abc,soloSonatainF__Harp2.abc: 3:59 vs median 3:18
+1000Oceans,3 Parts,broken/3 Parts/1000Oceans.abc,1000Oceans__Flute1.abc: 5:08 vs median 6:28
+1000Oceans,3 Parts,broken/3 Parts/1000Oceans.abc,1000Oceans__Harp3.abc: 9:17 vs median 6:28
+APastandFutureSecret,3 Parts,broken/3 Parts/APastandFutureSecret.abc,APastandFutureSecret__Clar1.abc: 3:20 vs median 4:07
+APastandFutureSecret,3 Parts,broken/3 Parts/APastandFutureSecret.abc,APastandFutureSecret__Lute2.abc: 4:45 vs median 4:07
+AceofSpades,3 Parts,broken/3 Parts/AceofSpades.abc,AceofSpades__Lute2.abc: 3:19 vs median 2:41
+AcousticMedley,3 Parts,broken/3 Parts/AcousticMedley.abc,AcousticMedley__Harp1.abc: 4:21 vs median 3:40
+AcousticMedley,3 Parts,broken/3 Parts/AcousticMedley.abc,AcousticMedley__Theorbo3.abc: 3:00 vs median 3:40
+AgainstTheWind,3 Parts,broken/3 Parts/AgainstTheWind.abc,AgainstTheWind__Flute1.abc: 5:55 vs median 4:27
+AkunoMusume-Daughterofevil,3 Parts,broken/3 Parts/AkunoMusume-Daughterofevil.abc,AkunoMusume-Daughterofevil__Harp2.abc: 5:51 vs median 4:31
+AllIWantisYou,3 Parts,broken/3 Parts/AllIWantisYou.abc,AllIWantisYou__Lute2.abc: 3:59 vs median 4:45
+AlmostAWhisper,3 Parts,broken/3 Parts/AlmostAWhisper.abc,AlmostAWhisper__Lute2.abc: 6:25 vs median 3:37
+AlmostAWhisper,3 Parts,broken/3 Parts/AlmostAWhisper.abc,AlmostAWhisper__Lute3.abc: 3:04 vs median 3:37
+AlmostHeaven,3 Parts,broken/3 Parts/AlmostHeaven.abc,AlmostHeaven__Theorbo1.abc: 4:07 vs median 7:05
+AnRaibhTuAgAngCarraig,3 Parts,broken/3 Parts/AnRaibhTuAgAngCarraig.abc,AnRaibhTuAgAngCarraig__Lute3.abc: 6:52 vs median 2:51
+AndSheWas,3 Parts,broken/3 Parts/AndSheWas.abc,AndSheWas__Lute3.abc: 6:40 vs median 3:32
+AndyGriffithShow,3 Parts,broken/3 Parts/AndyGriffithShow.abc,AndyGriffithShow__Harp3.abc: 2:07 vs median 1:34
+AnytimeAtAll,3 Parts,broken/3 Parts/AnytimeAtAll.abc,AnytimeAtAll__Ages2.abc: 2:35 vs median 3:10
+ArmyoftheImmortals,3 Parts,broken/3 Parts/ArmyoftheImmortals.abc,ArmyoftheImmortals__Lute3.abc: 3:03 vs median 3:55
+ArrivaltoEarth,3 Parts,broken/3 Parts/ArrivaltoEarth.abc,ArrivaltoEarth__Lute3.abc: 1:58 vs median 1:29
+Atland,3 Parts,broken/3 Parts/Atland.abc,Atland__Lute3.abc: 3:41 vs median 2:19
+AuldLangSyneoriginal,3 Parts,broken/3 Parts/AuldLangSyneoriginal.abc,AuldLangSyneoriginal__Lute3.abc: 6:35 vs median 2:59
+AzureBlueWorld,3 Parts,broken/3 Parts/AzureBlueWorld.abc,AzureBlueWorld__Ages3.abc: 3:09 vs median 2:34
+Bachelorette,3 Parts,broken/3 Parts/Bachelorette.abc,Bachelorette__Lute3.abc: 9:09 vs median 5:54
+BadCompany,3 Parts,broken/3 Parts/BadCompany.abc,BadCompany__Horn2.abc: 3:50 vs median 5:10
+BadCompany,3 Parts,broken/3 Parts/BadCompany.abc,BadCompany__Lute3.abc: 6:07 vs median 5:10
+BardsSong,3 Parts,broken/3 Parts/BardsSong.abc,BardsSong__Lute3.abc: 3:18 vs median 2:40
+BarzOneBlues,3 Parts,broken/3 Parts/BarzOneBlues.abc,BarzOneBlues__Harp2.abc: 7:25 vs median 5:42
+BattleHymns,3 Parts,broken/3 Parts/BattleHymns.abc,BattleHymns__Lute3.abc: 9:05 vs median 7:05
+BeStill,3 Parts,broken/3 Parts/BeStill.abc,BeStill__Lute2.abc: 7:02 vs median 2:12
+BeginingtolookalotlikeChristmas,3 Parts,broken/3 Parts/BeginingtolookalotlikeChristmas.abc,BeginingtolookalotlikeChristmas__Theorbo1.abc: 1:35 vs median 1:58
+BigBottom,3 Parts,broken/3 Parts/BigBottom.abc,BigBottom__Theorbo1.abc: 6:30 vs median 2:16
+BigGirlsDontCry,3 Parts,broken/3 Parts/BigGirlsDontCry.abc,BigGirlsDontCry__Lute3.abc: 6:57 vs median 2:55
+BigYellowTaxi,3 Parts,broken/3 Parts/BigYellowTaxi.abc,BigYellowTaxi__Lute3.abc: 5:02 vs median 3:39
+BillieJean,3 Parts,broken/3 Parts/BillieJean.abc,BillieJean__Lute2.abc: 5:46 vs median 4:42
+BlindedbyLight,3 Parts,broken/3 Parts/BlindedbyLight.abc,BlindedbyLight__Lute3.abc: 4:04 vs median 2:49
+BradyBunch,3 Parts,broken/3 Parts/BradyBunch.abc,BradyBunch__Harp3.abc: 2:47 vs median 1:22
+BrightSideofLife,3 Parts,broken/3 Parts/BrightSideofLife.abc,BrightSideofLife__Drums1.abc: 3:47 vs median 4:30
+Californiacation,3 Parts,broken/3 Parts/Californiacation.abc,Californiacation__Harp2.abc: 8:01 vs median 5:56
+CandlelightFantasia,3 Parts,broken/3 Parts/CandlelightFantasia.abc,CandlelightFantasia__Theorbo1.abc: 6:51 vs median 8:41
+CantaloopFlipFantasia,3 Parts,broken/3 Parts/CantaloopFlipFantasia.abc,CantaloopFlipFantasia__Lute3.abc: 5:04 vs median 3:19
+Carmen-DanseBohemienne,3 Parts,broken/3 Parts/Carmen-DanseBohemienne.abc,Carmen-DanseBohemienne__Harp3.abc: 4:58 vs median 4:19
+CarolansCup-Multipart,3 Parts,broken/3 Parts/CarolansCup-Multipart.abc,CarolansCup-Multipart__Harp2.abc: 2:16 vs median 1:39
+CaseyJones,3 Parts,broken/3 Parts/CaseyJones.abc,CaseyJones__Lute3.abc: 2:23 vs median 3:28
+ChicNStu,3 Parts,broken/3 Parts/ChicNStu.abc,ChicNStu__Ages3.abc: 3:20 vs median 2:23
+ChitlinsconCarne,3 Parts,broken/3 Parts/ChitlinsconCarne.abc,ChitlinsconCarne__Lute3.abc: 1:26 vs median 2:15
+ChronoCross-Timescars,3 Parts,broken/3 Parts/ChronoCross-Timescars.abc,ChronoCross-Timescars__Theorbo3.abc: 2:59 vs median 2:02
+ChronoCross-Voyage,3 Parts,broken/3 Parts/ChronoCross-Voyage.abc,ChronoCross-Voyage__Lute2.abc: 4:03 vs median 2:23
+ChutesandLadders,3 Parts,broken/3 Parts/ChutesandLadders.abc,ChutesandLadders__Theorbo1.abc: 3:36 vs median 5:32
+ComaWhite,3 Parts,broken/3 Parts/ComaWhite.abc,ComaWhite__Harp2.abc: 10:15 vs median 6:23
+ConciertodeAranjuez,3 Parts,broken/3 Parts/ConciertodeAranjuez.abc,ConciertodeAranjuez__Horn1.abc: 12:47 vs median 10:50
+CooleysReel,3 Parts,broken/3 Parts/CooleysReel.abc,CooleysReel__Lute2.abc: 3:03 vs median 2:04
+CostaDelSol,3 Parts,broken/3 Parts/CostaDelSol.abc,CostaDelSol__Horn1.abc: 4:57 vs median 5:53
+CostaDelSol,3 Parts,broken/3 Parts/CostaDelSol.abc,CostaDelSol__Lute2.abc: 6:51 vs median 5:53
+CracklinRosie,3 Parts,broken/3 Parts/CracklinRosie.abc,CracklinRosie__Harp2.abc: 4:49 vs median 2:49
+CrimsonTideRollTideFirstPart,3 Parts,broken/3 Parts/CrimsonTideRollTideFirstPart.abc,CrimsonTideRollTideFirstPart__Drums2.abc: 3:07 vs median 3:53
+CrimsonTideRollTideFirstPart,3 Parts,broken/3 Parts/CrimsonTideRollTideFirstPart.abc,CrimsonTideRollTideFirstPart__Horn3.abc: 4:51 vs median 3:53
+CrossEyedMary-crosseyedmary,3 Parts,broken/3 Parts/CrossEyedMary-crosseyedmary.abc,CrossEyedMary-crosseyedmary__Lute3.abc: 4:16 vs median 3:38
+Crying,3 Parts,broken/3 Parts/Crying.abc,Crying__Lute1.abc: 6:34 vs median 3:42
+DancetotheMusic,3 Parts,broken/3 Parts/DancetotheMusic.abc,DancetotheMusic__Drums2.abc: 4:01 vs median 3:04
+DasModell-DasModell,3 Parts,broken/3 Parts/DasModell-DasModell.abc,DasModell-DasModell__Lute3.abc: 4:29 vs median 3:49
+DoYouHearWhatIHear,3 Parts,broken/3 Parts/DoYouHearWhatIHear.abc,DoYouHearWhatIHear__Flute1.abc: 2:24 vs median 4:29
+DonarsOak,3 Parts,broken/3 Parts/DonarsOak.abc,DonarsOak__Ages3.abc: 8:00 vs median 4:52
+DontKnowWhy-Norah,3 Parts,broken/3 Parts/DontKnowWhy-Norah.abc,DontKnowWhy-Norah__Lute3.abc: 6:24 vs median 3:18
+DontStop,3 Parts,broken/3 Parts/DontStop.abc,DontStop__Flute2.abc: 3:16 vs median 4:12
+DontStop,3 Parts,broken/3 Parts/DontStop.abc,DontStop__Harp3.abc: 4:54 vs median 4:12
+Donttellmethatitsover,3 Parts,broken/3 Parts/Donttellmethatitsover.abc,Donttellmethatitsover__Flute3.abc: 3:10 vs median 4:25
+Donttellmethatitsover,3 Parts,broken/3 Parts/Donttellmethatitsover.abc,Donttellmethatitsover__Lute1.abc: 5:09 vs median 4:25
+ELO,3 Parts,broken/3 Parts/ELO.abc,ELO__Lute2.abc: 3:38 vs median 2:54
+Encounter,3 Parts,broken/3 Parts/Encounter.abc,Encounter__Fiddle3.abc: 2:52 vs median 1:48
+Evendimwind[horn]224,3 Parts,broken/3 Parts/Evendimwind[horn]224.abc,Evendimwind[horn]224__Flute1.abc: 0:18 vs median 2:05
+EverythingAboutYou,3 Parts,broken/3 Parts/EverythingAboutYou.abc,EverythingAboutYou__Horn2.abc: 3:56 vs median 5:01
+EverythingsAllRight,3 Parts,broken/3 Parts/EverythingsAllRight.abc,EverythingsAllRight__Harp2.abc: 9:12 vs median 5:10
+ExogenesisPart3RedemptionTrio,3 Parts,broken/3 Parts/ExogenesisPart3RedemptionTrio.abc,ExogenesisPart3RedemptionTrio__Drums1.abc: 3:09 vs median 4:32
+FF6-ShadowTheme,3 Parts,broken/3 Parts/FF6-ShadowTheme.abc,FF6-ShadowTheme__Lute3.abc: 1:22 vs median 0:41
+Falling,3 Parts,broken/3 Parts/Falling.abc,Falling__Harp2.abc: 6:27 vs median 3:51
+"Farewell,TheDay-Farewell,TheDay",3 Parts,"broken/3 Parts/Farewell,TheDay-Farewell,TheDay.abc","Farewell,TheDay-Farewell,TheDay__Lute3.abc: 5:36 vs median 4:07"
+FarewelltotheCreeks,3 Parts,broken/3 Parts/FarewelltotheCreeks.abc,FarewelltotheCreeks__Pipes1.abc: 3:42 vs median 1:39
+FelizNavidad,3 Parts,broken/3 Parts/FelizNavidad.abc,FelizNavidad__Drums1.abc: 6:20 vs median 3:17
+FelizNavidad,3 Parts,broken/3 Parts/FelizNavidad.abc,FelizNavidad__Flute2.abc: 2:00 vs median 3:17
+FiddledeChocobo,3 Parts,broken/3 Parts/FiddledeChocobo.abc,FiddledeChocobo__Harp1.abc: 1:50 vs median 1:14
+FieldsofGol,3 Parts,broken/3 Parts/FieldsofGol.abc,FieldsofGol__Flute1.abc: 3:20 vs median 4:21
+FieldsofGol,3 Parts,broken/3 Parts/FieldsofGol.abc,FieldsofGol__Lute2.abc: 9:04 vs median 4:21
+FixYou,3 Parts,broken/3 Parts/FixYou.abc,FixYou__Lute2.abc: 7:50 vs median 5:27
+FlyMetotheMoon,3 Parts,broken/3 Parts/FlyMetotheMoon.abc,FlyMetotheMoon__Harp2.abc: 3:44 vs median 2:38
+FoolOnTheHill,3 Parts,broken/3 Parts/FoolOnTheHill.abc,FoolOnTheHill__Clar2.abc: 1:16 vs median 4:23
+FoolsGold,3 Parts,broken/3 Parts/FoolsGold.abc,FoolsGold__Flute1.abc: 3:02 vs median 7:59
+Frozen,3 Parts,broken/3 Parts/Frozen.abc,Frozen__Flute2.abc: 7:20 vs median 8:41
+Gently,3 Parts,broken/3 Parts/Gently.abc,Gently__Lute2.abc: 8:42 vs median 5:06
+GetBack,3 Parts,broken/3 Parts/GetBack.abc,GetBack__Horn1.abc: 3:38 vs median 4:45
+GettinNothingforChristmas,3 Parts,broken/3 Parts/GettinNothingforChristmas.abc,GettinNothingforChristmas__Lute3.abc: 4:51 vs median 2:39
+"Girl,YoullbeaWomanSoon",3 Parts,"broken/3 Parts/Girl,YoullbeaWomanSoon.abc","Girl,YoullbeaWomanSoon__Harp2.abc: 7:45 vs median 3:20"
+GiveMeOneReason-Reason,3 Parts,broken/3 Parts/GiveMeOneReason-Reason.abc,GiveMeOneReason-Reason__Lute3.abc: 6:28 vs median 4:24
+GoldDustWoman,3 Parts,broken/3 Parts/GoldDustWoman.abc,GoldDustWoman__Lute3.abc: 6:15 vs median 4:35
+GoodRiddance,3 Parts,broken/3 Parts/GoodRiddance.abc,GoodRiddance__Fiddle2.abc: 5:16 vs median 3:30
+GoodRiddance,3 Parts,broken/3 Parts/GoodRiddance.abc,GoodRiddance__Lute1.abc: 2:36 vs median 3:30
+Gorec,3 Parts,broken/3 Parts/Gorec.abc,Gorec__Drums1.abc: 4:04 vs median 3:30
+GrandmaGotRunOverByAReindeer,3 Parts,broken/3 Parts/GrandmaGotRunOverByAReindeer.abc,GrandmaGotRunOverByAReindeer__Lute3.abc: 3:46 vs median 2:56
+GruntysLair,3 Parts,broken/3 Parts/GruntysLair.abc,GruntysLair__Harp2.abc: 2:31 vs median 2:10
+H,3 Parts,broken/3 Parts/H.abc,H__Theorbo3.abc: 7:48 vs median 6:38
+HaillieSellase,3 Parts,broken/3 Parts/HaillieSellase.abc,HaillieSellase__Flute3.abc: 3:15 vs median 4:17
+Halloween,3 Parts,broken/3 Parts/Halloween.abc,Halloween__Lute2.abc: 17:57 vs median 14:51
+HaloMainTheme,3 Parts,broken/3 Parts/HaloMainTheme.abc,HaloMainTheme__Drums1.abc: 2:07 vs median 2:50
+Haloween,3 Parts,broken/3 Parts/Haloween.abc,Haloween__Clar1.abc: 5:30 vs median 3:39
+Haloween,3 Parts,broken/3 Parts/Haloween.abc,Haloween__Lute3.abc: 2:56 vs median 3:39
+Handyman,3 Parts,broken/3 Parts/Handyman.abc,Handyman__Horn2.abc: 3:16 vs median 4:04
+Handyman,3 Parts,broken/3 Parts/Handyman.abc,Handyman__Lute3.abc: 7:04 vs median 4:04
+HarmoniesPoetiquesetReligieuses;No3BenedictiondeDieudanslasolitude,3 Parts,broken/3 Parts/HarmoniesPoetiquesetReligieuses;No3BenedictiondeDieudanslasolitude.abc,HarmoniesPoetiquesetReligieuses;No3BenedictiondeDieudanslasolitude__Lute2.abc: 14:51 vs median 18:16
+HarpatMidnight,3 Parts,broken/3 Parts/HarpatMidnight.abc,HarpatMidnight__Harp2.abc: 4:54 vs median 6:32
+HarpatMidnight,3 Parts,broken/3 Parts/HarpatMidnight.abc,HarpatMidnight__Harp3.abc: 7:45 vs median 6:32
+HeardItInALoveSong,3 Parts,broken/3 Parts/HeardItInALoveSong.abc,HeardItInALoveSong__Fiddle1.abc: 9:23 vs median 7:29
+HeardItInALoveSong,3 Parts,broken/3 Parts/HeardItInALoveSong.abc,HeardItInALoveSong__Flute2.abc: 5:07 vs median 7:29
+HeavenisaPlaceonEarth,3 Parts,broken/3 Parts/HeavenisaPlaceonEarth.abc,HeavenisaPlaceonEarth__Flute2.abc: 4:24 vs median 6:21
+HelloILoveYou,3 Parts,broken/3 Parts/HelloILoveYou.abc,HelloILoveYou__Ages3.abc: 2:20 vs median 1:59
+HereWeComeAwassailing,3 Parts,broken/3 Parts/HereWeComeAwassailing.abc,HereWeComeAwassailing__Harp2.abc: 4:22 vs median 2:01
+HerodsSong,3 Parts,broken/3 Parts/HerodsSong.abc,HerodsSong__Lute3.abc: 4:27 vs median 3:23
+HinatavsNeji-Hinata,3 Parts,broken/3 Parts/HinatavsNeji-Hinata.abc,HinatavsNeji-Hinata__Flute1.abc: 2:59 vs median 3:48
+HinatavsNeji-Hinata,3 Parts,broken/3 Parts/HinatavsNeji-Hinata.abc,HinatavsNeji-Hinata__Lute2.abc: 8:09 vs median 3:48
+HisWorld,3 Parts,broken/3 Parts/HisWorld.abc,HisWorld__Drums2.abc: 1:54 vs median 2:17
+HisWorld,3 Parts,broken/3 Parts/HisWorld.abc,HisWorld__Lute3.abc: 3:10 vs median 2:17
+HolidayinCambodia,3 Parts,broken/3 Parts/HolidayinCambodia.abc,HolidayinCambodia__Lute2.abc: 4:43 vs median 3:33
+Hollow,3 Parts,broken/3 Parts/Hollow.abc,Hollow__Ages3.abc: 13:40 vs median 5:55
+HomeGuldove,3 Parts,broken/3 Parts/HomeGuldove.abc,HomeGuldove__Lute3.abc: 7:08 vs median 3:44
+HowYouremindme-Remindme,3 Parts,broken/3 Parts/HowYouremindme-Remindme.abc,HowYouremindme-Remindme__Ages3.abc: 10:51 vs median 3:39
+ICanSeeClearlyNow,3 Parts,broken/3 Parts/ICanSeeClearlyNow.abc,ICanSeeClearlyNow__Lute3.abc: 6:24 vs median 3:17
+IDisappear,3 Parts,broken/3 Parts/IDisappear.abc,IDisappear__Horn3.abc: 5:41 vs median 4:16
+IfitMakesYouHappy,3 Parts,broken/3 Parts/IfitMakesYouHappy.abc,IfitMakesYouHappy__Lute1.abc: 7:48 vs median 6:39
+IronMan-Ironman,3 Parts,broken/3 Parts/IronMan-Ironman.abc,IronMan-Ironman__Drums2.abc: 7:21 vs median 5:53
+ItCameUponaMidnightClear,3 Parts,broken/3 Parts/ItCameUponaMidnightClear.abc,ItCameUponaMidnightClear__Flute1.abc: 1:39 vs median 2:25
+JacksObsession,3 Parts,broken/3 Parts/JacksObsession.abc,JacksObsession__Harp3.abc: 2:52 vs median 2:06
+"Jesu,JoyofMansDesiring",3 Parts,"broken/3 Parts/Jesu,JoyofMansDesiring.abc","Jesu,JoyofMansDesiring__Lute3.abc: 4:09 vs median 3:23"
+JetPlane,3 Parts,broken/3 Parts/JetPlane.abc,JetPlane__Flute2.abc: 3:46 vs median 7:57
+JetPlane,3 Parts,broken/3 Parts/JetPlane.abc,JetPlane__Lute3.abc: 9:28 vs median 7:57
+Judith,3 Parts,broken/3 Parts/Judith.abc,Judith__Flute3.abc: 3:34 vs median 5:43
+KakarikoVillage,3 Parts,broken/3 Parts/KakarikoVillage.abc,KakarikoVillage__Lute3.abc: 3:17 vs median 1:33
+KeepFishin,3 Parts,broken/3 Parts/KeepFishin.abc,KeepFishin__Drums1.abc: 5:57 vs median 2:53
+KidnaptheSandyClaws,3 Parts,broken/3 Parts/KidnaptheSandyClaws.abc,KidnaptheSandyClaws__Harp3.abc: 3:39 vs median 2:55
+KnowingMeKnowingYou,3 Parts,broken/3 Parts/KnowingMeKnowingYou.abc,KnowingMeKnowingYou__Harp2.abc: 5:54 vs median 4:44
+KnowingMeKnowingYou,3 Parts,broken/3 Parts/KnowingMeKnowingYou.abc,KnowingMeKnowingYou__Theorbo1.abc: 3:54 vs median 4:44
+KujasTheme,3 Parts,broken/3 Parts/KujasTheme.abc,KujasTheme__Harp3.abc: 5:54 vs median 2:06
+LaCamisaNegra,3 Parts,broken/3 Parts/LaCamisaNegra.abc,LaCamisaNegra__Lute3.abc: 4:38 vs median 4:01
+LaCamisaNegra,3 Parts,broken/3 Parts/LaCamisaNegra.abc,LaCamisaNegra__Theorbo1.abc: 3:23 vs median 4:01
+LastKiss,3 Parts,broken/3 Parts/LastKiss.abc,LastKiss__Lute2.abc: 3:16 vs median 2:28
+Layla-Layla,3 Parts,broken/3 Parts/Layla-Layla.abc,Layla-Layla__Lute2.abc: 3:38 vs median 2:57
+LifeinanorthernTown,3 Parts,broken/3 Parts/LifeinanorthernTown.abc,LifeinanorthernTown__Lute2.abc: 2:57 vs median 4:33
+LittleDrummerBoy,3 Parts,broken/3 Parts/LittleDrummerBoy.abc,LittleDrummerBoy__Drums1.abc: 2:58 vs median 3:38
+LittleMartha,3 Parts,broken/3 Parts/LittleMartha.abc,LittleMartha__Lute2.abc: 2:07 vs median 3:01
+LochNagar,3 Parts,broken/3 Parts/LochNagar.abc,LochNagar__Lute3.abc: 2:48 vs median 1:56
+Lostbestversion,3 Parts,broken/3 Parts/Lostbestversion.abc,Lostbestversion__Theorbo3.abc: 6:42 vs median 4:32
+Lostwoods,3 Parts,broken/3 Parts/Lostwoods.abc,Lostwoods__Clar2.abc: 1:48 vs median 1:25
+LouieLouie,3 Parts,broken/3 Parts/LouieLouie.abc,LouieLouie__Lute3.abc: 2:29 vs median 1:46
+Lovingfeeling,3 Parts,broken/3 Parts/Lovingfeeling.abc,Lovingfeeling__Horn2.abc: 4:47 vs median 3:31
+LowMansLyric,3 Parts,broken/3 Parts/LowMansLyric.abc,LowMansLyric__Lute2.abc: 17:04 vs median 6:23
+Luka,3 Parts,broken/3 Parts/Luka.abc,Luka__Lute3.abc: 9:58 vs median 6:09
+Luka,3 Parts,broken/3 Parts/Luka.abc,Luka__Theorbo1.abc: 4:25 vs median 6:09
+MakeMeBad,3 Parts,broken/3 Parts/MakeMeBad.abc,MakeMeBad__Ages3.abc: 5:26 vs median 4:33
+MakeMeSmile,3 Parts,broken/3 Parts/MakeMeSmile.abc,MakeMeSmile__Lute3.abc: 5:52 vs median 3:40
+MamaToldMe,3 Parts,broken/3 Parts/MamaToldMe.abc,MamaToldMe__Theorbo1.abc: 3:21 vs median 4:31
+MamaToldMeNottoCome,3 Parts,broken/3 Parts/MamaToldMeNottoCome.abc,MamaToldMeNottoCome__Theorbo3.abc: 3:21 vs median 4:30
+MarryYou,3 Parts,broken/3 Parts/MarryYou.abc,MarryYou__Theorbo1.abc: 2:35 vs median 3:05
+MinasTirith,3 Parts,broken/3 Parts/MinasTirith.abc,MinasTirith__Flute3.abc: 2:24 vs median 3:41
+MinasTirith,3 Parts,broken/3 Parts/MinasTirith.abc,MinasTirith__Horn1.abc: 4:28 vs median 3:41
+MoShuilAdDheidhOfTheeIDream,3 Parts,broken/3 Parts/MoShuilAdDheidhOfTheeIDream.abc,MoShuilAdDheidhOfTheeIDream__Harp3.abc: 5:15 vs median 2:43
+MoneyTalks,3 Parts,broken/3 Parts/MoneyTalks.abc,MoneyTalks__Horn3.abc: 4:27 vs median 3:40
+MorrowindMainTheme,3 Parts,broken/3 Parts/MorrowindMainTheme.abc,MorrowindMainTheme__Harp2.abc: 5:22 vs median 2:36
+Motorbreath,3 Parts,broken/3 Parts/Motorbreath.abc,Motorbreath__Drums1.abc: 3:46 vs median 3:10
+MusicOfTheNight,3 Parts,broken/3 Parts/MusicOfTheNight.abc,MusicOfTheNight__Flute3.abc: 4:15 vs median 5:05
+MyWay,3 Parts,broken/3 Parts/MyWay.abc,MyWay__Ages3.abc: 7:53 vs median 3:57
+NancyWhisky,3 Parts,broken/3 Parts/NancyWhisky.abc,NancyWhisky__Harp3.abc: 5:09 vs median 2:07
+NeverEver,3 Parts,broken/3 Parts/NeverEver.abc,NeverEver__Drums2.abc: 5:12 vs median 8:20
+NeverEver,3 Parts,broken/3 Parts/NeverEver.abc,NeverEver__Lute3.abc: 13:49 vs median 8:20
+NeverGoingBackAgain,3 Parts,broken/3 Parts/NeverGoingBackAgain.abc,NeverGoingBackAgain__Flute1.abc: 2:09 vs median 3:04
+NeverGoingBackAgain,3 Parts,broken/3 Parts/NeverGoingBackAgain.abc,NeverGoingBackAgain__Harp2.abc: 3:45 vs median 3:04
+NightmareBeforeChristmasReprise,3 Parts,broken/3 Parts/NightmareBeforeChristmasReprise.abc,NightmareBeforeChristmasReprise__Clar1.abc: 2:25 vs median 3:14
+NightmareBeforeChristmasReprise,3 Parts,broken/3 Parts/NightmareBeforeChristmasReprise.abc,NightmareBeforeChristmasReprise__Harp3.abc: 4:02 vs median 3:14
+NoParticularPlacetoGo,3 Parts,broken/3 Parts/NoParticularPlacetoGo.abc,NoParticularPlacetoGo__Horn2.abc: 2:03 vs median 2:53
+NoQuarter,3 Parts,broken/3 Parts/NoQuarter.abc,NoQuarter__Harp2.abc: 13:31 vs median 6:45
+NoldorDeadWinterRegins,3 Parts,broken/3 Parts/NoldorDeadWinterRegins.abc,NoldorDeadWinterRegins__Lute2.abc: 6:16 vs median 7:33
+NoldorDeadWinterRegins,3 Parts,broken/3 Parts/NoldorDeadWinterRegins.abc,NoldorDeadWinterRegins__Lute3.abc: 13:03 vs median 7:33
+Norfair,3 Parts,broken/3 Parts/Norfair.abc,Norfair__Lute3.abc: 5:57 vs median 4:50
+OLittleTownofBethlehem,3 Parts,broken/3 Parts/OLittleTownofBethlehem.abc,OLittleTownofBethlehem__Lute3.abc: 2:38 vs median 2:05
+Ocllo,3 Parts,broken/3 Parts/Ocllo.abc,Ocllo__Harp1.abc: 2:04 vs median 2:44
+OnImpulse,3 Parts,broken/3 Parts/OnImpulse.abc,OnImpulse__Ages3.abc: 17:25 vs median 5:41
+OnTheFloor,3 Parts,broken/3 Parts/OnTheFloor.abc,OnTheFloor__Lute3.abc: 5:14 vs median 4:08
+Oolannin,3 Parts,broken/3 Parts/Oolannin.abc,Oolannin__Horn2.abc: 4:18 vs median 3:09
+Oolanninsota,3 Parts,broken/3 Parts/Oolanninsota.abc,Oolanninsota__Horn2.abc: 4:18 vs median 3:09
+Path,3 Parts,broken/3 Parts/Path.abc,Path__Flute3.abc: 4:26 vs median 3:13
+PeaceofMind,3 Parts,broken/3 Parts/PeaceofMind.abc,PeaceofMind__Flute3.abc: 3:58 vs median 5:05
+PeopleEveryday,3 Parts,broken/3 Parts/PeopleEveryday.abc,PeopleEveryday__Clar1.abc: 3:40 vs median 4:25
+PleaseDontLeaveMe,3 Parts,broken/3 Parts/PleaseDontLeaveMe.abc,PleaseDontLeaveMe__Flute3.abc: 4:48 vs median 3:42
+PleaseDontLeaveMe,3 Parts,broken/3 Parts/PleaseDontLeaveMe.abc,PleaseDontLeaveMe__Theorbo1.abc: 2:31 vs median 3:42
+PoorJack,3 Parts,broken/3 Parts/PoorJack.abc,PoorJack__Harp3.abc: 3:13 vs median 2:30
+PrettyWoman,3 Parts,broken/3 Parts/PrettyWoman.abc,PrettyWoman__Lute3.abc: 3:24 vs median 2:57
+PsychologicalWarfare,3 Parts,broken/3 Parts/PsychologicalWarfare.abc,PsychologicalWarfare__Theorbo1.abc: 1:22 vs median 1:43
+RebelRebel,3 Parts,broken/3 Parts/RebelRebel.abc,RebelRebel__Lute3.abc: 4:58 vs median 3:25
+ReleasedfromtheCatacombs,3 Parts,broken/3 Parts/ReleasedfromtheCatacombs.abc,ReleasedfromtheCatacombs__Ages3.abc: 4:09 vs median 3:31
+RhythmofMyHeart,3 Parts,broken/3 Parts/RhythmofMyHeart.abc,RhythmofMyHeart__Ages2.abc: 10:00 vs median 4:00
+"Righthere,rightnow",3 Parts,"broken/3 Parts/Righthere,rightnow.abc","Righthere,rightnow__Ages3.abc: 9:29 vs median 5:51"
+RingRing-RINGRING,3 Parts,broken/3 Parts/RingRing-RINGRING.abc,RingRing-RINGRING__Flute1.abc: 3:05 vs median 4:04
+RocketQueen,3 Parts,broken/3 Parts/RocketQueen.abc,RocketQueen__Lute2.abc: 6:52 vs median 5:50
+RockinRobin,3 Parts,broken/3 Parts/RockinRobin.abc,RockinRobin__Drums3.abc: 2:03 vs median 1:37
+RonfaureTheme,3 Parts,broken/3 Parts/RonfaureTheme.abc,RonfaureTheme__Lute3.abc: 10:45 vs median 5:39
+SOS,3 Parts,broken/3 Parts/SOS.abc,SOS__Theorbo1.abc: 3:21 vs median 4:39
+Sabatage,3 Parts,broken/3 Parts/Sabatage.abc,Sabatage__Lute3.abc: 5:32 vs median 3:58
+Saltarello,3 Parts,broken/3 Parts/Saltarello.abc,Saltarello__Drums2.abc: 2:20 vs median 1:47
+SarutabarutaSong,3 Parts,broken/3 Parts/SarutabarutaSong.abc,SarutabarutaSong__Clar1.abc: 2:06 vs median 2:51
+SarutabarutaSong,3 Parts,broken/3 Parts/SarutabarutaSong.abc,SarutabarutaSong__Lute3.abc: 4:04 vs median 2:51
+SaveaPrayer,3 Parts,broken/3 Parts/SaveaPrayer.abc,SaveaPrayer__Flute2.abc: 11:44 vs median 7:06
+SavingMe,3 Parts,broken/3 Parts/SavingMe.abc,SavingMe__Harp2.abc: 4:22 vs median 3:34
+Seemann,3 Parts,broken/3 Parts/Seemann.abc,Seemann__Clar2.abc: 3:16 vs median 4:18
+Seemann,3 Parts,broken/3 Parts/Seemann.abc,Seemann__Theorbo1.abc: 8:06 vs median 4:18
+SelfControl,3 Parts,broken/3 Parts/SelfControl.abc,SelfControl__Harp3.abc: 5:05 vs median 3:56
+SendTheDeathStorm,3 Parts,broken/3 Parts/SendTheDeathStorm.abc,SendTheDeathStorm__Drums1.abc: 3:30 vs median 4:11
+Serenity,3 Parts,broken/3 Parts/Serenity.abc,Serenity__Clar1.abc: 1:31 vs median 1:58
+Serenity,3 Parts,broken/3 Parts/Serenity.abc,Serenity__Lute3.abc: 4:51 vs median 1:58
+SheMovedThroughTheFair,3 Parts,broken/3 Parts/SheMovedThroughTheFair.abc,SheMovedThroughTheFair__Harp2.abc: 6:19 vs median 2:18
+Shilo,3 Parts,broken/3 Parts/Shilo.abc,Shilo__Harp2.abc: 5:45 vs median 3:16
+ShowmehowtoLove,3 Parts,broken/3 Parts/ShowmehowtoLove.abc,ShowmehowtoLove__Drums2.abc: 10:59 vs median 5:31
+ShowmehowtoLove,3 Parts,broken/3 Parts/ShowmehowtoLove.abc,ShowmehowtoLove__Theorbo1.abc: 4:19 vs median 5:31
+SilentNight,3 Parts,broken/3 Parts/SilentNight.abc,SilentNight__Lute2.abc: 3:12 vs median 1:36
+SiriusEyeintheSky,3 Parts,broken/3 Parts/SiriusEyeintheSky.abc,SiriusEyeintheSky__Lute3.abc: 11:59 vs median 7:41
+SomewhereOutThereAmericanTale,3 Parts,broken/3 Parts/SomewhereOutThereAmericanTale.abc,SomewhereOutThereAmericanTale__Harp3.abc: 5:25 vs median 3:27
+SpiritHorseoftheCherokee,3 Parts,broken/3 Parts/SpiritHorseoftheCherokee.abc,SpiritHorseoftheCherokee__Theorbo1.abc: 7:26 vs median 4:26
+"StayFaraway,SoClose!",3 Parts,"broken/3 Parts/StayFaraway,SoClose!.abc","StayFaraway,SoClose!__Ages2.abc: 13:25 vs median 4:53"
+StilleNacht,3 Parts,broken/3 Parts/StilleNacht.abc,StilleNacht__Flute1.abc: 2:38 vs median 5:24
+StreetFighterII-GuilesTheme,3 Parts,broken/3 Parts/StreetFighterII-GuilesTheme.abc,StreetFighterII-GuilesTheme__Horn3.abc: 3:18 vs median 2:30
+StreetsofPhiladelphia,3 Parts,broken/3 Parts/StreetsofPhiladelphia.abc,StreetsofPhiladelphia__Drums3.abc: 3:12 vs median 3:48
+Subdivisions,3 Parts,broken/3 Parts/Subdivisions.abc,Subdivisions__Drums1.abc: 5:35 vs median 7:48
+SuperTrooper,3 Parts,broken/3 Parts/SuperTrooper.abc,SuperTrooper__Harp2.abc: 6:10 vs median 5:07
+SuperTrooper,3 Parts,broken/3 Parts/SuperTrooper.abc,SuperTrooper__Theorbo1.abc: 4:13 vs median 5:07
+SurfinBirdthebirdistheword,3 Parts,broken/3 Parts/SurfinBirdthebirdistheword.abc,SurfinBirdthebirdistheword__Lute3.abc: 3:20 vs median 1:57
+Susannah,3 Parts,broken/3 Parts/Susannah.abc,Susannah__Harp1.abc: 2:14 vs median 1:34
+SweetBabyJames,3 Parts,broken/3 Parts/SweetBabyJames.abc,SweetBabyJames__Flute3.abc: 2:43 vs median 6:04
+SweetRoseofAllandale,3 Parts,broken/3 Parts/SweetRoseofAllandale.abc,SweetRoseofAllandale__Lute3.abc: 3:31 vs median 2:39
+"TakeMeHome,CountryRoads",3 Parts,"broken/3 Parts/TakeMeHome,CountryRoads.abc","TakeMeHome,CountryRoads__Ages3.abc: 2:26 vs median 3:12"
+"TakeMeHome,CountryRoads",3 Parts,"broken/3 Parts/TakeMeHome,CountryRoads.abc","TakeMeHome,CountryRoads__Theorbo1.abc: 4:35 vs median 3:12"
+TangoMaureen,3 Parts,broken/3 Parts/TangoMaureen.abc,TangoMaureen__Lute3.abc: 4:42 vs median 4:00
+Tequila,3 Parts,broken/3 Parts/Tequila.abc,Tequila__Horn2.abc: 1:52 vs median 2:14
+TheBardsSong,3 Parts,broken/3 Parts/TheBardsSong.abc,TheBardsSong__Lute2.abc: 5:00 vs median 3:02
+TheBardsSong,3 Parts,broken/3 Parts/TheBardsSong.abc,TheBardsSong__Lute3.abc: 2:32 vs median 3:02
+TheChain,3 Parts,broken/3 Parts/TheChain.abc,TheChain__Harp3.abc: 7:00 vs median 4:43
+TheHardestPart,3 Parts,broken/3 Parts/TheHardestPart.abc,TheHardestPart__Lute2.abc: 6:57 vs median 4:20
+TheLogicalSong,3 Parts,broken/3 Parts/TheLogicalSong.abc,TheLogicalSong__Harp2.abc: 5:04 vs median 3:42
+TheMostWonderfulTimeoftheYear,3 Parts,broken/3 Parts/TheMostWonderfulTimeoftheYear.abc,TheMostWonderfulTimeoftheYear__Lute3.abc: 2:05 vs median 1:43
+TheMummersDance,3 Parts,broken/3 Parts/TheMummersDance.abc,TheMummersDance__Flute3.abc: 5:44 vs median 8:52
+TheNameOfTheGame,3 Parts,broken/3 Parts/TheNameOfTheGame.abc,TheNameOfTheGame__Harp2.abc: 5:43 vs median 4:46
+TheNeverendingStory-NEVEREND,3 Parts,broken/3 Parts/TheNeverendingStory-NEVEREND.abc,TheNeverendingStory-NEVEREND__Drums2.abc: 3:50 vs median 5:56
+ThePlaceIllReturntoSomeday,3 Parts,broken/3 Parts/ThePlaceIllReturntoSomeday.abc,ThePlaceIllReturntoSomeday__Clar3.abc: 2:30 vs median 2:03
+ThePowerOfLove,3 Parts,broken/3 Parts/ThePowerOfLove.abc,ThePowerOfLove__Lute3.abc: 4:50 vs median 4:08
+TheShetlandFiddler,3 Parts,broken/3 Parts/TheShetlandFiddler.abc,TheShetlandFiddler__Harp3.abc: 2:22 vs median 1:52
+TheStarofCountyDown,3 Parts,broken/3 Parts/TheStarofCountyDown.abc,TheStarofCountyDown__Lute3.abc: 4:18 vs median 2:51
+ThinIce,3 Parts,broken/3 Parts/ThinIce.abc,ThinIce__Flute1.abc: 1:43 vs median 2:29
+ThinIce,3 Parts,broken/3 Parts/ThinIce.abc,ThinIce__Lute2.abc: 3:32 vs median 2:29
+ThroughtheFireAndFlames!,3 Parts,broken/3 Parts/ThroughtheFireAndFlames!.abc,ThroughtheFireAndFlames!__Lute3.abc: 11:22 vs median 7:20
+ThroughtheFireandtheFlames,3 Parts,broken/3 Parts/ThroughtheFireandtheFlames.abc,ThroughtheFireandtheFlames__Lute2.abc: 8:57 vs median 7:20
+TimeinaBottle-Time-In-A-Bottle,3 Parts,broken/3 Parts/TimeinaBottle-Time-In-A-Bottle.abc,TimeinaBottle-Time-In-A-Bottle__Clar1.abc: 1:53 vs median 2:26
+TimesScar,3 Parts,broken/3 Parts/TimesScar.abc,TimesScar__Flute2.abc: 6:52 vs median 4:33
+TimescarsTrio,3 Parts,broken/3 Parts/TimescarsTrio.abc,TimescarsTrio__Lute1.abc: 3:20 vs median 2:02
+TonightIWannaCry-TonightIWannaCry,3 Parts,broken/3 Parts/TonightIWannaCry-TonightIWannaCry.abc,TonightIWannaCry-TonightIWannaCry__Lute3.abc: 7:27 vs median 3:45
+TristramTrio,3 Parts,broken/3 Parts/TristramTrio.abc,TristramTrio__Flute3.abc: 3:31 vs median 5:46
+TurnAround,3 Parts,broken/3 Parts/TurnAround.abc,TurnAround__Harp1.abc: 4:53 vs median 3:33
+TurningJapanese,3 Parts,broken/3 Parts/TurningJapanese.abc,TurningJapanese__Theorbo1.abc: 3:52 vs median 5:03
+VivaForever-Viva,3 Parts,broken/3 Parts/VivaForever-Viva.abc,VivaForever-Viva__Drums1.abc: 5:14 vs median 6:46
+VivaForever-Viva,3 Parts,broken/3 Parts/VivaForever-Viva.abc,VivaForever-Viva__Lute3.abc: 11:33 vs median 6:46
+Volna,3 Parts,broken/3 Parts/Volna.abc,Volna__Lute3.abc: 4:18 vs median 3:19
+VoyageTrio,3 Parts,broken/3 Parts/VoyageTrio.abc,VoyageTrio__Flute3.abc: 4:03 vs median 2:23
+WalkAwayRenee,3 Parts,broken/3 Parts/WalkAwayRenee.abc,WalkAwayRenee__Clar1.abc: 2:34 vs median 3:12
+WhatIsLove-What_Is_Love,3 Parts,broken/3 Parts/WhatIsLove-What_Is_Love.abc,WhatIsLove-What_Is_Love__Clar1.abc: 5:41 vs median 4:36
+WhereIsTheLove,3 Parts,broken/3 Parts/WhereIsTheLove.abc,WhereIsTheLove__Fiddle2.abc: 5:39 vs median 4:16
+WhereWouldIBe,3 Parts,broken/3 Parts/WhereWouldIBe.abc,WhereWouldIBe__Horn3.abc: 2:59 vs median 3:55
+WifeingLoveTheme-Wifeing,3 Parts,broken/3 Parts/WifeingLoveTheme-Wifeing.abc,"WifeingLoveTheme-Wifeing__Flute1.abc: abc2midi failed:  time units while the time signature has 4
+Warning in line-char 12-17 : Track 0 Bar 6 has 3 time units while the time signature has 4
+Error in line-char 16-78 : note length denominator is zero or less"
+WifeingLoveTheme-Wifeing,3 Parts,broken/3 Parts/WifeingLoveTheme-Wifeing.abc,"WifeingLoveTheme-Wifeing__Harp2.abc: abc2midi failed:  : Track 0 Bar 6 has 3 time units while the time signature has 4
+Warning in line-char 16-118 : unequal notes in chord 1/2 versus 1/1
+Error in line-char 16-127 : note length denominator is zero or less"
+WifeingLoveTheme-Wifeing,3 Parts,broken/3 Parts/WifeingLoveTheme-Wifeing.abc,"WifeingLoveTheme-Wifeing__Theorbo3.abc: abc2midi failed: 3 time units while the time signature has 4
+Warning in line-char 12-7 : Track 0 Bar 6 has 3 time units while the time signature has 4
+Error in line-char 16-20 : note length denominator is zero or less"
+WindBeneathmyWings,3 Parts,broken/3 Parts/WindBeneathmyWings.abc,WindBeneathmyWings__Harp3.abc: 5:49 vs median 3:32
+Winter,3 Parts,broken/3 Parts/Winter.abc,Winter__Flute1.abc: 0:00 vs median 1:55
+WinterWonderland,3 Parts,broken/3 Parts/WinterWonderland.abc,WinterWonderland__Harp2.abc: 3:42 vs median 2:50
+WinterWonderland,3 Parts,broken/3 Parts/WinterWonderland.abc,WinterWonderland__Lute3.abc: 2:23 vs median 2:50
+WordsofLove,3 Parts,broken/3 Parts/WordsofLove.abc,WordsofLove__Flute3.abc: 2:40 vs median 3:36
+WorldofWarcraft-Tavern,3 Parts,broken/3 Parts/WorldofWarcraft-Tavern.abc,WorldofWarcraft-Tavern__Theorbo3.abc: 2:26 vs median 1:46
+X,3 Parts,broken/3 Parts/X.abc,X__Flute3.abc: 4:26 vs median 5:18
+YouRaiseMeUp,3 Parts,broken/3 Parts/YouRaiseMeUp.abc,YouRaiseMeUp__Flute1.abc: 25:35 vs median 18:26
+YouandMe,3 Parts,broken/3 Parts/YouandMe.abc,YouandMe__Ages1.abc: 5:40 vs median 4:41
+YouandMe,3 Parts,broken/3 Parts/YouandMe.abc,YouandMe__Flute3.abc: 3:10 vs median 4:41
+YoureaMeanOneMisterGrinch,3 Parts,broken/3 Parts/YoureaMeanOneMisterGrinch.abc,YoureaMeanOneMisterGrinch__Harp2.abc: 5:00 vs median 3:15
+YouveGotAFriend,3 Parts,broken/3 Parts/YouveGotAFriend.abc,YouveGotAFriend__Clar1.abc: 4:03 vs median 7:02
+YouveGotAFriend,3 Parts,broken/3 Parts/YouveGotAFriend.abc,YouveGotAFriend__Lute3.abc: 9:06 vs median 7:02
+[NES]OpeningThemeSong,3 Parts,broken/3 Parts/[NES]OpeningThemeSong.abc,[NES]OpeningThemeSong__Clar1.abc: 1:42 vs median 1:20
+down,3 Parts,broken/3 Parts/down.abc,down__Horn2.abc: 3:34 vs median 4:44
+mostgirls,3 Parts,broken/3 Parts/mostgirls.abc,mostgirls__Drums1.abc: 4:17 vs median 6:27
+wholelotta,3 Parts,broken/3 Parts/wholelotta.abc,wholelotta__Flute3.abc: 3:17 vs median 4:12
+AThousandMiles,4 Parts,broken/4 Parts/AThousandMiles.abc,AThousandMiles__Lute3.abc: 5:02 vs median 3:49
+AerithTheme,4 Parts,broken/4 Parts/AerithTheme.abc,AerithTheme__Clar1.abc: 6:31 vs median 3:55
+Aeroplane,4 Parts,broken/4 Parts/Aeroplane.abc,Aeroplane__Theorbo1.abc: 5:54 vs median 5:00
+Alegria-Multi,4 Parts,broken/4 Parts/Alegria-Multi.abc,Alegria-Multi__Horn2.abc: 6:38 vs median 8:25
+Alegria-Multi,4 Parts,broken/4 Parts/Alegria-Multi.abc,Alegria-Multi__Theorbo4.abc: 9:42 vs median 8:25
+Alejandro,4 Parts,broken/4 Parts/Alejandro.abc,Alejandro__Lute4.abc: 7:15 vs median 4:41
+Altitudes,4 Parts,broken/4 Parts/Altitudes.abc,Altitudes__Ages2.abc: 9:05 vs median 5:21
+AndILoveHer,4 Parts,broken/4 Parts/AndILoveHer.abc,AndILoveHer__Drums1.abc: 2:27 vs median 3:54
+AngelEyes,4 Parts,broken/4 Parts/AngelEyes.abc,AngelEyes__Ages3.abc: 1:36 vs median 2:52
+AngelEyes,4 Parts,broken/4 Parts/AngelEyes.abc,AngelEyes__Harp1.abc: 5:49 vs median 2:52
+AngelEyes,4 Parts,broken/4 Parts/AngelEyes.abc,AngelEyes__Lute2.abc: 4:07 vs median 2:52
+AngelEyes,4 Parts,broken/4 Parts/AngelEyes.abc,AngelEyes__Lute4.abc: 1:36 vs median 2:52
+AriettysSong,4 Parts,broken/4 Parts/AriettysSong.abc,AriettysSong__Flute2.abc: 4:13 vs median 3:15
+AttackTeam,4 Parts,broken/4 Parts/AttackTeam.abc,AttackTeam__Horn4.abc: 2:01 vs median 1:11
+AttheGala-AttheGala,4 Parts,broken/4 Parts/AttheGala-AttheGala.abc,AttheGala-AttheGala__Ages3.abc: 4:50 vs median 3:49
+BabeImGonnaLeaveYou,4 Parts,broken/4 Parts/BabeImGonnaLeaveYou.abc,"BabeImGonnaLeaveYou__Ages4.abc: abc2midi failed:  units while the time signature has 4
+Warning in line-char 54-229 : Track 0 Bar 158 has -4 time units while the time signature has 4
+Error in line-char 55-326 : note length denominator is zero or less"
+BabeImGonnaLeaveYou,4 Parts,broken/4 Parts/BabeImGonnaLeaveYou.abc,BabeImGonnaLeaveYou__Lute3.abc: 12:10 vs median 6:38
+BackHomeAgaininIndiana,4 Parts,broken/4 Parts/BackHomeAgaininIndiana.abc,BackHomeAgaininIndiana__Lute3.abc: 5:14 vs median 1:44
+BeatIt,4 Parts,broken/4 Parts/BeatIt.abc,BeatIt__Lute4.abc: 8:26 vs median 4:35
+BelieveMeBabyILied,4 Parts,broken/4 Parts/BelieveMeBabyILied.abc,BelieveMeBabyILied__Harp2.abc: 4:23 vs median 3:41
+BellbottomBlues,4 Parts,broken/4 Parts/BellbottomBlues.abc,BellbottomBlues__Theorbo1.abc: 5:30 vs median 6:56
+Benighted,4 Parts,broken/4 Parts/Benighted.abc,Benighted__Harp2.abc: 3:43 vs median 13:36
+Benighted,4 Parts,broken/4 Parts/Benighted.abc,Benighted__Lute3.abc: 25:58 vs median 13:36
+Benighted,4 Parts,broken/4 Parts/Benighted.abc,Benighted__Lute4.abc: 22:13 vs median 13:36
+Benighted,4 Parts,broken/4 Parts/Benighted.abc,Benighted__Theorbo1.abc: 4:59 vs median 13:36
+BennyandtheJets,4 Parts,broken/4 Parts/BennyandtheJets.abc,BennyandtheJets__Harp4.abc: 5:55 vs median 4:36
+BewithYou,4 Parts,broken/4 Parts/BewithYou.abc,BewithYou__Horn1.abc: 3:51 vs median 6:34
+BewithYou,4 Parts,broken/4 Parts/BewithYou.abc,BewithYou__Horn2.abc: 4:04 vs median 6:34
+BewithYou,4 Parts,broken/4 Parts/BewithYou.abc,BewithYou__Lute3.abc: 9:05 vs median 6:34
+BewithYou,4 Parts,broken/4 Parts/BewithYou.abc,BewithYou__Theorbo4.abc: 9:12 vs median 6:34
+BlackSunshine,4 Parts,broken/4 Parts/BlackSunshine.abc,BlackSunshine__Drums2.abc: 5:16 vs median 4:32
+BlackorWhite,4 Parts,broken/4 Parts/BlackorWhite.abc,BlackorWhite__Horn2.abc: 1:42 vs median 3:03
+BlackorWhite,4 Parts,broken/4 Parts/BlackorWhite.abc,BlackorWhite__Lute3.abc: 3:52 vs median 3:03
+Bleed,4 Parts,broken/4 Parts/Bleed.abc,Bleed__Ages3.abc: 8:54 vs median 7:22
+BlindedByTheLightPt1,4 Parts,broken/4 Parts/BlindedByTheLightPt1.abc,BlindedByTheLightPt1__Harp4.abc: 5:11 vs median 7:06
+BornToRun,4 Parts,broken/4 Parts/BornToRun.abc,BornToRun__Lute4.abc: 4:48 vs median 3:26
+BornontheBayou,4 Parts,broken/4 Parts/BornontheBayou.abc,BornontheBayou__Ages2.abc: 7:38 vs median 6:28
+BornontheBayou,4 Parts,broken/4 Parts/BornontheBayou.abc,BornontheBayou__Flute4.abc: 5:15 vs median 6:28
+BornontheBayou,4 Parts,broken/4 Parts/BornontheBayou.abc,BornontheBayou__Harp3.abc: 7:31 vs median 6:28
+BornontheBayou,4 Parts,broken/4 Parts/BornontheBayou.abc,BornontheBayou__Theorbo1.abc: 5:24 vs median 6:28
+BrambleBlast,4 Parts,broken/4 Parts/BrambleBlast.abc,BrambleBlast__Lute3.abc: 4:55 vs median 4:16
+BrambleBlast,4 Parts,broken/4 Parts/BrambleBlast.abc,BrambleBlast__Theorbo1.abc: 3:32 vs median 4:16
+BraveheartAGiftofaThistle,4 Parts,broken/4 Parts/BraveheartAGiftofaThistle.abc,BraveheartAGiftofaThistle__Clar1.abc: 3:14 vs median 2:20
+Breathing,4 Parts,broken/4 Parts/Breathing.abc,Breathing__Drums2.abc: 8:44 vs median 4:12
+Bree-TownNewYorkGirls,4 Parts,broken/4 Parts/Bree-TownNewYorkGirls.abc,Bree-TownNewYorkGirls__Flute1.abc: 1:40 vs median 2:12
+BrickByBoringBrick,4 Parts,broken/4 Parts/BrickByBoringBrick.abc,BrickByBoringBrick__Ages2.abc: 5:19 vs median 4:33
+BuildersTheme,4 Parts,broken/4 Parts/BuildersTheme.abc,BuildersTheme__Drums2.abc: 2:16 vs median 1:48
+Candy,4 Parts,broken/4 Parts/Candy.abc,Candy__Flute1.abc: 3:36 vs median 4:55
+Candy,4 Parts,broken/4 Parts/Candy.abc,Candy__Flute2.abc: 3:36 vs median 4:55
+Candy,4 Parts,broken/4 Parts/Candy.abc,Candy__Harp3.abc: 6:14 vs median 4:55
+Candy,4 Parts,broken/4 Parts/Candy.abc,Candy__Lute4.abc: 7:09 vs median 4:55
+Carmen-Intermezzo,4 Parts,broken/4 Parts/Carmen-Intermezzo.abc,Carmen-Intermezzo__Clar1.abc: 2:31 vs median 3:05
+Carmen-Intermezzo,4 Parts,broken/4 Parts/Carmen-Intermezzo.abc,Carmen-Intermezzo__Flute2.abc: 2:25 vs median 3:05
+Carmen-Intermezzo,4 Parts,broken/4 Parts/Carmen-Intermezzo.abc,Carmen-Intermezzo__Harp3.abc: 3:40 vs median 3:05
+Carmen-Intermezzo,4 Parts,broken/4 Parts/Carmen-Intermezzo.abc,Carmen-Intermezzo__Lute4.abc: 3:40 vs median 3:05
+CarribeanQueen,4 Parts,broken/4 Parts/CarribeanQueen.abc,CarribeanQueen__Lute4.abc: 3:34 vs median 3:05
+CassandraGeminiI,4 Parts,broken/4 Parts/CassandraGeminiI.abc,CassandraGeminiI__Flute4.abc: 6:56 vs median 5:36
+ChampagneSuperNova-Nova,4 Parts,broken/4 Parts/ChampagneSuperNova-Nova.abc,ChampagneSuperNova-Nova__Drums2.abc: 7:03 vs median 8:52
+ChampagneSuperNova-Nova,4 Parts,broken/4 Parts/ChampagneSuperNova-Nova.abc,ChampagneSuperNova-Nova__Lute3.abc: 10:17 vs median 8:52
+ChampagneSuperNova-Nova,4 Parts,broken/4 Parts/ChampagneSuperNova-Nova.abc,ChampagneSuperNova-Nova__Lute4.abc: 10:24 vs median 8:52
+ChampagneSuperNova-Nova,4 Parts,broken/4 Parts/ChampagneSuperNova-Nova.abc,ChampagneSuperNova-Nova__Theorbo1.abc: 7:27 vs median 8:52
+Changes,4 Parts,broken/4 Parts/Changes.abc,Changes__Horn2.abc: 5:13 vs median 4:08
+CheapDayReturn,4 Parts,broken/4 Parts/CheapDayReturn.abc,CheapDayReturn__Lute4.abc: 1:33 vs median 1:12
+ChinaGrove,4 Parts,broken/4 Parts/ChinaGrove.abc,ChinaGrove__Lute4.abc: 4:27 vs median 3:35
+Chiquitia-abba-chiquitia,4 Parts,broken/4 Parts/Chiquitia-abba-chiquitia.abc,Chiquitia-abba-chiquitia__Lute3.abc: 7:30 vs median 5:01
+ComfortEagle,4 Parts,broken/4 Parts/ComfortEagle.abc,ComfortEagle__Flute1.abc: 2:14 vs median 3:40
+CompressionofTime,4 Parts,broken/4 Parts/CompressionofTime.abc,CompressionofTime__Harp3.abc: 3:57 vs median 3:22
+ConciertodeAranjuez-fullorchestra,4 Parts,broken/4 Parts/ConciertodeAranjuez-fullorchestra.abc,ConciertodeAranjuez-fullorchestra__Ages4.abc: 14:14 vs median 9:57
+CrazyDiamondPart1,4 Parts,broken/4 Parts/CrazyDiamondPart1.abc,CrazyDiamondPart1__Drums1.abc: 11:51 vs median 23:39
+CrazyDiamondPart1,4 Parts,broken/4 Parts/CrazyDiamondPart1.abc,CrazyDiamondPart1__Flute4.abc: 29:33 vs median 23:39
+CrazyDiamondPart1,4 Parts,broken/4 Parts/CrazyDiamondPart1.abc,CrazyDiamondPart1__Harp2.abc: 27:44 vs median 23:39
+CrazyDiamondPart1,4 Parts,broken/4 Parts/CrazyDiamondPart1.abc,CrazyDiamondPart1__Theorbo3.abc: 19:33 vs median 23:39
+CrazyDiamondPart2,4 Parts,broken/4 Parts/CrazyDiamondPart2.abc,CrazyDiamondPart2__Harp2.abc: 14:27 vs median 11:23
+Dare,4 Parts,broken/4 Parts/Dare.abc,Dare__Lute4.abc: 4:06 vs median 3:23
+Decode-Decode,4 Parts,broken/4 Parts/Decode-Decode.abc,Decode-Decode__Drums1.abc: 4:01 vs median 6:23
+Decode-Decode,4 Parts,broken/4 Parts/Decode-Decode.abc,Decode-Decode__Harp2.abc: 8:38 vs median 6:23
+Decode-Decode,4 Parts,broken/4 Parts/Decode-Decode.abc,Decode-Decode__Lute3.abc: 9:17 vs median 6:23
+Decode-Decode,4 Parts,broken/4 Parts/Decode-Decode.abc,Decode-Decode__Theorbo4.abc: 4:09 vs median 6:23
+DiaryofJane,4 Parts,broken/4 Parts/DiaryofJane.abc,DiaryofJane__Lute4.abc: 4:04 vs median 3:09
+"DivineWingsofTragedy,The",4 Parts,"broken/4 Parts/DivineWingsofTragedy,The.abc","DivineWingsofTragedy,The__Ages3.abc: 20:46 vs median 17:32"
+DontLetMeBeMisunderstood,4 Parts,broken/4 Parts/DontLetMeBeMisunderstood.abc,DontLetMeBeMisunderstood__Lute4.abc: 2:59 vs median 2:31
+Doomsayer,4 Parts,broken/4 Parts/Doomsayer.abc,Doomsayer__Ages3.abc: 5:29 vs median 4:38
+DragonAgeMainTheme,4 Parts,broken/4 Parts/DragonAgeMainTheme.abc,DragonAgeMainTheme__Harp2.abc: 4:25 vs median 3:40
+DragonAgeMainTheme,4 Parts,broken/4 Parts/DragonAgeMainTheme.abc,DragonAgeMainTheme__Lute3.abc: 2:52 vs median 3:40
+DragonAgeMainTheme,4 Parts,broken/4 Parts/DragonAgeMainTheme.abc,DragonAgeMainTheme__Lute4.abc: 2:55 vs median 3:40
+DragonAgeMainTheme,4 Parts,broken/4 Parts/DragonAgeMainTheme.abc,DragonAgeMainTheme__Theorbo1.abc: 4:25 vs median 3:40
+Drown,4 Parts,broken/4 Parts/Drown.abc,Drown__Lute4.abc: 7:38 vs median 5:51
+DuellingLutes,4 Parts,broken/4 Parts/DuellingLutes.abc,DuellingLutes__Lute1.abc: 1:52 vs median 2:22
+DuellingLutes,4 Parts,broken/4 Parts/DuellingLutes.abc,DuellingLutes__Lute3.abc: 3:33 vs median 2:22
+Dungeon,4 Parts,broken/4 Parts/Dungeon.abc,Dungeon__Drums2.abc: 0:55 vs median 1:18
+DyerMaker-Dyer,4 Parts,broken/4 Parts/DyerMaker-Dyer.abc,DyerMaker-Dyer__Lute4.abc: 5:07 vs median 4:22
+EarthAngel,4 Parts,broken/4 Parts/EarthAngel.abc,EarthAngel__Ages3.abc: 4:22 vs median 3:29
+EchoesLive,4 Parts,broken/4 Parts/EchoesLive.abc,EchoesLive__Ages2.abc: 14:22 vs median 12:21
+EchoesLive,4 Parts,broken/4 Parts/EchoesLive.abc,EchoesLive__Flute4.abc: 5:24 vs median 12:21
+ElfField,4 Parts,broken/4 Parts/ElfField.abc,ElfField__Ages4.abc: 3:37 vs median 3:05
+Elvira,4 Parts,broken/4 Parts/Elvira.abc,Elvira__Lute4.abc: 5:24 vs median 3:09
+Epic,4 Parts,broken/4 Parts/Epic.abc,Epic__Drums2.abc: 4:57 vs median 8:04
+Epic,4 Parts,broken/4 Parts/Epic.abc,Epic__Horn3.abc: 10:34 vs median 8:04
+Epic,4 Parts,broken/4 Parts/Epic.abc,Epic__Lute4.abc: 14:10 vs median 8:04
+Epic,4 Parts,broken/4 Parts/Epic.abc,Epic__Theorbo1.abc: 5:34 vs median 8:04
+Fever,4 Parts,broken/4 Parts/Fever.abc,Fever__Cowbell1.abc: 2:00 vs median 2:59
+Fever,4 Parts,broken/4 Parts/Fever.abc,Fever__Lute4.abc: 3:37 vs median 2:59
+FineAgain,4 Parts,broken/4 Parts/FineAgain.abc,FineAgain__Lute4.abc: 4:59 vs median 3:59
+FlightofDragons,4 Parts,broken/4 Parts/FlightofDragons.abc,FlightofDragons__Fiddle4.abc: 4:51 vs median 2:06
+ForThoseAboutToRock,4 Parts,broken/4 Parts/ForThoseAboutToRock.abc,ForThoseAboutToRock__Lute3.abc: 5:15 vs median 4:32
+Freedom,4 Parts,broken/4 Parts/Freedom.abc,Freedom__Horn4.abc: 2:06 vs median 5:34
+FrozenFlame,4 Parts,broken/4 Parts/FrozenFlame.abc,FrozenFlame__Harp3.abc: 2:05 vs median 2:31
+GoLassieGo,4 Parts,broken/4 Parts/GoLassieGo.abc,GoLassieGo__Harp2.abc: 4:03 vs median 2:20
+GoneWiththeWindOverture,4 Parts,broken/4 Parts/GoneWiththeWindOverture.abc,GoneWiththeWindOverture__Drums2.abc: 3:21 vs median 5:47
+GoneWiththeWindOverture,4 Parts,broken/4 Parts/GoneWiththeWindOverture.abc,GoneWiththeWindOverture__Flute3.abc: 7:35 vs median 5:47
+Guinnevere,4 Parts,broken/4 Parts/Guinnevere.abc,Guinnevere__Harp2.abc: 6:49 vs median 4:20
+GypsySong,4 Parts,broken/4 Parts/GypsySong.abc,GypsySong__Lute4.abc: 6:44 vs median 3:09
+HaloTheme,4 Parts,broken/4 Parts/HaloTheme.abc,HaloTheme__Clar2.abc: 6:00 vs median 3:57
+HaloTheme,4 Parts,broken/4 Parts/HaloTheme.abc,HaloTheme__Drums1.abc: 2:35 vs median 3:57
+HemmorrhageInMyHands-fuel,4 Parts,broken/4 Parts/HemmorrhageInMyHands-fuel.abc,HemmorrhageInMyHands-fuel__Harp2.abc: 12:05 vs median 10:12
+HemmorrhageInMyHands-fuel,4 Parts,broken/4 Parts/HemmorrhageInMyHands-fuel.abc,HemmorrhageInMyHands-fuel__Horn3.abc: 3:51 vs median 10:12
+HighandDry,4 Parts,broken/4 Parts/HighandDry.abc,HighandDry__Lute3.abc: 5:38 vs median 4:20
+Highwayman,4 Parts,broken/4 Parts/Highwayman.abc,Highwayman__Clar1.abc: 3:03 vs median 5:51
+HoldingOutForAnImp,4 Parts,broken/4 Parts/HoldingOutForAnImp.abc,HoldingOutForAnImp__Flute2.abc: 5:14 vs median 6:12
+HolyDiver,4 Parts,broken/4 Parts/HolyDiver.abc,HolyDiver__Ages3.abc: 5:40 vs median 4:04
+HomeSweetHome,4 Parts,broken/4 Parts/HomeSweetHome.abc,HomeSweetHome__Ages3.abc: 5:15 vs median 4:31
+HomeSweetHome,4 Parts,broken/4 Parts/HomeSweetHome.abc,HomeSweetHome__Drums2.abc: 3:34 vs median 4:31
+HungerStrike,4 Parts,broken/4 Parts/HungerStrike.abc,HungerStrike__Lute4.abc: 7:43 vs median 4:30
+IBelieveICanFly,4 Parts,broken/4 Parts/IBelieveICanFly.abc,IBelieveICanFly__Ages3.abc: 8:03 vs median 5:54
+ICantDecide,4 Parts,broken/4 Parts/ICantDecide.abc,ICantDecide__Fiddle4.abc: 3:24 vs median 2:33
+IWantitThatWay,4 Parts,broken/4 Parts/IWantitThatWay.abc,IWantitThatWay__Lute3.abc: 4:36 vs median 3:41
+Intermission,4 Parts,broken/4 Parts/Intermission.abc,Intermission__Lute3.abc: 1:04 vs median 6:12
+IntheWillow-meadsofTasarinan,4 Parts,broken/4 Parts/IntheWillow-meadsofTasarinan.abc,IntheWillow-meadsofTasarinan__Lute3.abc: 3:21 vs median 2:30
+Intolerance,4 Parts,broken/4 Parts/Intolerance.abc,Intolerance__Flute2.abc: 3:53 vs median 4:35
+"ItAintMe,Babe",4 Parts,"broken/4 Parts/ItAintMe,Babe.abc","ItAintMe,Babe__Lute3.abc: 4:40 vs median 2:04"
+Joker,4 Parts,broken/4 Parts/Joker.abc,Joker__Lute3.abc: 7:24 vs median 4:11
+Joker,4 Parts,broken/4 Parts/Joker.abc,Joker__Theorbo4.abc: 2:17 vs median 4:11
+JustGotPaid,4 Parts,broken/4 Parts/JustGotPaid.abc,JustGotPaid__Drums2.abc: 3:30 vs median 4:08
+KarmaChameleon,4 Parts,broken/4 Parts/KarmaChameleon.abc,KarmaChameleon__Lute4.abc: 6:16 vs median 4:01
+Kayleigh,4 Parts,broken/4 Parts/Kayleigh.abc,Kayleigh__Lute2.abc: 5:45 vs median 3:56
+KingOfThoseWhoKnow,4 Parts,broken/4 Parts/KingOfThoseWhoKnow.abc,KingOfThoseWhoKnow__Ages3.abc: 8:56 vs median 7:08
+KingOfThoseWhoKnow,4 Parts,broken/4 Parts/KingOfThoseWhoKnow.abc,KingOfThoseWhoKnow__Ages4.abc: 12:36 vs median 7:08
+KingOfThoseWhoKnow,4 Parts,broken/4 Parts/KingOfThoseWhoKnow.abc,KingOfThoseWhoKnow__Drums2.abc: 5:19 vs median 7:08
+KingOfThoseWhoKnow,4 Parts,broken/4 Parts/KingOfThoseWhoKnow.abc,KingOfThoseWhoKnow__Theorbo1.abc: 5:19 vs median 7:08
+LadyDarbanville,4 Parts,broken/4 Parts/LadyDarbanville.abc,LadyDarbanville__Clar1.abc: 4:11 vs median 6:19
+LadyDarbanville,4 Parts,broken/4 Parts/LadyDarbanville.abc,LadyDarbanville__Theorbo3.abc: 8:16 vs median 6:19
+Landslide-Landslide,4 Parts,broken/4 Parts/Landslide-Landslide.abc,Landslide-Landslide__Flute1.abc: 3:18 vs median 7:08
+LarpaThemeSong,4 Parts,broken/4 Parts/LarpaThemeSong.abc,LarpaThemeSong__Pipes1.abc: 1:35 vs median 1:00
+LastDanceWithMaryJane,4 Parts,broken/4 Parts/LastDanceWithMaryJane.abc,LastDanceWithMaryJane__Clar2.abc: 5:24 vs median 4:11
+Level3,4 Parts,broken/4 Parts/Level3.abc,Level3__Lute4.abc: 0:17 vs median 2:39
+LifeInTheFastLane,4 Parts,broken/4 Parts/LifeInTheFastLane.abc,LifeInTheFastLane__Clar2.abc: 3:54 vs median 5:53
+LifeInTheFastLane,4 Parts,broken/4 Parts/LifeInTheFastLane.abc,LifeInTheFastLane__Drums3.abc: 7:22 vs median 5:53
+LifesBeenGood,4 Parts,broken/4 Parts/LifesBeenGood.abc,LifesBeenGood__Ages4.abc: 8:24 vs median 6:19
+LightMyCandle,4 Parts,broken/4 Parts/LightMyCandle.abc,LightMyCandle__Cowbell2.abc: 1:28 vs median 4:06
+LightMyCandle,4 Parts,broken/4 Parts/LightMyCandle.abc,LightMyCandle__Lute4.abc: 5:19 vs median 4:06
+LittleLionMan,4 Parts,broken/4 Parts/LittleLionMan.abc,LittleLionMan__Theorbo2.abc: 4:13 vs median 4:59
+LivinontheEdge,4 Parts,broken/4 Parts/LivinontheEdge.abc,LivinontheEdge__Horn3.abc: 9:09 vs median 5:22
+LocomotiveBreath,4 Parts,broken/4 Parts/LocomotiveBreath.abc,LocomotiveBreath__Lute4.abc: 9:03 vs median 5:57
+LongCoolWoman,4 Parts,broken/4 Parts/LongCoolWoman.abc,LongCoolWoman__Drums1.abc: 3:26 vs median 4:05
+LongCoolWoman,4 Parts,broken/4 Parts/LongCoolWoman.abc,LongCoolWoman__Horn2.abc: 3:23 vs median 4:05
+LongCoolWoman,4 Parts,broken/4 Parts/LongCoolWoman.abc,LongCoolWoman__Lute3.abc: 5:50 vs median 4:05
+LongCoolWoman,4 Parts,broken/4 Parts/LongCoolWoman.abc,LongCoolWoman__Lute4.abc: 4:44 vs median 4:05
+LongTrainARunning,4 Parts,broken/4 Parts/LongTrainARunning.abc,LongTrainARunning__Lute4.abc: 5:29 vs median 4:08
+Lordofthering,4 Parts,broken/4 Parts/Lordofthering.abc,Lordofthering__Flute2.abc: 3:15 vs median 7:01
+Lordofthering,4 Parts,broken/4 Parts/Lordofthering.abc,Lordofthering__Flute4.abc: 3:15 vs median 7:01
+Lordofthering,4 Parts,broken/4 Parts/Lordofthering.abc,Lordofthering__Harp3.abc: 10:46 vs median 7:01
+Lordofthering,4 Parts,broken/4 Parts/Lordofthering.abc,Lordofthering__Lute1.abc: 10:46 vs median 7:01
+MagicalSoundShower-PassingBreeze,4 Parts,broken/4 Parts/MagicalSoundShower-PassingBreeze.abc,MagicalSoundShower-PassingBreeze__Lute4.abc: 7:11 vs median 5:59
+MakeaMan,4 Parts,broken/4 Parts/MakeaMan.abc,MakeaMan__Flute4.abc: 4:35 vs median 3:36
+MamboSwing,4 Parts,broken/4 Parts/MamboSwing.abc,MamboSwing__Horn4.abc: 4:24 vs median 3:30
+ManintheMirror,4 Parts,broken/4 Parts/ManintheMirror.abc,ManintheMirror__Flute4.abc: 4:09 vs median 4:54
+ManintheMirror,4 Parts,broken/4 Parts/ManintheMirror.abc,ManintheMirror__Harp3.abc: 5:45 vs median 4:54
+ManwithaMachineGun,4 Parts,broken/4 Parts/ManwithaMachineGun.abc,ManwithaMachineGun__Clar2.abc: 2:57 vs median 3:45
+ManwithaMachineGun,4 Parts,broken/4 Parts/ManwithaMachineGun.abc,ManwithaMachineGun__Horn1.abc: 2:57 vs median 3:45
+ManwithaMachineGun,4 Parts,broken/4 Parts/ManwithaMachineGun.abc,ManwithaMachineGun__Horn3.abc: 4:33 vs median 3:45
+ManwithaMachineGun,4 Parts,broken/4 Parts/ManwithaMachineGun.abc,ManwithaMachineGun__Lute4.abc: 4:52 vs median 3:45
+MarmorSteinUndEisenBricht,4 Parts,broken/4 Parts/MarmorSteinUndEisenBricht.abc,MarmorSteinUndEisenBricht__Drums2.abc: 2:29 vs median 2:08
+MiseryBusiness,4 Parts,broken/4 Parts/MiseryBusiness.abc,MiseryBusiness__Ages1.abc: 5:07 vs median 3:53
+MiseryBusiness,4 Parts,broken/4 Parts/MiseryBusiness.abc,MiseryBusiness__Flute3.abc: 3:17 vs median 3:53
+MiseryBusiness,4 Parts,broken/4 Parts/MiseryBusiness.abc,MiseryBusiness__Lute2.abc: 4:28 vs median 3:53
+MiseryBusiness,4 Parts,broken/4 Parts/MiseryBusiness.abc,MiseryBusiness__Theorbo4.abc: 3:18 vs median 3:53
+MonkeyGonetoHeaven,4 Parts,broken/4 Parts/MonkeyGonetoHeaven.abc,MonkeyGonetoHeaven__Lute4.abc: 4:25 vs median 1:38
+MyNameisJonas,4 Parts,broken/4 Parts/MyNameisJonas.abc,MyNameisJonas__Flute1.abc: 1:05 vs median 1:48
+NoWomenNoCry,4 Parts,broken/4 Parts/NoWomenNoCry.abc,NoWomenNoCry__Lute3.abc: 12:11 vs median 7:27
+OnandOn,4 Parts,broken/4 Parts/OnandOn.abc,OnandOn__Harp2.abc: 8:00 vs median 3:19
+One-One,4 Parts,broken/4 Parts/One-One.abc,One-One__Horn3.abc: 4:52 vs median 7:33
+Oneofus,4 Parts,broken/4 Parts/Oneofus.abc,Oneofus__Lute4.abc: 8:44 vs median 3:05
+OverTheHills&FarAway,4 Parts,broken/4 Parts/OverTheHills&FarAway.abc,OverTheHills&FarAway__Lute3.abc: 6:38 vs median 5:17
+OverTheHills&FarAway,4 Parts,broken/4 Parts/OverTheHills&FarAway.abc,OverTheHills&FarAway__Theorbo4.abc: 4:24 vs median 5:17
+ParadeoftheSlaveChildren,4 Parts,broken/4 Parts/ParadeoftheSlaveChildren.abc,ParadeoftheSlaveChildren__Drums2.abc: 4:53 vs median 5:46
+PrinceCharlieStuart-PrinceCharlieStuart,4 Parts,broken/4 Parts/PrinceCharlieStuart-PrinceCharlieStuart.abc,PrinceCharlieStuart-PrinceCharlieStuart__Pipes1.abc: 5:18 vs median 4:06
+PulpFictionTheme,4 Parts,broken/4 Parts/PulpFictionTheme.abc,PulpFictionTheme__Horn4.abc: 1:16 vs median 2:26
+Pustota,4 Parts,broken/4 Parts/Pustota.abc,Pustota__Lute3.abc: 5:50 vs median 4:21
+Quarantine,4 Parts,broken/4 Parts/Quarantine.abc,Quarantine__Ages4.abc: 4:41 vs median 4:01
+RambleOn,4 Parts,broken/4 Parts/RambleOn.abc,RambleOn__Lute3.abc: 6:59 vs median 4:32
+RebellionLies,4 Parts,broken/4 Parts/RebellionLies.abc,RebellionLies__Lute4.abc: 6:25 vs median 4:47
+Redemption,4 Parts,broken/4 Parts/Redemption.abc,Redemption__Ages3.abc: 6:45 vs median 5:52
+Redemption,4 Parts,broken/4 Parts/Redemption.abc,Redemption__Ages4.abc: 6:45 vs median 5:52
+Redemption,4 Parts,broken/4 Parts/Redemption.abc,Redemption__Drums2.abc: 4:59 vs median 5:52
+Redemption,4 Parts,broken/4 Parts/Redemption.abc,Redemption__Theorbo1.abc: 4:59 vs median 5:52
+Reflection,4 Parts,broken/4 Parts/Reflection.abc,Reflection__Flute2.abc: 5:16 vs median 10:24
+Reflection,4 Parts,broken/4 Parts/Reflection.abc,Reflection__Theorbo4.abc: 19:25 vs median 10:24
+RoadTrippin,4 Parts,broken/4 Parts/RoadTrippin.abc,RoadTrippin__Flute4.abc: 3:18 vs median 4:04
+RoadTrippin,4 Parts,broken/4 Parts/RoadTrippin.abc,RoadTrippin__Harp1.abc: 5:09 vs median 4:04
+RoadTrippin,4 Parts,broken/4 Parts/RoadTrippin.abc,RoadTrippin__Lute2.abc: 4:45 vs median 4:04
+RoadTrippin,4 Parts,broken/4 Parts/RoadTrippin.abc,RoadTrippin__Theorbo3.abc: 3:23 vs median 4:04
+RomeoandJuliet,4 Parts,broken/4 Parts/RomeoandJuliet.abc,RomeoandJuliet__Lute1.abc: 1:48 vs median 5:36
+RomeoandJuliet,4 Parts,broken/4 Parts/RomeoandJuliet.abc,RomeoandJuliet__Lute4.abc: 6:57 vs median 5:36
+Saltcreek,4 Parts,broken/4 Parts/Saltcreek.abc,Saltcreek__Lute3.abc: 3:09 vs median 2:16
+SchindlersListTheme,4 Parts,broken/4 Parts/SchindlersListTheme.abc,SchindlersListTheme__Clar1.abc: 2:59 vs median 5:16
+SchindlersListTheme,4 Parts,broken/4 Parts/SchindlersListTheme.abc,SchindlersListTheme__Flute2.abc: 4:02 vs median 5:16
+SchindlersListTheme,4 Parts,broken/4 Parts/SchindlersListTheme.abc,SchindlersListTheme__Harp3.abc: 7:13 vs median 5:16
+SchindlersListTheme,4 Parts,broken/4 Parts/SchindlersListTheme.abc,SchindlersListTheme__Horn4.abc: 6:31 vs median 5:16
+SeasonsintheAbyss,4 Parts,broken/4 Parts/SeasonsintheAbyss.abc,SeasonsintheAbyss__Lute4.abc: 7:28 vs median 6:30
+SecretAgentElf,4 Parts,broken/4 Parts/SecretAgentElf.abc,SecretAgentElf__Lute3.abc: 3:55 vs median 3:00
+ShesAlwaysaWomantoMe,4 Parts,broken/4 Parts/ShesAlwaysaWomantoMe.abc,ShesAlwaysaWomantoMe__Flute1.abc: 2:49 vs median 3:53
+ShesAlwaysaWomantoMe,4 Parts,broken/4 Parts/ShesAlwaysaWomantoMe.abc,ShesAlwaysaWomantoMe__Harp2.abc: 4:53 vs median 3:53
+ShesAlwaysaWomantoMe,4 Parts,broken/4 Parts/ShesAlwaysaWomantoMe.abc,ShesAlwaysaWomantoMe__Lute3.abc: 5:39 vs median 3:53
+ShesAlwaysaWomantoMe,4 Parts,broken/4 Parts/ShesAlwaysaWomantoMe.abc,ShesAlwaysaWomantoMe__Theorbo4.abc: 2:53 vs median 3:53
+Soli,4 Parts,broken/4 Parts/Soli.abc,Soli__Lute3.abc: 9:36 vs median 4:09
+SomewhereIBelong-somewhereibelong,4 Parts,broken/4 Parts/SomewhereIBelong-somewhereibelong.abc,SomewhereIBelong-somewhereibelong__Lute2.abc: 4:36 vs median 3:42
+StairwayToHeaven-Stair,4 Parts,broken/4 Parts/StairwayToHeaven-Stair.abc,StairwayToHeaven-Stair__Lute4.abc: 11:28 vs median 8:16
+StandingOutsidetheFire,4 Parts,broken/4 Parts/StandingOutsidetheFire.abc,StandingOutsidetheFire__Flute4.abc: 5:17 vs median 3:54
+StarSurf,4 Parts,broken/4 Parts/StarSurf.abc,StarSurf__Clar2.abc: 8:48 vs median 6:17
+StarWarsEndTitles,4 Parts,broken/4 Parts/StarWarsEndTitles.abc,StarWarsEndTitles__Flute3.abc: 9:05 vs median 6:05
+StarWarsThroneRoomandEndCredits,4 Parts,broken/4 Parts/StarWarsThroneRoomandEndCredits.abc,StarWarsThroneRoomandEndCredits__Flute3.abc: 9:05 vs median 6:05
+StraightOn-Heart,4 Parts,broken/4 Parts/StraightOn-Heart.abc,StraightOn-Heart__Lute4.abc: 5:43 vs median 4:38
+StrangeMagic,4 Parts,broken/4 Parts/StrangeMagic.abc,StrangeMagic__Clar1.abc: 4:36 vs median 6:01
+StrangeMagic,4 Parts,broken/4 Parts/StrangeMagic.abc,StrangeMagic__Theorbo4.abc: 7:34 vs median 6:01
+Summer,4 Parts,broken/4 Parts/Summer.abc,Summer__Harp1.abc: 6:35 vs median 2:45
+"Superman,TheMovie,Suite",4 Parts,"broken/4 Parts/Superman,TheMovie,Suite.abc","Superman,TheMovie,Suite__Flute3.abc: 7:43 vs median 6:20"
+Sweet16,4 Parts,broken/4 Parts/Sweet16.abc,Sweet16__Lute4.abc: 6:40 vs median 8:11
+SweetHomeNimrodel,4 Parts,broken/4 Parts/SweetHomeNimrodel.abc,SweetHomeNimrodel__Drums1.abc: 3:48 vs median 4:53
+SweetHomeNimrodel,4 Parts,broken/4 Parts/SweetHomeNimrodel.abc,SweetHomeNimrodel__Flute2.abc: 5:54 vs median 4:53
+SweetHomeNimrodel,4 Parts,broken/4 Parts/SweetHomeNimrodel.abc,SweetHomeNimrodel__Lute3.abc: 7:00 vs median 4:53
+SweetHomeNimrodel,4 Parts,broken/4 Parts/SweetHomeNimrodel.abc,SweetHomeNimrodel__Theorbo4.abc: 3:51 vs median 4:53
+SwordsintheWind,4 Parts,broken/4 Parts/SwordsintheWind.abc,SwordsintheWind__Lute4.abc: 14:19 vs median 5:17
+Symphony#8UnfinishedinBm,4 Parts,broken/4 Parts/Symphony#8UnfinishedinBm.abc,Symphony#8UnfinishedinBm__Drums2.abc: 11:56 vs median 14:53
+Take5-take,4 Parts,broken/4 Parts/Take5-take.abc,"Take5-take__Drums1.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 67-55 : Track 0 Bar 1 has -5 time units while the time signature has 4
+Error in line-char 67-86 : note length denominator is zero or less"
+Take5-take,4 Parts,broken/4 Parts/Take5-take.abc,"Take5-take__Horn3.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 13-28 : Track 0 Bar 8 has -7 time units while the time signature has 4
+Error in line-char 13-35 : note length denominator is zero or less"
+TallMenRiding,4 Parts,broken/4 Parts/TallMenRiding.abc,TallMenRiding__Lute4.abc: 5:06 vs median 2:13
+TangledUpInBlue,4 Parts,broken/4 Parts/TangledUpInBlue.abc,TangledUpInBlue__Ages2.abc: 11:07 vs median 7:26
+TeachYourChildern,4 Parts,broken/4 Parts/TeachYourChildern.abc,TeachYourChildern__Harp2.abc: 3:47 vs median 2:28
+TequilaSunrise,4 Parts,broken/4 Parts/TequilaSunrise.abc,TequilaSunrise__Lute4.abc: 4:33 vs median 2:53
+"Thames,MenoftheSea",4 Parts,"broken/4 Parts/Thames,MenoftheSea.abc","Thames,MenoftheSea__Drums1.abc: 5:40 vs median 3:51"
+TheBadTouch,4 Parts,broken/4 Parts/TheBadTouch.abc,TheBadTouch__Ages2.abc: 1:33 vs median 4:39
+TheChainF1Theme,4 Parts,broken/4 Parts/TheChainF1Theme.abc,TheChainF1Theme__Theorbo1.abc: 6:34 vs median 5:07
+TheGambler,4 Parts,broken/4 Parts/TheGambler.abc,TheGambler__Lute4.abc: 5:27 vs median 3:28
+TheLastBaron,4 Parts,broken/4 Parts/TheLastBaron.abc,TheLastBaron__Ages3.abc: 22:24 vs median 13:55
+TheLastResort,4 Parts,broken/4 Parts/TheLastResort.abc,TheLastResort__Drums3.abc: 11:23 vs median 8:53
+TheMapRoomatDawn,4 Parts,broken/4 Parts/TheMapRoomatDawn.abc,TheMapRoomatDawn__Drums2.abc: 3:13 vs median 5:32
+TheMapRoomatDawn,4 Parts,broken/4 Parts/TheMapRoomatDawn.abc,TheMapRoomatDawn__Flute3.abc: 6:45 vs median 5:32
+TheOneYouLove,4 Parts,broken/4 Parts/TheOneYouLove.abc,TheOneYouLove__Lute4.abc: 19:49 vs median 4:11
+TheSanctuaryofZitah-zitah,4 Parts,broken/4 Parts/TheSanctuaryofZitah-zitah.abc,TheSanctuaryofZitah-zitah__Flute2.abc: 4:03 vs median 5:00
+TheSanctuaryofZitah-zitah,4 Parts,broken/4 Parts/TheSanctuaryofZitah-zitah.abc,TheSanctuaryofZitah-zitah__Lute4.abc: 5:46 vs median 5:00
+TheSorcerersApprentice,4 Parts,broken/4 Parts/TheSorcerersApprentice.abc,TheSorcerersApprentice__Clar1.abc: 2:41 vs median 2:14
+TheSorcerersApprentice,4 Parts,broken/4 Parts/TheSorcerersApprentice.abc,TheSorcerersApprentice__Harp2.abc: 1:18 vs median 2:14
+TheSorcerorsApprentice,4 Parts,broken/4 Parts/TheSorcerorsApprentice.abc,TheSorcerorsApprentice__Drums2.abc: 9:42 vs median 12:01
+TheSorcerorsApprentice,4 Parts,broken/4 Parts/TheSorcerorsApprentice.abc,TheSorcerorsApprentice__Harp4.abc: 14:17 vs median 12:01
+TheWaterIsWide,4 Parts,broken/4 Parts/TheWaterIsWide.abc,TheWaterIsWide__Lute3.abc: 6:10 vs median 2:46
+TheWizard,4 Parts,broken/4 Parts/TheWizard.abc,TheWizard__Lute3.abc: 5:09 vs median 2:49
+TheZephyrSong,4 Parts,broken/4 Parts/TheZephyrSong.abc,TheZephyrSong__Harp3.abc: 6:19 vs median 3:47
+TheologyCivilization,4 Parts,broken/4 Parts/TheologyCivilization.abc,"TheologyCivilization__Theorbo1.abc: abc2midi failed: units while the time signature has 3
+Warning in line-char 54-143 : Track 0 Bar 133 has -15 time units while the time signature has 3
+Error in line-char 54-145 : note length denominator is zero or less"
+TheologyCivilization,4 Parts,broken/4 Parts/TheologyCivilization.abc,"TheologyCivilization__Theorbo2.abc: abc2midi failed: DI file /tmp/lotro-midi-wrzew5xy/part.mid
+Warning in line-char 15-45 : Track 0 Bar 38 has 5 time units while the time signature has 3
+Error in line-char 15-46 : note length denominator is zero or less"
+TheologyCivilization,4 Parts,broken/4 Parts/TheologyCivilization.abc,"TheologyCivilization__Theorbo3.abc: abc2midi failed: units while the time signature has 3
+Warning in line-char 24-109 : Track 0 Bar 133 has -15 time units while the time signature has 3
+Error in line-char 24-111 : note length denominator is zero or less"
+TheologyCivilization,4 Parts,broken/4 Parts/TheologyCivilization.abc,"TheologyCivilization__Theorbo4.abc: abc2midi failed: Warning in line-char 23-70 : unequal notes in chord 1/2 versus 1/1
+Warning in line-char 23-72 : unequal notes in chord 1/2 versus 1/1
+Error in line-char 23-79 : note length denominator is zero or less"
+ThisisGallifrey-DoctorWho,4 Parts,broken/4 Parts/ThisisGallifrey-DoctorWho.abc,ThisisGallifrey-DoctorWho__Clar1.abc: 2:48 vs median 2:17
+TifasTheme,4 Parts,broken/4 Parts/TifasTheme.abc,TifasTheme__Flute1.abc: 2:27 vs median 4:39
+TifasTheme,4 Parts,broken/4 Parts/TifasTheme.abc,TifasTheme__Harp2.abc: 6:42 vs median 4:39
+TifasTheme,4 Parts,broken/4 Parts/TifasTheme.abc,TifasTheme__Horn3.abc: 2:36 vs median 4:39
+TifasTheme,4 Parts,broken/4 Parts/TifasTheme.abc,TifasTheme__Lute4.abc: 6:46 vs median 4:39
+ToSirWithLove,4 Parts,broken/4 Parts/ToSirWithLove.abc,ToSirWithLove__Drums1.abc: 2:30 vs median 3:03
+ToSirWithLove,4 Parts,broken/4 Parts/ToSirWithLove.abc,ToSirWithLove__Flute2.abc: 3:39 vs median 3:03
+TomSawyer-3-part&solo,4 Parts,broken/4 Parts/TomSawyer-3-part&solo.abc,TomSawyer-3-part&solo__Drums1.abc: 4:30 vs median 6:03
+TomSawyer-3-part&solo,4 Parts,broken/4 Parts/TomSawyer-3-part&solo.abc,TomSawyer-3-part&solo__Lute2.abc: 7:26 vs median 6:03
+TomSawyer-3-part&solo,4 Parts,broken/4 Parts/TomSawyer-3-part&solo.abc,TomSawyer-3-part&solo__Theorbo3.abc: 7:45 vs median 6:03
+TomSawyer-3-part&solo,4 Parts,broken/4 Parts/TomSawyer-3-part&solo.abc,TomSawyer-3-part&solo__Theorbo4.abc: 4:40 vs median 6:03
+TrappedUnderIce,4 Parts,broken/4 Parts/TrappedUnderIce.abc,TrappedUnderIce__Drums1.abc: 5:41 vs median 4:06
+UnderaSerpentSun,4 Parts,broken/4 Parts/UnderaSerpentSun.abc,UnderaSerpentSun__Ages3.abc: 4:42 vs median 3:59
+VermillionPt2,4 Parts,broken/4 Parts/VermillionPt2.abc,VermillionPt2__Ages2.abc: 5:54 vs median 4:24
+VermillionPt2,4 Parts,broken/4 Parts/VermillionPt2.abc,VermillionPt2__Flute4.abc: 3:42 vs median 4:24
+VirginSkies,4 Parts,broken/4 Parts/VirginSkies.abc,VirginSkies__Lute3.abc: 1:43 vs median 1:21
+WaketheDead,4 Parts,broken/4 Parts/WaketheDead.abc,WaketheDead__Ages3.abc: 4:43 vs median 3:32
+WastedTime,4 Parts,broken/4 Parts/WastedTime.abc,WastedTime__Clar2.abc: 4:51 vs median 5:44
+WastedTime,4 Parts,broken/4 Parts/WastedTime.abc,WastedTime__Drums3.abc: 4:43 vs median 5:44
+WastedTime,4 Parts,broken/4 Parts/WastedTime.abc,WastedTime__Lute4.abc: 7:46 vs median 5:44
+WastedTime,4 Parts,broken/4 Parts/WastedTime.abc,WastedTime__Theorbo1.abc: 6:38 vs median 5:44
+WhatIgot,4 Parts,broken/4 Parts/WhatIgot.abc,WhatIgot__Lute2.abc: 5:02 vs median 2:58
+WhenItsLove,4 Parts,broken/4 Parts/WhenItsLove.abc,WhenItsLove__Drums3.abc: 5:20 vs median 6:17
+WhenItsLove,4 Parts,broken/4 Parts/WhenItsLove.abc,WhenItsLove__Lute4.abc: 8:03 vs median 6:17
+WhoWantsToLiveForever,4 Parts,broken/4 Parts/WhoWantsToLiveForever.abc,WhoWantsToLiveForever__Ages2.abc: 9:45 vs median 4:31
+WhoWantsToLiveForever,4 Parts,broken/4 Parts/WhoWantsToLiveForever.abc,WhoWantsToLiveForever__Drums1.abc: 5:14 vs median 4:31
+WhoWantsToLiveForever,4 Parts,broken/4 Parts/WhoWantsToLiveForever.abc,WhoWantsToLiveForever__Flute4.abc: 3:48 vs median 4:31
+WhoWantsToLiveForever,4 Parts,broken/4 Parts/WhoWantsToLiveForever.abc,WhoWantsToLiveForever__Lute3.abc: 3:48 vs median 4:31
+WildHorses,4 Parts,broken/4 Parts/WildHorses.abc,WildHorses__Harp2.abc: 8:07 vs median 5:47
+WillowsOnTheWater,4 Parts,broken/4 Parts/WillowsOnTheWater.abc,WillowsOnTheWater__Lute2.abc: 2:02 vs median 3:04
+WindfallIsland,4 Parts,broken/4 Parts/WindfallIsland.abc,WindfallIsland__Flute1.abc: 2:38 vs median 2:07
+WithArmsWideOpen,4 Parts,broken/4 Parts/WithArmsWideOpen.abc,WithArmsWideOpen__Harp2.abc: 7:29 vs median 5:58
+WithArmsWideOpen,4 Parts,broken/4 Parts/WithArmsWideOpen.abc,WithArmsWideOpen__Horn3.abc: 4:26 vs median 5:58
+WithArmsWideOpen,4 Parts,broken/4 Parts/WithArmsWideOpen.abc,WithArmsWideOpen__Lute4.abc: 9:26 vs median 5:58
+WithArmsWideOpen,4 Parts,broken/4 Parts/WithArmsWideOpen.abc,WithArmsWideOpen__Theorbo1.abc: 4:27 vs median 5:58
+WolfandRaven,4 Parts,broken/4 Parts/WolfandRaven.abc,WolfandRaven__Theorbo1.abc: 4:07 vs median 4:52
+WorkInProgress,4 Parts,broken/4 Parts/WorkInProgress.abc,WorkInProgress__Drums2.abc: 10:18 vs median 12:16
+WorkInProgress,4 Parts,broken/4 Parts/WorkInProgress.abc,WorkInProgress__Harp4.abc: 14:14 vs median 12:16
+YourDecision,4 Parts,broken/4 Parts/YourDecision.abc,YourDecision__Ages3.abc: 9:18 vs median 6:51
+YourDecision,4 Parts,broken/4 Parts/YourDecision.abc,YourDecision__Ages4.abc: 10:55 vs median 6:51
+YourDecision,4 Parts,broken/4 Parts/YourDecision.abc,YourDecision__Drums2.abc: 4:24 vs median 6:51
+YourDecision,4 Parts,broken/4 Parts/YourDecision.abc,YourDecision__Theorbo1.abc: 4:24 vs median 6:51
+ZephyrSong,4 Parts,broken/4 Parts/ZephyrSong.abc,ZephyrSong__Lute4.abc: 6:19 vs median 4:24
+adesso,4 Parts,broken/4 Parts/adesso.abc,"adesso__Clar2.abc: abc2midi failed:  Ignoring text: e8 |BD A3 B da |^gB dF ed cB |c2 d B5- |B7 B |c5 cd c |
+Warning in line-char 33-0 : Ignoring text: e32/3- |e4/3 z7 |]
+Error in line-char 34-0 : No valid K: field found at start of tune"
+collegeGroves,4 Parts,broken/4 Parts/collegeGroves.abc,collegeGroves__Drums1.abc: 0:00 vs median 1:25
+drury,4 Parts,broken/4 Parts/drury.abc,drury__Drums1.abc: 0:11 vs median 1:41
+knockinonheavensdoor,4 Parts,broken/4 Parts/knockinonheavensdoor.abc,knockinonheavensdoor__Lute3.abc: 6:59 vs median 5:21
+miyu,4 Parts,broken/4 Parts/miyu.abc,miyu__Drums1.abc: 0:00 vs median 1:11
+miyu,4 Parts,broken/4 Parts/miyu.abc,miyu__Harp2.abc: 0:00 vs median 1:11
+miyu,4 Parts,broken/4 Parts/miyu.abc,miyu__Lute3.abc: 2:23 vs median 1:11
+miyu,4 Parts,broken/4 Parts/miyu.abc,miyu__Theorbo4.abc: 2:23 vs median 1:11
+ranma,4 Parts,broken/4 Parts/ranma.abc,"ranma__Drums1.abc: abc2midi failed: ,[^C,Gg]^C,[^C,^C]^C,[^C,Gg]^C, |[^C,^C]^C,[^C,Gg]^C,[^C,^C]^C,[^C,Gg][^C,Gg] |[^C,^C]^C,[^C,Gg]^C,[^C,^C]^C,[^C,Gg]^C, |[^CF][fA,F]F
+Error in line-char 26-0 : No valid K: field found at start of tune"
+ranma,4 Parts,broken/4 Parts/ranma.abc,"ranma__Theorbo4.abc: abc2midi failed: 3] [GG,] [c4C4] |[c3C3] [GG,] [c3C3] [d-D-] | [Dd] [dD] [GG,][AA,] [c4-C4-] |
+Warning in line-char 27-0 : Ignoring text: [c4C4] z4 |]
+Error in line-char 28-0 : No valid K: field found at start of tune"
+rohan [DIF],4 Parts,broken/4 Parts/rohan [DIF].abc,rohan [DIF]__Theorbo4.abc: 0:00 vs median 3:28
+sidewinder,4 Parts,broken/4 Parts/sidewinder.abc,sidewinder__Flute3.abc: 5:23 vs median 7:17
+15Step,5 Parts,broken/5 Parts/15Step.abc,15Step__Ages4.abc: 3:21 vs median 4:23
+15Step,5 Parts,broken/5 Parts/15Step.abc,15Step__Flute5.abc: 5:15 vs median 4:23
+15Step,5 Parts,broken/5 Parts/15Step.abc,15Step__Theorbo1.abc: 3:34 vs median 4:23
+3jigsfor5lutes,5 Parts,broken/5 Parts/3jigsfor5lutes.abc,3jigsfor5lutes__Lute5.abc: 3:16 vs median 1:54
+AKisstoBuildaDreamOn,5 Parts,broken/5 Parts/AKisstoBuildaDreamOn.abc,AKisstoBuildaDreamOn__Horn1.abc: 1:29 vs median 3:14
+AKisstoBuildaDreamOn,5 Parts,broken/5 Parts/AKisstoBuildaDreamOn.abc,AKisstoBuildaDreamOn__Horn2.abc: 1:29 vs median 3:14
+AKisstoBuildaDreamOn,5 Parts,broken/5 Parts/AKisstoBuildaDreamOn.abc,AKisstoBuildaDreamOn__Lute3.abc: 3:55 vs median 3:14
+ALoveSoBeautiful,5 Parts,broken/5 Parts/ALoveSoBeautiful.abc,ALoveSoBeautiful__Lute4.abc: 4:34 vs median 3:39
+AintGoinDown,5 Parts,broken/5 Parts/AintGoinDown.abc,AintGoinDown__Harp3.abc: 4:22 vs median 3:18
+AintGoinDown,5 Parts,broken/5 Parts/AintGoinDown.abc,AintGoinDown__Lute4.abc: 4:24 vs median 3:18
+AllRightNow-Right,5 Parts,broken/5 Parts/AllRightNow-Right.abc,AllRightNow-Right__Lute5.abc: 7:53 vs median 6:19
+AmericanWoman,5 Parts,broken/5 Parts/AmericanWoman.abc,AmericanWoman__Horn4.abc: 4:50 vs median 3:27
+AmericanWoman,5 Parts,broken/5 Parts/AmericanWoman.abc,AmericanWoman__Theorbo5.abc: 2:51 vs median 3:27
+Angeles,5 Parts,broken/5 Parts/Angeles.abc,Angeles__Harp3.abc: 3:26 vs median 2:46
+"April29,1992",5 Parts,"broken/5 Parts/April29,1992.abc","April29,1992__Harp4.abc: 2:36 vs median 4:01"
+AroundtheWorld-aroundtheworld,5 Parts,broken/5 Parts/AroundtheWorld-aroundtheworld.abc,AroundtheWorld-aroundtheworld__Theorbo1.abc: 2:07 vs median 2:40
+AsIWenttoWalsinghamvariations,5 Parts,broken/5 Parts/AsIWenttoWalsinghamvariations.abc,"AsIWenttoWalsinghamvariations__Clar1.abc: abc2midi failed: me units while the time signature has 4
+Warning in line-char 111-13 : Track 0 Bar 103 has 6 time units while the time signature has 4
+Error in line-char 112-8 : note length denominator is zero or less"
+AsIWenttoWalsinghamvariations,5 Parts,broken/5 Parts/AsIWenttoWalsinghamvariations.abc,"AsIWenttoWalsinghamvariations__Flute3.abc: abc2midi failed: me units while the time signature has 4
+Warning in line-char 111-15 : Track 0 Bar 103 has 6 time units while the time signature has 4
+Error in line-char 112-7 : note length denominator is zero or less"
+AsIWenttoWalsinghamvariations,5 Parts,broken/5 Parts/AsIWenttoWalsinghamvariations.abc,"AsIWenttoWalsinghamvariations__Lute4.abc: abc2midi failed: e units while the time signature has 4
+Warning in line-char 111-16 : Track 0 Bar 102 has 6 time units while the time signature has 4
+Error in line-char 112-15 : note length denominator is zero or less"
+AsIWenttoWalsinghamvariations,5 Parts,broken/5 Parts/AsIWenttoWalsinghamvariations.abc,"AsIWenttoWalsinghamvariations__Lute5.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 111-4 : Track 0 Bar 102 has 6 time units while the time signature has 4
+Error in line-char 112-0 : note length denominator is zero or less"
+BabyElephantWalk-Dumbo,5 Parts,broken/5 Parts/BabyElephantWalk-Dumbo.abc,BabyElephantWalk-Dumbo__Drums3.abc: 3:10 vs median 2:02
+BattleTheme-FinalFantasyVII,5 Parts,broken/5 Parts/BattleTheme-FinalFantasyVII.abc,BattleTheme-FinalFantasyVII__Lute5.abc: 6:37 vs median 2:24
+BeverlyHills,5 Parts,broken/5 Parts/BeverlyHills.abc,BeverlyHills__Drums2.abc: 3:57 vs median 3:21
+Birdland,5 Parts,broken/5 Parts/Birdland.abc,Birdland__Horn4.abc: 5:51 vs median 4:04
+BlueFieldsFFVIII,5 Parts,broken/5 Parts/BlueFieldsFFVIII.abc,BlueFieldsFFVIII__Lute5.abc: 0:58 vs median 2:51
+BornInTheUsa,5 Parts,broken/5 Parts/BornInTheUsa.abc,BornInTheUsa__Clar2.abc: 6:15 vs median 5:09
+BornInTheUsa,5 Parts,broken/5 Parts/BornInTheUsa.abc,BornInTheUsa__Flute4.abc: 6:53 vs median 5:09
+BreelandStomp,5 Parts,broken/5 Parts/BreelandStomp.abc,"BreelandStomp__Flute4.abc: abc2midi failed: 29-6 : 3 b is not a power of 2
+Error in line-char 29-10 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-w07n296q/part.mid
+Error in line-char 14-33 : note length denominator is zero or less"
+BreelandStomp,5 Parts,broken/5 Parts/BreelandStomp.abc,"BreelandStomp__Flute5.abc: abc2midi failed:  30-4 : 3 b is not a power of 2
+Error in line-char 30-7 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-grbk_rxm/part.mid
+Error in line-char 16-94 : note length denominator is zero or less"
+Breezin,5 Parts,broken/5 Parts/Breezin.abc,Breezin__Horn4.abc: 7:07 vs median 5:34
+BringMeToLife-Bring,5 Parts,broken/5 Parts/BringMeToLife-Bring.abc,BringMeToLife-Bring__Clar2.abc: 7:31 vs median 4:11
+Broken,5 Parts,broken/5 Parts/Broken.abc,Broken__Lute3.abc: 6:44 vs median 4:14
+Broken,5 Parts,broken/5 Parts/Broken.abc,Broken__Pipes1.abc: 6:39 vs median 4:14
+Burn,5 Parts,broken/5 Parts/Burn.abc,Burn__Harp3.abc: 9:38 vs median 4:41
+Burn,5 Parts,broken/5 Parts/Burn.abc,Burn__Horn4.abc: 3:23 vs median 4:41
+Burn,5 Parts,broken/5 Parts/Burn.abc,Burn__Lute5.abc: 5:33 vs median 4:41
+CCBlueGrass,5 Parts,broken/5 Parts/CCBlueGrass.abc,CCBlueGrass__Clar1.abc: 4:51 vs median 6:16
+CCBlueGrass,5 Parts,broken/5 Parts/CCBlueGrass.abc,CCBlueGrass__Theorbo5.abc: 4:21 vs median 6:16
+CantinaTheme,5 Parts,broken/5 Parts/CantinaTheme.abc,CantinaTheme__Ages2.abc: 0:26 vs median 1:52
+CantinaTheme,5 Parts,broken/5 Parts/CantinaTheme.abc,CantinaTheme__Theorbo1.abc: 0:26 vs median 1:52
+CarminaBurana,5 Parts,broken/5 Parts/CarminaBurana.abc,CarminaBurana__Clar1.abc: 34:40 vs median 29:40
+Cecilia,5 Parts,broken/5 Parts/Cecilia.abc,Cecilia__Lute3.abc: 2:54 vs median 1:50
+ChinaGirl,5 Parts,broken/5 Parts/ChinaGirl.abc,ChinaGirl__Harp4.abc: 6:16 vs median 4:32
+ChinaGirl,5 Parts,broken/5 Parts/ChinaGirl.abc,ChinaGirl__Lute3.abc: 7:34 vs median 4:32
+ComeToMyWindow,5 Parts,broken/5 Parts/ComeToMyWindow.abc,ComeToMyWindow__Flute4.abc: 6:25 vs median 4:02
+Dancerinthedark,5 Parts,broken/5 Parts/Dancerinthedark.abc,Dancerinthedark__Lute5.abc: 4:10 vs median 3:32
+Dancerinthedark,5 Parts,broken/5 Parts/Dancerinthedark.abc,Dancerinthedark__Theorbo1.abc: 4:48 vs median 3:32
+DogDaysAreOver,5 Parts,broken/5 Parts/DogDaysAreOver.abc,DogDaysAreOver__Lute3.abc: 8:10 vs median 4:41
+DontBringMeDown-ELO,5 Parts,broken/5 Parts/DontBringMeDown-ELO.abc,DontBringMeDown-ELO__Clar2.abc: 5:08 vs median 4:13
+DoorsofTamerlan,5 Parts,broken/5 Parts/DoorsofTamerlan.abc,DoorsofTamerlan__Clar1.abc: 3:38 vs median 4:33
+DoorsofTamerlan,5 Parts,broken/5 Parts/DoorsofTamerlan.abc,DoorsofTamerlan__Drums2.abc: 3:20 vs median 4:33
+DoorsofTamerlan,5 Parts,broken/5 Parts/DoorsofTamerlan.abc,DoorsofTamerlan__Lute3.abc: 5:22 vs median 4:33
+Dorogasna,5 Parts,broken/5 Parts/Dorogasna.abc,Dorogasna__Lute5.abc: 3:43 vs median 3:03
+Ebudae,5 Parts,broken/5 Parts/Ebudae.abc,Ebudae__Flute3.abc: 0:32 vs median 0:52
+Ebudae,5 Parts,broken/5 Parts/Ebudae.abc,Ebudae__Flute4.abc: 0:32 vs median 0:52
+FeelGoodInc,5 Parts,broken/5 Parts/FeelGoodInc.abc,FeelGoodInc__Ages1.abc: 5:21 vs median 3:32
+FeelGoodInc,5 Parts,broken/5 Parts/FeelGoodInc.abc,FeelGoodInc__Lute5.abc: 7:44 vs median 3:32
+FeelLikeMakingLove-Making,5 Parts,broken/5 Parts/FeelLikeMakingLove-Making.abc,FeelLikeMakingLove-Making__Lute5.abc: 7:10 vs median 5:20
+FerrumAeternum,5 Parts,broken/5 Parts/FerrumAeternum.abc,FerrumAeternum__Drums2.abc: 4:26 vs median 3:16
+FerrumAeternum,5 Parts,broken/5 Parts/FerrumAeternum.abc,FerrumAeternum__Lute5.abc: 5:00 vs median 3:16
+Footloose,5 Parts,broken/5 Parts/Footloose.abc,Footloose__Ages3.abc: 4:44 vs median 3:42
+FreebirdLive,5 Parts,broken/5 Parts/FreebirdLive.abc,FreebirdLive__Ages3.abc: 22:47 vs median 19:09
+FreebirdLive,5 Parts,broken/5 Parts/FreebirdLive.abc,FreebirdLive__Drums2.abc: 12:55 vs median 19:09
+FreebirdLive,5 Parts,broken/5 Parts/FreebirdLive.abc,FreebirdLive__Theorbo1.abc: 12:52 vs median 19:09
+FromThisMomentOn,5 Parts,broken/5 Parts/FromThisMomentOn.abc,FromThisMomentOn__Flute5.abc: 7:18 vs median 3:29
+FromThisMomentOn,5 Parts,broken/5 Parts/FromThisMomentOn.abc,FromThisMomentOn__Lute2.abc: 4:52 vs median 3:29
+FuneralFog,5 Parts,broken/5 Parts/FuneralFog.abc,FuneralFog__Lute5.abc: 4:29 vs median 5:48
+GerudoValleyTheme,5 Parts,broken/5 Parts/GerudoValleyTheme.abc,GerudoValleyTheme__Theorbo5.abc: 3:12 vs median 2:39
+GoingUnder,5 Parts,broken/5 Parts/GoingUnder.abc,GoingUnder__Flute3.abc: 4:47 vs median 3:23
+GoingUnder,5 Parts,broken/5 Parts/GoingUnder.abc,GoingUnder__Lute4.abc: 3:57 vs median 3:23
+Halo-Halo,5 Parts,broken/5 Parts/Halo-Halo.abc,Halo-Halo__Harp3.abc: 8:37 vs median 3:46
+Halo-Halo,5 Parts,broken/5 Parts/Halo-Halo.abc,Halo-Halo__Lute4.abc: 5:03 vs median 3:46
+Harlequin,5 Parts,broken/5 Parts/Harlequin.abc,Harlequin__Lute3.abc: 4:09 vs median 2:54
+Harlequin,5 Parts,broken/5 Parts/Harlequin.abc,Harlequin__Lute4.abc: 4:19 vs median 2:54
+HereComestheSun,5 Parts,broken/5 Parts/HereComestheSun.abc,HereComestheSun__Lute2.abc: 5:41 vs median 3:10
+HereWithoutYou-Here,5 Parts,broken/5 Parts/HereWithoutYou-Here.abc,HereWithoutYou-Here__Lute5.abc: 6:51 vs median 4:44
+HereWithoutYou-Here,5 Parts,broken/5 Parts/HereWithoutYou-Here.abc,HereWithoutYou-Here__Theorbo1.abc: 3:53 vs median 4:44
+HeyHeyWhatCanIDo,5 Parts,broken/5 Parts/HeyHeyWhatCanIDo.abc,HeyHeyWhatCanIDo__Lute4.abc: 4:48 vs median 3:27
+Hiding-Hiding,5 Parts,broken/5 Parts/Hiding-Hiding.abc,Hiding-Hiding__Lute3.abc: 3:27 vs median 2:09
+Hiding-Hiding,5 Parts,broken/5 Parts/Hiding-Hiding.abc,Hiding-Hiding__Lute4.abc: 1:39 vs median 2:09
+HowBlueCanYouGet,5 Parts,broken/5 Parts/HowBlueCanYouGet.abc,HowBlueCanYouGet__Harp3.abc: 7:54 vs median 5:12
+HowBlueCanYouGet,5 Parts,broken/5 Parts/HowBlueCanYouGet.abc,HowBlueCanYouGet__Lute5.abc: 8:10 vs median 5:12
+IDontFeelLikeDancing,5 Parts,broken/5 Parts/IDontFeelLikeDancing.abc,IDontFeelLikeDancing__Lute3.abc: 5:26 vs median 4:07
+IGetAround,5 Parts,broken/5 Parts/IGetAround.abc,IGetAround__Clar3.abc: 2:59 vs median 2:23
+IGetAround,5 Parts,broken/5 Parts/IGetAround.abc,IGetAround__Horn2.abc: 1:59 vs median 2:23
+IGetAround,5 Parts,broken/5 Parts/IGetAround.abc,IGetAround__Lute5.abc: 2:46 vs median 2:23
+ILovetheWayYouLite,5 Parts,broken/5 Parts/ILovetheWayYouLite.abc,ILovetheWayYouLite__Lute3.abc: 6:16 vs median 4:24
+ISitBesidetheFire,5 Parts,broken/5 Parts/ISitBesidetheFire.abc,ISitBesidetheFire__Lute4.abc: 4:39 vs median 3:07
+IStandAlone,5 Parts,broken/5 Parts/IStandAlone.abc,IStandAlone__Harp2.abc: 2:58 vs median 3:47
+IWantToHoldYourHand,5 Parts,broken/5 Parts/IWantToHoldYourHand.abc,IWantToHoldYourHand__Fiddle4.abc: 3:14 vs median 2:23
+IloveYou,5 Parts,broken/5 Parts/IloveYou.abc,IloveYou__Horn3.abc: 3:07 vs median 4:12
+IloveYou,5 Parts,broken/5 Parts/IloveYou.abc,IloveYou__Lute4.abc: 4:50 vs median 4:12
+IloveYou,5 Parts,broken/5 Parts/IloveYou.abc,IloveYou__Theorbo1.abc: 2:55 vs median 4:12
+Insomnia,5 Parts,broken/5 Parts/Insomnia.abc,Insomnia__Ages4.abc: 7:00 vs median 5:19
+Insomnia,5 Parts,broken/5 Parts/Insomnia.abc,Insomnia__Ages5.abc: 10:32 vs median 5:19
+Insomnia,5 Parts,broken/5 Parts/Insomnia.abc,Insomnia__Drums2.abc: 4:05 vs median 5:19
+Insomnia,5 Parts,broken/5 Parts/Insomnia.abc,Insomnia__Theorbo1.abc: 4:15 vs median 5:19
+Jackson,5 Parts,broken/5 Parts/Jackson.abc,Jackson__Flute5.abc: 2:06 vs median 2:33
+Jackson,5 Parts,broken/5 Parts/Jackson.abc,Jackson__Lute4.abc: 4:05 vs median 2:33
+KillerQueen,5 Parts,broken/5 Parts/KillerQueen.abc,KillerQueen__Clar4.abc: 2:58 vs median 3:34
+KillerQueen,5 Parts,broken/5 Parts/KillerQueen.abc,KillerQueen__Harp3.abc: 4:19 vs median 3:34
+KillerQueen,5 Parts,broken/5 Parts/KillerQueen.abc,KillerQueen__Lute5.abc: 5:04 vs median 3:34
+KiminoShiranaiMonogatariEDSong,5 Parts,broken/5 Parts/KiminoShiranaiMonogatariEDSong.abc,KiminoShiranaiMonogatariEDSong__Lute5.abc: 7:00 vs median 5:14
+Labyrinth,5 Parts,broken/5 Parts/Labyrinth.abc,Labyrinth__Lute4.abc: 2:06 vs median 1:09
+LilyWasHere,5 Parts,broken/5 Parts/LilyWasHere.abc,LilyWasHere__Flute2.abc: 6:22 vs median 4:23
+LilyWasHere,5 Parts,broken/5 Parts/LilyWasHere.abc,"LilyWasHere__Lute4.abc: abc2midi failed: 4 d/2 z/8 d15/8 z3/2 d/2 z/8 d15/8 z2 [g3/8z/4] f/4 d/4 z/4
+Warning in line-char 40-0 : Ignoring text: d/4 z/4 g/4 f/4 d/4 z/4 d17/8 
+Error in line-char 41-0 : No valid K: field found at start of tune"
+ListentotheMusic,5 Parts,broken/5 Parts/ListentotheMusic.abc,ListentotheMusic__Lute3.abc: 5:23 vs median 3:53
+ListentotheMusic,5 Parts,broken/5 Parts/ListentotheMusic.abc,ListentotheMusic__Lute4.abc: 5:17 vs median 3:53
+LittleRedRidingHood,5 Parts,broken/5 Parts/LittleRedRidingHood.abc,LittleRedRidingHood__Lute3.abc: 4:42 vs median 2:58
+LittleSouthernBoogie,5 Parts,broken/5 Parts/LittleSouthernBoogie.abc,LittleSouthernBoogie__Lute4.abc: 4:09 vs median 2:30
+LoveMeTwoTimes,5 Parts,broken/5 Parts/LoveMeTwoTimes.abc,LoveMeTwoTimes__Pipes1.abc: 4:14 vs median 3:24
+ManofConstantSorrow,5 Parts,broken/5 Parts/ManofConstantSorrow.abc,ManofConstantSorrow__Lute3.abc: 6:57 vs median 3:49
+Mirrors,5 Parts,broken/5 Parts/Mirrors.abc,Mirrors__Ages4.abc: 7:30 vs median 3:25
+Mockingbirds-Mockingbirds,5 Parts,broken/5 Parts/Mockingbirds-Mockingbirds.abc,Mockingbirds-Mockingbirds__Harp3.abc: 2:46 vs median 1:57
+MollyMalone,5 Parts,broken/5 Parts/MollyMalone.abc,MollyMalone__Lute5.abc: 4:27 vs median 2:49
+MollyMalone,5 Parts,broken/5 Parts/MollyMalone.abc,MollyMalone__Theorbo1.abc: 1:56 vs median 2:49
+Moononthewater,5 Parts,broken/5 Parts/Moononthewater.abc,Moononthewater__Harp4.abc: 6:21 vs median 4:29
+MordredsSong,5 Parts,broken/5 Parts/MordredsSong.abc,MordredsSong__Lute4.abc: 7:29 vs median 5:21
+MyBoyfriendsBack,5 Parts,broken/5 Parts/MyBoyfriendsBack.abc,MyBoyfriendsBack__Harp4.abc: 2:45 vs median 2:13
+MyBoyfriendsBack,5 Parts,broken/5 Parts/MyBoyfriendsBack.abc,MyBoyfriendsBack__Theorbo1.abc: 2:45 vs median 2:13
+NameoftheGame-abba-nameofthegame,5 Parts,broken/5 Parts/NameoftheGame-abba-nameofthegame.abc,NameoftheGame-abba-nameofthegame__Clar1.abc: 3:39 vs median 4:21
+NameoftheGame-abba-nameofthegame,5 Parts,broken/5 Parts/NameoftheGame-abba-nameofthegame.abc,NameoftheGame-abba-nameofthegame__Drums2.abc: 3:39 vs median 4:21
+NameoftheGame-abba-nameofthegame,5 Parts,broken/5 Parts/NameoftheGame-abba-nameofthegame.abc,NameoftheGame-abba-nameofthegame__Theorbo5.abc: 5:22 vs median 4:21
+NeverTooLate,5 Parts,broken/5 Parts/NeverTooLate.abc,NeverTooLate__Lute4.abc: 4:20 vs median 3:12
+NymphomaniacFantasia,5 Parts,broken/5 Parts/NymphomaniacFantasia.abc,NymphomaniacFantasia__Lute4.abc: 8:27 vs median 4:24
+OfTreasure,5 Parts,broken/5 Parts/OfTreasure.abc,OfTreasure__Harp4.abc: 3:43 vs median 2:54
+OfTreasure,5 Parts,broken/5 Parts/OfTreasure.abc,OfTreasure__Horn5.abc: 2:14 vs median 2:54
+OrangeBlossom,5 Parts,broken/5 Parts/OrangeBlossom.abc,OrangeBlossom__Harp3.abc: 3:47 vs median 3:13
+OutofMyDreams,5 Parts,broken/5 Parts/OutofMyDreams.abc,"OutofMyDreams__Harp3.abc: abc2midi failed:  units while the time signature has 12
+Warning in line-char 58-10 : Track 0 Bar 10 has 15/4 time units while the time signature has 12
+Error in line-char 70-3 : note length denominator is zero or less"
+PaddyReilly,5 Parts,broken/5 Parts/PaddyReilly.abc,PaddyReilly__Clar2.abc: 1:12 vs median 1:48
+PeterandtheWolf,5 Parts,broken/5 Parts/PeterandtheWolf.abc,PeterandtheWolf__Drums2.abc: 10:33 vs median 19:13
+PeterandtheWolf,5 Parts,broken/5 Parts/PeterandtheWolf.abc,PeterandtheWolf__Lute5.abc: 28:26 vs median 19:13
+Portal2Wantyougone,5 Parts,broken/5 Parts/Portal2Wantyougone.abc,Portal2Wantyougone__Harp4.abc: 2:54 vs median 2:13
+Portal2Wantyougone,5 Parts,broken/5 Parts/Portal2Wantyougone.abc,Portal2Wantyougone__Lute5.abc: 3:04 vs median 2:13
+RamblinMan,5 Parts,broken/5 Parts/RamblinMan.abc,RamblinMan__Horn3.abc: 2:37 vs median 4:43
+RelmsTheme,5 Parts,broken/5 Parts/RelmsTheme.abc,RelmsTheme__Pipes1.abc: 1:42 vs median 2:17
+RequiemI,5 Parts,broken/5 Parts/RequiemI.abc,RequiemI__Harp2.abc: 6:13 vs median 5:23
+RideOn,5 Parts,broken/5 Parts/RideOn.abc,RideOn__Clar1.abc: 4:26 vs median 12:03
+RideOn,5 Parts,broken/5 Parts/RideOn.abc,RideOn__Lute3.abc: 14:39 vs median 12:03
+RideOn,5 Parts,broken/5 Parts/RideOn.abc,RideOn__Lute4.abc: 17:22 vs median 12:03
+RideOn,5 Parts,broken/5 Parts/RideOn.abc,RideOn__Theorbo5.abc: 8:25 vs median 12:03
+RoadhouseBlues,5 Parts,broken/5 Parts/RoadhouseBlues.abc,RoadhouseBlues__Lute4.abc: 5:43 vs median 4:46
+RockNRollIsKing,5 Parts,broken/5 Parts/RockNRollIsKing.abc,RockNRollIsKing__Lute4.abc: 3:44 vs median 3:05
+RollingintheDeep,5 Parts,broken/5 Parts/RollingintheDeep.abc,RollingintheDeep__Harp4.abc: 5:45 vs median 4:19
+SOS-abba-sos,5 Parts,broken/5 Parts/SOS-abba-sos.abc,SOS-abba-sos__Lute4.abc: 4:57 vs median 3:14
+SanctuaryofZitah-zitah,5 Parts,broken/5 Parts/SanctuaryofZitah-zitah.abc,SanctuaryofZitah-zitah__Clar1.abc: 2:41 vs median 4:42
+SanctuaryofZitah-zitah,5 Parts,broken/5 Parts/SanctuaryofZitah-zitah.abc,SanctuaryofZitah-zitah__Flute2.abc: 3:57 vs median 4:42
+SanctuaryofZitah-zitah,5 Parts,broken/5 Parts/SanctuaryofZitah-zitah.abc,SanctuaryofZitah-zitah__Lute4.abc: 5:46 vs median 4:42
+Shipwrecked,5 Parts,broken/5 Parts/Shipwrecked.abc,Shipwrecked__Horn4.abc: 2:53 vs median 3:28
+SilentLucidity,5 Parts,broken/5 Parts/SilentLucidity.abc,SilentLucidity__Ages4.abc: 12:47 vs median 6:59
+SilentLucidity,5 Parts,broken/5 Parts/SilentLucidity.abc,SilentLucidity__Lute3.abc: 14:34 vs median 6:59
+Skyrim-MainTheme,5 Parts,broken/5 Parts/Skyrim-MainTheme.abc,Skyrim-MainTheme__Drums2.abc: 3:08 vs median 4:27
+SomewhereOvertheRainbowWhatABeautifulWorld,5 Parts,broken/5 Parts/SomewhereOvertheRainbowWhatABeautifulWorld.abc,SomewhereOvertheRainbowWhatABeautifulWorld__Harp3.abc: 15:01 vs median 5:11
+SonofaSonofaSailor,5 Parts,broken/5 Parts/SonofaSonofaSailor.abc,SonofaSonofaSailor__Harp2.abc: 2:21 vs median 4:53
+SonofaSonofaSailor,5 Parts,broken/5 Parts/SonofaSonofaSailor.abc,SonofaSonofaSailor__Lute3.abc: 7:08 vs median 4:53
+SonofaSonofaSailor,5 Parts,broken/5 Parts/SonofaSonofaSailor.abc,SonofaSonofaSailor__Lute4.abc: 8:12 vs median 4:53
+SpicyMcHaggisJig,5 Parts,broken/5 Parts/SpicyMcHaggisJig.abc,SpicyMcHaggisJig__Pipes1.abc: 4:40 vs median 2:11
+StandMyGround,5 Parts,broken/5 Parts/StandMyGround.abc,StandMyGround__Drums2.abc: 3:38 vs median 4:21
+StandMyGround,5 Parts,broken/5 Parts/StandMyGround.abc,StandMyGround__Lute4.abc: 5:55 vs median 4:21
+StandMyGround,5 Parts,broken/5 Parts/StandMyGround.abc,StandMyGround__Theorbo5.abc: 3:41 vs median 4:21
+StarWarsVictoryThemeEpisode6,5 Parts,broken/5 Parts/StarWarsVictoryThemeEpisode6.abc,StarWarsVictoryThemeEpisode6__Clar1.abc: 2:52 vs median 2:27
+StereoLove,5 Parts,broken/5 Parts/StereoLove.abc,StereoLove__Harp4.abc: 4:50 vs median 4:06
+StereoLove,5 Parts,broken/5 Parts/StereoLove.abc,StereoLove__Lute5.abc: 6:07 vs median 4:06
+StrongEnough,5 Parts,broken/5 Parts/StrongEnough.abc,StrongEnough__Pipes1.abc: 4:41 vs median 3:55
+Sunburn,5 Parts,broken/5 Parts/Sunburn.abc,Sunburn__Drums1.abc: 4:30 vs median 3:48
+SurfinBird,5 Parts,broken/5 Parts/SurfinBird.abc,SurfinBird__Lute4.abc: 2:40 vs median 1:57
+SweetAfton-SweetAfton,5 Parts,broken/5 Parts/SweetAfton-SweetAfton.abc,"SweetAfton-SweetAfton__Flute2.abc: abc2midi failed: 125-4 : 3 b is not a power of 2
+Error in line-char 125-8 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-hnbthvqk/part.mid
+Error in line-char 33-2 : note length denominator is zero or less"
+SweetAfton-SweetAfton,5 Parts,broken/5 Parts/SweetAfton-SweetAfton.abc,"SweetAfton-SweetAfton__Harp4.abc: abc2midi failed: 9-11 : 3 b is not a power of 2
+Error in line-char 179-15 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-izg435_z/part.mid
+Error in line-char 10-8 : note length denominator is zero or less"
+SweetAfton-SweetAfton,5 Parts,broken/5 Parts/SweetAfton-SweetAfton.abc,"SweetAfton-SweetAfton__Pipes1.abc: abc2midi failed: 14-9 : 3 b is not a power of 2
+Error in line-char 114-13 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-dke6g1rm/part.mid
+Error in line-char 15-0 : note length denominator is zero or less"
+SweetChildofMine,5 Parts,broken/5 Parts/SweetChildofMine.abc,SweetChildofMine__Lute1.abc: 8:31 vs median 5:47
+Symphonie#7-Allegretto,5 Parts,broken/5 Parts/Symphonie#7-Allegretto.abc,Symphonie#7-Allegretto__Lute4.abc: 10:18 vs median 8:27
+Ten,5 Parts,broken/5 Parts/Ten.abc,Ten__Flute2.abc: 3:14 vs median 4:34
+Ten,5 Parts,broken/5 Parts/Ten.abc,Ten__Lute4.abc: 6:32 vs median 4:34
+Ten,5 Parts,broken/5 Parts/Ten.abc,Ten__Theorbo5.abc: 3:21 vs median 4:34
+Thankyouforbeingafriend,5 Parts,broken/5 Parts/Thankyouforbeingafriend.abc,Thankyouforbeingafriend__Harp2.abc: 4:32 vs median 3:31
+TheBalladOfFrakirEagleheart,5 Parts,broken/5 Parts/TheBalladOfFrakirEagleheart.abc,TheBalladOfFrakirEagleheart__Clar1.abc: 2:48 vs median 3:18
+TheDance,5 Parts,broken/5 Parts/TheDance.abc,TheDance__Drums1.abc: 3:16 vs median 4:06
+TheDance,5 Parts,broken/5 Parts/TheDance.abc,TheDance__Flute2.abc: 2:51 vs median 4:06
+TheDance,5 Parts,broken/5 Parts/TheDance.abc,TheDance__Lute4.abc: 8:02 vs median 4:06
+TheDance,5 Parts,broken/5 Parts/TheDance.abc,TheDance__Theorbo5.abc: 8:02 vs median 4:06
+TheDarkKnightLikeaDofChasingCars,5 Parts,broken/5 Parts/TheDarkKnightLikeaDofChasingCars.abc,TheDarkKnightLikeaDofChasingCars__Clar1.abc: 4:42 vs median 3:59
+TheDarkKnightLikeaDofChasingCars,5 Parts,broken/5 Parts/TheDarkKnightLikeaDofChasingCars.abc,TheDarkKnightLikeaDofChasingCars__Theorbo5.abc: 5:31 vs median 3:59
+TheThrillisGone,5 Parts,broken/5 Parts/TheThrillisGone.abc,TheThrillisGone__Lute2.abc: 9:12 vs median 5:02
+TheThrillisGone,5 Parts,broken/5 Parts/TheThrillisGone.abc,TheThrillisGone__Lute3.abc: 6:21 vs median 5:02
+TheThrillisGone,5 Parts,broken/5 Parts/TheThrillisGone.abc,TheThrillisGone__Theorbo5.abc: 3:57 vs median 5:02
+TheWinnerTakesitAll-abba-winnertakesitall,5 Parts,broken/5 Parts/TheWinnerTakesitAll-abba-winnertakesitall.abc,TheWinnerTakesitAll-abba-winnertakesitall__Lute4.abc: 11:42 vs median 4:45
+"Tonight,Tonight",5 Parts,"broken/5 Parts/Tonight,Tonight.abc","Tonight,Tonight__Lute4.abc: 6:11 vs median 4:22"
+Tribute,5 Parts,broken/5 Parts/Tribute.abc,Tribute__Ages3.abc: 7:27 vs median 4:07
+Trinsic,5 Parts,broken/5 Parts/Trinsic.abc,Trinsic__Clar1.abc: 1:00 vs median 1:35
+Trinsic,5 Parts,broken/5 Parts/Trinsic.abc,Trinsic__Harp3.abc: 2:27 vs median 1:35
+TwinPeaksThemev20,5 Parts,broken/5 Parts/TwinPeaksThemev20.abc,TwinPeaksThemev20__Clar1.abc: 7:33 vs median 5:50
+TwinPeaksThemev20,5 Parts,broken/5 Parts/TwinPeaksThemev20.abc,TwinPeaksThemev20__Harp3.abc: 4:53 vs median 5:50
+TwinPeaksThemev20,5 Parts,broken/5 Parts/TwinPeaksThemev20.abc,TwinPeaksThemev20__Horn4.abc: 4:57 vs median 5:50
+TwoWeeks,5 Parts,broken/5 Parts/TwoWeeks.abc,TwoWeeks__Lute4.abc: 5:43 vs median 4:10
+Underworld,5 Parts,broken/5 Parts/Underworld.abc,Underworld__Lute4.abc: 0:17 vs median 1:37
+UpontheHearththeFireIsRed,5 Parts,broken/5 Parts/UpontheHearththeFireIsRed.abc,UpontheHearththeFireIsRed__Lute4.abc: 2:07 vs median 1:42
+VelvetGreen,5 Parts,broken/5 Parts/VelvetGreen.abc,VelvetGreen__Lute4.abc: 8:06 vs median 6:50
+Vogue,5 Parts,broken/5 Parts/Vogue.abc,Vogue__Lute5.abc: 5:02 vs median 3:34
+WabashCannonball,5 Parts,broken/5 Parts/WabashCannonball.abc,WabashCannonball__Harp2.abc: 3:47 vs median 3:14
+WeAreTheChampions-Queen,5 Parts,broken/5 Parts/WeAreTheChampions-Queen.abc,WeAreTheChampions-Queen__Drums2.abc: 2:23 vs median 2:57
+WeAreTheChampions-Queen,5 Parts,broken/5 Parts/WeAreTheChampions-Queen.abc,WeAreTheChampions-Queen__Theorbo5.abc: 4:14 vs median 2:57
+WereAnAmericanBand-Band,5 Parts,broken/5 Parts/WereAnAmericanBand-Band.abc,WereAnAmericanBand-Band__Drums3.abc: 4:45 vs median 3:19
+WereAnAmericanBand-Band,5 Parts,broken/5 Parts/WereAnAmericanBand-Band.abc,WereAnAmericanBand-Band__Lute5.abc: 3:55 vs median 3:19
+WhereTheStreetsHaveNoName,5 Parts,broken/5 Parts/WhereTheStreetsHaveNoName.abc,WhereTheStreetsHaveNoName__Lute3.abc: 7:31 vs median 5:42
+WhowantstoliveforeverHillander,5 Parts,broken/5 Parts/WhowantstoliveforeverHillander.abc,WhowantstoliveforeverHillander__Horn3.abc: 8:00 vs median 5:14
+WhowantstoliveforeverHillander,5 Parts,broken/5 Parts/WhowantstoliveforeverHillander.abc,WhowantstoliveforeverHillander__Horn4.abc: 6:06 vs median 5:14
+WideOpenSea-WideOpenSea,5 Parts,broken/5 Parts/WideOpenSea-WideOpenSea.abc,WideOpenSea-WideOpenSea__Harp3.abc: 4:29 vs median 3:12
+WideOpenSea-WideOpenSea,5 Parts,broken/5 Parts/WideOpenSea-WideOpenSea.abc,WideOpenSea-WideOpenSea__Lute4.abc: 4:13 vs median 3:12
+WitchyWoman-witchy,5 Parts,broken/5 Parts/WitchyWoman-witchy.abc,WitchyWoman-witchy__Harp3.abc: 3:27 vs median 2:46
+WitchyWoman-witchy,5 Parts,broken/5 Parts/WitchyWoman-witchy.abc,WitchyWoman-witchy__Lute5.abc: 4:28 vs median 2:46
+"YoureaMeanOne,MrGrinch",5 Parts,"broken/5 Parts/YoureaMeanOne,MrGrinch.abc","YoureaMeanOne,MrGrinch__Clar1.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 79-13 : Track 0 Bar 70 has 6 time units while the time signature has 4
+Error in line-char 80-73 : note length denominator is zero or less"
+"YoureaMeanOne,MrGrinch",5 Parts,"broken/5 Parts/YoureaMeanOne,MrGrinch.abc","YoureaMeanOne,MrGrinch__Flute2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 79-12 : Track 0 Bar 70 has 6 time units while the time signature has 4
+Error in line-char 80-64 : note length denominator is zero or less"
+"YoureaMeanOne,MrGrinch",5 Parts,"broken/5 Parts/YoureaMeanOne,MrGrinch.abc","YoureaMeanOne,MrGrinch__Lute4.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 79-52 : Track 0 Bar 70 has 6 time units while the time signature has 4
+Error in line-char 80-146 : note length denominator is zero or less"
+"YoureaMeanOne,MrGrinch",5 Parts,"broken/5 Parts/YoureaMeanOne,MrGrinch.abc","YoureaMeanOne,MrGrinch__Theorbo5.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 79-17 : Track 0 Bar 70 has 6 time units while the time signature has 4
+Error in line-char 80-83 : note length denominator is zero or less"
+happychristmas,5 Parts,broken/5 Parts/happychristmas.abc,happychristmas__Clar1.abc: 1:40 vs median 2:03
+illbemissingyou,5 Parts,broken/5 Parts/illbemissingyou.abc,illbemissingyou__Lute4.abc: 12:02 vs median 5:26
+illbemissingyou,5 Parts,broken/5 Parts/illbemissingyou.abc,illbemissingyou__Theorbo5.abc: 8:12 vs median 5:26
+theCryofMankind,5 Parts,broken/5 Parts/theCryofMankind.abc,theCryofMankind__Harp3.abc: 12:10 vs median 7:32
+AERITHSTHEME-AERITHSTHEME,6 Parts,broken/6 Parts/AERITHSTHEME-AERITHSTHEME.abc,AERITHSTHEME-AERITHSTHEME__Horn4.abc: 27:39 vs median 22:36
+AERITHSTHEME-AERITHSTHEME,6 Parts,broken/6 Parts/AERITHSTHEME-AERITHSTHEME.abc,AERITHSTHEME-AERITHSTHEME__Lute6.abc: 39:48 vs median 22:36
+Adiemus,6 Parts,broken/6 Parts/Adiemus.abc,Adiemus__Horn6.abc: 5:00 vs median 4:09
+Alicehumansacrifice,6 Parts,broken/6 Parts/Alicehumansacrifice.abc,Alicehumansacrifice__Lute5.abc: 1:45 vs median 2:39
+Alicehumansacrifice,6 Parts,broken/6 Parts/Alicehumansacrifice.abc,Alicehumansacrifice__Theorbo6.abc: 1:13 vs median 2:39
+AllIHaveToDoIsDream,6 Parts,broken/6 Parts/AllIHaveToDoIsDream.abc,AllIHaveToDoIsDream__Drums1.abc: 2:29 vs median 3:00
+AllIHaveToDoIsDream,6 Parts,broken/6 Parts/AllIHaveToDoIsDream.abc,AllIHaveToDoIsDream__Harp3.abc: 3:45 vs median 3:00
+AllIHaveToDoIsDream,6 Parts,broken/6 Parts/AllIHaveToDoIsDream.abc,AllIHaveToDoIsDream__Lute5.abc: 4:00 vs median 3:00
+AllIHaveToDoIsDream,6 Parts,broken/6 Parts/AllIHaveToDoIsDream.abc,AllIHaveToDoIsDream__Theorbo6.abc: 2:31 vs median 3:00
+AlongComesMary,6 Parts,broken/6 Parts/AlongComesMary.abc,AlongComesMary__Drums2.abc: 3:54 vs median 2:56
+AngelsPunishment,6 Parts,broken/6 Parts/AngelsPunishment.abc,AngelsPunishment__Harp3.abc: 1:49 vs median 3:40
+AngelsPunishment,6 Parts,broken/6 Parts/AngelsPunishment.abc,AngelsPunishment__Harp4.abc: 1:47 vs median 3:40
+AngelsPunishment,6 Parts,broken/6 Parts/AngelsPunishment.abc,AngelsPunishment__Lute6.abc: 4:27 vs median 3:40
+Asturias,6 Parts,broken/6 Parts/Asturias.abc,Asturias__Lute2.abc: 1:40 vs median 5:37
+Batdance,6 Parts,broken/6 Parts/Batdance.abc,Batdance__Flute3.abc: 2:46 vs median 3:52
+BlackWinterDay,6 Parts,broken/6 Parts/BlackWinterDay.abc,BlackWinterDay__Harp4.abc: 2:38 vs median 3:53
+BlueGrass,6 Parts,broken/6 Parts/BlueGrass.abc,BlueGrass__Harp2.abc: 3:56 vs median 2:35
+BlueGrass,6 Parts,broken/6 Parts/BlueGrass.abc,BlueGrass__Lute4.abc: 3:14 vs median 2:35
+Brandy,6 Parts,broken/6 Parts/Brandy.abc,Brandy__Lute5.abc: 4:24 vs median 2:55
+Brandy,6 Parts,broken/6 Parts/Brandy.abc,Brandy__Theorbo6.abc: 3:34 vs median 2:55
+CallingYou,6 Parts,broken/6 Parts/CallingYou.abc,CallingYou__Lute6.abc: 5:02 vs median 3:39
+Cantina,6 Parts,broken/6 Parts/Cantina.abc,Cantina__Horn3.abc: 3:23 vs median 2:53
+Cantina,6 Parts,broken/6 Parts/Cantina.abc,Cantina__Lute4.abc: 0:26 vs median 2:53
+Cantina,6 Parts,broken/6 Parts/Cantina.abc,Cantina__Lute5.abc: 0:26 vs median 2:53
+CarolansConcerto,6 Parts,broken/6 Parts/CarolansConcerto.abc,CarolansConcerto__Harp3.abc: 1:30 vs median 4:05
+CarryOnMyWaywardSon,6 Parts,broken/6 Parts/CarryOnMyWaywardSon.abc,CarryOnMyWaywardSon__Harp4.abc: 2:52 vs median 4:51
+CarryOnMyWaywardSon,6 Parts,broken/6 Parts/CarryOnMyWaywardSon.abc,CarryOnMyWaywardSon__Lute5.abc: 5:40 vs median 4:51
+CarryOnMyWaywardSon,6 Parts,broken/6 Parts/CarryOnMyWaywardSon.abc,CarryOnMyWaywardSon__Theorbo6.abc: 5:55 vs median 4:51
+CelestialSodaPop,6 Parts,broken/6 Parts/CelestialSodaPop.abc,CelestialSodaPop__Harp3.abc: 5:08 vs median 4:19
+Classical3[UNTITLED],6 Parts,broken/6 Parts/Classical3[UNTITLED].abc,Classical3[UNTITLED]__Lute4.abc: 3:20 vs median 2:34
+Classical3[UNTITLED],6 Parts,broken/6 Parts/Classical3[UNTITLED].abc,Classical3[UNTITLED]__Lute5.abc: 3:20 vs median 2:34
+Closemyeyesforever,6 Parts,broken/6 Parts/Closemyeyesforever.abc,Closemyeyesforever__Harp4.abc: 8:57 vs median 4:33
+Closemyeyesforever,6 Parts,broken/6 Parts/Closemyeyesforever.abc,Closemyeyesforever__Lute6.abc: 3:25 vs median 4:33
+Counterpoint,6 Parts,broken/6 Parts/Counterpoint.abc,"Counterpoint__Harp3.abc: abc2midi failed: 9-78 : 3 b is not a power of 2
+Error in line-char 29-82 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-brs13ci8/part.mid
+Error in line-char 29-65 : note length denominator is zero or less"
+DancingQueen,6 Parts,broken/6 Parts/DancingQueen.abc,DancingQueen__Lute2.abc: 3:31 vs median 4:29
+DancingQueen,6 Parts,broken/6 Parts/DancingQueen.abc,DancingQueen__Lute3.abc: 6:39 vs median 4:29
+DayTripper,6 Parts,broken/6 Parts/DayTripper.abc,DayTripper__Flute1.abc: 4:47 vs median 3:24
+DayTripper,6 Parts,broken/6 Parts/DayTripper.abc,DayTripper__Theorbo4.abc: 4:27 vs median 3:24
+Dethjingle,6 Parts,broken/6 Parts/Dethjingle.abc,Dethjingle__Harp4.abc: 0:47 vs median 1:08
+DiabloTristram,6 Parts,broken/6 Parts/DiabloTristram.abc,DiabloTristram__Flute1.abc: 3:01 vs median 3:55
+DiabloTristram,6 Parts,broken/6 Parts/DiabloTristram.abc,DiabloTristram__Horn2.abc: 2:23 vs median 3:55
+DiabloTristram,6 Parts,broken/6 Parts/DiabloTristram.abc,DiabloTristram__Lute3.abc: 4:49 vs median 3:55
+DiabloTristram,6 Parts,broken/6 Parts/DiabloTristram.abc,DiabloTristram__Lute4.abc: 5:46 vs median 3:55
+DiabloTristram,6 Parts,broken/6 Parts/DiabloTristram.abc,DiabloTristram__Lute5.abc: 5:24 vs median 3:55
+DiabloTristram,6 Parts,broken/6 Parts/DiabloTristram.abc,DiabloTristram__Theorbo6.abc: 2:54 vs median 3:55
+DiaboTristram,6 Parts,broken/6 Parts/DiaboTristram.abc,DiaboTristram__Flute1.abc: 3:21 vs median 4:05
+DiaboTristram,6 Parts,broken/6 Parts/DiaboTristram.abc,DiaboTristram__Horn2.abc: 2:38 vs median 4:05
+DiaboTristram,6 Parts,broken/6 Parts/DiaboTristram.abc,DiaboTristram__Lute3.abc: 4:49 vs median 4:05
+DiaboTristram,6 Parts,broken/6 Parts/DiaboTristram.abc,DiaboTristram__Lute4.abc: 6:24 vs median 4:05
+DiaboTristram,6 Parts,broken/6 Parts/DiaboTristram.abc,DiaboTristram__Lute5.abc: 6:00 vs median 4:05
+DiaboTristram,6 Parts,broken/6 Parts/DiaboTristram.abc,DiaboTristram__Theorbo6.abc: 3:14 vs median 4:05
+EastBoundandDown,6 Parts,broken/6 Parts/EastBoundandDown.abc,EastBoundandDown__Lute3.abc: 5:59 vs median 3:55
+EastBoundandDown,6 Parts,broken/6 Parts/EastBoundandDown.abc,EastBoundandDown__Lute4.abc: 4:45 vs median 3:55
+EastBoundandDown,6 Parts,broken/6 Parts/EastBoundandDown.abc,EastBoundandDown__Theorbo6.abc: 3:16 vs median 3:55
+EastColoradoRiver,6 Parts,broken/6 Parts/EastColoradoRiver.abc,EastColoradoRiver__Lute4.abc: 2:37 vs median 1:40
+Egg-SuckingDog,6 Parts,broken/6 Parts/Egg-SuckingDog.abc,"Egg-SuckingDog__Clar2.abc: abc2midi failed: 10 time units while the time signature has 9
+Warning in line-char 34-5 : Track 0 Bar 6 has 8 time units while the time signature has 9
+Error in line-char 40-0 : note length denominator is zero or less"
+Egg-SuckingDog,6 Parts,broken/6 Parts/Egg-SuckingDog.abc,"Egg-SuckingDog__Pipes1.abc: abc2midi failed:  time units while the time signature has 9
+Warning in line-char 60-2 : Track 0 Bar 30 has 8 time units while the time signature has 9
+Error in line-char 61-12 : note length denominator is zero or less"
+EndofAllHope,6 Parts,broken/6 Parts/EndofAllHope.abc,EndofAllHope__Flute2.abc: 2:33 vs median 3:41
+EndofWorld,6 Parts,broken/6 Parts/EndofWorld.abc,EndofWorld__Clar3.abc: 1:28 vs median 1:51
+EndofWorld,6 Parts,broken/6 Parts/EndofWorld.abc,EndofWorld__Flute2.abc: 1:28 vs median 1:51
+EvenintheQuietestMoments,6 Parts,broken/6 Parts/EvenintheQuietestMoments.abc,EvenintheQuietestMoments__Harp4.abc: 17:36 vs median 7:33
+EvenintheQuietestMoments,6 Parts,broken/6 Parts/EvenintheQuietestMoments.abc,EvenintheQuietestMoments__Lute5.abc: 16:39 vs median 7:33
+EvenintheQuietestMoments,6 Parts,broken/6 Parts/EvenintheQuietestMoments.abc,EvenintheQuietestMoments__Theorbo6.abc: 5:39 vs median 7:33
+Evrywhere [TFL],6 Parts,broken/6 Parts/Evrywhere [TFL].abc,Evrywhere [TFL]__Pipes1.abc: 4:11 vs median 3:10
+FiddlersElbow,6 Parts,broken/6 Parts/FiddlersElbow.abc,FiddlersElbow__Lute5.abc: 2:12 vs median 2:42
+FinalCountdown [TFL],6 Parts,broken/6 Parts/FinalCountdown [TFL].abc,FinalCountdown [TFL]__Drums4.abc: 10:02 vs median 6:16
+FinalCountdown [TFL],6 Parts,broken/6 Parts/FinalCountdown [TFL].abc,FinalCountdown [TFL]__Horn6.abc: 4:50 vs median 6:16
+FinalCountdown [TFL],6 Parts,broken/6 Parts/FinalCountdown [TFL].abc,FinalCountdown [TFL]__Pipes1.abc: 8:14 vs median 6:16
+FlyingCircusTheme,6 Parts,broken/6 Parts/FlyingCircusTheme.abc,FlyingCircusTheme__Harp3.abc: 1:02 vs median 2:04
+FlyingCircusTheme,6 Parts,broken/6 Parts/FlyingCircusTheme.abc,FlyingCircusTheme__Horn4.abc: 2:40 vs median 2:04
+FlyingCircusTheme,6 Parts,broken/6 Parts/FlyingCircusTheme.abc,FlyingCircusTheme__Horn6.abc: 2:31 vs median 2:04
+FollowYouFollowMe,6 Parts,broken/6 Parts/FollowYouFollowMe.abc,FollowYouFollowMe__Lute5.abc: 6:40 vs median 4:03
+FollowtheNightingaleKOKIATalesofInnocenceOP,6 Parts,broken/6 Parts/FollowtheNightingaleKOKIATalesofInnocenceOP.abc,FollowtheNightingaleKOKIATalesofInnocenceOP__Flute3.abc: 6:02 vs median 4:55
+FootstompinMusic,6 Parts,broken/6 Parts/FootstompinMusic.abc,FootstompinMusic__Clar2.abc: 5:02 vs median 3:53
+FootstompinMusic,6 Parts,broken/6 Parts/FootstompinMusic.abc,FootstompinMusic__Flute4.abc: 4:40 vs median 3:53
+FootstompinMusic,6 Parts,broken/6 Parts/FootstompinMusic.abc,FootstompinMusic__Pipes1.abc: 2:32 vs median 3:53
+GabrielsOboe,6 Parts,broken/6 Parts/GabrielsOboe.abc,GabrielsOboe__Pipes1.abc: 3:57 vs median 3:17
+GabrielsOboe,6 Parts,broken/6 Parts/GabrielsOboe.abc,GabrielsOboe__Pipes6.abc: 3:57 vs median 3:17
+Gameofthronesintro,6 Parts,broken/6 Parts/Gameofthronesintro.abc,Gameofthronesintro__Harp5.abc: 2:29 vs median 1:53
+GunkanoKioku,6 Parts,broken/6 Parts/GunkanoKioku.abc,GunkanoKioku__Flute5.abc: 7:09 vs median 5:11
+GunkanoKioku,6 Parts,broken/6 Parts/GunkanoKioku.abc,GunkanoKioku__Horn6.abc: 4:21 vs median 5:11
+GunkanoKioku,6 Parts,broken/6 Parts/GunkanoKioku.abc,GunkanoKioku__Pipes1.abc: 3:32 vs median 5:11
+HappinessIsAWarmGun,6 Parts,broken/6 Parts/HappinessIsAWarmGun.abc,HappinessIsAWarmGun__Lute5.abc: 3:29 vs median 2:38
+HerMajesty,6 Parts,broken/6 Parts/HerMajesty.abc,HerMajesty__Lute5.abc: 8:29 vs median 5:39
+HighlanderGorets,6 Parts,broken/6 Parts/HighlanderGorets.abc,HighlanderGorets__Drums1.abc: 4:04 vs median 3:28
+HocusPocus,6 Parts,broken/6 Parts/HocusPocus.abc,HocusPocus__Flute3.abc: 4:51 vs median 5:45
+HocusPocus,6 Parts,broken/6 Parts/HocusPocus.abc,HocusPocus__Lute4.abc: 6:39 vs median 5:45
+IGotRhythm,6 Parts,broken/6 Parts/IGotRhythm.abc,IGotRhythm__Flute6.abc: 0:35 vs median 2:20
+IJustCantGetEnough,6 Parts,broken/6 Parts/IJustCantGetEnough.abc,IJustCantGetEnough__Theorbo1.abc: 5:17 vs median 4:09
+IWIllAlwaysLoveYou,6 Parts,broken/6 Parts/IWIllAlwaysLoveYou.abc,IWIllAlwaysLoveYou__Drums6.abc: 2:30 vs median 4:09
+IWIllAlwaysLoveYou,6 Parts,broken/6 Parts/IWIllAlwaysLoveYou.abc,IWIllAlwaysLoveYou__Flute4.abc: 2:30 vs median 4:09
+IWIllAlwaysLoveYou,6 Parts,broken/6 Parts/IWIllAlwaysLoveYou.abc,IWIllAlwaysLoveYou__Harp3.abc: 7:03 vs median 4:09
+IWIllAlwaysLoveYou,6 Parts,broken/6 Parts/IWIllAlwaysLoveYou.abc,IWIllAlwaysLoveYou__Lute2.abc: 4:53 vs median 4:09
+ImYourBoogeMan-boogie,6 Parts,broken/6 Parts/ImYourBoogeMan-boogie.abc,ImYourBoogeMan-boogie__Drums3.abc: 6:19 vs median 4:09
+ImYourBoogeMan-boogie,6 Parts,broken/6 Parts/ImYourBoogeMan-boogie.abc,ImYourBoogeMan-boogie__Lute6.abc: 4:59 vs median 4:09
+ImperialMarch,6 Parts,broken/6 Parts/ImperialMarch.abc,ImperialMarch__Lute2.abc: 3:13 vs median 3:52
+InTheGhetto,6 Parts,broken/6 Parts/InTheGhetto.abc,InTheGhetto__Harp4.abc: 6:02 vs median 2:59
+JacksLament,6 Parts,broken/6 Parts/JacksLament.abc,JacksLament__Harp4.abc: 6:01 vs median 3:16
+JacksLament,6 Parts,broken/6 Parts/JacksLament.abc,JacksLament__Lute6.abc: 6:01 vs median 3:16
+"Jupiter,ThePlanets,parts9-14of14",6 Parts,"broken/6 Parts/Jupiter,ThePlanets,parts9-14of14.abc","Jupiter,ThePlanets,parts9-14of14__Harp1.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 115-7 : Track 0 Bar 97 has 8 time units while the time signature has 4
+Error in line-char 116-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts9-14of14",6 Parts,"broken/6 Parts/Jupiter,ThePlanets,parts9-14of14.abc","Jupiter,ThePlanets,parts9-14of14__Horn2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 115-7 : Track 0 Bar 95 has 8 time units while the time signature has 4
+Error in line-char 116-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts9-14of14",6 Parts,"broken/6 Parts/Jupiter,ThePlanets,parts9-14of14.abc","Jupiter,ThePlanets,parts9-14of14__Horn3.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 123-7 : Track 0 Bar 105 has 441/-2 time units while the time signature has 4
+Error in line-char 124-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts9-14of14",6 Parts,"broken/6 Parts/Jupiter,ThePlanets,parts9-14of14.abc","Jupiter,ThePlanets,parts9-14of14__Lute4.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 115-7 : Track 0 Bar 97 has 8 time units while the time signature has 4
+Error in line-char 116-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts9-14of14",6 Parts,"broken/6 Parts/Jupiter,ThePlanets,parts9-14of14.abc","Jupiter,ThePlanets,parts9-14of14__Theorbo5.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 115-7 : Track 0 Bar 97 has 8 time units while the time signature has 4
+Error in line-char 116-4 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts9-14of14",6 Parts,"broken/6 Parts/Jupiter,ThePlanets,parts9-14of14.abc","Jupiter,ThePlanets,parts9-14of14__Theorbo6.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 123-7 : Track 0 Bar 105 has 441/-2 time units while the time signature has 4
+Error in line-char 124-4 : note length denominator is zero or less"
+KissFromARose-KissFromARose,6 Parts,broken/6 Parts/KissFromARose-KissFromARose.abc,KissFromARose-KissFromARose__Lute3.abc: 7:44 vs median 4:40
+KissFromARose-KissFromARose,6 Parts,broken/6 Parts/KissFromARose-KissFromARose.abc,KissFromARose-KissFromARose__Lute5.abc: 6:35 vs median 4:40
+LItaliano,6 Parts,broken/6 Parts/LItaliano.abc,LItaliano__Clar1.abc: 5:28 vs median 4:15
+LItaliano,6 Parts,broken/6 Parts/LItaliano.abc,LItaliano__Lute5.abc: 5:20 vs median 4:15
+Lady,6 Parts,broken/6 Parts/Lady.abc,Lady__Clar2.abc: 0:17 vs median 2:46
+Lady,6 Parts,broken/6 Parts/Lady.abc,Lady__Harp4.abc: 1:44 vs median 2:46
+Lady,6 Parts,broken/6 Parts/Lady.abc,Lady__Horn5.abc: 3:14 vs median 2:46
+LetItRide,6 Parts,broken/6 Parts/LetItRide.abc,LetItRide__Clar2.abc: 3:48 vs median 5:26
+LetItRide,6 Parts,broken/6 Parts/LetItRide.abc,LetItRide__Harp4.abc: 6:16 vs median 5:26
+LetItRide,6 Parts,broken/6 Parts/LetItRide.abc,LetItRide__Theorbo1.abc: 7:09 vs median 5:26
+Lola-Lola,6 Parts,broken/6 Parts/Lola-Lola.abc,Lola-Lola__Lute5.abc: 5:47 vs median 4:10
+Lost,6 Parts,broken/6 Parts/Lost.abc,Lost__Lute3.abc: 6:42 vs median 4:32
+Lost,6 Parts,broken/6 Parts/Lost.abc,Lost__Theorbo6.abc: 6:42 vs median 4:32
+LostintheMist,6 Parts,broken/6 Parts/LostintheMist.abc,LostintheMist__Harp4.abc: 5:20 vs median 4:18
+LostintheMist,6 Parts,broken/6 Parts/LostintheMist.abc,LostintheMist__Horn5.abc: 3:23 vs median 4:18
+MaidOfOrleansTheWalzJoanofArc,6 Parts,broken/6 Parts/MaidOfOrleansTheWalzJoanofArc.abc,MaidOfOrleansTheWalzJoanofArc__Flute5.abc: 6:59 vs median 4:13
+MaidOfOrleansTheWalzJoanofArc,6 Parts,broken/6 Parts/MaidOfOrleansTheWalzJoanofArc.abc,MaidOfOrleansTheWalzJoanofArc__Horn4.abc: 2:42 vs median 4:13
+MissionImpossible,6 Parts,broken/6 Parts/MissionImpossible.abc,MissionImpossible__Drums1.abc: 2:28 vs median 3:00
+MissionImpossible,6 Parts,broken/6 Parts/MissionImpossible.abc,MissionImpossible__Flute2.abc: 1:45 vs median 3:00
+MissionImpossible,6 Parts,broken/6 Parts/MissionImpossible.abc,MissionImpossible__Harp3.abc: 1:39 vs median 3:00
+MissionImpossible,6 Parts,broken/6 Parts/MissionImpossible.abc,MissionImpossible__Horn4.abc: 3:31 vs median 3:00
+MissionImpossible,6 Parts,broken/6 Parts/MissionImpossible.abc,MissionImpossible__Lute5.abc: 5:48 vs median 3:00
+MissionImpossible,6 Parts,broken/6 Parts/MissionImpossible.abc,MissionImpossible__Theorbo6.abc: 3:43 vs median 3:00
+MonolithofDoubt,6 Parts,broken/6 Parts/MonolithofDoubt.abc,MonolithofDoubt__Harp4.abc: 2:12 vs median 3:25
+Moondance [TFL],6 Parts,broken/6 Parts/Moondance [TFL].abc,"Moondance [TFL]__Ages4.abc: abc2midi failed: me units while the time signature has 4
+Warning in line-char 35-52 : Track 0 Bar 48 has -12 time units while the time signature has 4
+Error in line-char 67-52 : note length denominator is zero or less"
+Moondance [TFL],6 Parts,broken/6 Parts/Moondance [TFL].abc,"Moondance [TFL]__Flute3.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 35-32 : Track 0 Bar 41 has -4 time units while the time signature has 4
+Error in line-char 36-0 : note length denominator is zero or less"
+Moondance [TFL],6 Parts,broken/6 Parts/Moondance [TFL].abc,"Moondance [TFL]__Flute6.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 23-62 : Track 0 Bar 27 has -4 time units while the time signature has 4
+Error in line-char 27-19 : note length denominator is zero or less"
+Moondance [TFL],6 Parts,broken/6 Parts/Moondance [TFL].abc,"Moondance [TFL]__Harp5.abc: abc2midi failed: annot find note before tie
+Error in line-char 16-13 : Cannot find note before tie
+writing MIDI file /tmp/lotro-midi-2g9b0y8g/part.mid
+Error in line-char 18-28 : note length denominator is zero or less"
+MourningPalace,6 Parts,broken/6 Parts/MourningPalace.abc,MourningPalace__Lute6.abc: 2:46 vs median 5:13
+"NewYork,NewYork",6 Parts,"broken/6 Parts/NewYork,NewYork.abc","NewYork,NewYork__Clar4.abc: 3:16 vs median 3:54"
+"NewYork,NewYork",6 Parts,"broken/6 Parts/NewYork,NewYork.abc","NewYork,NewYork__Horn5.abc: 4:37 vs median 3:54"
+"NewYork,NewYork",6 Parts,"broken/6 Parts/NewYork,NewYork.abc","NewYork,NewYork__Theorbo1.abc: 3:10 vs median 3:54"
+Noontide,6 Parts,broken/6 Parts/Noontide.abc,Noontide__Drums5.abc: 7:00 vs median 3:51
+Oblivion,6 Parts,broken/6 Parts/Oblivion.abc,Oblivion__Ages3.abc: 9:22 vs median 6:00
+Oblivion,6 Parts,broken/6 Parts/Oblivion.abc,Oblivion__Lute5.abc: 4:48 vs median 6:00
+Oblivion,6 Parts,broken/6 Parts/Oblivion.abc,Oblivion__Lute6.abc: 4:59 vs median 6:00
+OctopusGarden,6 Parts,broken/6 Parts/OctopusGarden.abc,OctopusGarden__Lute6.abc: 6:29 vs median 2:51
+Ohio,6 Parts,broken/6 Parts/Ohio.abc,Ohio__Fiddle5.abc: 4:34 vs median 3:52
+Ohio,6 Parts,broken/6 Parts/Ohio.abc,Ohio__Harp2.abc: 5:28 vs median 3:52
+Ohio,6 Parts,broken/6 Parts/Ohio.abc,Ohio__Lute3.abc: 2:35 vs median 3:52
+Ohio,6 Parts,broken/6 Parts/Ohio.abc,Ohio__Theorbo1.abc: 2:54 vs median 3:52
+OneStepCloser [TFL],6 Parts,broken/6 Parts/OneStepCloser [TFL].abc,OneStepCloser [TFL]__Drums2.abc: 2:37 vs median 3:13
+OneStepCloser [TFL],6 Parts,broken/6 Parts/OneStepCloser [TFL].abc,OneStepCloser [TFL]__Harp4.abc: 3:53 vs median 3:13
+OneStepCloser [TFL],6 Parts,broken/6 Parts/OneStepCloser [TFL].abc,OneStepCloser [TFL]__Theorbo6.abc: 2:36 vs median 3:13
+OntheRoadAgain,6 Parts,broken/6 Parts/OntheRoadAgain.abc,OntheRoadAgain__Flute3.abc: 1:41 vs median 2:21
+OntheRoadAgain,6 Parts,broken/6 Parts/OntheRoadAgain.abc,OntheRoadAgain__Flute6.abc: 3:20 vs median 2:21
+OntheRoadAgain,6 Parts,broken/6 Parts/OntheRoadAgain.abc,OntheRoadAgain__Lute5.abc: 4:13 vs median 2:21
+OogieBoogiesSong,6 Parts,broken/6 Parts/OogieBoogiesSong.abc,OogieBoogiesSong__Lute6.abc: 2:32 vs median 3:03
+OpeningTheme,6 Parts,broken/6 Parts/OpeningTheme.abc,OpeningTheme__Drums2.abc: 5:45 vs median 4:45
+OpeningTheme,6 Parts,broken/6 Parts/OpeningTheme.abc,OpeningTheme__Lute5.abc: 6:42 vs median 4:45
+OvertheMistyMountainsCold-OvertheMistyMountainsCold,6 Parts,broken/6 Parts/OvertheMistyMountainsCold-OvertheMistyMountainsCold.abc,OvertheMistyMountainsCold-OvertheMistyMountainsCold__Clar2.abc: 2:50 vs median 2:12
+OvertheMistyMountainsCold-OvertheMistyMountainsCold,6 Parts,broken/6 Parts/OvertheMistyMountainsCold-OvertheMistyMountainsCold.abc,OvertheMistyMountainsCold-OvertheMistyMountainsCold__Flute3.abc: 1:48 vs median 2:12
+OvertheMistyMountainsCold-OvertheMistyMountainsCold,6 Parts,broken/6 Parts/OvertheMistyMountainsCold-OvertheMistyMountainsCold.abc,OvertheMistyMountainsCold-OvertheMistyMountainsCold__Horn4.abc: 2:45 vs median 2:12
+PoisionwastheCure,6 Parts,broken/6 Parts/PoisionwastheCure.abc,PoisionwastheCure__Clar4.abc: 2:14 vs median 3:10
+PrettyVegas,6 Parts,broken/6 Parts/PrettyVegas.abc,PrettyVegas__Lute5.abc: 2:58 vs median 3:32
+RaabjornSpeilerDraugheimensSkodde,6 Parts,broken/6 Parts/RaabjornSpeilerDraugheimensSkodde.abc,RaabjornSpeilerDraugheimensSkodde__Harp3.abc: 3:32 vs median 5:19
+RockandaHardPlace,6 Parts,broken/6 Parts/RockandaHardPlace.abc,RockandaHardPlace__Lute5.abc: 2:03 vs median 3:29
+STAFFROLL-STAFFROLL,6 Parts,broken/6 Parts/STAFFROLL-STAFFROLL.abc,STAFFROLL-STAFFROLL__Clar2.abc: 4:12 vs median 7:06
+SanctuaryofZitah,6 Parts,broken/6 Parts/SanctuaryofZitah.abc,"SanctuaryofZitah__Harp5.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 24-136 : Track 0 Bar 28 has 8 time units while the time signature has 4
+Error in line-char 32-66 : note length denominator is zero or less"
+ScarbouroughFair-ScarboroughFair,6 Parts,broken/6 Parts/ScarbouroughFair-ScarboroughFair.abc,ScarbouroughFair-ScarboroughFair__Flute2.abc: 1:57 vs median 2:29
+ScarbouroughFair-ScarboroughFair,6 Parts,broken/6 Parts/ScarbouroughFair-ScarboroughFair.abc,ScarbouroughFair-ScarboroughFair__Lute5.abc: 3:19 vs median 2:29
+Shinealittlelove,6 Parts,broken/6 Parts/Shinealittlelove.abc,Shinealittlelove__Pipes1.abc: 4:21 vs median 3:25
+SilentRunning,6 Parts,broken/6 Parts/SilentRunning.abc,SilentRunning__Lute5.abc: 8:02 vs median 4:54
+SoldierofFortune,6 Parts,broken/6 Parts/SoldierofFortune.abc,SoldierofFortune__Lute4.abc: 7:10 vs median 4:08
+SoldierofFortune,6 Parts,broken/6 Parts/SoldierofFortune.abc,SoldierofFortune__Lute5.abc: 7:20 vs median 4:08
+SoldierofFortune,6 Parts,broken/6 Parts/SoldierofFortune.abc,SoldierofFortune__Theorbo6.abc: 3:15 vs median 4:08
+SpiritDance,6 Parts,broken/6 Parts/SpiritDance.abc,SpiritDance__Horn4.abc: 8:26 vs median 2:48
+SpiritDance,6 Parts,broken/6 Parts/SpiritDance.abc,SpiritDance__Lute5.abc: 4:36 vs median 2:48
+StillAlivePortalTheme,6 Parts,broken/6 Parts/StillAlivePortalTheme.abc,StillAlivePortalTheme__Lute5.abc: 4:12 vs median 3:30
+"Swan,TheLeCygne",6 Parts,"broken/6 Parts/Swan,TheLeCygne.abc","Swan,TheLeCygne__Lute5.abc: abc2midi failed: e units while the time signature has 4
+Warning in line-char 23-161 : Track 0 Bar 13 has 32 time units while the time signature has 4
+Error in line-char 24-191 : note length denominator is zero or less"
+TIFASTHEME-TIFASTHEME,6 Parts,broken/6 Parts/TIFASTHEME-TIFASTHEME.abc,TIFASTHEME-TIFASTHEME__Pipes1.abc: 4:36 vs median 5:46
+TIFASTHEME-TIFASTHEME,6 Parts,broken/6 Parts/TIFASTHEME-TIFASTHEME.abc,TIFASTHEME-TIFASTHEME__Theorbo6.abc: 15:59 vs median 5:46
+TakeALookAround,6 Parts,broken/6 Parts/TakeALookAround.abc,TakeALookAround__Ages3.abc: 6:37 vs median 5:40
+TakeALookAround,6 Parts,broken/6 Parts/TakeALookAround.abc,TakeALookAround__Flute6.abc: 4:39 vs median 5:40
+TakeALookAround,6 Parts,broken/6 Parts/TakeALookAround.abc,TakeALookAround__Lute4.abc: 8:49 vs median 5:40
+TakeMyBreathAway,6 Parts,broken/6 Parts/TakeMyBreathAway.abc,TakeMyBreathAway__Ages3.abc: 5:07 vs median 4:04
+TerrasThemewithBass,6 Parts,broken/6 Parts/TerrasThemewithBass.abc,TerrasThemewithBass__Flute3.abc: 3:02 vs median 3:34
+TheImpressionIGet,6 Parts,broken/6 Parts/TheImpressionIGet.abc,TheImpressionIGet__Lute5.abc: 2:29 vs median 3:11
+TheImpressionIGet,6 Parts,broken/6 Parts/TheImpressionIGet.abc,TheImpressionIGet__Theorbo1.abc: 3:45 vs median 3:11
+"TheNutcrackerSuite,WaltzoftheFlowers",6 Parts,"broken/6 Parts/TheNutcrackerSuite,WaltzoftheFlowers.abc","TheNutcrackerSuite,WaltzoftheFlowers__Harp5.abc: 14:04 vs median 7:06"
+TheShire-TheShire,6 Parts,broken/6 Parts/TheShire-TheShire.abc,TheShire-TheShire__Theorbo6.abc: 1:34 vs median 1:57
+ThisSide-ThisSide,6 Parts,broken/6 Parts/ThisSide-ThisSide.abc,ThisSide-ThisSide__Lute5.abc: 4:18 vs median 3:16
+ThreeWillyWinkies,6 Parts,broken/6 Parts/ThreeWillyWinkies.abc,ThreeWillyWinkies__Theorbo6.abc: 1:46 vs median 1:17
+ToHolmgardandBeyond,6 Parts,broken/6 Parts/ToHolmgardandBeyond.abc,ToHolmgardandBeyond__Flute3.abc: 5:39 vs median 4:47
+ToHolmgardandBeyond,6 Parts,broken/6 Parts/ToHolmgardandBeyond.abc,ToHolmgardandBeyond__Harp4.abc: 3:59 vs median 4:47
+TouchMe,6 Parts,broken/6 Parts/TouchMe.abc,TouchMe__Cowbell2.abc: 5:46 vs median 4:06
+TouchMe,6 Parts,broken/6 Parts/TouchMe.abc,TouchMe__Horn4.abc: 2:32 vs median 4:06
+Traditional,6 Parts,broken/6 Parts/Traditional.abc,"Traditional__Clar1.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 27-38 : Track 0 Bar 2 has -45 time units while the time signature has 4
+Error in line-char 28-18 : note length denominator is zero or less"
+Traditional,6 Parts,broken/6 Parts/Traditional.abc,"Traditional__Cowbell2.abc: abc2midi failed: 49 : 14 b is not a power of 2
+Error in line-char 162-0 : 10 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-iuliab3h/part.mid
+Error in line-char 12-12 : note length denominator is zero or less"
+Traditional,6 Parts,broken/6 Parts/Traditional.abc,"Traditional__Horn4.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 19-38 : Track 0 Bar 1 has -45 time units while the time signature has 4
+Error in line-char 20-18 : note length denominator is zero or less"
+Traditional,6 Parts,broken/6 Parts/Traditional.abc,"Traditional__Lute5.abc: abc2midi failed: -90 : 14 b is not a power of 2
+Error in line-char 162-0 : 10 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-hy2odz75/part.mid
+Error in line-char 11-6 : note length denominator is zero or less"
+Trouble [TFL],6 Parts,broken/6 Parts/Trouble [TFL].abc,Trouble [TFL]__Flute2.abc: 2:41 vs median 3:32
+UpisDown,6 Parts,broken/6 Parts/UpisDown.abc,UpisDown__Harp3.abc: 2:48 vs median 3:18
+UpisDown,6 Parts,broken/6 Parts/UpisDown.abc,UpisDown__Horn4.abc: 30:35 vs median 3:18
+Valhalla,6 Parts,broken/6 Parts/Valhalla.abc,Valhalla__Lute2.abc: 6:04 vs median 4:24
+Walk,6 Parts,broken/6 Parts/Walk.abc,Walk__Horn3.abc: 5:19 vs median 2:06
+Walk,6 Parts,broken/6 Parts/Walk.abc,Walk__Theorbo1.abc: 5:21 vs median 2:06
+WhenTheGoingGetsTough,6 Parts,broken/6 Parts/WhenTheGoingGetsTough.abc,WhenTheGoingGetsTough__Pipes1.abc: 3:10 vs median 4:03
+WhenYouSayNothingAtAll,6 Parts,broken/6 Parts/WhenYouSayNothingAtAll.abc,WhenYouSayNothingAtAll__Clar1.abc: 2:56 vs median 3:35
+WhenYouSayNothingAtAll,6 Parts,broken/6 Parts/WhenYouSayNothingAtAll.abc,WhenYouSayNothingAtAll__Lute3.abc: 6:48 vs median 3:35
+WhenYouSayNothingAtAll,6 Parts,broken/6 Parts/WhenYouSayNothingAtAll.abc,WhenYouSayNothingAtAll__Lute4.abc: 7:23 vs median 3:35
+WhileMyGuitarGentlyWeaps,6 Parts,broken/6 Parts/WhileMyGuitarGentlyWeaps.abc,WhileMyGuitarGentlyWeaps__Harp3.abc: 3:28 vs median 4:32
+WhoWereYouThinkingOf,6 Parts,broken/6 Parts/WhoWereYouThinkingOf.abc,WhoWereYouThinkingOf__Lute3.abc: 3:13 vs median 2:44
+WorldHoldon,6 Parts,broken/6 Parts/WorldHoldon.abc,WorldHoldon__Lute5.abc: 5:35 vs median 3:25
+YearoftheCat,6 Parts,broken/6 Parts/YearoftheCat.abc,YearoftheCat__Flute4.abc: 10:32 vs median 7:21
+YearoftheCat,6 Parts,broken/6 Parts/YearoftheCat.abc,YearoftheCat__Flute6.abc: 9:59 vs median 7:21
+YouAreMyHidingPlace,6 Parts,broken/6 Parts/YouAreMyHidingPlace.abc,YouAreMyHidingPlace__Harp3.abc: 5:17 vs median 3:18
+YouAreMyHidingPlace,6 Parts,broken/6 Parts/YouAreMyHidingPlace.abc,YouAreMyHidingPlace__Lute5.abc: 5:58 vs median 3:18
+YouKnowImNoGood-NoGood,6 Parts,broken/6 Parts/YouKnowImNoGood-NoGood.abc,YouKnowImNoGood-NoGood__Lute6.abc: 4:25 vs median 3:38
+YoureSoVain,6 Parts,broken/6 Parts/YoureSoVain.abc,YoureSoVain__Lute4.abc: 6:29 vs median 4:55
+YoureSoVain,6 Parts,broken/6 Parts/YoureSoVain.abc,YoureSoVain__Lute5.abc: 5:59 vs median 4:55
+Zvezda,6 Parts,broken/6 Parts/Zvezda.abc,Zvezda__Harp6.abc: 4:05 vs median 3:01
+Zvezdapoimenisolnce,6 Parts,broken/6 Parts/Zvezdapoimenisolnce.abc,Zvezdapoimenisolnce__Harp6.abc: 4:05 vs median 3:01
+theButterfly,6 Parts,broken/6 Parts/theButterfly.abc,theButterfly__Harp4.abc: 1:34 vs median 3:41
+AintGotNoHome,7 Parts,broken/7 Parts/AintGotNoHome.abc,AintGotNoHome__Fiddle2.abc: 2:55 vs median 2:25
+AironaGString,7 Parts,broken/7 Parts/AironaGString.abc,AironaGString__Fiddle7.abc: 2:45 vs median 3:34
+AironaGString,7 Parts,broken/7 Parts/AironaGString.abc,AironaGString__Lute2.abc: 2:24 vs median 3:34
+AironaGString,7 Parts,broken/7 Parts/AironaGString.abc,AironaGString__Lute4.abc: 4:34 vs median 3:34
+AironaGString,7 Parts,broken/7 Parts/AironaGString.abc,AironaGString__Lute5.abc: 5:14 vs median 3:34
+AironaGString,7 Parts,broken/7 Parts/AironaGString.abc,AironaGString__Lute6.abc: 2:27 vs median 3:34
+Aquarium,7 Parts,broken/7 Parts/Aquarium.abc,"Aquarium__Clar1.abc: abc2midi failed: -221 : 9 b is not a power of 2
+Error in line-char 36-227 : 9 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-d9pma206/part.mid
+Error in line-char 9-55 : note length denominator is zero or less"
+Aquarium,7 Parts,broken/7 Parts/Aquarium.abc,"Aquarium__Clar2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 15-88 : Track 0 Bar 6 has 24 time units while the time signature has 4
+Error in line-char 16-86 : note length denominator is zero or less"
+Aquarium,7 Parts,broken/7 Parts/Aquarium.abc,"Aquarium__Flute3.abc: abc2midi failed: 6-218 : 9 b is not a power of 2
+Error in line-char 36-224 : 9 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-hwohzr__/part.mid
+Error in line-char 9-6 : note length denominator is zero or less"
+Aquarium,7 Parts,broken/7 Parts/Aquarium.abc,"Aquarium__Flute4.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 15-90 : Track 0 Bar 6 has 24 time units while the time signature has 4
+Error in line-char 16-119 : note length denominator is zero or less"
+BadMoonRising,7 Parts,broken/7 Parts/BadMoonRising.abc,BadMoonRising__Ages5.abc: 2:26 vs median 3:01
+BadMoonRising,7 Parts,broken/7 Parts/BadMoonRising.abc,BadMoonRising__Clar1.abc: 2:13 vs median 3:01
+BadMoonRising,7 Parts,broken/7 Parts/BadMoonRising.abc,BadMoonRising__Flute7.abc: 2:08 vs median 3:01
+BadMoonRising,7 Parts,broken/7 Parts/BadMoonRising.abc,BadMoonRising__Lute2.abc: 3:59 vs median 3:01
+BucaneersDen,7 Parts,broken/7 Parts/BucaneersDen.abc,BucaneersDen__Clar1.abc: 1:00 vs median 1:26
+BuildMeUpButtercup,7 Parts,broken/7 Parts/BuildMeUpButtercup.abc,BuildMeUpButtercup__Lute2.abc: 4:24 vs median 3:17
+CaballoViejo,7 Parts,broken/7 Parts/CaballoViejo.abc,CaballoViejo__Lute4.abc: 3:29 vs median 4:43
+CliffsofDover,7 Parts,broken/7 Parts/CliffsofDover.abc,CliffsofDover__Ages3.abc: 5:25 vs median 3:41
+CliffsofDover,7 Parts,broken/7 Parts/CliffsofDover.abc,CliffsofDover__Theorbo1.abc: 4:17 vs median 3:41
+CrazyTrain,7 Parts,broken/7 Parts/CrazyTrain.abc,CrazyTrain__Lute7.abc: 6:11 vs median 4:46
+Dreams,7 Parts,broken/7 Parts/Dreams.abc,Dreams__Lute4.abc: 6:34 vs median 3:39
+Dreams,7 Parts,broken/7 Parts/Dreams.abc,Dreams__Lute5.abc: 5:42 vs median 3:39
+Dreams,7 Parts,broken/7 Parts/Dreams.abc,Dreams__Lute6.abc: 6:34 vs median 3:39
+Fireflies,7 Parts,broken/7 Parts/Fireflies.abc,Fireflies__Lute6.abc: 2:34 vs median 3:17
+ForWhatItsWorth,7 Parts,broken/7 Parts/ForWhatItsWorth.abc,ForWhatItsWorth__Clar3.abc: 3:18 vs median 2:43
+ForWhatItsWorth,7 Parts,broken/7 Parts/ForWhatItsWorth.abc,ForWhatItsWorth__Harp4.abc: 5:15 vs median 2:43
+Halo,7 Parts,broken/7 Parts/Halo.abc,Halo__Drums1.abc: 3:45 vs median 6:58
+Halo,7 Parts,broken/7 Parts/Halo.abc,Halo__Flute2.abc: 5:14 vs median 6:58
+Halo,7 Parts,broken/7 Parts/Halo.abc,Halo__Horn3.abc: 9:25 vs median 6:58
+Halo,7 Parts,broken/7 Parts/Halo.abc,Halo__Lute6.abc: 8:54 vs median 6:58
+Halo,7 Parts,broken/7 Parts/Halo.abc,Halo__Lute7.abc: 9:15 vs median 6:58
+HouseofFun,7 Parts,broken/7 Parts/HouseofFun.abc,HouseofFun__Clar3.abc: 2:17 vs median 3:04
+ImYourBoogieman,7 Parts,broken/7 Parts/ImYourBoogieman.abc,ImYourBoogieman__Drums3.abc: 6:19 vs median 4:17
+ImYourBoogieman,7 Parts,broken/7 Parts/ImYourBoogieman.abc,ImYourBoogieman__Lute7.abc: 4:59 vs median 4:17
+LifeOnMars,7 Parts,broken/7 Parts/LifeOnMars.abc,LifeOnMars__Lute6.abc: 4:21 vs median 3:18
+LivingInThePast,7 Parts,broken/7 Parts/LivingInThePast.abc,LivingInThePast__Drums2.abc: 7:21 vs median 3:19
+MamaSaid,7 Parts,broken/7 Parts/MamaSaid.abc,MamaSaid__Ages4.abc: 8:46 vs median 4:53
+MamaSaid,7 Parts,broken/7 Parts/MamaSaid.abc,MamaSaid__Lute5.abc: 6:43 vs median 4:53
+MidnightRider,7 Parts,broken/7 Parts/MidnightRider.abc,MidnightRider__Lute6.abc: 4:28 vs median 3:04
+OceansWillPart,7 Parts,broken/7 Parts/OceansWillPart.abc,"OceansWillPart__Pipes1.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 62-86 : Track 0 Bar 54 has 8 time units while the time signature has 4
+Error in line-char 63-80 : note length denominator is zero or less"
+Ronfaure-Ronfaure,7 Parts,broken/7 Parts/Ronfaure-Ronfaure.abc,Ronfaure-Ronfaure__Lute6.abc: 10:45 vs median 5:35
+Savior,7 Parts,broken/7 Parts/Savior.abc,Savior__Fiddle5.abc: 4:55 vs median 3:56
+ScarboroghFair,7 Parts,broken/7 Parts/ScarboroghFair.abc,ScarboroghFair__Horn5.abc: 1:57 vs median 2:28
+ScarboroghFair,7 Parts,broken/7 Parts/ScarboroghFair.abc,ScarboroghFair__Lute7.abc: 3:19 vs median 2:28
+SillyLoveSongs,7 Parts,broken/7 Parts/SillyLoveSongs.abc,SillyLoveSongs__Harp4.abc: 9:09 vs median 4:37
+SillyLoveSongs,7 Parts,broken/7 Parts/SillyLoveSongs.abc,SillyLoveSongs__Lute6.abc: 9:09 vs median 4:37
+Skazanienavsevremena,7 Parts,broken/7 Parts/Skazanienavsevremena.abc,Skazanienavsevremena__Drums2.abc: 8:47 vs median 13:27
+Skazanienavsevremena,7 Parts,broken/7 Parts/Skazanienavsevremena.abc,Skazanienavsevremena__Lute6.abc: 15:31 vs median 13:27
+SouthernMan,7 Parts,broken/7 Parts/SouthernMan.abc,SouthernMan__Drums2.abc: 2:35 vs median 3:31
+SouthernMan,7 Parts,broken/7 Parts/SouthernMan.abc,SouthernMan__Horn4.abc: 1:19 vs median 3:31
+SouthernMan,7 Parts,broken/7 Parts/SouthernMan.abc,SouthernMan__Lute6.abc: 7:33 vs median 3:31
+SouthernMan,7 Parts,broken/7 Parts/SouthernMan.abc,SouthernMan__Lute7.abc: 4:09 vs median 3:31
+SouthernMan,7 Parts,broken/7 Parts/SouthernMan.abc,SouthernMan__Theorbo1.abc: 2:40 vs median 3:31
+StairwaytoHeavenLive,7 Parts,broken/7 Parts/StairwaytoHeavenLive.abc,StairwaytoHeavenLive__Drums2.abc: 9:59 vs median 12:59
+StairwaytoHeavenLive,7 Parts,broken/7 Parts/StairwaytoHeavenLive.abc,StairwaytoHeavenLive__Flute7.abc: 9:37 vs median 12:59
+StairwaytoHeavenLive,7 Parts,broken/7 Parts/StairwaytoHeavenLive.abc,StairwaytoHeavenLive__Harp6.abc: 10:26 vs median 12:59
+StickerBrushSymphony,7 Parts,broken/7 Parts/StickerBrushSymphony.abc,StickerBrushSymphony__Clar1.abc: 6:34 vs median 2:42
+StickerBrushSymphony,7 Parts,broken/7 Parts/StickerBrushSymphony.abc,StickerBrushSymphony__Clar4.abc: 2:14 vs median 2:42
+StickerBrushSymphony,7 Parts,broken/7 Parts/StickerBrushSymphony.abc,StickerBrushSymphony__Drums5.abc: 2:09 vs median 2:42
+StickerBrushSymphony,7 Parts,broken/7 Parts/StickerBrushSymphony.abc,StickerBrushSymphony__Horn2.abc: 5:06 vs median 2:42
+StickerBrushSymphony,7 Parts,broken/7 Parts/StickerBrushSymphony.abc,StickerBrushSymphony__Lute3.abc: 6:43 vs median 2:42
+StreetSpirit,7 Parts,broken/7 Parts/StreetSpirit.abc,StreetSpirit__Lute6.abc: 7:07 vs median 4:07
+Telephone,7 Parts,broken/7 Parts/Telephone.abc,Telephone__Flute2.abc: 5:05 vs median 3:37
+Telephone,7 Parts,broken/7 Parts/Telephone.abc,Telephone__Harp1.abc: 4:20 vs median 3:37
+TheCelts,7 Parts,broken/7 Parts/TheCelts.abc,TheCelts__Lute6.abc: 6:58 vs median 2:45
+TheCosmicWheel,7 Parts,broken/7 Parts/TheCosmicWheel.abc,TheCosmicWheel__Ages3.abc: 14:03 vs median 3:35
+TheCosmicWheel,7 Parts,broken/7 Parts/TheCosmicWheel.abc,TheCosmicWheel__Flute2.abc: 2:55 vs median 3:35
+TheCosmicWheel,7 Parts,broken/7 Parts/TheCosmicWheel.abc,TheCosmicWheel__Harp4.abc: 2:49 vs median 3:35
+TheNoose,7 Parts,broken/7 Parts/TheNoose.abc,TheNoose__Drums2.abc: 5:22 vs median 4:35
+TheNoose,7 Parts,broken/7 Parts/TheNoose.abc,TheNoose__Harp4.abc: 5:40 vs median 4:35
+"TheNutcrackerSuite,ArabianDance",7 Parts,"broken/7 Parts/TheNutcrackerSuite,ArabianDance.abc","TheNutcrackerSuite,ArabianDance__Flute4.abc: 2:34 vs median 3:03"
+"TheNutcrackerSuite,DanceoftheReedFlutes",7 Parts,"broken/7 Parts/TheNutcrackerSuite,DanceoftheReedFlutes.abc","TheNutcrackerSuite,DanceoftheReedFlutes__Clar2.abc: 1:55 vs median 2:29"
+TheReason,7 Parts,broken/7 Parts/TheReason.abc,TheReason__Lute6.abc: 5:06 vs median 3:51
+TheReckoningDontTreadOnMe,7 Parts,broken/7 Parts/TheReckoningDontTreadOnMe.abc,TheReckoningDontTreadOnMe__Lute4.abc: 8:43 vs median 4:37
+Wanderlust,7 Parts,broken/7 Parts/Wanderlust.abc,Wanderlust__Fiddle6.abc: 2:50 vs median 4:25
+Wanderlust,7 Parts,broken/7 Parts/Wanderlust.abc,Wanderlust__Harp5.abc: 1:29 vs median 4:25
+WhyCantThisBeLove,7 Parts,broken/7 Parts/WhyCantThisBeLove.abc,WhyCantThisBeLove__Fiddle6.abc: 5:23 vs median 3:48
+WhyCantThisBeLove,7 Parts,broken/7 Parts/WhyCantThisBeLove.abc,WhyCantThisBeLove__Flute7.abc: 4:42 vs median 3:48
+WhyCantThisBeLove,7 Parts,broken/7 Parts/WhyCantThisBeLove.abc,WhyCantThisBeLove__Lute5.abc: 5:50 vs median 3:48
+superstar [DIF],7 Parts,broken/7 Parts/superstar [DIF].abc,superstar [DIF]__Clar2.abc: 4:47 vs median 4:05
+superstar [DIF],7 Parts,broken/7 Parts/superstar [DIF].abc,superstar [DIF]__Harp4.abc: 5:21 vs median 4:05
+AcrosstheUniverse,8 Parts,broken/8 Parts/AcrosstheUniverse.abc,AcrosstheUniverse__Drums2.abc: 4:47 vs median 4:08
+AcrosstheUniverse,8 Parts,broken/8 Parts/AcrosstheUniverse.abc,AcrosstheUniverse__Horn5.abc: 4:55 vs median 4:08
+Bad,8 Parts,broken/8 Parts/Bad.abc,Bad__Flute5.abc: 2:10 vs median 6:27
+Bad,8 Parts,broken/8 Parts/Bad.abc,Bad__Lute7.abc: 4:46 vs median 6:27
+Bad,8 Parts,broken/8 Parts/Bad.abc,Bad__Theorbo2.abc: 2:12 vs median 6:27
+Beth-kiss,8 Parts,broken/8 Parts/Beth-kiss.abc,Beth-kiss__Horn5.abc: 3:15 vs median 3:57
+Beth-kiss,8 Parts,broken/8 Parts/Beth-kiss.abc,Beth-kiss__Lute6.abc: 5:11 vs median 3:57
+Beth-kiss,8 Parts,broken/8 Parts/Beth-kiss.abc,Beth-kiss__Theorbo8.abc: 3:10 vs median 3:57
+ChillEasternWinds,8 Parts,broken/8 Parts/ChillEasternWinds.abc,"ChillEasternWinds__Pipes1.abc: abc2midi failed: 41-3 : 3 b is not a power of 2
+Error in line-char 141-12 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-bxvtdbaj/part.mid
+Error in line-char 9-13 : note length denominator is zero or less"
+ConcertodeAranjuez,8 Parts,broken/8 Parts/ConcertodeAranjuez.abc,ConcertodeAranjuez__Cowbell2.abc: 12:24 vs median 5:03
+ConcertodeAranjuez,8 Parts,broken/8 Parts/ConcertodeAranjuez.abc,ConcertodeAranjuez__Harp5.abc: 7:16 vs median 5:03
+DontLookBackinAngerV2,8 Parts,broken/8 Parts/DontLookBackinAngerV2.abc,DontLookBackinAngerV2__Ages3.abc: 6:53 vs median 4:51
+DontLookBackinAngerV2,8 Parts,broken/8 Parts/DontLookBackinAngerV2.abc,DontLookBackinAngerV2__Harp5.abc: 6:39 vs median 4:51
+Fernando,8 Parts,broken/8 Parts/Fernando.abc,Fernando__Harp2.abc: 7:40 vs median 4:21
+Fernando,8 Parts,broken/8 Parts/Fernando.abc,Fernando__Harp7.abc: 2:56 vs median 4:21
+Fernando,8 Parts,broken/8 Parts/Fernando.abc,Fernando__Lute3.abc: 5:51 vs median 4:21
+Fernando,8 Parts,broken/8 Parts/Fernando.abc,Fernando__Lute8.abc: 7:22 vs median 4:21
+GarotadeIpanema,8 Parts,broken/8 Parts/GarotadeIpanema.abc,GarotadeIpanema__Ages5.abc: 4:49 vs median 3:35
+GarotadeIpanema,8 Parts,broken/8 Parts/GarotadeIpanema.abc,GarotadeIpanema__Clar1.abc: 5:51 vs median 3:35
+GarotadeIpanema,8 Parts,broken/8 Parts/GarotadeIpanema.abc,GarotadeIpanema__Drums2.abc: 2:54 vs median 3:35
+GarotadeIpanema,8 Parts,broken/8 Parts/GarotadeIpanema.abc,GarotadeIpanema__Flute3.abc: 3:00 vs median 3:35
+GarotadeIpanema,8 Parts,broken/8 Parts/GarotadeIpanema.abc,GarotadeIpanema__Theorbo7.abc: 2:54 vs median 3:35
+GarotadeIpanema,8 Parts,broken/8 Parts/GarotadeIpanema.abc,GarotadeIpanema__Theorbo8.abc: 5:53 vs median 3:35
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Clar2.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 115-66 : Track 0 Bar 96 has 8 time units while the time signature has 4
+Error in line-char 116-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Clar3.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 123-7 : Track 0 Bar 102 has 441/-2 time units while the time signature has 4
+Error in line-char 124-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Clar4.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 115-53 : Track 0 Bar 97 has 8 time units while the time signature has 4
+Error in line-char 116-5 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Drums5.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 123-7 : Track 0 Bar 105 has 441/-2 time units while the time signature has 4
+Error in line-char 124-4 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Flute6.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 131-7 : Track 0 Bar 112 has 441/-2 time units while the time signature has 4
+Error in line-char 132-6 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Flute7.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 131-7 : Track 0 Bar 110 has 441/-2 time units while the time signature has 4
+Error in line-char 132-6 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Flute8.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 131-7 : Track 0 Bar 112 has 441/-2 time units while the time signature has 4
+Error in line-char 132-6 : note length denominator is zero or less"
+"Jupiter,ThePlanets,parts1-8of14",8 Parts,"broken/8 Parts/Jupiter,ThePlanets,parts1-8of14.abc","Jupiter,ThePlanets,parts1-8of14__Pipes1.abc: abc2midi failed: nits while the time signature has 4
+Warning in line-char 131-7 : Track 0 Bar 113 has 441/-2 time units while the time signature has 4
+Error in line-char 132-6 : note length denominator is zero or less"
+Kanashimiwoyasashisani,8 Parts,broken/8 Parts/Kanashimiwoyasashisani.abc,Kanashimiwoyasashisani__Harp3.abc: 4:42 vs median 3:58
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Clar2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 16-2 : Track 0 Bar 7 has 9/2 time units while the time signature has 4
+Error in line-char 51-32 : note length denominator is zero or less"
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Flute3.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 48-12 : Track 0 Bar 38 has 3 time units while the time signature has 4
+Error in line-char 51-16 : note length denominator is zero or less"
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Flute4.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 61-51 : Track 0 Bar 50 has -2 time units while the time signature has 4
+Error in line-char 62-5 : note length denominator is zero or less"
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Harp5.abc: abc2midi failed: me units while the time signature has 4
+Warning in line-char 33-65 : Track 0 Bar 24 has 15/2 time units while the time signature has 4
+Error in line-char 34-0 : note length denominator is zero or less"
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Horn6.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 46-28 : Track 0 Bar 36 has 2 time units while the time signature has 4
+Error in line-char 51-35 : note length denominator is zero or less"
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Horn7.abc: abc2midi failed:  time units while the time signature has 4
+Warning in line-char 45-4 : Track 0 Bar 32 has 8 time units while the time signature has 4
+Error in line-char 51-16 : note length denominator is zero or less"
+"MemorodelaStono,Parts1-8of9",8 Parts,"broken/8 Parts/MemorodelaStono,Parts1-8of9.abc","MemorodelaStono,Parts1-8of9__Theorbo8.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 34-32 : Track 0 Bar 25 has 8 time units while the time signature has 4
+Error in line-char 51-25 : note length denominator is zero or less"
+Money,8 Parts,broken/8 Parts/Money.abc,Money__Theorbo1.abc: 3:08 vs median 3:42
+MrsRobinson [TFL],8 Parts,broken/8 Parts/MrsRobinson [TFL].abc,MrsRobinson [TFL]__Lute4.abc: 10:06 vs median 2:38
+MrsRobinson [TFL],8 Parts,broken/8 Parts/MrsRobinson [TFL].abc,MrsRobinson [TFL]__Lute7.abc: 3:33 vs median 2:38
+Pussy,8 Parts,broken/8 Parts/Pussy.abc,Pussy__Horn4.abc: 2:15 vs median 3:55
+Snuff,8 Parts,broken/8 Parts/Snuff.abc,Snuff__Harp4.abc: 6:17 vs median 4:53
+Snuff,8 Parts,broken/8 Parts/Snuff.abc,Snuff__Lute6.abc: 5:51 vs median 4:53
+Snuff,8 Parts,broken/8 Parts/Snuff.abc,Snuff__Theorbo7.abc: 6:18 vs median 4:53
+Snuff,8 Parts,broken/8 Parts/Snuff.abc,Snuff__Theorbo8.abc: 4:08 vs median 4:53
+SpinningWheel,8 Parts,broken/8 Parts/SpinningWheel.abc,SpinningWheel__Cowbell2.abc: 0:23 vs median 4:04
+SpinningWheel,8 Parts,broken/8 Parts/SpinningWheel.abc,SpinningWheel__Lute6.abc: 2:54 vs median 4:04
+SpinningWheel,8 Parts,broken/8 Parts/SpinningWheel.abc,SpinningWheel__Pipes7.abc: 7:32 vs median 4:04
+TheBadTouchDiscoveryChannel,8 Parts,broken/8 Parts/TheBadTouchDiscoveryChannel.abc,TheBadTouchDiscoveryChannel__Drums2.abc: 4:53 vs median 3:59
+"TheseDreams,Parts1-8of9",8 Parts,"broken/8 Parts/TheseDreams,Parts1-8of9.abc","TheseDreams,Parts1-8of9__Clar2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 22-44 : Track 0 Bar 13 has 1 time units while the time signature has 4
+Error in line-char 23-24 : note length denominator is zero or less"
+WakeUp,8 Parts,broken/8 Parts/WakeUp.abc,WakeUp__Drums3.abc: 7:39 vs median 2:52
+WakeUp,8 Parts,broken/8 Parts/WakeUp.abc,WakeUp__Lute7.abc: 6:42 vs median 2:52
+WeAreAllMadeOfStars,8 Parts,broken/8 Parts/WeAreAllMadeOfStars.abc,WeAreAllMadeOfStars__Lute8.abc: 4:30 vs median 3:41
+WildHeartedSon,8 Parts,broken/8 Parts/WildHeartedSon.abc,WildHeartedSon__Ages4.abc: 6:37 vs median 4:48
+WildHeartedSon,8 Parts,broken/8 Parts/WildHeartedSon.abc,WildHeartedSon__Clar7.abc: 6:27 vs median 4:48
+WildHeartedSon,8 Parts,broken/8 Parts/WildHeartedSon.abc,WildHeartedSon__Lute8.abc: 6:42 vs median 4:48
+Wipeout,8 Parts,broken/8 Parts/Wipeout.abc,Wipeout__Clar5.abc: 3:27 vs median 2:53
+ComfortablyNumb,9 Parts,broken/9 Parts/ComfortablyNumb.abc,ComfortablyNumb__Flute6.abc: 4:25 vs median 5:52
+ComfortablyNumb,9 Parts,broken/9 Parts/ComfortablyNumb.abc,ComfortablyNumb__Flute9.abc: 12:03 vs median 5:52
+ComfortablyNumb,9 Parts,broken/9 Parts/ComfortablyNumb.abc,ComfortablyNumb__Harp3.abc: 10:37 vs median 5:52
+ComfortablyNumb,9 Parts,broken/9 Parts/ComfortablyNumb.abc,ComfortablyNumb__Horn4.abc: 4:46 vs median 5:52
+ComfortablyNumb,9 Parts,broken/9 Parts/ComfortablyNumb.abc,ComfortablyNumb__Lute5.abc: 9:50 vs median 5:52
+DontLookBackinAnger,9 Parts,broken/9 Parts/DontLookBackinAnger.abc,DontLookBackinAnger__Ages3.abc: 6:53 vs median 4:56
+DontLookBackinAnger,9 Parts,broken/9 Parts/DontLookBackinAnger.abc,DontLookBackinAnger__Harp6.abc: 6:39 vs median 4:56
+DontLookBackinAnger,9 Parts,broken/9 Parts/DontLookBackinAnger.abc,DontLookBackinAnger__Lute5.abc: 7:51 vs median 4:56
+Hysteria,9 Parts,broken/9 Parts/Hysteria.abc,Hysteria__Ages4.abc: 8:18 vs median 5:13
+Hysteria,9 Parts,broken/9 Parts/Hysteria.abc,Hysteria__Drums2.abc: 3:46 vs median 5:13
+Hysteria,9 Parts,broken/9 Parts/Hysteria.abc,Hysteria__Flute9.abc: 3:36 vs median 5:13
+Hysteria,9 Parts,broken/9 Parts/Hysteria.abc,Hysteria__Lute5.abc: 3:47 vs median 5:13
+Hysteria,9 Parts,broken/9 Parts/Hysteria.abc,Hysteria__Lute6.abc: 9:00 vs median 5:13
+Hysteria,9 Parts,broken/9 Parts/Hysteria.abc,Hysteria__Theorbo7.abc: 3:45 vs median 5:13
+JustADream,9 Parts,broken/9 Parts/JustADream.abc,JustADream__Clar2.abc: 1:39 vs median 2:01
+JustADream,9 Parts,broken/9 Parts/JustADream.abc,JustADream__Drums3.abc: 3:52 vs median 2:01
+JustADream,9 Parts,broken/9 Parts/JustADream.abc,JustADream__Fiddle6.abc: 3:26 vs median 2:01
+JustADream,9 Parts,broken/9 Parts/JustADream.abc,JustADream__Flute4.abc: 1:39 vs median 2:01
+JustADream,9 Parts,broken/9 Parts/JustADream.abc,JustADream__Harp5.abc: 7:18 vs median 2:01
+JustADream,9 Parts,broken/9 Parts/JustADream.abc,JustADream__Pipes1.abc: 1:16 vs median 2:01
+WeAreFamily,9 Parts,broken/9 Parts/WeAreFamily.abc,WeAreFamily__Lute6.abc: 6:45 vs median 5:48
+WeAreFamily,9 Parts,broken/9 Parts/WeAreFamily.abc,WeAreFamily__Lute7.abc: 7:39 vs median 5:48
+WeAreFamily,9 Parts,broken/9 Parts/WeAreFamily.abc,WeAreFamily__Lute9.abc: 7:01 vs median 5:48
+WithOrWithoutYou [TFL],9 Parts,broken/9 Parts/WithOrWithoutYou [TFL].abc,WithOrWithoutYou [TFL]__Lute6.abc: 6:55 vs median 5:05
+WithOrWithoutYou [TFL],9 Parts,broken/9 Parts/WithOrWithoutYou [TFL].abc,WithOrWithoutYou [TFL]__Lute7.abc: 3:51 vs median 5:05
+WithOrWithoutYou [TFL],9 Parts,broken/9 Parts/WithOrWithoutYou [TFL].abc,WithOrWithoutYou [TFL]__Theorbo9.abc: 3:51 vs median 5:05
+AirandVariationfromSuiteNo5-Lute,1 Part,broken/1 Part/AirandVariationfromSuiteNo5-Lute.abc,"AirandVariationfromSuiteNo5-Lute.abc: abc2midi failed: 3-211 : 3 b is not a power of 2
+Error in line-char 53-215 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-nmdwl8z2/part.mid
+Error in line-char 9-5 : note length denominator is zero or less"
+ClosingTime-Solo,1 Part,broken/1 Part/ClosingTime-Solo.abc,"ClosingTime-Solo.abc: abc2midi failed: ime units while the time signature has 4
+Warning in line-char 53-73 : Track 0 Bar 71 has -8 time units while the time signature has 4
+Error in line-char 54-14 : note length denominator is zero or less"
+ErlindalesTheme-Strings,1 Part,broken/1 Part/ErlindalesTheme-Strings.abc,"ErlindalesTheme-Strings.abc: abc2midi failed:  38-23 : 6 b is not a power of 2
+Error in line-char 38-28 : 6 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-_dlqshle/part.mid
+Error in line-char 7-0 : note length denominator is zero or less"
+"GrandToreadorMarch-Toreador,solo",1 Part,"broken/1 Part/GrandToreadorMarch-Toreador,solo.abc","GrandToreadorMarch-Toreador,solo.abc: abc2midi failed:  units while the time signature has 4
+Warning in line-char 10-131 : Track 0 Bar 4 has 33/8 time units while the time signature has 4
+Error in line-char 10-146 : note length denominator is zero or less"
+"Habanera,fromCarmen-Habanera,solo",1 Part,"broken/1 Part/Habanera,fromCarmen-Habanera,solo.abc","Habanera,fromCarmen-Habanera,solo.abc: abc2midi failed: 2 time units while the time signature has 2
+Warning in line-char 9-56 : Track 0 Bar 1 has -2 time units while the time signature has 2
+Error in line-char 9-57 : note length denominator is zero or less"
+"MemorodelaStono,part9of9-Bagpipes2",1 Part,"broken/1 Part/MemorodelaStono,part9of9-Bagpipes2.abc","MemorodelaStono,part9of9-Bagpipes2.abc: abc2midi failed: time units while the time signature has 4
+Warning in line-char 34-36 : Track 0 Bar 24 has 8 time units while the time signature has 4
+Error in line-char 51-38 : note length denominator is zero or less"
+SongofStormssolo-Harp,1 Part,broken/1 Part/SongofStormssolo-Harp.abc,SongofStormssolo-Harp.abc: not a single-tune ABC (or missing T:/K:)
+SuperMarioBros-Death-Solo,1 Part,broken/1 Part/SuperMarioBros-Death-Solo.abc,"SuperMarioBros-Death-Solo.abc: abc2midi failed: ar 9-82 : 3 b is not a power of 2
+Error in line-char 9-86 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-s7l943kl/part.mid
+Error in line-char 9-0 : note length denominator is zero or less"
+SutekiDaNe-SutekiDaNe,1 Part,broken/1 Part/SutekiDaNe-SutekiDaNe.abc,"SutekiDaNe-SutekiDaNe.abc: abc2midi failed: 31-32 : 5 b is not a power of 2
+Error in line-char 31-37 : 5 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-pumnbww9/part.mid
+Error in line-char 10-7 : note length denominator is zero or less"
+SutekidaNepartial-Solo,1 Part,broken/1 Part/SutekidaNepartial-Solo.abc,"SutekidaNepartial-Solo.abc: abc2midi failed:  30-32 : 5 b is not a power of 2
+Error in line-char 30-37 : 5 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-kl71557k/part.mid
+Error in line-char 9-7 : note length denominator is zero or less"
+SymphonyNo6-SymphonyNo6solo,1 Part,broken/1 Part/SymphonyNo6-SymphonyNo6solo.abc,"SymphonyNo6-SymphonyNo6solo.abc: abc2midi failed:  units while the time signature has 2
+Warning in line-char 19-138 : Track 0 Bar 136 has -6 time units while the time signature has 2
+Error in line-char 24-157 : note length denominator is zero or less"
+TheTrees-Rush-TheTrees,1 Part,broken/1 Part/TheTrees-Rush-TheTrees.abc,"TheTrees-Rush-TheTrees.abc: abc2midi failed: ^A,21/8F7/4^A7/4d7/8] d7/8 ^A7/8
+Warning in line-char 33-0 : Ignoring text: [F,21/8C7/4F7/4=A7/8] A7/8 F7/8 [G,41/8D41/8G41/8^A41/8] 
+Error in line-char 34-0 : No valid K: field found at start of tune"
+VictoryFanfare-VictoryFanfareFinalFantasy7,1 Part,broken/1 Part/VictoryFanfare-VictoryFanfareFinalFantasy7.abc,"VictoryFanfare-VictoryFanfareFinalFantasy7.abc: abc2midi failed: r 23-5 : 3 b is not a power of 2
+Error in line-char 23-54 : 3 b is not a power of 2
+writing MIDI file /tmp/lotro-midi-8dv_datd/part.mid
+Error in line-char 8-0 : note length denominator is zero or less"
+ZorbatheGreek-Sirtaki-ZorbatheGreek-Sirtaki,1 Part,broken/1 Part/ZorbatheGreek-Sirtaki-ZorbatheGreek-Sirtaki.abc,"ZorbatheGreek-Sirtaki-ZorbatheGreek-Sirtaki.abc: abc2midi failed:  time units while the time signature has 2
+Warning in line-char 12-88 : Track 0 Bar 2 has 6 time units while the time signature has 2
+Error in line-char 14-67 : note length denominator is zero or less"
+amazingGrace-solo,1 Part,broken/1 Part/amazingGrace-solo.abc,"amazingGrace-solo.abc: abc2midi failed: g MIDI file /tmp/lotro-midi-qnb4d3ch/part.mid
+Warning in line-char 8-9 : Track 0 Bar 2 has 1 time units while the time signature has 3
+Error in line-char 8-18 : note length denominator is zero or less"
+030,1 Part,broken/1 Part/AC/DC.abc,030_0.abc: not a single-tune ABC (or missing T:/K:)
+005,3 Parts,broken/3 Parts/Bardsong [005].abc,005_2.abc: 3:18 vs median 2:40
+019,3 Parts,broken/3 Parts/Lothlorien.abc,019_1.abc: not a single-tune ABC (or missing T:/K:)
+032,3 Parts,broken/3 Parts/Bardsong [032].abc,032_1.abc: 3:18 vs median 2:40
+010,4 Parts,broken/4 Parts/Tainted.abc,"010_0.abc: abc2midi failed: 4.88 February 22 2024 abc2midi
+voice mapping:
+  1   
+Error in line-char 2-0 : No valid K: field found at start of tune"
+010,4 Parts,broken/4 Parts/Tainted.abc,"010_1.abc: abc2midi failed: 4.88 February 22 2024 abc2midi
+voice mapping:
+  1   
+Error in line-char 2-0 : No valid K: field found at start of tune"
+010,4 Parts,broken/4 Parts/Tainted.abc,"010_2.abc: abc2midi failed: 4.88 February 22 2024 abc2midi
+voice mapping:
+  1   
+Error in line-char 2-0 : No valid K: field found at start of tune"
+010,4 Parts,broken/4 Parts/Tainted.abc,"010_3.abc: abc2midi failed: 4.88 February 22 2024 abc2midi
+voice mapping:
+  1   
+Error in line-char 2-0 : No valid K: field found at start of tune"
+011,4 Parts,broken/4 Parts/The River.abc,011_0.abc: 4:13 vs median 5:02
+011,4 Parts,broken/4 Parts/The River.abc,011_1.abc: 10:47 vs median 5:02
+020,4 Parts,broken/4 Parts/Rohan.abc,020_2.abc: 0:00 vs median 3:28
+018,6 Parts,broken/6 Parts/Discover.abc,018_0.abc: 3:02 vs median 4:12
+018,6 Parts,broken/6 Parts/Discover.abc,018_3.abc: 6:29 vs median 4:12
+018,6 Parts,broken/6 Parts/Discover.abc,018_4.abc: 3:27 vs median 4:12
+018,6 Parts,broken/6 Parts/Discover.abc,018_5.abc: 5:20 vs median 4:12
+018,6 Parts,broken/6 Parts/Discover.abc,018_3.abc: no reliable instrument assignment

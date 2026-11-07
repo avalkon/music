@@ -1,0 +1,93 @@
+N: TS  4,   3   1   5   8
+X: 3
+%%Orig filename was RolanberryFields__Clar2.abc
+T:Rolanberry Fields (Basic Flute 1, Basic Clarinet) (2:21)
+%%part-name Basic Flute 1, Basic Clarinet
+Q:1/4=90
+M:4/4
+L:1/8
+K:C
+%Intro - m25
+z16|z16|z16|z16|z16|z16|z16|z16|z16|z16|z16|z16|z8|
+%m26                                               m30
++p+B,CB,CB,CB,C|B,CB,CB,CB,C|CDCDCDCD|B,DB,DB,DB,D|B,EB,EB,EB,E|B,CB,CB,CB,C|B,CB,CB,CB,C|B,CB,C+pp+[D^F][EG][D^F][EG]|
+%m34                                                                      m36
+[B,E][CG][B,E][CG][B,E][CG][B,E][CG]|[B,E][C^F][B,E][CF][B,E][CF][B,E][CF]|[CD][^F][CD][F][CD][F][CD][F]|[B,D][G][B,D][G][B,D][G][B,D][G]|
+%m38                                                                  m40
+[B,E][A][B,E][A][B,E][A][B,E][A]|[B,^F][CA][B,F][CA][B,F][CA][B,F][CA]|[^C^F][E^A][CF][EA][CF][EA][CF][EA]|[E^F]+p+[^A]+ppp+[EF]+p+[A]+ppp+[^C=A][^DB][CA][DB]|
+%m42                                                 m46                                              m50
++pp+B,EB,EB,EB,E|B,EB,EB,EB,E|B,EB,+p+EB,EB,E|B,EB,EDEB,E|B,EB,EB,EB,E|B,EB,EDEB,E|B,EB,EB,EB,E|DEA,EDEA,E|+mp+DEA,EDEA,E|+p+DEA,EDEA,E|+pp+DEA,EDEA,E|+ppp+DEA,EDEA,E|
+
+X: 1
+%%Orig filename was RolanberryFields__Flute1.abc
+T:Rolanberry Fields (Basic Flute 2) (1:57)
+%%part-name Basic Flute 2
+Q:1/4=90
+M:4/4
+L:1/8
+K:C
+%Intro
++ff+z8|z8|z8|z8|z8|z8|z8|z8|z8|
+%Phrase 1 (m10)
+^F3 B,3 D2|^F G A G5|^F3 B,3 D2|^F G ^F E5|^F3 D3 B,2|A G ^F G2 E G A|B2 c B2 A3|A ^F D E5|
+%m18
+^F3 B,3 D2|^F G A G3 ^F E|^F3 B,3 D2|^F G ^F E5|^F3 D3 B,2|A G ^F G2 E G A|B2 c B2 A3|B G D E5|
+%m26                                m30
++fff+d5 d c B|B A A4 D2|c5 c B A|B5 D G A|B6 A G|G A ^F3 B, ^D E|^F5 A G F|E G B c3 B2|
+%m34                                 m38                                 m42
+d5 d c B|B c A4 A B|c5 c d c|B5 D G A|B5 B e B|A B ^F3 E ^D E|^F13 B ^D F|E22|
+
+X: 5
+%%Orig filename was RolanberryFields__Harp3.abc
+T:Rolanberry Fields (Basic Harp) (2:11)
+%%part-name Basic Harp
+C:Naoshi Mizuta
+Z:Transcribed by Lukhim of Landroval from a midi file by 'Kago' (www.vgmusic.com)
+Q:1/4=90
+M:4/4
+L:1/8
+K:C
+%Intro
+a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|
+a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|
+%Phrase 1 (m10)
+a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|b e c' e a ^d b ^d|a e b e a e b e|
+%m18
+a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|b e c' e a ^d b ^d|a B b B d B b B|
+%m26                                                                   m28
++mf+z [ce] [eg] [ac'] z [eg] [ce] [Ac]|z [ce] [d^f] [ac'] z [d^f] [ce] [Ac]|z [Bd] [d^f] [fa] z [df] [Bd] [AB]|z [Bd] [dg] [gb] z [dg] [Bd] [GB]|
+%m30                                                                  m32
+z [Ae] [ea] [ab] z [ea] [Be] [AB]|z [B^d] [d^f] [fa] z [df] [Bd] [^FB]|z [B^d] [da] [ab] z [^fa] [ab] [Bd]|z [Be] [eg] [gc'] z [e^g] [de] [Be]|
+%m34                                                                   m36
+z [ce] [eg] [ac'] z [eg] [ce] [Ac]|z [ce] [d^f] [ac'] z [d^f] [ce] [Ac]|z [Bd] [d^f] [fa] z [df] [Bd] [AB]|z [Bd] [dg] [gb] z [dg] [Bd] [GB]|
+%m38                                                                  m40
+z [Ae] [ea] [ab] z [ea] [Be] [AB]|z [B^d] [d^f] [fa] z [df] [Bd] [^FB]|z [^A^c] [c^f] [f^a] z [fc] [Ac] [^Fa]|z [^ce] [e^f] [f^a] z [^df] [Bd] [AB]|
+%m42
++f+a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|
+%m46
+a d b d e d g d|a d b d e d g d|a d b d e d g d|a d b d e d g d|
+
+X: 8
+%%Orig filename was RolanberryFields__Lute4.abc
+T:Rolanberry Fields (Basic Lute) (2:11)
+%%part-name Basic Lute
+Q:1/4=90
+M:4/4
+L:1/8
+K:C
+%Intro
++f+[dE,] A B G4 D,|[eC,] A B E3 D,2|[dE,] A B ^F2 G2 D,|[eC,] A B g5|
+[dE,] A B G4 D,|[eC,] A B E3 D,2|[dE,] A B ^F2 G2 E,|[eF,] A B g4 C,|F,8|
+%m10                                                  m14
+B, D ^F A3 F2|E, D G A3 G D|B, D ^F A4 F|E, D G A3 G D|B, D ^F A3 F2|E, D G A3 G D|^F, E e [^d2B,2] A3|E, ^F d A3 e B|
+%m18                                                    m22
+B, D ^F A3 F2|E, D G A3 G D|B, D ^F A4 F|E, D G A3 G, A,|B, D ^F A3 F ^F,|E, D G A3 G D|^F, E e [^d2B,2] A3|[^fB,] d A [^G,5E5B5]|
+%m26                                                    m30
++ff+A, E G e2 G2 E|D, ^F G e3 F2|G, D G A3 G D|G, D G B3 G D|^F, ^C E A3 A E|B, ^D ^F A3 F D|^D A B ^f B, A B ^F|E, E ^F B3 B F|
+%m34                                                    m38
+A, E G e2 G2 E|D, ^F G e3 F2|G, D G A3 G D|G, D G B3 G D|^F, ^C E A3 A E,|^D, B, ^F A3 F B,|^A, E ^F e2 e ^A F|^F, E [^F2^A2] B, =A E2|
+%m42
++ff+[dE,] A B G4 D,|[eC,] A B E3 D,2|[dE,] A B ^F2 G2 D,|[eC,] A B g5|
+%m46                                                                m50
+[dE,] A B G4 D,|[eC,] A B E3 D,2|[dE,] A B ^F2 G2 E,|[eF,] A B g4 C,|F,2/11 A2/11 e2/11 g2/11 a
+

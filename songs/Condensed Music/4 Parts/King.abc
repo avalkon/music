@@ -1,0 +1,125 @@
+N: TS  4,   1   5  21   4
+X: 1
+%%Orig filename was KingFlute.abc
+T: King Of The Fairies-flute (2:10)
+%%part-name Basic Flute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: king_of_the_fairies.mid
+%  Transpose: -9
+L: 1/4
+Q: 120
+K: C
+
+z16 z16 z16 z16 z16 z16 z16 z16 z3 d G G3/4 A/4 ^A ^A3/4 c/4 d d ^A3/4
+=A/4 ^A3/4 c/4 d G G3/4 =A/4 ^A3/4 G/4 =A3/4 ^A/4 =A3/4 G/4 F D G3/4
+^F/4 G3/4 A/4 ^A3/4 =A/4 ^A3/4 c/4 d3/4 c/4 ^A3/4 d/4 f f3/4 ^d/4 =d
+G ^A3/4 =A/4 G/4 =F3/4 G2 G d G G3/4 A/4 ^A ^A3/4 c/4 d d ^A3/4 =A/4
+^A3/4 c/4 d G G3/4 =A/4 ^A3/4 G/4 =A3/4 ^A/4 =A3/4 G/4 F D G3/4 ^F/4
+G3/4 A/4 ^A3/4 =A/4 ^A3/4 c/4 d3/4 c/4 ^A3/4 d/4 f f3/4 ^d/4 =d G
+^A3/4 =A/4 G/4 =F3/4 G2 G d g3/4 a/4 g3/4 f/4 d d g3/4 a/4 g3/4 f/4 d
+^a =a3/4 ^a/4 c'3/4 =a/4 f ^a =a3/4 ^a/4 c'3/4 =a/4 f ^a3/4 c'/4 d
+^a/4 d3/4 c' =a/4 c'3/4 ^a g/4 ^a3/4 =a f/4 a3/4 g g3/4 a/4 ^a3/4
+=a/4 g/4 f3/4 g g3/4 a/4 ^a ^a g3/4 =a/4 g3/4 f/4 d d g3/4 a/4 g3/4
+f/4 d d f3/4 ^d/4 =d3/4 c/4 ^d3/4 =d/4 c3/4 ^A/4 =A3/4 ^A/4 c3/4 =A/4
+F G3/4 A/4 ^A3/4 =A/4 ^A3/4 c/4 d3/4 c/4 d3/4 f/4 g3/4 f/4 g3/4 a/4
+^a g f3/4 ^d/4 =d3/4 c/4 d3/4 c/4 ^A3/4 =A/4 G5
+
+X: 5
+%%Orig filename was KingHarp1.abc
+T: King Of The Fairies-harp1 (1:05)
+%%part-name Basic Harp 1
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: king_of_the_fairies.mid
+%  Transpose: -9
+L: 1/4
+Q: 120
+K: C
+
+z3 d G G3/4 A/4 ^A ^A3/4 c/4 d d ^A3/4 =A/4 ^A3/4 c/4 d G G3/4 =A/4
+^A3/4 G/4 =A3/4 ^A/4 =A3/4 G/4 F D G3/4 ^F/4 G3/4 A/4 ^A3/4 =A/4
+^A3/4 c/4 d3/4 c/4 ^A3/4 d/4 f f3/4 ^d/4 =d G ^A3/4 =A/4 G/4 =F3/4 G2
+G d G G3/4 A/4 ^A ^A3/4 c/4 d d ^A3/4 =A/4 ^A3/4 c/4 d G G3/4 =A/4
+^A3/4 G/4 =A3/4 ^A/4 =A3/4 G/4 F D G3/4 ^F/4 G3/4 A/4 ^A3/4 =A/4
+^A3/4 c/4 d3/4 c/4 ^A3/4 d/4 f f3/4 ^d/4 =d G ^A3/4 =A/4 G/4 =F3/4 G2
+G d g3/4 a/4 g3/4 f/4 d d g3/4 a/4 g3/4 f/4 d ^a =a3/4 ^a/4 c'3/4
+=a/4 f ^a =a3/4 ^a/4 c'3/4 =a/4 f ^a3/4 c'/4 d ^a/4 d3/4 c' =a/4
+c'3/4 ^a g/4 ^a3/4 =a f/4 a3/4 g g3/4 a/4 ^a3/4 =a/4 g/4 f3/4 g g3/4
+a/4 ^a ^a g3/4 =a/4 g3/4 f/4 d d g3/4 a/4 g3/4 f/4 d d f3/4 ^d/4
+=d3/4 c/4 ^d3/4 =d/4 c3/4 ^A/4 =A3/4 ^A/4 c3/4 =A/4 F G3/4 A/4 ^A3/4
+=A/4 ^A3/4 c/4 d3/4 c/4 d3/4 f/4 g3/4 f/4 g3/4 a/4 ^a g f3/4 ^d/4
+=d3/4 c/4 d3/4 c/4 ^A3/4 =A/4 G2 G
+
+X: 21
+%%Orig filename was KingHarp2.abc
+T: King Of The Fairies-harp2 (2:10)
+%%part-name Basic Harp 2
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: king_of_the_fairies.mid
+%  Transpose: -9
+L: 1/4
+Q: 120
+K: C
+
+z29/8 D/8 ^A/8 d/8 [g4d31/8D29/8^A15/4] D/8 ^A/8 d/8
+[D29/8d31/8^A15/4g4] D/8 ^A/8 d/8 [d4^A4D4g4z29/8] C/8 F/8 c/8
+[c4f4F4C4z29/8] D/8 ^A/8 d/8 [g2d2D2^A2z13/8] ^D/8 G/8 ^d/8
+[g2^d2^D2G2z13/8] F/8 ^A/8 =d/8 [F4f4=D29/8^A15/4d31/8] D/8 ^A/8 d/8
+[D2g2d2^A2z13/8] C/8 F/8 c/8 [c2f2C2F2z13/8] D/8 ^A/8 d/8
+[d31/8g4^A15/4D29/8] D/8 ^A/8 d/8 [d31/8D29/8^A15/4g4] D/8 ^A/8 d/8
+[g4d31/8^A15/4D29/8] D/8 ^A/8 d/8 [^A4g4D4d4z29/8] C/8 F/8 c/8
+[f4F4c4C4z29/8] D/8 ^A/8 d/8 [d2g2D2^A2z13/8] ^D/8 G/8 ^d/8
+[g2G2^D2^d2z13/8] F/8 ^A/8 =d/8 [^A15/4f4=D29/8d31/8F4] D/8 ^A/8 d/8
+[g2d2D2^A2z13/8] C/8 F/8 c/8 [C2f2F2c2z13/8] D/8 ^A/8 d/8
+[d31/8D29/8^A15/4g4] D/8 ^A/8 d/8 [D29/8^a4d31/8^A15/4] D/8 ^A/8 d/8
+[^a4d4^A4D4z29/8] F/8 c/8 f/8 [c15/4C4c'4F29/8f31/8] F/8 c/8 f/8
+[c4F29/8f4C4c'4] F/8 ^A/8 d/8 [F7/4^A2d2D2f2z13/8] C/8 F/8 c/8
+[c2f2C2F2z13/8] D/8 ^A/8 d/8 [g2d2D2^A2z13/8] C/8 F/8 c/8
+[C2c2F2f2z13/8] D/8 ^A/8 d/8 [^A7/4d2g2D2z13/8] G/8 ^A/8 ^d/8
+[^A7/4^d2g2G2^D2z13/8] =D/8 ^A/8 =d/8 [d2g2^A7/4D2z13/8] G/8 ^A/8
+^d/8 [^A7/4^d2g2G2^D2z13/8] =D/8 ^A/8 =d/8 [D29/8d31/8g4^A15/4] D/8
+^A/8 d/8 [^A15/4d31/8g4D4z29/8] ^D/8 ^A/8 d/8 [F2f2d2^A2=D4z13/8] G/8
+c/8 ^d/8 [G2c7/4g2C2^d15/8z13/8] F/8 c/8 ^d/8 [^d4=a4F29/8c4C4] F/8
+^A/8 =d/8 [^A15/4d4f4F4D4z29/8] G/8 ^A/8 ^d/8 [g4^A15/4^d4^D4G4z29/8]
+F/8 ^A/8 =d/8 [^A2f2d15/8F2z13/8] ^F/8 c/8 d/8 [=D13/8^F2c2d15/8a2]
+D/8 ^A/8 d/8 [d15/8D13/8^A7/4g2] D/8 ^A/8 d/8 [d15/8D13/8^A7/4g2] D/8
+^A/8 d/8 [^A15/4D29/8g4d31/8] D/8 ^A/8 d/8 [D29/8d31/8^A15/4g4] D/8
+^A/8 d/8 [g4^A4D4d4z29/8] C/8 =F/8 c/8 [c4f4F4C4z29/8] D/8 ^A/8 d/8
+[g2d2D2^A2z13/8] ^D/8 G/8 ^d/8 [^d2g2^D2G2z13/8] F/8 ^A/8 =d/8
+[^A15/4=D29/8d31/8f4F4] D/8 ^A/8 d/8 [g2d2D2^A2z13/8] C/8 F/8 c/8
+[c2f2C2F2z13/8] D/8 ^A/8 d/8 [D29/8g4d31/8^A15/4] D/8 ^A/8 d/8
+[^A15/4d31/8D29/8g4] D/8 ^A/8 d/8 [g4d31/8^A15/4D29/8] D/8 ^A/8 d/8
+[^A4g4D4d4z29/8] C/8 F/8 c/8 [c4f4F4C4z29/8] D/8 ^A/8 d/8
+[g2^A2D2d2z13/8] ^D/8 G/8 ^d/8 [^d2g2^D2G2z13/8] F/8 ^A/8 =d/8
+[F4=D29/8^A15/4f4d31/8] D/8 ^A/8 d/8 [^A2g2D2d2z13/8] C/8 F/8 c/8
+[c2F2C2f2z13/8] D/8 ^A/8 d/8 [D29/8^A15/4d31/8g4] D/8 ^A/8 d/8
+[D29/8d31/8^A15/4^a4] D/8 ^A/8 d/8 [d4^A4^a4D4z29/8] F/8 c/8 f/8
+[C4F29/8c15/4c'4f31/8] F/8 c/8 f/8 [c'4F29/8f4c4C4] F/8 ^A/8 d/8
+[^A2D2F7/4f2d2z13/8] C/8 F/8 c/8 [C2f2c2F2z13/8] D/8 ^A/8 d/8
+[^A2g2D2d2z13/8] C/8 F/8 c/8 [c2f2C2F2z13/8] D/8 ^A/8 d/8
+[D2^A7/4g2d2z13/8] G/8 ^A/8 ^d/8 [g2^D2^A7/4^d2G2z13/8] =D/8 ^A/8
+=d/8 [g2^A7/4d2D2z13/8] G/8 ^A/8 ^d/8 [g2G2^A7/4^D2^d2z13/8] =D/8
+^A/8 =d/8 [d31/8D29/8^A15/4g4] D/8 ^A/8 d/8 [g4^A15/4D4d31/8z29/8]
+^D/8 ^A/8 d/8 [=D4F2d2f2^A2z13/8] G/8 c/8 ^d/8
+[g2c7/4G2^d15/8C2z13/8] F/8 c/8 ^d/8 [C4F29/8^d4c4=a4] F/8 ^A/8 =d/8
+[f4F4^A15/4d4D4z29/8] G/8 ^A/8 ^d/8 [G4^D4^A15/4g4^d4z29/8] F/8 ^A/8
+=d/8 [f2F2d15/8^A2z13/8] ^F/8 c/8 d/8 [=D13/8c2a2^F2d15/8] D/8 ^A/8
+d/8 [^A13/8D3/2g15/8d7/4] D/8 ^A/8 d/8 g/8 [d3D3^A3g/8]
+
+X: 4
+%%Orig filename was KingHorn.abc
+T: King Of The Fairies-horn (2:10)
+%%part-name Basic Horn
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: king_of_the_fairies.mid
+%  Transpose: -9
+L: 1/4
+Q: 120
+K: C
+
+z4 G,4 G,4 G,4 F,4 G,2 ^D,2 =D,2 ^A,2 G,2 F,2 G,4 G,4 G,4 G,4 F,4 G,2
+^D,2 =D,2 ^A,2 G,2 F,2 G,4 G,4 G,4 F,4 F,4 ^A,2 =A,2 G,2 F,2 D,2 C,2
+G,2 ^D,2 G,4 G,4 F,2 ^D,2 C,2 F,2 ^A,2 =A,2 G,2 =D,2 ^A,2 ^F,2 G,4
+G,4 G,4 G,4 =F,4 G,2 ^D,2 =D,2 ^A,2 G,2 F,2 G,4 G,4 G,4 G,4 F,4 G,2
+^D,2 =D,2 ^A,2 G,2 F,2 G,4 G,4 G,4 F,4 F,4 ^A,2 =A,2 G,2 F,2 D,2 C,2
+G,2 ^D,2 G,4 G,4 F,2 ^D,2 C,2 F,2 ^A,2 =A,2 G,2 =D,2 ^A,2 ^F,2 G,5
+

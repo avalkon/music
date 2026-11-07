@@ -1,0 +1,384 @@
+%abc-2.1
+%%song-title       Irish Medley
+%%song-duration    3:13
+%%song-transcriber Giddily
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 13:06:20
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title:  - Irish Medley
+N: TS  5,   5  1  3 21  4
+I:decoration +
+
+X: 5
+T: Irish Medley (3:13) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+%%user-pan auto
+Z: Giddily
+M: 4/4
+Q: 70
+L: 1/8
+K: C maj
++mf+ E3 D3 G2- |
+G D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+E3 D3 G2- |
+G D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+E3 D3/2 E3/2 B2- |
+B D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+% Bar 10 (0:31)
+E3 D3/2 E3/2 B2- |
+B D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (1:06)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+E4 D4 |
+G4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D4 |
+% Bar 30 (1:40)
+G4 D2 B2 |
+E4 D4 |
+G2 D2 E4 |
+E4 D2 E2 |
+B4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D2 E2 |
+B4 D2 B2 |
+E4 D4 |
+% Bar 40 (2:14)
+G2 D2 E4 |
+E4 D4 |
+G4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D4 |
+G4 D2 B2 |
+E4 D4 |
+G2 D2 E4 |
+E4 D2 E2 |
+% Bar 50 (2:49)
+B4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D2 E2 |
+B4 D2 B2 |
+E4 D4 |
+G2 D2 E4 |]
+
+
+X: 1
+T: Irish Medley (3:13) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+Z: Giddily
+M: 4/4
+Q: 70
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:31)
+z8 |
+z8 |
+z8 |
+E/ A/ A/ A/ G/ E/ G/ A/ B/ c d/ e/ g/ e/ d/ |
+e/ d/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+E/ A/ A/ A/ G/ E/ G/ A/ B/ c d/ e/ g/ e/ d/ |
+e/ d/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+e/ a/ a/ a/ g/ a/ b/ a/ b/ g/ e/ d/ e/ a/ g/ e/- |
+% Bar 20 (1:06)
+e/ A/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+e/ a/ a/ a/ g/ a/ b/ a/ b/ g/ e/ d/ e/ a/ g/ e/- |
+e/ A/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+% Bar 30 (1:40)
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+% Bar 40 (2:14)
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+% Bar 50 (2:49)
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |]
+
+
+X: 3
+T: Irish Medley (3:13) - Basic Clarinet 1
+%%part-name Basic Clarinet 1
+%%made-for Basic Clarinet
+%%user-pan auto
+Z: Giddily
+M: 4/4
+Q: 70
+L: 1/8
+K: C maj
++mf+ E/ A/ A/ A/ G/ E/ G/ A/ B/ c d/ e/ g/ e/ d/ |
+e/ d/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+E/ A/ A/ A/ G/ E/ G/ A/ B/ c d/ e/ g/ e/ d/ |
+e/ d/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+e/ a/ a/ a/ g/ a/ b/ a/ b/ g/ e/ d/ e/ a/ g/ e/- |
+e/ A/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+% Bar 10 (0:31)
+e/ a/ a/ a/ g/ a/ b/ a/ b/ g/ e/ d/ e/ a/ g/ e/- |
+e/ A/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+E/ A/ A/ A/ G/ E/ G/ A/ B/ c d/ e/ g/ e/ d/ |
+e/ d/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+E/ A/ A/ A/ G/ E/ G/ A/ B/ c d/ e/ g/ e/ d/ |
+e/ d/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+e/ a/ a/ a/ g/ a/ b/ a/ b/ g/ e/ d/ e/ a/ g/ e/- |
+% Bar 20 (1:06)
+e/ A/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+e/ a/ a/ a/ g/ a/ b/ a/ b/ g/ e/ d/ e/ a/ g/ e/- |
+e/ A/ B/ A/ B/ G/ E/ D/ E/ A/ A/ A/ G/ E/ G/ A/ |
+B/ c d/ e/ g/ e/ d/ e/ d/ B/ A/ G/ A3/2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+% Bar 30 (1:40)
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+% Bar 40 (2:14)
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+% Bar 50 (2:49)
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |]
+
+
+X: 21
+T: Irish Medley (3:13) - Basic Clarinet 2
+%%part-name Basic Clarinet 2
+%%made-for Basic Clarinet
+%%user-pan auto
+Z: Giddily
+M: 4/4
+Q: 70
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:31)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (1:06)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (2:14)
+z8 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d/ c/ |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ D/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+% Bar 50 (2:49)
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |
+e/ a/ a/ a/ a g/ a/ b/ a/ b/ a/ g/ e/ d |
+e/ a/ g/ a/ e A B/ A/ B/ G/ G/ E/ D |
+E/ A/ G/ E/ A/ G/ E/ G/ G/ A/ B/ G/ c d |
+e/ ^f/ g/ e/ d/ e/ d/ c/ B/ A/ G/ B/ A2 |]
+
+
+X: 4
+T: Irish Medley (3:13) - Basic Horn
+%%part-name Basic Horn
+%%made-for Basic Horn
+%%user-pan auto
+Z: Giddily
+M: 4/4
+Q: 70
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:31)
+z8 |
+z8 |
+z8 |
+E3 D3 G2- |
+G D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+E3 D3 G2- |
+G D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+E3 D3/2 E3/2 B2- |
+% Bar 20 (1:06)
+B D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+E3 D3/2 E3/2 B2- |
+B D3/2 B3/2 E3 D- |
+D2 G3/2 D3/2 A3 |
+z4 D4 |
+G4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D4 |
+% Bar 30 (1:40)
+G4 D2 B2 |
+E4 D4 |
+G2 D2 E4 |
+E4 D2 E2 |
+B4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D2 E2 |
+B4 D2 B2 |
+E4 D4 |
+% Bar 40 (2:14)
+G2 D2 E4 |
+E4 D4 |
+G4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D4 |
+G4 D2 B2 |
+E4 D4 |
+G2 D2 E4 |
+E4 D2 E2 |
+% Bar 50 (2:49)
+B4 D2 B2 |
+E4 D4 |
+G2 D2 A4 |
+E4 D2 E2 |
+B4 D2 B2 |
+E4 D4 |
+G2 D2 E4 |]
+

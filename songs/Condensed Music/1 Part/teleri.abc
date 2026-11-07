@@ -1,0 +1,67 @@
+X: 21
+T: Teleri Basic Harp (2:45)
+%%part-name Basic Harp
+C: Lonely Mountain Band http://lonelymountainband.com
+Z: Astleigh Mondegreen http://my.lotro.com/astleigh
+L: 1/8
+Q: 170
+K: Ddorian
+z
+| D, A, D F A z | F, C F A c z | A, E A c e z | G, D G B d z |
+| D, A, D F A z | F, C F A c z | A, E A c e z | G,/D/G/B/d/ z3 z/ |
+
+| D, z A, D F A | F, z C F A c | A, z E A c e | G, z D G B d |
+| D, z A, D F A | F, z C F A c | A, z E A c e | G,/D/G/B/d/ z3 z/ |
+
+| D2 [A4d]efa | [A,2g]f [E4e2]c2 | C2 [G4c]def | [G,2g2] [D4g]fe2 |
+| D2 [A4d]efa | [A,2g]f [E4e2]c2 | [C2c2] G2G2 | [G,4f4] g2 |
+| D2 [A4d]efa | [A,2g]f [E4e2]c2 | C2 [G4c]def | [G,2g2] [D4g]fe2 |
+| D2 [A4d]efa | [A,2g]f [E4e2]c2 | [C2c2] G2G2 | [G,4f4] g2 |
+
+| A,/E/ c5 | A,/E/ c3 B A | G,/D/ B4 G | D,/A,/ F5 |
+| A,/E/ c5 | A,/E/ c3 B A | G,/D/ B4 d | A,/D/ d5 |
+| A,/E/ c5 | A,/E/ c3 B A | G,/D/ B4 G | D,/A,/ F5 |
+| A,/E/ c5 | A,/E/ c3 B c | G,/D/ d2 c2 d | A,/D/ d5 |
+
+| D, z A, D F A | F, z C F A c | A, z E A c e | G, z D G B d |
+| D, z A, D F A | F, z C F A c | A, z E A c e | G,/D/G/B/d/ z3 z/ |
+
+| [D,2d3] A,ef2 | [F,2a2] [C4b2]c'2 | [C,2g2] [G,4e2]c2 | [G,2g2] [D4f2]e2 |
+| [D,2d3] A,ef2 | [F,2a2] [C4b2]c'2 | [C,2g2] [G,4e2]c2 | [G,2d2] [D4d]efg |
+| [D,2d3] A,ef2 | [F,2a2] [C4b2]c'2 | [C,2g2] [G,4e2]c2 | [G,2g2] [D4f2]e2 |
+| [D,2d3] A,ef2 | [F,2a2] [C4b2]c'2 | [C,2g2] [G,4e2]c2 | [G,2d2] [D4d2]e2 |
+
+| [D,2d3] A,ed2 | [F,2f2] [C4e2]d2 | [C,2c2] [G,4A2]F2 | [G,2G]A [D4B]cde |
+| [D,2d3] A,ed2 | [F,2f2] [C4e2]d2 | [C,2c2] [G,4A2]e2 | [G,2d3] Dcde |
+| [D,2d3] A,ed2 | [F,2f2] [C4e2]d2 | [C,2c2] [G,4A2]F2 | [G,2g2] [D4f2]e2 |
+| [D,2d3] A,ef2 | [F,2a2] [C4b2]c'2 | [C,2g2] [G,4e2]c2 | [G,2d2] [D4d4] |
+
+| [D,2f]d [A,4e]cdB | [F,2c']a [C4b]gaf | [C,2g]e [G,4f]dec | [G,2d]e [D4f]edc |
+| [D,2d4] A,2b2 | [F,2a3] Cgf2 | [C,2g2] [G,4e2]c2 | [G,2d2] [D4d4] |
+| [D,2f]d [A,4e]cdB | [F,2c']a [C4b]gaf | [C,2g]e [G,4f]dec | [G,2d]B [D4c]def |
+| [D,2d4] A,2a2 | [F,2a3] Cgf2 | [C,2g2] [G,4e2]c2 | [D,2d6] A,4 |
+
+| D,2 A,4 |
+
+| D, A, D F A z | F, C F A c z | A, E A c e z | G, D G B d z |
+| D, A, D F A z | F, C F A c z | A, E A c e z | G,/D/G/B/d/ z3 z/ |
+
+| D, z A, D F A | F, z C F A c | A, z E A c e | G, z D G B d |
+| D, z A, D F A | F, z C F A c | A, z E A c e | G,/D/G/B/d/ z3 z/ |
+
+%    D        D
+| c4 D,/A,/d3 D,/A,/d9
+% D        D                C                D
+| D,/A,/d3 D,/A,/d4 c2 B2 c C,/G,/c3 B2 A2 G D,/A,/A8 d
+% D        D
+| D,/A,/d4 D,/A,/d9
+% D                         C                                   D
+| D,/A,/d4 c3 B2 c2 e2 d2 e C,/G,/f3 e3 d2 c2 e2 f3 f4 g3 f3 e4 D,/A,/d10 B2
+%    F
+| c3 F,/C/c6 e4 d3 c2 e2 f2 e d
+% A
+| A,/E/e4 d3 c3 d3 e2 d3
+% G
+| G,/D,/e2 d c B A G F E2 D3 C5
+
+| D,2 A,2 D2 G2 A2 c3 d4

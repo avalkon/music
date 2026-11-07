@@ -1,0 +1,854 @@
+N: TS 12,  11   8  21  10  22   5  23   4  24  25  19  18
+X: 11
+%%Orig filename was MiamiViceBardic.abc
+T: Miami Vice Theme (1:24) - Bardic Fiddle
+%%part-name Bardic Fiddle
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++ff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+E G A A- A2 A/ G/ E |
+^C2 A2 A G C2- |
+^C8- |
+^C8 |
+E G A A- A2 G// A/ G// E |
+[c2e2] A2 A G C2- |
+C8- |
+C8 |
+D F G G- G2 F// G/ F// D |
+[^A2d2] [c2e2] [d2f2] [ce] [B-d-] |
+% Bar 30 (0:56)
+[B8-d8-] |
+[B4d4] z2 D/ G/ ^A |
+c3 c- c2 ^A// c/ A// G |
+[FA] [EG] C [FA] [EG] C C C |
+F/ G/- [G^A] [GA] F/ G/ A F/ G/ A [G-A-] |
+[G/^A/] F/ E C F E C/ G,/ ^A,/ C/ E/ C/ |
+E G A A- A2 G// A/ G// E |
+[^c2e2] A2 A G E a- |
+a8- |
+a8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 8
+%%Orig filename was MiamiViceBass1.abc
+T: Miami Vice Theme (1:24) - Basic Theorbo 1
+%%part-name Basic Theorbo 1
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++f+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+A,3 A, A,4 |
+A,3 A, A, A- A A, |
+A,3 A, A,4 |
+A,6 A,2 |
+A,3 A, A,4 |
+A,3 A, A, A- A A, |
+A,3 A, A,4 |
+A,8 |
+G,3 G, G,4 |
+G,3 G, G, G- G G, |
+% Bar 30 (0:56)
+G,3 G, G,4 |
+G,3 G, G,2 G,/ ^A,/ D |
+C3 C C4 |
+C3 C C, C- C C, |
+C3 C C4 |
+C3 C, C4 |
+A,3 A, A,4 |
+A,3 A, A, A,- A, A, |
+A,2 A,2- A,3 A, |
+A,3 A, A,4 |
+% Bar 40 (1:16)
+G,2 G,2- G,3 G, |
+G,3 G, z2 +ffff+ A,/ G,/ E,/ D,/ |
+[C,8-C8-] |
+[C,4-C4-] [C,2-C2-] [C,-C-] [C,3/4-C3/4-]
+	%%Q: 120
+	[C,61/240C61/240] |]
+
+X: 21
+%%Orig filename was MiamiViceBass2.abc
+T: Miami Vice Theme (1:24) - Basic Theorbo 2
+%%part-name Basic Theorbo 2
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++mf+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+A3 A A4 |
+A3 A A a- a A |
+A3 A A4 |
+A6 A2 |
+A3 A A4 |
+A3 A A a- a A |
+A3 A A4 |
+A8 |
+G3 G G4 |
+G3 G G g- g G |
+% Bar 30 (0:56)
+G3 G G4 |
+G3 G G2 G/ ^A/ d |
+c3 c c4 |
+c3 c C c- c C |
+c3 c c4 |
+c3 C c4 |
+A3 A A4 |
+A3 A A, A- A A, |
+A2 A2- A3 A |
+A3 A A4 |
+% Bar 40 (1:16)
+G2 G2- G3 G |
+G3 G z2 +fff+ A/ G/ E/ D/ |
+[C8-c8-] |
+[C4-c4-] [C2-c2-] [C-c-] [C3/4-c3/4-]
+	%%Q: 120
+	[C61/240c61/240] |]
+
+X: 10
+%%Orig filename was MiamiViceDrums1.abc
+T: Miami Vice Theme (1:24) - Basic Drum 1
+%%part-name Basic Drum 1
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++f+ ^D61/140 z61/20 D61/140 z61/28 D61/140 z61/140 |
+^D61/140 z61/28 D61/140
+	%%Q: 125
+	z61/125 D61/250 z427/250 D61/250 z183/250 D61/250 z61/250 D61/250
+	%%Q: 122
+	z// |
++fff+ ^C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z3/4 C,// z// |
++ffff+ [^C,//B,//] z// +fff+ C,// z// C,// z// C,// z// C,// z3/4 +ffff+ [C,//B,//] z// +fff+ C,// z// +ffff+ [C,//B,//] z// +fff+ C,// z// C,// z3/4 C,// z//
+	C,// z3/4 C,// z// |
++ffff+ [^C,//B,//] z// +fff+ C,// z// C,// z// C,// z// C,// z3/4 +ffff+ [C,//B,//] z// +fff+ C,// z// +ffff+ [C,//B,//] z// +fff+ C,// z// C,// z3/4 C,// z//
+	C,// z3/4 C,// z// |
+^C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z3/4 C,// z// |
+^C,// z// C,// z// +ffff+ [C,//B,//] z// [C,//B,//] z// +fff+ C,// z// +ffff+ B,// z// [C,//^C//] z// [C,//G,//] z// [C,//B,//] z// +fff+ C,// z// +ffff+
+	[C,//B,//] z// B,// z// +fff+ [C,//F//] z// +ffff+ [C,//B,//] z3/4 [C,//G,//] z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
+% Bar 10 (0:17)
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [E//F//B//] z3/4 +fff+ A// z3/4 |
+[^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//] z3/4 +fff+
+	[C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//E//^A//] z// +mf+ E// z// +f+ [C,//E//] z// [C,//E//] z// [C,//E//F//] z3/4 +fff+ [C,//E//F//A//] z// +f+ [C,//E//] z// +fff+ [C,//E//A//] z// +mf+
+	E// z// +fff+ [C,//E//A//] z// +f+ C,// z// [C,//E//F//] z// +mf+ E// z// +fff+ [C,//A//] +f+ C,// [C,//E//] z// |
+% Bar 20 (0:36)
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z// +f+ G,// z// [G,//B//] z// G,// z// [C,//E//F//] z// G,// z// +fff+ [C,//^C//F//A//] z// +f+ C,// z// +fff+ [C,//B,//A//] z3/4 +f+
+	[C,//G,//] z// C,// z// [C,//G,//E//F//] z3/4 C,// z// C,// z// |
++fff+ [^C,//^C//^A//] z// +f+ B,// z// [C,//B,//] z// C,// z// [C,//B,//E//F//] z3/4 +fff+ [C//F//A//B//] z// +f+ B,// z// +fff+ [C,//A//] z// +f+ G,// z//
+	+fff+ [C,//G,//A//] z// +f+ [C,//G,//] z// [E//F//B//] z// G,// z// +fff+ [C//A//] z3/4 |
+[^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z// +f+ G,// z// [G,//B//] z// G,// z// [C,//E//F//] z// G,// z// +fff+ [C,//^C//F//A//] z// +f+ C,// z// +fff+ [C,//B,//A//] z3/4 +f+
+	[C,//G,//] z// C,// z// [C,//G,//E//F//] z3/4 [C,//G,//] z// +ff+ [C,//C//] z// |
++fff+ [^C,//B,//^A//] z3/4 +f+ [C,//B,//] z// [C,//B,//] z// [C,//E//F//] z// B,// z// +fff+ [^C//F//A//B//] z// +f+ G,// z// +fff+ [C,//B,//A//] z// A// z//
+	[C,//B,//A//] z// +f+ [C,//B,//] z// [C,//E//F//] z// +fff+ [B,//A//] z// [C,//C//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
+% Bar 30 (0:56)
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z// +mf+ E// z// +fff+ [F//A//B//] z3/4 [C,//A//] z// A// z// [C,//A//] z// +f+ C,// z// [E//F//B//]
+	z// +fff+ [A//B//] z// A// z3/4 |
+[^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ [C,//B,//] z// [C,//B,//] z// [C,//E//F//] z// B,// z// +fff+ [^C//F//A//B//] z// +f+ G,// z// +fff+ [C,//B,//A//] z// A// z//
+	[C,//B,//A//] z// +f+ [C,//B,//] z// [C,//E//F//] z// +fff+ [B,//A//] z// [C,//C//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z// A// z// [C,//A//] z// +f+ C,// z// [C,//E//F//] z// +fff+
+	A// z// [C,//A//] +f+ C,// C,// z// |
+% Bar 40 (1:16)
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z// A// z// [C,//A//] z// +f+ C,// z// [E//F//B//] z// +fff+ A//
+	z// A// z3/4 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 22
+%%Orig filename was MiamiViceDrums2.abc
+T: Miami Vice Theme (1:24) - Basic Drum 2
+%%part-name Basic Drum 2
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++f+ ^D61/140 z61/20 D61/140 z61/28 D61/140 z61/140 |
+^D61/140 z61/28 D61/140
+	%%Q: 125
+	z61/125 D61/250 z427/250 D61/250 z183/250 D61/250 z61/250 D61/250
+	%%Q: 122
+	z// |
++fff+ ^C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z3/4 C,// z// |
++ffff+ [^C,//B,//] z// +fff+ C,// z// C,// z// C,// z// C,// z3/4 +ffff+ [C,//B,//] z// +fff+ C,// z// +ffff+ [C,//B,//] z// +fff+ C,// z// C,// z3/4 C,// z//
+	C,// z3/4 C,// z// |
++ffff+ [^C,//B,//] z// +fff+ C,// z// C,// z// C,// z// C,// z3/4 +ffff+ [C,//B,//] z// +fff+ C,// z// +ffff+ [C,//B,//] z// +fff+ C,// z// C,// z3/4 C,// z//
+	C,// z3/4 C,// z// |
+^C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z// C,// z// C,// z// C,// z3/4 C,// z// C,// z3/4 C,// z// |
+^C,// z// C,// z// +ffff+ [C,//B,//] z// [C,//B,//] z// +fff+ C,// z// +ffff+ B,// z// [C,//^C//] z// [C,//G,//] z// [C,//B,//] z// +fff+ C,// z// +ffff+
+	[C,//B,//] z// B,// z// +fff+ [C,//F//] z// +ffff+ [C,//B,//] z3/4 [C,//G,//] z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
+% Bar 10 (0:17)
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [E//F//B//] z3/4 +fff+ A// z3/4 |
+[^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//] z3/4 +fff+
+	[C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//E//^A//] z// +mf+ E// z// +f+ [C,//E//] z// [C,//E//] z// [C,//E//F//] z3/4 +fff+ [C,//E//F//A//] z// +f+ [C,//E//] z// +fff+ [C,//E//A//] z// +mf+
+	E// z// +fff+ [C,//E//A//] z// +f+ C,// z// [C,//E//F//] z// +mf+ E// z// +fff+ [C,//A//] +f+ C,// [C,//E//] z// |
+% Bar 20 (0:36)
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z// +f+ G,// z// [G,//B//] z// G,// z// [C,//E//F//] z// G,// z// +fff+ [C,//^C//F//A//] z// +f+ C,// z// +fff+ [C,//B,//A//] z3/4 +f+
+	[C,//G,//] z// C,// z// [C,//G,//E//F//] z3/4 C,// z// C,// z// |
++fff+ [^C,//^C//^A//] z// +f+ B,// z// [C,//B,//] z// C,// z// [C,//B,//E//F//] z3/4 +fff+ [C//F//A//B//] z// +f+ B,// z// +fff+ [C,//A//] z// +f+ G,// z//
+	+fff+ [C,//G,//A//] z// +f+ [C,//G,//] z// [E//F//B//] z// G,// z// +fff+ [C//A//] z3/4 |
+[^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z// +f+ G,// z// [G,//B//] z// G,// z// [C,//E//F//] z// G,// z// +fff+ [C,//^C//F//A//] z// +f+ C,// z// +fff+ [C,//B,//A//] z3/4 +f+
+	[C,//G,//] z// C,// z// [C,//G,//E//F//] z3/4 [C,//G,//] z// +ff+ [C,//C//] z// |
++fff+ [^C,//B,//^A//] z3/4 +f+ [C,//B,//] z// [C,//B,//] z// [C,//E//F//] z// B,// z// +fff+ [^C//F//A//B//] z// +f+ G,// z// +fff+ [C,//B,//A//] z// A// z//
+	[C,//B,//A//] z// +f+ [C,//B,//] z// [C,//E//F//] z// +fff+ [B,//A//] z// [C,//C//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
+% Bar 30 (0:56)
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z// +mf+ E// z// +fff+ [F//A//B//] z3/4 [C,//A//] z// A// z// [C,//A//] z// +f+ C,// z// [E//F//B//]
+	z// +fff+ [A//B//] z// A// z3/4 |
+[^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ [C,//B,//] z// [C,//B,//] z// [C,//E//F//] z// B,// z// +fff+ [^C//F//A//B//] z// +f+ G,// z// +fff+ [C,//B,//A//] z// A// z//
+	[C,//B,//A//] z// +f+ [C,//B,//] z// [C,//E//F//] z// +fff+ [B,//A//] z// [C,//C//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4
+	C,// z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 [C,//A//] z// +f+ C,// z// [C,//E//F//]
+	z3/4 +fff+ [C,//A//] +f+ C,// C,// z// |
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z// A// z// [C,//A//] z// +f+ C,// z// [C,//E//F//] z// +fff+
+	A// z// [C,//A//] +f+ C,// C,// z// |
+% Bar 40 (1:16)
++fff+ [^C,//^A//] z3/4 +mf+ B// z3/4 +f+ [C,//E//F//] z3/4 +fff+ [C,//F//A//] z// +f+ C,// z// +fff+ [C,//A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 C,//
+	z// C,// z// |
++fff+ [^C,//^A//] z3/4 +f+ C,// z// C,// z// [C,//E//F//] z3/4 +fff+ [F//A//B//] z3/4 [C,//A//] z// A// z// [C,//A//] z// +f+ C,// z// [E//F//B//] z// +fff+ A//
+	z// A// z3/4 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 5
+%%Orig filename was MiamiViceHarp1.abc
+T: Miami Vice Theme (1:24) - Basic Harp 1
+%%part-name Basic Harp 1
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++fff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+c/ c/ C/ ^A/ c/ G/ c/ c/ c/ d/ c/ F/ F/ C/ c/ c/ |
+G/ c/ c/ d/ c/ C/ c/ c/ d/ c/ G/ ^A/ C/ c/ c/ C/ |
+a/ a/ g/ d/ a/ a/ A/ a/ a/ a/ g/ a/ b/ a/ e/ a/- |
+a/ a/ a/ A/ a/ a/ d/ a/ g/ A/ a/ a/ b/ a/ a/ A/ |
+% Bar 10 (0:17)
+A/ A/ G/ D/ A/ A/ A,/ A/ A/ A/ G/ A/ B/ A/ E/ A/- |
+A/ A/ A/ A,/ A/ A/ D/ A/ G/ A,/ A/ A/ B/ A/ A/ A,/ |
+a/ a/ A/ g/ a/ e/ a/ a/ a/ b/ a/ d/ d/ A/ a/ a/ |
+a/ a/ a/ b/ a/ A/ a/ a/ b/ a/ e/ g/ A/ a/ a/ A/ |
+A/ A/ A,/ G/ A/ A,/ A/ A/ A/ B/ A/ D/ D/ A,/ A/ A/ |
+E/ A/ A/ B/ A/ A,/ A/ A/ B/ A/ E/ G/ A,/ A/ A/ A,/ |
+g/ g/ f/ c/ g/ g/ G/ g/ g/ g/ f/ g/ a/ g/ d/ g/- |
+g/ g/ g/ G/ g/ g/ c/ g/ f/ G/ g/ g/ a/ g/ g/ G/ |
+G/ G/ F/ C/ G/ G/ G,/ G/ G/ G/ F/ G/ A/ G/ C/ G/- |
+G/ G/ G/ G,/ G/ G/ D/ F/ G/ G,/ G/ G/ F/ G/ G/ G/ |
+% Bar 20 (0:36)
+a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ |
+a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ |
+a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ a/ z/ a/ a/ a/ A/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+g/ g/ g/ G/ g/ z/ g/ g/ g/ G/ g/ z/ g/ g/ g/ G/ |
+g/ g/ g/ G/ g/ z/ g/ g/ g/ G/ g/ z/ g/ g/ g/ G/ |
+% Bar 30 (0:56)
+G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ |
+G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ |
+c'/ c'/ c'/ c/ c'/ z/ c'/ c'/ c'/ c/ c'/ z/ c'/ c'/ c'/ c/ |
+c'/ c'/ c'/ c/ c'/ z/ c'/ c'/ c'/ c/ c'/ z/ c'/ c'/ c'/ c/ |
+c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ |
+c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ |
+a/ a/ g/ d/ a/ a/ A/ a/ a/ a/ g/ a/ b/ a/ e/ a/- |
+a/ a/ a/ A/ a/ a/ d/ a/ g/ A/ a/ a/ b/ a/ a/ z/ |
+z8 |
+z8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 23
+%%Orig filename was MiamiViceHarp2.abc
+T: Miami Vice Theme (1:24) - Basic Harp 2
+%%part-name Basic Harp 2
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++ff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+C/ C/ C,/ ^A,/ C/ G,/ C/ C/ C/ D/ C/ F,/ F,/ C,/ C/ C/ |
+G,/ C/ C/ D/ C/ C,/ C/ C/ D/ C/ G,/ ^A,/ C,/ C/ C/ C,/ |
+A/ A/ G/ D/ A/ A/ A,/ A/ A/ A/ G/ A/ B/ A/ E/ A/- |
+A/ A/ A/ A,/ A/ A/ D/ A/ G/ A,/ A/ A/ B/ A/ A/ A,/ |
+% Bar 10 (0:17)
+A,/ A,/ G,/ D,/ A,/ A,/ A,/ A,/ A,/ A,/ G,/ A,/ B,/ A,/ E,/ A,/- |
+A,/ A,/ A,/ A,/ A,/ A,/ D,/ A,/ G,/ A,/ A,/ A,/ B,/ A,/ A,/ A,/ |
+A/ A/ A,/ G/ A/ E/ A/ A/ A/ B/ A/ D/ D/ A,/ A/ A/ |
+A/ A/ A/ B/ A/ A,/ A/ A/ B/ A/ E/ G/ A,/ A/ A/ A,/ |
+A,/ A,/ A,/ G,/ A,/ A,/ A,/ A,/ A,/ B,/ A,/ D,/ D,/ A,/ A,/ A,/ |
+E,/ A,/ A,/ B,/ A,/ A,/ A,/ A,/ B,/ A,/ E,/ G,/ A,/ A,/ A,/ A,/ |
+G/ G/ F/ C/ G/ G/ G,/ G/ G/ G/ F/ G/ A/ G/ D/ G/- |
+G/ G/ G/ G,/ G/ G/ C/ G/ F/ G,/ G/ G/ A/ G/ G/ G,/ |
+G,/ G,/ F,/ C,/ G,/ G,/ G,/ G,/ G,/ G,/ F,/ G,/ A,/ G,/ C,/ G,/- |
+G,/ G,/ G,/ G,/ G,/ G,/ D,/ F,/ G,/ G,/ G,/ G,/ F,/ G,/ G,/ G,/ |
+% Bar 20 (0:36)
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ |
+A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ A/ z/ A/ A/ A/ A,/ |
+A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ |
+A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ A,/ z/ A,/ A,/ A,/ A,/ |
+G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ |
+G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ G/ z/ G/ G/ G/ G,/ |
+% Bar 30 (0:56)
+G,/ G,/ G,/ G,/ G,/ z/ G,/ G,/ G,/ G,/ G,/ z/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ z/ G,/ G,/ G,/ G,/ G,/ z/ G,/ G,/ G,/ G,/ |
+c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ |
+c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ c/ z/ c/ c/ c/ C/ |
+C/ C/ C/ C,/ C/ z/ C/ C/ C/ C,/ C/ z/ C/ C/ C/ C,/ |
+C/ C/ C/ C,/ C/ z/ C/ C/ C/ C,/ C/ z/ C/ C/ C/ C,/ |
+A/ A/ G/ D/ A/ A/ A,/ A/ A/ A/ G/ A/ B/ A/ E/ A/- |
+A/ A/ A/ A,/ A/ A/ D/ A/ G/ A,/ A/ A/ B/ A/ A/ z/ |
+z8 |
+z8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 4
+%%Orig filename was MiamiViceHorn.abc
+T: Miami Vice Theme (1:24) - Basic Horn
+%%part-name Basic Horn
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++f+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+C- [CG] [Cc] C [C^A] C [CA] [Cc] |
+C [CG] [Cc] C [Cc] C [Cc] [Cd] |
+[Cc] C c [Cc] C [Cc] [CGc] [CGcd] |
+[A,Ae] A, [A,A] [A,G] [A,G] A, [A,G] [A,A] |
+A, [A,E] [A,A] A, [A,EA] [A,A] A, A |
+% Bar 10 (0:17)
+A,3 A, A,4 |
+A,3 A, A,4 |
+[A,EAea] A, [A,A] [A,E] [A,A] A, [A,EA] [EA] |
+A, [A,E] [A,E] [A,A] [A,A] [A,EA] [A,EA] [A,EA] |
+A,3 A, A,4 |
+A,3 A, A,4 |
+[G,Gdga] G, [G,G] [G,D] [G,DG] G, [G,F] [G,G] |
+G, [G,D] [G,G] G, [G,DG] [DG] G, G |
+G,3 G, G,4 |
+G,3 G, G,4 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:56)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 24
+%%Orig filename was MiamiViceLute1.abc
+T: Miami Vice Theme (1:24) - Basic Lute 1
+%%part-name Basic Lute 1
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++fff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+E G A A- A2 A/ G/ E |
+^C2 A2 A G C2- |
+^C8- |
+^C8 |
+E G A A- A2 G// A/ G// E |
+[c2e2] A2 A G C2- |
+C8- |
+C8 |
+D F G G- G2 F// G/ F// D |
+[^A2d2] [c2e2] [d2f2] [ce] [B-d-] |
+% Bar 30 (0:56)
+[B8-d8-] |
+[B4d4] z2 D/ G/ ^A |
+c3 c- c2 ^A// c/ A// G |
+[FA] [EG] C [FA] [EG] C C C |
+F/ G/- [G^A] [GA] F/ G/ A F/ G/ A [G-A-] |
+[G/^A/] F/ E C F E C/ G,/ ^A,/ C/ E/ C/ |
+E G A A- A2 G// A/ G// E |
+[^c2e2] A2 A G E a- |
+a8- |
+a8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 25
+%%Orig filename was MiamiViceLute2.abc
+T: Miami Vice Theme (1:24) - Basic Lute 2
+%%part-name Basic Lute 2
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++ff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+E, G, A, A,- A,2 A,/ G,/ E, |
+^C,2 A,2 A, G, C,2- |
+^C,8- |
+^C,8 |
+E, G, A, A,- A,2 G,// A,/ G,// E, |
+[C2E2] A,2 A, G, C,2- |
+C,8- |
+C,8 |
+D, F, G, G,- G,2 F,// G,/ F,// D, |
+[^A,2D2] [C2E2] [D2F2] [CE] [B,-D-] |
+% Bar 30 (0:56)
+[B,8-D8-] |
+[B,4D4] z2 D,/ G,/ ^A, |
+C3 C- C2 ^A,// C/ A,// G, |
+[F,A,] [E,G,] C, [F,A,] [E,G,] C, C, C, |
+F,/ G,/- [G,^A,] [G,A,] F,/ G,/ A, F,/ G,/ A, [G,-A,-] |
+[G,/^A,/] F,/ E, C, F, E, C,/ G,/ A,/ C,/ E,/ C,/ |
+E, G, A, A,- A,2 G,// A,/ G,// E, |
+[^C2E2] A,2 A, G, E, A- |
+A8- |
+A8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+
+X: 19
+%%Orig filename was MiamiVicePibgorn.abc
+T: Miami Vice Theme (1:24) - Basic Pibgorn
+%%part-name Basic Pibgorn
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++fff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z2 [C-F-A-] [C3/4F3/4A3/4] z// [D2-G2A2-] [D2^F2A2] |
+[D2G2A2] [D3/2^F3/2A3/2] [^C5/2E5/2A5/2] z2 |
+z8 |
+z8 |
+z2 [C-F-A-] [C3/4F3/4A3/4] z// [D2-G2A2-] [D2^F2A2] |
+[D3/2G3/2A3/2] [D3/2^F3/2A3/2] [^C-E-A-] [C4E4A4] |
+z8 |
+z8 |
+z2 [C-E-G-] [C3/4E3/4G3/4] z// [C2-F2G2-] [C2E2G2] |
+[C3/2F3/2G3/2] [C3/2E3/2G3/2] [B,-D-G-] [B,2D2G2] z2 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:56)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:16)
+z8 |
+z8 |
+G,8- |
+G,4- G,2- G,- G,3/4-
+	%%Q: 120
+	G,61/240 |]
+
+X: 18
+%%Orig filename was MiamiVicePipes.abc
+T: Miami Vice Theme (1:24) - Basic Bagpipe
+%%part-name Basic Bagpipe
+C: Jan Hammer
+Z: Raymiond of Gladden
+M: 4/4
+Q: 122
+K: C maj
+
+%%Q: 140
++ffff+ z244/35 |
+z61/35 z183/140
+	%%Q: 125
+	z1037/250
+	%%Q: 122
+	z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 ^F- F3/4 z// E4 |
+B,2 A,2- A,4 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z2 ^F- F3/4 z// E4 |
+B,2 A,2 ^F, A,- A,2 |
+z8 |
+z8 |
+z4 E2 D- D3/4 z// |
+B,2 G,/ A,3/2 G,4 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:56)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ [A,3D3E3] A, E, A, A, [A,-D-E-] |
+[A,3D3E3] A, E, A, A, [A,DE] |
+% Bar 40 (1:16)
+A,/- [G,/-A,/-] [E,/-G,/-A,/-] [D,/E,/G,/A,/] B,/- [A,/-B,/-] [G,/-A,/-B,/-] [E,/G,/A,/B,/] D/- [B,/-D/-] [A,/-B,/-D/-] [G,/A,/B,/D/] E/- [B,/-E/-]
+	[A,/-B,/-E/-] [G,/A,/B,/E/] |
+G/- [D/-G/-] [B,/-D/-G/-] [A,/B,/D/G/] A/- [E/-A/-] [D/-E/-A/-] [B,/D/E/A/] A/- [G/-A/-] [E/-G/-A/-] [D/E/G/A/] A/- [A/-B/-] [A/-B/-d/-] [A/B/d/e/] |
+z8 |
+z4 z2 z z3/4
+	%%Q: 120
+	z61/240 |]
+

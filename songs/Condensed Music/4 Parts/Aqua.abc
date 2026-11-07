@@ -1,0 +1,419 @@
+%abc-2.1
+%%song-title       Aqua Harp
+%%song-composer    Animusic
+%%song-duration    3:34
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:13:43
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title: Animusic - Aqua Harp
+N: TS  4,  21  8  1  4
+I:decoration +
+
+X: 21
+T: Aqua Harp (3:34) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+%%user-pan auto
+C: Animusic
+M: 4/4
+Q: 90
+L: 1/8
+K: C maj
++mf+ C4 G4 |
+c4 g4- |
+g6 z2 |
+C2 c2 G2 f2 |
+c2 g2 c2 G2 |
+F2 C2 F,4 |
+z8 |
+z2 G c ^d c G A |
+z2 F G A ^A c ^d |
+% Bar 10 (0:25)
+z2 G c g G c f |
+z2 G c ^d G =d ^d |
+z2 G c ^d c G A |
+z2 F G A ^A c ^d |
+z2 G c ^a G c =a |
+z2 G c g G c f |
+z2 A d a f d e |
+z2 A c e c A d |
+z2 G ^A d A G c |
+z3 G c d e f |
+% Bar 20 (0:51)
+z2 A d a f d e |
+z2 A c e g c d |
+z2 G ^A d e d c |
+z2 G c c'4 |
+z7 f |
+z f ^d2 f4 |
+z7 f |
+z2 g ^d3 f c |
+z7 f |
+z f ^d2 f4 |
+% Bar 30 (1:18)
+z7 f |
+z2 g ^d3 f c |
+z2 G c ^d c G A |
+z2 F G A ^A c ^d |
+z2 G c g G c f |
+z2 G c ^d G =d ^d |
+z2 G c ^d c G A |
+z2 F G A ^A c ^d |
+z2 G c ^a G c =a |
+z2 G c g G c f |
+% Bar 40 (1:45)
+z2 A d a f d e |
+z2 A c e c A d |
+z2 G ^A d A G c |
+z3 G c d e f |
+z2 A d a f d e |
+z2 A c e g c d |
+z2 G ^A d e d c |
+z2 G c c'4 |
+z7 f |
+z f ^d2 f4 |
+% Bar 50 (2:11)
+z7 f |
+z2 g ^d3 f c |
+z7 f |
+z f ^d2 f4 |
+z7 f |
+z2 g ^d3 f c |
+z2 G c ^d c G A |
+z2 F G A ^A c ^d |
+z2 G c g G c f |
+z2 G c ^d G =d ^d |
+% Bar 60 (2:38)
+z2 G c ^d c G A |
+z2 F G A ^A c ^d |
+z2 G c ^a G c =a |
+z2 G c g G c f |
+z2 A d a f d e |
+z2 A c e c A d |
+z2 G ^A d A G c |
+z3 G c d e f |
+z2 A d a f d e |
+z2 A c e g c d |
+% Bar 70 (3:05)
+z2 G ^A d e d c |
+z2 G c c'4 |
+z7 f |
+z f ^d2 f4 |
+z7 f |
+z2 g ^d3 f c |
+z7 f |
+z f ^d2 f4 |
+z7 G |
+C c G f c ^g f2- |
+% Bar 80 (3:31)
+f7 |]
+
+
+X: 8
+T: Aqua Harp (3:34) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+C: Animusic
+M: 4/4
+Q: 90
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+C c7 |
+F c7 |
+% Bar 10 (0:25)
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+D d7 |
+E e7 |
+G, G7 |
+C G c5 z |
+% Bar 20 (0:51)
+D d7 |
+E e7 |
+G, G7 |
+C c7 |
+F ^G c f ^g f c2- |
+c3 ^G z f ^g f |
+F ^G c f ^g f c2 |
+z ^G3 C f2 z |
+F ^G c f ^g f c2- |
+c3 ^G z f ^g f |
+% Bar 30 (1:18)
+F ^G c f ^g f c2 |
+z ^G3 C f2 z |
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+% Bar 40 (1:45)
+D d7 |
+E e7 |
+G, G7 |
+C G c5 z |
+D d7 |
+E e7 |
+G, G7 |
+C c7 |
+F ^G c f ^g f c2- |
+c3 ^G z f ^g f |
+% Bar 50 (2:11)
+F ^G c f ^g f c2 |
+z ^G3 C f2 z |
+F ^G c f ^g f c2- |
+c3 ^G z f ^g f |
+F ^G c f ^g f c2 |
+z ^G3 C f2 z |
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+% Bar 60 (2:38)
+C c7 |
+F c7 |
+C c7 |
+F c7 |
+D d7 |
+E e7 |
+G, G7 |
+C G c5 z |
+D d7 |
+E e7 |
+% Bar 70 (3:05)
+G, G7 |
+C c7 |
+F ^G c f ^g f c2- |
+c3 ^G z f ^g f |
+F ^G c f ^g f c2 |
+z ^G3 C f2 z |
+F ^G c f ^g f c2- |
+c3 ^G z f ^g f |
+C c G g c c' g z |
+z8 |
+% Bar 80 (3:31)
+z4 F3 |]
+
+
+X: 1
+T: Aqua Harp (3:34) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+C: Animusic
+M: 4/4
+Q: 90
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:51)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:18)
+z8 |
+z8 |
+z3 c ^d c G A- |
+A2 F G A ^A c ^d- |
+^d4 g3 f- |
+f4 ^d2 =d ^d- |
+^d2 G c d c G A- |
+A2 F G A ^A c ^d- |
+^d4 ^a3 =a- |
+a4 g3 f- |
+% Bar 40 (1:45)
+f2 A d a f d e- |
+e2 A c e c A d- |
+d2 G ^A d A G c- |
+c5 z3 |
+z2 A d a f d e- |
+e2 A c e g c d- |
+d2 G ^A d e d c |
+z8 |
+z8 |
+z8 |
+% Bar 50 (2:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 c ^d c G A- |
+A2 F G A ^A c ^d- |
+^d4 g3 f- |
+f4 ^d2 =d ^d- |
+% Bar 60 (2:38)
+^d2 G c d c G A- |
+A2 F G A ^A c ^d- |
+^d4 ^a3 =a- |
+a4 g3 f- |
+f2 A d a f d e- |
+e2 A c e c A d- |
+d2 G ^A d A G c- |
+c5 z3 |
+z2 A d a f d e- |
+e2 A c e g c d- |
+% Bar 70 (3:05)
+d2 G ^A d e d c |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (3:31)
+z7 |]
+
+
+X: 4
+T: Aqua Harp (3:34) - Basic Horn
+%%part-name Basic Horn
+%%made-for Basic Horn
+%%user-pan auto
+C: Animusic
+M: 4/4
+Q: 90
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:51)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (2:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+C5 ^A, =A, F,- |
+F,8 |
+z5 ^D, =D, F,- |
+F,8 |
+% Bar 60 (2:38)
+C5 ^A, =A, F,- |
+F,8 |
+z4 ^A,3 =A,- |
+A,4 G, F, ^D, =D,- |
+D,4 D C ^A, =A,- |
+A, C F, G,5- |
+G,2 A,2 C,2 F, G, |
+A, ^A, C D5- |
+D C ^A, =A,5- |
+A,4 G,4- |
+% Bar 70 (3:05)
+G, A, F, G,5- |
+G, A, G, F,5- |
+F,8- |
+F, F, ^G, F,5- |
+F,8- |
+F,4 F,4- |
+F,4 F,4- |
+F, F, ^G, F,5- |
+F,4 z4 |
+z8 |
+% Bar 80 (3:31)
+z7 |]
+

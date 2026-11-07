@@ -1,0 +1,87 @@
+N: TS  4,   9  21  10   8
+X: 9
+%%Orig filename was ADozenBlackRoses__Ages3.abc
+T:a dozen black roses (1:28)
+%%part-name Lute of Ages 1
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:a dozen black roses.mid
+%  Transpose:0
+L:1/4
+Q:78
+K:C
+z35/4 A13/4 A/2 ^A/2 =A/2 ^A/2 c3 G/2 =A/2 G/2 E/2 D3 F/2 G/2 A/2 D2
+F2 D3 A/2 ^A/2 =A/2 ^A/2 c3 G/2 =A/2 G/2 E/2 D3 F/2 G/2 A/2 D3 F2 A2
+^A =A/2 ^A/4 =A/4 F3 A/4 ^A/4 =A/4 F/4 A2 ^A =A/2 ^A/4 =A/4 F3 A/4
+^A/4 =A/4 F/4 A2 ^A =A/2 ^A/4 =A/4 F3 A/4 ^A/4 =A/4 F/4 A2 ^A =A/2
+^A/4 =A/4 F3 A/4 ^A/4 =A/4 F/4 A2 ^A =A/2 ^A/4 =A/4 F3 A/4 ^A/4 =A/4
+F/4 A2 ^A =A/2 ^A/4 =A/4 F3 A/4 ^A/4 =A/4 F/4 A2 ^A =A/2 ^A/4 =A/4 F3
+A/4 ^A/4 =A/4 F/4 A2 ^A =A/2 ^A/4 =A/4 F2 A/4 ^A/4 =A/4 F/4 A3
+[D2A,2]
+
+X: 21
+%%Orig filename was ADozenBlackRoses__Ages4.abc
+T:a dozen black roses (1:28)
+%%part-name Lute of Ages 2
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:a dozen black roses.mid
+%  Transpose:0
+L:1/4
+Q:78
+K:C
+z35/4 A13/4 A/2 ^A/2 =A/2 ^A/2 c3 d/2 e/2 d/2 c/2 f3 f/2 g/2 a/2 c2
+^A2 =A3 A/2 ^A/2 =A/2 ^A/2 c3 d/2 e/2 d/2 c/2 f3 f/2 g/2 a/2 c3 ^A2
+D2 E D/2 F/4 E/4 D3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 ^A,3 ^C/4 E/4
+F/4 D/4 D2 E D/2 F/4 E/4 D3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 ^A,3
+^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 D3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4
+E/4 ^A,3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 ^A,3 ^C/4 E/4 F/4 D/4 D2 E
+D/2 F/4 E/4 ^A,2 ^C/4 E/4 F/4 D/4 D3 z [D=A,D,]
+
+X: 10
+%%Orig filename was ADozenBlackRoses__Drums2.abc
+T:a dozen black roses (1:27)
+%%part-name Basic Drum
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:a dozen black roses.mid
+%  Transpose:0
+L:1/4
+Q:78
+K:C
+z83/8 z83/8 z83/8 z83/8 z11/2 [^CC,] [^D/4E,/4] z/4 ^D/4 z/4
+[^D/4C,/4] C,/4 ^D/4 C,/4 ^D/4 E,/4 ^D/4 z/4 ^D/4 z/4 ^D/4 C,/4 ^D/4
+z/4 ^D/4 E,/4 ^D/4 z/4 ^D/4 z/4 [^D/4C,/4] z/4 ^D/4 C,/4 ^D/4 z/4
+[^C/4C,/4] z/4 ^D/4 E,/4 ^D/4 z/4 [^D/4C,/4] C,/4 ^D/4 E,/4
+[^D/4B/4C,/4] z/4 B/4 z/4 ^D/4 z/4 B/4 G/4 ^D/4 z/4 ^D/4 C,/4 ^D/4
+z/4 ^D/4 z/4 [^D/4C,/4] C,/4 ^D/4 C,/4 [^C/4C,/4] z/4 ^D/4 E,/4 ^D/4
+z/4 ^D/4 z/4 [^D/4C,/4] C,/4 ^D/4 z/4 ^D/4 E,/4 ^D/4 z/4 ^D/4 C,/4
+^D/4 z/4 ^D/4 E,/4 B/4 z/4 ^D/4 z/4 [^D/4C,/4] z/4 ^D/4 C,/4 ^D/4
+C,/4 ^D/4 z/4 ^D/4 C,/4 ^D/4 z/4 ^D/4 E,/4 ^D/4 z/4 F/4 C,/4 ^D/4 z/4
+[^D/4C,/4] C,/4 ^D/4 z/4 ^D/4 z/4 ^D/4 z/4 =C/8 A,/8 A,/8 A,/8 B,/8
+[E/8A,/8C,/8] z/4 C,/4 E,/4 E,/4 [^C/4C,/4] [^C/4C,/4] [^C/4C,/4]
+^D/4 E,/4 ^D/4 z/4 ^D/4 z/4 [^D/4C,/4] z/4 ^D/4 E,/4 ^D/4 z/4 ^D/4
+C,/4 ^D/4 C,/4 B/4 ^D/4 G/4 ^D/4 E/4 z/4 ^D/4 E,/4 ^D/4 z/4
+[^D/4C,/4] C,/4 ^D/4 C,/4 [A/4C,/4] z/4 ^D/4 z/4 ^D/4 C,/4 [^D/4C,/4]
+z/4 ^D/4 E,/4 ^D/4 z/4 ^D/4 C,/4 ^D/4 z/4 ^D/4 E,/4 ^D/4 z/4 ^D/4 z/4
+^D/4 C,/4 [^D/4E,/4] z/4 [^D/4C,/4] C,/4 [A/4C,/4] z/4 ^D/4 z/4 ^D/4
+C,/4 [^D/4C,/4] z/4 ^D/4 z/4 B/4 F/4 ^D/4 z/4 B/4 F/4 G/4 z/4 ^D/4
+E,/4 ^D/4 C,/4 [^D/4C,/4] C,/4 [^C/4C,/4] z/4 ^D/4 E,/4 ^D/4 z/4
+[^C/4C,/4] z/2 [^C/4C,/4] z/4 C,/4 C,/4 [A/4C,/4] [^D/4E,/4] z/4 ^D/4
+C,/4 F/4 z/2 C,/4 ^D/4 z/4 C,/4 C,/4 ^D/4 z3/4 ^D/4 z/4 E,/4 z/4 ^D/4
+z3/4 ^D/4 z/4 C,/4 z/4 ^D/4 z F/4 E,/4 [A,/4G,/4] C,/4 [G,/4F,/4]
+C,/4 [^C/4C,/4]
+
+X: 8
+%%Orig filename was ADozenBlackRoses__Theorbo1.abc
+T:a dozen black roses (1:28)
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:a dozen black roses.mid
+%  Transpose:12
+L:1/4
+Q:78
+%%part-name Basic Theorbo
+K:C
+z83/8 z83/8 z83/8 z83/8 z11/2 D2 E D/2 F/4 E/4 D3 ^C/4 E/4 F/4 D/4 D2
+E D/2 F/4 E/4 ^A,3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 D3 ^C/4 E/4 F/4
+D/4 D2 ^A, D/2 ^A,/4 =A,/4 G,3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 G,3
+^C/4 E/4 F/4 D/4 D2 ^A, D/2 ^A,/4 =A,/4 G,3 ^C/4 E/4 F/4 D/4 D2 E D/2
+F/4 E/4 D3 ^C/4 E/4 F/4 D/4 D2 E D/2 F/4 E/4 G,2 F/4 E/4 D/4 ^C/4 D5
+

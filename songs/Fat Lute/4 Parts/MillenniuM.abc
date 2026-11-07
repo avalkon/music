@@ -1,0 +1,70 @@
+N: TS  4,  10   1  18   8
+X: 10
+%%Orig filename was MillenniuM__Drums2.abc
+T:millennium (0:42)
+%%part-name Basic Drum
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:millennium.mid
+%  Transpose:-4
+L:1/4
+Q:120
+K:C
+z7/2 [^g3/8^d3/8] z/8 [^d3/8^g3/8] z89/8 [^g3/8^d3/8] z/8 [^g3/8^d3/8]
+z37/8 [^g/2^d/2] z14 [^g3/8^d/4] z/4 [^d3/8^g3/8] z37/8 [^d/2^g/2] z6
+[^d/4^g/4] z/4 [^g3/8^d3/8] z37/8 [^g/2^d/2] z10 [^d3/8^g3/8] z/8
+[^g3/8^d3/8] z37/8 [^d/2^g/2] z23/2 [^d/2^g/2] z2 [^g/4^d/4] z/4
+[^g/2^d/2]
+
+X: 1
+%%Orig filename was MillenniuM__Flute3.abc
+T:millennium (0:46)
+%%part-name Basic Flute
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:millennium.mid
+%  Transpose:-4
+L:1/4
+Q:120
+K:C
+z6 [^d2z15/8] =d5/8 [^A7/2z27/8] c5/8 g5 z3/8 [g5/8z/2] [^a7/4z13/8]
+c'6 [d5/8z/2] [c'13/8z3/2] [g5/8z/2] [f45/8z11/2] g2 f4 [^A3z23/8]
+[c9/8z] [d5/8z/2] f41/8 z3/8 f5/8 g3/2 [f3z23/8] d9/8 e/2 =A7/2
+[G5/8z/2] A11/2 [G/2z3/8] [^A7/4z13/8] c4 ^d3 [=dz7/8] [^d3/4z5/8]
+f7/2 g15/4 z/4 g8
+
+X: 18
+%%Orig filename was MillenniuM__Pipes1.abc
+T:millennium (0:46)
+%%part-name Basic Bagpipe
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:millennium.mid
+%  Transpose:-4
+L:1/4
+Q:120
+K:C
+z31/8 [C16z/8] [C,16z127/8] [C/8^G,/8] ^G,127/8 ^G,/8 [^G,/8^A,16]
+z127/8 [D16^A,/8D,16] z127/8 [C16D/8C,16] z127/8 [C/8G8=G,8]
+
+X: 8
+%%Orig filename was MillenniuM__Theorbo4.abc
+T:millennium (0:46)
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:millennium.mid
+%  Transpose:-4
+L:1/4
+Q:120
+%%part-name Basic Theorbo
+K:C
+z4 C,/2 z/2 C,/2 z/2 C,5/8 z3/8 C,5/8 z3/8 C,/2 z/2 C,/2 z/2 C,/2 z/2
+C,/2 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2 C,5/8 z3/8 C,5/8 z/2
+C,/2 z3/8 C,5/8 z/2 ^G,/2 z3/8 ^G,/2 z/2 ^G,/2 z/2 ^G,/2 z/2 ^G,/2
+z/2 ^G,/2 z/2 ^G,/2 z/2 ^G,/2 z/2 ^G,/2 z/2 ^G,5/8 z3/8 ^G,5/8 z3/8
+^G,/2 z/2 ^G,5/8 z3/8 ^G,/2 z/2 ^G,/2 z/2 ^G,5/8 z3/8 ^A,5/8 z3/8
+^A,/2 z/2 ^A,5/8 z3/8 ^A,/2 z/2 ^A,/2 z/2 ^A,/2 z/2 ^A,/2 z/2 ^A,5/8
+z3/8 ^A,/2 z/2 ^A,/2 z/2 ^A,/2 z/2 ^A,5/8 z3/8 ^A,/2 z/2 ^A,/2 z/2
+^A,/2 z/2 ^A,5/8 z3/8 D,/2 z/2 D,/2 z/2 D,/2 z5/8 D,3/8 z/2 D,/2 z/2
+D,5/8 z3/8 D,/2 z5/8 D,3/8 z/2 D,/2 z/2 D,5/8 z3/8 D,/2 z/2 D,/2 z/2
+D,/2 z/2 D,/2 z/2 D,5/8 z3/8 D,/2 z/2 C,5/8 z3/8 C,/2 z/2 C,/2 z/2
+C,5/8 z3/8 C,/2 z5/8 C,3/8 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2
+C,/2 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2 C,/2 z/2 =G,/2 z/2 G,/2
+z/2 G,/2 z/2 G,19/4
+

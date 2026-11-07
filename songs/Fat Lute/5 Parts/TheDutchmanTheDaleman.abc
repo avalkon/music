@@ -1,0 +1,923 @@
+N: TS  5,   3   5  21   4   8
+X: 3
+%%Orig filename was TheDutchmanTheDaleman__Clar1.abc
+T:The Daleman v2, Basic Clarinet, M. P. Smith,  5:30 (1:24)
+%%part-name Basic Clarinet
+N:Tirigifu transcription, Elendilmir server, LOTRO
+M:48/48
+L:1/48
+Z:Transcribed by balithag@netscape.net
+K:C
+Q:1520
+z48|
+z48|
++mp+G6 c6 G6 d12 c6 d12|
+e6c12 G12 E6 F12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++mp+d16z2 d6 c16z2 c6|
+B16z2 B6 A16z2 A6|
++mf+F16z2 F6 E16z2 E6|
++f+D16z2 D6 C16z2 C6|
++f+B,16z2 +mf+B6 +p+g6 B12 B6|
++pp+B16z2 B6 g6 B12 B6|
+d24c72|
+z48|
++pp+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+d16z2 d6 c16z2 c6|
++mp+B16z2 B6 A16z2 A6|
++mf+F16z2 F6 E16z2 E6|
++f+D16z2 D6 E12 F12|
++f+G16z2 +mf+B6 g6 B12 B6|
++p+B16z2 B6 g6 B12 B6|
+d24+pp+c72|
+G36 +p+E6 +mp+E6|
+D24 A24|
++p+B48|
++mp+c20z4 +mf+d6c6d6c6|
+e12 z12 +p+c3d3c6 B3c3B6|
+A12c12f20z4|
++mp+d12 B12 g24|
+f24 e15 +p+d18|
++pp+c24z12 z24|
++f+F24 F18 +mf+F6|
++f+F24 G18 +mf+F6|
++f+F3+mp+G3F6 +mf+E40|
+z20 +f+D12 +mf+E6 +f+F30|
+F18 +mf+E6|
++f+D6 +mf+D18 +f+C12 D12/5 +mf+ E12/5D12/5 C12/5D12/5|
++f+E48|
+z24 C18 +mf+B,6|
+A,24 z12 +pp+E2+f+F10|
++ff+F6z6 +mf+F6 +ff+G9+mf+A3F6D6 +mf+F6|
++f+F12 +mf+E36|
+z24 C12 +mp+B,6 +pp+C3B,3|
++f+A,24 F12 z6 +mp+E6|
++mf+D12 +mp+D12 +mf+C6 z13 +mp+B,6|
+C60|
+z36|
++mp+G6 c6 G6 d12 c6 d12|
+e6c12 G12 +p+E6 +pp+F12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++mp+d16z2 d6 c16z2 c6|
+B16z2 B6 A16z2 A6|
++mf+F16z2 F6 E16z2 E6|
++f+D16z2 D6 E12 F12|
++f+G16z2 +mf+B6 +p+g6 B12 B6|
++pp+B16z2 B6 g6 B12 B6|
+c24c24|
++pp+c6G12 G12 G12G6|
++pp+c6G12 G12 G12G6|
++pp+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+d16z2 d6 c16z2 c6|
++mp+B16z2 B6 A16z2 A6|
++mf+F16z2 F6 E16z2 E6|
++f+D16z2 D6 E12 F12|
++f+G16z2 +mf+B6 g6 B12 B6|
++p+B16z2 B6 g6 B12 B6|
+c24+pp+c24|
++pp+c6e12 c12 e12c6|
+G36 +p+E6 +mp+E6|
+D24 A24|
++p+B48|
++mp+c20z4 +mf+d6c6d6c6|
+e12 z12 +p+c3d3c6 B3c3B6|
+A12c12f20z4|
++mp+d12 B12 g24|
+A24 G18 +p+F18|
++pp+E3c21z18 z24|
++f+F24 F18 +mf+F6|
++f+F24 G18 +mf+F6|
++f+F3+mp+G3F6 +mf+E40|
+z20 +f+D12 +mf+E6 +f+F30|
+F18 +mf+E6|
++f+D6 +mf+D18 +f+C12 D12/5 +mf+ E12/5D12/5 C12/5D12/5|
++f+E48|
+z24 C18 +mf+B,6|
+A,24 z12 +pp+E2+f+F10|
++ff+F6z6 +mf+F6 +ff+G9+mf+A3F6D6 +mf+F6|
++f+F12 +mf+E36|
+z24 C12 +mp+B,6 +pp+C3B,3|
++f+A,24 F12 z6 +mp+E6|
++mf+D12 +mp+D12 +mf+C6 z13 +mp+B,6|
+C60|
+z36|
++mp+G6 c6 G6 d12 c6 d12|
+e6c12 G12 +p+E6 +pp+F12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++mp+d16z2 d6 c16z2 c6|
+B16z2 B6 A16z2 A6|
++mf+F16z2 F6 E16z2 E6|
++f+D16z2 D6 E12 F12|
++f+G16z2 +mf+B6 +p+g6 B12 B6|
++pp+B16z2 B6 g6 B12 B6|
+c24c24|
++pp+c6G12 G12 G12G6|
++pp+c6G12 G12 G12G6|
++pp+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+G6 c12 c12 c6 d12|
++pp+g6 +p+e12 c12 G6 E12|
++p+d16z2 d6 c16z2 c6|
++mp+B16z2 B6 A16z2 A6|
++mf+F16z2 F6 E16z2 E6|
++f+D16z2 D6 E12 F12|
++f+G16z2 +mf+B6 g6 B12 B6|
++p+B16z2 B6 g6 B12 B6|
+c24+pp+c24|
++pp+c6e12 c12 e12c6|
+G36 +p+E6 +mp+E6|
+D24 A24|
++p+B48|
++mp+c20z4 +mf+d6c6d6c6|
+e12 z12 +p+c3d3c6 B3c3B6|
+A12c12f20z4|
++p+d12 B12 g27|
+A27 G25 +pp+F26|
++ppp+E3c27z18 z27|
++mp+F24 F18 +p+F6|
++mf+F24 G18 +mf+F6|
++mf+F3+p+G3F6 +mp+E48|
+z12 +p+D12 +mp+E6 +mf+F30|
+F18 +mf+E6|
++mf+D6 +mp+D18 +mf+C12 D12/5 +mp+ E12/5D12/5 C12/5D12/5|
++mf+E48|
+z24 C18 +mf+B,6|
+A,24 z12 +pp+E2+f+F10|
++ff+F6z6 +mf+F6 +ff+G9+mf+A3F6D6 +mf+F6|
++f+F12 +mf+E36|
+z24 C12 +mp+B,6 +pp+C3B,3|
++f+A,24 F12 z6 +mp+E6|
++mf+D12 +mp+D12 +mf+C6 z13 +mp+B,6|
++mp+C54|
+z18 +mf+D6+f+E18|
++ff+F24 F18 +f+F6|
++ff+F24 G18 +f+F6|
++ff+F3+f+G3F6 +f+E36|
+z24 +mf+D12 +mf+E6 +f+F30|
+F18 +mf+E6|
++f+D6 +mf+D18 +f+C12 D12/5 +mf+ E12/5D12/5 C12/5D12/5|
++f+E48|
+z24 C18 +mf+B,6|
+A,24 z12 +pp+E2+f+F10|
++ff+F6z6 +mf+F6 +ff+G9+mf+A3F6D6 +mf+F6|
++f+F12 +mf+E36|
+z24 C12 +mp+B,6 +pp+C3B,3|
++f+A,24 F12 z6 +mp+E6|
++mf+D12 +mp+D12 +mf+C6 z13 +mp+B,6|
+A27 G17 +pp+F24|
++ppp+E69|
+
+X: 5
+%%Orig filename was TheDutchmanTheDaleman__Harp2.abc
+T:The Daleman v2, Basic Harp 1, M. P. Smith,  5:30 (1:24)
+%%part-name Basic Harp 1
+N:Tirigifu transcription, Elendilmir server, LOTRO
+M:48/48
+L:1/48
+Z:Transcribed by balithag@ netscape.net
+K:C
+Q:1520
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+D12 +p+A12 D12 A12|
++mp+D12 +p+A12 D12 A12|
++mf+D12 +mp+A12 D12 A12|
++f+D12 +mf+A12 D12 A12|
++f+G,12 +mp+D12 D12 D12|
++f+G,12 +mp+D12 D12 D12|
++f+C18 C6 C24|
++mf+C12 +p+G12 C12 G12|
++mf+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++p+D12 +p+A12 D12 A12|
++mp+D12 +p+A12 D12 A12|
++mf+D12 +p+A12 D12 A12|
++f+D12 +mp+A12 D12 A12|
++f+G,12 +mp+D12 D12 D12|
++f+G,12 +mp+D12 D12 D12|
++mf+C18 C6 C24|
++mf+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+D12 +p+A12 C12 A12|
++mp+G,12 +p+B,12 D12 B,12|
++mp+C12 +p+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mp+D12 +p+A12 c12 A12|
++mp+G12 +p+D12 G24|
++mf+F24 E15 D18| 
+C24 z12 z24|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++ff+C12 +f+G12 B,12 G12|
++mf+A,12 +mp+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++mf+C12 +mp+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++ff+C12 +f+G12 B,12 G12|
++mf+A,12 +mp+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d13 B12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+D12 +p+A12 D12 A12|
++mp+D12 +p+A12 D12 A12|
++mf+D12 +mp+A12 D12 A12|
++f+D12 +mf+A12 D12 A12|
++f+G,12 +mp+D12 D12 D12|
++f+G,12 +mp+D12 D12 D12|
++f+C18 C6 C24|
++mf+C12 +p+G12 C12 G12|
++mf+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++p+D12 +p+A12 D12 A12|
++mp+D12 +p+A12 D12 A12|
++mf+D12 +p+A12 D12 A12|
++f+D12 +mp+A12 D12 A12|
++f+G,12 +mp+D12 D12 D12|
++f+G,12 +mp+D12 D12 D12|
++mf+C18 C6 C24|
++mf+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+D12 +p+A12 C12 A12|
++mp+G,12 +p+B,12 D12 B,12|
++mp+C12 +p+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mp+D12 +p+A12 c12 A12|
++mp+G12 +p+D12 G24|
++mf+F24 E18 D18| 
+C24 z18 z24|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++ff+C12 +f+G12 B,12 G12|
++mf+A,12 +mp+ E12 A,12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++mf+C12 +mp+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++ff+C12 +f+G12 B,12 G12|
++mf+A,12 +mp+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d13 B12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+D12 +p+A12 D12 A12|
++mp+D12 +p+A12 D12 A12|
++mf+D12 +mp+A12 D12 A12|
++f+D12 +mf+A12 D12 A12|
++f+G,12 +mp+D12 D12 D12|
++f+G,12 +mp+D12 D12 D12|
++f+C18 C6 C24|
++mf+C12 +p+G12 C12 G12|
++mf+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++p+D12 +p+A12 D12 A12|
++mp+D12 +p+A12 D12 A12|
++mf+D12 +p+A12 D12 A12|
++f+D12 +mp+A12 D12 A12|
++f+G,12 +mp+D12 D12 D12|
++f+G,12 +mp+D12 D12 D12|
++mf+C18 C6 C24|
++mf+C12 +p+G12 C12 G12|
++mp+C12 +p+G12 C12 G12|
++mp+D12 +p+A12 C12 A12|
++mp+G,12 +p+B,12 D12 B,12|
++mp+C12 +p+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mp+D12 +p+A12 c12 A12|
++mp+G12 +p+D12 G27|
++p+F27 E25 D26| 
+C30 z18 z27|
++mp+D12 +mp+A12 +mf+c12 A12|
++mf+G12 +mf+B12 d12 B12|
++mf+C12 +mf+G12 B,12 G12|
++mf+A,12 +mp+ E12 A,12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++mf+G12 +mp+B12 d12 B12|
++mf+C12 +mp+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++ff+C12 +f+G12 B,12 G12|
++mf+A,12 +mp+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d13 B12|
++mf+C12C12 A24|
++f+G12G12 F6 E18|
++f+D12 +mf+A12 +f+c12 A12|
++ff+G12 +f+B12 d12 +ff+B12|
++ff+C12 +f+G12 B,12 +mf+G12|
++mf+A,12 +mp+ E12 A,12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++mf+C12 +mp+G12 B,12 G12|
++mp+A,12 +p+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d12 B12|
++ff+C12 +f+G12 B,12 G12|
++mf+A,12 +mp+ E12 E12 E12|
++mf+D12 +mp+A12 +mf+c12 A12|
++f+G12 +mf+B12 d13 B12|
++p+F27 E17 D24| 
+C30 z18 z27|
+
+X: 21
+%%Orig filename was TheDutchmanTheDaleman__Harp3.abc
+T:The Daleman v2, Basic Harp 2, M. P. Smith,  5:30 (1:24)
+%%part-name Basic Harp 2
+N:Tirigifu transcription, Elendilmir server, LOTRO
+M:48/48
+L:1/48
+Z:Transcribed by balithag@ netscape.net
+K:C
+Q:1520
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z57|
+z36 +ppp+E24|
++pp+D24+p+C24|
++mp+B,24 +p+G,24|
++pp+C24+p+D24|
++mp+E6F6E12 +p+D12 E12|
++pp+D24D24|
++p+G,24G,24|
++pp+C24+p+B,24|
++mp+A,24+p+E24|
++pp+D24 +p+D24|
++mp+G24G24|
++pp+c24 +p+B24|
++mp+A24 +p+A24|
++pp+D24 +p+D24|
+G,24 +pp+G,23z2|
++ppp+C48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z48|
+z60|
+z42 +ppp+E24|
++pp+D24+p+C24|
++mp+B,24 +p+G,24|
++pp+C24+p+D24|
++mp+E6F6E12 +p+D12 E12|
++pp+D24D24|
++p+G,24G,24|
++pp+C24+p+B,24|
++mp+A,24+p+E24|
++pp+D24 +p+D24|
++mp+G24G24|
++pp+c24 +p+B24|
++mp+A24 +p+A24|
++pp+D24 +p+D24|
+G,24 +pp+G,23z2|
++ppp+C48|
+z48|
+z48|
+z48|
+z24 +mf+e3e3 e3e3 e3e3 +f+e3e3|
+d3d3 d3d3 d3z3 +mp+c3z3 c3c3 c3c3 c3c3 c3z3|
+A3A3 A3A3 A3z3 G3z3 G3G3 G3G3 G3G3 G3z3|
+F3F3 F3F3 F3z3 E6 E18 f6|
+f3f3 f3f3 f3z3 e6 e3e3 e3e3 e3z3 d6|
+d3d3 d3d3 d3d3 d3d3 d3d3 d3d3 d3d3 d3z3|
++f+d6 d6 d6 e6 c6c6c6 d6|
+B6B6B6c6 +ff+A6A6A6B6|
++fff+G3+ff+G3 +f+G3G3 G3G3 G3G3 G3G3 G3G3 G3G3 F6|
+F6F6F6E6 E18 A6|
++ff+A3A3 A3A3 A3z3 +mf+G6 +f+G3G3 G3G3 +mf+G3G3 G3G3|
+z48|
+z48|
+z24 +mf+e3e3 e3e3 e3e3 +f+e3e3|
+d3d3 d3d3 d3z3 +mp+c3z3 c3c3 c3c3 c3c3 c3z3|
++mf+A3A3 A3A3 A3z3 +p+G3z3 +mf+G3G3 G3G3 G3G3 G3z3|
++f+F3F3 F3F3 F3z3 +mp+E6 +mf+E18 +p+f6|
++mf+f3f3 f3f3 f3z3 +mp+e6 +mf+e3e3 e3e3 e3z3 +mp+d6|
++f+d3d3 d3d3 +mf+d3d3 d3d3 d3d3 d3+mp+d3 d3d3 d3z3|
++f+d6 d6 d6 +mf+e6 +f+c6c6c6 d6|
++ff+B6B6B6+f+c6 +ff+A6A6A6+f+B6|
++fff+G3G3 +ff+G3G3 G3G3 G3G3 +f+G3G3 G3G3 G3G3 +mf+F6|
++f+F6F6F6+mf+E6 E18 +mp+D6|
++f+D3D3 D3D3 D3z3 +mf+C6 +f+C3C3 C3C3 +mf+C3C3 C3C3|
++mp+C3C3 +p+C3C3 C3C3 C3C3 C3C3 C3C3 C3C3 C3C3|
++p+C3C3 +pp+C3C3 C3C3 C3C3 C3C3 C3C3 C3C3 C3C3|
++mp+F3F3 F3F3 A3A3 A3A3 c3c3 c3c3 A3A3 A3A3|
++mf+G3G3 G3G3 G3z3 B3B3 d3d3 d3d3 B3B3 +f+B3B3|
++f+c3c3 c3c3 c3c3 c3c3 B3B3 B3B3 +mf+B3z3 c6|
++mp+A3A3 A3A3 A3A3 A3A3 +p+A3A3 A3A3 A3A3 A3A3|
++mp+F3F3 F3F3 E3E3 E3E3 F3F3 F3F3 A3A3 A3A3|
++mp+G3G3 G3G3 G3G3 G3G3 G3G3 G3G3 G3G3 z9|
++pp+F3F3 F3F3 F3F3 F3F3 z3 E25 +pp+D26|
+C30 z18 +ppp+E27|
++pp+D24+p+C24|
++mp+B,24 +p+G,24|
++pp+C24+p+D24|
++mp+E6F6E12 +p+D12 E12|
++pp+D24D24|
++p+G,24G,24|
++pp+C24+p+B,24|
++mp+A,24+p+E24|
++pp+D24 +p+D24|
++mp+G24G24|
++pp+c24 +p+B24|
++mp+A24 +p+A24|
++pp+D24 +p+D24|
+G,24 +pp+G,23z2|
+C,24 C12 +p+D6 E6|
++mp+E12 c12 G6 +mf+F6 E6 +f+F6|
++f+D24+f+C24|
++f+B,24 +ff+G,24|
++ff+C24+f+D24|
++mf+E6F6E12 +mp+D12 E12|
++mf+D24D24|
++f+G,24G,24|
++f+C24+f+B,24|
++mf+A,24+mp+E24|
++p+D24 +mp+D24|
++mf+G24G24|
++ff+c24 +f+B24|
++mf+A24 +mp+A24|
++p+D24 +mp+D24|
++mf+G,24 +mp+G,23z2|
++pp+ C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,3C,3 C,2|
+C,3C,3 +ppp+C,3C,3 C,3C,3 C,3C,3 C,3C,3
+
+X: 4
+%%Orig filename was TheDutchmanTheDaleman__Horn4.abc
+T:The Daleman v2, Basic Horn, M. P. Smith,  5:30 (1:24)
+%%part-name Basic Horn
+N:Tirigifu transcription, Elendilmir server, LOTRO
+M:48/48
+L:1/48
+Z:Transcribed by balithag@ netscape.net
+K:C
+Q:1520
+z48|
+z48|
+z48|
+z42 +mf+G,6|
++f+A6 +mf+G12 +f+G6z12 F6 +f+F18|
++mf+E6 +f+E24 +mf+G,6|
++f+F6 +mf+E18 E10z2 D10z2|
++f+D10z2 +mf+C6 +f+C24 +mf+B,6|
+A,42 E4z2|
+E24 A,36|
+z36|
+z48|
+z18 +mf+B4z2 +f+B12 +mf+A12|
++f+A6 +mf+G6 z12 G12 +mp+F12|
++mf+F18 E4z2 E36|
+z36|
+z42 +f+A6|
++f+A12 +mf+G6 +f+G18 +mf+F12|
++f+F7 +mf+E9 z20 F6F3 +f+F21|
++mf+E6 +f+E18 +mf+D6|
++f+D12 +mf+C6 +f+C18 +mf+B,12|
+z24 +mp+A,18 E6|
+E24 +p+A,24|
+z48|
+z48|
+z18 +mf+B6 +ff+B12 +f+A12|
+A7 G9 z9 +ff+G34|
++ppp+^F2+mf+=F6 +f+F12 +mf+E6 +f+E24|
+z36|
+z18 +mf+C6 +f+C12 B,12|
+A,6 +mf+F12 F6 z18 A,6|
++f+B,6 +mf+G12 +f+G24 +mf+F6|
++f+F12 +mf+E6z6 D4z2 E18|
+z18 +mf+C4z2 +f+C12 +mf+B,12|
+A,18 A,6 +mp+F12 E12|
++mf+D6 +mp+D30 z6 +p+C3B,3|
++mp+C48 z9|
+z36 +mf+D6E18|
++f+F24 F18 +mf+F6|
++ff+F24 G18 +mf+F6|
++f+F12 +mf+E48|
+z12 +f+D12 +mf+E6 +f+F30|
+F18 +mf+E6|
++ff+D6 +mf+D18 +f+C12 D6+mf+E6|
++f+E48|
+z24 C18 +mf+B,6|
+A,24 z12 +f+F12|
++ff+F6z6 +mf+F4z2 +ff+G24 +mf+F6|
++f+F12 +mf+E36|
+z24 C12 +mp+B,12|
++f+A,24 F12 z6 +mp+E6|
++mf+D12 +mp+D12 +mf+C6 z13 +mp+B,6|
+C60|
+z36|
+z48|
+z42 +mf+G,6|
++f+A12+mf+G12 +f+G18 F6 |
++f+F6+mf+E12 +f+E12 z12 +mf+G,6|
++f+F5 +mf+E13 +f+E15 D13z2|
++f+D10z2 +mf+C6 +f+C24 +mf+B,6|
+A,36 E12|
+E24 A,36|
+z36|
+z48|
+z18 +mf+B4z2 +f+B18 +mf+A6|
++f+A18 +mf+G6  G18 +mp+F10|
+z4 +mf+F10 E6 E36|
+z36|
+z42 +f+A6|
++f+A6 +mf+G18 +f+G12 +mf+F12|
++f+F6 +mf+E12 +f+E12 +mf+z3 G,6 +f+F21|
++mf+E12 +f+E6 +mf+D18|
++f+D12 +mf+C6 +f+C18 +mf+B,12|
+A,42 +mp+E6|
+E12 +p+A,36|
+z48|
+z48|
+z18 +mf+B6 +ff+B18 +f+A6|
+A18 G6 +ff+G6 +f+F18|
++f+F18 +mf+E6 +f+E24|
+z48|
+z18 +mf+C6 +f+C12 B,12|
+A,6 +mf+F12 F6 z18 A,6|
++f+B,6 +mf+G12 +f+G24 +mf+F6|
++f+F18 +mf+E6 E24|
+z18 +mf+C6 +f+C12 +mf+B,12|
+A,12 A,3 +mf+F15 +mp+ E3D21|
++mf+z24 z3+mp+G,3 C6 +p+B,6|
++mp+C48 z12|
+z24 z18 +mf+[D6F6] [E18G18]|
++f+[F24A24] [F18A18] +mf+[F6A6]|
++ff+[F24A24] [G18B18] +mf+[F6A6]|
++f+[F12A12] +mf+ [E48G48]|
+z12 +f+[D12F12] +mf+[E6G6] +f+ [F30A30]|
+[F18A18] +mf+[E6c6]|
++ff+[D6B6] +mf+[D18B18] +f+[C12A12] [D6A6] +mf+ [E6G6]|
++f+ [E48G48]|
+z24 [C18E18] +mf+ [B,6G6]|
+[A,24F24] z12 +f+ [F12A12]|
++ff+ [F6A6]z6 +mf+[F4A4]z2 +ff+ [G24B24] +mf+ [F6A6]|
++f+[F12A12] +mf+[E36G36] |
+z24 [C12E12] +mp+ [B,12G12]|
++f+ [A,24F24] [F12A12] z6 +mp+ [E6G6] |
++mf+[D12G12] +mp+ [D12G12] +mf+ [C6F6] z13 +mp+ [B,6F6]|
+[C60E60]|
+z36|
+z48|
+z36 G,12|
++f+A6+mf+G18 +f+G27 |
++mf+F3+f+F3 +mf+E3 +f+E15 z15 +mf+G,6|
++f+F18 +mf+E6 +f+E6 D16z2|
++f+D6 +mf+C6 z24 +f+C6 +mf+B,6|
+A,42 E4z2|
+E6 A,42|
+z48|
+z48|
+z12 +mf+B4z2 B4z2+f+B18 +mf+A6|
++f+A3G3 +mf+G8 z10 z6 G12 +mp+F6|
++mf+F18 E4z2 E36|
+z36|
+z42 +f+A6|
++f+A6 +mf+G18 +f+G18 +mf+F6|
++f+F6 +mf+E6 z12 +mf+z12 E6 F6|
++f+F18 +mf+E6 +f+E12+mf+D12|
++f+D6 +mf+C6 z12 z12+f+C6 +mf+B,6|
+z24 A,18 +mp+E18|
+E12 +p+A,36|
+z36|
+z48|
+z18 +mf+B6 +ff+B18 +f+A6|
+A18 G6 +mf+G12 z12|
+z6+mp+G,6+mf+F3+mp+E6 +mp+E39|
+z36|
+z18 +mf+C6 +f+C12 B,12|
+A,6 +mf+F12 F6 z18 A,6|
++f+B,12 +mf+G6 +f+G18 +mf+F12|
++f+F12 +mf+E6 E12z18|
+z18 +mf+C6 +f+C12 +mf+B,12|
+A,12 F6 +mf+F6 z18 +mp+ E6|
++mp+D12 D12 C6 +p+B,15 B,6|
++mp+D15 C7 +p+C56 |
+z30 z18 +mp+[D6F6] [E21G21]|
++mp+[F24A24] [F18A18] +mf+[F6A6]|
++mf+[F24A24] [G18B18] +mf+[F6A6]|
++mf+[F12A12] +mp+ [E40G40]|
+z20 +p+[D12F12] +mp+[E6G6] +mf+ [F30A30]|
+[F18A18] +mf+[E6c6]|
++mf+[D6B6] +mp+[D18B18] +mf+[C12A12] [D6A6] +mp+ [E6G6]|
++mf+ [E48G48]|
+z24 [C18E18] +mf+ [B,6G6]|
+[A,24F24] z12 +f+ [F12A12]|
++ff+ [F6A6]z6 +mf+[F4A4]z2 +ff+ [G24B24] +mf+ [F6A6]|
++f+[F12A12] +mf+[E36G36] |
+z24 [C12E12] +mp+ [B,12G12]|
++f+ [A,24F24] [F12A12] z6 +mp+ [E6G6] |
++mf+[D12G12] +mp+ [D12G12] +mf+ [C6F6] z13 +mp+ [B,6F6]|
++mp+[C54E54]|
+z18 +mp+[D6F6] [E18G18]|
++mp+[F24A24] [F18A18] +mf+[F6A6]|
++mf+[F24A24] [G18B18] +mf+[F6A6]|
++mf+[F12A12] +mp+ [E40G40]|
+z20 +p+[D12F12] +mp+[E6G6] +mf+ [F30A30]|
+[F18A18] +mf+[E6c6]|
++mf+[D6B6] +mp+[D18B18] +mf+[C12A12] [D6A6] +mp+ [E6G6]|
++mf+ [E48G48]|
+z24 [C18E18] +mf+ [B,6G6]|
+[A,24F24] z12 +f+ [F12A12]|
++ff+ [F6A6]z6 +mf+[F4A4]z2 +ff+ [G24B24] +mf+ [F6A6]|
++f+[F12A12] +mf+[E36G36] |
+z24 [C12E12] +mp+ [B,12G12]|
++f+ [A,24F24] [F12A12] z6 +mp+ [E6G6] |
++mf+[D12G12] +mp+ [D12G12] +mf+ [C6F6] z13 +mp+ [B,6F6]|
++p+ [C137E137]|
+
+X: 8
+%%Orig filename was TheDutchmanTheDaleman__Lute5.abc
+T:The Daleman v2, Basic Lute, M. P. Smith,  5:30 (1:24)
+%%part-name Basic Lute
+N:Tirigifu transcription, Elendilmir server, LOTRO
+M:48/48
+L:1/48
+Z:Transcribed by balithag@ netscape.net
+K:C
+Q:1520
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++p+g6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+b6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+g6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+b6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++pp+d6 A6 f6 e12 A6 f6 +p+e12|
++mp+A6 f6 e12 A6 f6 e12|
++mf+A6 f6 d12 A6 f6 e6|
++f+d6 A6 f6 e12 A6 f6 +mf+d6|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+f6 +mp+c6 A6 +f+e6 e6 +mp+c6 G12|
++mf+g6 +p+e6 c6 +mf+a12 +p+e6 c12|
++mf+b6 +p+e6 c6 +mf+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++p+d6 A6 f6 e12 A6 f6 +p+e12|
++mp+A6 f6 e12 A6 f6 e12|
++mf+A6 f6 d12 A6 f6 e6|
++f+d6 A6 f6 e12 A6 f6 +mf+d6|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+G6 +mp+B6 g12 G6 B6 g12|
++mf+f6 +mp+c6 A6 +mf+f6 +mp+e6 c6 G12|
++mp+c6 +p+G6 c6 +mp+d12 +p+e6 c6 G6|
++mp+c6 +p+G6 c6 +mp+d12 +p+e6 c6 G6|
++mp+d6 +p+A6d6 +p+f12 +p+d6A6 +mp+c6|
++mp+B6 G6 +p+B6 d12 +p+B6 d12|
++mp+c6 +p+G6 e6 g12  f6 e6 d6|
++mp+c6 +p+A6 e6 c12 A6 e12|
++mp+d6 +p+A6d6 +p+f12 +p+d6A6 +mp+c6|
++mp+B6 G6 +p+B6 d12 +p+B6 d12|
++mf+[f24a24] [e15g15] [d18f18]|
+[c24e24]z12 G6G18|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+f+G6|
++f+c6 e6c6e6 +mf+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] c6 e6 c6 +mp+e6 c6 A6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 g6 d6 +f+B6 +mf+d6g6+f+d6|
++f+G6 c6e6c6 +mf+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] +p+c6 e6 c6 +mp+A6 c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+f+d6|
++f+c6 +mf+e6g6e6 +mf+G6 e6g6e6|
++mp+A6c6 e6 c6 +mp+A6c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 G6 +mf+B6 +mp+d6+p+G6G7+p+B6|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++p+g6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+b6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+g6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+b6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++pp+d6 A6 f6 e12 A6 f6 +p+e12|
++mp+A6 f6 e12 A6 f6 e12|
++mf+A6 f6 d12 A6 f6 e6|
++f+d6 A6 f6 e12 A6 f6 +mf+d6|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+f6 +mp+c6 A6 +f+e6 e6 +mp+c6 G12|
++mf+g6 +p+e6 c6 +mf+a12 +p+e6 c12|
++mf+b6 +p+e6 c6 +mf+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++p+d6 A6 f6 e12 A6 f6 +p+e12|
++mp+A6 f6 e12 A6 f6 e12|
++mf+A6 f6 d12 A6 f6 e6|
++f+d6 A6 f6 e12 A6 f6 +mf+d6|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+G6 +mp+B6 g12 G6 B6 g12|
++mf+f6 +mp+c6 A6 +mf+f6 +mp+e6 c6 G12|
++mp+c6 +p+G6 c6 +mp+d12 +p+e6 c6 G6|
++mp+c6 +p+G6 c6 +mp+d12 +p+e6 c6 G6|
++mp+d6 +p+A6d6 +p+f12 +p+d6A6 +mp+c6|
++mp+B6 G6 +p+B6 d12 +p+B6 d12|
++mp+c6 +p+G6 e6 g12  f6 e6 d6|
++mp+c6 +p+A6 e6 c12 A6 e12|
++mp+d6 +p+A6d6 +p+f12 +p+d6A6 +mp+c6|
++mp+B6 G6 +p+B6 d12 +p+B6 d12|
++mf+[f24a24] [e18g18] [d18f18]|
+[c24e24]z18 G6G18|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+f+G6|
++f+c6 e6c6e6 +mf+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] c6 e6 c6 +mp+e6 c6 A6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 g6 d6 +f+B6 +mf+d6g6+f+d6|
++f+G6 c6e6c6 +mf+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] +p+c6 e6 c6 +mp+A6 c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+f+d6|
++f+c6 +mf+e6g6e6 +mf+G6 e6g6e6|
++mp+A6c6 e6 c6 +mp+A6c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 G6 +mf+B6 +mp+d6+p+G6G7+p+B6|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++p+g6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+b6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+g6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++p+b6 +pp+e6 c6 +p+a12 +pp+e6 c12|
++pp+d6 A6 f6 e12 A6 f6 +p+e12|
++mp+A6 f6 e12 A6 f6 e12|
++mf+A6 f6 d12 A6 f6 e6|
++f+d6 A6 f6 e12 A6 f6 +mf+d6|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+f6 +mp+c6 A6 +f+e6 e6 +mp+c6 G12|
++mf+g6 +p+e6 c6 +mf+a12 +p+e6 c12|
++mf+b6 +p+e6 c6 +mf+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+g6 +p+e6 c6 +mp+a12 +p+e6 c12|
++mp+b6 +p+e6 c6 +mp+a12 +p+e6 c12|
++p+d6 A6 f6 e12 A6 f6 +p+e12|
++mp+A6 f6 e12 A6 f6 e12|
++mf+A6 f6 d12 A6 f6 e6|
++f+d6 A6 f6 e12 A6 f6 +mf+d6|
++f+G6 +mp+B6 g12 G6 B6 g12|
++f+G6 +mp+B6 g12 G6 B6 g12|
++mf+f6 +mp+c6 A6 +mf+f6 +mp+e6 c6 G12|
++mp+c6 +p+G6 c6 +mp+d12 +p+e6 c6 G6|
++mp+c6 +p+G6 c6 +mp+d12 +p+e6 c6 G6|
++mp+d6 +p+A6d6 +p+f12 +p+d6A6 +mp+c6|
++mp+B6 G6 +p+B6 d12 +p+B6 d12|
++mp+c6 +p+G6 e6 g12  f6 e6 d6|
++mp+c6 +p+A6 e6 c12 A6 e12|
++mp+d6 +p+A6d6 +p+f12 +p+d6A6 +mp+c6|
++mp+B6 G6 +p+B6 d12 +p+B6 d15|
++p+[f27a27] [e25g25] [d26f26]|
+[c30e30]z18 G6G21|
++mp+A6 +p+d6 f6 +mp+d6 +mp+A6 +mp+d6f6 +mf+d6|
++mf+A6 +mf+c6 f6 c6 +mf+B6 +mf+d6g6+mf+G6|
++mf+c6 e6c6e6 +mf+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] c6 e6 c6 +mp+e6 c6 A6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++mf+B6 +mp+d6 g6 d6 +mf+B6 +mp+d6g6+mf+d6|
++mf+G6 c6e6c6 +mp+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] +p+c6 e6 c6 +mp+A6 c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+f+d6|
++f+c6 +mf+e6g6e6 +mf+G6 e6g6e6|
++mp+A6c6 e6 c6 +mp+A6c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 G6 +mf+B6 +mp+d6+p+G6G7+p+B6|
++mp+ E6 +p+G6 c6 G6 E6 G6 c6 G6|
++mf+E6 G6 c6 G6 +f+A6 d6 c6 B6|
++f+A6 +mf+d6 f6 +f+d6 +mf+A6 +mp+d6f6 +f+d6|
++ff+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+ff+G6|
++ff+c6 e6c6e6 +f+[B6d6] c6 [B6d6] +mf+c6|
++mf+[A6e6] c6 e6 c6 +mp+e6 c6 A6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 g6 d6 +f+B6 +mf+d6g6+f+d6|
++f+G6 c6e6c6 +mf+[B6d6] c6 [B6d6] c6|
++mp+[A6e6] +p+c6 e6 c6 +mp+A6 c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+A6 +mf+c6 f6 c6 +f+B6 +mf+d6g6+f+d6|
++f+c6 +mf+e6g6e6 +mf+G6 e6g6e6|
++mp+A6c6 e6 c6 +mp+A6c6 e6 c6|
++mf+A6 +p+d6 f6 +mp+d6 +mf+A6 +mp+d6f6 +mf+d6|
++f+B6 +mf+d6 G6 +mf+B6 +mp+d6+p+G6G7+p+B6|
++p+[f27a27] [e17g17] [d24f24]|
+[c30e30]z18 z27|
+

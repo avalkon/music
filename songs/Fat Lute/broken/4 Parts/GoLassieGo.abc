@@ -1,0 +1,166 @@
+N: TS  4,   1  21   5   8
+X: 1
+%%Orig filename was GoLassieGo__Flute3.abc
+T:go lassie go horn (Basic Flute 1) (2:15)
+%%part-name Basic Flute 1
+R:Scottish folk
+C:Traditional; sequenced by Barry Taylor
+N:Arranged by Falibrand of Landroval
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:lassiego.mid
+%  Transpose:-2
+L:1/4
+Q:98
+K:C
+z3 c/2 d/2 e/2 e3/2 [d11/8z5/4] c/8 [d/4z/8] c/2 A/2 c5/2 e/2 g/2 a3/2
+a/2 [a11/8z5/4] g/8 a/8 g/2 e/2 g5/2 e/2 g/2 a2 g e [d/4z/8] [e/4z/8]
+d/4 c5/2 d/2 e/2 [f11/8z5/4] e/8 [f/4z/8] e/2 d c A/2 c3/2 [c3/2z5/4]
+A/8 B/8 A/2 G2 A/2 c3/2 c3 c/2 d/2 e/2 e3/2 [d11/8z5/4] c/8 [d/4z/8]
+c/2 A/2 c5/2 e/2 g/2 a3/2 a/2 [a11/8z5/4] g/8 a/8 g/2 e/2 g5/2 e/2
+g/2 a2 g e [d/4z/8] e/8 d/4 c5/2 d/2 e/2 f3/2 e/2 d [cz3/4] A/8 B/8
+A/2 c3/2 [c3/2z5/4] A/8 B/8 A/2 [G2z3/2] A/2 c/2 c3/2 c3 e/2 g/2
+[a2z15/8] b/8 a3/2 g/2 e/2 g5/2 e/2 g/2 [a15/8z7/4] g/8 [a/4z/8] g e
+[d/4z/8] e/8 d/4 c5/2 d/2 e/2 [f11/8z5/4] e/8 [f/4z/8] e/2 d c A/2
+c3/2 [c3/2z5/4] A/8 B/8 A/2 G3/2 A/2 c/2 c3/2 c2 z13 z13 z13 z13 z13
+z8 e/2 g/2 a2 [a11/8z5/4] g/8 [a/4z/8] g/2 e/2 g5/2 e/2 g/2
+[a15/8z7/4] g/8 [a/4z/8] g e [d/4z/8] e/8 d/4 c5/2 d/2 e/2
+[f11/8z5/4] e/8 [f/4z/8] e/2 d c A/2 c3/2 [c3/2z5/4] A/8 B/8 A/2 G2
+A/2 c3/2 c5
+
+X: 21
+%%Orig filename was GoLassieGo__Flute4.abc
+T:go lassie go lute 2 (Basic Flute 2) (2:15)
+%%part-name Basic Flute 2
+R:Scottish folk
+C:Traditional; sequenced by Barry Taylor
+N:Arranged by Falibrand of Landroval
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:lassiego.mid
+%  Transpose:-2
+L:1/4
+Q:98
+K:C
+z13 z13 z13 z13 z13 z13 z13 z13 z11 a/2 f/2 e3/2 e/2 f3/2 f/2 e2 g b
+c'2 c'3/2 b/2 g/2 c'5/2 g/2 b/2 c'2 b g f/2 e5/2 f/2 g/2 a3/2 g/2 f e
+c/2 f3/2 f3/2 f/2 e2 f/2 f3/2 e3 g/2 b/2 c'2 c'3/2 b/2 g/2 c'5/2 g/2
+b/2 c'2 b g f/2 e5/2 f/2 g/2 a3/2 g/2 f e c/2 f3/2 f3/2 f/2 e2 f/2
+f3/2 e3 g/2 b/2 c'2 c'3/2 b/2 g/2 c'5/2 g/2 b/2 c'2 b g f/2 e5/2 f/2
+g/2 a3/2 g/2 f e c/2 f3/2 f3/2 f/2 e2 f/2 f3/2 e5
+
+X: 5
+%%Orig filename was GoLassieGo__Harp2.abc
+T:go lassie go Basic Harp (2:15)
+%%part-name Basic Harp
+R:Scottish folk
+C:Traditional; sequenced by Barry Taylor
+N:Arranged by Falibrand of Landroval
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:lassiego.mid
+%  Transpose:-2
+L:1/4
+Q:98
+K:C
++mp+
+z13 z13 z13 z5 C/2 [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4
+[f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2]
+[G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4]
+[G/2z/4] [e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4
+[f3/4z/4] [A/2z/4] c/4 [f5/4C/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4
+[e3/4C/2z/4] [c/2z/4] [G/2z/4] [e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4E/2] [G/2z/4]
+[B/2z/4] E/4 [e3/4z/4] [G/2z/4] B/4 [e5/4A,/2] [A/2z/4] [c/2z/4] E/4
+[e/2z/4] [c/2z/4] e/4 [e3/4A,/2z/4] [c/2z/4] [A/2z/4] [e5/4z/4] E/4
+[c/2z/4] [A/2z/4] c/4 [f5/4C/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[f3/4C/2z/4] [A/2z/4] [F/2z/4] [f5/4z/4] C/4 [A/2z/4] F/2 [f5/4F,/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4]
+[c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4
+[f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4]
+[c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4] [G/2z/4] [e5/4z/4] C/4 [c/2z/4]
+G/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f5/4C/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4]
+[c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4] [G/2z/4]
+[e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [e5/4E/2] [G/2z/4] [B/2z/4] E/4 [e3/4z/4] [G/2z/4] B/4
+[e5/4A,/2] [A/2z/4] [c/2z/4] E/4 [e/2z/4] [c/2z/4] e/4 [e3/4A,/2z/4]
+[c/2z/4] [A/2z/4] [e5/4z/4] E/4 [c/2z/4] [A/2z/4] c/4 [f5/4C/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f5/4F,/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f3/4C/2z/4] [A/2z/4] [F/2z/4]
+[f5/4z/4] C/4 [A/2z/4] F/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4
+[f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2]
+[G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4]
+[G/2z/4] [e5/4z/4] C/4 [c/2z/4] G/2 [e5/4C/2] [G/2z/4] [c/2z/4] C/4
+[e/2z/4] [c/2z/4] e/4 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4
+[e3/4C/2z/4] [c/2z/4] [G/2z/4] [e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f5/4C/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4
+[e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4] [G/2z/4] [e5/4z/4] C/4
+[c/2z/4] G/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[e5/4E/2] [G/2z/4] [B/2z/4] E/4 [e3/4z/4] [G/2z/4] B/4 [e5/4A,/2]
+[A/2z/4] [c/2z/4] E/4 [e/2z/4] [c/2z/4] e/4 [e3/4A,/2z/4] [c/2z/4]
+[A/2z/4] [e5/4z/4] E/4 [c/2z/4] [A/2z/4] c/4 [f5/4C/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4
+[f3/4z/4] [A/2z/4] c/4 [f3/4C/2z/4] [A/2z/4] [F/2z/4] [f5/4z/4] C/4
+[A/2z/4] F/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [f5/4F,/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4]
+[c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4] [G/2z/4]
+[e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [f5/4C/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4]
+[c/2z/4] [G/2z/4] [e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4E/2] [G/2z/4] [B/2z/4] E/4
+[e3/4z/4] [G/2z/4] B/4 [e5/4A,/2] [A/2z/4] [c/2z/4] E/4 [e/2z/4]
+[c/2z/4] e/4 [e3/4A,/2z/4] [c/2z/4] [A/2z/4] [e5/4z/4] E/4 [c/2z/4]
+[A/2z/4] c/4 [f5/4C/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f3/4C/2z/4]
+[A/2z/4] [F/2z/4] [f5/4z/4] C/4 [A/2z/4] F/2 [f5/4F,/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4
+[e/2z/4] [c/2z/4] e/4 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4]
+[A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4
+[e3/4C/2z/4] [c/2z/4] [G/2z/4] [e5/4z/4] C/4 [c/2z/4] G/2 [f5/4F,/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f5/4C/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4] [c/2z/4] C/4
+[e/2z/4] [c/2z/4] e/4 [e3/4C/2z/4] [c/2z/4] [G/2z/4] [e5/4z/4] C/4
+[c/2z/4] G/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[e5/4E/2] [G/2z/4] [B/2z/4] E/4 [e3/4z/4] [G/2z/4] B/4 [e5/4A,/2]
+[A/2z/4] [c/2z/4] E/4 [e/2z/4] [c/2z/4] e/4 [e3/4A,/2z/4] [c/2z/4]
+[A/2z/4] [e5/4z/4] E/4 [c/2z/4] [A/2z/4] c/4 [f5/4C/2] [F/2z/4]
+[A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4
+[f3/4z/4] [A/2z/4] c/4 [f3/4C/2z/4] [A/2z/4] [F/2z/4] [f5/4z/4] C/4
+[A/2z/4] F/2 [f5/4F,/2] [F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4
+[e5/4C/2] [G/2z/4] [c/2z/4] C/4 [e/2z/4] [c/2z/4] e/4 [f5/4F,/2]
+[F/2z/4] [A/2z/4] C/4 [f3/4z/4] [A/2z/4] c/4 [e5/4C/2] [G/2z/4]
+[c/2z/4] C/4 [e3/4z/4] [c/2z/4] G/4 [e2C/2z/4] [c/2z/4] G/2 [g2c2]
+
+X: 8
+%%Orig filename was GoLassieGo__Theorbo1.abc
+T:go lassie go Basic Theorbo(2:15)
+R:Scottish folk
+C:Traditional; sequenced by Barry Taylor
+N:Arranged by Falibrand of Landroval
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:lassiego.mid
+%  Transpose:-2
+L:1/4
+Q:98
+%%part-name Basic Theorbo
+K:C
++mp+
+z13 z13 z13 z5 C G, A, F, C G, C G, F, C F, C C G, C G, C F, B, E, A,
+E, A,3/4 E,/4 A,/2 G,/2 F, C, F, C, F, C, F, A,/2 B,/2 C G,3/4 G,/4
+F, A,/2 B,/2 C G,3/4 G,/4 C/2 [C3/2z/2] D/2 E/2 F, C F, C C G, C G, C
+F, B, E, A, E,3/4 E,/4 A, [A,z/2] G,/2 F, C, F, C, F, C, F, A,/2 B,/2
+C G,3/4 G,/4 F,3/4 F,/4 [A,z/2] B,/2 C G,3/4 G,/4 [C2z/2] G,/2 A,/2
+B,/2 C G, C F, C G, C G, F, C F, C C G, C G, C F, B, E, A, E,
+[A,z3/4] E,/4 [A,z/2] G,/2 F, C, F, C, F, C, F,3/4 F,/4 A,/2 B,/2 C
+G,3/4 G,/4 F,3/4 F,/4 [A,z/2] B,/2 C G,3/4 G,/4 C/2 [C3/2z/2] D/2 E/2
+F, C F, C C G, C G, C F, B, E, A, E, [A,z3/4] [E,/2z/4] [A,z/2] G,/2
+F, C, F, C, F, C, F,3/4 [F,/2z/4] A,/2 B,/2 C G,3/4 G,/4 F,3/4
+[F,/2z/4] [A,z/2] B,/2 C G, C G, F, C F, C C G, C G, C F, B, E, A, E,
+[A,z3/4] [E,/2z/4] [A,z/2] G,/2 F, C, F, C, F, C, F,3/4 [F,/2z/4]
+A,/2 B,/2 C G,3/4 G,/4 F,3/4 [F,/2z/4] C C G, C/2 G,/2 C2
+

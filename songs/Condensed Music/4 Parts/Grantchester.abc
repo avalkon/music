@@ -1,0 +1,497 @@
+N: TS  4,   9   1   5   6
+X: 9
+%%Orig filename was GrantchesterAges.abc
+T: Grantchester Meadows - Lute of Ages (3:23)
+%%part-name Lute of Ages
+C: Pink Floyd
+Z: Keli
+M: 4/4
+Q: 120
+K: C maj
+
++p+ z2 [^G2B2] [A2^c2] [B2d2] |
+[A2^c2] [^G2B2] [^F2A2] [A2c2] |
+[A/^c/-] c3/2 +mp+ [^G2B2] [G4-B4-] |
+[^G6B6] z2 |
+z +mf+ [^G-B-] [GB] +mp+ [G/-B/] G/ [A2^c2] [B2d2] |
+[A2^c2] [^G2B2] [^F2A2] [A2c2] |
+[A^c] +mf+ [^G-B-] [G2B2] [G2B2] [^FA] [G-B-] |
+[^G6B6] z2 |
+[^GB] [G/-B/] G/- G [A-^c-] [A2c2] [B2d2] |
+% Bar 10 (0:18)
+[A2^c2] [^G2B2] [^F2A2] [A/c/-] c/ [A-c-] |
+[A^c] +mp+ [^G-B-] [G2-B2-] [G4-B4-] |
+[^G4B4] z4 |
++mf+ [^c2e2] [ce] [d-^f-] [d2f2] [e2g2] |
+[^f2a2] [gb] [f-a-] [f2a2] [e2g2] |
++mp+ [e/-g/] e/ +mf+ [d-^f-] [d2f2] [d2f2] [^ce] [d-f-] |
+[d6^f6] z2 |
+z3 +mp+ [^GB] [A2^c2] [B2d2] |
+[A2^c2] [^G2B2] +mf+ [^F2A2] [A/c/-] c3/2 |
+[A2^c2] [^GB] [G/-B/] G/- G2 [^FA] [G-B-] |
+% Bar 20 (0:38)
+[^G6B6] z2 |
+z2 +mp+ [^c-e] [ce] [c-e] [c/-e/] c/- [c/-e/] c/- [ce] |
++mf+ [B/-d/] [B/-d/] [B/-d/] B3/2- [Bd] [A-^c] [A/-c/] A/- [A/-c/] A/ +mp+ A |
+z4 +mf+ [A2B2] +mp+ A +mf+ [A-B-] |
+[A4B4] z4 |
+z2 +mp+ [^c-e] [ce] +mf+ [c-e] [c/-e/] c/- +mp+ [c/-e/] c/- +mf+ [c/-e/] c/ |
+[B-d] +f+ [B/-d/] +mf+ [B/-d/] B2 [A-^c] [A-c] [A3/2c3/2] A/ |
+[A-B] [A/-B/] A13/2- |
+A4 z2 B B |
+[^c-e] [c/-e/] c3/2- [ce] [c2-e2] [c/-e/] c3/2 |
+% Bar 30 (0:58)
+[B-d] +f+ [B-d-] [B-d] +mf+ [Bd] [A3/2-^c3/2] +mp+ [A/-c/] [A/-c/] A/ A |
+[A8-B8-] |
+[A4B4] z4 |
+[^c-e] +mf+ [c-e] +mp+ [c-e] +mf+ [ce] [c/-e/] c/- [c-e] [c-e] [ce] |
+[B-d] [B-d] [B/-d/] [B3/2d3/2] [A-^c] [A/-c/] A/ +mp+ [A3/2c3/2] A/ |
++mf+ [A8-B8-] |
+[A4B4] z4 |
+[^GB] [G-B-] [GB] [A-^c-] [Ac] [B-d-] [Bd] +p+ [A-c-] |
+[A^c] [^G-B-] [GB] [^F-A-] [FA] [A-c-] [A2c2] |
+z2 +mp+ [^GB] [G-B-] [G2B2] [^FA] [G-B-] |
+% Bar 40 (1:18)
+[^G6B6] z2 |
++f+ [^G2B2] [G/B/-] B/ [A-^c-] [Ac] [B-d-] [Bd] [A-c-] |
+[A^c] [^G-B-] [GB] [^F-A-] [FA] [A-c-] [A2c2] |
+[A^c] [^G-B-] [G2B2] [G2B2] [^FA] [G-B-] |
+[^G6B6] z2 |
+[^c2e2] [c2e2] [d2^f2] [e2g2] |
+[^f2a2] [g2b2] [f2a2] [e2g2] |
+[e/g/-] g3/2 [d2^f2] [d2f2] [^ce] [d-f-] |
+[d6^f6] z2 |
+[^GB] [G-B-] [G2B2] [A2^c2] [B2d2] |
+% Bar 50 (1:38)
+[A2^c2] [^G2B2] [^F2A2] [A2c2] |
+[A2^c2] [^G2B2] [GB] [^F-A-] [FA] [G-B-] |
+[^G6B6] z2 |
+z2 +mf+ [^c-e] [ce] [c-e] [c/-e/] c/- [c/-e/] c/- [c/-e/] c/ |
+[B/-d/] [B/-d/] [B/-d/] B3/2- [B/-d/] B/ [A-^c] [A-c] [A/-c/] A/ A |
+z4 +f+ [A2B2] A [A/B/-] B/- |
+B4 z4 |
+z2 +mf+ [^c-e] [ce] [c-e] [c-e] [c/-e/] c/- [ce] |
+[B-d] [B/-d/] [B/-d/] B2 [A-^c] +f+ [A-c] [A/-c/] A A/ |
+[A-B] [A-B-] [A2-B2-] [A4-B4-] |
+% Bar 60 (1:58)
+[A4B4] z2 +mf+ B B/ z/ |
+[^c-e] [c-e-] [c-e] [ce] [c2-e2] [c/-e/] c3/2 |
+[B-d] [B-d-] [B-d] [B/-d/] B/ [A3/2-^c3/2] +f+ [A/-c/] [Ac] A |
+[A8-B8-] |
+[A4B4] z4 |
++mp+ [^c-e] +mf+ [c-e] [c-e] [c/-e/] c/ [c/-e/] c/- [c-e] [c-e] [c/-e/] c/ |
+[B-d] [B-d] [B/-d/] [B/-d/] B [A-^c] [Ac] +mp+ [A3/2c3/2] A/ |
++mf+ [A/B/-] B15/2- |
+B4 z4 |
+[^GB] [G-B-] [GB] [A-^c-] [Ac] [B-d-] [Bd] [A-c-] |
+% Bar 70 (2:18)
+[A^c] [^G-B-] [GB] [^F-A-] [FA] [A-c-] [A2c2] |
+z2 [^GB] [G-B-] [G2B2] +mp+ [^FA] +mf+ [G-B-] |
+[^G6B6] z2 |
++f+ [^G2B2] [GB] [A-^c-] [Ac] [B-d-] [Bd] [A-c-] |
+[A^c] [^G-B-] [GB] [^F-A-] [FA] [A-c-] [A2c2] |
+[A^c] [^G-B-] [G2B2] [G2B2] [^FA] [G-B-] |
+[^G6B6] z2 |
+[^c2e2] [c2e2] [d2^f2] [e2g2] |
+[^f2a2] [g2b2] [f2a2] [e2g2] |
+[e2g2] [d2^f2] [d2f2] [^ce] [d-f-] |
+% Bar 80 (2:38)
+[d6^f6] z2 |
+[^GB] [G/B/-] B/- B2 [A2^c2] [B2d2] |
+[A2^c2] [^G2B2] [^F2A2] [A2c2] |
+[A2^c2] [^G2B2] [G/B/-] B/ [^F-A-] [FA] [G-B-] |
+[^G6B6] z2 |
+z2 +mp+ [^c-e] [ce] [c-e] [c-e] [c-e] [ce] |
++mf+ [B/-d/] [B/-d/] [B-d-] [B-d] [Bd] [A-^c] [A-c] [A/-c/] A/ +mp+ A |
+z4 [A2B2] A/ z/ [A-B-] |
+[A4B4] z4 |
+z2 [^c-e] [ce] [c/-e/] c/- +mf+ [c-e] [c-e] [c/-e/] c/ |
+% Bar 90 (2:58)
+[B-d] +f+ [B/-d/] +mf+ [B5/2d5/2] [A-^c] [A-c] [A/-c/] A A/ |
+[A-B] [A-B-] [A2-B2-] [A4-B4-] |
+[A4B4] z2 B B/ z/ |
+[^c-e] [c-e-] [c-e] [ce] [c/-e/] c3/2- [c2e2] |
+[B-d] +f+ [B-d-] [B-d] +mf+ [Bd] [A3/2-^c3/2] +mp+ [A/-c/] [Ac] A |
+[A/B/-] B15/2- |
+B4 z4 |
+[^c-e] +mf+ [c-e] +mp+ [c/-e/] c/- +mf+ [c/-e/] c/ [c-e] [c-e] [c-e] [ce] |
+[B-d] [B-d] [B/-d/] [B3/2d3/2] [A-^c] [Ac] +mp+ [A3/2c3/2] A/ |
++p+ [A/B/-] B7/2- B z B B |
+% Bar 100 (3:18)
+[^c-e] [c-e-] [c-e] [c/-e/] c/ +pp+ [c2-e2] [c2e2] |
+[B-d] [B-d-] [B-d] [Bd] [A3/2-^c3/2] [A/-c/] [Ac] A |
+[A8-B8-] |
+[A4B4] z4 |]
+
+X: 1
+%%Orig filename was GrantchesterFlute.abc
+T: Grantchester Meadows - Basic Flute (3:23)
+%%part-name Basic Flute
+C: Pink Floyd
+Z: Keli
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z B- B B ^c2 d2 |
+^c2 +mf+ B2 +mp+ A2 c2 |
++mf+ ^c +mp+ B z2 B2 A B- |
+B2 z2 z4 |
+B +p+ B/ z3/2 ^c- c2 +mp+ d2 |
+% Bar 10 (0:18)
+^c2 B2 A2 c c- |
+^c +pp+ B z2 z4 |
+z8 |
++mf+ e2 +mp+ e ^f- f2 +p+ g2 |
+a2 +mp+ b +p+ a- a2 g2 |
++mp+ g ^f- f2 f2 e +p+ f- |
+^f2 z2 z4 |
+z3 +mp+ B +mf+ ^c2 d2 |
++mp+ ^c2 +p+ B2 +mp+ A2 c2 |
+^c/ z3/2 +p+ B B- B2 +mp+ A B- |
+% Bar 20 (0:38)
+B2 z2 z4 |
+z2 e e e/ z/ e e e/ z/ |
+d/ d/ +mf+ d- d d/ z/ ^c +mp+ c c +p+ A |
+z4 +mp+ B2 +p+ A B- |
+B2 z2 z4 |
+z2 +mp+ e e/ z/ e e e/ z/ e/ z/ |
++mf+ d d/ +mp+ d5/2 ^c c/ z/ c3/2 A/ |
++p+ B B- B2 z4 |
+z6 +mp+ B B |
+e e/ z3/2 e e2 +mf+ e2 |
+% Bar 30 (0:58)
+d +mp+ d- d d +p+ ^c3/2 c/ +mp+ c +p+ A |
+B2 z2 z4 |
+z8 |
++mp+ e e e +p+ e/ z/ +mp+ e +mf+ e e/ z/ e/ z/ |
++mp+ d +p+ d +mp+ d/ d/ z ^c +p+ c c3/2 +mp+ A/ |
+B2 z2 z4 |
+z8 |
+B B- B ^c- c +mf+ d- d +mp+ c- |
+^c B- B A- A c- c2 |
+z2 B +p+ B/ z5/2 A +mp+ B- |
+% Bar 40 (1:18)
+B2 z2 z4 |
++f+ B2 B/ z/ ^c- c d- d c- |
+^c B- B A- A c- c2 |
+^c B- B2 B/ z3/2 A B- |
+B2 z2 z4 |
+e2 e2 ^f2 g2 |
+a2 b2 a2 g2 |
+g/ z3/2 ^f2 f2 e f- |
+^f2 z2 z4 |
+B B- B2 ^c2 d2 |
+% Bar 50 (1:38)
+^c2 B2 A2 c2 |
+^c/ z3/2 B2 B A- A B- |
+B2 z2 z4 |
+z2 +mp+ e e e/ z/ e/ z/ e e |
+d/ d/ d/ z3/2 +mf+ d ^c +mp+ c/ z/ c +p+ A |
+z4 +mp+ B2 +p+ A B- |
+B2 z2 z4 |
+z2 +mp+ e e/ z/ e/ z/ +p+ e +mp+ e e/ z/ |
++mf+ d d/ +mp+ d5/2 ^c c/ z/ c3/2 A/ |
++p+ B B/ z13/2 |
+% Bar 60 (1:58)
+z6 +mp+ B B |
+e e/ z3/2 e +mf+ e2 e/ z3/2 |
+d +mp+ d- d d +p+ ^c3/2 c/ +mp+ c +p+ A |
+B2 z2 z4 |
+z8 |
++mp+ e e e +p+ e/ z/ +mp+ e/ z/ e +mf+ e e/ z/ |
++mp+ d +p+ d +mp+ d/ d/ z ^c +p+ c c/ z +mp+ A/ |
+B2 z2 z4 |
+z8 |
++mf+ B B/ z3/2 ^c- c d- d c- |
+% Bar 70 (2:18)
+^c +f+ B- B +mf+ A- A c- c2 |
+z2 +mp+ B B- B2 A B- |
+B2 z2 z4 |
++f+ B2 B/ z/ ^c- c d- d c- |
+^c B- B A- A c- c2 |
+^c B- B2 B/ z3/2 A B- |
+B2 z2 z4 |
+e2 e/ z3/2 ^f2 g2 |
+a2 b2 a2 g2 |
+g2 ^f2 f/ z3/2 e f- |
+% Bar 80 (2:38)
+^f2 z2 z4 |
+B B- B2 ^c2 d2 |
+^c2 B2 A2 c2 |
+^c/ z3/2 B2 B A- A B- |
+B2 z2 z4 |
+z2 +mp+ e e e e/ z/ e e |
++mf+ d/ +mp+ d/ +mf+ d/ z3/2 d ^c c c/ z3/2 |
+z4 +mp+ B2 A B- |
+B4 z4 |
+z2 e e e +mf+ e +mp+ e/ z/ +mf+ e/ z/ |
+% Bar 90 (2:58)
+d +f+ d/ +mf+ d/ z2 ^c +mp+ c +mf+ c3/2 A/ |
+B B- B2- B4- |
+B4 z2 B B/ z/ |
+e e- e +mp+ e/ z/ e2 +mf+ e2 |
++f+ d d/ z3/2 +mf+ d/ z/ ^c3/2 +mp+ c/ c A |
+B8- |
+B4 z4 |
++mf+ e e/ z/ +mp+ e/ z/ +mf+ e e e e/ z/ e/ z/ |
+d d +mp+ d/ +mf+ d3/2 ^c +mp+ c c/ z A/ |
++p+ B2 z2 z4 |
+% Bar 100 (3:18)
+z8 |
+z8 |
+z8 |
+z8 |]
+
+X: 5
+%%Orig filename was GrantchesterHarp.abc
+T: Grantchester Meadows - Basic Harp 1 (3:23)
+%%part-name Basic Harp 1
+C: Pink Floyd
+Z: Keli
+M: 4/4
+Q: 120
+K: C maj
+
++ppp+ E, z z E E, E E, E |
++pp+ E, E E, E E, E +p+ E, E |
+E, E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, +mf+ E E, E E, E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
+% Bar 10 (0:18)
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ A, +p+ A A, A A, +mp+ A A, A |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ A, +p+ A A, A A, +mp+ A A, A |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
+% Bar 20 (0:38)
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
+A, +pp+ A A, A A, A A, A |
++mp+ G, +p+ G G, G G, +mp+ G G, G |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
+% Bar 30 (0:58)
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
+% Bar 40 (1:18)
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++f+ A, +mf+ A A, A A, A A, A |
++f+ A, +mf+ A A, A A, A A, A |
++f+ A, +mf+ A A, A A, A A, A |
++f+ A, +mf+ A A, A A, A A, A |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
+% Bar 50 (1:38)
+E, +p+ E E, E E, +mp+ E E, E |
+E, +p+ E E, E E, +mp+ E E, E |
+E, +p+ E E, E E, +mp+ E E, E |
++p+ A, +pp+ A A, A A, A A, A |
++mp+ G, +p+ G G, G G, +mp+ G G, G |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
+% Bar 60 (1:58)
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
+% Bar 70 (2:18)
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++f+ A, +mf+ A A, A A, A A, A |
++f+ A, +mf+ A A, A A, A A, A |
++f+ A, +mf+ A A, A A, A A, A |
+% Bar 80 (2:38)
++f+ A, +mf+ A A, A A, A A, A |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
+E, +p+ E E, E E, +mp+ E E, E |
+E, +p+ E E, E E, +mp+ E E, E |
+E, +p+ E E, E E, +mp+ E E, E |
++p+ A, +pp+ A A, A A, A A, A |
++mp+ G, +p+ G G, G G, +mp+ G G, G |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
+% Bar 90 (2:58)
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
++mf+ E, +mp+ E E, E +mf+ E, E +mp+ E, +p+ E |
++mp+ E, +p+ E E, E E, +mp+ E E, E |
++mf+ A, +mp+ A A, A +mf+ A, A +mp+ A, +p+ A |
++mp+ G, +p+ G G, G ^F, +mp+ ^F F, F |
+E, +p+ E E, E E, E E, E |
+% Bar 100 (3:18)
++pp+ A, A A, A A, A A, +ppp+ A |
+G, G G, G ^F, z z2 |
+z8 |
+z8 |]
+
+X: 6
+%%Orig filename was GrantchesterMisty.abc
+T: Grantchester Meadows - [MM harp] (3:23)
+%%part-name MM harp
+C: Pink Floyd
+Z: Keli
+M: 4/4
+Q: 120
+K: C maj
+
++pp+ z8 |
+z8 |
+z8 |
+E/ ^F/ E ^D/ E/ D ^C/ D/ C B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+z2 +p+ ^D/ E/ D +mp+ ^C/ +p+ D/ C B,/ C/ B, |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
++mp+ E/ ^F/ +mf+ E +mp+ ^D/ E/ D ^C/ D/ C +mf+ B,/ +mp+ C/ +mf+ B, |
+z8 |
+z8 |
+z8 |
+z2 A/ +mp+ B/ +mf+ A ^G/ A/ G ^F/ +mp+ G/ F |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z2 ^D/ +mf+ E/ D +mp+ ^C/ D/ C +mf+ B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z2 +f+ ^D/ E/ D +mp+ ^C/ D/ +mf+ C +mp+ B,/ +mf+ C/ B, |
+z8 |
+z8 |
+z8 |
+z2 +f+ ^D/ E/ D ^C/ D/ C B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+z2 A/ B/ A ^G/ A/ G ^F/ G/ F |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z2 ^D/ E/ D ^C/ D/ C B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+z8 |
+z2 +mp+ ^D/ E/ +mf+ D +mp+ ^C/ +mf+ D/ C B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+z2 +f+ ^D/ E/ D ^C/ D/ C B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:38)
+z2 A/ B/ A ^G/ A/ G ^F/ G/ F |
+z8 |
+z8 |
+z8 |
+z2 ^D/ E/ D ^C/ D/ C B,/ C/ B, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (3:18)
+z8 |
+z8 |
+z8 |
+z8 |]
+

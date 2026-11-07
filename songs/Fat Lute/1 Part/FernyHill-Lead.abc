@@ -1,0 +1,31 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was FernyHill-Lead.abc
+T:Ferny Hill (1:48)
+M:4/4
+L:1/8
+Q:180
+R:reel
+%%part-name Unknown Instrument
+K:Edor
+B3 B BAFE | D2EF DEFA | BEED ~B3 c | dBeg fedc |
+~B3 B BAFE | D2EF DEFA | BEED BABc | dBeg fedc |
+B3 B BAFE | D2EF DEFA | BEED ~B3 c | dBeg fedc |
+~B3 B BAFE | D2EF DEFA | BEED BABc | dBeg fedc |
+dfff e2 fe | d2fd edBA | dfaf e2fe | dBAF FE E2 |
+dfff e2fe |d2fd edcd | BBBB BAFA | dBAF FE E2 |
+dfff e2fe | d2 fd edBA |dfaf e2fe | dBAF FE E2 |
+~a3 f e2fe | d2fd edcd | BBBB BAFA | dBAF FE E2 |
+| FAAA A2BA | FAAd BcdA | FAAA A2BA | GEFD EEEG |
+FAAA A2BA | FAAd BcdA | FAAA A2BA | GEFD EEEA |
+| FAAA A2BA | FAAd BcdA | FAAA A2BA | GEFD EEEG |
+FAAA A2BA | FAAd BcdA | FAAA A2BA | GEFD EEEA |
+| Beed e2ef | gbaf gfeg | fddc d2Ad | fAaA bAaf |
+fged (3Bcd ef | gbaf gfeg | fddc dBAF | GBAF GEEE |
+| Beed e2ef | gbaf gfeg | fddc d2Ad | fAaA bAaf |
+fged (3Bcd ef | gbaf gfeg | fddc dBAF | GBAF GEEE |
+| ~G2GF GABc | dcde dBAF | G2BG FGA=c | BGAF GEED |
+~G2GF GABc | dcde dBAF | G2BG FGA=c | BGAF GEED |
+| ~G2GF GABc | dcde dBAF | G2BG FGA=c | BGAF GEED |
+~G2GF GABc | dcde dBAF | G2BG FGA=c | BGAF GEED | E8
+

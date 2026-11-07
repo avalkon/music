@@ -1,0 +1,206 @@
+N: TS  3,   8   5  21
+X: 8
+%%Orig filename was TeleriBass.abc
+T: Teleri Basic Theorbo (2:45)
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 170
+%%part-name Basic Theorbo
+K: Ddorian
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+| d6 | A6 | c6 | G6 |
+| d6 | A6 | c6 | G6 |
+| d6 | A6 | c6 | G6 |
+| d6 | A6 | c6 | G6 |
+
+| A6 | A6 | G6 | D6 |
+| A6 | A6 | G6 | D6 |
+| A6 | A6 | G6 | D6 |
+| A6 | A6 | G6 | D6 |
+
+| D6 | F6 | A6 | G6 |
+| D6 | F6 | A6 | G6 |
+
++pp+
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | G6 |
+| D6 | F6 | C6 | D6 |
+
+| z6 |
+
++mf+
+| D6 | F6 | A6 | G6 |
+| D6 | F6 | A6 | G6 |
+
+| D6 | F6 | A6 | G6 |
+| D6 | F6 | A6 | G6 |
+
++ppp+
+%    D  D
+| z4 D/z/ z3 D/z/ z9
+% D  D           C           D
+| D/z/ z3 D/z/ z9 C/z/ z8 D/z/ z9
+% D  D
+| D/z/ z4 D/z/ z9
+% D                    C                             D
+| D/z/ z16 C/z/ z29 D/z/ z11
+%    F
+| z4 F/z/ z21
+% A
+| A/z/ z18
+% G
+| G/z/ z18 z/
+
+X: 5
+%%Orig filename was TeleriHarp1.abc
+T: Teleri Basic Harp 1 (2:45)
+%%part-name Basic Harp 1
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 170
+K: Ddorian
+| D, A, D F A z | F, C F A c z | A, E A c e z | G, D G B d z |
+| D, A, D F A z | F, C F A c z | A, E A c e z | G,/D/G/B/d/ z3 z/ |
+
+| D, z A, D F A | F, z C F A c | A, z E A c e | G, z D G B d |
+| D, z A, D F A | F, z C F A c | A, z E A c e | G,/D/G/B/d/ z3 z/ |
+
+| D2 A4 | A,2 E4 | C2 G4 | G,2 D4 |
+| D2 A4 | A,2 E4 | C2 G4 | G,2 z4 |
+| D2 A4 | A,2 E4 | C2 G4 | G,2 D4 |
+| D2 A4 | A,2 E4 | C2 G4 | G,2 z4 |
+
+| A,/E/ z5 | A,/E/ z5 | G,/D/ z5 | D,/A,/ z5 |
+| A,/E/ z5 | A,/E/ z5 | G,/D/ z5 | A,/D/ z5 |
+| A,/E/ z5 | A,/E/ z5 | G,/D/ z5 | D,/A,/ z5 |
+| A,/E/ z5 | A,/E/ z5 | G,/D/ z5 | A,/D/ z5 |
+
+| D, z A, D F A | F, z C F A c | A, z E A c e | G, z D G B d |
+| D, z A, D F A | F, z C F A c | A, z E A c e | G,/D/G/B/d/ z3 z/ |
+
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | G,2 D4 |
+| D,2 A,4 | F,2 C4 | C,2 G,4 | D,2 A,4 |
+
+| D,2 A,4 |
+
+| D, A, D F A z | F, C F A c z | A, E A c e z | G, D G B d z |
+| D, A, D F A z | F, C F A c z | A, E A c e z | G,/D/G/B/d/ z3 z/ |
+
+| D, z A, D F A | F, z C F A c | A, z E A c e | G, z D G B d |
+| D, z A, D F A | F, z C F A c | A, z E A c e | G,/D/G/B/d/ z3 z/ |
+
+%    D  D
+| z4 D,/A,/ z3 D,/A,/ z9
+% D  D           C           D
+| D,/A,/ z3 D,/A,/ z9 C,/G,/ z8 D,/A,/ z9
+% D  D
+| D,/A,/ z4 D,/A,/ z9
+% D                    C                             D
+| D,/A,/ z16 C,/G,/ z29 D,/A,/ z11
+%    F
+| z4 F,/C/ z21
+% A
+| A,/E/ z18
+% G
+| G,/D,/ z18 z/
++ppp+
+| D,2 A,2 D2 G2 A2 c3 d4
+
+X: 21
+%%Orig filename was TeleriHarp2.abc
+T: Teleri Basic Harp 2 (2:45)
+%%part-name Basic Harp 2
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 170
+K: Ddorian
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+| z2 d e f a | g f e2 c2 | z2 c d e f | g2 g f e2 |
+| z2 d e f a | g f e2 c2 | c4 G2 | f4 g2 |
+| z2 d e f a | g f e2 c2 | z2 c d e f | g2 g f e2 |
+| z2 d e f a | g f e2 c2 | c4 G2 | f4 g2 |
+
+| z c5 | z c3 B A | z B4 G | z F5 |
+| z c5 | z c3 B A | z B4 d | z d5 |
+| z c5 | z c3 B A | z B4 G | z F5 |
+| z c5 | z c3 B c | z d2 c2 d-|d d4 z |
+
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+| d3 e f2 | a2 b2 c'2 | g2 e2 c2 | g2 f2 e2 |
+| d3 e f2 | a2 b2 c'2 | g2 e2 c2 | d2 d e f g |
+| d3 e f2 | a2 b2 c'2 | g2 e2 c2 | g2 f2 e2 |
+| d3 e f2 | a2 b2 c'2 | g2 e2 c2 | d2 d2 e2 |
+
+| d3 e d2 | f2 e2 d2 | c2 A2 F2 | G A B c d e |
+| d3 e d2 | f2 e2 d2 | c2 A2 e2 | d3 c d e |
+| d3 e d2 | f2 e2 d2 | c2 A2 F2 | g2 f2 e2 |
+| d3 e f2 | a2 b2 c'2 | g2 e2 c2 | d2 d4 |
+
+| f d e c d B | c' a b g a f | g e f d e c | d e f e d c |
+| d4 b2 | a3 g f2 | g2 e2 c2 | d2 d4 |
+| f d e c d B | c' a b g a f | g e f d e c | d B c d e f |
+| d4 a2 | a3 g f2 | g2 e2 c2 | d6 |
+
+| z6 |
+
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+| z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 |
+
+%    D  D
+| c5 d4 d10
+% D  D           C           D
+| d4 d4 c2 B2 c2 c3 B2 A2 G2 A8 d2
+% D  D
+| d5 d10
+% D                    C                             D
+| d4 c3 B2 c2 e2 d2 e2 f3 e3 d2 c2 e2 f3 f4 g3 f3 e5 d10 B2
+%    F
+| c4 c6 e4 d3 c2 e2 f2 e d2
+% A
+| e4 d3 c3 d3 e2 d4
+% G
+| e2 d c B A G F E2 D3 C5
+
+| D,2 A,2 D2 G2 A2 c3 d4
+

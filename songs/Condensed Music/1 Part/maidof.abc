@@ -1,0 +1,95 @@
+%abc-2.1
+%%song-title       Maid of Llanwellyn (by pontin of crickhollow)
+%%song-composer    Joanna Baillie
+%%song-duration    1:43
+%%song-transcriber Maestro
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 21
+T: Maid of Llanwellyn (by pontin of crickhollow) (1:43) - Basic Harp
+%%part-name Basic Harp
+C: Joanna Baillie
+Z: Maestro
+M: 3/4
+Q: 120
+K: C maj
+
++fff+ z4 [ac'] [g^a] |
+[F,2f2a2] [A,2c2f2] [^A,-d-g] [A,df] |
+[C2-c2e2] [C2E2c2] [C2G2^A2] |
+[F,2-F2-A2] [F,2F2A2c2] [C-^A-f] [CAe] |
+[F,4F4A4f4] [C-E-g-c'] [CEg^a] |
+[F,2F2c2a2] [G,2G2f2c'2] [A,2A2e2f2c'2] |
+[^A,2-^A2d2g2^a2] [A,2D2A2d2g2] [C2G2e2c'2] |
+[G,2-d2b2-] [G,-A,-e-b] [G,A,ec'] [G,-B,-df-] [G,B,fb] |
+[C4e4g4c'4] [A,2F2f2c'2] |
+% Bar 10 (0:13)
+[^A,3-d3f3] [A,-Cef] [A,2D2f2^a2] |
+[A,2-f2c'2] [A,2-C2f2a2] [F,-A,-g^a] [F,A,=ac'] |
+[G,2d2^a2] [^A,2G2d2] [D2^A2g2] |
+[C2-^A2-f2] [C2A2e2] [C-E-c] [CEA] |
+[F,2-F2-A2] [F,2F2A2c2] [A,-c-f] [A,ce] |
+[^A,2d2] [G,2d2^a2] [A,2d2=a2] |
+[C3-E3c3-g3] [CFca] [C-G-^A-f] [CGAe] |
+[F,2C2G2^A2e2] [F,2F2=A2f2] [C-c'] [C^a] |
+[F,-f-a] +mf+ [F,fa] +fff+ [A,-c-f-c'] +mf+ [A,cfa] +fff+ [^A,-d-g] [A,dfa] |
+[C-c-e] +mf+ [C-ce] +fff+ [C-E-c-g] +mf+ [CEce] +fff+ [C-G-^A-c] +mf+ [CGAe] |
+% Bar 20 (0:28)
++ff+ [F,-F-A-] +mf+ [F,-F-Ac] +fff+ [F,-F-A-cf] +mf+ [F,FAc] +fff+ [C-A^A-f] [CAce] |
+[F,-F-A-f-] +mf+ [F,-F-A-cf] [F,-F-A-f-] [F,FAcf] +fff+ [C-E-Ag-c'] [CEcg^a] |
+[F,-F-c-a-] +mf+ [F,Fcfa] +fff+ [G,-G-fac'-] +mf+ [G,Gfc'] +fff+ [A,-A-ce-fc'-] +mf+ [A,Aefc'] |
++fff+ [^A,-^A-d-g^a-] +mf+ [A,-Adga] +fff+ [A,-D-A-d-g-] +mf+ [A,DAdga] +fff+ [C-G-e-gc'-] +mf+ [CGeac'] |
++fff+ [G,-Bdb-] +mf+ [G,-db-] +fff+ [G,-A,-e-gb] [G,A,dec'] [G,-B,-Bdf-] [G,B,dfb] |
+[C-ceg-c'-] +mf+ [C-e-gc'-] [C-eg-c'-] [Cegc'] +fff+ [A,-F-cfc'-] +mf+ [A,Ffc'] |
++fff+ [^A,-d-f-g] +mf+ [A,-df-^a] [A,-df] +fff+ [A,-Cefa] [A,-D-f-ga] +mf+ [A,Dfa] |
++fff+ [A,-f-c'-] +mf+ [A,-fac'] +fff+ [A,-C-f-ac'] +mf+ [A,-Cfa] +fff+ [F,-A,-fg^a] [F,A,=ac'] |
+[G,-d-g^a] +mf+ [G,da] +ff+ [^A,-G-d-] +mf+ [A,Gda] +ff+ [D-^A-g-] +mf+ [DAga] |
++ff+ [C-^A-f-] +mf+ [C-A-fa] +fff+ [C-A-e-c'] +mf+ [CAeg] +fff+ [C-E-ce] [CEAg] |
+% Bar 30 (0:43)
+[F,-F-A-f] +mf+ [F,-F-Aa] +fff+ [F,-F-A-c-c'] +mf+ [F,FAca] +fff+ [A,-c-f] [A,cea] |
+[^A,-d-g] +mf+ [A,d^a] +fff+ [G,-d-a] +mf+ [G,da] +fff+ [A,-d-=a-] +mf+ [A,dfa] |
++fff+ [C-E-c-eg] +mf+ [C-E-c-g-] [C-Ec-gc'] +fff+ [CFcfa] [C-G-^A-df] [CGAeg] |
+[F,-C-G-^A-de-] +mf+ [F,CGAeg] +fff+ [F,-F-=A-fa] +mf+ [F,FAf] +ff+ [C-cg-c'] [Cfg^a] |
+[F,-f-a] +mf+ [F,fa] +ff+ [A,-c-f-c'] +mf+ [A,cfa] +ff+ [^A,-d-g] [A,dfa] |
+[C-c-e] +mf+ [C-ce] +ff+ [C-E-A-c-g] +mf+ [CEAce] +ff+ [C-G-^A-c] +mf+ [CGAe] |
++ff+ [F,-F-A-] +mf+ [F,-F-Ac] +ff+ [F,-F-A-cf] +mf+ [F,FAc] +ff+ [C-A^A-f] [CAce] |
+[F,-F-A-f-] +mf+ [F,-F-A-cf] [F,-F-A-f-] [F,FAcf] +ff+ [C-E-Ag-c'] [CEcg^a] |
+[F,-F-c-a-] +mf+ [F,Fcfa] +ff+ [G,-G-fa^a-] +mf+ [G,Gfa] +ff+ [A,-A-ce-a-] +mf+ [A,Aefa] |
++ff+ [^A,-^A-d-^a-] +mf+ [A,-Adga] +ff+ [A,-D-A-d-g-] +mf+ [A,DAdga] +ff+ [C-G-e-gc'-] +mf+ [CGeac'] |
+% Bar 40 (0:58)
++ff+ [G,-Bdb-] +mf+ [G,-db-] +ff+ [G,-A,-e-gb] [G,A,dec'] [G,-B,-Bdf-] [G,B,dfb] |
+[C-cg-c'-] +mf+ [C-egc'-] [C-g-c'-] [Cegc'] +ff+ [A,-F-cfc'-] +mf+ [A,Ffc'] |
++ff+ [^A,-d-f-g] +mf+ [A,-df-^a] [A,-df] +ff+ [A,-Cefa] [A,-D-f-ga] +mf+ [A,Dfa] |
++ff+ [A,-f-c'-] +mf+ [A,-fac'] +ff+ [A,-C-f-ac'] +mf+ [A,-Cfa] +ff+ [F,-A,-fg^a] [F,A,=ac'] |
+[G,-d-g^a] +mf+ [G,da] +ff+ [^A,-G-^A-d-] +mf+ [A,GAda] +ff+ [D-A-d-g-] +mf+ [DAdga] |
++ff+ [C-^A-c-f-] +mf+ [C-A-cfa] +ff+ [C-A-c-e-c'] +mf+ [CAceg] +ff+ [C-E-=Ace] [CEG^Ag] |
+[F,-F-A-f] +mf+ [F,-F-Aa] +ff+ [F,-F-A-c-c'] +mf+ [F,FAca] +ff+ [A,-c-f] [A,cea] |
+[^A,-^A-d-g] +mf+ [A,Ad^a] +ff+ [G,-d-a] +mf+ [G,da] +ff+ [A,-d-=a-] +mf+ [A,dfa] |
++ff+ [C-E-c-eg] +mf+ [C-E-c-g-] [C-Ec-gc'] +ff+ [CFcfa] [C-G-^A-df] [CGAeg] |
+[F,-C-G-^A-de-] +mf+ [F,CGAeg] +ff+ [F,-F-=A-fa] +mf+ [F,FA-f-] +fff+ [C-A-cfac'] [CAfg^a] |
+% Bar 50 (1:13)
+[F,-f-a] +mf+ [F,fa-] +fff+ [A,-c-f-ac'] +mf+ [A,cfa-] +fff+ [^A,-d-ga] [A,dfa] |
+[C-c-eg-] +mf+ [C-ceg] +fff+ [C-E-c-g-] +mf+ [CEceg-] +fff+ [C-G-^A-cg-] +mf+ [CGAeg] |
++ff+ [F,-F-A-f-] +mf+ [F,-F-Acf] +fff+ [F,-F-A-cf-] +mf+ [F,FAcf] +fff+ [C-A^A-f-] [CAcef] |
+[F,-F-A-f-a-] +mf+ [F,-F-A-cfa-] [F,-F-A-f-a-] [F,FAcfa-] +fff+ [C-E-Ag-a-c'] [CEcga^a] |
+[F,-F-c-a-] +mf+ [F,Fcfa] +fff+ [G,-G-fa-c'-] +mf+ [G,Gfa-c'] +fff+ [A,-A-ce-fa-] +mf+ [A,Aefa] |
++fff+ [^A,-^A-d-g^a-] +mf+ [A,-Adga-] +fff+ [A,-D-A-d-g-a] +mf+ [A,DAdga-] +fff+ [C-G-e-gac'-] +mf+ [CGeac'] |
++fff+ [G,-Bdb-] +mf+ [G,-db-] +fff+ [G,-A,-e-gb-] [G,A,deb-c'] [G,-B,-Bdf-b] [G,B,dfb] |
+[C-ceg-c'-] +mf+ [C-e-gc'-] [C-eg-c'-] [Cegc'] +fff+ [A,-F-cfc'-] +mf+ [A,Ffc'] |
++fff+ [^A,-d-f-g^a] +mf+ [A,-df-a-] [A,-dfa] +fff+ [A,-Cefa] [A,-D-f-ga] +mf+ [A,Dfa] |
++fff+ [A,-f-ac'-] +mf+ [A,-fac'] +fff+ [A,-C-f-ac'] +mf+ [A,-Cfa-] +fff+ [F,-A,-fga^a] [F,A,=ac'] |
+% Bar 60 (1:28)
+[G,-d-g-^a] +mf+ [G,dg-a] +ff+ [^A,-G-d-g-] +mf+ [A,Gdga] +ff+ [D-^A-g-] +mf+ [DAga] |
++ff+ [C-^A-f-c'-] +mf+ [C-A-fac'] +fff+ [C-A-e-c'-] +mf+ [CAegc'-] +fff+ [C-E-cec'-] [CEAgc'] |
+[F,-F-A-fa] +mf+ [F,-F-Aa-] +fff+ [F,-F-A-c-ac'] +mf+ [F,FAca-] +fff+ [A,-c-fa] [A,cea] |
+[^A,-d-g^a] +mf+ [A,da] +fff+ [G,-d-a] +mf+ [G,da-] +fff+ [A,-d-=a-^a-] +mf+ [A,df=a^a] |
++fff+ [C-E-c-egc'-] +mf+ [C-E-c-g-c'] [C-Ec-gc'-] +fff+ [CFcfac'] [C-G-^A-df^a-] [CGAega] |
+[F,-C-G-^A-de-] +mf+ [F,CGAeg] +fff+ [F,-F-=A-fa-] +mf+ [F,FAfa-] +fff+ [C-ca-] [C^Afa] |
+[F,-F-A-fa] +mf+ [F,-F-Aa-] +fff+ [F,-F-A-c-ac'] +mf+ [F,FAca-] +fff+ [A,-c-fa] [A,-c-e-a-] |
+[A,//c//e//a//] [^A,-d-g^a] +mf+ [A,da] +fff+ [G,-d-a] +mf+ [G,5/4d5/4a5/4-] +fff+ [A,-d-=a-^a-] +mf+ [A,/-d/-f/-=a/-^a/-] |
+[^A,/d/f/a/^a/] +fff+ [C5/4-E5/4-c5/4-e5/4g5/4c'5/4-] +mf+ [C-E-c-g-c'] [C5/4-E5/4c5/4-g5/4c'5/4-] +fff+ [CFcf=ac'] [C-G-^A-d-f-^a-] |
+[C//-G//-^A//-d//f//^a//-] [C5/4G5/4A5/4e5/4g5/4a5/4] [F,-C-G-A-de-] +mf+ [F,5/4C5/4G5/4A5/4e5/4g5/4] +fff+ [F,9/4-F9/4-=A9/4-f9/4-=a9/4-] |
+% Bar 70 (1:43)
+[F,4-F4-A4-f4-a4-] [F,-F-A-f-a-] [F,//F//A//f//a//] z3/4 |]
+

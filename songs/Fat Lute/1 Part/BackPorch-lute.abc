@@ -1,0 +1,27 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was BackPorch-lute.abc
+T:Back Porch [Basic Lute, Basic Harp] [v.1 Giddily] (3:10)
+Q:1/4=250
+M:4/4   
+L:1/8    
+%%part-name Basic Lute, Basic Harp
+K:A
+z6 [E,2E2B,2] |[E,4E4B,4] G,4 |B,4 C4 |D4 C4 |B,2 E,2 =G,2 [E2B,2] |E,4 G,4 |B,4 C4 |D4 C4 |B,2 E,2 =G,2 E2 |E,4 G,4 |B,4 C4 |D4 C4 |B,2 E,2 =G,2 E2 |E,4 G,4 |B,4 C4 |D4 C4 |B,4 G,2 E,2 |F,2 F,2 G,4 |
+A,4 _B,4 |B,4 C4 |D4 _E4 |E4 G,4 |A,4 _B,4 |B,6 [e2B2_E2A2] |[e4B4_E4A4] GE B,2 |E,2 E,2 =G,2 ^G,2 |B,2 C4 C2 |E,2 D2 C4 |B,2 E,2 =G,2 [B,2E2] |E,2 [E2B,2] =G,2 ^G,2 |B,2 C2 E,2 [B,2E2] |[D2A,2] F,2 [C2F2] =G,2 |
+[D2=G2] [_E2^G2] G,2 [A2=E2A,2] |z2 [A2E2] =C2 ^C2 |E2 F2 E2 [A2c2] |z2 [A2c2] [=G2B2] A,2 |[A2F2] A,2 =C2 [E,2E2B,2] |[B,2E2] G,6 |B,4 C4 |D4 C4 |B,2 EB, G,2 E,2 |F,2 F,2 G,4 |A,4 _B,4 |B,4 C4 |D4 _E2 z2 |
+[e2E2] [B2G2] [E4G,4] |A,4 _B,4 |B,6 [_E2B2A2=g2] |[_E4A4B4=g4] E=F ^F=G |[G2e2E,2] e2 [G,2c2] B2 |[B,4e4] C4 |[D4B4e4c4] C2 [e2B2c2] |B,4 [=G2=c2e2B2] [B2^c2e2] |E,2 [c2e2B2] G,4 |[B4B,4c4e4] C4 |
+[D4B4e4c4] C2 [B2c2e2] |B,4 [F4B4=c4e4] |A,2 [B2c2e2] C4 |[B4c4E4e4] F4 |[=G4c4B4e4] F2 [B2c2e2] |E4 [=G2B2=c2e2] [B2^c2e2] |E,2 [B2c2e2] G,4 |[B,4B4c4e4] C4 |[D4B4c4e4] C2 [B2c2e2] |B,4 G,2 E,2 |F,2 [c2e2] G,4 |
+[A,4c4e4] _B,4 |B,2 [c2e2] C4 |D4 _E4 |Ee BG [G,4E4] |A,4 _B,4 |B,6 [_E2A2d2=g2] |z2 [B2e2] E=F ^F=G |[E,2G2] [B2c2e2] G,4 |[B,4B4c4e4] C4 |[D4B4c4e4] C2 =g2 |B,2 e2 [G,2c2] B2 |[E,2e2] e2 [G,2c2] B2 |
+[B,4e4] C4 |[D4B4c4e4] C2 =g2 |B,2 e2 [G,2c2] B2 |[A,4e4] [C2c2] B2 |[E4e4] F4 |[=G4B4c4e4] F2 g2 |E2 e2 [C2c2] B2 |[E,2e2] e2 [G,2c2] B2 |[B,4e4] C4 |[D4B4c4e4] C2 =g2 |B,2 e2 [G,2c2] E,2 |F,2 [c2e2] G,2 A,2 |
+[c2e2] _B,4 [=B,2c2e2] |z2 g2 a2 b2 |f=g f e2 f2 e |E,2 B2 D2 [d2e2] |C4 [=C4=c4] |[B,2B2] A2 _E2 [B,2A2d2=g2] |z2 [B,4A4B4e4] [E,2G2B2e2] |z2 E,G, B,2 E2 |G2 Be ga _b2 |b_b ag a2 =g2 |z2 e2 e2 =c2 |
+[A,2e2] f2 =g2 [c2f2] |_B,2 e2 c2 =B2 |[E,4e4] _B,4 |z4 B,4 |[E,2G2B2e2] E,2 G,B, E2 |G2 Be ga _b2 |b_b ag a2 =g2 |z2 e2 e2 A2 |F,4 [E4c4g4] |=C2 [B2=g2] E4 |[B,2B2f2] A2 B2 f2 |z2 e2 c2 B2 |e2 E,2 G,B, E2 |
+G2 Be ga _b2 |b_b ag a2 =g2 |z2 e2 e2 =c2 |A,2 ef =g2 [c2f2] |_B,2 e2 c2 =B2 |[E,4e4] _B,4 |z4 B,2 =c2 |A,2 ef =g2 [c2f2] |_B,2 e2 c2 [E,2f2] |[E,4f4] [=C4f4b4] |[C=f] e2 _e d4 |[=F,4A4] [E4c4g4] |
+[B,2B2] [A2B2f2] _E4 |[E,6G6B6e6] [E2A2B2e2] |[E4A4B4e4] [EA][=F_B] [^F=B][=G=c] |[E,2G2c2] [B2c2e2] G,4 |[B,4B4c4e4] C4 |[D4B4c4e4] C2 [B2c2e2] |B,4 [=G2B2=c2e2] [B2^c2e2] |E,2 [B2c2e2] G,4 |[B,4B4c4e4] C4 |
+[D4B4c4e4] C2 [B2c2e2] |B,4 [F4B4=c4e4] |A,2 [B2c2e2] C4 |[E4B4c4e4] F4 |[=G4B4c4e4] F2 [B2c2e2] |E4 [=G2B2=c2e2] [B2^c2e2] |E,2 [B2c2e2] G,4 |[B,4B4c4e4] C4 |[D4B4c4e4] C2 [B2c2e2] |B,4 [G,2B2c2e2] E,2 |
+F,2 [c2e2] G,4 |[A,4c4e4] _B,4 |B,2 [c2e2] C4 |D4 _E2 z2 |[E2e2] [G2B2] [G,4E4] |D4 _B,4 |B,6 [_E2A2d2=g2] |z2 [B2e2] _E2 g/a_b/ |[E,2b2] b2 [G,2a2] =g2 |B,2 e2 C4 |D2 b2 [C2a2] =g2 |B,2 e2 [G,2c2] B2 |
+[A,4b4] [C4_b4] |[E2a2] e2 F4 |=G2 b2 [F2a2] b2 |[E2=g2] e2 [C2c2] B2 |[E,2e2] e2 [G,2c2] B2 |[B,2e2] c2 C4 |[D2b2] b2 [C2a2] =g2 |B,2 e2 G,2 E,2 |F,2 [c2e2] G,2 A,2 |[c2e2] _B,4 [=B,2c2e2] |z2 g2 a2 b2 |
+f=g f e2 f2 [E,e] |[E,2e2] c2 D2 [d2e2] |C4 =C4 |[B,2B2] A2 _E2 [A2B2=g2] |B,2 [A2B2e2] _E2 g/a_b/ |[E,2b2] b2 [G,2a2] =g2 |B,2 e2 C4 |D2 b2 [C2a2] =g2 |B,2 e2 [G,2c2] B2 |[E,2e2] e2 [G,2c2] B2 |[B,4e4] C4 |
+D2 b2 [C2a2] =g2 |B,2 e2 [G,2c2] B2 |[A,4b4] [C4_b4] |[E2a2] e2 F4 |=G2 b2 [F2a2] b2 |[E2=g2] e2 [C2c2] B2 |[E,2e2] e2 [G,2c2] B2 |[B,2e2] c2 C4 |[D2b2] b2 [C2a2] =g2 |B,2 e2 G,2 E,2 |F,2 [c2e2] G,2 A,2 |
+[c4e4] _B,2 [=B,2c2e2] |z2 g2 a2 b2 |f=g fe f2 e2 |E,2 c2 De d2 |[C4c4] [=C4=c4] |B2 _B,2 =B,2 E,2 |E,2 [B4c4e4] [E,2E2G2] |[E,4E4G4] z4 |]
+

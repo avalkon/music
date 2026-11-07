@@ -1,0 +1,326 @@
+N: TS 4,   8 3 10 5
+
+X:8
+%%Orig filename was jingbass.abc
+T:Jingle Rock [bass (horn)] [v.1 Bastia, Windfola] (2:16)
+M:4/4
+L:1/8
+Q:1/4=125
+N:Bastia of the Shadow Walkers kinship on Windfola
+%%part-name Basic Theorbo, Basic Horn
+K:G
+C,x Cx C,x Cx| \
+[A-C,]A [^G-C]^G [=G-C,]G [=F-C]=F| \
+[GB,]x3 [GA,]x3| \
+x[G,G,] [=F,2=F,2] [E,2E,2] [=D,2D,2]|
+C,2 x2 G,2 x2| \
+C,2 x2 G,-[G,G,] A,B,| \
+C,2 x2 ^C,2 x2| \
+D,2 x2 G,2 x2|
+D,2 E,2 [G,2D,2] G,2| \
+D,2 E,2 [G,2D,2] G,2| \
+D,2- D,/2x3/2 G,2- G,/2x3/2| \
+G,2 x2 G,G, A,B,|
+=C,2 x2 C,2- C,/2x3/2| \
+C,2 x2 C,G, A,B,| \
+C,2 x2 ^C,2 x2| \
+D,2 x2 G,2 x2|
+D,2 E,2 [G,2D,2] x2| \
+D,2 E,2 [G,2D,2] x2| \
+D,2 x2 [G,2-D,2-] [G,/2D,/2]x3/2| \
+=C,2- [A,/2-C,/2]A,3/2 C,2 x2|
+=F,2 x2 C,2 x2| \
+^F,2 x2 F,2 x2| \
+C,2 x2 E,2 x2| \
+C,2 B,2 A,2 G,2|
+A,2 x2 D,2 x2| \
+A,2 x2 D,2 x2| \
+G,2 x2 D,2 x2| \
+G,2- G,/2x3/2 A,G, A,B,|
+C,2- C,/2x3/2 G,2 x2| \
+C,2- C,/2x3/2 E,G, A,B,| \
+C,2 x2 E,2 x2| \
+A,2- [A,/2G,/2-]G,3/2 =F,2 E,2|
+=F,2 x2 =F,2- =F,/2x3/2| \
+=F,2 x2 =F,2 =F,E,| \
+D,2 x2 G,2 x2| \
+C,2 x2 D,/2x3/2 G,/2x3/2|
+C,2 x2 G,2 x2| \
+C,2 x2 G,-[G,G,] A,B,| \
+C,2 x2 ^C,2 x2| \
+D,2 x2 G,2 x2|
+D,2 E,2 [G,2D,2] G,2| \
+D,2 E,2 [G,2D,2] G,2| \
+D,2- D,/2x3/2 G,2- G,/2x3/2| \
+G,2 x2 G,G, A,B,|
+=C,2 x2 C,2- C,/2x3/2| \
+C,2 x2 C,G, A,B,| \
+C,2 x2 ^C,2 x2| \
+D,2 x2 G,2 x2|
+D,2 E,2 [G,2D,2] x2| \
+D,2 E,2 [G,2D,2] x2| \
+D,2 x2 [G,2-D,2-] [G,/2D,/2]x3/2| \
+=C,2- [A,/2-C,/2]A,3/2 C,2 x2|
+=F,2 x2 C,2 x2| \
+^F,2 x2 F,2 x2| \
+C,2 x2 E,2 x2| \
+C,2 B,2 A,2 G,2|
+A,2 x2 D,2 x2| \
+A,2 x2 D,2 x2| \
+G,2 x2 D,2 x2| \
+G,2- G,/2x3/2 A,G, A,B,|
+C,2- C,/2x3/2 G,2 x2| \
+C,2- C,/2x3/2 E,G, A,B,| \
+C,2 x2 E,2 x2| \
+A,2- [A,/2G,/2-]G,3/2 =F,2 E,2|
+=F,2 x2 =F,2- =F,/2x3/2| \
+=F,2 x2 =F,2 =F,E,| \
+D,2 x2 G,2 x2| \
+D,2 x2 G,2 x2|
+D,2 x2 G,2 x2| \
+C,2 x2 D,/2x3/2 G,/2x3/2| \
+C,2 x2 C,2- C,/2
+
+X:3
+%%Orig filename was jingclar.abc
+T:Jingle Rock [Clarinet] [v.1 Bastia, Windfola] (2:16)
+M:4/4
+L:1/8
+Q:1/4=125
+N:Bastia of the Shadow Walkers kinship on Windfola
+%%part-name Basic Clarinet
+K:G
+[e/2c/2]x/2[e/2c/2]x/2 [ec]x [e/2B/2]x/2[e/2B/2]x/2 [eB]x| \
+eg cd [=f/2e/2-]e/2d cA| \
+Gx [g^f]x Gx [gf]x| \
+G8|
+cc c2 BB B2| \
+AB AE4-E| \
+AB A2 E2 G2| \
+AB A2 =F4|
+DE2=F GA2G| \
+DE =F2 G4| \
+x2 A^G A^G A2| \
+A2 ^D^D4-^D|
+cc c2 BB B2| \
+AB AE4-E| \
+AB A2 E2 =G2| \
+AB A2 =F4|
+=DE2=F GA2G| \
+DE =F2 G4| \
+x2 AA BG2c-| \
+c6 cc|
+cd2c3 Ac| \
+cd2c4c| \
+c2 B2 A2 G2| \
+E6 cc|
+cd2c3 Ac| \
+d3c4-c| \
+xG G2 AA AA| \
+BA2G3 x2|
+cc c2 BB B2| \
+AB AE4-E| \
+AB A2 E2 G2| \
+A8|
+A2 c2 dd cc| \
+^G^G cd4-d| \
+x2 cA BA =G2| \
+c2 E2 G=F AB|
+cc c2 BB B2| \
+AB AE4-E| \
+AB A2 E2 G2| \
+AB A2 =F4|
+DE2=F GA2G| \
+DE =F2 G4| \
+x2 A^G A^G A2| \
+A2 ^D^D4-^D|
+cc c2 BB B2| \
+AB AE4-E| \
+AB A2 E2 =G2| \
+AB A2 =F4|
+=DE2=F GA2G| \
+DE =F2 G4| \
+x2 AA BG2c-| \
+c6 cc|
+cd2c3 Ac| \
+cd2c4c| \
+c2 B2 A2 G2| \
+E6 cc|
+cd2c3 Ac| \
+d3c4-c| \
+xG G2 AA AA| \
+BA2G3 x2|
+cc c2 BB B2| \
+AB AE4-E| \
+AB A2 E2 G2| \
+A8|
+A2 c2 dd cc| \
+^G^G cd4-d| \
+x2 cA BA =G2| \
+x2 cA BA G2|
+x2 cA BA G2| \
+cA G2 =F2 ^D2| \
+E8|
+
+X:10
+%%Orig filename was jingdrum.abc
+T:Jingle Rock [drums] [v.1 Bastia, Windfola] (2:15)
+M:4/4
+L:1/8
+Q:1/4=125
+N:Bastia of the Shadow Walkers kinship on Windfola
+%%part-name Basic Drum
+K:G
+x3/2x/2 [^f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x| \
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x| \
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x| \
+x3/2x/2 [f/2-A/2A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x|
+^C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x| \
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2f| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2x|
+C,/2x3/2 [f/2-C,/2]f/2x C,/2x/2x [f/2-C,/2]f/2x| \
+C,/2x3/2 [f/2-A/2C,/2]f/2A/2x/2 C,/2x/2x [f/2-A/2C,/2]f/2f| \
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x| \
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x|
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x| \
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2 xx [f/2-A/2]f/2x| \
+x3/2x/2 [f/2-A/2]f/2[f/2-A/2]f/2
+
+X:5
+%%Orig filename was jingpain.abc
+T:Jingle Rock [Piano] [v.1 Bastia, Windfola] (2:17)
+M:4/4
+L:1/8
+Q:1/4=125
+N:Bastia of the Shadow Walkers kinship on Windfola
+%%part-name Basic Harp
+K:G
+[e/2c/2C,/2-]C,/2[e/2c/2]x/2 [ecC]x [e/2B/2C,/2-]C,/2[e/2B/2]x/2 [eBC]x| \
+[eA-C,][gA] [c^G-C][d^G] [=f/2e/2-=G/2-C,/2-][e/2G/2-C,/2][dG] [c=F-C][A=F]| \
+[GB,]x [g^f]x [GA,]x [gf]x| \
+G-[GG,G,] [=F,2=F,2] [E,2E,2] [D,2D,2]|
+[c/2-G/2E/2-G,/2-C,/2-][c/2E/2G,/2-C,/2-][G,C,] [c3/2G3/2E3/2]x/2 [BGEG,-C,-][G,C,-] [B/2-G/2-E/2-C,/2][B3/2G3/2E3/2]| \
+[A3/2G,3/2-C,3/2-][G,/2C,/2] [c2-A2-G2E2] [c/2A/2G,/2-]G,/2-[G,G,] [G-E-A,][GEB,]| \
+[A2G,2-C,2] [c/2-A/2-G/2-E/2-G,/2][c3/2A3/2G3/2E3/2] [E2G,2^C,2] [G2E2^C2]| \
+[A2A,2D,2] [A2=F2D2] [=F2G,2D,2] [G2=F2D2B,2]|
+[A,2=F,2D,2] [D2=C2A,2E,2] [=F2B,2G,2D,2] [=F3/2-D3/2-B,3/2G,3/2-][=F/2D/2G,/2]| \
+[A,2=F,2D,2] [D2C2A,2E,2] [=F2B,2G,2D,2] [=F3/2-D3/2-B,3/2G,3/2-][=F/2D/2G,/2]| \
+[D2A,2-D,2-] [A/2-=F/2-D/2-A,/2D,/2][A3/2=F3/2D3/2] [A2G,2-] [A/2-=F/2-D/2-B,/2-G,/2][A3/2=F3/2D3/2B,3/2]| \
+[A2G,2] [G2^D2B,2] G,G, [G-^D-B,-A,][G^DB,B,]|
+[G,2C,2] [c2G2-E2-] [B/2-G/2E/2G,/2-C,/2-][B3/2G,3/2-C,3/2-] [B/2-G/2-E/2-G,/2C,/2][B3/2G3/2E3/2]| \
+[A2G,2C,2] [c2A2G2E2] [G,-C,-][G,G,C,] [c-G-E-A,][c-G-E-B,]| \
+[c/2A/2-G/2E/2G,/2-C,/2-][A3/2G,3/2C,3/2] [c3/2A3/2-G3/2-E3/2-][A/2G/2E/2] [G,2^C,2] [G2E2^C2]| \
+[A2A,2=D,2] [A3/2=F3/2-D3/2-][=F/2D/2] [=F2G,2D,2] [G3/2-D3/2-B,3/2][G/2D/2]|
+[A,2=F,2D,2] [=F3/2D3/2-E,3/2-][D/2E,/2] [=F-G,-D,-][G=FG,D,] [=F3/2-D3/2-B,3/2][=F/2D/2]| \
+[A,3/2=F,3/2-D,3/2-][=F,/2D,/2] [A3/2=F3/2-D3/2-E,3/2-][=F/2D/2E,/2] [G,2D,2] [G3/2-D3/2-B,3/2][G/2D/2]| \
+[A,3/2^F,3/2-D,3/2-][F,/2D,/2] [A2F2D2=C2] [G,2-D,2-] [B/2-G/2-=F/2-D/2-G,/2D,/2][B3/2G3/2=F3/2D3/2]| \
+[G,2-C,2-] [c/2-G/2-E/2-A,/2-G,/2C,/2][cGEA,-]A,/2 [c/2^A/2-G/2-E/2-^A,/2-G,/2-][^A/2G/2E/2^A,/2-G,/2-C,/2-][^A,G,C,] [c2^A2G2E2]|
+[d2C2=A,2=F,2] [c2A2=F2] C,2 [d2c2A2G2=F2]| \
+[d2C2A,2^F,2] [c2A2F2] [C2A,2F,2] [c2A2F2]| \
+[G,2C,2] [B2G2-E2C2] [A/2-G/2G,/2-E,/2-][A3/2G,3/2E,3/2] [G2E2C2]| \
+[G,2C,2] [c2G2E2B,2] [A,2G,2E,2] [c2G2E2G,2]|
+[c2A,2E,2] [d2c2A2E2] [c2A,2F,2D,2] [A2F2D2]| \
+[d2A,2E,2] [c2A2] [A,2F,2D,2] [d2A2F2]| \
+[G,2D,2] [d2G2=F2] [A,2D,2] [d2A2=F2]| \
+[B2G,2-D,2-] [d/2-B/2-=F/2-G,/2D,/2][d3/2B3/2=F3/2-] [d-A-=FA,-][d/2A/2A,/2-G,/2-][A,/2G,/2] [d-B-A-=F-][dBA=FB,]|
+[G,2C,2-] [c/2-G/2-E/2-C,/2][c3/2G3/2E3/2] [B2G,2] [B2A2G2E2]| \
+[G,2C,2-] [c/2-G/2-E/2-C,/2][c3/2-G3/2-E3/2-] [c/2-G/2-E/2G,/2-E,/2-][c/2G/2G,/2-E,/2-][G,G,E,] [c-A-G-E-A,][c/2A/2G/2E/2B,/2-]B,/2| \
+[G,2-C,2] [A/2-G/2-E/2-C/2-G,/2][A3/2G3/2E3/2C3/2] [E2D2A,2E,2] [B2G2E2]| \
+[A,2-E,2-] [^c/2-A/2-E/2-A,/2G,/2-E,/2][^c3/2-A3/2-E3/2-G,3/2] [^c/2A/2E/2=F,/2-]=F,3/2 [^c3/2-A3/2-E3/2E,3/2-][^c/2A/2E,/2]|
+[=C2A,2=F,2] [c-A=F-][c/2=F/2-]=F/2 [d=F-C-=F,-][=F/2C/2-=F,/2-][C/2-=F,/2-] [d/2-=F/2-C/2=F,/2][d3/2=F3/2]| \
+[C2^G,2=F,2] [d2^G2=F2] [C2^G,2=F,2] [d-^G-=F-=F,][d^G=FE,]| \
+[A,2^F,2D,2] [A3/2F3/2-D3/2C3/2]F/2 [=G,2D,2-] [B/2-G/2-=F/2-D/2-D,/2][B3/2G3/2=F3/2D3/2]| \
+[G,2-C,2] [E/2-^C/2-G,/2][E-^C]E/2 [A/2-=F/2-D/2-A,/2D,/2][A/2=F/2D/2]x [G/2-D/2-B,/2-G,/2D,/2][G3/2D3/2B,3/2]|
+[=c/2-G/2E/2-G,/2-C,/2-][c/2E/2G,/2-C,/2-][G,C,] [c3/2G3/2E3/2]x/2 [BGEG,-C,-][G,C,-] [B/2-G/2-E/2-C,/2][B3/2G3/2E3/2]| \
+[A3/2G,3/2-C,3/2-][G,/2C,/2] [c2-A2-G2E2] [c/2A/2G,/2-]G,/2-[G,G,] [G-E-A,][GEB,]| \
+[A2G,2-C,2] [c/2-A/2-G/2-E/2-G,/2][c3/2A3/2G3/2E3/2] [E2G,2^C,2] [G2E2^C2]| \
+[A2A,2D,2] [A2=F2D2] [=F2G,2D,2] [G2=F2D2B,2]|
+[A,2=F,2D,2] [D2=C2A,2E,2] [=F2B,2G,2D,2] [=F3/2-D3/2-B,3/2G,3/2-][=F/2D/2G,/2]| \
+[A,2=F,2D,2] [D2C2A,2E,2] [=F2B,2G,2D,2] [=F3/2-D3/2-B,3/2G,3/2-][=F/2D/2G,/2]| \
+[D2A,2-D,2-] [A/2-=F/2-D/2-A,/2D,/2][A3/2=F3/2D3/2] [A2G,2-] [A/2-=F/2-D/2-B,/2-G,/2][A3/2=F3/2D3/2B,3/2]| \
+[A2G,2] [G2^D2B,2] G,G, [G-^D-B,-A,][G^DB,B,]|
+[G,2C,2] [c2G2-E2-] [B/2-G/2E/2G,/2-C,/2-][B3/2G,3/2-C,3/2-] [B/2-G/2-E/2-G,/2C,/2][B3/2G3/2E3/2]| \
+[A2G,2C,2] [c2A2G2E2] [G,-C,-][G,G,C,] [c-G-E-A,][c-G-E-B,]| \
+[c/2A/2-G/2E/2G,/2-C,/2-][A3/2G,3/2C,3/2] [c3/2A3/2-G3/2-E3/2-][A/2G/2E/2] [G,2^C,2] [G2E2^C2]| \
+[A2A,2=D,2] [A3/2=F3/2-D3/2-][=F/2D/2] [=F2G,2D,2] [G3/2-D3/2-B,3/2][G/2D/2]|
+[A,2=F,2D,2] [=F3/2D3/2-E,3/2-][D/2E,/2] [=F-G,-D,-][G=FG,D,] [=F3/2-D3/2-B,3/2][=F/2D/2]| \
+[A,3/2=F,3/2-D,3/2-][=F,/2D,/2] [A3/2=F3/2-D3/2-E,3/2-][=F/2D/2E,/2] [G,2D,2] [G3/2-D3/2-B,3/2][G/2D/2]| \
+[A,3/2^F,3/2-D,3/2-][F,/2D,/2] [A2F2D2=C2] [G,2-D,2-] [B/2-G/2-=F/2-D/2-G,/2D,/2][B3/2G3/2=F3/2D3/2]| \
+[G,2-C,2-] [c/2-G/2-E/2-A,/2-G,/2C,/2][cGEA,-]A,/2 [c/2^A/2-G/2-E/2-^A,/2-G,/2-][^A/2G/2E/2^A,/2-G,/2-C,/2-][^A,G,C,] [c2^A2G2E2]|
+[d2C2=A,2=F,2] [c2A2=F2] C,2 [d2c2A2G2=F2]| \
+[d2C2A,2^F,2] [c2A2F2] [C2A,2F,2] [c2A2F2]| \
+[G,2C,2] [B2G2-E2C2] [A/2-G/2G,/2-E,/2-][A3/2G,3/2E,3/2] [G2E2C2]| \
+[G,2C,2] [c2G2E2B,2] [A,2G,2E,2] [c2G2E2G,2]|
+[c2A,2E,2] [d2c2A2E2] [c2A,2F,2D,2] [A2F2D2]| \
+[d2A,2E,2] [c2A2] [A,2F,2D,2] [d2A2F2]| \
+[G,2D,2] [d2G2=F2] [A,2D,2] [d2A2=F2]| \
+[B2G,2-D,2-] [d/2-B/2-=F/2-G,/2D,/2][d3/2B3/2=F3/2-] [d-A-=FA,-][d/2A/2A,/2-G,/2-][A,/2G,/2] [d-B-A-=F-][dBA=FB,]|
+[G,2C,2-] [c/2-G/2-E/2-C,/2][c3/2G3/2E3/2] [B2G,2] [B2A2G2E2]| \
+[G,2C,2-] [c/2-G/2-E/2-C,/2][c3/2-G3/2-E3/2-] [c/2-G/2-E/2G,/2-E,/2-][c/2G/2G,/2-E,/2-][G,G,E,] [c-A-G-E-A,][c/2A/2G/2E/2B,/2-]B,/2| \
+[G,2-C,2] [A/2-G/2-E/2-C/2-G,/2][A3/2G3/2E3/2C3/2] [E2D2A,2E,2] [B2G2E2]| \
+[A,2-E,2-] [^c/2-A/2-E/2-A,/2G,/2-E,/2][^c3/2-A3/2-E3/2-G,3/2] [^c/2A/2E/2=F,/2-]=F,3/2 [^c3/2-A3/2-E3/2E,3/2-][^c/2A/2E,/2]|
+[=C2A,2=F,2] [c-A=F-][c/2=F/2-]=F/2 [d=F-C-=F,-][=F/2C/2-=F,/2-][C/2-=F,/2-] [d/2-=F/2-C/2=F,/2][d3/2=F3/2]| \
+[C2^G,2=F,2] [d2^G2=F2] [C2^G,2=F,2] [d-^G-=F-=F,][d^G=FE,]| \
+[A,2^F,2D,2] [A3/2F3/2-D3/2C3/2]F/2 [=G,2D,2-] [B/2-G/2-=F/2-D/2-D,/2][B3/2G3/2=F3/2D3/2]| \
+[A,2^F,2D,2] [A3/2F3/2-D3/2C3/2]F/2 [G,2D,2-] [B/2-G/2-=F/2-D/2-D,/2][B3/2G3/2=F3/2D3/2]|
+[A,2^F,2D,2] [A3/2F3/2-D3/2C3/2]F/2 [G,2D,2-] [B/2-G/2-=F/2-D/2-D,/2][B3/2G3/2=F3/2D3/2]| \
+[c/2-A/2-C/2=F,/2][c/2A/2]x [c/2-G/2-E/2-C,/2][c/2G/2E/2]x [A/2=F/2-D/2A,/2G,/2D,/2]=F/2x [^F/2-^D/2-B,/2-B,/2][F/2-^D/2-B,/2][F/2^D/2]x/2| \
+[G2-E2-C2-G,2-C,2-] [G2-E2-C2-G,2-G,2C,2-] [G2-E2-C2-G,2-C,2-C,2-] [G/2-E/2-C/2-G,/2-C,/2-C,/2][G3/2-E3/2-C3/2-G,3/2-C,3/2-]|[GECG,C,]
+

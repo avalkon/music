@@ -1,0 +1,67 @@
+%%song-title       Skyfall
+%%song-composer    Adele
+%%song-duration    1:25
+%%song-transcriber Forte Maestro
+
+%%abc-creator Maestro v1.0.0
+%%abc-version 2.0
+
+
+X: 11
+T: Skyfall Basic Lute (1:25)
+%%part-name Basic Lute
+C: Adele
+Z: Forte Maestro
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ [C,8-d8-^d8-g8-c'8-] |
+[C,8d8^d8g8c'8] |
+[C2^d2c'2] [d-c'-] [Cdc'] [^G,2d2c'2] [d-c'-] [G,dc'] |
+[F,2^d2c'2] [d-c'-] [F,dc'] [d-c'-] [Fdc'] [d-c'-] [Fdc'] |
+[C2^d2c'2] [d-c'-] [Cdc'] [^G,2d2c'2] [d-c'-] [G,dc'] |
+[F,2^d2c'2] [d-c'-] [F,dc'] [d-c'-] [Fdc'] [d-c'-] [Fdc'] |
+[C2^d2c'2] [d-c'-] [Cdc'] [^G,2d2c'2] [d-c'-] [G,dc'] |
+[F,2^d2c'2] [d-c'-] [F,dc'] [d-c'-] [Fdc'] [d-c'-] [Fdc'] |
+[D2-d2g2c'2] [D2-d2g2c'2] [D2-d2g2c'2] [D2d2g2c'2] |
+% Bar 10 (0:18)
+[G,2-d2g2c'2] [G,2d2g2c'2] [G,2-d2g2b2] [G,-dgb] [G,^d] |
+[C-d] [C/-c'/] [C/c'/-] [^d-c'-] [Cdc'] [^G,2d2c'2] [d-c'-] [G,dc'] |
+[F,2^d2c'2] [d-c'-] [F,dc'] [^gc'] [F=d] [^dg] [F=d] |
+[C2d2c'2] [^d-c'-] [Cdc'] [^G,2d2c'2] [dc'] [G,/-c'/] [G,/c'/] |
+[F,2f2^g2c'2] [f-g-c'-] [F,fgc'] [gc'] [Fd] [^dg] [F=d] |
+[C2d2^d2] [=d^d] [C/-c'/] [C/d/] [^G,2d2c'2] [d-c'-] [G,dc'] |
+[F,2f2^g2c'2] [f-g-c'-] [F,fgc'] [^d-g-c'-] [Fdgc'] [dgc'] [Fc'] |
+[D2-d2g2c'2] [D2-g2c'2] [D2-g2c'2] [D-gc'] [D/-^d/] [D/g/] |
+[G,2-d2g2c'2] [G,2d2g2c'2] [G,2-g2b2] [G,-gb] [G,^d] |
+[C-d] [C/-c'/] [C/c'/-] [^d-c'-] [Cdc'] [^G,2d2c'2] [d-c'-] [G,dc'] |
+% Bar 20 (0:38)
+[F,2^d2c'2] [d-c'-] [F,dc'] [^gc'] [F=d] [^dg] [F=d] |
+[C2d2c'2] [^d-c'-] [Cdc'] [^G,2d2c'2] [dc'] [G,/-c'/] [G,/c'/] |
+[F,2f2^g2c'2] [f-g-c'-] [F,fgc'] [gc'] [Fd] [^dg] [F=d] |
+[C2d2^d2] [=d^d] [C/-c'/] [C/d/] [^G,2d2c'2] [d-c'-] [G,dc'] |
+[F,2f2^g2c'2] [f-g-c'-] [F,fgc'] [^d-g-c'-] [Fdgc'] [dgc'] [Fc'] |
+[D2-d2g2c'2] [D2-g2c'2] [D2-g2c'2] [D-gc'] [D/-^d/] [D/g/] |
+[G,2-d2g2c'2] [G,2d2g2c'2] [G,2-g2b2] [G,-^d] [G,=d] |
+[C,-C-cgc'] [C,C^d-g-c'-] [C,2C2d2g2c'2] [C,3/2-C3/2-] [C,/C/c/-g/-c'/-] [C,Ccgc'] [^A,cgc'] |
+[^G,-cgc'] [G,^d-^g-c'-] [G,2d2g2c'2] G,3/2- [G,/c/-=g/-c'/-] [=G,^G,cgc'] [F,=G,cgc'] |
+[^D,-F,-cgc'] [D,F,f-^g-c'-] [D,2F,2f2g2c'2] [D,3/2-F,3/2-] [D,/F,/f/-c'/-] [D,F,fc'] [=D,^D,^dc'] |
+% Bar 30 (0:58)
+[C,2D,2f2-c'2-] [C,-D,-fc'] [C,D,^d] [F,-G,-d^gc'] [F,G,=dgc'] [F,-G,-^d] [F,G,=d] |
+[C,-C-cgc'] [C,C^d-g-c'-] [C,2C2d2g2c'2] [C,3/2-C3/2-] [C,/C/c/-g/-c'/-] [C,Ccgc'] [^A,cgc'] |
+[^G,-cgc'] [G,^d-^g-c'-] [G,2d2g2c'2] G,3/2- [G,/c/-=g/-c'/-] [=G,^G,cgc'] [F,=G,cgc'] |
+[^D,-F,-cgc'] [D,F,f-^g-c'-] [D,2F,2f2g2c'2] [D,3/2-F,3/2-] [D,/F,/f/-c'/-] [D,F,fc'] [=D,^D,^dc'] |
+[C,2D,2f2-c'2-] [C,-D,-fc'] [C,D,^d] [F,-G,-d^gc'] [F,G,=dgc'] [F,-G,-^d] [F,G,=d] |
+[C2^d2g2c'2] [d-g-c'-] [Cdgc'] [^G,2d2g2c'2] [d-g-c'-] [G,dgc'] |
+[F,2^d2g2c'2] [d-g-c'-] [F,dgc'] [d-g-c'-] [Fdgc'] [d-g-c'-] [Fdgc'] |
+[C2^d2g2c'2] [d-g-c'-] [Cdgc'] [^G,2d2g2c'2] [d-g-c'-] [G,dgc'] |
+[F,2^d2g2c'2] [d-g-c'-] [F,dgc'] [d-g-c'-] [Fdgc'] [d-g-c'-] [Fdgc'] |
+[C2^d2g2c'2] [d-g-c'-] [Cdgc'] [^G,2d2g2c'2] [d-g-c'-] [G,dgc'] |
+% Bar 40 (1:18)
+[F,2^d2g2c'2] [d-g-c'-] [F,dgc'] [d-g-c'-] [Fdgc'] [d-g-c'-] [Fdgc'] |
+[D2-d2g2c'2] [D2-d2g2c'2] [D2-d2g2c'2] [D2d2g2c'2] |
+[G,2-d2g2c'2] [G,2d2g2c'2] [G,2-d2g2b2] [G,2d2g2b2] |
+C,8 |
+z/4 |]
+

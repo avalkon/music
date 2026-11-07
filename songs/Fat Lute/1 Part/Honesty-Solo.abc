@@ -1,0 +1,28 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was Honesty-Solo.abc
+T:Honesty (2:58)
+C:Composer:Billy Joel
+N:Arranged by Meldowen
+Q:1/4=85
+M:4/4
+L:1/8
+%%part-name Unknown Instrument
+K:C
+[F,2_B2] _B,2 [^C2^G2_B,2] F2 |[^C2^F2_B,2] ^F,^F [_EA,=F]G, F,D |[_B,F,D]_B/_B/ [_B,3/2D3/2F3/2_B3/2]A/ [A_E]G/G/ [_E2_B,2] |[F/C/A,/]A/A/_B/ [CAFA,]_E/G/ [A,/D/C/G/]F3/2 [C2F,2F2] |[G,_B,_E]G/G/ [_B,G,_EG]F/F/ [DG,G_B,]G [D_B,G,]_B,/C/ |
+[E,2A2A,2] [C2A,2E2] [_B,2G2_E2C2] [A,FC][A,_ECF] |[_B,/D/F/]_B,/_B/_B/ [_B,_BFD]A/A/ [CF]G/G/ [G,/C/E/]G/G |[CAcF]_B/A/ [E^c]G/G/ [A,2d2F2D2] F,/A,/D/F/ |[_E/G/_B,/]G3/2 [G,_E_B,A]_B/A/ [^CA,=EA]^c/d/ [A,^CEG]e/d/ |
+[D2G2d2] [DG]d [A,D^Fd]d [A,GD][A,^FD] |[_E2G2_B2_e2] [G,_B,][C/c/][_E/_e/A/] F2 [F,3/2A,3/2_e3/2][D/d/] |[^FA^fda][^F/^f/][D/^F/d/] [^F,A,][C/c/][C/c/] [G,2_B,2=F2G2D2_B2] [F,/C/A,/G/F/]D/[A,DG] |[G_B_eg_E][G_B_e_E] [G,_eCc][_B,G_B_E] [A,2F2F,2C2A2] [G,_EG_eC]G |
+[DF,_B,_B]F F,/_B,/C/D/ D[^FA,Dd] [A,DG][A,D^F,A] |[_E2_B2G2_e2] [G,_B,][c/C/][_E/_e/A/] F2 [F,3/2A,3/2_e3/2][D/d/] |[A^Fda^f][^F/^f/][^F/D/d/] [^F,A,][c/C/][C/c/] [G,G][D=F_B_B,] [F,/C/F/G/A,/]D/[A,/C/G/][_B,/_B/] |
+[_EG_B_eg][_EG_B_e] [G,Cc_e][_B,_EG_B] [F,2A,2C2F2A2] [C_EGc][_B,C_EG_Bc] |[_B,C_EG_Bc] [_B,4D4F4_B4] z [G,_B,_EF]F, |[F,_B,D]_B/_B/ [_B,3/2D3/2F3/2_B3/2]A/ [_EA]G/G/ [_B,2_E2] |[A,/C/F/]A/A/_B/ [A,CFA]_E/G/ [A,/C/D/G/]F3/2 [F,2C2F2] |
+[G,_B,_E]G/G/ [G,_B,_EG]F/F/ [G,_B,DG]G [G,_B,D]_B,/C/ |[A,2A2] [A,2C2E2] [_B,2C2_E2G2] [A,CF][A,C_EF] |[_B,/D/F/]_B,/_B/_B/ [_B,DF_B]A/A/ [CF]G/G/ [G,/C/E/]G/G |[CFAc]_B/A/ [E^c]G/G/ [A,2D2F2d2] F,/A,/D/F/ |[_B,/_E/G/]G3/2 [G,_B,_EA]_B/A/ [A,^C=EA]^c/d/ [A,^CEG]e/d/ |
+[D2G2d2] [DG]d [A,D^Fd]d [GA,D][A,D^F] |[_E2G2_B2_e2] [G,_B,][C/c/][_E/A/_e/] F2 [F,3/2A,3/2_e3/2][D/d/] |[^FAd^fa][^F/^f/][D/^F/d/] [^F,A,][C/c/][C/c/] [G,2_B,2D2=F2G2_B2] [F,/A,/C/F/G/]D/[A,DG] |[_EG_B_eg][_EG_B_e] [G,Cc_e][_B,_EG_B] [F,2A,2C2F2A2] [G,C_EG_e]G |
+[F,_B,D_B]F F,/_B,/C/D/ D[A,D^Fd] [A,DG][^F,A,DA] |[_E2G2_B2_e2] [G,_B,][C/c/][_E/A/_e/] F2 [F,3/2A,3/2_e3/2][D/d/] |[^FAd^fa][^F/^f/][D/^F/d/] [^F,A,][C/c/][C/c/] [G,G][_B,D=F_B] [F,/A,/C/F/G/]D/[A,/C/G/][_B,/_B/] |
+[_EG_B_eg][_EG_B_e] [G,Cc_e][_B,_EG_B] [F,2A,2C2F2A2] [C_EGc][_B,C_EG_Bc] |[_B,C_EG_Bc][_B,DF_B] _B,F, [_B,2^C2^G2] F2 |[_B,^C^F]^F, B,^F [A,_E=F]G, F,D |[G,_B,DGd]d/d/ dd/_e3/2 d d/G,/_B,/D/ |[^F,G,A,DGd]d/d/ dd/d3/2 A/^F D/A, |
+[F,^G,DF^c]d/d/ d3/2d/ _e/d/ d2 =g |[^C3/2_E3/2G3/2d3/2]^c/ ^c/^c/^c/_B/ G_E/_E/ _E/G/d |[G,_B,_E_e]c/c/ cc/[_E/_e/] [F,FAd]c/c/ [EA]c |[_B,_EG_Bc]_B/_B3/2 [_B,/_B/]_B/ [_B,DF_B][_B,_B] [_B,_B][_B,G_B] |[_B,2C2F2c2] [_B,3/2C3/2F3/2][C/c/] [_B,2C2E2c2] [_B,CEc][F/G/]^F/ |
+[F2A2d2] F,_e [^F,2D2A2d2] [Dc]_B |[_B,4_E4G4] z2 [G,_B,_EF]F, |[F,_B,D]_B/_B/ [F,/_B,/D/]_BA/ [_B,_EA]G/G/ [G,2_B,2_E2] |[A,CF]A [C/_E/F/_B/]cG/ [A,/D/G/]F3/2 [F,A,D]F, |[G,/_B,/_E/]GG/ [G,/_B,/_E/]GF/ [G,/_B,/D/F/G/]F3/2 [G,/_B,/D/]D_B,/ |
+[A,2C2A2] [A,2C2] [_B,2C2_E2G2c2] [A,CF][A,C_EF] |[F,_B,D]_B/_B/ [F,/_B,/D/]_BA/ [C/F/]A/G/G/ [G,/C/E/]F/G/A/ |[C/F/c/]d3/2 [A,/^C/E/A/^c/]GG/ [A,2D2F2d2] [F,A,D][D/d/]F/ |[_B,_EG_e]G/A/ [G,_B,_E]_B/A/ [A,3/2^C3/2=E3/2A3/2]^c/ [A,^CEGd]e/e/ |
+[D/d/]f//e//d [G,A,C]E, [^F,A,C]D dD |[_E2G2_B2_e2] [G,_B,][c/C/][_E/A/_e/] F2 [F,3/2A,3/2_e3/2][D/d/] |[^FAd^fa][^F/^f/][D/^F/d/] [^F,A,][C/c/][C/c/] [G,2_B,2D2=F2G2_B2] [F,/A,/C/F/G/]D/[A,DG] |[_EG_B_eg][_EG_B_e] [G,Cc_e][_B,_EG_B] [F,2A,2C2F2A2] [G,C_EG_e]G |
+[F,_B,D_B]F F,/_B,/C/D/ D[A,D^Fd] [A,DG][^F,A,DA] |[_E2G2_B2_e2] [G,_B,][C/c/][_E/A/_e/] F2 [F,3/2A,3/2_e3/2][D/d/] |[^FAd^fa][^F/^f/][D/^F/d/] [^F,A,][C/c/][C/c/] [G,G][_B,D=F_B] [F,/A,/C/F/G/]D/[A,/C/G/][_B,/_B/] |
+[_EG_B_eg][_EG_B_e] [G,Cc_e][_B,_EG_B] [F,2A,2C2F2A2] [C_EGc][_B,C_EG_Bc] |[_B,C_EG_Bc][_B,DF_B] _B,2 [_B,2^C2^G2] F_B, |[_B,2^C2^F2] B,^F [A,_E=F]G, F,D |[^F,_B,_E]^F, _B,_E [=F,2A,2D2=F2] [F,A,C]_e |[F,_B,d]d F,_B, [_B4d4] |]
+%End of file
+

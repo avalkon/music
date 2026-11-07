@@ -1,0 +1,170 @@
+N: TS  4,   8   3   1  21
+X: 8
+%%Orig filename was CarolanCupBass.abc
+T: Carolan's Cup-theorbo- (1:39)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Carolan_s_Cup.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+%%part-name Basic Theorbo
+K: C
+
+z49/8 G,5/4 z/4 ^A,5/4 z/4 C,5/4 z/4 F,5/4 z/4 ^D,5/4 z/4 ^A,5/4 z/8
+G,17/8 z3/8 G,/4 z3/8 G,5/4 z/4 ^A,5/4 z/4 C,5/4 z/4 F,5/4 z/4 ^D,5/4
+z/4 =D,5/4 z/8 G,17/8 z3/8 G,/4 z3/8 G,5/4 z/4 ^A,5/4 z/4 C,5/4 z/4
+F,5/4 z/4 ^D,5/4 z/4 ^A,5/4 z/8 G,2 z/2 G,/4 z3/8 G,5/4 z/4 ^A,5/4
+z/4 C,5/4 z/4 F,5/4 z/4 ^D,5/4 z/4 =D,5/4 z/8 G,2 z/2 G,/4 z/4
+^A,17/8 z3/8 ^A,/4 z/4 F,17/8 z3/8 F,/4 z3/8 C,5/4 z/4 D,5/4 z/8
+G,17/8 z3/8 G,/4 z3/8 G,5/4 z/4 ^A,5/4 z/4 C,5/4 z/4 F,5/4 z/4 ^D,5/4
+z/4 =D,5/4 z/8 G,17/8 z3/8 G,/4 z/4 ^A,19/8 z/8 ^A,/4 z/4 F,19/8 z/8
+=A,/4 z3/8 C,5/4 z/4 D,5/4 z/8 G,19/8 z/8 G,/4 z3/8 G,5/4 z/4 ^A,5/4
+z/4 C,5/4 z/4 F,5/4 z/4 ^D,5/4 z/4 =D,5/4 z/8 G,19/8 z/8 G,/4 z/4
+G,3/2 ^A,3/2 C,3/2 F,3/2 ^D,3/2 ^A,3/2 G,11/4 z/4 G,3/2 ^A,3/2 C,3/2
+F,3/2 ^D,3/2 =D,3/2 G,11/4 z/4 G,3/2 ^A,3/2 C,3/2 F,3/2 ^D,3/2 ^A,3/2
+G,5/2 =D,3/8 z/8 G,3/2 ^A,3/2 C,3/2 F,3/2 ^D,3/2 =D,3/2 G,5/2 D,3/8
+z/8 ^A,5/2 ^A,/4 z/4 F,5/2 F,/4 z/4 C,3/2 D,3/2 G,11/4 z/4 G,3/2
+^A,3/2 C,3/2 F,3/2 ^D,3/2 =D,3/2 G,11/4 z/4 ^A,9/4 z/4 ^A,3/8 z/8
+F,9/4 z/4 F,3/8 z/8 C,3/2 D,3/2 G,5/2 D,3/8 z/8 G,3/2 ^A,3/2 C,3/2
+F,3/2 ^D,3/2 =D,3/2 G,5/2
+
+X: 3
+%%Orig filename was CarolanCupClar.abc
+T: Carolan's Cup-clarinet (1:39)
+%%part-name Basic Clarinet
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Carolan_s_Cup.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z5 ^A/2 c/2 d3/4 ^d/4 =d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4 d/8 c/4 ^A/4
+G/4 F d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G/2 g/2 f/2 g/2 d/2 c/2 d3/4
+^d/4 =d/4 c/4 ^A/2 d/2 f/2 c/2 ^d/4 =d/4 c/4 ^A/4 [=AA,3/2] c/2 ^A/2
+=A/2 G/2 F/2 D/2 F/2 G3/2 G ^A/4 c/4 d3/4 ^d/4 =d/4 c/4 ^A/2 d/2 f/2
+c/4 d/8 c/4 d/8 c/4 ^A/4 G/4 F d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G/2
+g/2 f/2 g/2 d/2 c/2 d3/4 ^d/4 =d/4 c/4 ^A/2 d/2 f/2 c/2 ^d/4 =d/4 c/4
+^A/4 [A,3/2=A] c/2 ^A/2 =A/2 G/2 F/2 D/2 F/2 G3/2 G A/2 ^A3/4 c/4
+^A/4 =A/4 ^A d/2 f3/4 g/4 f/4 d/4 f d/2 c3/4 d/4 c/4 ^A/4 c/2 d/2 f/2
+g3/2 g/2 d/2 f/2 g/2 f/2 d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4 d/8 c/4
+^A/4 G/4 F d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G3/2 G A/2 ^A3/4 c/4
+^A/4 =A/4 ^A d/2 f3/4 g/4 f/4 d/4 f d/2 c3/4 d/4 c/4 ^A/4 c/2 d/2 f/2
+g3/2 g/2 d/2 f/2 g/2 f/2 d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4 d/8 c/4
+^A/4 G/4 F d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G3/2 G/2 ^A/2 c/2 d3/4
+^d/4 =d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4 d/8 c/4 ^A/4 G/4 F d/4 c/4
+^A/2 =A/2 G/2 F3/4 D/4 F/2 G/2 g/2 f/2 g/2 d/2 c/2 d3/4 ^d/4 =d/4 c/4
+^A/2 d/2 f/2 c/2 ^d/4 =d/4 c/4 ^A/4 [=AA,3/2] c/2 ^A/2 =A/2 G/2 F/2
+D/2 F/2 G3/2 G ^A/4 c/4 d3/4 ^d/4 =d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4
+d/8 c/4 ^A/4 G/4 F d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G/2 g/2 f/2 g/2
+d/2 c/2 d3/4 ^d/4 =d/4 c/4 ^A/2 d/2 f/2 c/2 ^d/4 =d/4 c/4 ^A/4
+[A,3/2=A] c/2 ^A/2 =A/2 G/2 F/2 D/2 F/2 G3/2 G A/2 ^A3/4 c/4 ^A/4
+=A/4 ^A d/2 f3/4 g/4 f/4 d/4 f d/2 c3/4 d/4 c/4 ^A/4 c/2 d/2 f/2 g3/2
+g/2 d/2 f/2 g/2 f/2 d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4 d/8 c/4 ^A/4 G/4
+F d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G3/2 G A/2 ^A3/4 c/4 ^A/4 =A/4
+^A d/2 f3/4 g/4 f/4 d/4 f d/2 c3/4 d/4 c/4 ^A/4 c/2 d/2 f/2 g3/2 g/2
+d/2 f/2 g/2 f/2 d/4 c/4 ^A/2 d/2 f/2 c/4 d/8 c/4 d/8 c/4 ^A/4 G/4 F
+d/4 c/4 ^A/2 =A/2 G/2 F3/4 D/4 F/2 G3/2 G3/2
+
+X: 1
+%%Orig filename was CarolanCupFlute.abc
+T: Carolan's Cup - Basic Flute (1:39)
+%%part-name Basic Flute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Carolan-flute.mid
+%  Transpose: -7
+L: 1/4
+Q: 120
+K: C
+
+z5 ^d/2 f/2 g3/4 ^g/4 =g/4 f/4 ^d/2 g/2 ^a/2 f/4 g/8 f/4 g/8 f/4 ^d/4
+c/4 ^A g/4 f/4 ^d/2 =d/2 c/2 ^A3/4 G/4 ^A/2 c/2 c'/2 ^a/2 c'/2 g/2
+f/2 g3/4 ^g/4 =g/4 f/4 ^d/2 g/2 ^a/2 f/2 ^g/4 =g/4 f/4 ^d/4 [=dD3/2]
+f/2 ^d/2 =d/2 c/2 ^A/2 G/2 ^A/2 c3/2 c ^d/4 f/4 g3/4 ^g/4 =g/4 f/4
+^d/2 g/2 ^a/2 f/4 g/8 f/4 g/8 f/4 ^d/4 c/4 ^A g/4 f/4 ^d/2 =d/2 c/2
+^A3/4 G/4 ^A/2 c/2 c'/2 ^a/2 c'/2 g/2 f/2 g3/4 ^g/4 =g/4 f/4 ^d/2 g/2
+^a/2 f/2 ^g/4 =g/4 f/4 ^d/4 [D3/2=d] f/2 ^d/2 =d/2 c/2 ^A/2 G/2 ^A/2
+c3/2 c d/2 ^d3/4 f/4 ^d/4 =d/4 ^d g/2 ^a3/4 c'/4 ^a/4 g/4 ^a g/2 f3/4
+g/4 f/4 ^d/4 f/2 g/2 ^a/2 c'3/2 c'/2 g/2 ^a/2 c'/2 ^a/2 g/4 f/4 ^d/2
+g/2 ^a/2 f/4 g/8 f/4 g/8 f/4 ^d/4 c/4 ^A g/4 f/4 ^d/2 =d/2 c/2 ^A3/4
+G/4 ^A/2 c3/2 c d/2 ^d3/4 f/4 ^d/4 =d/4 ^d g/2 ^a3/4 c'/4 ^a/4 g/4 ^a
+g/2 f3/4 g/4 f/4 ^d/4 f/2 g/2 ^a/2 c'3/2 c'/2 g/2 ^a/2 c'/2 ^a/2 g/4
+f/4 ^d/2 g/2 ^a/2 f/4 g/8 f/4 g/8 f/4 ^d/4 c/4 ^A g/4 f/4 ^d/2 =d/2
+c/2 ^A3/4 G/4 ^A/2 c3/2 c/2 ^d/2 f/2 g3/4 ^g/4 =g/4 f/4 ^d/2 g/2 ^a/2
+f/4 g/8 f/4 g/8 f/4 ^d/4 c/4 ^A g/4 f/4 ^d/2 =d/2 c/2 ^A3/4 G/4 ^A/2
+c/2 c'/2 ^a/2 c'/2 g/2 f/2 g3/4 ^g/4 =g/4 f/4 ^d/2 g/2 ^a/2 f/2 ^g/4
+=g/4 f/4 ^d/4 [=dD3/2] f/2 ^d/2 =d/2 c/2 ^A/2 G/2 ^A/2 c3/2 c ^d/4
+f/4 g3/4 ^g/4 =g/4 f/4 ^d/2 g/2 ^a/2 f/4 g/8 f/4 g/8 f/4 ^d/4 c/4 ^A
+g/4 f/4 ^d/2 =d/2 c/2 ^A3/4 G/4 ^A/2 c/2 c'/2 ^a/2 c'/2 g/2 f/2 g3/4
+^g/4 =g/4 f/4 ^d/2 g/2 ^a/2 f/2 ^g/4 =g/4 f/4 ^d/4 [D3/2=d] f/2 ^d/2
+=d/2 c/2 ^A/2 G/2 ^A/2 c3/2 c d/2 ^d3/4 f/4 ^d/4 =d/4 ^d g/2 ^a3/4
+c'/4 ^a/4 g/4 ^a g/2 f3/4 g/4 f/4 ^d/4 f/2 g/2 ^a/2 c'3/2 c'/2 g/2
+^a/2 c'/2 ^a/2 g/4 f/4 ^d/2 g/2 ^a/2 f/4 g/8 f/4 g/8 f/4 ^d/4 c/4 ^A
+g/4 f/4 ^d/2 =d/2 c/2 ^A3/4 G/4 ^A/2 c3/2 c d/2 ^d3/4 f/4 ^d/4 =d/4
+^d g/2 ^a3/4 c'/4 ^a/4 g/4 ^a g/2 f3/4 g/4 f/4 ^d/4 f/2 g/2 ^a/2
+c'3/2 c'/2 g/2 ^a/2 c'/2 ^a/2 g/4 f/4 ^d/2 g/2 ^a/2 f/4 g/8 f/4 g/8
+f/4 ^d/4 c/4 ^A g/4 f/4 ^d/2 =d/2 c/2 ^A3/4 G/4 ^A/2 c3/2 c3/2
+
+X: 21
+%%Orig filename was CarolanCupLute.abc
+T: Carolan's Cup-lute (1:39)
+%%part-name Basic Lute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Carolan_s_Cup.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z6 [G,3/2G3/2z5/8] [^A5/8z3/8] d/2 [^A,3/2^A3/2z5/8] [d5/8z3/8] f/2
+[C3/2c3/2z5/8] [^d5/8z3/8] g/2 [F,3/2c'3/4z5/8] [a3/8z/8] [f5/8z/4]
+c3/8 z/8 [^D3/2^d3/2z5/8] [g5/8z3/8] ^a/2 [^A,3/2^A3/2z5/8]
+[=d5/8z3/8] f/2 [G,23/8d3/2z/2] [g9/8z/2] [^a3/4z/2] [d5/8z/2]
+[^a3/4z/2] g3/8 z/8 [G,3/2G3/2z5/8] [^A5/8z3/8] d/2 [^A,3/2^a3/4z5/8]
+[f3/8z/8] [d5/8z/4] ^A3/8 z/8 [C,3/2g3/4z5/8] [^d3/8z/8] [c5/8z/4]
+G3/8 z/8 [c'3/2f3/2=a3/2c11/8F,11/8] z/8
+[^a3/2^d3/2g3/2^A11/8^D,11/8] z/8 [=D3/2=d3/2z5/8] [f5/8z3/8] =a/2
+[G,23/8d3/2z/2] [g9/8z/2] [^a3/4z/2] [d5/8z/2] [^a3/4z/2] g3/8 z/8
+[d3/2g3/2^a3/2G,11/8] z/8 [^a3/2d3/2f3/2^A11/8^A,11/8] z/8
+[C3/2c3/2z5/8] [^d5/8z3/8] g/2 [c'3/2f3/2=a3/2c11/8F,11/8] z/8
+[^a3/2^d3/2g3/2^A11/8^D,11/8] z/8 [^a3/2=d3/2f3/2^A11/8^A,11/8] z/8
+[d3/2G,11/4z/2] [g11/8z/2] [^a3/4z/2] [d5/8z/2] [^a3/4z/2] g/4 z/4
+[G,3/2G3/2z5/8] [^A5/8z3/8] d/2 [^a3/2d3/2f3/2^A11/8^A,11/8] z/8
+[C3/2c3/2z5/8] [^d5/8z3/8] g/2 [F,3/2F3/2z5/8] [=A5/8z3/8] c/2
+[^D3/2^d3/2z5/8] [g5/8z3/8] ^a/2 [=a3/2=d3/2f3/2A11/8=D,11/8] z/8
+[d3/2G,11/4z/2] [g11/8z/2] [^a3/4z/2] [d5/8z/2] [^a3/4z/2] g/4 z/4
+[^A,23/8^A17/8z/2] [d9/8z/2] [f3/4z/2] ^a/2 [f3/4z/2] d3/8 z/8
+[F,3/2c9/4z/2] [f9/8z/2] =a/2 [c'5/8z/2] [a7/8z/4] [F,/2z/4] c3/8 z/8
+[g3/2c3/2^d3/2G11/8C,11/8] z/8 [=D3/2=d3/2z5/8] [f5/8z3/8] a/2
+[G,3/2d3/2z/2] [g9/8z/2] ^a/2 [d3/4z/2] [^a7/8z/4] [G,/2z/4] d3/8 z/8
+[G,3/2d3/4z5/8] [^a3/8z/8] [g5/8z/4] d3/8 z/8 [^A,3/2^a3/4z5/8]
+[f3/8z/8] [d5/8z/4] ^A3/8 z/8 [C3/2c3/2z5/8] [^d5/8z3/8] g/2
+[c'3/2f3/2=a3/2c11/8F,11/8] z/8 [^D3/2^d3/2z5/8] [g5/8z3/8] ^a/2
+[=D3/2=d3/2z5/8] [f5/8z3/8] =a/2 [G,23/8d3/2z/2] [g9/8z/2] [^a3/4z/2]
+[d5/8z/2] [^a3/4z/2] g3/8 z/8 [^A2^A,11/4z/2] [d11/8z/2] [f3/4z/2]
+[^a5/8z/2] [f3/4z/2] d/4 z/4 [F,15/8=a13/8f11/8c'13/8c5/4] z/4
+[c5/4z/2] [f/2z/4] [F,3/8z/4] [a/4z/8] f/8 z/4
+[g3/2c3/2^d3/2G11/8C,11/8] z/8 [D3/2=d3/2z5/8] [f5/8z3/8] a/2
+[d3/2G,11/4z/2] [g11/8z/2] [^a3/4z/2] [d5/8z/2] [^a3/4z/2] g/4 z/4
+[d3/2g3/2^a3/2G,11/8] z/8 [^A,3/2^A3/2z5/8] [d5/8z3/8] f/2
+[C3/2c3/2z5/8] [^d5/8z3/8] g/2 [F,3/2F3/2z5/8] [=A5/8z3/8] c/2
+[^D3/2^d3/2z5/8] [g5/8z3/8] ^a/2 [=a3/2=d3/2f3/2A11/8D,11/8] z/8
+[G,15/8^a13/8g11/8d3/2] z/8 [d5/4z/2] [g/2z/4] [G,3/8z/4] [^a/4z/8]
+g/8 z/4 [g3/2d3/2^A3/2] [d3/2^A3/2F3/2] [^d3/2c3/2G3/2]
+[f3/2c3/2=A3/2] [^d3/2^A3/2G3/2] [=d3/2^A3/2F3/2]
+[g13/8d13/8^A13/8z3/2] [G9/8z] ^A/2 [d3/2^A3/2G3/2] [f3/2d3/2^A3/2]
+[^d3/2c3/2G3/2] [f3/2c3/2=A3/2] [^d3/2^A3/2G3/2] [f3/2=d3/2=A3/2]
+[d^AG] [G,7/8z/2] [d9/8^A9/8G9/8] z3/8 [d3/2^A3/2G3/2]
+[d3/2^A3/2F3/2] [^d3/2c3/2G3/2] [f3/2c3/2=A3/2] [^d3/2^A3/2G3/2]
+[f3/2=d3/2^A3/2] [^agd] [G,7/8z/2] [^a9/8g9/8d9/8] z3/8
+[d3/2^A3/2G3/2] [f3/2d3/2^A3/2] [^d3/2c3/2G3/2] [f3/2c3/2=A3/2]
+[^d3/2^A3/2G3/2] [f3/2=d3/2=A3/2] [^agd] [G,7/8z/2] [^a9/8g9/8d9/8]
+z3/8 [fd^A] [^A,7/8z/2] [f9/8d9/8^A9/8] z3/8 [f19/8c19/8=A19/8z2]
+[=a5/8z/2] f/2 [^d3/2c3/2G3/2] [f3/2=d3/2A3/2] [^agd] [G,7/8z/2]
+[^a9/8g9/8d9/8] z3/8 [^a3/2g3/2d3/2] [f3/2d3/2^A3/2] [^d3/2c3/2G3/2]
+[f3/2c3/2=A3/2] [^d3/2^A3/2G3/2] [f3/2=d3/2=A3/2] [G11/4z3/2] ^A d/4
+z/4 [fd^A] [^A,7/8z/2] [f9/8d9/8^A9/8] z3/8 [fc=A] [F7/8z/2]
+[f9/8c9/8A9/8] z3/8 [^d3/2c3/2G3/2] [f3/2=d3/2A3/2] [G11/4z3/2] ^A
+d/4 z/4 [g3/2d3/2^A3/2] [f3/2d3/2^A3/2] [^d3/2c3/2G3/2]
+[f3/2c3/2=A3/2] [g3/2^d3/2^A3/2] [f3/2=d3/2=A3/2] [G21/8d13/8^A13/8]
+

@@ -1,0 +1,115 @@
+N: TS  5,   4   8  21  22  23
+X: 4
+%%Orig filename was TheRoadGoesEverOn__Horn1.abc
+T:The Road Goes Ever On (Basic Horn) (0:49)
+%%part-name Basic Horn
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:road-abc.mid
+%  Transpose:-3
+L:1/4
+Q:120
+K:C
+z2 g7/8 z/8 g7/8 z/8 g7/8 z/8 f/2 e/2 d/2 c/2 B7/8 z/8 G7/8 z/8 g7/8
+z/8 g7/8 z/8 g7/8 z/8 g7/8 z/8 f/2 e/2 d/2 c/2 B7/8 z/8 G7/8 z/8
+B11/8 z/8 c/2 c11/8 z/8 d/2 d11/8 z/8 e/2 e11/8 z/8 f/2 f11/8 z/8 g/2
+g11/8 z/8 a/2 a11/8 z/8 b/2 b7/8 z/8 c'7/8 z/8 c'7/8 z/8 a7/8 z/8
+d7/8 z/8 c'7/8 z/8 c'7/8 z/8 g7/8 z/8 c7/8 z/8 c'7/8 z/8 c'7/8 z/8
+^g7/8 z/8 d7/8 z/8 c'7/8 z/8 c'9/8 f9/8 c11/8 B9/8 z/8 B7/8 z/8 c7/8
+z/8 c11/8 z/8 ^c/2 ^c7/8 z/8 d7/8 z/8 d7/8 z33/8 f7/8 z/8 f7/8 z/4 ^f
+z/4 ^f3/4 z33/4 G3/4 z/4 =g11/4 z/4 g3/4 z/4 =f/2 e/2 d/2 =c/2 B3/4
+z11/4 c/2 c5/4 z/4 d/2 d5/4 z15/4 g3/4 z/4 f/2 e/2 d5/8 c3/4 G33/8
+
+X: 8
+%%Orig filename was TheRoadGoesEverOn__Lute2.abc
+T:The Road Goes Ever On (Basic Lute 1) (0:49)
+%%part-name Basic Lute 1
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:road-abc.mid
+%  Transpose:-3
+L:1/4
+Q:120
+K:C
+G7/8 z/8 g g g g f/2 e/2 d/2 c/2 B G7/8 z/8 g7/8 z/8 [G7/8B7/8g7/8]
+z/8 [G7/8c7/8g7/8] z/8 [G7/8e7/8g7/8] z/8 [A7/8f/2] e/2 [A7/8d/2] c/2
+[D7/8G7/8B7/8] z/8 G7/8 z9/8 [G7/8c7/8] z9/8 [A7/8d7/8] z9/8
+[B7/8e7/8] z9/8 [c7/8f7/8] z9/8 [d7/8g7/8] z9/8 [e7/8a7/8] z9/8
+[f7/8b7/8] z/8 b7/8 z/8 [c7/8g7/8c'7/8] z/8 [d15/4a15/4c'15/4] z/4
+[c15/4g15/4c'15/4] z/4 [d11/4^g11/4c'11/4] z/4 [c7/8=g7/8c'7/8] z/8
+[c13/4f13/4c'13/4] z21/8 [G7/8c7/8] z9/8 [^G7/8^c7/8] z9/8 [A7/8d7/8]
+z9/8 [^A7/8^d7/8] z9/8 [B7/8e7/8] z9/8 [=c7/8f7/8] z5/4 [^c^f] z/4
+[=d3/4^f3/4] z/4 =G3/4 z/4 g [GBg] [G=cg] [Geg] [=A3/4=f/2] e/2
+[D3/4A3/4d/2] c/2 [D3/4G3/4B3/4] z/4 G3/4 z/4 g [GBg] [Gcg] [Geg]
+[A3/4f/2] e/2 [D3/4A3/4d/2] c/2 [D3/4G3/4B3/4] z/4 G3/4 z5/4
+[G3/4c3/4] z5/4 [A3/4d3/4] z5/4 [B3/4e3/4] z5/4 [c3/4f3/4] z/4
+[G3/4f3/4g3/4] z/4 [G3/4c3/4g3/4] z/4 [c7/8f/2] e/2 [A9/8d5/8] c3/4
+G33/8
+
+X: 21
+%%Orig filename was TheRoadGoesEverOn__Lute3.abc
+T:The Road Goes Ever On (Basic Lute 2) (0:49)
+%%part-name Basic Lute 2
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:road-abc.mid
+%  Transpose:-3
+L:1/4
+Q:120
+K:C
+z10 [F,7/8F7/8] z/8 [E,7/8E7/8] z/8 [C,7/8C7/8] z/8 [D,7/8D7/8] z/8
+F,7/8 z/8 G,7/4 z5/4 [E,7/8C7/8] z9/8 [F,7/8D7/8] z9/8 [G,7/8E7/8]
+z9/8 [A,7/8F7/8] z9/8 B,7/8 z9/8 [C,7/8C7/8] z9/8 [D,7/4D7/4] z/4
+[E,7/8E7/8] z/8 [F,15/4F15/4] z/4 [E,15/4C15/4] z/4 [F,11/4F11/4] z/4
+[^D,7/8^D7/8] z/8 [=D,13/4=D13/4] z21/8 E,7/8 z9/8 F,7/8 z9/8 F,7/8
+z9/8 G,7/8 z9/8 ^G,7/8 z9/8 A,7/8 z5/4 ^A, z/4 B,3/4 z9/4 [F,3/4F3/4]
+z/4 [E,3/4E3/4] z/4 [C,3/4C3/4] z/4 D3/4 z/4 F,3/4 z/4 =G,3/4 z9/4
+[F,3/4F3/4] z/4 [E,3/4E3/4] z/4 [C,3/4C3/4] z/4 [D,3/4D3/4] z/4 F,3/4
+z/4 G,3/4 z9/4 E,3/4 z5/4 F,3/4 z5/4 G,3/4 z5/4 =A,3/4 z/4 B,3/4 z/4
+[E,3/4C3/4] z/4 [A,7/8F7/8] z/8 [F,9/8D9/8] z/4 G,33/8
+
+X: 22
+%%Orig filename was TheRoadGoesEverOn__Lute4.abc
+T:The Road Goes Ever On (0:49)
+%%part-name Basic Lute 3
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:road-abc.mid
+%  Transpose:-3
+L:1/4
+Q:120
+K:C
+G7/8 z/8 g g g g f/2 e/2 d/2 c/2 B G7/8 z/8 g7/8 z/8
+[g7/8G7/8B7/8F,7/8F7/8] z/8 [g7/8G7/8c7/8E,7/8E7/8] z/8
+[g7/8G7/8e7/8C,7/8C7/8] z/8 [f/2A7/8D,7/8D7/8] e/2 [d/2A7/8F,7/8] c/2
+[B7/8D7/8G7/8G,7/4] z/8 G7/8 z/8 [B7/4z] [G7/8c/2E,7/8C7/8] c/2
+[c7/4z] [A7/8d/2F,7/8D7/8] d/2 [d7/4z] [B7/8e/2G,7/8E7/8] e/2 [e7/4z]
+[c7/8f/2A,7/8F7/8] f/2 [f7/4z] [d7/8g/2B,7/8] g/2 [g7/4z]
+[e7/8a/2C,7/8C7/8] a/2 [a7/4z] [f7/8b/2D,7/4D7/4] b/2 b7/8 z/8
+[c'7/8c7/8g7/8E,7/8E7/8] z/8 [c'3d2aF,15/4F15/4] [a11/4z] [d7/4z]
+c'7/8 z/8 [c'3c2gE,15/4C15/4] [g11/4z] [c7/4z] c'7/8 z/8
+[c'11/4d2^gF,11/4F11/4] [^g7/4z] d7/8 z/8 [c'7/8c7/8=g7/8^D,7/8^D7/8]
+z/8 [c'13/4c9/4f9/8=D,13/4=D13/4] [f17/8z9/8] c11/8 B9/8 z/8 [B7/4z]
+[c7/8G7/8E,7/8] z/8 [c7/4z] [^G7/8^c/2F,7/8] ^c/2 [^c7/4z]
+[d7/8A7/8F,7/8] z/8 [d7/4z] [^A7/8^d7/8G,7/8] z/8 [^d7/4z]
+[B7/8e7/8^G,7/8] z/8 [e7/4z] [f7/8=c7/8A,7/8] z/8 [f2z9/8] [^f^c^A,]
+z/4 [^f3/4=d3/4B,3/4] z/4 =G3/4 z/4 g [GBgF,3/4F3/4] z/4
+[G=cgE,3/4E3/4] z/4 [GegC,3/4C3/4] z/4 [=A3/4=f/2D3/4] e/2
+[D3/4A3/4d/2F,3/4] c/2 [D3/4G3/4B3/4=G,3/4] z/4 G3/4 z/4 g
+[GBgF,3/4F3/4] z/4 [GcgE,3/4E3/4] z/4 [gGeC,3/4C3/4] z/4
+[f/2A3/4D,3/4D3/4] e/2 [d/2D3/4A3/4F,3/4] c/2 [B3/4D3/4G3/4G,3/4] z/4
+G3/4 z/4 [B7/4z] [G3/4c/2E,3/4] c/2 [c7/4z] [A3/4d/2F,3/4] d/2
+[d7/4z] [B3/4e3/4G,3/4] z/4 [e7/4z] [c3/4f3/4=A,3/4] z/4
+[G3/4f3/4g3/4B,3/4] z/4 [g3/4G3/4c3/4E,3/4C3/4] z/4
+[f/2c7/8A,7/8F7/8] e/2 [d5/8A9/8F,9/8D9/8] c3/4 [G33/8G,33/8]
+
+X: 23
+%%Orig filename was TheRoadGoesEverOn__Theorbo5.abc
+T:The Road Goes Ever On (Basic Theorbo) (0:45)
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:road-abc.mid
+%  Transpose:-3
+L:1/4
+Q:120
+%%part-name Basic Theorbo
+K:C
+z16 z B7/4 z/4 c7/4 z/4 d7/4 z/4 e7/4 z/4 f7/4 z/4 g7/4 z/4 a7/4 z16
+z25/8 B7/4 z/4 c7/4 z/4 ^c7/4 z/4 d7/4 z/4 ^d7/4 z/4 e7/4 z/4 f2 z16
+z19/8 B7/4 z/4 =c7/4 z/4 =d7/4 z/4 e7/4
+

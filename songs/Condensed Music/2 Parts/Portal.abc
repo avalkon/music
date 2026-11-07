@@ -1,0 +1,54 @@
+N: TS  2,   1   8
+X: 1
+%%Orig filename was PortalFlute.abc
+T: Portal (2:59) - Still Alive [Basic Flute]
+%%part-name Basic Flute
+Z: X-command
+M: 4/4
+L: 1/8
+Q:1/4=57
+K:G 
+z2 g/2f/2e/2e/2 f/2z3z/2|z3/2d/2 g/2f/2e/2e/2 z/2f/2z d/2z/2e/2A/2|z3z/2A/2 ef<ge/2^c/2-|^cd<eA/2efz2z/2|
+z2 g/2f/2e/2e/2 f/2z3z/2|z3/2d/2 g/2f/2e/2e/2 z/2f/2z d/2z/2e/2A/2|z3z/2A/2 ef<ge/2^c/2-|^cd/2eA/2d/2e/2 =f/2e/2d/2=c/2 zA/2^A/2|
+c/2z/2=f/2z/2 e/2d/2d/2c/2 d/2c/2c/2=A/2 c/2z/2A/2^A/2|c/2z/2=f/2z/2 g/2=f/2e/2=f/2 e/2=f/2=f/2z/2 =f/2z/2g/2a/2|^a/2^a/2=a/2z/2 g/2z/2=f/2g/2 a/2a/2g/2=f/2 =f/2z/2d/2c/2|d/2=f/2=f/2e/2 z/2e/2^f/2f2-f/2 z2|
+z8|z3/2=A/2 g/2f/2e/2ef/2z3|z3/2d/2 g/2f/2e/2e/2 z/2f/2z d/2z/2e/2A/2|z3z/2A/2 ef<ge/2^c/2-|
+^cd<eA/2efz2z/2|z3/2[d/2A/2] [g/2d/2][f/2d/2][e/2d/2][e/2d/2] [f/2d/2]z3z/2|z3/2[d/2A/2] [g/2d/2][f/2d/2][e/2d/2][e/2d/2] z/2[f/2d/2]z [d/2A/2]z/2[e/2d/2][A/2D/2]|z3z/2A/2 ef<ge/2^c/2-|
+^cd/2eA/2d/2e/2 =f/2e/2d/2=c/2 zA/2^A/2|c/2z/2=f/2z/2 e/2d/2d/2c/2 d/2c/2c/2=A/2 c/2z/2A/2^A/2|c/2z/2=f/2z/2 g/2=f/2e/2=f/2 e/2=f/2=f/2z/2 =f/2z/2g/2a/2|^a/2^a/2=a/2z/2 g/2z/2=f/2g/2 a/2a/2g/2=f/2 =f/2z/2d/2c/2|
+d/2=f/2=f/2e/2 z/2e/2^f/2f2-f/2 z2|z8|z3/2=A/2 g/2f/2e/2ef/2z3|z3/2d/2 g/2f/2e/2e/2 z/2f/2z d/2z/2e/2A/2|
+z3z/2A/2 ef<ge/2^c/2-|^cd<eA/2efz2z/2|z3/2[d/2A/2] [g/2d/2][f/2d/2][e/2d/2][e/2d/2] [f/2d/2]z3z/2|z3/2[d/2A/2] [g/2d/2][f/2d/2][e/2d/2][e/2d/2] z/2[f/2d/2]z [d/2A/2]z/2[e/2d/2][A/2D/2]|
+z4 ef<ge/2^c/2-|^cd/2eA/2d/2e/2 =f/2e/2d/2=c/2 zA/2^A/2|c/2z/2=f/2z/2 e/2d/2d/2c/2 d/2c/2c/2z/2 c/2z/2=A/2^A/2|c/2z/2=f/2z/2 g/2=f/2e/2=f/2 e/2=f/2=f/2z/2 =f/2z/2g/2a/2|
+^a/2^a/2=a/2z/2 g/2z/2=f/2g/2 a/2a/2g/2=f/2 =f/2z/2d/2c/2|d/2=f/2=f/2e/2 z/2e/2^f/2f2-f/2 za/2a/2|b/2a/2f/2d/2 z/2[e/2B/2][f/2d/2][f2-d2-][f/2d/2] za/2a/2|b/2a/2f/2d/2 z/2[e/2B/2][f/2d/2][f2-d2-][f/2d/2] za/2a/2|
+b/2a/2f/2d/2 z/2[e/2B/2][f/2d/2][f2-d2-][f/2d/2] za/2a/2|b/2a/2f/2d/2 z/2[e/2B/2][f/2d/2][f2-d2-][f/2d/2] z/2f/2a/2a/2-|a/2z2g/2f/2f
+
+X: 8
+%%Orig filename was PortalLute.abc
+T: Portal (2:59) - Still Alive [Basic Lute]
+%%part-name Basic Lute
+Z: X-command
+M: 4/4
+L: 1/8
+Q:1/4=114
+K:G 
+z8|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|B,-[EB,-] [GB,-][EB,] B,-[EB,-] [GB,-][EB,]|A,-[^CA,-] [EA,-][^CA,] A,-[^CA,-] [EA,-][^CA,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|B,-[EB,-] [GB,-][EB,] B,-[EB,-] [GB,-][EB,]|A,-[^CA,-] [EA,-][^CA,] A,-[^CA,-] [EA,-][^CA,]|^A,-[D^A,-] [=F^A,-][A^A,] z4|
+=C2 C2 C2 C2|^A,2 ^A,2 C2 C2|C2 C2 C2 C2|^A,2 ^A,2 C2 C2|
+D2 D2 C2 C2|C2 C2 D2 D2|^A,2 ^A,2 =A,2 A,2|A,-[DA,-] [^FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|B,-[EB,-] [GB,-][EB,] B,-[EB,-] [GB,-][EB,]|
+A,-[^CA,-] [EA,-][^CA,] A,-[^CA,-] [EA,-][^CA,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|B,-[EB,-] [GB,-][EB,] B,-[EB,-] [GB,-][EB,]|
+A,-[^CA,-] [EA,-][^CA,] A,-[^CA,-] [EA,-][^CA,]|^A,-[D^A,-] [=F^A,-][D^A,] ^A,-[D^A,-] [=F^A,-][A^A,]|=C2 C2 C2 C2|^A,2 ^A,2 C2 C2|
+C2 C2 C2 C2|^A,2 ^A,2 C2 C2|D2 D2 C2 C2|C2 C2 D2 D2|
+^A,2 ^A,2 =A,2 A,2|A,-[DA,-] [^FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|B,-[EB,-] [GB,-][EB,] B,-[EB,-] [GB,-][EB,]|A,-[^CA,-] [EA,-][^CA,] A,-[^CA,-] [EA,-][^CA,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|B,-[EB,-] [GB,-][EB,] B,-[EB,-] [GB,-][EB,]|A,-[^CA,-] [EA,-][^CA,] A,-[^CA,-] [EA,-][^CA,]|^A,-[D^A,-] [=F^A,-][D^A,] ^A,-[D^A,-] [=F^A,-][A^A,]|
+=C2 C2 C2 C2|^A,2 ^A,2 C2 C2|C2 C2 C2 C2|^A,2 ^A,2 C2 C2|
+D2 D2 C2 C2|C2 C2 D2 D2|^A,2 ^A,2 =A,2 A,2|A,-[DA,-] [^FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+A,-[DA,-] [FA,-][DA,] B,-[DB,-] [FB,-][DB,]|
+

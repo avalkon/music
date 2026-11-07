@@ -1,0 +1,321 @@
+N: TS  5,   9   8   1   5  16
+X: 9
+%%Orig filename was Loth3Ages.abc
+T: Lothlorien (2:26) - Lute of Ages
+%%part-name Lute of Ages
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 80
+K: C maj
+
++fff+ z8 |
+[e-c'] +ff+ [e-b] +fff+ [e2-c'2-] [e2-c'2] +ff+ [ea] z |
+[B-g] +ffff+ [B-^f] +fff+ [B2-g2-] [B2g2] +ff+ e z |
++fff+ [e-c'] +ff+ [e-b] +fff+ [e2-c'2-] [e2-c'2] [ea] z |
++ff+ [B-g] +ffff+ [B-^f] +fff+ [B2-g2-] [B2-g2] +ff+ [Be] z |
+e z +fff+ d +ff+ e +fff+ g ^f d z |
+d4- d// z15/4 |
+e2 +ff+ d e +fff+ g ^f +ff+ d z |
++fff+ e4- e z z2 |
+% Bar 10 (0:27)
+e2 +ff+ d e g ^f +fff+ d2 |
+B4- B// z15/4 |
++ff+ e2 d e +fff+ g ^f d z |
++ff+ e8- |
+e4- e3 z |
++f+ [e-c'] [e-b] +ff+ [e2-c'2-] [e2-c'2] +f+ [ea] z |
+[B-g] +ff+ [B-^f] [B2-g2-] [B2g2] +f+ e z |
++ff+ [e-c'] +f+ [e-b] +ff+ [e2-c'2-] [e2-c'2] [ea] z |
++f+ [B-g] +ff+ [B-^f] [B2-g2-] [B2-g2] +f+ [Be] z |
++ff+ e z +fff+ d +ff+ e +fff+ g ^f d z |
+% Bar 20 (0:57)
+d4- d// z15/4 |
+e2 d +ff+ e +fff+ g ^f +ff+ d z |
++fff+ e4- e z z2 |
+e2 +ff+ d e g ^f +fff+ d2 |
+B4- B/ z7/2 |
++ff+ e2 d e +fff+ g ^f d z |
++ff+ e4- e z z2 |
++f+ [e-c'] +fff+ [e-b] [e2-c'2-] [e2-c'2] +f+ [ea] z |
++ff+ [B-g] +fff+ [B-^f] +f+ [B2-g2-] [B2-g2] [Be] z |
++fff+ [e-c'] +ff+ [e-b] [e2-c'2-] [e2-c'2] +f+ [ea] z |
+% Bar 30 (1:27)
+[B-g] +fff+ [B-^f] +ff+ [B2-g2-] [B2-g2] +f+ [Be] z |
++ffff+ e z +fff+ d e g +ffff+ ^f +fff+ d z |
+d4- d// z15/4 |
+e z d e g +ffff+ ^f +fff+ d z |
++ffff+ e4- e z z2 |
++ff+ e2 +fff+ d e +ff+ g +ffff+ ^f +fff+ d z |
++ff+ B4- B z z2 |
+e z d e +fff+ g ^f d z |
++ffff+ e4- e z z2 |
+e z +fff+ d e g +ffff+ ^f +fff+ d z |
+% Bar 40 (1:57)
++ffff+ d4- d z z2 |
+e z d +fff+ e g ^f d z |
++ffff+ e4- e z z2 |
++fff+ e z d e g +ffff+ ^f +fff+ d z |
+B4- B z z2 |
+e z d e g +ffff+ ^f +fff+ d z |
+z e- e2- e3 z |
+z8 |
+z8 |
+z8 |]
+
+X: 8
+%%Orig filename was Loth3Bass.abc
+T: Lothlorien (2:26) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 80
+K: C maj
+
++ff+ z8 |
+A8 |
+E8 |
+A8 |
+E8 |
+C4 D4 |
++fff+ G8 |
++ff+ C4 D4 |
+A8 |
+% Bar 10 (0:27)
+C4 D4 |
+G8 |
+C4 D4 |
+E8 |
+z8 |
+A8 |
++f+ E8 |
++ff+ A8 |
+E8 |
+C4 +fff+ D4 |
+% Bar 20 (0:57)
++ff+ G8 |
+C4 D4 |
+A8 |
+C4 D4 |
++fff+ G8 |
++ff+ C4 D4 |
+E8 |
++fff+ A8 |
++ff+ E8 |
+A8 |
+% Bar 30 (1:27)
+E8 |
+C4 D4 |
++fff+ G8 |
++ff+ C4 D4 |
+A8 |
+C4 D4 |
++fff+ G8 |
++ff+ C4 D4 |
++fff+ A8 |
++ff+ C4 D4 |
+% Bar 40 (1:57)
++fff+ G8 |
++ff+ C4 D4 |
+A8 |
+C4 D4 |
+G8 |
+C4 D4 |
+E8- |
+E2- E3/2 z9/2 |
+z8 |
+z8 |]
+
+X: 1
+%%Orig filename was Loth3Flute.abc
+T: Lothlorien (2:26) - Basic Flute
+%%part-name Basic Flute
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 80
+K: C maj
+
++pppp+ z8 |
+c/ A,/ E/ A/ c/ +ppp+ A,/ +pp+ E/ +ppp+ A/ c/ +pppp+ A,/ +pp+ E/ +ppp+ A/ c/ +pppp+ A,/ E/ +ppp+ A/ |
+c/ +pp+ E,/ +ppp+ B,/ E/ +pppp+ B/ +ppp+ E,/ +pppp+ B,/ E/ +ppp+ B/ E,/ B,/ E/ +pppp+ B/ +ppp+ E,/ +pppp+ B,/ +ppp+ E/ |
++pppp+ B/ A,/ E/ A/ c/ +ppp+ A,/ +pp+ E/ +ppp+ A/ c/ +pppp+ A,/ +pp+ E/ +ppp+ A/ c/ +pppp+ A,/ E/ +ppp+ A/ |
+c/ +pp+ E,/ +ppp+ B,/ E/ +pppp+ B/ +ppp+ E,/ +pppp+ B,/ E/ +ppp+ B/ E,/ B,/ E/ +pppp+ B/ +ppp+ E,/ +pppp+ B,/ +ppp+ E/ |
+B/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ d/ +pp+ G,/ D/ +pppp+ G/ +pp+ d/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ d/ G,/ D/ +pppp+ G/ |
++pp+ d/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +ppp+ A,/ +pppp+ E/ A/ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ +pp+ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ e/ +pppp+ A,/ E/ +ppp+ A/ |
+% Bar 10 (0:27)
+e/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ B/ +pp+ G,/ D/ +pppp+ G/ +pp+ B/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ B/ G,/ D/ +pppp+ G/ |
++pp+ B/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +p+ E,/- +pp+ [E,/B,/] +ppp+ E/ +pppp+ e/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ e/ E,/ B,/ E/ +ppp+ e/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ e/ +p+ E,/- +pp+ [E,/B,/] +ppp+ E/ +pppp+ e/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ e/ E,/ B,/ E/ +pppp+ e/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ e/ A,/ +pppp+ E/ A/ +ppp+ c/ A,/ +pp+ E/ +ppp+ A/ +pp+ c/ +ppp+ A,/ +pp+ E/ A/ +ppp+ c/ +pppp+ A,/ +ppp+ E/ +pp+ A/ |
+c/ +p+ E,/ +pp+ B,/ +ppp+ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ B/ E,/ B,/ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ B/ A,/ +pppp+ E/ A/ +ppp+ c/ A,/ +pp+ E/ +ppp+ A/ +pp+ c/ +ppp+ A,/ +pp+ E/ A/ +ppp+ c/ +pppp+ A,/ +ppp+ E/ +pp+ A/ |
+c/ +p+ E,/ +pp+ B,/ +ppp+ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ B/ E,/ B,/ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ B/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
+% Bar 20 (0:57)
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ d/ +pp+ G,/ D/ +pppp+ G/ +pp+ d/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ d/ G,/ D/ +pppp+ G/ |
++pp+ d/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +ppp+ A,/ +pppp+ E/ A/ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ +pp+ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ e/ +pppp+ A,/ E/ +ppp+ A/ |
+e/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ B/ +pp+ G,/ D/ +pppp+ G/ +pp+ B/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ B/ G,/ D/ +pppp+ G/ |
++pp+ B/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +p+ E,/- +pp+ [E,/B,/] +ppp+ E/ +pppp+ e/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ e/ E,/ B,/ E/ +pppp+ e/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ e/ A,/ +pppp+ E/ A/ +ppp+ c/ A,/ +pp+ E/ +ppp+ A/ +pp+ c/ +ppp+ A,/ +pp+ E/ A/ +ppp+ c/ +pppp+ A,/ +ppp+ E/ +pp+ A/ |
+c/ +p+ E,/ +pp+ B,/ +ppp+ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ B/ E,/ B,/ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ B/ A,/ +pppp+ E/ A/ +ppp+ c/ A,/ +pp+ E/ +ppp+ A/ +pp+ c/ +ppp+ A,/ +pp+ E/ A/ +ppp+ c/ +pppp+ A,/ +ppp+ E/ +pp+ A/ |
+% Bar 30 (1:27)
+c/ +p+ E,/ +pp+ B,/ +ppp+ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +ppp+ E/ +pp+ B/ E,/ B,/ E/ +pppp+ B/ +pp+ E,/ +pppp+ B,/ +pp+ E/ |
++ppp+ B/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ d/ +pp+ G,/ D/ +pppp+ G/ +pp+ d/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ d/ G,/ D/ +pppp+ G/ |
++pp+ d/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +ppp+ A,/ +pppp+ E/ A/ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ +pp+ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ e/ +pppp+ A,/ E/ +ppp+ A/ |
+e/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ B/ +pp+ G,/ D/ +pppp+ G/ +pp+ B/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ B/ G,/ D/ +pppp+ G/ |
++pp+ B/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +ppp+ A,/ +pppp+ E/ A/ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ +pp+ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ e/ +pppp+ A,/ E/ +ppp+ A/ |
+B/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
+% Bar 40 (1:57)
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ d/ +pp+ G,/ D/ +pppp+ G/ +pp+ d/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ d/ G,/ D/ +pppp+ G/ |
++pp+ d/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ +ppp+ A,/ +pppp+ E/ A/ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ +pp+ e/ +ppp+ A,/ +pp+ E/ +ppp+ A/ e/ +pppp+ A,/ E/ +ppp+ A/ |
+e/ +pp+ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ G,/ D/ +pppp+ G/ +ppp+ B/ +pp+ G,/ D/ +pppp+ G/ +pp+ B/ +ppp+ G,/ +pp+ D/ +pppp+ G/ +pp+ B/ G,/ D/ +pppp+ G/ |
++pp+ B/ C,/- [C,/G,/] +pppp+ C/ +pp+ E/ C,/ +p+ G,/ +pppp+ C/ +pp+ E/ D,/ +p+ A,/ +pppp+ D/ A/ +pp+ D,/ A,/ +pppp+ D/ |
++pp+ A/ E,/- [E,/B,/] +ppp+ E/ +pppp+ e/ +ppp+ E,/ +pppp+ B,/ E/ +ppp+ e/ +pppp+ E,/ B,/ E/ e/ E,/ B,/ E/ |
+e/ E,/- [E,/B,/] E/ e/ E,/ B,/ E/ e/ E,/ B,/ E/ e/ E,/ B,/ E/ |
+A/ E,/- [E,/B,/] E/ e/ E,/ B,/ E/ e/ E,/ B,/ E/ e/ E,/ B,/ E/ |
+e/ E,/- [E,/B,/] E/ e/ E,/ B,/ E/ z4 |]
+
+X: 5
+%%Orig filename was Loth3Harp.abc
+T: Lothlorien (2:26) - Basic Harp
+%%part-name Basic Harp
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 80
+K: C maj
+
++fff+ z8 |
+A,- +ff+ [A,-E-] [A,2-E2-c2-] [A,2-E2-c2-] [A,/E/-c/-] [Ec-] c/ |
+E,- +f+ [E,-B,-] +fff+ [E,2-B,2-E2-] [E,2-B,2-E2-] [E,//B,//-E//-] [B,3/4-E3/4-] [B,//E//-] E3/4 |
++f+ A,- [A,-E-] +ff+ [A,2-E2-A2-] [A,2-E2-A2-] [A,/E/-A/-] [E/-A/-] [E//A//-] A3/4 |
++f+ E,- +ff+ [E,-B,-] [E,2-B,2-E2-] [E,2-B,2-E2-] [E,/B,/-E/-] [B,E-] E/ |
++fff+ C- +ff+ [C-E] +f+ [CG] +ff+ E +fff+ D- +ff+ [D-^F] +f+ [DA] +mf+ F |
++fff+ G,- +f+ [G,-D] +ff+ [G,G-] G2 D +f+ G d |
++ff+ C- +f+ [C-E] [CG] +mf+ E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ A,- +f+ [A,-E] +fff+ [A,A-] A2 +ff+ E +f+ A +ff+ e |
+% Bar 10 (0:27)
++fff+ C- +f+ [C-E] [CG] E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ G,- +f+ [G,-D] +fff+ [G,G-] G2 +f+ D G d |
++fff+ C- +ff+ [C-E] +f+ [CG] +ff+ E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ E,- +f+ [E,-B,-] +fff+ [E,B,-E-] [B,-E-] [B,2-E2-] [B,-E] B,// z3/4 |
+E,- +f+ [E,-B,-] +ff+ [E,B,-E-] [B,-E-] [B,2-E2-] [B,-E] B,/ z/ |
++fff+ A,- +ff+ [A,-E-] [A,2-E2-c2-] [A,2-E2-c2-] [A,/E/-c/-] [Ec-] c/ |
+E,- +f+ [E,-B,-] +fff+ [E,2-B,2-E2-] [E,2-B,2-E2-] [E,//B,//-E//-] [B,3/4-E3/4-] [B,//E//-] E3/4 |
++f+ A,- [A,-E-] +ff+ [A,2-E2-A2-] [A,2-E2-A2-] [A,/E/-A/-] [E/-A/-] [E//A//-] A3/4 |
++f+ E,- +ff+ [E,-B,-] [E,2-B,2-E2-] [E,2-B,2-E2-] [E,/B,/-E/-] [B,E-] E/ |
++fff+ C- +ff+ [C-E] +f+ [CG] +ff+ E +fff+ D- +ff+ [D-^F] +f+ [DA] +mf+ F |
+% Bar 20 (0:57)
++fff+ G,- +f+ [G,-D] +fff+ [G,G-] G2 +ff+ D +f+ G d |
++fff+ C- +f+ [C-E] [CG] +mf+ E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ A,- +f+ [A,-E] +fff+ [A,A-] A2 +ff+ E +f+ A +ff+ e |
++fff+ C- +f+ [C-E] [CG] E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ G,- +f+ [G,-D] +fff+ [G,G-] G2 +f+ D G d |
++fff+ C- +ff+ [C-E] +f+ [CG] +ff+ E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ E,- +f+ [E,-B,] [E,E] +ff+ B, E,- +f+ [E,-B,] [E,E] +ff+ B, |
++fff+ A,- +ff+ [A,-E-] [A,2-E2-c2-] [A,2-E2-c2-] [A,/E/-c/-] [Ec-] c/ |
+E,- +f+ [E,-B,-] +fff+ [E,2-B,2-E2-] [E,2-B,2-E2-] [E,//B,//-E//-] [B,3/4-E3/4-] [B,//E//-] E3/4 |
++f+ A,- [A,-E-] +ff+ [A,2-E2-A2-] [A,2-E2-A2-] [A,/E/-A/-] [E/-A/-] [E//A//-] A3/4 |
+% Bar 30 (1:27)
++f+ E,- +ff+ [E,-B,-] [E,2-B,2-E2-] [E,2-B,2-E2-] [E,/B,/-E/-] [B,E-] E/ |
++fff+ C- +ff+ [C-E] +f+ [CG] E +fff+ D- +mf+ [D-^F] +f+ [DA] +ff+ F |
++fff+ G,- +ff+ [G,-D] +fff+ [G,G-] G2 +ff+ D +f+ G d |
++fff+ C- +f+ [C-E] [CG-] [EG] +fff+ D- +f+ [D-^F] [DA] +mf+ F |
++fff+ A,- +f+ [A,-E] +fff+ [A,A-] A2 +f+ E A e |
++fff+ C- +f+ [C-E] +mf+ [CG] +f+ E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ G,- +f+ [G,-D] +fff+ [G,G-] G2 +f+ D +ff+ G +f+ d |
++fff+ C- +f+ [C-E] [CG] E +fff+ D- +f+ [D-^F] [DA] F |
++fff+ A,- +f+ [A,-E] +fff+ [A,A-] A2 +ff+ E +mf+ A +f+ e |
++fff+ C- +f+ [C-E] [CG] E +fff+ D- +f+ [D-^F] [DA] F |
+% Bar 40 (1:57)
++fff+ G,- +f+ [G,-D] +fff+ [G,G-] G2 +f+ D G d |
++fff+ C- +ff+ [C-E] +f+ [CG] E +fff+ D- +f+ [D-^F] [DA] +ff+ F |
++fff+ A,- +f+ [A,-E] +fff+ [A,A-] A2 +f+ E A e |
++fff+ C- +f+ [C-E] [CG] E +fff+ D- +ff+ [D-^F] +f+ [DA] F |
++fff+ G,- +f+ [G,-D] +fff+ [G,G-] G2 +f+ D +ff+ G +f+ d |
++fff+ C- +f+ [C-E] [CG] E +fff+ D- +mf+ [D-^F] +f+ [DA] +mf+ F |
++ff+ E,//- +f+ [E,//-B,//-] +ff+ [E,23/4-B,23/4E23/4-] [E,//-E//] [z3/2E,3/2] |
+z8 |
+z8 |
+z8 |]
+
+X: 16
+%%Orig filename was Loth3SoonBR.abc
+T: Lothlorien (2:26) - Brusque Bassoon
+%%part-name Brusque Bassoon
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 80
+K: C maj
+
++p+ z8 |
+A,/ +pp+ E/ A/ c/ +p+ A,/ +mp+ E/ +p+ A/ c/ A,/ +mp+ E/ +p+ A/ c/ +pp+ A,/ +p+ E/ A/ c/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ B/ +p+ E,/ +pp+ B,/ E/ +p+ B/ E,/ B,/ E/ B/ E,/ +pp+ B,/ +p+ E/ B/ |
+A,/ +pp+ E/ A/ c/ +p+ A,/ +mp+ E/ +p+ A/ c/ A,/ +mp+ E/ +p+ A/ c/ +pp+ A,/ +p+ E/ A/ c/ |
++mp+ E,/- +p+ [E,/B,/] E/ B/ E,/ +pp+ B,/ E/ +p+ B/ E,/ B,/ E/ B/ E,/ +pp+ B,/ +p+ E/ B/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ G,/ +p+ D/ +pp+ G/ +p+ d/ +mp+ G,/ D/ +pp+ G/ +mp+ d/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ d/ G,/ D/ +pp+ G/ +mp+ d/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+A,/ +pp+ E/ A/ e/ +p+ A,/ +mp+ E/ +p+ A/ e/ A,/ +mp+ E/ +p+ A/ e/ +pp+ A,/ +p+ E/ A/ e/ |
+% Bar 10 (0:27)
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ G,/ +p+ D/ +pp+ G/ +p+ B/ +mp+ G,/ D/ +pp+ G/ +mp+ B/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ B/ G,/ D/ +pp+ G/ +mp+ B/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ e/ +p+ E,/ +pp+ B,/ E/ +p+ e/ E,/ B,/ E/ +ppp+ e/ +p+ E,/ +pp+ B,/ +p+ E/ e/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ e/ +p+ E,/ +pp+ B,/ E/ +p+ e/ E,/ B,/ E/ e/ E,/ +pp+ B,/ +p+ E/ e/ |
+A,/ +pp+ E/ A/ c/ +p+ A,/ +mp+ E/ +p+ A/ c/ A,/ +mp+ E/ +p+ A/ c/ +pp+ A,/ +p+ E/ A/ c/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ B/ +p+ E,/ +pp+ B,/ E/ +p+ B/ E,/ B,/ E/ B/ E,/ +pp+ B,/ +p+ E/ B/ |
+A,/ +pp+ E/ A/ c/ +p+ A,/ +mp+ E/ +p+ A/ c/ A,/ +mp+ E/ +p+ A/ c/ +pp+ A,/ +p+ E/ A/ c/ |
++mp+ E,/- +p+ [E,/B,/] E/ B/ E,/ +pp+ B,/ E/ +p+ B/ E,/ B,/ E/ B/ E,/ +pp+ B,/ +p+ E/ B/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+% Bar 20 (0:57)
++mp+ G,/ +p+ D/ +pp+ G/ +p+ d/ +mp+ G,/ D/ +pp+ G/ +mp+ d/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ d/ G,/ D/ +pp+ G/ +mp+ d/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+A,/ +pp+ E/ A/ e/ +p+ A,/ +mp+ E/ +p+ A/ e/ A,/ +mp+ E/ +p+ A/ e/ +pp+ A,/ +p+ E/ A/ e/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ G,/ +p+ D/ +pp+ G/ +p+ B/ +mp+ G,/ D/ +pp+ G/ +mp+ B/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ B/ G,/ D/ +pp+ G/ +mp+ B/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ e/ +p+ E,/ +pp+ B,/ E/ +p+ e/ E,/ B,/ E/ +pp+ e/ +p+ E,/ +pp+ B,/ +p+ E/ e/ |
+A,/ +pp+ E/ A/ c/ +p+ A,/ +mp+ E/ +p+ A/ c/ A,/ +mp+ E/ +p+ A/ c/ +pp+ A,/ +p+ E/ A/ c/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ B/ +p+ E,/ +pp+ B,/ E/ +p+ B/ E,/ B,/ E/ B/ E,/ +pp+ B,/ +p+ E/ B/ |
+A,/ +pp+ E/ A/ c/ +p+ A,/ +mp+ E/ +p+ A/ c/ A,/ +mp+ E/ +p+ A/ c/ +pp+ A,/ +p+ E/ A/ c/ |
+% Bar 30 (1:27)
++mp+ E,/- +p+ [E,/B,/] E/ B/ E,/ +pp+ B,/ E/ +p+ B/ E,/ B,/ E/ B/ E,/ +pp+ B,/ +p+ E/ B/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ G,/ +p+ D/ +pp+ G/ +p+ d/ +mp+ G,/ D/ +pp+ G/ +mp+ d/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ d/ G,/ D/ +pp+ G/ +mp+ d/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+A,/ +pp+ E/ A/ e/ +p+ A,/ +mp+ E/ +p+ A/ e/ A,/ +mp+ E/ +p+ A/ e/ +pp+ A,/ +p+ E/ A/ e/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ G,/ +p+ D/ +pp+ G/ +p+ B/ +mp+ G,/ D/ +pp+ G/ +mp+ B/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ B/ G,/ D/ +pp+ G/ +mp+ B/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+A,/ +pp+ E/ A/ e/ +p+ A,/ +mp+ E/ +p+ A/ e/ A,/ +mp+ E/ +p+ A/ e/ +pp+ A,/ +p+ E/ A/ e/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+% Bar 40 (1:57)
++mp+ G,/ +p+ D/ +pp+ G/ +p+ d/ +mp+ G,/ D/ +pp+ G/ +mp+ d/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ d/ G,/ D/ +pp+ G/ +mp+ d/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
+A,/ +pp+ E/ A/ e/ +p+ A,/ +mp+ E/ +p+ A/ e/ A,/ +mp+ E/ +p+ A/ e/ +pp+ A,/ +p+ E/ A/ e/ |
++mp+ C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ G,/ +p+ D/ +pp+ G/ +p+ B/ +mp+ G,/ D/ +pp+ G/ +mp+ B/ +p+ G,/ +mp+ D/ +pp+ G/ +mp+ B/ G,/ D/ +pp+ G/ +mp+ B/ |
+C,/- +p+ [C,/G,/] C/ E/ +mp+ C,/ G,/ +pp+ C/ +mp+ E/ D,/ A,/ +pp+ D/ +p+ A/ +mp+ D,/ A,/ +pp+ D/ +p+ A/ |
++mp+ E,/- +mf+ [E,/B,/] +mp+ E/ +p+ e/ +mp+ E,/ +p+ B,/ E/ +mp+ e/ E,/ B,/ E/ +ppp+ e/ +mp+ E,/ +p+ B,/ E/ e/ |
++mp+ E,/- +p+ [E,/B,/] E/ +pp+ e/ +p+ E,/ +pp+ B,/ E/ +p+ e/ +pp+ E,/ B,/ E/ e/ E,/ +ppp+ B,/ +pp+ E/ e/ |
+E,/- [E,/B,/] +ppp+ E/ e/ E,/ B,/ E/ e/ E,/ B,/ E/ +pppp+ e/ E,/ B,/ E/ e/ |
+E,/- [E,/B,/] E/ e/ E,/ B,/ E/ e/ z4 |]
+

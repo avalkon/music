@@ -1,0 +1,353 @@
+N: TS  2,   1   8
+X: 1
+%%Orig filename was EorlYoungFlute.abc
+T: Lament for Eorl the Young Basic Flute (2:40)
+%%part-name Basic Flute
+C: Galenswerd Swordsong, The Lonely Mountain Band
+N: http://www.lonelymountainband.com
+N: ABC arrangement by Astleigh
+N: http://my.lotro.com/astleigh
+L: 1/8
+Q: 180
+K: C
+
+
+% ----- intro
+
+z8 z8 z8 z8
+
+z8 z8 z8 z8
+
+% ----- verse
+
+A,4 A, z A, z			% Where are the
+A,5 A, A, z			% horse and the
+A,2 C6				% rider?
+z8				%
+
+z4 A,2 A, z			% Where's the
+A,5 A, A, z			% horn that was
+A,2 C6				% blowing?
+z8				%
+
+A,4 A, z A, z			% Where is the
+A,5 A, A, z			% helm and the
+A,2 C6				% hauberk?
+z8				%
+
+z4 D2 D z			% And the
+C4 C4 				% bright hair
+B,2 B,6				% flowing?
+z8				%
+
+K: E
+G,4 G, z G, z			% Where is the
+G,5 G, G, z			% hand on the
+G,2 B,6				% harpstring?
+z8				%
+
+z4 G, z G, z			% And the
+G,4 G,3 z			% red fire
+G,2 B,6				% glowing?
+z8				%
+K: C
+
+A,4 A, z A, z			% Where is the
+A,5 A, A, z			% spring and the
+A,2 C6				% harvest?
+z8				%
+
+z4 D z D z			% And the
+C4 C4 				% tall corn
+B,2 B,6				% growing?
+z8				%
+
+D8				% Oh-
+C8				% oh
+B,8				% oh
+z8				%
+
+D8				% Oh-
+C8				% oh
+B,8				% oh
+z4 B,4				% They've
+
+C8 				% passed
+z4 E4				% like
+D8 				% rain
+z4 A,2 B,2			% on the
+
+C2 A,6				% mountain.
+z8				%
+z8				%
+z8				%
+
+z8				%
+z4 E2 E2			% Like a
+D8				% wind
+z4 A,2 B,2			% in the
+
+C2 A,6				% meadow.
+z8				%
+z8				%
+z6 C2				% The
+
+C12				% days
+C4				% have
+B,2 B,6				% gone down
+z4 C2 B,2			% in the
+
+A,8				% west.
+z8				%
+z8				%
+z6 C2				% Be-
+
+C12				% hind
+C4				% the
+B,8				% hills
+z4 B,2 B,2			% into
+
+A,2 A,6				% shadow.
+z8				%
+z8				%
+z8				%
+
+% -----
+
++pp+
+
+c16				% Ah-
+G16				% ah
+B16				% ah
+c12 z4				% ah
+
+c16				% Ah-
+G16				% ah
+K: E
+G16				% ah
+z16				%
+K: C
+
+z8				%
+z8				%
+z8				%
+z8				%
+
++mf+
+
+% ---- verse
+
+A,4 z2 A,2			% Who shall
+A,2 A,2 z2 A,2			% gather the
+A,4 z4				% smoke
+z8				%
+
+z6 A, A,			% of the
+A,2 A,4 z2			% deadwood
+A,2 C6 				% burning?
+z8				%
+
+K:E
+z8				%
+z8				%
+z8				%
+z6 G, G,			% Or be-
+
+G,4 z2 G,2			% hold the
+G,2 G,2 z4			% flowing
+G,4 z4				% years
+z8				%
+
+G, G, G,4 z2			% from the sea
+G,4				% re-
+K: C
+A,3 A,8				% turning?
+
+X: 8
+%%Orig filename was EorlYoungLute.abc
+T: Lament for Eorl the Young Basic Lute (2:40)
+%%part-name Basic Lute
+C: Galenswerd Swordsong, The Lonely Mountain Band
+N: http://www.lonelymountainband.com
+N: ABC arrangement by Astleigh
+N: http://my.lotro.com/astleigh
+L: 1/8
+Q: 180
+K: C
+
+%[A,EAc]	% Am	x0221x
+%[E,B,E^GB]	% E	02210x
+%[CEGc]		% C	x3201x
+%[B,DGd]	% G	x2003x
+%[FAcf]		% F	xx3211
+
+
+% ----- intro
+
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++mf+[A,3e2] +p+B E c A [EA] A	% Am
+
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++mf+[A,3e2] +p+B E c A [EA] A	% Am
+
+% ----- verse
+
++fff+[A,3a3] +p+E [ca] A [Ea] A	% Am		Where are the
++fff+[A,3a3] +p+E c [Aa] [Ea] A	% Am		horse and the
++fff+[A,3a2] +p+c' E c A E A	% Am		rider?
++mf+[A,3e2] +p+B E c A [EA] A	% Am
+
++fff+A,3 +p+E [ca] A [Ea] A	% Am		Where's the
++fff+[A,3a3] +p+E c [Aa] [Ea] A	% Am		horn that was
++fff+[A,3a2] +p+c' E c A E A	% Am		blowing?
++mf+[A,3e2] +p+B E c A [EA] A	% Am
+
++fff+[A,3a3] +p+E [ca] A [Ea] A	% Am		Where is the
++fff+[A,3a3] +p+E c [Aa] [Ea] A	% Am		helm and the
++fff+[A,3a2] +p+c' E c A E A	% Am		hauberk?
++mf+[A,3e2] +p+B E c A [EA] A	% Am
+
++fff+A,3 +p+E d A [Ed] A	% Asus4		And the
++fff+[A,3c'3] +p+E [cc'] A E A	% Am		bright hair
++fff+[A,3b2] +p+b E B A E A	% Asus2		flowing?
++mf+[A,3e3] +p+E B A E A	% Asus2
+
+K: E
++fff+[E,3g3] +p+B, [Bg] G [Eg] G% E		Where is the
++fff+[E,3g3] +p+B, B [Gg] [Eg] G% E		hand on the
++fff+[E,3g2] +p+b B, B G E G	% E		harpstring?
++fff+E,3 +p+B, B G E G		% E
+
++fff+E,3 +p+B, B G [Eg] [Gg]	% E		And the
++fff+[E,3g3] +p+B, [Bg] G E G	% E		red fire
++fff+[E,3g2] +p+b B, B G E G	% E		glowing?
++fff+E,3 +p+B, B G E G		% E
+K: C
+
++fff+[A,3a3] +p+E [ca] A [Ea] A	% Am		Where is the
++fff+[A,3a3] +p+E c [Aa] [Ea] A	% Am		spring and the
++fff+[A,3a2] +p+c' E c A E A	% Am		harvest?
++mf+[A,3e2] +p+B E c A [EA] A	% Am
+
++fff+A,3 +p+E d A [Ed] A	% Asus4		And the
++fff+[A,3c'3] +p+E [cc'] A E A	% Am		tall corn
++fff+[A,3b2] +p+b E B A E A	% Asus2		growing?
++fff+A,3 +p+E B A E A		% Asus2
+
++fff+A,3 +p+E d A E A		% Asus4
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E B A E A		% Asus2
++fff+A,3 +p+E B A E A		% Asus2
+
++fff+A,3 +p+E d A E A		% Asus4
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E B A E A		% Asus2
++fff+A,3 +p+E [Bb] A E A	% Asus2		They've
+
++fff+[C3c3] +p+E c G E G	% C		passed
++fff+C3 +p+E [ce] G E G		% C		like
++fff+[B,3d3] +p+D d G D G	% G		rain
++fff+B,3 +p+D [da] G [Db] G	% G		on the
+
++fff+[A,3c'2] +p+a E c A E A	% Am		mountain.
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
+
++fff+C3 +p+E c G E G		% C
++fff+C3 +p+E [ce] G [Ee] G	% C		Like a
++fff+[B,3d3] +p+D d G D G	% G		wind
++fff+B,3 +p+D [da] G [Db] G	% G		in the
+
++fff+[A,3c'2] +p+a E c A E A	% Am		meadow.
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A [Ec'] A	% Am		The
+
++fff+[C3c'3] +p+E c G E G	% C		days
++fff+C3 +p+E [cc'] G E G	% C		have
++fff+[B,3b2] +p+b D B G D G	% G2		gone down
++fff+B,3 +p+D [Bc'] G [Db] G	% G2		in the
+
++fff+[A,3a3] +p+E c A E A	% Am		west.
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A [Ec'] A	% Am		Be-
+
++fff+[C3c'3] +p+E c G E G	% C		hind
++fff+C3 +p+E [cc'] G E G	% C		the
++fff+[B,3b3] +p+D B G D G	% G2		hills
++fff+B,3 +p+D [Bb] G [Db] G	% G2		into
+
++fff+[A,3a2] +p+a E c A E A	% Am		shadow.
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
+
+% -----
+
++fff+[Fc'] +p+ A c [Ac'] f c [Ac'] c	% F
++fff+[Fc'] +p+ A c [Ac'] f [ca] D2	% F
++fff+[C3g3] +p+[Eg] c G [Eg] G		% C
++fff+[C3g3] +p+[Eg] c G [Eg] G		% C
+
+K: E
++fff+[E,3b3] +p+[B,b] B G [Eb] G	% E
++fff+[E,3b3] +p+[B,b] B G [Eb] G	% E
+K: C
++fff+[A,3c'3] +p+[Ec'] c A [Ec'] A	% Am
++fff+[A,3c'3] +p+[Ec'] c A [Ec'] A	% Am
+
++fff+[Fc'] +p+ A c [Ac'] f c [Ac'] c	% F
++fff+[Fc'] +p+ A c [Ac'] f [cc'] D2	% F
++fff+[C3g3] +p+[Eg] c G [Eg] G		% C
++fff+[C3g3] +p+[Eg] c G [Eg] G		% C
+
+K: E
++fff+[E,3g3] +p+[B,g] B G [Eg] G	% E
++fff+[E,3g3] +p+[B,g] B G [Eg] G	% E
++fff+[E,=f] +p+ e =d B, [Be] [Gd] [E=c] G	% E
++fff+[E,d] +p+ c B B, [Bc] [GB] [EA] G	% E
+|
+K: C
+
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
++fff+A,3 +p+E c A E A		% Am
+
+% ---- verse
+
++fff+[A,3a3] +p+E c A [Ea] A	% Am		Who shall
++fff+[A,3a2] +p+a E c A [Ea] A	% Am		gather the
++fff+[A,3a3] +p+E c A E A	% Am		smoke
++fff+A,3 +p+E c A E A		% Am		
+
++fff+A,3 +p+E c A [Ea] [Aa]	% Am		of the
++fff+[A,3a2] +p+a E c A E A	% Am		deadwood
++fff+[A,3a2] +p+c' E c A E A	% Am		burning?
++fff+A,3 +p+E c A E A		% Am
+
+K: E
++fff+E,3 +p+B, B G E G		% E
++fff+E,3 +p+B, B G E G		% E
++fff+E,3 +p+B, B G E G		% E
++fff+E,3 +p+B, B G [Eg] [Gg]	% E		Or be-
+
++fff+[E,3g3] +p+B, B G [Eg] G	% E		hold the
++fff+[E,3g2] +p+g B, B G E G	% E		flowing
++fff+[E,3g3] +p+B, B G E G	% E		years
++fff+E,3 z5			% E		
+
++mf+
+g g g2 z4			%		from the sea
+g4				%		re-
+K: C
+
+[A,3a3] [E3a3] A3 c3 e3 c3 A3 E3% Am		turning?
+A,3/8 E3/8 A3/8 c3/8 e3/8
+

@@ -1,0 +1,116 @@
+%abc-2.1
+%%song-title       Zoltraak (harp solo)
+%%song-composer    Evan Call (Frieren OST) (MIDI by Aragi Shota)
+%%song-duration    2:18
+%%song-transcriber Raymiond of Gladden
+%%abc-creator Maestro v3.1.9
+%%export-timestamp 2025-05-18 00:49:38
+%%swing-rhythm false
+%%mix-timings true
+%%skip-silence-at-start false
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+X: 2
+T: Zoltraak (harp solo) (2:18) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+C: Evan Call (Frieren OST) (MIDI by Aragi Shota)
+Z: Raymiond of Gladden
+M: 4/4
+Q: 142
+K: C maj
+L: 1/8
+
++f+ [G,G] D G [G,D] [G,G] +ff+ D G D |
+[G,G] D G [G,D] [G,G] [G,D] [G,^A^a] G |
+[G,Gg] D [G^A^a] D g D [GAa] D |
+[G,Gg] D [G^A^a] D g D [GAa] D |
+[G,Gg] D G D G D [G,^A] [G,c] |
+[G,G] D G [G,^A] [G,=A] G [G,F] G, |
+[G,G] D G [G,D] [G,G] ^A c d |
+[G,c] ^A/3 c/3 A/3 G [G,F] [G,G] D G D |
+[G,G] D G [G,D] [G,G] ^A c d |
+% Bar 10 (0:15)
+[G,/3c/3] d/3 c/3 ^A =A [G,G] [G,F] D [G,G] [G,D] |
+[G,G] c d [G,/3c/3] d/3 c/3 [G,^A] =A [G,F] G, |
+[D,/g/] d/ [D,/^A,/g/] a/ [D,A,^a] [D,/A,/a/] =a/ [D,g] [D,A,f] [D,A,d] [D,A,f] |
+[A,/3g/3] a/3 g/3 [G,/D/f/] d/ [G,Dc] [G,D^A] [Cc] [G,Ed] [G,Ef] [G,E] |
+[D,/D/g/] d/ [D,/^A,/g/] a/ [D,A,^a] [D,/A,/a/] =a/ [D,Dg] [D,A,f] [D,A,g] [D,A,^a] |
+[A,/c'/] d/ [G,/D/c'/] ^a/ [G,Dg] [G,Df] [Cc'] [G,Ea] [G,Eg] [G,E] |
+[D,/g/] d/ [D,/^A,/g/] a/ [D,A,^a] [D,/A,/a/] =a/ [D,g] [D,A,f] [D,A,d] [D,A,f] |
+[D,/3g/3] a/3 g/3 [D,/^A,/f/] d/ +fff+ [D,A,c] [D,A,^A] [D,c] [D,A,d] [D,A,a] [D,A,^a] |
+[G,g] [D,^A,^a] [Ga] [D,/A,/] =a/ [Ag] [D,A,f] [^Ad] [D,A,] |
+[F,Acf] C, [F,2C2] [C,FAc] C, F, D, |
+% Bar 20 (0:32)
+[G,G^Ad] ^A, [G,DGd] [Gd] [A,GA] D, [G,=A] [D,^A] |
+[C,Gc] G, [G,CDG] [DG] [C,D^A] G, [C,A] [G,=A] |
+[G,2^A,2D2G2] [G,Dg^a] [G,2D2g2a2] [G,DG] [G,f] g |
+[^D,2A2^d2a2] D, [^A,^D] D, D, [D,^A=d^a] [=A=a] |
+[F,2G2c2g2] F, [A,CFA] F, [F,^A,DF] F, [=A,A] |
+[G,Aa] g [^A,d] [D,G,A,g] [A,^Adg] G, G,2 |
+[G,G] ^A [^A,G] [D,G,A,A] [A,/c/] A/ [G,=A] [G,G] ^A |
+G, G [^A,D] [D,G,A,G] [A,/A/] G/ [G,F] [G,2G2] |
+[G,G] ^A [^A,G] [D,G,A,A] [A,/c/] A/ [G,=A] [G,G] ^A |
+[G,D] G d c d/ c/ ^A G2 |
+% Bar 30 (0:49)
+[G,DG] d ^A d ^a/ =a/ g/ f/ d/ c/ A/ =A/ |
+[G,2G2] [F,3/2C3/2D3/2G3/2] A/ [G,G] [F,F] G [^D,^A,A] |
+[F^Ad] ^D, [^D3/2F3/2A3/2d3/2] [F/c/] [C,G,A] =A [=D,2A,2=D2G2] |
+[G,2G2] [F,3/2C3/2D3/2G3/2] A/ [G,G] [F,F] G [^D,^A,^DA] |
+[^D,^A] [^A,=A] [^DF] [A,A] [G,2G2] [G,2A,2=D2] |
+[G,2G2] [F,3/2C3/2D3/2G3/2] A/ [G,G] [F,F] G [^D,^A,A] |
+[F^Ad] ^D, [^D3/2F3/2A3/2d3/2] [F/c/] [C,G,A] =A [=D,2A,2=D2G2] |
+[F,CFA] C [FA] C/ ^A/ [A,=A] [CF] [F,F] A |
+[G,2D2G2] ^A, G D [G,^A] [G,G] d |
+G2 [F,3/2C3/2D3/2G3/2] A/ [G,G] [F,F] G [^D,^A,A] |
+% Bar 40 (1:05)
+[F^Ad] ^D, [^D3/2F3/2A3/2d3/2] [F/c/] [C,G,A] =A [=D,2A,2=D2G2] |
+G2 [F,3/2C3/2D3/2G3/2] A/ [G,G] [F,F] G [^D,^A,^DA] |
+[^D,^A] [^A,=A] [^DF] [A,A] [G,2G2] [G,2A,2=D2] |
+[G,2G2] [F,3/2C3/2D3/2G3/2] A/ [G,G] [F,F] G [^D,^A,A] |
+[F^Ad] ^D, [^D3/2F3/2A3/2d3/2] [F/c/] [C,G,A] =A [=D,2A,2=D2G2] |
+[F,CFA] C [FA] C/ ^A/ [A,=A] [CF] [F,F] A |
+[G,2D2G2] ^A, [G,DG^A] [D,A,] [G,A,] G, D |
+[G,^A,] G D ^A G d A g |
+g7- g2/3 z/3 |
+[^D,/g/] a/ [D,/G,/^a/] =a/ [D,G,g] [D,G,f] [D,d] [D,G,c] [D,/G,/g/] f/ [D,G,d] |
+% Bar 50 (1:22)
+F, [A,Cf] [A,Cg] [A,Ca] [F,g] [A,Cf] [A,Cf] [A,C] |
+[G,/a/] ^a/ [^A,Dg] [A,/D/=a/] ^a/ [A,Dg] [G,/=a/] g/ [A,Df] [A,Dd] [A,Dc] |
+[A,/^A/] c/ [A,Cd] [A,CA] [A,C=A] [A,A] [A,C^A] [A,CG] [A,C] |
+[^D,/g/] a/ [D,/G,/^a/] =a/ [D,G,g] [D,G,f] [D,d] [D,G,c] [D,/G,/g/] f/ [D,G,d] |
+F, [A,Cf] [A,Cg] [A,Ca] [F,g] [A,Cf] [A,C^a] [A,C] |
+G, [^A,Dg] [A,Da] [A,D^a] [G,a] [A,D=a] [A,Dg] [A,Df] |
+[A,d] [Cf] [^A,g] [=A,a] [^A,g] =A, G, F, |
+[^D,2G2^A2d2] D, [G,^A,] [D,Adf] D, D, [=Aa] |
+[F,2G2c2g2] C [F,C] [CGg] F, F,2 |
+[G,DG^A] G [^A,A] [D,G,A,G] [A,/A/] c/ [G,A] [G,G] D |
+% Bar 60 (1:39)
+[A,A] D [A,/A/] c/ [C/^A/] =A/ [A,G] [A,A] [A,^A^a] [=A=a] |
+[^D,2G2^A2^d2] D, [G,^A,] [D,cdg] D, D, [A^a] |
+[F,2A2a2] C [F,C] [CGg] F, F,2 |
+[D,2A2d2a2] +ff+ [D,A,A] d [D,A,f] d +f+ [D,A,a] f |
+[G3/2d3/2] F/ D F G ^A G2 |
+[G,g] ^A, [Ddg] F,/ a/ [=A,g] [Cf] [^A,g] [=A,a] |
+[G,f^a] ^A, [Dfa] F,/ [f/c'/] [=A,a] [C=a] [^A,dg] =A, |
+[G,g] ^A, [Ddg] F,/ a/ [=A,g] [Cf] [^A,g] [=A,a] |
+[G,^a] [A,=a] [^A,f] [=A,a] [G,g] G, G,2 |
+[G,g] ^A, [Ddg] F,/ a/ [=A,g] [Cf] [^A,g] [=A,a] |
+% Bar 70 (1:56)
+[G,f^a] ^A, [Dfa] F,/ [f/c'/] [=A,a] [C=a] [^A,dg] =A, |
+[G,cfa] ^A, [Dfa] F,/ ^a/ [=A,=a] [Cf] [^A,f] [=A,a] |
+[G,dg] A, ^A, +ff+ [=A,g] [G,g] [G,g] [G,2g2] |
++fff+ [G,2G2g2] [F,3/2C3/2G3/2g3/2] [A/a/] [G,Gg] [F,Ff] [Gg] [^D,^DAa] |
+[^D,Dd] ^D [D,3/2=D3/2d3/2] [c/c'/] [C,G,^A^a] [=A=a] [=D,2A,2G2g2] |
+[G,2G2g2] [F,3/2C3/2G3/2g3/2] [A/a/] [G,Gg] [F,Ff] [Gg] [^D,^DAa] |
+[^D,^A^a] [^A,=A=a] [^DFf] [A,Aa] [G,2G2g2] [G,2A,2=D2] |
+[G,2g2] [F,3/2C3/2d3/2g3/2] a/ [G,Gg] [F,Ff] g [^D,^A,^Da] |
+[^D,f^a] ^D [D,3/2f3/2a3/2] [f/c'/] [C,G,a] =a [=D,2A,2d2g2] |
+[F,cfa] C [Ffa] C/ ^a/ [A,=a] [Cf] [F,f] a |
+% Bar 80 (2:13)
+[G,2d2g2] ^A, [G,DG^A] [D,A,] [G,A,] G, D |
+[G,^A,] G D ^A G d A g |
+g2 G, G, G,3- G,2/3 z/3 |
+z8 |]
+

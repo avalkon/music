@@ -1,0 +1,121 @@
+N: TS  5,   1   5   4   8  21
+X: 1
+%%Orig filename was CarolanHewFlute.abc
+T: Hewlett-flute (Turlough O'Carolan) (1:14)
+%%part-name Basic Flute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Hewlett.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
++mp+ z2 D3/4 z/4 G G B/2 c/2 d/2 e/2 ^f d g b b/2 c'/2 b/2 a/2 g g/2
+[e3/8z/4] d/8 e/8 d B B c c/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8 G2 D
+G G B/2 c/2 d/2 e/2 ^f d g b b/2 c'/2 b/2 a/2 g g/2 [e3/8z/4] d/8 e/8
+d B B c c/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8 G2 z d G d/2 e/2 d G
+A3/8 B/4 c3/8 d g3/2 g/2 g/2 ^f/8 g/4 ^f/8 e/2 d/2 c/2 d/8 c/4 B/8 c
+E c/2 d/2 c C c/2 d/2 c/2 E/2 c/2 d/2 e/2 c/2 d/2 B/2 G [Az3/4] B/8
+c/8 B/2 A/2 B c d/2 e/2 ^f d b/2 a/2 b/2 c'/2 d/2 c'/2 b/2 a/2 g3/2
+[e3/8z/4] d/8 e/8 d B B c3/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8 G2 G
+d G d/2 e/2 d G A3/8 B/4 c3/8 d g3/2 g/2 g/2 ^f/8 g/4 ^f/8 e/2 d/2
+c/2 d/8 c/4 B/8 c E c/2 d/2 c C c/2 d/2 c/2 E/2 c/2 d/2 e/2 c/2 d/2
+B/2 G A B/2 A/2 B c d/2 e/2 ^f d b/2 a/2 b/2 c'/2 d/2 c'/2 b/2 a/2
+g3/2 e/2 d B [Bz3/4] c/8 d/8 c3/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8
+G4
+
+X: 5
+%%Orig filename was CarolanHewHarp.abc
+T: Hewlett-harp (Turlough O'Carolan) (1:14)
+%%part-name Basic Harp
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Hewlett.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z2 D3/4 z/4 G G B/2 c/2 d/2 e/2 ^f d g b b/2 c'/2 b/2 a/2 g g/2
+[e3/8z/4] d/8 e/8 d B B c c/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8 G2 D
+G G B/2 c/2 d/2 e/2 ^f d g b b/2 c'/2 b/2 a/2 g g/2 [e3/8z/4] d/8 e/8
+d B B c c/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8 G2 z d G d/2 e/2 d G
+A3/8 B/4 c3/8 d g3/2 g/2 g/2 ^f/8 g/4 ^f/8 e/2 d/2 c/2 d/8 c/4 B/8 c
+E c/2 d/2 c C c/2 d/2 c/2 E/2 c/2 d/2 e/2 c/2 d/2 B/2 G [Az3/4] B/8
+c/8 B/2 A/2 B c d/2 e/2 ^f d b/2 a/2 b/2 c'/2 d/2 c'/2 b/2 a/2 g3/2
+[e3/8z/4] d/8 e/8 d B B c3/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8 G2 G
+d G d/2 e/2 d G A3/8 B/4 c3/8 d g3/2 g/2 g/2 ^f/8 g/4 ^f/8 e/2 d/2
+c/2 d/8 c/4 B/8 c E c/2 d/2 c C c/2 d/2 c/2 E/2 c/2 d/2 e/2 c/2 d/2
+B/2 G A B/2 A/2 B c d/2 e/2 ^f d b/2 a/2 b/2 c'/2 d/2 c'/2 b/2 a/2
+g3/2 e/2 d B [Bz3/4] c/8 d/8 c3/2 e/2 d/2 c/2 d/2 B/2 G G3/4 G/8 A/8
+G4
+
+X: 4
+%%Orig filename was CarolanHewHorn.abc
+T: Hewlett-horn (Turlough O'Carolan) (1:14)
+%%part-name Basic Horn
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Hewlett.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
++p+ z3 G,3 A,3 B,3 C3 G,3 A,3 G,3 G,3 G,3 A,3 B,3 C3 G,3 A,3 G,3 G,3 B,3
+C3 D3 B,3 A, E, A,/2 B,/2 A, E, A,/2 B,/2 A, A,/2 B,/2 A, B, E, ^F,
+G,3 A,3 B,3 C3 G,3 A,3 G,3 G,3 B,3 C3 D3 B,3 A, E, A,/2 B,/2 A, E,
+A,/2 B,/2 A, A,/2 B,/2 A, B, E, ^F, G,3 A,3 B,3 C3 G,3 A,3 G,3 G,4
+
+X: 8
+%%Orig filename was CarolanHewLute1.abc
+T: Hewlett-lute1 (Turlough O'Carolan) (1:14)
+%%part-name Basic Lute 1
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Hewlett.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z3 [g2z/2] b/2 d/2 b/2 g/2 b/2 [^f2z/2] a/2 d/2 a/2 ^f/2 a/2 [g2z/2]
+b/2 d/2 b/2 g/2 b/2 [a2z/2] c'/2 e/2 c'/2 a/2 c'/2 [g2z/2] b/2 d/2
+b/2 g/2 b/2 [a2z/2] c'/2 e/2 c'/2 a/2 c'/2 [g3z/2] b/2 d/2 b/2 a/2
+b/2 [g3z/2] b/2 d/2 b/2 a/2 d/2 [g2z/2] b/2 d/2 b/2 g/2 b/2 [^f2z/2]
+a/2 d/2 a/2 ^f/2 a/2 [g2z/2] b/2 d/2 b/2 g/2 b/2 [a2z/2] c'/2 e/2
+c'/2 a/2 c'/2 [g2z/2] b/2 d/2 b/2 g/2 b/2 [a2z/2] c'/2 e/2 c'/2 a/2
+c'/2 [g3z/2] b/2 d/2 b/2 a/2 b/2 [g3z/2] b/2 d/2 b/2 a/2 d/2 [g2z/2]
+b/2 d/2 b/2 g/2 b/2 g/2 c'/2 e/2 c'/2 g/2 c'/2 [g2z/2] b/2 d/2 b/2
+g/2 b/2 [g2z/2] b/2 e/2 b/2 g/2 b/2 e/2 g/2 c'/2 g/2 e/2 c'/2 g/2 e/2
+c'/2 g/2 e/2 c'/2 g/2 e/2 c'/2 g/2 e/2 c'/2 e/2 g/2 b/2 g/2 e/2 g/2
+d/2 g/2 b/2 g/2 d/2 g/2 c/2 ^f/2 a/2 e/2 c/2 ^f/2 [e2z/2] g/2 b/2 g/2
+e/2 g/2 [g3z/2] c'/2 e/2 c'/2 a/2 c'/2 [g2z/2] b/2 d/2 b/2 g/2 b/2
+[g2z/2] c'/2 e/2 c'/2 g/2 c'/2 [g3z/2] b/2 d/2 b/2 a/2 b/2 [g3z/2]
+b/2 d/2 b/2 a/2 d/2 [g2z/2] b/2 d/2 b/2 g/2 b/2 g/2 c'/2 e/2 c'/2 g/2
+c'/2 [g2z/2] b/2 d/2 b/2 g/2 b/2 [g2z/2] b/2 e/2 b/2 g/2 b/2 e/2 g/2
+c'/2 g/2 e/2 c'/2 g/2 e/2 c'/2 g/2 e/2 c'/2 g/2 e/2 c'/2 g/2 e/2 c'/2
+e/2 g/2 b/2 g/2 e/2 g/2 d/2 g/2 b/2 g/2 d/2 g/2 c/2 ^f/2 a/2 e/2 c/2
+^f/2 [e2z/2] g/2 b/2 g/2 e/2 g/2 [g3z/2] c'/2 e/2 c'/2 a/2 c'/2
+[g2z/2] b/2 d/2 b/2 g/2 b/2 [g2z/2] c'/2 e/2 c'/2 g/2 c'/2 [g3z/2]
+b/2 d/2 b/2 a/2 b/2 a4
+
+X: 21
+%%Orig filename was CarolanHewLute2.abc
+T: Hewlett-lute2 (Turlough O'Carolan) (1:14)
+%%part-name Basic Lute 2
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Hewlett.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z23/8 [g/8b/8] [d3b3g3] [d3a3^f3] [g3b3d3] [a3e3c'3] [b3g3d3]
+[e3a3c'3] [b3g3d3z2] [ac'e] [g23/8d3b23/8] [g/8b/8] [d3g3b3]
+[^f3d3a3] [b3d3g3] [c'3e3a3] [g3d3b3] [e3a3c'3] [g3b3d3z2] [aec']
+[b11/4d23/8g21/8] [g3/8z/8] b/8 d/8 [d3b3e3g3] [e2g2c'2] z [d2b2g2] z
+[e2b2g2] z [c'2e2g2] z [g2c'2e2] z [c'2e2g2] z [g3b2d2e2] z [d2b2g2]
+z [^f2c'2a2c3] z [g3b3e3] [a3c'3e3] [d3b3g3] [e2c'2g2] z [g3d3b3z2]
+[c'ea] [b11/4g21/8d23/8] g/8 b/8 d/8 [e3g3d3b3] [c'2g2e2] z [g2b2d2]
+z [e2g2b2] z [e2g2c'2] z [e2c'2g2] z [c'2e2g2] z [g2b2e2d2] z
+[g2d2b2] z [c'2^f2a2c3] z [e3g3b3] [c'3e3a3] [d3g3b3] [e2c'2g2] z
+[d3b3g3z2] [aec'] [d4g4b4]
+

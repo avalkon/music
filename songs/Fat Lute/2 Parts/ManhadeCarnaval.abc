@@ -1,0 +1,171 @@
+N: TS  2,   5   8
+X: 5
+%%Orig filename was ManhadeCarnaval__Harp1.abc
+T:Black Orpheus/Manha de Carnaval [Ghingeriel]- Basic Harp (3:47)
+%%part-name Basic Harp
+Z:transcribed by Ghingeriel of Hobbiton Philharmonic
+C:Luiz Bonfa and Antonia Maria, original composers
+M:4/4
+L:1/8
+Q:1/4=110
+% Last note suggests minor mode tune
+K:C % 0 sharps
+% BLACK ORPHEUS
+% Harp RH
+% Harp LH
+% Ghingeriel
+x8|x8| \
++p+[e2c2A2E2A,2] [ecAE][e2c2A2E2A,2][ecAEA,] [ecAE][ecAEA,]|[f2d2A2B,2] [f2d2A2] [fB^GD][fB^GD] [f2B2^G2]|
+[e2c2A2E2A,2] [e2c2A2E2] [ecAEA,][ecAEA,] [ecAEA,][ecAEA,]|[f2d2A2B,2] [fdA][fdAB,] [B2^G2D2F,2] [B2^G2D2]| \
+[e2c2A2E2A,2] [e2c2A2E2A,2] [ecAEA,][ecAEA,] [ecAEA,][ecAEA,]|[d2c2F2D2A,2] [d2c2F2D2] [=g2d2B2F2D2G,2] [g2d2B2F2D2]|
+[e2B2G2E2C2] [eBGE][e2B2G2E2C2][eBGEC] [eBGE][eBGEC]|[e2^A2G2^C2] [e^AG][e^AG^C] [e^cGE=A,][e^cGEA,] [e2^c2G2E2]| \
+[d2=c2F2D2A,2] [dcFD][d2c2F2D2A,2][dcFDA,] [dcFD][dcFDA,]|[gdBFDG,][gdBFDG,] [g2d2B2F2D2] [gdBFDG,][gdBFDG,] [g2d2B2F2D2]|
+[ecAEC][ecAEC] [ecAE][e2c2A2E2C2][ecAEC] [ecAE][ecAEC]|[ecAFF,][ecAFF,] [e2c2A2F2] [ecAFF,][ecAFF,] [e2c2A2F2]| \
+[f2d2A2B,2] [fdA][f2d2A2B,2][fdAB,] [fdA][fdAB,]|[fB^GD][fB^GD] [fB^G][f2B2^G2D2][fB^GD] [fB^G][fB^GD]|
+[ecAEA,][ecAEA,] [e2c2A2E2] [ecAEA,][ecAEA,] [e2c2A2E2]|[f2d2A2B,2] [f2d2A2] [B^GDF,][B^GDF,] [B^GD][B^GDF,]| \
+[cAE=G,-]G,- [c2A2E2G,2] G,-[cAEG,-] G,2|[d3A3F3B,3][d-B-F-^G,] [dBF^G,-]^G, [d2B2F2]|
+[cEA,-]A,- [c2E2A,2] A,[cE] x[f-d-A-B,]|[f2d2A2B,2-] B,[f-d-^G-E] [fd^GE-]E [f2d2^G2]| \
+[=gd^AE-]E- [g2d2^A2E2] E[gd^A] x[e-^c-G-^A,]|[e^cG-^A,-][G^A,-] ^A,[e-^c-G] [e^c^A,-]^A, [e2^c2G2]|
+D2 [f2d2=A2] A,-[f2d2A2A,2-]A,|[f2d2A2-D2-] [AD][f-d-A] [fdA,-]A, [f2d2A2D2]| \
+[fdA-D-][AD-] [f2d2A2D2] D-[d3=c3F3D3]|[f4d4A4B,4] [f2d2^G2E2-] [f2d2^G2E2]|
+A,2 [c2E2] A,[e2c2=G2][a-e-c-F]|[a2e2c2F2-] F[a-e-c] [aeC-]C [a2e2c2]| \
+B,2 [f2d2A2] B,[f2d2A2][f-d-^G-E]|[f2d2^G2E2-] E[f-d-^G] [fdB,-]B, [f2d2^G2]|
+[aecAEA,-]A,- [a2e2c2A2E2A,2] A,-[aecAEA,-] A,2|[f3d3A3B,3][f-d-^G-B,] [fd^GB,-]B, [f2d2^G2]| \
+%%MIDI program 25
+%%MIDI program 25
++f+[e2c2A2E2A,2] [e2c2A2E2A,2] [ecAEA,][ecAEA,] [ecAEA,][ecAEA,]|[d2A2F2B,2] [d2A2F2B,2] [B2^G2D2F,2] [B2^G2D2]|
+[ecAEA,][ecAEA,] [e2c2A2E2] [ecAEA,][ecAEA,] [e2c2A2E2]|[d2A2F2B,2] [d2A2F2B,2] [f2B2^G2D2] [f2B2^G2]| \
+[ecAEA,][ecAEA,] [e2c2A2E2] [ecAEA,][ecAEA,] [e2c2A2E2]|[d2c2F2D2A,2] [d2c2F2D2] [=g2d2B2F2D2G,2] [gdBFD][gdBFDG,]|
+[e2B2G2E2C2] [e2B2G2E2] [eBGEC][eBGEC] [eBGEC][eBGEC]|[e2^c2G2^A,2] [e^cG][e^cG^A,] [e^cGE=A,][e^cGEA,] [e^cGE][e^cGEA,]| \
+[a2d2=c2F2] [adc][a2d2c2F2][adcF] [adc][adcF]|[gdBFDG,][gdBFDG,] [g2d2B2F2D2] [gdBFDG,][gdBFDG,] [g2d2B2F2D2]|
+[ecAEC][ecAEC] [ecAE][e2c2A2E2C2][ecAEC] [ecAE][ecAEC]|[ecAFF,][ecAFF,] [e2c2A2F2] [ecAFF,][ecAFF,] [e2c2A2F2]| \
+[d2A2F2B,2] [d2A2F2] [dAFB,][dAFB,] [dAFB,][dAFB,]|[fB^GD][fB^GD] [fB^G][f2B2^G2D2][fB^GD] [fB^G][fB^GD]|
+[ecAEA,][ecAEA,] [ecAE][e2c2A2E2A,2][ecAEA,] [ecAE][ecAEA,]|[f2d2A2B,2] [f2d2A2] [fB^GD][fB^GD] [f2B2^G2]| \
+%%MIDI program 24
+%%MIDI program 24
+A,2 [e2c2=G2] A,-[e3c3G3A,3]|[a3f3B3D3][f-d-^G-E] [fd^GE-]E [f2d2^G2]|
+%%MIDI program 24
+%%MIDI program 24
+A,2 [c2E2] A,-[c3E3A,3]|[f3d3A3B,3][f-d-^G-E] [fd^GE-]E [f2d2^G2]| \
+%%MIDI program 24
+%%MIDI program 24
+E2- [^a2=g2d2E2] E[^a2g2d2][e-^c-G-^A,]|[e^cG-^A,-][G^A,-] ^A,[e-^c-G] [e^c^A,-]^A, [e2^c2G2]|
+=A,2 [d2F2] D-[d2F2D2-]D|[d2F2-A,2-] [FA,][d-F] [dA,-]A, [d2F2]| \
+D2 [f2d2A2] D[d2=c2F2][f-d-A-B,]|[f2d2A2B,2-] B,[f-d-^G-E] [fd^GE-]E [f2d2^G2]|
+%%MIDI program 24
+%%MIDI program 24
+[cEA,-]A,- [c2E2A,2] A,-[e3c3=G3A,3]|[a3e3c3F3][a-e-c] [aeC-]C- [a2e2c2C2]| \
+B,2 [f2d2A2] B,-[f3d3A3B,3]|[f2d2^G2-B,2-] [^GB,][f-d-^G] [fdB,-]B, [f2d2^G2]|
+A,2 [c2E2] A,-[c3E3A,3]|[d3B3F3A,3][d-B-F-^G,] [dBF^G,-]^G, [d2B2F2]| \
+%%MIDI program 25
+%%MIDI program 25
+[ecAEA,][ecAEA,] [ecAE][e2c2A2E2A,2][ecAEA,] [ecAE][ecAEA,]|[fdAB,][fdAB,] [fdA][fdAB,] [f2B2^G2D2] [fB^G][fB^GD]|
+[e2c2A2E2A,2] [e2c2A2E2A,2] [ecAEA,][ecAEA,] [ecAEA,][ecAEA,]|[f2d2A2B,2] [f2d2A2B,2] [f2B2^G2D2] [f2B2^G2D2]| \
+[e2c2A2E2A,2] [ecAE][e2c2A2E2A,2][ecAEA,] [ecAE][ecAEA,]|[a2d2c2F2] [adc][adcF] [=gdBFDG,][gdBFDG,] [g2d2B2F2D2]|
+[eBGEC][eBGEC] [eBGE][e2B2G2E2C2][eBGEC] [eBGE][eBGEC]|[^c2^A2E2G,2] [^c^AE][^c^AEG,] [e^cGE=A,][e^cGEA,] [e2^c2G2E2]| \
+[a2d2=c2F2] [a2d2c2] [adcF][adcF] [adcF][adcF]|[g2d2B2F2D2G,2] [gdBFD][g2d2B2F2D2G,2][gdBFDG,] [gdBFD][gdBFDG,]|
+[e2c2A2E2C2] [e2c2A2E2] [ecAEC][ecAEC] [ecAEC][ecAEC]|[e2c2A2F2F,2] [ecAF][e2c2A2F2F,2][ecAFF,] [ecAF][ecAFF,]| \
+[fdAB,][fdAB,] [fdA][f2d2A2B,2][fdAB,] [fdA][fdAB,]|[f2B2^G2D2] [fB^G][f2B2^G2D2][fB^GD] [fB^G][fB^GD]|
+[e2c2A2E2A,2] [ecAE][e2c2A2E2A,2][ecAEA,] [ecAE][ecAEA,]|[dAFB,][dAFB,] [dAF][dAFB,] [B2^G2D2F,2] [B2^G2D2]| \
+%%MIDI program 24
+%%MIDI program 24
++p+A2 [a2=g2c2] A[a2g2c2][f-d-A-B,]|[f3d3A3B,3-]B, [f2d2^G2E2-] [f2d2^G2E2]|
+%%MIDI program 24
+%%MIDI program 24
+A,2 [c2E2] A,[c2E2][f-d-A-B,]|[f2d2A2B,2-] B,[f-d-^G-E] [fd^GE-]E [f2d2^G2]| \
+%%MIDI program 24
+%%MIDI program 24
+E2- [^a2=g2d2E2] E[^a2g2d2][e-^c-G-^A,]|[e^cG-^A,-][G^A,-] ^A,[e-^c-G] [e^c^A,-]^A, [e2^c2G2]|
+D2 [f2d2=A2] A,-[f2d2A2A,2-]A,|[f2d2A2-D2-] [AD][f-d-A] [fdA,-]A, [f2d2A2D2]| \
+[fdA-D-][AD-] [f2d2A2D2] D-[a3f3=c3A3D3]|[f3d3A3B,3][f-d-^G-B,] [fd^GB,-]B, [f2d2^G2]|
+%%MIDI program 24
+%%MIDI program 24
+A,2 [c2E2] A,[e2c2=G2][a-e-c-F]|[aec-F-][cF-] F[a-e-c] [aeF-]F- [a2e2c2F2]| \
+[fdA-B,-][AB,-] [f2d2A2B,2] B,[fdA] x[f-d-^G-E]|
+%%MIDI program 24
+%%MIDI program 24
+[fd^G-E-][^GE-] E[f-d-^G] [fdE-]E [f2d2^G2]|
+A,2 [c2E2] A,-[c3E3A,3]|
+%%MIDI program 25
+%%MIDI program 25
++pp+[e2c2A2E2A,2] [e2c2A2E2A,2] [ecAEA,][ecAEA,] [ecAEA,][ecAEA,]| \
+[dcFDA,][dcFDA,] [dcFD][dcFDA,] [e2c2=G2E2A,2] [e2c2G2E2A,2]|[d2c2F2D2A,2] [d2c2F2D2A,2] [ecGEA,][ecGEA,] [ecGE][ecGEA,]|
+[d2c2F2D2A,2] [d2c2F2D2A,2] [eBGDB,E,][eBGDB,E,] [eBGDB,][eBGDB,E,]|[e2c2A2E2A,2] [e2c2A2E2] [ecAEA,][ecAEA,] [ecAEA,][ecAEA,]| \
+[e^cBEA,][e^cBEA,] [e^cBE][e2^c2B2E2A,2][e^cBEA,] [e^cBE][e^cBEA,]|[e^cBEA,][e^cBEA,] [e^cBE][e2^c2B2E2A,2][e^cBEA,] [e^cBE][e^cBEA,]|
+A,2
+
+X: 8
+%%Orig filename was ManhadeCarnaval__Lute2.abc
+T:Black Orpheus/Manha de Carnaval [Ghingeriel]- Basic Lute (3:49)
+%%part-name Basic Lute
+Z:transcribed by Ghingeriel of Hobbiton Philharmonic
+C:Luiz Bonfa and Antonia Maria, original composers
+M:4/4
+L:1/8
+Q:1/4=110
+% Last note suggests Phrygian mode tune
+K:C % 0 sharps
+% BLACK ORPHEUS
+% Flute1
+% Ghingeriel
+% Lute
+% Lute2
++fff+x8|x6 E2| \
+c[AE] ce2-[e/2-c/2-B/2][e-c-][e/2c/2A/2-][AE]|[AA-][d2A2-][AA] ^G-[B^G] [fB-][BB]|
+E-[A-E-] [cA-E-][e-AE] [e-A][e-E] [eA]c|x2 [dA-][fA] x[^G/2-E/2]^G/2 B/2-[B3/2E3/2]| \
+ce- [e-c][e2A2][B/2E/2-]E/2- [A/2-E/2-][A/2-A/2E/2-][cAE]|A[cF-] [d2F2] x[B/2-=G/2]B/2- [d/2-B/2-][d/2B/2-B/2-][gBB]|
+E-[GEE-] [BE-][e2-E2-][e2B2E2-][EE]|x^c e3/2-[e/2E/2] xG/2-[G/2-F/2-] [^c/2-G/2-F/2-][^c/2G/2-G/2-F/2][eGG]| \
+[=cA-][dA-] [aA][c/2-D/2]c/2 d/2-[d/2D/2-][aD-] [c/2-D/2]c/2d|Bd gB [dD-][g/2-D/2][g/2E/2-] [B/2-E/2-][B/2F/2-E/2][dF]|
+[G-E][cG-] [eG][A-C] [AC-][cC-] [eC-][AC]|x[AF] ce/2-[e/2-C/2] e-[e/2-c/2-][e-c-D-][e/2c/2E/2-D/2][FE]| \
+[AF-][dF-] [fF][AB,] [dB,-][fB,-] [AB,-][dB,]|x^G Bx [^GB,-][D/2-B,/2][D/2C/2-] [^G/2-C/2]^G/2[B/2-D/2]B/2|
+x/2E/2-[AEE-] [cE-][e2-E2-][e3/2-c3/2-E3/2][e/2c/2]E|A[d/2-D/2]d/2 f/2-[f/2B,/2-][AB,] [BE-][f-E] [fF][BE]| \
+[e3c3B3=G3A,3-][e2c2B2G2A,2-]A,- [e2c2B2G2A,2]|B,2 [fdBA]E,2-[b2-f2-d2-^G2-E,2][bfd^G]|
+[aecAA,]x6x|B,2 [f2d2B2A2] E,-[fE,-] [cE,-][EE,]| \
+[^a3e3d3=G3E,3-][^a2e2d2G2E,2-]E,- [^a2e2d2G2E,2]|[^ae^cG=A,]x6x|
+[a2d2F2D2-] D-[adFD-] D2- [a2d2F2D2]|x2 [a2d2F2] x[a2d2F2]x| \
+[a3d3F3D3][e2=c2A2F2C2-]C- [e-c-A-F-C][ecAF]|B,2 [b2f2d2A2] E,-[fE,-] [cE,-][EE,]|
+[a3e3c3A3A,3][e2c2B2G2G,2-]G,- [e-c-B-G-G,][ecBG]|[gecAF]x6x| \
+[bfdAB,]x6x|[bfd^GE]x6x|
+[aecAA,]x6x|B,2 [f2d2B2A2] E,-[f-d-^G-E,-] [f2e2d2^G2E,2]| \
+[c'ec=G]x4b/2xa3/2|[a4d4B4F4] [^g2^G2D2] b2|
+[e4c4=G4] x4|x4 x[e/2^c/2^G/2D/2]xe3/2| \
+[=c'=geA]x4b/2xa3/2|[aecF]x4[g/2F/2B,/2]xb3/2|
+[e8d8B8]|x3x/2[e/2^c/2G/2] x3/2f-[g/2-f/2]g| \
+a3d [d4A4F4D4]|x4 [d3/2B3/2G3/2F3/2]ex/2f|
+[g3d3A3E3]=c c4|x3x/2[c/2A/2E/2] x3/2d-[e/2-d/2]e| \
+[f3d3A3B,3]B [B4F4D4]|x4 [B3/2^F3/2D3/2]cx/2d/2x/2|
+x/2[e6A6C6]x3/2|x[d/2A/2=F/2D/2]x[A3/2^A,3/2] [e2^c2^G2E2D2] [fF][e=A=GE=C]| \
+x[c'3g3e3c3A3] x3/2[b-B-][b/2a/2-B/2A/2-][aA]|[A2-B,2] [b2f2d2A2A2] [^G-E,-][f^GE,-] [cB-E,-][BEE,]|
+[A-E-A,-][cA-E-A,-] [eAE-A,-][c'-EA,] c'[c'ecA] x2|[D3/2B,3/2-][B,/2-B,/2] [f/2-d/2-B/2-A/2-B,/2-][f/2-d/2-B/2-A/2-E/2-B,/2][fdBAE-] [E/2E,/2-]E,/2-[c'-f-d-^G-E,-] [c'2f2d2^G2E2E,2]| \
+[^a-e-d-^A-=G-E,][^a2e2d2^A2-G2][^a-e-d-^AG-] [^aedG]x/2=A/2- [^a/2-e/2-d/2-=A/2-G/2-][^a/2e/2d/2=A/2G/2G/2][^ae^cG=A,]|x/2G3/2- [^a2e2^c2G2G2] F-[^a-e-^c-G-F] [^ae^cGE-][fd=AED]|
+A4 x4|x4 x[G/2-F/2]G/2 f/2[g/2E/2-][aE]| \
+[a3d3F3D3D3-][d-=c-A-F-DC-] [dcAFD-C-][D/2C/2-][E/2-C/2-] [d/2-c/2-A/2-F/2-E/2C/2-][d/2-c/2-A/2-F/2-C/2][d/2-c/2-A/2-F/2F/2-][d/2c/2A/2F/2]|B,/2-[B3/2-B,3/2] [b2f2d2B2-A2] [B/2E,/2-]E,/2-[c'2-f2-d2-^G2-E,2-][c'fd^GDE,]|
+[e3c3A3C3-A,3][b-e-c-=G-CG,] [becGC-]C/2D/2- [b/2-e/2-c/2-G/2-D/2-][b/2e/2c/2G/2E/2-D/2][c'geAFE]|A3/2x/2 [c'2g2e2A2] xf/2-[f/2^G/2-] [c'^G]c/2-[c/2E/2]| \
+[b-f-d-A-B,][b/2-f/2-d/2-A/2-][b/2f/2d/2A/2F/2-] [b/2-f/2-d/2-A/2-F/2-][b/2-f/2-d/2-A/2-F/2^D/2-][bf=dA^D] E-[b2f2=d2A2E2-][fdB^GEE]|x2 [f-d-B-^G-E][fdB^G] x[b^G-] [d^G][aecBAA,]|
+A4 x4|B,2 [b2f2d2A2] E,-[fE,-] [BE,-][EE,]| \
+x
+%%MIDI program 24
+A- [cA-][e-A] [e-A][e-E] [eA]c|FA dF xB fB|
+xA- [cA-][e-A] [e-A][e-E] [eA]c|xA dA x^G B2| \
+xA- [cA-][e-A] [e-A][e-E] [eA]c|xd a2 Bd =gB|
+xe- [e-B][e2G2]E- [GE-][BE]|x[^AG-] [e2G2] xe- [e^c]G| \
+x[d=c] =a2 xa2c|xB dB dg- [gd]B|
+EA cE Ac EA|xA- [cA-][e-A] [e-A][e-F] [eA]c| \
+FA dF Ad FA|x2 B^G2D ^GB|
+Ec eA2c eA|x[A/2-D/2]A/2 d/2-[d/2B,/2-][AB,] E-[^GE] [B-F][BE]| \
+%%MIDI program 4
+[e-c-B-=G-A,-][e2c2-c2B2G2A,2-][e-c-cB-G-A,-] [ecBGA,-]A,/2-[B/2-A,/2-] [e/2-c/2-B/2-B/2-G/2-A,/2-][e/2-c/2-B/2-B/2A/2-G/2-A,/2-][ecBAGA,]|[A2-B,2] [b2f2d2A2A2] [^G-E,-][c'-f-d-^G-^GE,-] [c'2f2d2B2^G2E,2]|
+[a3e3c3A3E3-A,3-][a-e-c-A-EA,-] [aecAA,-]A,- [a2e2c2A2A,2]|[D3/2B,3/2-][B,/2-B,/2] [b/2-f/2-d/2-A/2-B,/2-][b/2-f/2-d/2-A/2-E/2-B,/2][bfdAE-] [E/2E,/2-]E,/2-[fE,-] [cE-E,-][EEE,]| \
+[^aed^A-=GE]^A3 x3/2=A-[A/2G/2]x|[^a/2-f/2-^c/2-G/2-=A,/2-][^a/2f/2^c/2G/2-G/2=A,/2]G3 F2 E-[adFED-]|
+[AD-]D- [a2d2F2D2-] D[adF] x[adF]|x4 x[d/2-F/2]d/2 a/2[d3/2E3/2]| \
+[a3d3F3D3-D3][e-=c-A-F-DC-] [ecAFD-C-][D/2C/2-][E/2-C/2-] [e/2-c/2-A/2-F/2-E/2C/2-][e/2-c/2-A/2-F/2-C/2][e/2-c/2-A/2-F/2F/2-][e/2c/2A/2F/2]|B,/2-[B3/2-B,3/2] [b2f2d2B2-A2] [B/2E,/2-]E,/2-[c'2-f2-d2-^G2-E,2-][c'fd^GDE,]|
+[a3e3c3A3C3-A,3][b-e-c-=G-CG,] [becGCG,][C/2G,/2][D/2-G,/2] [b/2-e/2-c/2-G/2-D/2-G,/2][b/2-e/2-c/2-G/2-E/2-D/2][becGE]|[A3/2F,3/2]F,/2 [g2e2c2A2F,2] F,-[g/2-e/2-c/2-A/2-F,/2][g3/2-e3/2-c3/2-A3/2-^G3/2F,3/2][=g/2-e/2-c/2-A/2-F,/2][g/2e/2c/2A/2E/2F,/2]| \
+[fdBAB,]x/2F-[F/2^D/2-]^D E4|[c'f=d^GE]x Ex2^G2B|
+[A-A-A,-][cA-A-A,-] [eA-AA,-][c'-AA,] c'[c'ecA] x2|
+%%MIDI program 24
+[e-cAEA,]e x3E/2-[A/2-E/2] [A/2-A/2-][B/2-A/2A/2][BE]| \
+[a2-d2-c2c2-F2-] [a/2-d/2-c/2-F/2-][a/2-d/2d/2-c/2-F/2-][a/2-d/2-c/2-F/2-][a/2d/2c/2c/2F/2] [e2-c2-B2=G2-E2-A,2-] [e-c-AG-E-A,-][ecBGEA,]|[a2-d2-c2-c2F2-] [a-dd-c-F-][adccF] [e-c-BG-E-A,-][e2-c2-G2-E2-A,2-][e/2-c/2-A/2G/2-E/2-A,/2-][e/2c/2B/2G/2E/2A,/2]|
++f+[a-d-cc-F-][a2d2d2c2F2]c B-[B/2D/2-][A/2-D/2] [A/2-G/2-][A/2G/2-G/2][BG]|[A4-A4] [A-E]A/2-[^cA-]A/2-[eA]| \
+[e-^c-B-E-A,-][e/2-^c/2-B/2-E/2-A,/2-A,/2-][e/2^c/2B/2-B/2E/2A,/2-A,/2] [B/2A,/2-]A,/2[^c2B,2][e/2^C/2]x[A3/2E3/2]|[A/2-A,/2-][e/2-^c/2B/2A/2-A,/2-][e/2-A/2-E/2A,/2-][e/2-B/2A/2-A,/2-] +mf+[e-^cAA,-][e/2-e/2A,/2-][e/2-A,/2-] [e-e^c-A-A,-][e2-^c2^c2-A2-A,2-][e-^c-A-EA,]|
++p+[e4^c4A4E4-^C4-] [E2-^C2] E2|
+

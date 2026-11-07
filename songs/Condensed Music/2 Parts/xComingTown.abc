@@ -1,0 +1,183 @@
+N: TS  2,   5   8
+X: 5
+%%Orig filename was xComingTownHarp.abc
+T: Santa Claus is Comin to Town (1:47) - 2/2:Harp)
+%%part-name Basic Harp
+C: Fred Coots
+M: 4/4
+Q: 166
+K: C maj
+
++f+ z4 [c4-e4-] |
+[c2e2] [c2e2] [^A4-^c4-e4-] |
+[^A2^c2e2] [A2c2e2] [B2f2] z2 |
+z6 G,- G,2/3 z/3 |
+A,- A,2/3 z/3 B,- B,2/3 z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 F- F2/3 z/3 [A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-^A-] [E2/3A2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 c- c2/3 z/3 B- B2/3 z/3 |
+% Bar 10 (0:13)
+A- A2/3 z/3 G- G2/3 z/3 F- F2/3 z/3 E- E2/3 z/3 |
+D- D2/3 z/3 G- G2/3 z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 D- D2/3 z/3 [F-G-] [F2/3G2/3] z/3 |
+G,- G,2/3 z/3 [F-G-] [F2/3G2/3] z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 F- F2/3 z/3 [A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-^A-] [E2/3A2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 c- c2/3 z/3 B- B2/3 z/3 |
+A- A2/3 z/3 G- G2/3 z/3 F- F2/3 z/3 E- E2/3 z/3 |
+D- D2/3 z/3 G- G2/3 z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+% Bar 20 (0:27)
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 C- C2/3 z/3 G,- G,2/3 z/3 |
+C- C2/3 z7/3 G- G2/3 z/3 [^A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [^A-c-] [A2/3c2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [A-c-] [A2/3c2/3] z/3 G- G2/3 z/3 [^A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [^A-c-] [A2/3c2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [A-c-] [A2/3c2/3] z/3 A- A2/3 z/3 [c-d-] [c2/3d2/3] z/3 |
+D- D2/3 z/3 [c-d-] [c2/3d2/3] z/3 G- G2/3 z/3 [B-d-] [B2/3d2/3] z/3 |
+^G- G2/3 z/3 [B-d-] [B2/3d2/3] z/3 A- A2/3 z/3 [c-e-] [c2/3e2/3] z/3 |
+D- D2/3 z/3 [^F-c-] [F2/3c2/3] z/3 [G-B-] [G2/3B2/3] z7/3 |
+[G4B4] C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+% Bar 30 (0:41)
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 F- F2/3 z/3 [A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-^A-] [E2/3A2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+^A,- A,2/3 z/3 [D-^G-] [D2/3G2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+A,- A,2/3 z/3 [C-E-] [C2/3E2/3] z/3 F,- F,2/3 z/3 [A,-D-] [A,2/3D2/3] z/3 |
+G,- G,2/3 z/3 [B,-F-] [B,2/3F2/3] z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 D- D2/3 z/3 [F-G-] [F2/3G2/3] z/3 |
+G,- G,2/3 z/3 [F-G-] [F2/3G2/3] z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 D- D2/3 z/3 [F-A-] [F2/3A2/3] z/3 |
+[F4G4] C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+% Bar 40 (0:56)
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 F- F2/3 z/3 [A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-^A-] [E2/3A2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 c- c2/3 z/3 B- B2/3 z/3 |
+A- A2/3 z/3 G- G2/3 z/3 F- F2/3 z/3 E- E2/3 z/3 |
+D- D2/3 z/3 G- G2/3 z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 D- D2/3 z/3 [F-G-] [F2/3G2/3] z/3 |
+G,- G,2/3 z/3 [F-G-] [F2/3G2/3] z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 F- F2/3 z/3 [A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+% Bar 50 (1:10)
+C- C2/3 z/3 [E-^A-] [E2/3A2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 c- c2/3 z/3 B- B2/3 z/3 |
+A- A2/3 z/3 G- G2/3 z/3 F- F2/3 z/3 E- E2/3 z/3 |
+D- D2/3 z/3 G- G2/3 z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 C- C2/3 z/3 G,- G,2/3 z/3 |
+C- C2/3 z7/3 G- G2/3 z/3 [^A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [^A-c-] [A2/3c2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [A-c-] [A2/3c2/3] z/3 G- G2/3 z/3 [^A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [^A-c-] [A2/3c2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+C- C2/3 z/3 [A-c-] [A2/3c2/3] z/3 A- A2/3 z/3 [c-d-] [c2/3d2/3] z/3 |
+% Bar 60 (1:25)
+D- D2/3 z/3 [c-d-] [c2/3d2/3] z/3 G- G2/3 z/3 [B-d-] [B2/3d2/3] z/3 |
+^G- G2/3 z/3 [B-d-] [B2/3d2/3] z/3 A- A2/3 z/3 [c-e-] [c2/3e2/3] z/3 |
+D- D2/3 z/3 [^F-c-] [F2/3c2/3] z/3 [G-B-] [G2/3B2/3] z7/3 |
+[G4B4] C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 F- F2/3 z/3 [A-c-] [A2/3c2/3] z/3 |
+F- F2/3 z/3 [^G-c-] [G2/3c2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+C- C2/3 z/3 [E-^A-] [E2/3A2/3] z/3 F- F2/3 z/3 [=A-c-] [A2/3c2/3] z/3 |
+^A,- A,2/3 z/3 [D-^G-] [D2/3G2/3] z/3 C- C2/3 z/3 [E-=G-] [E2/3G2/3] z/3 |
+A,- A,2/3 z/3 [C-E-] [C2/3E2/3] z/3 F,- F,2/3 z/3 [A,-D-] [A,2/3D2/3] z/3 |
+G,- G,2/3 z/3 [B,-F-] [B,2/3F2/3] z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+% Bar 70 (1:39)
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 C- C2/3 z/3 [E-G-] [E2/3G2/3] z/3 |
+G,- G,2/3 z/3 [E-G-] [E2/3G2/3] z/3 [C-E-G-] [C2/3E2/3G2/3] z7/3 |
+z4 [^A,4-D4-^G4-] |
+[^A,4D4^G4] [C2E2=G2] z2 |
+z2 G, z C z C, z |]
+
+X: 8
+%%Orig filename was xComingTownLute.abc
+T: Santa Claus is Comin to Town (1:47) - 1/2:Liuto)
+%%part-name Basic Lute
+C: Fred Coots
+M: 4/4
+Q: 166
+K: C maj
+
++fff+ z4 G- G/3 A2/3 G- G/3 z2/3 |
+g- g/3 z8/3 G- G/3 A2/3 G- G/3 z2/3 |
+g- g/3 z8/3 G/3 g z2/3 f- f/3 z2/3 |
+d- d/3 z2/3 B- B/3 z2/3 G- G/3 z8/3 |
+z2 G2 E- E/3 F2/3 G- G/3 z2/3 |
+G2- G- G/3 G2/3 A- A/3 B2/3 c- c/3 z2/3 |
+c4 E- E/3 F2/3 G- G/3 z2/3 |
+G2 G2 A- A/3 G2/3 F- F/3 z2/3 |
+F4 E2 G2 |
+% Bar 10 (0:13)
+C2 E2 D2 F2- |
+F2 B,2 C4- |
+C4 z4 |
+z2 G2 E- E/3 F2/3 G- G/3 z2/3 |
+G2- G- G/3 G2/3 A- A/3 B2/3 c- c/3 z2/3 |
+c4 E- E/3 F2/3 G- G/3 z2/3 |
+G2 G2 A- A/3 G2/3 F- F/3 z2/3 |
+F4 E2 G2 |
+C2 E2 D2 F2- |
+F2 B,2 C4- |
+% Bar 20 (0:27)
+C4 z4 |
+z2 c2 d2 [E2c2] |
+[E2B2] [E2c2] [F2A2] [F2-A2-] |
+[F2A2] c2 d2 [E2c2] |
+[E2B2] E2 [F4-A4-] |
+[F2A2] d2 e2 [^F2d2] |
+[^F2^c2] [F2d2] [A2B2] [G2B2] |
+[^F2B2] [=F-B-] [F/3B/3] c2/3 d2 c2 |
+B2 A2 G2 z2 |
+[^D2-G2-] [D-G-] [D/3G/3] G2/3 E- E/3 F2/3 G- G/3 z2/3 |
+% Bar 30 (0:41)
+G2- G- G/3 G2/3 A- A/3 B2/3 c- c/3 z2/3 |
+c4 E- E/3 F2/3 G- G/3 z2/3 |
+G2 G2 A- A/3 G2/3 F- F/3 z2/3 |
+F4 E2 G2 |
+C2 E2 D2 F2- |
+F2 d2 c4- |
+c4 z2 [F2A2] |
+[F2G2] z2 z4 |
+z8 |
+z2 G2 E- E/3 F2/3 G- G/3 z2/3 |
+% Bar 40 (0:56)
+G2- G- G/3 G2/3 A- A/3 B2/3 c- c/3 z2/3 |
+c4 E- E/3 F2/3 G- G/3 z2/3 |
+G2 G2 A- A/3 G2/3 F- F/3 z2/3 |
+F4 E2 G2 |
+C2 E2 D2 F2- |
+F2 B,2 C4- |
+C4 z4 |
+z2 G2 E- E/3 F2/3 G- G/3 z2/3 |
+G2- G- G/3 G2/3 A- A/3 B2/3 c- c/3 z2/3 |
+c4 E- E/3 F2/3 G- G/3 z2/3 |
+% Bar 50 (1:10)
+G2 G2 A- A/3 G2/3 F- F/3 z2/3 |
+F4 E2 G2 |
+C2 E2 D2 F2- |
+F2 B,2 C4- |
+C4 z4 |
+z2 c2 d2 [E2c2] |
+[E2B2] [E2c2] [F2A2] [F2-A2-] |
+[F2A2] c2 d2 [E2c2] |
+[E2B2] E2 [F4-A4-] |
+[F2A2] d2 e2 [^F2d2] |
+% Bar 60 (1:25)
+[^F2^c2] [F2d2] [A2B2] [G2B2] |
+[^F2B2] [=F-B-] [F/3B/3] c2/3 d2 c2 |
+B2 A2 G2 z2 |
+[^D2-G2-] [D-G-] [D/3G/3] G2/3 E- E/3 F2/3 G- G/3 z2/3 |
+G2- G- G/3 G2/3 A- A/3 B2/3 c- c/3 z2/3 |
+c4 E- E/3 F2/3 G- G/3 z2/3 |
+G2 G2 A- A/3 G2/3 F- F/3 z2/3 |
+F4 E2 G2 |
+C2 E2 D2 F2- |
+F2 d2 [E4-c4-] |
+% Bar 70 (1:39)
+[E8-c8-] |
+[E4c4] z2 c2 |
+B2 A2 G2 F2 |
+E2 D2 C2 z2 |
+z8 |]
+

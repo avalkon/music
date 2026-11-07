@@ -1,0 +1,82 @@
+N: TS 4,   21 22 23 24
+
+X:21
+%%Orig filename was greensl1.abc
+T:GreenSleeves Melody (2:39)
+M:3/4
+L:1/8
+Q:1/4=37
+N:Last note suggests minor mode tune
+%%part-name Basic Flute 1
+K:G
+z4
+E/2GA/2|B/2z/2[c/2B/2]AF/2 D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,E/2GA/2|B/2z/2[c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E3d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,3/2d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E2-E/2E/2GA/2|B/2z/2[=c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,E/2GA/2|B/2z/2[c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E3d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,3/2d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E2-E/2E/2GA/2|B/2z/2[=c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,E/2GA/2|B/2z/2[c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E3d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,3/2d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E2-E/2E/2GA/2|B/2z/2[=c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,E/2GA/2|B/2z/2[c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E3d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]GE/2|E/2z/2[E/2^D/2]F^D/2 B,3/2d3/2|d/2z/2[^c/2B/2]AF/2 =D/2z/2[F/2E/2]G/2z/2[F/2E/2]|
+^D/2z/2[^D/2^C/2]E2-E/2
+
+X:22
+%%Orig filename was greensl2.abc
+T:GreenSleeves Melody Begeleiding Accoorden (2:39)
+M:3/4
+L:1/8
+Q:1/4=37
+N:Last note suggests minor mode tune
+%%part-name Basic Flute 2
+K:G
+z4z/2
+[GEB,]z/2|[GEB,]z/2[AFD]z/2 [AFD]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[GEB,]z/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|
+[^DB,F,]z/2[EB,G,]z/2 [EB,G,]z/2[=dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|
+[^DB,F,]z/2[GEB,]z/2 [GEB,]z/2[GEB,]z/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[GEB,]z/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|
+[^DB,F,]z/2[EB,G,]z/2 [EB,G,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|
+[^DB,F,]z/2[GEB,]z/2 [GEB,]z/2Gz/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[GEB,]z/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|
+[^DB,F,]z/2[EB,G,]z/2 [EB,G,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|
+[^DB,F,]z/2[GEB,]z/2 [GEB,]z/2Gz/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[GEB,]z/2|[GEB,]z/2[AF=D]z/2 [AFD]z/2[GEB,]z/2|
+[^DB,F,]z/2[EB,G,]z/2 [EB,G,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|[ECA,]z/2[F^DB,]z/2 [F^DB,]z/2[dBG]z/2|[dBG]z/2[AF=D]z/2 [FDA,]z/2[GEB,]z/2|
+[^DB,F,]z/2[GEB,]z/2 [GEB,]
+
+X:23
+%%Orig filename was greensl3.abc
+T:GreenSleeves Àlt Melody  (2:39)
+M:3/4
+L:1/8
+Q:1/4=37
+N:Last note suggests minor mode tune
+%%part-name Basic Flute 3
+K:G
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z4
+B/2ef/2|g/2z/2[a/2g/2]fd/2 A/2z/2[d/2^c/2]eB/2|=c/2z/2[c/2B/2]^dB/2 FB/2ef/2|g/2z/2[a/2g/2]f=d/2 A/2z/2[d/2^c/2]e/2z/2[d/2B/2]|
+B/2z/2[B/2A/2]B3b3/2|b/2z/2[a/2g/2]fA/2 A/2z/2[d/2^c/2]eB/2|=c/2z/2[c/2B/2]^dB/2 F3/2b3/2|b/2z/2[a/2g/2]fA/2 A/2z/2[=d/2^c/2]e/2z/2[d/2B/2]|
+B/2z/2[B/2A/2]B2-B/2B/2ef/2|g/2z/2[a/2g/2]fd/2 A/2z/2[d/2^c/2]eB/2|=c/2z/2[c/2B/2]^dB/2 FB/2ef/2|g/2z/2[a/2g/2]f=d/2 A/2z/2[d/2^c/2]e/2z/2[d/2B/2]|
+B/2z/2[B/2A/2]B3b3/2|b/2z/2[a/2g/2]fA/2 A/2z/2[d/2^c/2]eB/2|=c/2z/2[c/2B/2]^dB/2 F3/2b3/2|b/2z/2[a/2g/2]fA/2 A/2z/2[=d/2^c/2]e/2z/2[d/2B/2]|
+B/2z/2[B/2A/2]B2-B/2B/2ef/2|g/2z/2[a/2g/2]fd/2 A/2z/2[d/2^c/2]eB/2|=c/2z/2[c/2B/2]^dB/2 FB/2ef/2|g/2z/2[a/2g/2]f=d/2 A/2z/2[d/2^c/2]e/2z/2[d/2B/2]|
+B/2z/2[B/2A/2]B3b3/2|b/2z/2[a/2g/2]fA/2 A/2z/2[d/2^c/2]eB/2|=c/2z/2[c/2B/2]^dB/2 F3/2b3/2|b/2z/2[a/2g/2]fA/2 A/2z/2[=d/2^c/2]e/2z/2[d/2B/2]|
+B/2z/2[B/2A/2]B2-B/2
+
+X:24
+%%Orig filename was greensl4.abc
+T:GreenSleeves Bas (2:39)
+M:3/4
+L:1/8
+Q:1/4=37
+N:Last note suggests minor mode tune
+%%part-name Unknown Instrument
+K:G
+z4z/2
+E3/2|E3/2D3/2 D3/2E3/2|A3/2B3/2 B3/2E3/2|E3/2D3/2 D3/2E3/2|
+B3/2E3/2 E3/2G3/2|G3/2D3/2 D3/2E3/2|A3/2B3/2 B3/2G3/2|G3/2D3/2 D3/2E3/2|
+B3/2E3/2 E3/2E3/2|E3/2D3/2 D3/2E3/2|A3/2B3/2 B,-[^D/2B,/2]E3/2|E/2z/2[G/2E/2]=D3/2 D-[F/2E/2D/2]EE/2|
+B/2z/2[A/2G/2]E3/2 E3/2G3/2|G/2z/2[B/2A/2]D3/2 D/2z/2[F/2E/2]E3/2|A/2z/2[c/2B/2]B3/2 B3/2G3/2|G/2z/2[F/2E/2]D3/2 D/2z/2[F/2E/2]E3/2|
+B/2z/2[B/2A/2]E3/2 E3/2E3/2|E3/2D3/2 D3/2E3/2|A3/2B3/2 B,-[^D/2B,/2]E3/2|E/2z/2[G/2E/2]=D3/2 D-[F/2E/2D/2]EE/2|
+B/2z/2[A/2G/2]E3/2 E3/2G3/2|G/2z/2[B/2A/2]D3/2 D/2z/2[F/2E/2]E3/2|A/2z/2[c/2B/2]B3/2 B3/2G3/2|G/2z/2[F/2E/2]D3/2 D/2z/2[F/2E/2]E3/2|
+B/2z/2[B/2A/2]E3/2 E3/2E3/2|E3/2D3/2 D3/2E3/2|A3/2B3/2 B,-[^D/2B,/2]E3/2|E/2z/2[G/2E/2]=D3/2 D-[F/2E/2D/2]EE/2|
+B/2z/2[A/2G/2]E3/2 E3/2G3/2|G/2z/2[B/2A/2]D3/2 D/2z/2[F/2E/2]E3/2|A/2z/2[c/2B/2]B3/2 B3/2G3/2|G/2z/2[F/2E/2]D3/2 D/2z/2[F/2E/2]E3/2|
+B/2z/2[B/2A/2]E3/2 E3/2
+

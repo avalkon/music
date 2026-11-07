@@ -1,0 +1,43 @@
+N: TS  2,   4   8
+X: 4
+%%Orig filename was TheGoldRing__Horn1.abc
+T:The Gold Ring part 1 (1:06)
+%%part-name Basic Horn
+C:Arranged by Meldowen
+Q:1/4=184
+M:3/4
+L:1/8
+K:D
+z6 |z6 |[D^F][A,D] [DA,][DF] [FA][Ad] |[^fd][af] [fd][eg] [df][Ad] |[Bd][d^f] [dB][Ad] [AF][DF] |[EG][^FD] [EG][AF] [DF][B,D] |[DA,][G,D] [A,D][D^F] [FA][Ad] |[^fd][fa] [df][ge] [df][dA] |[Bd][^fd] [Bd][dA] [FA][GE] |
+[^FA][DF] [DF] [F2D2] [B,F] |[D^F][A,D] [A,D][DF] [FA][Ad] |[d^f][fa] [df][eg] [df][Ad] |[Bd][d^f] [Bd][dA] [FA][DF] |[EG][D^F] [EG][FA] [DF][B,D] |[A,D][G,D] [A,D][D^F] [FA][Ad] |[d^f][fa] [df][eg] [df][Ad] |
+[Bd][d^f] [Bd][Ad] [FA][EG] |[^FA][DF] [DF] [D2F2] [GB] |[^FA][DF] [FA][Ad] [df][fa] |[gb][eg] [gb][^fa] [df][Ad] |[eg][^fa] [eg][df] [fa][df] |[^ce][Bd] [ce][d^f] [Bd][GB] |[^FA][DF] [FA][Ad] [df][fa] |
+[gb][eg] [bg][^fa] [df][Ad] |[GB][Bd] [GB][^FA] [DF][FA] |[GB][Bd] [Ad] [^F2d2] [GB] |[^FA][DF] [FA][Ad] [df][fa] |[gb][eg] [gb][^fa] [df][Ad] |[eg][^fa] [eg][df] [fa][df] |[^ce][Bd] [ce][d^f] [Bd][GB] |
+[^FA][DF] [FA][Ad] [df][fa] |[gb][eg] [gb][^fa] [df][Ad] |[GB][Bd] [GB][^FA] [DF][FA] |[GB][Bd] [Ad] [^F2d2] [Ge] |[^Fd][DF] [DF][FA] [DF][^CE] |[B,D][D^F] [^CE][B,D] [DF][FA] |[^Fd][Af] [Fd][Ge] [Fd][Ge] |
+[A^f][Fd] [DB][DB] [^CA][DB] |[^Fd][DF] [DF][FA] [DF][^CE] |[B,D][D^F] [^CE][B,D] [DF][FA] |[^Fd][Af] [Fd][Ge] [Fd][Ge] |[A^f][Fd] [Fd] [F2d2] [Ge] |[^Fd][DF] [DF][FA] [DF][^CE] |[B,D][D^F] [^CE][B,D] [DF][FA] |
+[^Fd][Af] [Fd][Ge] [Fd][Ge] |[A^f][dF] [DB][DB] [^CA][DB] |[^Fd][DF] [DF][FA] [DF][^CE] |[B,D][D^F] [^CE][B,D] [DF][FA] |[^Fd][Af] [Fd][Ge] [Fd][Ge] |[A^f][Fd] [Fd] [F2d2] [GB] |[^FA][DF] [FA][Ad] [df][Bd] |
+[GB][^FA] [GB][Bd] [FA][DF] |[D^F][EG] [FA][EG] [DF][EG] |[^FA][DF] [B,D][B,D] [Bd][A^c] |[^FA][DF] [FA][Ad] [df][Bd] |[GB][^FA] [GB][Bd] [FA][DF] |[D^F][EG] [FA][EG] [DF][EG] |[^FA][DF] [DF] [D2F2] [GB] |
+[^FA][DF] [FA][Ad] [df][Bd] |[GB][^FA] [GB][Bd] [FA][DF] |[D^F][EG] [FA][EG] [DF][EG] |[^FA][DF] [B,D][B,D] [Bd][A^c] |[^FA][DF] [FA][Ad] [df][Bd] |[GB][^FA] [GB][Bd] [FA][DF] |[D^F][EG] [FA][EG] [DF][EG] |
+[^FA][DF] [DF] [D3-F3-] |[D4^F4] z2 |]
+     %End of file
+
+X: 8
+%%Orig filename was TheGoldRing__Lute2.abc
+T:The Gold Ring part 2 (1:08)
+%%part-name Basic Lute
+C:Arranged by Meldowen
+Q:1/4=184
+M:3/4
+L:1/8
+K:D
+z6 |z6 |[D2z] ^F [AFd] [^C2z] F[FAd] |[zB,2] D [d^FA] [A,2z] D[FdA] |[D2z] ^F [AdF] [zA,2] D[dAF] |[zA,2] D [^FdA] [zD2] F[dFA] |[zD2] ^F [FAd] [z^C2] F[FdA] |[B,2z] D [A^Fd] [zA,2] D[FdA] |[zD,2] A, [AE^c] [A,2z] C[AEc] |
+A,2 [A^Fd] [A3d3F3] |[zD2] ^F [FdA] [z^C2] F[FAd] |[zB,2] E [^FAd] [A,2z] E[FAd] |[zD2] ^F [FAd] [zA,2] F[dAF] |[zA,2] D [^FAd] [D2z] F[FAd] |[D2z] ^F [AFd] [^C2z] F[AFd] |[B,2z] E [^FdA] [A,2z] E[FAd] |
+[zD,2] A, [EA^c] [zA,2] D[AEc] |A,2 [^FAd] [F3A3d3] |[z^F2] A [FAd] [zD2] A[FAd] |[zG2] B [GBd] [z^F2] B[FAd] |[zE2] G [GBd] [zD2] ^F[FA^c] |[zA,2] ^C [EAc] [zA,2] C[EAc] |[zD2] ^F [FAd] [z^C2] F[FAd] |
+[zB,2] D [GBd] [zA,2] D[Ad^F] |[zD,2] A, [EA^c] [zA,2] C[EAc] |A,2 [^FAd] [F3A3d3] |[z^F2] A [FAd] [zD2] A[FAd] |[zG2] B [GBd] [z^F2] A[FAd] |[zE2] G [GBd] [zD2] ^F[FA^c] |[zA,2] ^C [EAc] [zA,2] C[EAc] |
+[zD2] ^F [FAd] [z^C2] F[FAd] |[zB,2] D [GBd] [zA,2] E[^FAd] |[zD,2] A, [EA^c] [zA,2] C[EAc] |A,2 [^FAd] [F3A3d3] |[z^F] A [FAd] [zD2] A[FAd] |[zA,2] D [^FAd] [zD2] F[FAd] |[z^F] A [FAd] [zD2] F[FAd] |
+[zA,2] D [^FBd] [zD2] F[FBd] |[z^F] A [FAd] [zD2] F[FAd] |[zA,2] ^F [FAd] [zD2] F[FAd] |[zD,2] A, [EA^c] [zA,2] C[EAc] |A,2 [^FAd] [F3A3d3] |[z^F] A [FAd] [zD2] F[FAd] |[zA,2] D [^FAd] [zD2] F[FAd] |
+[z^F] A [FAd] [zD2] F[FAd] |[zA,2] D [^FBd] [zD2] F[FBd] |[z^F] A [FAd] [zD2] F[FAd] |[zA,2] D [^FAd] [zD2] F[FAd] |[zD,2] A, [EA^c] [zA,2] C[EAc] |A,2 [^FAd] [F3A3d3] |[z^F] A [FAd] [zD2] F[FAd] |
+[zG] B [GBd] [z^F] A[FAd] |[zD2] ^F [FAd] [zA,2] D[FAd] |[zA,2] D [^FBd] [zD2] F[FBd] |[z^F] A [FAd] [zD2] F[FAd] |[zG] B [GBd] [z^F] A[FAd] |[zD,2] A, [EA^c] [zA,2] C[EAc] |A,2 [^FAd] [F3A3d3] |
+[z^F] A [FAd] [zD2] A[FAd] |[zG] B [GBd] [z^F] A[FAd] |[zD2] ^F [FAd] [zA,2] F[FAd] |[zA,2] D [^FBd] [zD2] F[FBd] |[z^F] A [FAd] [zD2] F[FAd] |[zG] B [GBd] [z^F] A[FAd] |[zD,2] A, [EA^c] [zA,2] C[EAc] |
+A,2 [^FAd] [F3-A3-d3-] |[^F4A4d4] z2 |]
+     %End of file
+

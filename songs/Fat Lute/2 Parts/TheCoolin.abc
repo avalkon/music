@@ -1,0 +1,43 @@
+N: TS  2,   4   8
+X: 4
+%%Orig filename was TheCoolin__Horn1.abc
+T:The Coolin part 1 (2:11)
+%%part-name Basic Horn
+C:Arranged by Fafnir
+Q:1/4=91
+M:3/4
+L:1/8
+K:E
+z4 [c/_B/][=B/d/][=fc] |[f2_B2] [B3/2f3/2][c/_b/] [b/c/][g/=B/][_B/f/][G/=f/] |[_B2f2] [B2c2] [C/F/][F/B/][cB] |[f2_B2] [Bf][g/=B/][c/_b/] [=B3/2g3/2][f/_B/] |[_B2f2] [=f2G2] [B3/2^f3/2][=f/c/] |[B3d3] [B/=f/][^f/B/] [g/=f/][^f/d/][c/=f/][d/B/] |
+[c2_B2] [FB][Bc] [f3/2d3/2][B/c/] |[c/=f/][d/B/][c/_B/][G/=B/] [^F2_B2] [=F2G2] |F4 [c/_B/][=B/d/][c=f] |[_B2f2] [B3/2f3/2][c/_b/] [c/b/][=B/g/][_B/f/][=f/G/] |[_B2f2] [B2c2] [F/C/][F/B/][cB] |[_B2f2] [fB][g/=B/][_b/c/] [g3/2=B3/2][f/_B/] |
+[_B2f2] [=f2G2] [B3/2^f3/2][c/=f/] |[B3d3] [B/=f/][B/^f/] [=f/g/][d/^f/][c/=f/][B/d/] |[_B2c2] [FB][Bc] [d3/2f3/2][B/c/] |[c/=f/][B/d/][_B/c/][G/=B/] [^F2_B2] [=F2G2] |F4 [c3/2_B3/2][G/=B/] |[F3/2_B3/2][=F/G/] [C^F][=FG] [^FB][G=B] |
+[_B3/2c3/2][A/=c/] [B^c][=Bd] [c=f][_Bc] |[_B3/2f3/2][G/=f/] [B^f][=B/g/][c/_b/] [=Bg][_Bf] |[_B2f2] [G2=f2] [B3/2^f3/2][c/=f/] |[B2d2] [B/d/][c/=f/][d/^f/][c/=f/] [f/g/][d/^f/][c/=f/][B/d/] |[_B2c2] [FB][Bc] [d3/2f3/2][B/c/] |
+[c/=f/][B/d/][_B/c/][G/=B/] [_B2c2] [G2=B2] |[F4_B4] [B3/2c3/2][G/=B/] |[F3/2_B3/2][=F/G/] [C^F][=FG] [^FB][G=B] |[_B3/2c3/2][A/=c/] [B^c][=Bd] [c=f][_Bc] |[_B3/2f3/2][G/=f/] [B^f][=B/g/][c/_b/] [=Bg][_Bf] |
+[_B2f2] [G2=f2] [B3/2^f3/2][c/=f/] |[B2d2] [B/d/][c/=f/][d/^f/][c/=f/] [f/g/][d/^f/][c/=f/][B/d/] |[_B2c2] [FB][Bc] [d3/2f3/2][B/c/] |[c/=f/][B/d/][_B/c/][G/=B/] [_B2c2] [G2=B2] |[F4_B4] [B/c/][=B/d/][c=f] |
+[_B2f2] [B3/2f3/2][c/_b/] [c/b/][=B/g/][_B/f/][G/=f/] |[_B2f2] [B2c2] [C/F/][F/B/][Bc] |[_B2f2] [Bf][=B/g/][c/_b/] [=B3/2g3/2][_B/f/] |[_B2f2] [G2=f2] [B3/2^f3/2][c/=f/] |[B3d3] [B/=f/][B/^f/] [=f/g/][d/^f/][c/=f/][B/d/] |
+[_B2c2] [FB][Bc] [d3/2f3/2][B/c/] |[c/=f/][B/d/][_B/c/][G/=B/] [^F2_B2] [=F2G2] |F4 [_B/c/][=B/d/][c=f] |[_B2f2] [B3/2f3/2][c/_b/] [c/b/][=B/g/][_B/f/][G/=f/] |[_B2f2] [B2c2] [C/F/][F/B/][Bc] |[_B2f2] [Bf][=B/g/][c/_b/] [=B3/2g3/2][_B/f/] |
+[_B2f2] [G2=f2] [B3/2^f3/2][c/=f/] |[B3d3] [B/=f/][B/^f/] [=f/g/][d/^f/][c/=f/][B/d/] |[c2_B2] [FB][Bc] [d3/2f3/2][B/c/] |[c/=f/][B/d/][_B/c/][G/=B/] [^F2_B2] [=F2G2] |F4 [_B3/2c3/2][G/=B/] |[F3/2_B3/2][=F/G/] [C^F][=FG] [^FB][G=B] |
+[_B3/2c3/2][A/=c/] [B^c][=Bd] [c=f][_Bc] |[_B3/2f3/2][G/=f/] [B^f][=B/g/][c/_b/] [=Bg][_Bf] |[_B2f2] [G2=f2] [B3/2^f3/2][c/=f/] |[B2d2] [B/d/][c/=f/][d/^f/][c/=f/] [f/g/][d/^f/][c/=f/][B/d/] |[_B2c2] [FB][Bc] [d3/2f3/2][B/c/] |
+[c/=f/][B/d/][_B/c/][G/=B/] [_B2c2] [G2=B2] |[F4_B4] [B3/2c3/2][G/=B/] |[F3/2_B3/2][=F/G/] [C^F][=FG] [^FB][G=B] |[_B3/2c3/2][A/=c/] [B^c][=Bd] [c=f][_Bc] |[_B3/2f3/2][G/=f/] [B^f][=B/g/][c/_b/] [=Bg][_Bf] |
+[_B2f2] [G2=f2] [B3/2^f3/2][c/=f/] |[B2d2] [B/d/][c/=f/][d/^f/][c/=f/] [f/g/][d/^f/][c/=f/][B/d/] |[_B2c2] [FB][Bc] [d3/2f3/2][B/c/] |[c/=f/][B/d/][_B/c/][G/=B/] [_B2c2] [G2=B2] |[F6-_B6-] |[F2_B2] z4 |]
+     %End of file
+
+X: 8
+%%Orig filename was TheCoolin__Lute2.abc
+T:The Coolin part 2 (2:13)
+%%part-name Basic Lute
+C:Arranged by Fafnir
+Q:1/4=91
+M:3/4
+L:1/8
+K:E
+z6 |[FF,4] _B cF [GC2] =B |[FF,4] _B cF [C2B]c |[FF,4] _B cF [BC] c |[DC2] F cC [C2=F]c |[DB,6] F BD FB |[C_B,2] F [BF,2] C [FC,2] B |C2 cC [CcC,2] [B=F] |[CF,4] F _Bc [C,2f]b |[F,4F]_B cF [C2G]=B |
+[FF,4] _B cF [BC2] c |[FF,4] _B cF [CB]c |[DC2] F cC [=FC2] c |[DB,6] F BD FB |[C_B,2] F [BF,2] C [FC,2] B |C2 cC [CcC,2] [=FB] |[CF,4] F _Bc [C,2f]b |[CF,2] F _BC [FF,2] B |[CF,4] F _BC [=F=F,2] C |
+[CF,2] F _BC [FF,2] B |CF cC [FC2] c |[DB,2] F [B_B,2] D [FG,2] _B |[C_B,2] F [BF,2] C [FC,2] B |C2 cC [CcC,2] [=FB] |[CF,4] F _Bc [fC,2] b |[CF,2] F _BC [FF,2] B |[CF,4] F _BC [=F=F,2] C |[CF,2] F _BC [FF,2] B |
+CF cC [FC2] c |[DB,2] F [B_B,2] D [FG,2] _B |[C_B,2] F [BF,2] C [FC,2] B |C2 cC [CcC,2] [=FB] |[CF,6] F _Bc fb |[FF,4] _B cF [GC2] =B |[FF,4] _B cF [BC2] c |[FF,4] _B cF [BC2] c |[DC2] F cC [=FC2] c |
+[DB,6] F BD FB |[C_B,2] F [BF,2] C [FC,2] B |C2 cC [CcC,2] [=FB] |[CF,4] F _Bc [fC,2] b |[F_BF,4] B cF [GC2B2] =B |[F_BF,4] B cF [zC2B2] c |[F_BF,4] B cF [zC2B2] c |[D_B2C2] F [cG2] C [=FC2G2] c |[DB2B,6] F BD [FB]B |
+[C_B,2_B2] F [BF,2] C [FBC,2] B |[cC] cC [CC,2c2] [=FB] |[Cc3F,4] F _Bc [fC,2] b |[CF,4] F _BC [FF,2] B |[CF,4] F _BC [=F=F,2] C |[CF,4] F _BC [FF,2] B |CF cC [FC2] c |[DB,2] F [B_B,2] D [FG,2] _B |
+[C_B,2] F [BF,2] C [FC,2] B |C cC [CcC,2] [=FB] |[CF,4] F _Bc [fC,2] b |[C_B2F,4] F BC [FBF,2] B |[C_B2F,4] F BC [=F=F,2B2] C |[C_B2F,4] F BC [FBF,2] B |[zc2C2] F cC [FcC2] c |[DB,2B2] F [_B,2_B]D [FBG,2] B |
+[C_B,2_B2] F [BF,2] C [FBC,2] B |[c2C2] cC [CC,2c2] [=FB] |[CF,3c3] z3 [cF,2-]F |[_BF,]f b [F,3c3] |]
+     %End of file
+

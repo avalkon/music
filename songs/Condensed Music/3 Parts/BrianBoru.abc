@@ -1,0 +1,253 @@
+N: TS  3,   8  21  22
+X: 8
+%%Orig filename was BrianBoruLute1.abc
+T:Brian Borus March (Basic Lute 1) (1:55)
+%%part-name Basic Lute 1
+M:4/4
+L:1/8
+Q:1/4=151
+K:C % 0 sharps
+% Melody Lute
+x4
+^fe dB| \
+BB ^fe dB BB| \
+ed ^cA AA ed| \
+^cA AA ^fe dB|
+BB ^fe dB BB-| \
+B^F B^c d^f3/2x/2e| \
+dB BB ^fe dB| \
+BB ^fe dB BB|
+ed ^cA AA ed| \
+^cA AA ^fe dB| \
+BB ^fe dB BB-| \
+B^F B^c d^f3/2x/2e|
+dB BB2^F B^c| \
+d^f3/2x/2e ^f3/2x/2 e^f| \
+e^c AB ^ce ^cA| \
+e^c Ae ^cA B^c|
+d^f3/2x/2e ^f3/2x/2 e^f-| \
+^f/2x/2e d^c B^f3/2x/2e| \
+dB BB3/2x/2^F B^c| \
+d^f3/2x/2e ^f3/2x/2 e^f|
+e^c AB ^ce ^cA| \
+e^c Ae ^cA B^c| \
+d^f3/2x/2e ^f3/2x/2 e^f-| \
+^f/2x/2e d^c B^f3/2x/2e|
+dB BB3/2x/2^c d^c| \
+Bb3/2x/2B d^c Bb-| \
+b/2x/2B ^cB Aa3/2x/2A| \
+^cB Aa3/2x/2^c d^c|
+Bb3/2x/2^c d^c Bb-| \
+b/2x/2^F B^c d^f3/2x/2e| \
+dB BB3/2x/2^c d^c| \
+Bb3/2x/2B d^c Bb-|
+b/2x/2B ^cB Aa3/2x/2A| \
+^cB Aa3/2x/2^c d^c| \
+Bb3/2x/2^c d^c Bb-| \
+b/2x/2^F B^c d^f3/2x/2e|
+dB BB e^f dB| \
+BB ^fe dB BB| \
+ed ^cA AA ed| \
+^cA AA ^fe dB|
+BB ^fe dB BB-| \
+B^F B^c d^f3/2x/2e| \
+dB BB ^fe dB| \
+BB ^fe dB BB|
+ed ^cA AA ed| \
+^cA AA ^fe dB| \
+BB ^fe dB BB-| \
+B^F B^c d^f3/2x/2e|
+dB BB2^F B^c| \
+d^f3/2x/2e ^f3/2x/2 e^f| \
+e^c AB ^ce ^cA| \
+e^c Ae ^cA B^c|
+d^f3/2x/2e ^f3/2x/2 e^f-| \
+^f/2x/2e d^c B^f3/2x/2e| \
+dB BB3/2x/2^F B^c| \
+d^f3/2x/2e ^f3/2x/2 e^f|
+e^c AB ^ce ^cA| \
+e^c Ae ^cA B^c| \
+d^f3/2x/2e ^f3/2x/2 e^f-| \
+^f/2x/2e d^c B^f3/2x/2e|
+dB BB3/2x/2^c d^c| \
+Bb3/2x/2B d^c Bb-| \
+b/2x/2B ^cB Aa3/2x/2A| \
+^cB Aa3/2x/2^c d^c|
+Bb3/2x/2^c d^c Bb-| \
+b/2x/2^F B^c d^f3/2x/2e| \
+dB BB3/2x/2^c d^c| \
+Bb3/2x/2B d^c Bb-|
+b/2x/2B ^cB Aa3/2x/2A| \
+^cB Aa3/2x/2^c d^c| \
+Bb3/2x/2^c d^c Bb-| \
+b/2x/2^F B^c d^f3/2x/2e|
+dB BB2
+
+X: 21
+%%Orig filename was BrianBoruLute2.abc
+T:Brian Borus March (Basic Lute 2) (1:56)
+%%part-name Basic Lute 2
+M:4/4
+L:1/8
+Q:1/4=151
+K:C % 0 sharps
+% Right Hand Lute
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x2
+[^F2-D2-B,2-] [^F/2D/2B,/2]x/2[E2-^C2-A,2-][E/2^C/2A,/2]x/2| \
+[^F4-D4-B,4-] [^FDB,]x3| \
+x8|
+x8| \
+x8| \
+x8| \
+x2 [^F2-D2-B,2-] [^F/2D/2B,/2]x/2[E2-^C2-A,2-][E/2^C/2A,/2]x/2|
+[^F4-D4-B,4-] [^FDB,]x3| \
+[^FDB,]x2[^FDB,] x2 [^FDB,]x| \
+x[^FDB,] x2 [E^CA,]x2[E^CA,]| \
+x2 [E^CA,]x2[E^CA,] x2|
+[^FDB,]x2[^FDB,] x2 [^FDB,]x| \
+x[^FDB,] x2 [^FDB,]x2[E^CA,]| \
+x2 [^FDB,]x2[^FDB,] x2| \
+[^FDB,]x2[^FDB,] x2 [^FDB,]x|
+x[^FDB,] x2 [E^CA,]x2[E^CA,]| \
+x2 [E^CA,]x2[E^CA,] x2| \
+[^FDB,]x2[^FDB,] x2 [^FDB,]x| \
+x[^FDB,] x2 [^FDB,]x2[E^CA,]|
+[^F4-D4-B,4-] [^FDB,]x B,3/2x/2| \
+^CD3/2x/2E ^F3/2x/2 G^F| \
+ED A,3/2x/2 B,^C3/2x/2D| \
+ED ^C^F, G,E ^F3/2x/2|
+BG ^FE ^FE DB,| \
+^CD ^FE ^FB ^cA| \
+B^F ED3/2x3/2 B,3/2x/2| \
+^CD3/2x/2E ^F3/2x/2 G^F|
+ED A,3/2x/2 B,^C3/2x/2D| \
+ED ^C^F, G,E ^F3/2x/2| \
+BG ^FE ^FE DB,| \
+^CD ^FE ^FB ^cA|
+B^F E[^F2-D2-B,2-][^F/2D/2B,/2]x2x/2| \
+x8| \
+x8| \
+x8|
+x8| \
+x2 [^F2-D2-B,2-] [^F/2D/2B,/2]x/2[E2-^C2-A,2-][E/2^C/2A,/2]x/2| \
+[^F4-D4-B,4-] [^FDB,]x3| \
+x8|
+x8| \
+x8| \
+x8| \
+x2 [^F2-D2-B,2-] [^F/2D/2B,/2]x/2[E2-^C2-A,2-][E/2^C/2A,/2]x/2|
+[^F4-D4-B,4-] [^FDB,]x3| \
+[^FDB,]x2[^FDB,] x2 [^FDB,]x| \
+x[^FDB,] x2 [E^CA,]x2[E^CA,]| \
+x2 [E^CA,]x2[E^CA,] x2|
+[^FDB,]x2[^FDB,] x2 [^FDB,]x| \
+x[^FDB,] x2 [^FDB,]x2[E^CA,]| \
+x2 [^FDB,]x2[^FDB,] x2| \
+[^FDB,]x2[^FDB,] x2 [^FDB,]x|
+x[^FDB,] x2 [E^CA,]x2[E^CA,]| \
+x2 [E^CA,]x2[E^CA,] x2| \
+[^FDB,]x2[^FDB,] x2 [^FDB,]x| \
+x[^FDB,] x2 [^FDB,]x2[E^CA,]|
+[^F4-D4-B,4-] [^FDB,]x B,3/2x/2| \
+^CD3/2x/2E ^F3/2x/2 G^F| \
+ED A,3/2x/2 B,^C3/2x/2D| \
+ED ^C^F, G,E ^F3/2x/2|
+BG ^FE ^FE DB,| \
+^CD ^FE ^FB ^cA| \
+B^F ED3/2x3/2 B,3/2x/2| \
+^CD3/2x/2E ^F3/2x/2 G^F|
+ED A,3/2x/2 B,^C3/2x/2D| \
+ED ^C^F, G,E ^F3/2x/2| \
+BG ^FE ^FE DB,| \
+^CD ^FE ^FB ^cA|
+B^F E[^F2-D2-B,2-][^F/2D/2B,/2]
+
+X: 22
+%%Orig filename was BrianBoruLute3.abc
+T:Brian Borus March (Basic Lute 3) (1:56)
+%%part-name Basic Lute 3
+M:4/4
+L:1/8
+Q:1/4=151
+K:C % 0 sharps
+% Left Hand Lute
+x6
+B,2-| \
+B,3x B,4-| \
+B,x A,4- A,x| \
+A,4- A,x B,2-|
+B,3x B,4-| \
+B,x B,2- B,/2x/2A,2-A,/2x/2| \
+B,4- B,x B,2-| \
+B,3x B,4-|
+B,x A,4- A,x| \
+A,4- A,x B,2-| \
+B,3x B,4-| \
+B,x B,2- B,/2x/2A,2-A,/2x/2|
+B,4- B,x B,3/2x/2| \
+xB,3/2x3/2 B,3/2x3/2B,-| \
+B,/2x3/2 A,3/2x3/2A,3/2x3/2| \
+A,3/2x3/2A,3/2x3/2 B,3/2x/2|
+xB,3/2x3/2 B,3/2x3/2B,-| \
+B,/2x3/2 B,3/2x3/2A,3/2x3/2| \
+B,3/2x3/2B,3/2x3/2 B,3/2x/2| \
+xB,3/2x3/2 B,3/2x3/2B,-|
+B,/2x3/2 A,3/2x3/2A,3/2x3/2| \
+A,3/2x3/2A,3/2x3/2 B,3/2x/2| \
+xB,3/2x3/2 B,3/2x3/2B,-| \
+B,/2x3/2 B,3/2x3/2A,3/2x3/2|
+B,4 ^F,A, [^F,2-B,2-]| \
+[^F,3B,3]x [^F,4-B,4-]| \
+[^F,B,]x [E,4-A,4-] [E,A,]x| \
+[E,4-A,4-] [E,A,]x [^F,2-B,2-]|
+[^F,3B,3]x [^F,4-B,4-]| \
+[^F,B,]x [^F,2-B,2-] [^F,/2B,/2]x/2[E,2-A,2-][E,/2A,/2]x/2| \
+[^F,4-B,4-] [^F,B,]x [^F,2-B,2-]| \
+[^F,3B,3]x [^F,4-B,4-]|
+[^F,B,]x [E,4-A,4-] [E,A,]x| \
+[E,4-A,4-] [E,A,]x [^F,2-B,2-]| \
+[^F,3B,3]x [^F,4-B,4-]| \
+[^F,B,]x [^F,2-B,2-] [^F,/2B,/2]x/2[E,2-A,2-][E,/2A,/2]x/2|
+[^F,2-B,2-] [^F,/2B,/2]x/2[^F,2-B,2-][^F,/2B,/2]x/2 B,2-| \
+B,3x B,4-| \
+B,x A,4- A,x| \
+A,4- A,x B,2-|
+B,3x B,4-| \
+B,x B,2- B,/2x/2A,2-A,/2x/2| \
+B,4- B,x B,2-| \
+B,3x B,4-|
+B,x A,4- A,x| \
+A,4- A,x B,2-| \
+B,3x B,4-| \
+B,x B,2- B,/2x/2A,2-A,/2x/2|
+B,4- B,x B,3/2x/2| \
+xB,3/2x3/2 B,3/2x3/2B,-| \
+B,/2x3/2 A,3/2x3/2A,3/2x3/2| \
+A,3/2x3/2A,3/2x3/2 B,3/2x/2|
+xB,3/2x3/2 B,3/2x3/2B,-| \
+B,/2x3/2 B,3/2x3/2A,3/2x3/2| \
+B,3/2x3/2B,3/2x3/2 B,3/2x/2| \
+xB,3/2x3/2 B,3/2x3/2B,-|
+B,/2x3/2 A,3/2x3/2A,3/2x3/2| \
+A,3/2x3/2A,3/2x3/2 B,3/2x/2| \
+xB,3/2x3/2 B,3/2x3/2B,-| \
+B,/2x3/2 B,3/2x3/2A,3/2x3/2|
+B,4 ^F,A, [^F,2-B,2-]| \
+[^F,3B,3]x [^F,4-B,4-]| \
+[^F,B,]x [E,4-A,4-] [E,A,]x| \
+[E,4-A,4-] [E,A,]x [^F,2-B,2-]|
+[^F,3B,3]x [^F,4-B,4-]| \
+[^F,B,]x [^F,2-B,2-] [^F,/2B,/2]x/2[E,2-A,2-][E,/2A,/2]x/2| \
+[^F,4-B,4-] [^F,B,]x [^F,2-B,2-]| \
+[^F,3B,3]x [^F,4-B,4-]|
+[^F,B,]x [E,4-A,4-] [E,A,]x| \
+[E,4-A,4-] [E,A,]x [^F,2-B,2-]| \
+[^F,3B,3]x [^F,4-B,4-]| \
+[^F,B,]x [^F,2-B,2-] [^F,/2B,/2]x/2[E,2-A,2-][E,/2A,/2]x/2|
+[^F,2-B,2-] [^F,/2B,/2]x/2[^F,2-B,2-][^F,/2B,/2]
+

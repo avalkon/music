@@ -1,0 +1,76 @@
+N: TS  3,   8   5  18
+X: 8
+%%Orig filename was LisdoonBass.abc
+T:Road to Lisdoonvarna THEORBO {SHANTOTTO} (0:57)
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+L:1/4
+Q:90
+%%part-name Basic Theorbo
+K:C
+z3/2 D3/4 D3/4 D3/4 D3/4 A,3/4 A,3/4 A,3/4 A,3/4 D3/4 D3/4 D3/4 D3/4
+G,3/4 G,3/4 D3/4 D3/4 D3/4 D3/4 D3/4 D3/4 A,3/4 A,3/4 A,3/4 A,3/4
+D3/4 D3/4 D3/4 D3/4 G,3/4 G,3/4 C3/4 C3/4 D3/4 D/4 C/2 A,3/4 A,/4
+G,/2 G,3/4 G,/4 A,/2 C3/4 A,3/4 D3/4 D/4 C/2 A,3/4 A,/4 G,/2 G,3/4
+G,/4 A,/2 [C/8D3/4] z5/8 D3/4 D3/4 D3/4 D3/4 D3/4 A,3/4 A,3/4 A,3/4
+A,3/4 D3/4 D3/4 D3/4 D3/4 G,3/4 G,3/4 D3/4 D3/4 D3/4 D3/4 D3/4 D3/4
+A,3/4 A,3/4 A,3/4 A,3/4 D3/4 D3/4 D3/4 D3/4 G,3/4 G,3/4 C3/4 C3/4
+D3/4 D/4 C/2 A,3/4 A,/4 G,/2 G,3/4 G,/4 A,/2 C3/4 A,3/4 D3/4 D/4 C/2
+A,3/4 A,/4 G,/2 G,3/4 G,/4 A,/2 [C/8D3/4] z5/8 D3/4 D3/4 D/4 C/2
+A,3/4 A,/4 G,/2 G,3/4 G,/4 A,/2 C3/4 A,3/4 D3/4 D/4 C/2 A,3/4 A,/4
+G,/2 G,3/4 G,/4 A,/2 [C/8D3/4] z5/8 D3/4
+
+X: 5
+%%Orig filename was LisdoonHarpLute.abc
+T:Road to Lisdoonvarna STRINGS {SHANTOTTO} (0:57)
+%%part-name Basic Lute
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+L:1/4
+Q:90
+K:C
++p+ z3/2 [f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[e3/2c3/2A3/2E3/2A,3/2] [f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2]
+[g3/2B3/2G3/2D3/2B,3/2G,3/2] [f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2]
+[f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2] [g3/2B3/2G3/2D3/2B,3/2G,3/2]
+[f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[g3/2B3/2G3/2D3/2B,3/2G,3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[g3/2B3/2G3/2D3/2B,3/2G,3/2] [f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2]
+[f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2] [g3/2B3/2G3/2D3/2B,3/2G,3/2]
+[f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2]
+[e3/2c3/2A3/2E3/2A,3/2] [e3/2c3/2A3/2E3/2A,3/2] [f3/2d3/2A3/2D3/2]
+[f3/2d3/2A3/2D3/2] [g3/2B3/2G3/2D3/2B,3/2G,3/2] [f3/2d3/2A3/2D3/2]
+[f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[g3/2B3/2G3/2D3/2B,3/2G,3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[g3/2B3/2G3/2D3/2B,3/2G,3/2] [f3/2d3/2A3/2D3/2] [f3/2d3/2A3/2D3/2]
+[e3/2c3/2A3/2E3/2A,3/2] [g3/2B3/2G3/2D3/2B,3/2G,3/2]
+[e3/2c3/2A3/2E3/2A,3/2] [f3/2d3/2A3/2D3/2] [e3/2c3/2A3/2E3/2A,3/2]
+[g3/2B3/2G3/2D3/2B,3/2G,3/2] [f3/2d3/2A3/2D3/2]
+
+X: 18
+%%Orig filename was LisdoonPipes.abc
+T:Road to Lisdoonvarna PIPES {SHANTOTTO} (1:12)
+%%part-name Basic Bagpipe
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+L:1/4
+Q:90
+K:C
++mp+ [A,3/2z5/4] C/4 [D/2A,12] A/4 A/2 G/4 A/2 B/4 c/2 z/4 E/2 G/4 G/4 A/4
+G/4 C/2 D/4 E/4 D/4 C/4 D/2 A/4 A/2 G/4 A/2 B/4 c/2 z/4 B/4 c/4 B/4
+A/2 G/4 A/2 D/4 D/2 C/4 [A,12D/2] A/4 A/2 G/4 A/2 B/4 c/2 z/4 E/2 G/4
+G/4 A/4 G/4 C/2 D/4 E/4 D/4 C/4 D/2 A/4 A/2 G/4 A/2 B/4 c/2 z/4 B/4
+c/4 B/4 A/2 G/4 A/2 D/4 D/2 z/4 [d/2A,12] e/4 f/4 e/4 d/4 c/2 A/4 A/4
+B/4 c/4 B/2 G/4 G/4 A/4 B/4 c/2 A/4 A/2 z/4 d/2 e/4 f/4 e/4 d/4 c/2
+A/4 A/4 B/4 c/4 B/4 c/4 B/4 A/2 G/4 A/2 D/4 D/2 z/4 [D/2A,12] A/4 A/2
+G/4 A/2 B/4 c/2 z/4 E/2 G/4 G/4 A/4 G/4 C/2 D/4 E/4 D/4 C/4 D/2 A/4
+A/2 G/4 A/2 B/4 c/2 z/4 B/4 c/4 B/4 A/2 G/4 A/2 D/4 D/2 C/4 [A,12D/2]
+A/4 A/2 G/4 A/2 B/4 c/2 z/4 E/2 G/4 G/4 A/4 G/4 C/2 D/4 E/4 D/4 C/4
+D/2 A/4 A/2 G/4 A/2 B/4 c/2 z/4 B/4 c/4 B/4 A/2 G/4 A/2 D/4 D/2 z/4
+[d/2A,12] e/4 f/4 e/4 d/4 c/2 A/4 A/4 B/4 c/4 B/2 G/4 G/4 A/4 B/4 c/2
+A/4 A/2 z/4 d/2 e/4 f/4 e/4 d/4 c/2 A/4 A/4 B/4 c/4 B/4 c/4 B/4 A/2
+G/4 A/2 D/4 D/2 z/4 [d/2A,12] e/4 f/4 e/4 d/4 c/2 A/4 A/4 B/4 c/4 B/2
+G/4 G/4 A/4 B/4 c/2 A/4 A/2 z/4 d/2 e/4 f/4 e/4 d/4 c/2 A/4 A/4 B/4
+c/4 B/4 c/4 B/4 A/2 G/4 A/2 D/4 D/2
+

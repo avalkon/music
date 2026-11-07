@@ -1,0 +1,47 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was DoggyBlues-lute.abc
+T:Doggy Blues [v.1 Giddily] (5:02)
+Q:1/4=120   
+M:4/4     
+L:1/8    
+%%part-name Basic Lute
+K:C
+[b2d2g2] z3 D, E,^F, |G,B D_B =BG G,A, |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [B_B][=BB] [G/=B/]EG/ |G,g f/ed/ [_BB][G=B] G,A, |_B,B EG [E,E]D E/GA,/ |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][=BB] [G/=B/]EG/ |
+G,g DD, [gG,]_B |B_B [D=B][_B^C] =CA, |
+[A,E]g [^cgE]E, [cgA,][ec] A,/_B,=B,/ |D[cd] [dc][dc] E/_B^F/ [BE,^c][=cA] |[G,BG]g DD, [gG,]D, E,^F, |G,B D_B =BG G,A, |_B,B EG [E,E]D [EE,]D, |G,g f/ed/ [_BB][=BB] [=B/G/]EG/ |G,g f/ed/ [_BB][G=B] G,A, |
+_B,B EG [E,E]D E/GA,/ |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [B_B][B=B] [G/=B/]EG/ |
+G,g DD, [gG,]_B |B_B [=BD][^C_B] =CA, |
+[A,E]g [g^cE]E, [cA,g][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [B^cE,][A=c] |[GBG,]g DD, [gG,]D, E,^F, |[G,GB][Ac] [^c_BD][=Bd] D,[c_B] [DA=c]D, |[G,BG][cA] [D_B^c][d=B] D,2 E,^F, |[G,GB][cA] [D_B^c][=Bd] D,[c_B] [DA=c][G=B] |
+G,d [E/^c/]=c_B/ [F=B]f DG, |[G_be]g c_e [=eG]g Gg/a/ |[_bc]a bg D2 C=B, |[GdD]g B,_B, [DG^c]A, [D=cA]G, |[DGB]g DD, [gG,]_B =B_B |
+[DB]g B,/dA,/ [EA^c]E, |[^cA,A]g Ee A,/_B,=B,/ |
+D[cd] [cd][cd] E,E _B,G |G,g f/ed/ [B_B][=BB] D//_E//=E//G//E |[GG,]g DD, [G,g]D, E,^F, |[GG,B][Ac] [D^c_B][=Bd] D,[_Bc] [=cAD]D, |[G,GB][cA] [_BD^c][=Bd] D,2 E,^F, |[BG,G][cA] [D_B^c][=Bd] D,[_Bc] [DA=c][G=B] |
+G,d [E/^c/]=c_B/ [F=B]f DG, |[Ge_b]g c_e [G=e]g Gg/a/ |[c_b]a bg D2 C=B, |[DGd]g B,_B, [DG^c]A, [DA=c]G, |[DGB]g DD, [G,g]_B =B_B |
+[DB]g B,/dA,/ [EA^c]E, |[A,A^c]g Ee A,/_B,=B,/ |
+D[cd] [cd][cd] E,E _B,G |G,g f/ed/ [_BB][B=B] D//_E//=E//G//E |[G,G]g DD, [G,g]D, E,^F, |G,B D_B =BG G,A, |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |G,g f/ed/ [_BB][G=B] G,A, |_B,B EG [E,E]D E/GA,/ |
+_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [G,g]D, E,^F, |G,B D_B =BG G,A, |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |G,g f/ed/ [_BB][G=B] G,A, |
+_B,B EG [E,E]D E/GA,/ |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [G,g]D, E,^F, |G,[dgb] [dgb][dgb] [dgb][dgb] D,_E, |E,G, [d/g/_b/][dgb][d/g/b/] [dgb]^f dc |[G,GB][GBg] [G/B/g/][GBg][G/B/g/] f3/4e/d/[_B/B/] A/G/E//[G,/-G/-]|
+[G,G]g [GBg]D, [G,Bf][Bf] D,C |G[ce_b] [ceb][ceb] [ceb][ceb] D/E/G |[CA][ce_b] [ceb][ceb] [ceg][=Bd] c/BG/ |G,g f/ed/ [_BB][B=B] D/EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [gG,]D, E,^F, |G,[dgb] [dgb][dgb] [dgb][dgb] D,_E, |E,G, [d/g/_b/][dgb][d/g/b/] [dgb]^f dc |[G,GB][GBg] [G/B/g/][GBg][G/B/g/] f3/4e/d/[_B/B/] A/G/E//[G,/-G/-]|
+[G,G]g [GBg]D, [G,Bf][Bf] D,C |G[ce_b] [ceb][ceb] [ceb][ceb] D/E/G |[CA][ce_b] [ceb][ceb] [ceg][=Bd] c/BG/ |G,g f/ed/ [_BB][B=B] D/EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [G,g]D, E,^F, |G,B D_B =BG G,A, |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |G,g f/ed/ [_BB][G=B] G,A, |
+_B,B EG [E,E]D E/GA,/ |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [G,g]D, E,^F, |[G,GB][Ac] [D_B^c][=Bd] D,[_Bc] [DA=c]D, |[G,GB][Ac] [D_B^c][=Bd] D,2 E,^F, |[G,GB][Ac] [D_B^c][=Bd] D,[_Bc] [DA=c][G=B] |
+G,d [E/^c/]=c_B/ [F=B]f DG, |[Ge_b]g c_e [G=e]g Gg/a/ |[c_b]a bg D2 C=B, |[DGd]g B,_B, [DG^c]A, [DA=c]G, |[DGB]g DD, [G,g]_B =B_B |
+[DB]g B,/dA,/ [EA^c]E, |[A,A^c]g Ee A,/_B,=B,/ |
+D[cd] [cd][cd] E,E _B,G |G,g f/ed/ [_BB][B=B] D//_E//=E//G//E |[G,G]g DD, [G,g]D, E,^F, |G,B D_B =BG G,A, |_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |G,g f/ed/ [_BB][G=B] G,A, |_B,B EG [E,E]D E/GA,/ |
+_B,B EG [E,E]D [E,E]D, |G,g f/ed/ [_BB][B=B] [G/=B/]EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [G,g]D, E,^F, |G,[dgb] [dgb][dgb] [dgb][dgb] D,_E, |E,G, [d/g/_b/][dgb][d/g/b/] [dgb]^f dc |[G,GB][GBg] [G/B/g/][GBg][G/B/g/] f3/4e/d/[_B/B/] A/G/E//[G,/-G/-]|
+[G,G]g [GBg]D, [G,Bf][Bf] D,C |G[ce_b] [ceb][ceb] [ceb][ceb] D/E/G |[CA][ce_b] [ceb][ceb] [ceg][=Bd] c/BG/ |G,g f/ed/ [_BB][B=B] D/EG/ |
+G,g DD, [G,g]_B |B_B [D=B][^C_B] =CA, |
+[A,E]g [E^cg]E, [A,cg][ce] A,/_B,=B,/ |D[cd] [cd][cd] E/_B^F/ [E,B^c][A=c] |[G,GB]g DD, [G,g]D, E,^F, |G,[dgb] [dgb][dgb] [dgb][dgb] D,_E, |E,G, [d/g/_b/][dgb][d/g/b/] [dgb]^f dc |[G,GB][GBg] [G/B/g/][GBg][G/B/g/] f3/4e/d/[_B/B/] A/G/E//[G,/-G/-]|
+[G,G]g [GBg]D, [G,Bf][Bf] D,C |G[ce_b] [ceb][ceb] [ceb][ceb] D/E/G |[CA][ce_b] [ceb][ceb] [ceg][=Bd] c/BG/ |G,g f/ed/ [_BB][B=B] [^F/=B/]AB/ |[A,^F]d [E,/c/]^c/=c/G/ [G,4-E4-B4-] |[G,4E4B4] z4 |]
+

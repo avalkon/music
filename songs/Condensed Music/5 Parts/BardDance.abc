@@ -1,0 +1,136 @@
+N: TS  5,   1   5   4   8  18
+X: 1
+%%Orig filename was BardDanceFlute.abc
+T: Bard Dance-flute (Enya) (1:38)
+%%part-name Basic Flute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: bard2.mid
+%  Transpose: -5
+L: 1/4
+Q: 120
+K: C
+
+z16 z16 z16 z16 z5/4 f5/8 a5/8 g3/4 c'5/8 a5/8 z/8 f5/4 f3/8 g3/8 a5/8
+a/4 g/8 f/4 z/8 f5/8 e5/8 c3/4 d/4 e3/8 f11/8 f5/8 a3/4 g5/8 c'5/8
+z/8 a5/8 f5/4 z/8 f/4 g3/8 a5/8 z/8 a/8 g/8 f/4 z/8 f5/8 e3/4 f5/4
+f11/8 a11/8 g5/8 c'3/4 a5/8 f11/8 f3/8 g/4 a3/4 [a/4z/8] g/8 f/4 z/8
+f5/8 z/8 e5/8 c5/8 d3/8 e3/8 f5/4 z/8 a5/4 g3/4 c'5/8 a5/8 z/8 f5/4
+f3/8 g3/8 a5/8 [a/4z/8] g/4 f/4 f3/4 e5/8 f11/8 f11/8 z16 z45/8 a11/8
+g3/4 c'5/8 a3/4 f11/8 f3/8 g/4 z/8 a5/8 [a/4z/8] g/4 f/4 z/8 f5/8
+e3/4 c5/8 d3/8 e3/8 f11/8 a11/8 g5/8 c'3/4 a5/8 f11/8 f3/8 g3/8 a5/8
+a/4 g/8 f/4 z/8 f5/8 e3/4 f11/4 z16 z6 a5/4 g3/4 c'5/8 a3/4 f11/8 f/4
+g3/8 a5/8 z/8 a/8 g/8 f/4 z/8 f5/8 z/8 e5/8 c5/8 d3/8 e3/8 f11/8
+a11/8 g5/8 c'5/8 z/8 a5/8 f11/8 f3/8 g/4 a3/4 [a/4z/8] g/8 z/8 f/8
+z/8 f3/4 e5/8 f11/4
+
+X: 5
+%%Orig filename was BardDanceHarp.abc
+T: Bard Dance-harp (Enya) (1:35)
+%%part-name Basic Harp
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: bard2.mid
+%  Transpose: -5
+L: 1/4
+Q: 120
+K: C
+
+D3/8 A/4 d3/4 F3/8 c/4 f3/4 D/4 z/8 A/4 d3/4 z11/8 F/4 c3/8 f5/8 z/8
+C/4 G3/8 c5/8 z11/8 D3/8 A3/8 d5/8 D3/8 A3/8 d5/8 F3/8 c3/8 f5/8 D3/8
+A/4 z/8 d5/8 z11/8 F3/8 c/4 f3/4 C/4 z/8 G/4 c3/4 D/4 A3/8 d3/4 z11/8
+D/4 A3/8 d5/8 F3/8 c3/8 f5/8 D3/8 A3/8 d5/8 z11/8 F3/8 c3/8 f5/8 C3/8
+G/4 z/8 c5/8 z11/8 D3/8 A/4 d3/4 D/4 z/8 A/4 d3/4 F/4 c3/8 f3/4 D/4
+A3/8 d5/8 z11/8 F3/8 c3/8 f5/8 C3/8 G3/8 c5/8 D3/8 A/4 z/8 d5/8 z11/8
+F3/8 c/4 f3/4 C/4 z/8 G/4 c5/8 z/8 F/4 c3/8 f5/8 z11/8 F3/8 c/4 z/8
+f5/8 z11/8 D/4 z/8 A/4 d5/8 z/8 A/4 e3/8 a5/8 F3/8 c3/8 f5/8 C3/8 G/4
+z/8 c5/8 F/4 z/8 c/4 f3/4 z11/8 F/4 c3/8 f5/8 z11/8 D3/8 A/4 d3/4 A/4
+z/8 e/4 a3/4 D/4 A3/8 d5/8 F3/8 c3/8 f5/8 D3/8 A3/8 d5/8 z11/8 F/4
+z/8 c/4 f5/8 z/8 C/4 G3/8 c5/8 z11/8 D3/8 A/4 z/8 d5/8 D3/8 A/4 d3/4
+F/4 c3/8 f5/8 z/8 D/4 A3/8 d5/8 z11/8 F3/8 c/4 z/8 f5/8 C/4 z/8 G/4
+c3/4 D/4 A3/8 d5/8 z11/8 D3/8 A3/8 d5/8 F3/8 c/4 f3/4 D/4 z/8 A/4
+d3/4 z5/4 F3/8 c3/8 f5/8 C3/8 G/4 z/8 c5/8 z11/8 D/4 A3/8 d5/8 z/8
+D/4 A3/8 d5/8 F3/8 c3/8 f5/8 D3/8 A/4 z/8 d5/8 z11/8 F/4 c3/8 f5/8
+C3/8 G3/8 c5/8 D3/8 A3/8 d5/8 z11/8 F/4 z/8 c/4 f5/8 z/8 C/4 G3/8
+c5/8 F3/8 c3/8 f5/8 z11/8 F/4 z/8 c/4 f3/4 z11/8 D/4 A3/8 d5/8 A3/8
+e3/8 a5/8 F3/8 c/4 z/8 f5/8 C/4 z/8 G/4 c5/8 z/8 F/4 c3/8 f5/8 z11/8
+F3/8 c3/8 f5/8 z11/8 D3/8 A3/8 d5/8 A3/8 e3/8 a5/8 D3/8 A3/8 d5/8
+F3/8 c3/8 f5/8 D3/8 A3/8 d5/8 z3/2 F/4 c3/8 f5/8 z/8 C/4 G3/8 c3/4
+z11/8 D/4 A3/8 d3/4 D/4 A3/8 d3/4 F/4 c3/8 f3/4 D/4 z/8 A/4 d3/4
+z55/8 F/4 z/8 c/4 f3/4 C3/8 G/4 z/8 c5/8 F3/8 c/4 z/8 f5/8 z11/8 F3/8
+c/4 z/8 f5/8 z11/8 D3/8 A3/8 d5/8 A3/8 e3/8 a5/8 F3/8 c/4 z/8 f5/8
+C3/8 G/4 z/8 c5/8 F3/8 c/4 z/8 f5/8 z11/8 F/4 z/8 c/4 f3/4 z11/8 D/4
+A3/8 d5/8 z/8 A/4 e3/8 a5/8 z/8 D/4 A3/8 d5/8 F3/8 c3/8 f5/8 D3/8
+A3/8 d5/8 z11/8 F3/8 c/4 z/8 f5/8 C3/8 G/4 z/8 c5/8 z11/8 D/4 z/8 A/4
+d3/4 D/4 z/8 A/4 d3/4 F/4 c3/8 f5/8 z/8 D/4 A3/8 d5/8
+
+X: 4
+%%Orig filename was BardDanceHorn.abc
+T: Bard Dance-horn or bagpipe (Enya) (1:38)
+%%part-name Basic Horn
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: bard2.mid
+%  Transpose: -5
+L: 1/4
+Q: 120
+K: C
+
++mp+ z16 z16 z16 z16 z16 z16 z99/8 F11/8 C5/4 F11/4 F21/8 z/8 D21/8 F11/8
+C11/8 F21/8 F11/4 D11/4 D11/4 D11/4 z/8 C11/4 D11/4 D11/4 D11/4 C11/4
+D11/4 F11/8 C11/8 F11/4 F11/4 D11/4 F11/8 C11/8 F11/4 F11/4 D21/8 z/8
+D21/8 D11/4 C11/4 D11/4 D21/8 z/8 D21/8 C11/4 D11/4
+
+X: 8
+%%Orig filename was BardDanceLute.abc
+T: Bard Dance-lute (Enya) (1:38)
+%%part-name Basic Lute
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: bard2.mid
+%  Transpose: -5
+L: 1/4
+Q: 120
+K: C
+
++mp+ d5/8 f3/4 e5/8 a3/4 f5/8 d11/8 d3/8 e/4 z/8 f5/8 [f/4z/8] e/4 d/4 z/8
+d5/8 c5/8 A3/4 B/4 z/8 c/4 d11/8 d5/8 z/8 f5/8 e5/8 z/8 a5/8 f5/8 z/8
+d5/4 d3/8 e3/8 f5/8 f/4 e/8 d/4 z/8 d5/8 c5/8 z/8 d11/8 d5/4 z/8 d5/8
+f5/8 e3/4 a5/8 f3/4 d5/4 z/8 d/4 e3/8 f5/8 z/8 f/8 e/8 d/4 z/8 d5/8
+z/8 c5/8 A5/8 B3/8 c3/8 d11/8 d5/8 f5/8 z/8 e5/8 a5/8 z/8 f5/8 d11/8
+d/4 z/8 e/4 f3/4 [f/4z/8] e/8 z/8 d/8 z/8 d3/4 c5/8 d11/8 d11/8 f5/8
+a3/4 g5/8 c'5/8 z/8 a5/8 f11/8 f/4 z/8 g/4 a5/8 z/8 a/8 g/8 f/4 z/8
+f5/8 e3/4 f5/8 d5/8 z/8 e5/4 f3/4 a5/8 g5/8 z/8 c'5/8 a5/8 f11/8 f3/8
+g/4 z/8 a5/8 [a/4z/8] g/8 z/8 f/8 z/8 f5/8 z/8 e5/8 f5/8 d3/4 e11/8
+d5/8 f5/8 e3/4 a5/8 f5/8 z/8 d5/4 d3/8 e3/8 f5/8 f/4 e/8 d/4 z/8 d5/8
+c5/8 A3/4 B/4 c3/8 d11/8 d5/8 f3/4 e5/8 a5/8 z/8 f5/8 d5/4 z/8 d/4
+e3/8 f5/8 z/8 f/8 e/8 d/4 z/8 d5/8 c5/8 z/8 d5/4 d11/8 f11/8 e5/8
+a3/4 f5/8 d11/8 d/4 z/8 e/4 f3/4 [f/4z/8] e/8 d/4 z/8 d5/8 z/8 c5/8
+A5/8 B3/8 c3/8 d5/4 z/8 f5/4 e3/4 a5/8 f5/8 z/8 d5/4 d3/8 e/4 z/8
+f5/8 [f/4z/8] e/4 d/4 d3/4 c5/8 d11/8 d11/8 f5/8 a5/8 z/8 g5/8 c'5/8
+a3/4 f5/4 z/8 f/4 g3/8 a5/8 a/4 g/8 f/4 z/8 f5/8 e5/8 z/8 f5/8 d5/8
+e11/8 f5/8 z/8 a5/8 g5/8 c'5/8 z/8 a5/8 f11/8 f/4 z/8 g/4 a3/4
+[a/4z/8] g/8 z/8 f/8 z/8 f3/4 e5/8 f3/4 d5/8 e11/8 f11/8 e3/4 a5/8
+f3/4 d11/8 d3/8 e/4 z/8 f5/8 [f/4z/8] e/4 d/4 z/8 d5/8 c5/8 z/8 A5/8
+B3/8 c/4 z/8 d5/4 z/8 f11/8 e5/8 a3/4 f5/8 d11/8 d3/8 e3/8 f5/8 f/4
+e/8 d/4 z/8 d5/8 c3/4 d11/4 f5/8 a3/4 g5/8 z/8 c'5/8 a5/8 z/8 f5/4
+z/8 f/4 g3/8 a5/8 z/8 a/8 g/8 f/4 z/8 f5/8 z/8 e5/8 f5/8 z/8 d5/8
+e11/8 f5/8 z/8 a5/8 g5/8 z/8 c'5/8 a5/8 z/8 f5/4 f3/8 g3/8 a5/8 a/4
+g/8 f/4 z/8 f5/8 e5/8 z/8 f5/8 d5/8 z/8 e5/4 z/8 f5/4 e3/4 a5/8 f3/4
+d5/4 z/8 d/4 e3/8 f5/8 z/8 f/8 e/8 d/4 z/8 d5/8 z/8 c5/8 A5/8 B3/8
+c3/8 d11/8 f11/8 e5/8 a5/8 z/8 f5/8 d11/8 d/4 z/8 e/4 f3/4 [f/4z/8]
+e/8 z/8 d/8 z/8 d3/4 c5/8 d11/4
+
+X: 18
+%%Orig filename was BardDancePipes.abc
+T: Bard Dance-bagpipe (1:38)(Enya)
+%%part-name Basic Bagpipe
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Bard-bagpipe.mid
+%  Transpose: 0
+L: 1/4
+Q: 120
+K: C
+
+z16 z16 z16 z16 z16 z16 z99/8 ^A,11/8 F,5/4 ^A,11/4 ^A,21/8 z/8 G,21/8
+^A,11/8 F,11/8 ^A,21/8 ^A,11/4 G,11/4 G,11/4 G,11/4 z/8 F,11/4 G,11/4
+G,11/4 G,11/4 F,11/4 G,11/4 ^A,11/8 F,11/8 ^A,11/4 ^A,11/4 G,11/4
+^A,11/8 F,11/8 ^A,11/4 ^A,11/4 G,21/8 z/8 G,21/8 G,11/4 F,11/4 G,11/4
+G,21/8 z/8 G,21/8 F,11/4 G,11/4
+

@@ -1,0 +1,820 @@
+N: TS  9,   9   8   5  21   6  13  14  22  23
+X: 9
+%%Orig filename was Willows2Ages.abc
+T: Willows On The Water (2:57) - Lute of Ages
+%%part-name Lute of Ages
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++fff+ z8 |
+z8 |
+^c3/2 z/ c2 d2 c3/2 z/ |
++ffff+ ^c3/2 z/ +fff+ c B A2 z2 |
++ffff+ ^f3/2 z/ +fff+ f3/2 z/ a2 f3/2 z/ |
+e2 B2 d2 ^c3/2 z/ |
+^c3 +ffff+ e +fff+ d2 +ff+ c3/2 z/ |
++ffff+ ^c3/2 z/ c/ z/ B +fff+ A2 z2 |
+^f4 e z ^G2 |
+% Bar 10 (0:22)
+A4- A3/2 z5/2 |
+^f4 e3/2 z/ ^G2 |
+A4- A/ z7/2 |
++ffff+ ^c3/2 z/ c3/2 z/ d3/2 z/ +fff+ c z |
++ffff+ ^c3/2 z/ c +fff+ B A2 z2 |
+^f z f3/2 z/ a3/2 z/ f z |
+e3 B/ z/ d2 ^c z |
+^c2- c/ z/ +ffff+ e +fff+ d2 c3/2 z/ |
++ffff+ ^c3/2 z/ c/ z/ +fff+ B +ffff+ A2- A/ z3/2 |
+^f2- f3/2 z/ e z ^G3/2 z/ |
+% Bar 20 (0:47)
++fff+ A4- A2- A/ z3/2 |
++ffff+ ^f4 +fff+ e z +ffff+ ^G3/2 z/ |
++fff+ A4- A/ z7/2 |
++ffff+ ^f4 e3/2 z/ +fff+ ^G2 |
+A4- A2- A3/2 z/ |
++ffff+ ^f2- f3/2 z/ +fff+ e z +ffff+ ^G3/2 z/ |
++fff+ A4- A z z2 |
++ff+ ^g3/2 z/ +fff+ g3/2 z/ a3/2 z/ +f+ ^f z |
++fff+ ^f3/2 z/ f z ^g3 z |
+^g z g3/2 z/ +ff+ a3/2 z/ +fff+ ^f z |
+% Bar 30 (1:11)
++ff+ ^f3/2 z/ f3/2 z/ ^g3 z |
+^g z +fff+ g3/2 z/ +ff+ a3/2 z/ ^f z |
++fff+ ^f z f3/2 z/ +ff+ ^g2- g/ z3/2 |
+^g z g z +fff+ a3/2 z/ ^f3/2 z/ |
++ff+ ^f3/2 z/ f z +fff+ ^g4 |
+z4 ^c3/2 z/ +ffff+ c3/2 z/ |
++fff+ d3/2 z/ ^c z c3/2 z/ c +ffff+ B |
+A2 z2 +ff+ ^f z +fff+ f3/2 z/ |
+a3/2 z/ ^f z +ffff+ e2 B2 |
+d2 +fff+ ^c3/2 z/ +ffff+ c3 +fff+ e |
+% Bar 40 (1:36)
+d2 ^c3/2 z/ +ffff+ c3/2 z/ c +fff+ B |
+A2 z2 ^f2- f3/2 z/ |
+e z +ffff+ ^G3/2 z/ +fff+ A3 z |
+z4 +ffff+ ^f3 z |
++fff+ e z ^G3/2 z/ A4- |
+A z z2 ^f2- f3/2 z/ |
+e3/2 z/ +ffff+ ^G2 +fff+ A4- |
+A2 z2 +ffff+ ^f3 z |
++fff+ e z ^G3/2 z/ A4- |
+A2- A/ z3/2 +ffff+ B3/2 z/ B3/2 z/ |
+% Bar 50 (2:01)
++fff+ ^c3/2 z/ e3/2 z/ +ffff+ ^F3/2 z/ A z |
++fff+ A2 B3/2 z/ B3 z |
+^c3 z +ffff+ ^F3 z |
++fff+ A2 ^G3/2 z/ B3/2 z/ B2 |
+^c2 +ffff+ e z ^F3/2 z/ F3/2 z/ |
++fff+ A3/2 z/ B3/2 z/ B4 |
+^c4 ^F3 z |
+A2 ^G2- G2- G3/2 z/ |
+z4 ^c3/2 z/ +ffff+ c3/2 z/ |
++fff+ d2 ^c3/2 z/ +ffff+ c3/2 z/ +fff+ c B |
+% Bar 60 (2:25)
++ffff+ A2 z2 ^f3/2 z/ +fff+ f3/2 z/ |
+a3/2 z/ +ffff+ ^f3/2 z/ +fff+ e3 +ffff+ B |
+d2 +fff+ ^c3/2 z/ c3 +ffff+ e |
++fff+ d2 +ffff+ ^c3/2 z/ +fff+ c3/2 z/ +ffff+ c B |
++fff+ A2- A/ z3/2 ^f4 |
+e3/2 z/ ^G3/2 z/ A4- |
+A2 z2 ^f4 |
+e3/2 z/ +ff+ ^G2 +fff+ A4- |
+A4 ^f2- f3/2 z/ |
+e3/2 z/ +ffff+ ^G2 +fff+ A4- |
+% Bar 70 (2:50)
+A3 z ^f2- f3/2 z/ |
++ffff+ e3/2 z/ +fff+ ^G2 A4- |
+A4 z4 |
+z8 |]
+
+X: 8
+%%Orig filename was Willows2Bass.abc
+T: Willows On The Water (2:57) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++fff+ z8 |
+z8 |
+A,2- A,/ z/ A,- A,3/2 z/ A, z |
+^C2- C/ z/ C/ z/ ^F2 z F/ z/ |
++ff+ D2- D/ z/ +fff+ D- D3/2 z/ D z |
+^G2- G/ z/ G/ z/ A2 z A/ z/ |
+A,2 z A,- A,3/2 z/ A,3/2 z/ |
+^C2- C/ z/ C/ z/ ^F2- F/ z/ F/ z/ |
+D2- D/ z/ D/ z/ E2- E/ z/ E/ z/ |
+% Bar 10 (0:22)
+^F2- F/ z/ E- E z E z |
+D2- D/ z/ D/ z/ E2- E/ z/ E/ z/ |
+A,2 z A,- A,2 z2 |
+A,2 z A,- A, z A, z |
+^C2 z C/ z/ ^F2 z F/ z/ |
++ff+ D2- D/ z/ +fff+ D- D3/2 z/ D z |
+^G2- G/ z/ G/ z/ A2 z A/ z/ |
+A,2- A,/ z/ A,- A,3/2 z/ A, z |
+^C2- C/ z/ C/ z/ ^F2 z F/ z/ |
+D2- D/ z/ D/ z/ E2- E/ z/ E/ z/ |
+% Bar 20 (0:47)
+^F2- F/ z/ E- E z E z |
+D2- D/ z/ D/ z/ E2- E/ z/ E/ z/ |
+A,2- A,/ z/ A,- A,2 z2 |
+D2- D/ z/ D/ z/ E2 z E/ z/ |
+^F2- F/ z/ E- E z E z |
+D2- D/ z/ +ff+ D/ z/ +fff+ E2- E/ z/ +ff+ E/ z/ |
++ffff+ A,2- A,/ z/ +fff+ A,- A,2 z2 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 A,2- A,/ z/ A,- |
+A,3/2 z/ A, z +ff+ ^C2- C/ z/ +fff+ C/ z/ |
+^F2- F/ z/ F/ z/ D2- D/ z/ +ff+ D- |
+D3/2 z/ +fff+ D3/2 z/ ^G2- G/ z/ G/ z/ |
+A2 z A/ z/ A,2- A,/ z/ A,- |
+% Bar 40 (1:36)
+A,3/2 z/ A,3/2 z/ ^C2- C/ z/ C/ z/ |
+^F2- F/ z/ F/ z/ +ff+ D2- D/ z/ +fff+ D/ z/ |
+E2 z E/ z/ ^F3 E- |
+E z E z D2- D/ z/ D/ z/ |
+E2- E/ z/ E/ z/ A,2- A,/ z/ A,- |
+A,2 z2 D2 z D/ z/ |
+E2 z E/ z/ ^F2 z E- |
+E/ z3/2 E z D2- D/ z/ D/ z/ |
+E2 z E/ z/ A,2 z A,- |
+A,2 z2 +ff+ ^G4 |
+% Bar 50 (2:01)
+A4 D4 |
++f+ E4 ^G4 |
+A4 +ff+ D4 |
++f+ E4 ^G4 |
++ff+ A4 +f+ D4 |
++ff+ E4 ^G4 |
++f+ A4 +ff+ D4 |
+E8- |
+E/ z7/2 +fff+ A,2- A,/ z/ A,- |
+A,3/2 z/ A,3/2 z/ ^C2- C/ z/ C/ z/ |
+% Bar 60 (2:25)
+^F2 z F/ z/ D2- D/ z/ D- |
+D3/2 z/ D3/2 z/ ^G2- G/ z/ G/ z/ |
++ff+ A2 z A/ z/ +fff+ A,2- A,/ z/ A,- |
+A,3/2 z/ A, z ^C2 z C/ z/ |
+^F2- F/ z/ F/ z/ +ff+ D2- D/ z/ +fff+ D/ z/ |
+E2- E/ z/ E/ z/ ^F2 z E- |
+E z E z D2- D/ z/ D/ z/ |
+E2- E/ z/ E/ z/ A,2 z A,- |
+A,2 z2 +ff+ D2 z +fff+ D/ z/ |
+E2- E/ z/ E/ z/ ^F2 z E- |
+% Bar 70 (2:50)
+E/ z3/2 E z D2- D/ z/ D/ z/ |
+E2- E/ z/ E/ z/ A,2- A,/ z/ A,- |
+A,3 z A,2- A,/ z3/2 |
+z8 |]
+
+X: 5
+%%Orig filename was Willows2Harp.abc
+T: Willows On The Water (2:57) - Basic Harp
+%%part-name Basic Harp
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++f+ z8 |
+A,- [A,-E] +ff+ [A,A] +f+ E +ff+ A,2 z2 |
++f+ A,- +ff+ [A,-E] [A,A] +f+ E +ff+ A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
+^C- +mf+ [C-^G] +ff+ [C^c] +f+ G +ff+ ^F,- +f+ [F,-C] +ff+ [F,^F] +f+ C |
++fff+ D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, +ff+ D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, |
++ff+ ^G,- +f+ [G,-E] +ff+ [G,^G] +f+ E +ff+ A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
++ff+ A,- +f+ [A,-E] +ff+ [A,A] +f+ E +ff+ A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
++ff+ ^C- +f+ [C-^G] +ff+ [C^c] +f+ G +fff+ ^F,- +f+ [F,-C] +ff+ [F,^F] +f+ C |
++ff+ D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, +ff+ E,- +f+ [E,-B,] +ff+ [E,E] +f+ B, |
+% Bar 10 (0:22)
++ff+ ^F,- +mf+ [F,-^C] +fff+ [F,^F] +f+ C +fff+ E, +ff+ B, E, B, |
+D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, E,- [E,-B,] +ff+ [E,E] +f+ B, |
+A,- [A,-E] +ff+ [A,A] +f+ E +ff+ A,2 z2 |
++fff+ A,- +ff+ [A,-E] [A,A] E A,- +f+ [A,-E] +ff+ [A,A] E |
++fff+ ^C- +ff+ [C-^G] +mf+ [C^c] +ff+ G ^F,- +f+ [F,-C] +ff+ [F,^F] +f+ C |
++ff+ D,- [D,-A,] +fff+ [D,D] +f+ A, D,- [D,-A,] +ff+ [D,D] +f+ A, |
++fff+ ^G,- +f+ [G,-E] +ff+ [G,^G] +f+ E +ff+ A,- [A,-E] [A,A] E |
+A,- +f+ [A,-E] +ff+ [A,A] +f+ E +ff+ A,- +f+ [A,-E] [A,A] E |
+^C- +mf+ [C-^G] +f+ [C^c] +mf+ G +ff+ ^F,- +f+ [F,-C] [F,^F] C |
++fff+ D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, +fff+ E,- +f+ [E,-B,] +ff+ [E,E] +f+ B, |
+% Bar 20 (0:47)
++ff+ ^F,- +f+ [F,-^C] +ff+ [F,^F] C +fff+ E, +ff+ B, +fff+ E, +ff+ B, |
+D,- +f+ [D,-A,] +ff+ [D,D] A, +fff+ E,- +f+ [E,-B,] +fff+ [E,E] +ff+ B, |
+A,- +f+ [A,-E] +ff+ [A,A] +f+ E +ff+ A,2 z2 |
+D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, E,- [E,-B,] +ff+ [E,E] B, |
++f+ ^F,- [F,-^C] +fff+ [F,^F] +f+ C +fff+ E, B, E, +ff+ B, |
+D,- +f+ [D,-A,] +fff+ [D,D] +f+ A, +ff+ E,- +f+ [E,-B,] +fff+ [E,E] +f+ B, |
+A,- +ff+ [A,-E] [A,A] +f+ E +ff+ A, z z2 |
++f+ E- +mf+ [E-B] +f+ [Ee] B +mf+ ^F- [F-^c] +f+ [F^f] +mf+ c |
++f+ D- +mf+ [D-A] [Dd] A +f+ E- +mf+ [E-B] +f+ [Ee] B |
+E- [E-B] [Ee] B ^F- +mf+ [F-^c] +f+ [F^f] +mf+ c |
+% Bar 30 (1:11)
++f+ D- +mf+ [D-A] +f+ [Dd] +mf+ A +f+ E- +mf+ [E-B] +f+ [Ee] B |
+E- +mf+ [E-B] +f+ [Ee] B ^F- +mf+ [F-^c] +ff+ [F^f] +mf+ c |
++f+ D- [D-A] +ff+ [Dd] +mf+ A +f+ E- +mf+ [E-B] +f+ [Ee] +mf+ B |
++f+ E- +mf+ [E-B] +f+ [Ee] B ^F- +mf+ [F-^c] +f+ [F^f] c |
+D- +mf+ [D-A] +f+ [Dd] +mf+ A +f+ E- [E-B] +ff+ [Ee] +f+ B |
+E3 z +fff+ A,- +ff+ [A,-E] [A,A] E |
+A,- +f+ [A,-E] +ff+ [A,A] E +fff+ ^C- +ff+ [C-^G] +mf+ [C^c] +ff+ G |
+^F,- +f+ [F,-^C] +ff+ [F,^F] +f+ C +ff+ D,- [D,-A,] +fff+ [D,D] +f+ A, |
+D,- [D,-A,] +ff+ [D,D] +f+ A, +fff+ ^G,- +f+ [G,-E] +ff+ [G,^G] +f+ E |
++ff+ A,- [A,-E] [A,A] E A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
+% Bar 40 (1:36)
++ff+ A,- +f+ [A,-E] [A,A] E ^C- +mf+ [C-^G] +f+ [C^c] +mf+ G |
++ff+ ^F,- +f+ [F,-^C] [F,^F] C +fff+ D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, |
++fff+ E,- +f+ [E,-B,] +ff+ [E,E] +f+ B, +ff+ ^F,- +f+ [F,-^C] +ff+ [F,^F] C |
++fff+ E, +ff+ B, +fff+ E, +ff+ B, D,- +f+ [D,-A,] +ff+ [D,D] A, |
++fff+ E,- +f+ [E,-B,] +fff+ [E,E] +ff+ B, A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
++ff+ A,2 z2 D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, |
+E,- [E,-B,] +ff+ [E,E] B, +f+ ^F,- [F,-^C] +fff+ [F,^F] +f+ C |
++fff+ E, B, E, +ff+ B, D,- +f+ [D,-A,] +fff+ [D,D] +f+ A, |
++ff+ E,- +f+ [E,-B,] +fff+ [E,E] +f+ B, A,- +ff+ [A,-E] [A,A] +f+ E |
++ff+ A, z z2 ^G,- +f+ [G,-E] +ff+ [G,^G] +f+ E |
+% Bar 50 (2:01)
++ff+ A,- +mf+ [A,-E] +ff+ [A,A] E +f+ D,- +ff+ [D,-A,] [D,D] A, |
+E,- [E,-B,] +fff+ [E,E] +f+ B, +ff+ ^G,- +mf+ [G,-E] +ff+ [G,^G] +f+ E |
++ff+ A,- [A,-E] +fff+ [A,A] +ff+ E D,- +f+ [D,-A,] +fff+ [D,D] +ff+ A, |
+E,- +f+ [E,-B,] +fff+ [E,E] +ff+ B, +fff+ ^G,- +f+ [G,-E] +ff+ [G,^G] E |
+A,- +f+ [A,-E] +ff+ [A,A] E +f+ D,- [D,-A,] +ff+ [D,D] +f+ A, |
++ff+ E,- +f+ [E,-B,] +fff+ [E,E] +ff+ B, ^G,- [G,-E] [G,^G] E |
+A,- [A,-E] +fff+ [A,A] +ff+ E D,- +f+ [D,-A,] +fff+ [D,D] +f+ A, |
++fff+ E,- +ff+ [E,-B,] +fff+ [E,E] +ff+ B, +ffff+ E,4- |
+E,3 z +fff+ A,- +ff+ [A,-E] [A,A] E |
+A,- +f+ [A,-E] +ff+ [A,A] E +fff+ ^C- +ff+ [C-^G] +mf+ [C^c] +ff+ G |
+% Bar 60 (2:25)
+^F,- +f+ [F,-^C] +ff+ [F,^F] +f+ C +ff+ D,- [D,-A,] +fff+ [D,D] +f+ A, |
+D,- [D,-A,] +ff+ [D,D] +f+ A, +fff+ ^G,- +f+ [G,-E] +ff+ [G,^G] +f+ E |
++ff+ A,- [A,-E] [A,A] E A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
++ff+ A,- +f+ [A,-E] [A,A] E ^C- +mf+ [C-^G] +f+ [C^c] +mf+ G |
++ff+ ^F,- +f+ [F,-^C] [F,^F] C +fff+ D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, |
++fff+ E,- +f+ [E,-B,] +ff+ [E,E] +f+ B, +ff+ ^F,- +f+ [F,-^C] +ff+ [F,^F] C |
++fff+ E, +ff+ B, +fff+ E, +ff+ B, D,- +f+ [D,-A,] +ff+ [D,D] A, |
++fff+ E,- +f+ [E,-B,] +fff+ [E,E] +ff+ B, A,- +f+ [A,-E] +ff+ [A,A] +f+ E |
++ff+ A,2 z2 D,- +f+ [D,-A,] +ff+ [D,D] +f+ A, |
+E,- [E,-B,] +ff+ [E,E] B, +f+ ^F,- [F,-^C] +fff+ [F,^F] +f+ C |
+% Bar 70 (2:50)
++fff+ E, B, E, +ff+ B, D,- +f+ [D,-A,] +fff+ [D,D] +f+ A, |
++ff+ E,- +f+ [E,-B,] +fff+ [E,E] +f+ B, A,- +ff+ [A,-E] [A,A] +f+ E |
++ff+ A,- +f+ [A,-E] +ff+ [A,A] E +fff+ A,2 z2 |
+z8 |]
+
+X: 21
+%%Orig filename was Willows2Lute.abc
+T: Willows On The Water (2:57) - Basic Lute
+%%part-name Basic Lute
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++mf+ z8 |
+z8 |
+^c2 +mp+ c2 +mf+ d2 +mp+ c2 |
++mf+ ^c2 c B A2 z2 |
+^f2 f2 a2 f2 |
+e2 B2 d2 ^c2 |
+^c3 e d2 +mp+ c2 |
++mf+ ^c2 c B A2 z2 |
+^f4 +mp+ e2 +mf+ ^G2 |
+% Bar 10 (0:22)
+A4- A3/2 z5/2 |
+^f4 e2 ^G2 |
++mp+ A6 z2 |
++mf+ ^c2 c2 d2 c2 |
+^c2 c B A4 |
+^f2 +mp+ f2 +mf+ a2 f2 |
+e2 B2 d2 ^c2 |
+^c3 e +mp+ d2 c2 |
++mf+ ^c2 c B A4 |
+^f4 e2 ^G2 |
+% Bar 20 (0:47)
++mp+ A4- A2- A/ z3/2 |
++mf+ ^f4 e2 ^G2 |
+A4- A/ z7/2 |
+^f4 e2 ^G2 |
++mp+ A4- A2- A3/2 z/ |
++mf+ ^f4 e2 ^G2 |
+A4- A z z2 |
++mp+ ^g2 g2 a2 +p+ ^f2 |
++mp+ ^f2 f2 ^g4 |
+^g2 g2 a2 ^f2 |
+% Bar 30 (1:11)
+^f2 f2 ^g4 |
+^g2 g2 a2 ^f2 |
+^f2 f2 ^g4 |
+^g2 g2 a2 ^f2 |
+^f2 f2 ^g4 |
+z4 +mf+ ^c2 c2 |
++mp+ d2 ^c2 c2 +mf+ c B |
+A2 z2 +mp+ ^f2 f2 |
++mf+ a2 +mp+ ^f2 +mf+ e3 B |
+d2 ^c2 c3 e |
+% Bar 40 (1:36)
+d2 ^c2 c2 c B |
++mp+ A2 z2 ^f4 |
++mf+ e2 ^G2 A4- |
+A2 z2 ^f4 |
+e2 ^G2 +mp+ A4- |
+A z z2 +mf+ ^f4 |
++mp+ e2 +mf+ ^G2 +mp+ A4- |
+A2 z2 +mf+ ^f4 |
+e2 +mp+ ^G2 +mf+ A4- |
+A2- A/ z3/2 B2 B2 |
+% Bar 50 (2:01)
++mp+ ^c2 +mf+ e2 ^F2 A2 |
+A2 B2 B4 |
+^c4 ^F4 |
++mp+ A2 +mf+ ^G2 B2 B2 |
+^c2 e2 ^F2 F2 |
++mp+ A2 +mf+ B2 B4 |
++mp+ ^c4 ^F3 z |
+A2 ^G2- G2- G3/2 z/ |
+z4 ^c2 +mf+ c2 |
++mp+ d2 ^c2 +mf+ c2 c B |
+% Bar 60 (2:25)
+A2 z2 z2 +mp+ ^f/ z3/2 |
+a2 +mf+ ^f2 e3 B |
+d2 ^c2 c3 e |
++mp+ d2 +mf+ ^c2 c2 c B |
+A2- A/ z3/2 ^f4 |
++mp+ e2 +mf+ ^G2 +mp+ A4- |
+A2 z2 ^f4 |
++mf+ e2 +mp+ ^G2 A4- |
+A4 +mf+ ^f4 |
++mp+ e2 +mf+ ^G2 A4- |
+% Bar 70 (2:50)
+A3 z +mp+ ^f4 |
++mf+ e2 ^G2 A4- |
+A4 z4 |
+z8 |]
+
+X: 6
+%%Orig filename was Willows2Misty.abc
+T: Willows On The Water (2:57) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++p+ z8 |
+z8 |
+z// ^c3/2 z/ c2 d2 c3/2 z// |
+z// ^c3/2 z/ c B A2 z7/4 |
+z// ^f3/2 z/ f3/2 z/ a2 f3/2 z// |
+z// e2 B2 d2 ^c3/2 z// |
+z// ^c3 e d2 +pp+ c3/2 z// |
+z// +p+ ^c3/2 z/ c/ z/ B A2 z7/4 |
+z// ^f4 e z ^G7/4- |
+% Bar 10 (0:22)
+^G// A11/2 z9/4 |
+z// ^f4 e3/2 z/ ^G7/4- |
+^G// A9/2 z13/4 |
+z// ^c3/2 z/ c3/2 z/ d3/2 z/ c z3/4 |
+z// ^c3/2 z/ c B A2 z7/4 |
+z// ^f z f3/2 z/ a3/2 z/ f z3/4 |
+z// e3 B/ z/ d2 ^c z3/4 |
+z// ^c5/2 z/ e d2 c3/2 z// |
+z// ^c3/2 z/ c/ z/ B A5/2 z5/4 |
+z// ^f7/2 z/ e z ^G3/2 z// |
+% Bar 20 (0:47)
+z// +pp+ A13/2 z5/4 |
+z// +p+ ^f4 e z ^G3/2 z// |
+z// A9/2 z13/4 |
+z// ^f4 e3/2 z/ ^G7/4- |
+^G// +pp+ A15/2 z// |
+z// +p+ ^f7/2 z/ e z ^G3/2 z// |
+z// A5 z11/4 |
+z// +pp+ ^g3/2 z/ g3/2 z/ a3/2 z/ ^f z3/4 |
+z// ^f3/2 z/ f z ^g3 z3/4 |
+z// +p+ ^g z g3/2 z/ +pp+ a3/2 z/ ^f z3/4 |
+% Bar 30 (1:11)
+z// ^f3/2 z/ f3/2 z/ ^g3 z3/4 |
+z// ^g z g3/2 z/ a3/2 z/ ^f z3/4 |
+z// ^f z f3/2 z/ ^g5/2 z5/4 |
+z// ^g z g z a3/2 z/ +p+ ^f3/2 z// |
+z// +pp+ ^f3/2 z/ f z ^g15/4- |
+^g// z4 +p+ ^c3/2 z/ c3/2 z// |
+z// +pp+ d3/2 z/ ^c z +p+ c3/2 z/ c B3/4- |
+B// A2 z2 +pp+ ^f z +p+ f3/2 z// |
+z// a3/2 z/ ^f z e7/4- [B//-e//] B7/4 |
+z// d2 ^c3/2 z/ c3 e3/4- |
+% Bar 40 (1:36)
+e// d2 ^c3/2 z/ c3/2 z/ c B3/4- |
+B// A2 z2 ^f7/2 z// |
+z// e z ^G3/2 z/ A3 z3/4 |
+z4 z// ^f3 z3/4 |
+z// e z ^G3/2 z/ +pp+ A15/4- |
+A- A// z3 +p+ ^f7/2 z// |
+z// e3/2 z/ ^G2 A15/4- |
+A2- A// z2 ^f3 z3/4 |
+z// e z ^G3/2 z/ A15/4- |
+A2- A3/4 z3/2 B3/2 z/ B3/2 z// |
+% Bar 50 (2:01)
+z// ^c3/2 z/ e3/2 z/ ^F3/2 z/ A z3/4 |
+z// A2 B3/2 z/ B3 z3/4 |
+z// ^c3 z ^F3 z3/4 |
+z// +pp+ A2 +p+ ^G3/2 z/ B3/2 z/ B7/4- |
+B// ^c2 e z ^F3/2 z/ F3/2 z// |
+z// +pp+ A3/2 z/ +p+ B3/2 z/ B15/4- |
+B// +pp+ ^c4 ^F3 z3/4 |
+z// +p+ A2 +pp+ ^G11/2 z// |
+z4 z// ^c3/2 z/ +p+ c3/2 z// |
+z// d2 +pp+ ^c3/2 z/ +p+ c3/2 z/ c B3/4- |
+% Bar 60 (2:25)
+B// A2 z2 ^f3/2 z/ f3/2 z// |
+z// +pp+ a3/2 z/ +p+ ^f3/2 z/ e3 B3/4- |
+B// d2 ^c3/2 z/ c3 e3/4- |
+e// d2 ^c3/2 z/ c3/2 z/ c B3/4- |
+B// A5/2 z3/2 ^f15/4- |
+^f// e3/2 z/ ^G3/2 z/ A15/4- |
+A2- A// z2 ^f15/4- |
+^f// e3/2 z/ +pp+ ^G2 A15/4- |
+A4- A// +p+ ^f7/2 z// |
+z// e3/2 z/ ^G2 A15/4- |
+% Bar 70 (2:50)
+A2- A- A// z ^f7/2 z// |
+z// e3/2 z/ ^G2 A15/4- |
+A4- A// z15/4 |
+z8 |]
+
+X: 13
+%%Orig filename was Willows2Sprightly.abc
+T: Willows On The Water (2:57) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++pp+ z8 |
+A,- [A,-E] +p+ [A,A] E A,2 z2 |
++pp+ [A,4-E4-A4-] [A,-E-A-] [A,3/4E3/4-A3/4] E// z2 |
++p+ [^C2^G2^c2] z2 [^F,2C2^F2] z2 |
+[D,6A,6D6] z2 |
++pp+ [^G,2E2^G2] z2 +p+ [A,4E4A4] |
+[A,6E6A6] z2 |
+[^C2^G2^c2] z2 [^F,2C2^F2] z2 |
+[D,4A,4D4] [E,2B,2-E2] B,2 |
+% Bar 10 (0:22)
+[^F,2^C2-^F2] C2 [E,2B,2E2] z2 |
+[D,4A,4D4] [E,2B,2-E2] B,2 |
+[A,6E6A6] z2 |
+[A,6E6A6] z2 |
+[^C2^G2^c2] z2 [^F,2C2^F2] z2 |
+[D,6A,6D6] z2 |
+[^G,2E2^G2] z2 +pp+ [A,4E4A4] |
++p+ [A,6E6A6] z2 |
+[^C2^G2^c2] z2 [^F,2C2^F2] z2 |
+[D,4A,4D4] [E,2B,2E2] z2 |
+% Bar 20 (0:47)
++mp+ [^F,2^C2^F2] z2 +p+ [E,2-B,2-E2] [E,2B,2] |
+[D,4A,4D4] +pp+ [E,4B,4E4] |
+z2 +p+ [A,2-E2-A2-] [A,2E2A2] z2 |
+[D,2A,2D2] z2 [E,2B,2E2] z2 |
+[^F,2^C2^F2] z2 [E,2B,2E2] z2 |
++pp+ [D,2A,2D2] z2 +p+ [E,2B,2E2] z2 |
++pp+ [A,8E8A8] |
++p+ [E4B4e4] +pp+ [^F4^c4^f4] |
++p+ [D4A4d4] [E4B4e4] |
+[E4B4e4] [^F4^c4^f4] |
+% Bar 30 (1:11)
+[D4A4d4] [E4B4e4] |
+[E4B4e4] [^F4^c4^f4] |
+[D4A4d4] [E4B4e4] |
+[E4B4e4] [^F4^c4^f4] |
+[D4A4d4] [E4-B4-e4-] |
+[E4B4e4] [A,4-E4-A4-] |
+[A,2E2A2] z2 [^C2^G2^c2] z2 |
+[^F,2^C2^F2] z2 [D,4-A,4-D4-] |
+[D,2A,2D2] z2 [^G,2E2^G2] z2 |
++pp+ [A,4E4A4] +p+ [A,4-E4-A4-] |
+% Bar 40 (1:36)
+[A,2E2A2] z2 [^C2^G2^c2] z2 |
+[^F,2^C2^F2] z2 [D,4A,4D4] |
+[E,2B,2E2] z2 +mp+ [^F,2^C2^F2] z2 |
++p+ [E,2-B,2-E2] [E,2B,2] [D,4A,4D4] |
++pp+ [E,4B,4E4] z2 +p+ [A,2-E2-A2-] |
+[A,2E2A2] z2 [D,2A,2D2] z2 |
+[E,2B,2E2] z2 [^F,2^C2^F2] z2 |
+[E,2B,2E2] z2 +pp+ [D,2A,2D2] z2 |
++p+ [E,2B,2E2] z2 +pp+ [A,4-E4-A4-] |
+[A,4E4A4] [^G,4E4^G4] |
+% Bar 50 (2:01)
+[A,4E4A4] +p+ [D,4A,4D4] |
+[E,4B,4E4] [^G,4E4^G4] |
++pp+ [A,4E4A4] [D,4A,4D4] |
++p+ [E,4B,4E4] [^G,4E4^G4] |
+[A,4E4A4] +pp+ [D,4A,4D4] |
+[E,4B,4E4] +p+ [^G,4E4^G4] |
++pp+ [A,4E4A4] +p+ [D,4A,4D4] |
+[E,8-B,8-E8-] |
+[E,2-B,2-E2-] [E,3/2B,3/2E3/2] z/ [A,4-E4-A4-] |
+[A,2E2A2] z2 [^C2^G2^c2] z2 |
+% Bar 60 (2:25)
+[^F,2^C2^F2] z2 [D,4-A,4-D4-] |
+[D,2A,2D2] z2 [^G,2E2^G2] z2 |
++pp+ [A,4E4A4] +p+ [A,4-E4-A4-] |
+[A,2E2A2] z2 [^C2^G2^c2] z2 |
+[^F,2^C2^F2] z2 [D,4A,4D4] |
+[E,2B,2E2] z2 +mp+ [^F,2^C2^F2] z2 |
++p+ [E,2-B,2-E2] [E,2B,2] [D,4A,4D4] |
++pp+ [E,4B,4E4] z2 +p+ [A,2-E2-A2-] |
+[A,2E2A2] z2 [D,2A,2D2] z2 |
+[E,2B,2E2] z2 [^F,2^C2^F2] z2 |
+% Bar 70 (2:50)
+[E,2B,2E2] z2 +pp+ [D,2A,2D2] z2 |
++p+ [E,2B,2E2] z2 +pp+ [A,4-E4-A4-] |
+[A,8-E8-A8-] |
+[A,2-E2-A2-] [A,3/2E3/2A3/2] z9/2 |]
+
+X: 14
+%%Orig filename was Willows2Travellers1.abc
+T: Willows On The Water (2:57) - Traveller's Trusty Fiddle 1
+%%part-name Traveller's Trusty Fiddle 1
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++mp+ z8 |
+z8 |
+z2 [A/^c/e/] z5/2 +p+ [A/c/e/] z3/2 [A/c/e/] z/ |
+z2 [A/^c/e/] z7/2 +mp+ [c/^f/] z3/2 |
+z2 +p+ [d/^f/] z5/2 [df] z [d/f/] z/ |
+z2 [^G/^c/e/] z7/2 [A/c/e/] z3/2 |
+z2 [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z/ |
+z2 [A/^c/e/] z7/2 [c/^f/] z3/2 |
+z2 [d/^f/] z7/2 [B/e/] z3/2 |
+% Bar 10 (0:22)
+z2 [d/^f/] z5/2 [Be] z [B/e/] z/ |
+z2 [d/^f/] z7/2 [B/e/] z3/2 |
+z2 [A/^c/e/] z11/2 |
+z2 +mp+ [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z/ |
+z2 [A/^c/e/] z7/2 [c/^f/] z3/2 |
+z2 [d/^f/] z5/2 [d/f/] z3/2 [d/f/] z/ |
+z2 [^G/^c/e/] z7/2 [A/c/e/] z3/2 |
+z2 [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z/ |
+z2 [A/^c/e/] z7/2 [c/^f/] z3/2 |
+z2 [d/^f/] z7/2 [B/e/] z3/2 |
+% Bar 20 (0:47)
+z2 [d/^f/] z5/2 [B/e/] z3/2 +p+ [B/e/] z/ |
+z2 [A/d/] z7/2 [B/e/] z3/2 |
+z2 +mp+ [A/^c/e/] z11/2 |
+z2 [d/^f/] z7/2 [B/e/] z3/2 |
+z2 [d/^f/] z5/2 +p+ [B/e/] z3/2 +mp+ [B/e/] z/ |
+z2 [A/d/] z7/2 +p+ [B/e/] z3/2 |
+z2 +mp+ [A/^c/e/] z11/2 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 [A/^c/e/] z3/2 |
+z [A/^c/e/] z3/2 [A/c/e/] z5/2 [A/c/e/] z3/2 |
+z2 [^c/^f/] z7/2 [d/f/] z3/2 |
+z [d/^f/] z3/2 [d/f/] z5/2 [^G/^c/e/] z3/2 |
+z2 [A/^c/e/] z7/2 [A/c/e/] z3/2 |
+% Bar 40 (1:36)
+z [A/^c/e/] z3/2 [A/c/e/] z5/2 [A/c/e/] z3/2 |
+z2 [^c/^f/] z7/2 [d/f/] z3/2 |
+z2 +p+ [B/e/] z7/2 +mp+ [d/^f/] z3/2 |
+z [B/e/] z3/2 [B/e/] z5/2 [A/d/] z3/2 |
+z2 [B/e/] z7/2 [A/^c/e/] z3/2 |
+z6 [d/^f/] z3/2 |
+z2 [B/e/] z7/2 [d/^f/] z3/2 |
+z [B/e/] z3/2 [B/e/] z5/2 [A/d/] z3/2 |
+z2 [B/e/] z7/2 [A/^c/e/] z3/2 |
+z4 z +pp+ [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z/ |
+% Bar 50 (2:01)
+z [E,/E/] z/ [A,/A/] z/ [E,/E/] z3/2 A,/ z/ [D,/D/] z/ A,/ z/ |
+z B,/ z/ [E,/E/] z/ B,/ z3/2 [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z/ |
+z [E,/E/] z/ [A,/A/] z/ +ppp+ [E,/E/] z3/2 +pp+ A,/ z/ [D,/D/] z/ A,/ z/ |
+z B,/ z/ [E,/E/] z/ B,/ z3/2 [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z/ |
+z [E,/E/] z/ [A,/A/] z/ [E,/E/] z3/2 A,/ z/ [D,/D/] z/ A,/ z/ |
+z B,/ z/ [E,/E/] z/ B,/ z3/2 [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z/ |
+z [E,/E/] z/ [A,/A/] z/ [E,/E/] z3/2 A,/ z/ [D,/D/] z/ A,/ z/ |
+z B,/ z/ [E,/E/] z/ B,/ z9/2 |
+z6 +mp+ [A/^c/e/] z3/2 |
+z +p+ [A/^c/e/] z3/2 +mp+ [A/c/e/] z5/2 [A/c/e/] z3/2 |
+% Bar 60 (2:25)
+z2 [^c/^f/] z7/2 [d/f/] z3/2 |
+z [d/^f/] z3/2 [d/f/] z5/2 [^G/^c/e/] z3/2 |
+z2 [A/^c/e/] z7/2 [A/c/e/] z3/2 |
+z [A/^c/e/] z3/2 [A/c/e/] z5/2 [A/c/e/] z3/2 |
+z2 [^c/^f/] z7/2 [d/f/] z3/2 |
+z2 [B/e/] z7/2 [d/^f/] z3/2 |
+z [B/e/] z3/2 [B/e/] z5/2 [A/d/] z3/2 |
+z2 [B/e/] z7/2 [A/^c/e/] z3/2 |
+z6 [d/^f/] z3/2 |
+z2 [B/e/] z7/2 [d/^f/] z3/2 |
+% Bar 70 (2:50)
+z [B/e/] z3/2 [B/e/] z5/2 [A/d/] z3/2 |
+z2 [B/e/] z7/2 [A/^c/e/] z3/2 |
+z [A/^c/e/] z13/2 |
+z8 |]
+
+X: 22
+%%Orig filename was Willows2Travellers2.abc
+T: Willows On The Water (2:57) - Traveller's Trusty Fiddle 2
+%%part-name Traveller's Trusty Fiddle 2
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++p+ z8 |
+z8 |
+[A,2-E2-] [A,/E/] z/ [A,-E-] [A,3/2E3/2] z/ [A,E] z |
++pp+ [^C2-^G2-] [C/G/] z/ +p+ [C/G/] z/ +pp+ [^F2^c2] z [F/c/] z/ |
+[D2-A2-] [D/A/] z/ [D-A-] [D3/2A3/2] z/ +p+ [DA] z |
+[^G2-e2-] [G/e/] z/ +pp+ [G/e/] z/ +p+ [A2e2] z +pp+ [A/e/] z/ |
++p+ [A,2E2] z [A,-E-] [A,3/2E3/2] z/ [A,3/2E3/2] z/ |
+[^C2-^G2-] [C/G/] z/ [C/G/] z/ [^F2-^c2-] [F/c/] z/ +pp+ [F/c/] z/ |
+[D2-A2-] [D/A/] z/ +p+ [D/A/] z/ +pp+ [E2-B2-] [E/B/] z/ +p+ [E/B/] z/ |
+% Bar 10 (0:22)
+[^F2-^c2-] [F/c/] z/ [E-B-] [EB] z [EB] z |
++pp+ [D2-A2-] [D/A/] z/ [D/A/] z/ [E2-B2-] [E/B/] z/ [E/B/] z/ |
++p+ [A,2E2] z [A,-E-] [A,2E2] z2 |
+[A,2E2] z [A,-E-] [A,E] z [A,E] z |
++mp+ [^C2^G2] z +p+ [C/G/] z/ [^F2^c2] z [F/c/] z/ |
++pp+ [D2-A2-] [D/A/] z/ +p+ [D-A-] [D3/2A3/2] z/ [DA] z |
+[^G2-e2-] [G/e/] z/ [G/e/] z/ [A2e2] z [A/e/] z/ |
+[A,2-E2-] [A,/E/] z/ [A,-E-] [A,3/2E3/2] z/ [A,E] z |
+[^C2-^G2-] [C/G/] z/ [C/G/] z/ [^F2^c2] z [F/c/] z/ |
+[D2-A2-] [D/A/] z/ [D/A/] z/ [E2-B2-] [E/B/] z/ [E/B/] z/ |
+% Bar 20 (0:47)
+[^F2-^c2-] [F/c/] z/ [E-B-] [EB] z [EB] z |
+[D2-A2-] [D/A/] z/ [D/A/] z/ [E2-B2-] [E/B/] z/ [E/B/] z/ |
+[A,2-E2-] [A,/E/] z/ [A,-E-] [A,2E2] z2 |
+[D2-A2-] [D/A/] z/ [D/A/] z/ [E2B2] z [E/B/] z/ |
++mp+ [^F2-^c2-] [F/c/] z/ +p+ [E-B-] [EB] z +mp+ [EB] z |
++p+ [D2-A2-] [D/A/] z/ +pp+ [D/A/] z/ +p+ [E2-B2-] [E/B/] z/ [E/B/] z/ |
++mp+ [A,2-E2-] [A,/E/] z/ +p+ [A,-E-] [A,2E2] z2 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 [A,2-E2-] [A,/E/] z/ [A,-E-] |
+[A,3/2E3/2] z/ [A,E] z [^C2-^G2-] [C/G/] z/ [C/G/] z/ |
++mp+ [^F2-^c2-] [F/c/] z/ +p+ [F/c/] z/ [D2-A2-] [D/A/] z/ +pp+ [D-A-] |
+[D3/2A3/2] z/ +p+ [D3/2A3/2] z/ [E2-^G2-] [E/G/] z/ [G/^c/] z/ |
+[A2e2] z [A/e/] z/ [A,2-E2-] [A,/E/] z/ [A,-E-] |
+% Bar 40 (1:36)
+[A,3/2E3/2] z/ [A,3/2E3/2] z/ [^C2-^G2-] [C/G/] z/ [C/G/] z/ |
+[^F2-^c2-] [F/c/] z/ [F/c/] z/ +pp+ [D2-A2-] [D/A/] z/ +p+ [D/A/] z/ |
+[E2B2] z [E/B/] z/ [^F3^c3] [E-B-] |
+[EB] z [EB] z [D2-A2-] [D/A/] z/ [D/A/] z/ |
+[E2-B2-] [E/B/] z/ [E/B/] z/ [A,2-E2-] [A,/E/] z/ [A,-E-] |
+[A,2E2] z2 [D2A2] z +mp+ [D/A/] z/ |
++p+ [E2B2] z [E/B/] z/ [^F2^c2] z +mp+ [E-B-] |
+[E/B/] z3/2 [EB] z +p+ [D2-A2-] [D/A/] z/ [D/A/] z/ |
+[E2B2] z [E/B/] z/ [A,2E2] z [A,-E-] |
+[A,2E2] z2 +pppp+ [^Ge] z z2 |
+% Bar 50 (2:01)
+[Ae] z z2 [DA] z z2 |
+[EB] z z2 [^Ge] z z2 |
+[Ae] z z2 [DA] z z2 |
+[EB] z z2 [^Ge] z z2 |
+[Ae] z z2 [DA] z z2 |
+[EB] z z2 +ppp+ [^Ge] z z2 |
++pppp+ [Ae] z z2 [DA] z z2 |
+[E2-B2-] [E//B//] z23/4 |
+z4 +mp+ [A,2-E2-] [A,/E/] z/ +p+ [A,-E-] |
+[A,3/2E3/2] z/ [A,3/2E3/2] z/ [^C2-^G2-] [C/G/] z/ [C/G/] z/ |
+% Bar 60 (2:25)
++mp+ [^F2^c2] z +p+ [F/c/] z/ [D2-A2-] [D/A/] z/ [D-A-] |
+[D3/2A3/2] z/ [D3/2A3/2] z/ +mp+ [^G2-e2-] [G/e/] z/ +p+ [G/e/] z/ |
++pp+ [A2e2] z +p+ [A/e/] z/ [A,2-E2-] [A,/E/] z/ [A,-E-] |
+[A,3/2E3/2] z/ [A,E] z [^C2^G2] z [C/G/] z/ |
+[^F2-^c2-] [F/c/] z/ [F/c/] z/ +pp+ [D2-A2-] [D/A/] z/ +p+ [D/A/] z/ |
+[E2-B2-] [E/B/] z/ [E/B/] z/ [^F2^c2] z [E-B-] |
+[EB] z +mp+ [EB] z +p+ [D2-A2-] [D/A/] z/ [D/A/] z/ |
+[E2-B2-] [E/B/] z/ [E/B/] z/ [A,2E2] z +mp+ [A,-E-] |
+[A,2E2] z2 +pp+ [D2A2] z +p+ [D/A/] z/ |
+[E2-B2-] [E/B/] z/ [E/B/] z/ [^F2^c2] z [E-B-] |
+% Bar 70 (2:50)
+[E/B/] z3/2 [EB] z [D2-A2-] [D/A/] z/ [D/A/] z/ |
+[E2-B2-] [E/B/] z/ [E/B/] z/ +mp+ [A,2-E2-] [A,/E/] z/ +p+ [A,-E-] |
+[A,3E3] z [A,2-E2-] [A,/E/] z3/2 |
+z8 |]
+
+X: 23
+%%Orig filename was Willows2Travellers3.abc
+T: Willows On The Water (2:57) - Traveller's Trusty Fiddle 3 (OPT)
+%%part-name Traveller's Trusty Fiddle 3
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 97
+K: C maj
+
++pp+ z8 |
+z8 |
+z2 z// [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z// |
+z2 z// [A/^c/e/] z7/2 [c/^f/] z5/4 |
+z2 z// [d/^f/] z5/2 [df] z [d/f/] z// |
+z2 z// [^G/^c/e/] z7/2 [A/c/e/] z5/4 |
+z2 z// [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z// |
+z2 z// [A/^c/e/] z7/2 [c/^f/] z5/4 |
+z2 z// [d/^f/] z7/2 [B/e/] z5/4 |
+% Bar 10 (0:22)
+z2 z// [d/^f/] z5/2 [Be] z [B/e/] z// |
+z2 z// [d/^f/] z7/2 [B/e/] z5/4 |
+z2 z// [A/^c/e/] z21/4 |
+z2 z// [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z// |
+z2 z// [A/^c/e/] z7/2 [c/^f/] z5/4 |
+z2 z// [d/^f/] z5/2 [d/f/] z3/2 [d/f/] z// |
+z2 z// [^G/^c/e/] z7/2 +p+ [A/c/e/] z5/4 |
+z2 z// +pp+ [A/^c/e/] z5/2 [A/c/e/] z3/2 [A/c/e/] z// |
+z2 z// [A/^c/e/] z7/2 +p+ [c/^f/] z5/4 |
+z2 z// [d/^f/] z7/2 +pp+ [B/e/] z5/4 |
+% Bar 20 (0:47)
+z2 z// [d/^f/] z5/2 [B/e/] z3/2 [B/e/] z// |
+z2 z// [A/d/] z7/2 [B/e/] z5/4 |
+z2 z// [A/^c/e/] z21/4 |
+z2 z// [d/^f/] z7/2 [B/e/] z5/4 |
+z2 z// +p+ [d/^f/] z5/2 +pp+ [B/e/] z3/2 [B/e/] z// |
+z2 z// [A/d/] z7/2 [B/e/] z5/4 |
+z2 z// [A/^c/e/] z21/4 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z2 z// +p+ [A/^c/e/] z5/4 |
+z z// +pp+ [A/^c/e/] z3/2 [A/c/e/] z5/2 [A/c/e/] z5/4 |
+z2 z// [^c/^f/] z7/2 [d/f/] z5/4 |
+z z// [d/^f/] z3/2 [d/f/] z5/2 [^G/^c/e/] z5/4 |
+z2 z// [A/^c/e/] z7/2 [A/c/e/] z5/4 |
+% Bar 40 (1:36)
+z z// [A/^c/e/] z3/2 [A/c/e/] z5/2 [A/c/e/] z5/4 |
+z2 z// [^c/^f/] z7/2 +p+ [d/f/] z5/4 |
+z2 z// +pp+ [B/e/] z7/2 +p+ [d/^f/] z5/4 |
+z z// +pp+ [B/e/] z3/2 [B/e/] z5/2 [A/d/] z5/4 |
+z2 z// [B/e/] z7/2 [A/^c/e/] z5/4 |
+z4 z2 z// +p+ [d/^f/] z5/4 |
+z2 z// +pp+ [B/e/] z7/2 +p+ [d/^f/] z5/4 |
+z z// +pp+ [B/e/] z3/2 [B/e/] z5/2 [A/d/] z5/4 |
+z2 z// [B/e/] z7/2 [A/^c/e/] z5/4 |
+z4 z z// +ppp+ [E,/E/] z/ [^G,/^G/] z/ +pppp+ [E,/E/] z// |
+% Bar 50 (2:01)
+z z// +ppp+ [E,/E/] z/ [A,/A/] z/ [E,/E/] z3/2 A,/ z/ [D,/D/] z/ +pppp+ A,/ z// |
+z z// +ppp+ B,/ z/ [E,/E/] z/ B,/ z3/2 [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z// |
+z z// [E,/E/] z/ [A,/A/] z/ +pppp+ [E,/E/] z3/2 +ppp+ A,/ z/ [D,/D/] z/ A,/ z// |
+z z// B,/ z/ [E,/E/] z/ B,/ z3/2 [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z// |
+z z// [E,/E/] z/ [A,/A/] z/ [E,/E/] z3/2 +pppp+ A,/ z/ +ppp+ [D,/D/] z/ A,/ z// |
+z z// +pppp+ B,/ z/ +ppp+ [E,/E/] z/ B,/ z3/2 [E,/E/] z/ [^G,/^G/] z/ [E,/E/] z// |
+z z// [E,/E/] z/ [A,/A/] z/ [E,/E/] z3/2 +pppp+ A,/ z/ +ppp+ [D,/D/] z/ +pppp+ A,/ z// |
+z z// +ppp+ B,/ z/ [E,/E/] z/ B,/ z17/4 |
+z4 z2 z// +pp+ [A/^c/e/] z5/4 |
+z z// [A/^c/e/] z3/2 [A/c/e/] z5/2 [A/c/e/] z5/4 |
+% Bar 60 (2:25)
+z2 z// +p+ [^c/^f/] z7/2 [d/f/] z5/4 |
+z z// +pp+ [d/^f/] z3/2 [d/f/] z5/2 [^G/^c/e/] z5/4 |
+z2 z// [A/^c/e/] z7/2 [A/c/e/] z5/4 |
+z z// [A/^c/e/] z3/2 +p+ [A/c/e/] z5/2 +pp+ [A/c/e/] z5/4 |
+z2 z// +p+ [^c/^f/] z7/2 [d/f/] z5/4 |
+z2 z// +pp+ [B/e/] z7/2 +p+ [d/^f/] z5/4 |
+z z// +pp+ [B/e/] z3/2 [B/e/] z5/2 +p+ [A/d/] z5/4 |
+z2 z// +pp+ [B/e/] z7/2 [A/^c/e/] z5/4 |
+z4 z2 z// +p+ [d/^f/] z5/4 |
+z2 z// +pp+ [B/e/] z7/2 +p+ [d/^f/] z5/4 |
+% Bar 70 (2:50)
+z z// +pp+ [B/e/] z3/2 [B/e/] z5/2 +p+ [A/d/] z5/4 |
+z2 z// +pp+ [B/e/] z7/2 [A/^c/e/] z5/4 |
+z z// [A/^c/e/] z25/4 |
+z8 |]
+

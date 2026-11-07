@@ -1,0 +1,75 @@
+N: TS  2,   1   5
+X: 1
+%%Orig filename was GilgaladFlute.abc
+T: Gil-galad was an Elven King (1:11) - Basic Flute
+%%part-name Basic Flute
+Z: Cheggra
+M: 6/4
+Q: 120
+K: C maj
+
++fff+ z2 A,- A,3/4 z// E- E3/4 z// E2- E2- E3/2 z/ |
+F E D- D3/4 z// E- E3/4 z// E2- E2- E3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// C- C3/4 z// E2- E2- E3/2 z/ |
+D- D3/4 z// C- C3/4 z// D- D3/4 z// B,2- B,2- B,3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// E- E3/4 z// A2- A2- A3/2 z/ |
+E- E3/4 z// F- F3/4 z// G- G3/4 z// E2- E2- E3/2 z/ |
+D- D3/4 z// C- C3/4 z// B,- B,3/4 z// C2- C2- C3/2 z/ |
+A, B, C- C3/4 z// A,- A,3/4 z// A,2- A,2- A,3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// E- E3/4 z// E2- E2- E3/2 z/ |
+% Bar 10 (0:27)
+F E D- D3/4 z// E- E3/4 z// E2- E2- E3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// C- C3/4 z// E2- E2- E3/2 z/ |
+D- D3/4 z// C- C3/4 z// D- D3/4 z// B,2- B,2- B,3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// E- E3/4 z// A2- A2- A3/2 z/ |
+E- E3/4 z// F- F3/4 z// G- G3/4 z// E2- E2- E3/2 z/ |
+D- D3/4 z// C- C3/4 z// B,- B,3/4 z// C2- C2- C3/2 z/ |
+A, B, C- C3/4 z// A,- A,3/4 z// A,2- A,2- A,3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// E- E3/4 z// E2- E2- E3/2 z/ |
+F E D- D3/4 z// E- E3/4 z// E2- E2- E3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// C- C3/4 z// E2- E2- E3/2 z/ |
+% Bar 20 (0:57)
+D- D3/4 z// C- C3/4 z// D- D3/4 z// B,2- B,2- B,3/2 z/ |
+A,- A,3/4 z// A,- A,3/4 z// E- E3/4 z// A2- A2- A3/2 z/ |
+E- E3/4 z// F- F3/4 z// G- G3/4 z// E2- E2- E3/2 z/ |
+D- D3/4 z// C- C3/4 z// B,- B,3/4 z// C2- C2- C3/2 z/ |
+A, B, C- C3/4 z// A,- A,3/4 z// A,2- A,2- A,3/2 z/ |
+z12 |]
+
+X: 5
+%%Orig filename was GilgaladHarp.abc
+T: Gil-galad was an Elven King (1:11) - Basic Harp
+%%part-name Basic Harp
+Z: Cheggra
+M: 6/4
+Q: 120
+K: C maj
+
++fff+ z2 [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,3/2E3/2A3/2] z/ [E,2-B,2-E2-] [E,4-B,4-E4-] |
+[E,3/2B,3/2E3/2] z/ [E2-A2-] [E4-A4-] [E4-A4-] |
+[E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+% Bar 10 (0:27)
+[A,3/2E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,3/2E3/2A3/2] z/ [E,2-B,2-E2-] [E,4-B,4-E4-] |
+[E,3/2B,3/2E3/2] z/ [E2-A2-] [E4-A4-] [E4-A4-] |
+[E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+% Bar 20 (0:57)
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,3/2E3/2A3/2] z/ [E,2-B,2-E2-] [E,4-B,4-E4-] |
+[E,3/2B,3/2E3/2] z/ [E2-A2-] [E4-A4-] [E4-A4-] |
+[E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z/ [G,2-D2-G2-] [G,3/2D3/2G3/2] z/ [A,2-E2-A2-] [A,4-E4-A4-] |
+[A,3/2E3/2A3/2] z21/2 |]
+

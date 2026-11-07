@@ -1,0 +1,398 @@
+N: TS  5,   1   5  21   8  22
+X: 1
+%%Orig filename was Rocketman__Flute4.abc
+T:Elton John:Rocket Man (Horn) [Dalthyn of Brandywine] (4:00)
+M:4/4
+L:1/8
+Q:1/4=67
+% Last note suggests Dorian mode tune
+K:Ab % 4 flats
+x8| \
+x
+%%MIDI program 34
+% Bass
++p+
+G/2-[B/2-G/2] B/2x/2G<BG B2| \
+G/2x/2B/2-[c/2-B/2] c4 x2| \
+xB/2G/2 BG x2 B/2c/2B/2c/2-|
+c4 x4| \
+xx/2G/2 B/2B/2=d2<f2b-| \
+b-[b/2=d/2]c/2 Bc3/2x/2G/2F/2 BF/2x/2| \
+F8|
+x6 xF| \
+xG/2B3/2G/2B3/2G/2x/2 B2| \
+GB/2c2-c/2 x4| \
+xB/2G/2 BG3/2x3/2 B/2c/2B/2c/2-|
+c4 x4| \
+xG/2G/2 B/2B/2=d- [f-=d]f2-[b/2-f/2]b/2-| \
+b=d/2c/2 Bc2-[c/2G/2]F/2 B-[B/2F/2-]F/2| \
+Fx6x|
+x8| \
+xF/2F/2 B/2B/2-[=d/2B/2]=d/2- [_e/2-=d/2]e/2=d<c=d-| \
+[=d/2B/2-]B/2G<Bc e/2=d/2B/2B/2- [c/2-B/2]c/2=d-| \
+[=d/2B/2-]B/2F Bc e/2=d/2c/2B/2 c<=d|
+Bb B/2cB3x/2B/2G/2-| \
+[=d/2G/2]B<c[=d/2c/2]B3 x2| \
+e/2=d/2e2-e/2x/2 e/2=d/2e/2=d/2 e/2=df/2-| \
+f/2=d/2-[=d/2B/2-]B/2 F2 x4|
+x4 xG/2B3/2G/2B/2-| \
+BG/2x/2 B2 GB/2c2-c/2| \
+x4 xB/2G/2 BG-| \
+G/2x3/2 B/2c/2B/2c4-c/2|
+x4 xG/2G/2 B/2B/2=d-| \
+[f-=d]f2-[b/2-f/2]b3/2=d/2c/2 Bc-| \
+c-[c/2G/2]F/2 B-[B/2F/2-]F/2 Fx3| \
+x8|
+x4 xG/2B3/2G/2B/2-| \
+BG/2x/2 B2 GB/2c2-c/2| \
+x4 xB/2G/2 BG-| \
+G/2x3/2 B/2c/2B/2c4-c/2|
+x4 xG/2G/2 B/2B/2=d-| \
+[f-=d]f2-[b/2-f/2]b3/2=d/2c/2 Bc-| \
+c-[c/2G/2]F/2 B-[B/2F/2-]F/2 Fx3| \
+x8|
+x4 xF/2F/2 B/2B/2-[=d/2B/2]=d/2-| \
+[e/2-=d/2]e/2=d<c=d- [=d/2B/2-]B/2G<Bc| \
+e/2=d/2B/2B/2- [c/2-B/2]c/2=d- [=d/2B/2-]B/2F Bc| \
+e/2=d/2c/2B/2 c<=d Bb B/2cB/2-|
+B2- B/2x/2B/2G/2- [=d/2G/2]B<c[=d/2c/2]B-| \
+B2 x2 e/2=d/2e2-e/2x/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2-[=d/2B/2-]B/2 F2| \
+x8|
+x4 xF/2F/2 B/2B/2=d/2=d/2| \
+e=d<c=d BG<Bc| \
+e/2=d/2B/2B/2 c/2x/2=d- [=d/2B/2-]B/2-[B/2F/2-]F/2 Bc-| \
+[e/2-c/2][e/2=d/2]c/2B/2 c/2=d3/2 Bb B/2cB/2-|
+B2- B/2x/2B/2G/2 =d/2-[=d/2B/2]c3/2=d/2[c/2B/2-]B/2-| \
+B2 x2 e/2=d/2e3| \
+e/2=d/2e/2=d/2 e/2=df-[f/2=d/2]B3-| \
+B/2x6x/2G/2B/2|
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2|
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2|
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2B2
+
+X: 5
+%%Orig filename was Rocketman__Harp2.abc
+T:Elton John:Rocket Man (Basic Harp 1) [Dalthyn of Brandywine] (4:03)
+%%part-name Basic Harp 1
+M:4/4
+L:1/8
+Q:1/4=67
+K:Ab % 4 flats
+% Piano 1
+%%MIDI program 0
+x8| \
+%%MIDI program 34
+% Bass
+[=dBG]x [=d/2B/2G/2]x3/2 [=d/2B/2-F/2-][B/2F/2]x [=d/2B/2-F/2-][B/2F/2]x| \
+[cB=E]x [c/2-B/2-=E/2][c/2B/2]x C/2-[=E/2-C/2][G/2=E/2]BG/2c/2x/2| \
+[=dBG]x [=dBG]x [=dBF]x [=d/2B/2F/2]x3/2|
+[c/2B/2=E/2-]=E/2x [c/2-B/2-=E/2][c/2B/2]x C/2=E/2G/2B=A/2G/2x/2| \
+[B/2G/2_E/2-]E/2x [B/2G/2E/2]x3/2 [BF=D]x [B/2F/2=D/2]x3/2| \
+[G/2E/2-C/2-][E/2C/2]x [GEC]x [GEB,]x [GEB,]x| \
+[FC=A,]x [FC=A,]x [FC=A,]x [FC=A,]x|
+[FC=A,]x [FC=A,]x [FC=A,]x [F/2C/2=A,/2]x3/2| \
+[=dBG]x [=dBG]x [=dBF-]F/2x/2 [=dBF]x| \
+[cB=E]x [cB=E]x C/2=E/2-[G/2=E/2]BG/2c/2x/2| \
+[=dBG]x [=dBG]x [=dB-F-][B/2F/2]x/2 [=dBF]x|
+[cB=E]x [cB=E]x C/2=E/2-[G/2=E/2]B=A/2G/2x/2| \
+[BG_E]x [BGE]x [BF=D]x [BF=D]x| \
+[GEC]x [GEC]x [GEB,]x [GEB,]x| \
+[FC=A,]x [FC=A,]x [FC=A,]x [FC=A,]x|
+[F-C=A,]F/2x/2 [F/2-C/2-=A,/2][F/2C/2]x [FF,]x [FF,]x| \
+[F=DB,]x [F/2-=D/2B,/2-][F/2B,/2]x [BF=D-]=D/2x/2 [BF=D]x| \
+[BGE]x [BGE]x [BGE]x [B/2G/2E/2]x3/2| \
+[F=DB,]x [F/2-=D/2B,/2-][F/2B,/2]x [BF=D]x [BF=D]x|
+[BGE]x [BGE]x [BF=D]x [BF=D]x| \
+[B/2-=E/2C/2-][B/2C/2]x [B=EC]x [B/2=E/2C/2-]C/2x [B/2-=E/2C/2-][B/2C/2]x| \
+[BG_E]x [BGE]x [BGE]x [BGE]x| \
+[BF=D]x [BF=D]x [BGE]x [BGE]x|
+[B/2G/2E/2-]E/2x [BGE]x [=dBG]x [=dBG]x| \
+[=dBF-]F/2x/2 [=dBF]x [cB=E]x [cB=E]x| \
+C/2=E/2-[G/2=E/2]BG/2c/2x/2 [=dBG]x [=dBG]x| \
+[=dB-F-][B/2F/2]x/2 [=dBF]x [cB=E]x [cB=E]x|
+C/2=E/2-[G/2=E/2]B=A/2G/2x/2 [BG_E]x [BGE]x| \
+[BF=D]x [BF=D]x [GEC]x [GEC]x| \
+[GEB,]x [GEB,]x [FC=A,]x [FC=A,]x| \
+[FC=A,]x [FC=A,]x [F-C=A,]F/2x/2 [F/2-C/2-=A,/2][F/2C/2]x|
+[FF,]x [FF,]x [=dBG]x [=dBG]x| \
+[=dBF-]F/2x/2 [=dBF]x [cB=E]x [cB=E]x| \
+C/2=E/2-[G/2=E/2]BG/2c/2x/2 [=dBG]x [=dBG]x| \
+[=dB-F-][B/2F/2]x/2 [=dBF]x [cB=E]x [cB=E]x|
+C/2=E/2-[G/2=E/2]B=A/2G/2x/2 [BG_E]x [BGE]x| \
+[BF=D]x [BF=D]x [GEC]x [GEC]x| \
+[GEB,]x [GEB,]x [FC=A,]x [FC=A,]x| \
+[FC=A,]x [FC=A,]x [F-C=A,]F/2x/2 [F/2-C/2-=A,/2][F/2C/2]x|
+[FF,]x [FF,]x [F=DB,]x [F/2-=D/2B,/2-][F/2B,/2]x| \
+[BF=D-]=D/2x/2 [BF=D]x [BGE]x [BGE]x| \
+[BGE]x [B/2G/2E/2]x3/2 [F=DB,]x [F/2-=D/2B,/2-][F/2B,/2]x| \
+[BF=D]x [BF=D]x [BGE]x [BGE]x|
+[BF=D]x [BF=D]x [B/2-=E/2C/2-][B/2C/2]x [B=EC]x| \
+[B/2=E/2C/2-]C/2x [B/2-=E/2C/2-][B/2C/2]x [BG_E]x [BGE]x| \
+[BGE]x [BGE]x [BF=D]x [BF=D]x| \
+[BGE]x [BGE]x [B/2G/2E/2-]E/2x [BGE]x|
+[F3/2F,3/2]x/2 [FF,]x [F=DB,-]B,/2x/2 [F=DB,]x| \
+[BF=D-]=D/2x/2 [BF=D]x [BGE]x [BGE]x| \
+[BGE]x [BGE]x [F/2-=D/2-B,/2][F/2=D/2]x [F/2=D/2-B,/2-][=D/2B,/2]x| \
+[BF=D]x [BF=D]x [BGE]x [BGE]x|
+[BF=D]x [B3/2F3/2=D3/2]x/2 [B=EC]x [B=EC]x| \
+[B/2-=E/2C/2-][B/2C/2]x [B/2-=E/2C/2-][B/2C/2]x [BG_E]x [BGE]x| \
+[BGE]x [BGE]x [B/2-F/2=D/2-][B/2=D/2]x [B-F=D]B/2x/2| \
+B,/2=DE=EF/2 [BG_E]x [BGE]x|
+[BGE-]E/2x/2 [B/2-G/2E/2-][B/2E/2]x [BF=D-]=D/2x/2 [B-F=D]B-| \
+[B/2-B,/2][B-=D][B/2E/2-] E/2=EF/2 [BG_E]x [BGE]x| \
+[BGE-]E/2x/2 [B/2-G/2E/2-][B/2E/2]x [BF=D-]=D/2x/2 [B-F=D]B-| \
+[B/2-B,/2][B-=D][B/2E/2-] E/2=EF/2 [BG_E]x [BGE]x|
+[BGE-]E/2x/2 [B/2-G/2E/2-][B/2E/2]x [BF=D-]=D/2x/2 [B-F=D]B-| \
+[B/2-B,/2][B-=D][B/2E/2-] E/2=EF/2 [BG_E]x [BGE]x| \
+[BGE-]E/2x/2 [B/2-G/2E/2-][B/2E/2]x [BF=D-]=D/2x/2 [B-F=D]B-| \
+[B/2-B,/2][B-=D][B/2E/2-] E/2=EF/2 [BG_E]x [BGE]x|
+[BGE-]E/2x/2 [B/2-G/2E/2-][B/2E/2]x [BF=D-]=D/2x/2 [B-F=D]B-| \
+[B/2-B,/2][B-=D][B/2E/2-] E/2=EF/2 [BG_E]x [BGE]x| \
+[BGE-]E/2x/2 [B/2-G/2E/2-][B/2E/2]x [BF=D-]=D/2x/2 [B-F=D]B-| \
+[B2B,2-] B,4
+
+X: 21
+%%Orig filename was Rocketman__Harp3.abc
+T:Elton John:Rocket Man (Basic Harp 2) [Dalthyn of Brandywine] (4:00)
+%%part-name Basic Harp 2
+M:4/4
+L:1/8
+Q:1/4=67
+K:Ab % 4 flats
+x8| \
+x
+%%MIDI program 34
+% Bass
+G/2-[B/2-G/2] B/2x/2G<BG B2| \
+G/2x/2B/2-[c/2-B/2] c4 x2| \
+xB/2G/2 BG x2 B/2c/2B/2c/2-|
+c4 x4| \
+xx/2G/2 B/2B/2=d2<f2b-| \
+b-[b/2=d/2]c/2 Bc3/2x/2G/2F/2 BF/2x/2| \
+FC/2F/2- [=A/2-F/2][c/2-=A/2]c =A/2F/2C/2[=A-F][=A/2C/2-][G/2-=E/2-C/2][G/2=E/2]|
+xC/2-[F/2-C/2-] [=A/2F/2C/2-][c/2C/2]x =A/2F/2C/2[=AF]G/2F| \
+xG/2B3/2G/2B3/2G/2x/2 B2| \
+GB/2c2-c/2 x4| \
+xB/2G/2 BG3/2x3/2 B/2c/2B/2c/2-|
+c4 x4| \
+xG/2G/2 B/2B/2=d- [f-=d]f2-[b/2-f/2]b/2-| \
+b=d/2c/2 Bc2-[c/2G/2]F/2 B-[B/2F/2-]F/2| \
+FC/2F/2 =A<c =A/2F/2C/2[=A-F][=A/2C/2][G=E]|
+xC/2F/2 =A/2c/2x F/2x/2x/2[F_EB,]x/2[FEB,]| \
+xF/2F/2 B/2B/2-[=d/2B/2]=d/2- [e/2-=d/2]e/2=d<c=d-| \
+[=d/2B/2-]B/2G<Bc e/2=d/2B/2B/2- [c/2-B/2]c/2=d-| \
+[=d/2B/2-]B/2F Bc e/2=d/2c/2B/2 c<=d|
+Bb B/2cB3x/2B/2G/2-| \
+[=d/2G/2]B<c[=d/2c/2]B3 x2| \
+e/2=d/2e2-e/2x/2 e/2=d/2e/2=d/2 e/2=df/2-| \
+f/2=d/2-[=d/2B/2-]B/2 F2 E/2EEE/2F|
+x/2EEE/2F xG/2B3/2G/2B/2-| \
+BG/2x/2 B2 GB/2c2-c/2| \
+x4 xB/2G/2 BG-| \
+G/2x3/2 B/2c/2B/2c4-c/2|
+x4 xG/2G/2 B/2B/2=d-| \
+[f-=d]f2-[b/2-f/2]b3/2=d/2c/2 Bc-| \
+c-[c/2G/2]F/2 B-[B/2F/2-]F/2 FC/2F/2 =A<c| \
+=A/2F/2C/2[=A-F][=A/2C/2][G=E] xC/2F/2 =A/2c/2x|
+F/2x/2x/2[F_EB,]x/2[FEB,] xG/2B3/2G/2B/2-| \
+BG/2x/2 B2 GB/2c2-c/2| \
+x4 xB/2G/2 BG-| \
+G/2x3/2 B/2c/2B/2c4-c/2|
+x4 xG/2G/2 B/2B/2=d-| \
+[f-=d]f2-[b/2-f/2]b3/2=d/2c/2 Bc-| \
+c-[c/2G/2]F/2 B-[B/2F/2-]F/2 FC/2F/2 =A<c| \
+=A/2F/2C/2[=A-F][=A/2C/2][G=E] xC/2F/2 =A/2c/2x|
+F/2x/2x/2[F_EB,]x/2[FEB,] xF/2F/2 B/2B/2-[=d/2B/2]=d/2-| \
+[e/2-=d/2]e/2=d<c=d- [=d/2B/2-]B/2G<Bc| \
+e/2=d/2B/2B/2- [c/2-B/2]c/2=d- [=d/2B/2-]B/2F Bc| \
+e/2=d/2c/2B/2 c<=d Bb B/2cB/2-|
+B2- B/2x/2B/2G/2- [=d/2G/2]B<c[=d/2c/2]B-| \
+B2 x2 e/2=d/2e2-e/2x/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2-[=d/2B/2-]B/2 F2| \
+E/2EEE/2F E/2E/2E/2E=D/2E/2x/2|
+F/2x/2F/2[FEB,]x/2[F/2E/2B,/2]x3/2F/2F/2 B/2B/2=d/2=d/2| \
+e=d<c=d BG<Bc| \
+e/2=d/2B/2B/2 c/2x/2=d- [=d/2B/2-]B/2-[B/2F/2-]F/2 Bc-| \
+[e/2-c/2][e/2=d/2]c/2B/2 c/2=d3/2 Bb B/2cB/2-|
+B2- B/2x/2B/2G/2 =d/2-[=d/2B/2]c3/2=d/2[c/2B/2-]B/2-| \
+B2 x2 e/2=d/2e3| \
+e/2=d/2e/2=d/2 e/2=df-[f/2=d/2]B3-| \
+B/2x6x/2G/2B/2|
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2|
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2|
+e/2=d/2e/2=d/2 e/2=df=d/2B2x| \
+x6 xG/2B/2| \
+e/2=d/2e/2=d/2 e/2=df=d/2B2
+
+X: 8
+%%Orig filename was Rocketman__Lute5.abc
+T:Elton John:Rocket Man (Basic Lute) [Dalthyn of Brandywine] (4:02)
+%%part-name Basic Lute
+M:4/4
+L:1/8
+Q:1/4=67
+% Last note suggests Dorian mode tune
+K:Ab % 4 flats
+x8| \
+[G3-=D3-B,3-G,3][G/2=D/2B,/2]x/2 [G3-=D3-B,3-F,3-][G/2=D/2B,/2F,/2]x/2| \
+[G3-C3-G,3-=E,3-][G/2C/2G,/2=E,/2]x/2 C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2G,/2-=E,/2-C,/2-][C/2-G,/2=E,/2C,/2]C/2| \
+[G3-=D3-B,3-G,3-][G/2=D/2B,/2G,/2]x/2 [G3-=D3-B,3-F,3-][G/2=D/2B,/2F,/2]x/2|
+[G3-C3-G,3-=E,3-][G/2C/2G,/2=E,/2]x/2 C/2-[=E/2C/2]x/2B-[B/2-=A/2-][B=AG]| \
+[G3-_E3-B,3-E,3-][G/2E/2B,/2E,/2]x/2 [F3-B,3-F,3-=D,3-][F/2B,/2F,/2=D,/2]x/2| \
+[E3-C3-G,3-C,3-][E/2C/2G,/2C,/2]xE,/2-[G,/2-E,/2-][G,/2-F,/2-E,/2] [B,/2-G,/2F,/2-][B,/2-F,/2][B,/2F,/2-]F,/2| \
+[F3-C3-F,3-][F/2C/2F,/2]x/2 [c3-F3-C3-][c/2F/2C/2]x/2|
+[F3-C3-F,3-][F/2C/2F,/2]x/2 =A/2-[=A/2F/2]C/2FG/2-[GF]| \
+[G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2| \
+[G3/2C3/2G,3/2=E,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2 C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2G,/2-=E,/2-C,/2-][C/2-G,/2=E,/2C,/2]C/2| \
+[G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2|
+[G3/2C3/2G,3/2=E,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2 C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2=A,/2-=E,/2-C,/2-][=A,/2G,/2-=E,/2C,/2]G,/2| \
+[G_EB,E,-][G/2E/2B,/2E,/2-][G/2E/2B,/2E,/2-] [GEB,E,-][G/2E/2B,/2E,/2][G/2E/2B,/2] [F/2=D/2B,/2=D,/2-][F/2=D/2B,/2=D,/2][F/2=D/2B,/2][F/2=D/2B,/2] x/2[F/2=D/2B,/2][F/2=D/2B,/2][F/2=D/2B,/2]| \
+[G/2E/2C/2C,/2-][G/2E/2C/2C,/2][G/2E/2C/2][GEC][G/2E/2C/2][G/2E/2C/2][G/2E/2C/2] [GEB,E,][G/2E/2B,/2][GEB,E,][G/2E/2B,/2][G/2E/2B,/2][G/2E/2B,/2]| \
+[F/2C/2F,/2][F/2C/2][F/2C/2F,/2][FCF,][F/2C/2F,/2][F/2C/2F,/2][F/2C/2F,/2] [cFC][cF=A,] [c/2F/2=A,/2][c/2F/2=A,/2][c/2F/2=A,/2][c/2F/2=A,/2]|
+[fcF][f/2c/2F/2][f/2c/2F/2] [f/2c/2F/2][fcF][f/2c/2F/2] [f/2c/2B/2F,/2-][f/2c/2F,/2-][f/2c/2B/2F,/2][fcB][f/2c/2B/2][f/2c/2B/2][f/2c/2B/2]| \
+[BF=D][B/2F/2=D/2][B/2F/2=D/2] [BF=D][B/2F/2=D/2][B/2F/2=D/2] [B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2] x/2[B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[G/2E/2-B,/2-E,/2-][E/2B,/2E,/2][G/2E/2B,/2][GEB,][G/2E/2B,/2][G/2E/2B,/2][G/2E/2B,/2] [G/2E/2B,/2E,/2][GEB,][G/2E/2B,/2] [G/2E/2B,/2E,/2-][G/2E/2B,/2E,/2][GEB,]| \
+[B/2F/2=D/2][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2] [B/2-F/2-=D/2][B/2F/2][B/2-F/2-=D/2][B/2F/2] [B/2F/2=D/2][BF=D][B/2F/2=D/2]|
+[BGEE,-][BGEE,-] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2G/2E/2] [B/2-F/2-B,/2=D,/2-][B/2F/2=D,/2-][B/2F/2B,/2=D,/2][B/2F/2B,/2=D,/2-] =D,/2-[B/2F/2B,/2=D,/2-][B/2F/2B,/2=D,/2][B/2F/2B,/2]| \
+[BG=EC,-][B/2-G/2-=E/2-C,/2][B/2G/2=E/2] [B/2G/2=E/2C,/2-][B/2G/2=E/2C,/2-][B/2G/2=E/2C,/2][BG=E][B/2G/2=E/2][B/2G/2=E/2][BG=E][B/2G/2=E/2][B/2G/2=E/2][B/2G/2=E/2]| \
+[B/2G/2-_E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2] [B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2-F/2-=D/2-]| \
+[B/2F/2=D/2][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2] [B/2G/2E/2E,/2-][BGEE,][BGE][B/2G/2E/2][BGF]|
+[B/2G/2E,/2-][B/2-G/2E/2-E,/2-][B/2E/2E,/2][BGE][B/2G/2E/2][BGF] [G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2G,3/2]x/2| \
+[G3/2=D3/2B,3/2F,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2| \
+C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2G,/2-=E,/2-C,/2-][C/2-G,/2=E,/2C,/2]C/2 [G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2G,3/2]x/2| \
+[G3/2=D3/2B,3/2F,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2|
+C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2=A,/2-=E,/2-C,/2-][=A,/2G,/2-=E,/2C,/2]G,/2 [G_EB,E,-][G/2E/2B,/2E,/2-][G/2E/2B,/2E,/2-] [GEB,E,-][G/2E/2B,/2E,/2][G/2E/2B,/2]| \
+[F/2=D/2B,/2=D,/2-][F/2=D/2B,/2=D,/2][F/2=D/2B,/2][F/2=D/2B,/2] x/2[F/2=D/2B,/2][F/2=D/2B,/2][F/2=D/2B,/2] [G/2E/2C/2C,/2-][G/2E/2C/2C,/2][G/2E/2C/2][GEC][G/2E/2C/2][G/2E/2C/2][G/2E/2C/2]| \
+[GEB,E,][G/2E/2B,/2][GEB,E,][G/2E/2B,/2][G/2E/2B,/2][G/2E/2B,/2] [F/2C/2F,/2][F/2C/2][F/2C/2F,/2][FCF,][F/2C/2F,/2][F/2C/2F,/2][F/2C/2F,/2]| \
+[cFC][cF=A,] [c/2F/2=A,/2][c/2F/2=A,/2][c/2F/2=A,/2][c/2F/2=A,/2] [fcF][f/2c/2F/2][f/2c/2F/2] [f/2c/2F/2][fcF][f/2c/2F/2]|
+[f/2c/2B/2F,/2-][f/2c/2F,/2-][f/2c/2B/2F,/2][fcB][f/2c/2B/2][f/2c/2B/2][f/2c/2B/2] [G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2G,3/2]x/2| \
+[G3/2=D3/2B,3/2F,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2| \
+C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2G,/2-=E,/2-C,/2-][C/2-G,/2=E,/2C,/2]C/2 [G3/2=D3/2B,3/2G,3/2]x/2 [G3/2=D3/2B,3/2G,3/2]x/2| \
+[G3/2=D3/2B,3/2F,3/2]x/2 [G3/2=D3/2B,3/2F,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2 [G3/2C3/2G,3/2=E,3/2]x/2|
+C,/2-[=E,/2-C,/2-][G,/2-=E,/2-C,/2-][B,-G,=E,-C,-][B,/2=A,/2-=E,/2-C,/2-][=A,/2G,/2-=E,/2C,/2]G,/2 [G_EB,E,-][G/2E/2B,/2E,/2-][G/2E/2B,/2E,/2-] [GEB,E,-][G/2E/2B,/2E,/2][G/2E/2B,/2]| \
+[F/2=D/2B,/2=D,/2-][F/2=D/2B,/2=D,/2][F/2=D/2B,/2][F/2=D/2B,/2] x/2[F/2=D/2B,/2][F/2=D/2B,/2][F/2=D/2B,/2] [G/2E/2C/2C,/2-][G/2E/2C/2C,/2][G/2E/2C/2][GEC][G/2E/2C/2][G/2E/2C/2][G/2E/2C/2]| \
+[GEB,E,][G/2E/2B,/2][GEB,E,][G/2E/2B,/2][G/2E/2B,/2][G/2E/2B,/2] [F/2C/2F,/2][F/2C/2][F/2C/2F,/2][FCF,][F/2C/2F,/2][F/2C/2F,/2][F/2C/2F,/2]| \
+[cFC][cF=A,] [c/2F/2=A,/2][c/2F/2=A,/2][c/2F/2=A,/2][c/2F/2=A,/2] [fcF][f/2c/2F/2][f/2c/2F/2] [f/2c/2F/2][fcF][f/2c/2F/2]|
+[f/2c/2B/2F,/2-][f/2c/2F,/2-][f/2c/2B/2F,/2][fcB][f/2c/2B/2][f/2c/2B/2][f/2c/2B/2] [BF=D][B/2F/2=D/2][B/2F/2=D/2] [BF=D][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2] x/2[B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2] [G/2E/2-B,/2-E,/2-][E/2B,/2E,/2][G/2E/2B,/2][GEB,][G/2E/2B,/2][G/2E/2B,/2][G/2E/2B,/2]| \
+[G/2E/2B,/2E,/2][GEB,][G/2E/2B,/2] [G/2E/2B,/2E,/2-][G/2E/2B,/2E,/2][GEB,] [B/2F/2=D/2][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2]| \
+[B/2-F/2-=D/2][B/2F/2][B/2-F/2-=D/2][B/2F/2] [B/2F/2=D/2][BF=D][B/2F/2=D/2] [BGEE,-][BGEE,-] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2G/2E/2]|
+[B/2-F/2-B,/2=D,/2-][B/2F/2=D,/2-][B/2F/2B,/2=D,/2][B/2F/2B,/2=D,/2-] =D,/2-[B/2F/2B,/2=D,/2-][B/2F/2B,/2=D,/2][B/2F/2B,/2] [BG=EC,-][B/2-G/2-=E/2-C,/2][B/2G/2=E/2] [B/2G/2=E/2C,/2-][B/2G/2=E/2C,/2-][B/2G/2=E/2C,/2][B/2-G/2-=E/2-]| \
+[B/2G/2=E/2][B/2G/2=E/2][B/2G/2=E/2][BG=E][B/2G/2=E/2][B/2G/2=E/2][B/2G/2=E/2] [B/2G/2-_E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]| \
+[B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2G/2E/2E,/2-][BGEE,][BGE][B/2G/2E/2][BGF] [eBGE,-][e/2B/2G/2E,/2][eBG][e/2B/2G/2][eBG]|
+[f/2-c/2-B/2F,/2-][f/2c/2F,/2-][f/2c/2B/2F,/2][fcBF,-][f/2c/2B/2F,/2-][f/2c/2B/2F,/2][f/2c/2B/2] [f-=dB][f/2-B/2F/2=D/2][f/2B/2F/2=D/2] [BF=D][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2E,/2-][B/2F/2=D/2E,/2][B/2F/2=D/2][B/2F/2=D/2] x/2[B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2] [G/2E/2-B,/2-E,/2-][E/2B,/2E,/2][G/2E/2B,/2][GEB,][G/2E/2B,/2][G/2E/2B,/2][G/2E/2B,/2]| \
+[G/2E/2B,/2E,/2][GEB,][G/2E/2B,/2] [G/2E/2B,/2E,/2-][G/2E/2B,/2E,/2][GEB,] [B/2F/2=D/2][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2]| \
+[BF=D][BF=D] [B/2F/2=D/2][BF=D][B/2F/2=D/2] [BGEE,-][BGEE,-] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2G/2E/2]|
+[B/2-F/2-B,/2=D,/2-][B/2F/2=D,/2-][B/2F/2B,/2=D,/2][B/2F/2B,/2=D,/2-] =D,/2-[B/2F/2B,/2=D,/2-][B/2F/2B,/2=D,/2][B/2F/2B,/2] [BG=EC,-][B/2-G/2-=E/2-C,/2][B/2G/2=E/2] [B/2G/2=E/2C,/2-][B/2G/2=E/2C,/2-][B/2G/2=E/2C,/2][B/2-G/2-=E/2-]| \
+[B/2G/2=E/2][B/2G/2=E/2][B/2G/2=E/2][BG=E][B/2G/2=E/2][B/2G/2=E/2][B/2G/2=E/2] [B/2G/2-_E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]| \
+[B/2-G/2-E/2-E,/2][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][BF=D][BFE][BF=D][B/2F/2=D/2] [B/2G/2-E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]|
+[B/2G/2E/2E,/2][B/2G/2E/2][BGE] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][BF=D][BFE][BF=D][B/2F/2=D/2] [B/2G/2-E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]| \
+[B/2G/2E/2E,/2][B/2G/2E/2][BGE] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][BF=D][BFE][BF=D][B/2F/2=D/2] [B/2G/2-E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]|
+[B/2G/2E/2E,/2][B/2G/2E/2][BGE] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][BF=D][BFE][BF=D][B/2F/2=D/2] [B/2G/2-E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]| \
+[B/2G/2E/2E,/2][B/2G/2E/2][BGE] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][BF=D][BFE][BF=D][B/2F/2=D/2] [B/2G/2-E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]|
+[B/2G/2E/2E,/2][B/2G/2E/2][BGE] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B/2F/2=D/2][BF=D][BFE][BF=D][B/2F/2=D/2] [B/2G/2-E/2-E,/2-][G/2E/2E,/2][B/2G/2E/2][BGE][B/2G/2E/2][B/2G/2E/2][B/2G/2E/2]| \
+[B/2G/2E/2E,/2][B/2G/2E/2][BGE] [B/2G/2E/2E,/2-][B/2-G/2-E/2-E,/2][B/2G/2E/2][BF=D][B/2F/2][B/2F/2=D/2][BF=D][B/2F/2=D/2][B/2F/2=D/2][B/2F/2=D/2]| \
+[B4-F4-=D4-] [BF=D]
+
+X: 22
+%%Orig filename was Rocketman__Theorbo1.abc
+T:Elton John:Rocket Man (Basic Theorbo) [Dalthyn of Brandywine] (4:04)
+M:4/4
+L:1/8
+Q:1/4=67
+%%part-name Basic Theorbo
+K:Ab % 4 flats
+% Bass
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+g6- g/2g/2=d/2G/2| \
+c8| \
+g6 =a/2g/2=d/2G/2|
+c6- cC/2=D/2| \
+E4 =D4| \
+C4 B,4| \
+=A,8-|
+=A,4 F,2 F2| \
+B,2 B,2 B,x/2x/2 B,=D,| \
+E,2 E,3/2x/2 E,x/2x/2 E,E/2F/2| \
+B,x/2x/2 B,3/2x/2 B,x/2x/2 B,=D,|
+E,2 E2 =D2 =D2| \
+Cx/2x/2 C3/2x/2 C3/2x/2 CC,/2=D,/2| \
+E,x/2x/2 E,3/2x/2 E,x/2x/2 E,/2x/2E/2x/2| \
+B,x/2x/2 B,2 Ex/2x/2 E3/2x/2|
+Ex/2x/2 E3/2x/2 g4-| \
+g2- g/2g/2=d/2G/2 c4-| \
+c4 g4-| \
+g2 =a/2g/2=d/2G/2 c4-|
+c3C/2=D/2 E4| \
+=D4 C4| \
+B,4 =A,4-| \
+=A,8|
+F,2 F2 g4-| \
+g2- g/2g/2=d/2G/2 c4-| \
+c4 g4-| \
+g2 =a/2g/2=d/2G/2 c4-|
+c3C/2=D/2 E4| \
+=D4 C4| \
+B,4 =A,4-| \
+=A,8|
+F,2 F2 B,2 B,2| \
+B,x/2x/2 B,=D, E,2 E,3/2x/2| \
+E,x/2x/2 E,E/2F<B,x/2 B,3/2x/2| \
+B,x/2x/2 B,=D, E,2 E2|
+=D2 =D2 Cx/2x/2 C3/2x/2| \
+C3/2x/2 CC,/2=D,/2 E,x/2x/2 E,3/2x/2| \
+E,x/2x/2 E,/2x/2E/2x/2 B,x/2x/2 B,2| \
+Ex/2x/2 E3/2x/2 Ex/2x/2 E2|
+Fx/2x/2 F/2x/2F B,x/2x/2 B,3/2x/2| \
+B,x/2x/2 B,B, Ex/2x/2 E2| \
+E,x/2x/2 E,G, B,3/2x/2 B,3/2x/2| \
+B,x/2x/2 B,=D, E,x/2x/2 E,E|
+=Dx/2x/2 =D2 Cx/2x/2 CB,/2x/2| \
+Cx/2x/2 CC,/2=D,<E,E,/2 EE,| \
+E,x E,2 B,x B,3/2x/2| \
+B,/2=DE=EF<_E,x/2 E,3/2x/2|
+E,x/2x/2 E,2 B,x/2x/2 B,3/2x/2| \
+B,/2=DE=EF<_E,x/2 E,3/2x/2| \
+E,x/2x/2 E,2 B,x/2x/2 B,3/2x/2| \
+B,/2=DE=EF<_E,x/2 E,3/2x/2|
+E,x/2x/2 E,2 B,x/2x/2 B,3/2x/2| \
+B,/2=DE=EF<_E,x/2 E,3/2x/2| \
+E,x/2x/2 E,2 B,x/2x/2 B,3/2x/2| \
+B,/2=DE=EF<_E,x/2 E,3/2x/2|
+E,x/2x/2 E,2 B,x/2x/2 B,3/2x/2| \
+B,/2=DE=EF<_E,x/2 E,3/2x/2| \
+E,x/2x/2 E,2 B,x/2x/2 B,3/2x/2| \
+B,8-|
+B,
+

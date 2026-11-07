@@ -1,0 +1,316 @@
+N: TS  5,   8   1   4  14  21
+X: 8
+%%Orig filename was MarioWorldBass.abc
+T: Super Mario World (1:22) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Koji Kondo
+Z: Arranged by Pontin
+M: 4/4
+Q: 132
+K: C maj
+L: 1/8
+
++mf+ z8 |
+^D z C z F z ^A, z |
+^D z C z ^F =F3 |
+^D z G z ^G z A z |
+G z ^F z =F ^A, C D |
+^D z G z ^G z A z |
+^A ^A, D F ^D A, D z |
+^D z G z ^G z A z |
+G z ^F z =F ^A, C D |
+% Bar 10 (0:16)
+^D z G z ^G z A z |
+^A ^A, D F ^D A, D z |
+G ^G ^A c A =G ^D F |
+^F ^A c ^d f d =d A |
+^G =G ^G ^A ^d =d A =G |
+A ^A ^d A ^G c A =d |
+^D z D z ^C z C z |
+C z C z B, z B, z |
+^A, z4 A, C D |
+^D z ^A, z D z D z |
+% Bar 20 (0:34)
+^G =G ^G A ^A B c =G |
+F ^G =G F ^D C ^A, G |
+^G =G ^G A ^A B c =G |
+F ^G =G F ^D ^A, D C |
+^D z C z F z ^A, z |
+^D z C z ^F =F3 |
+^D z G z ^G z A z |
+G z ^F z =F ^A, C D |
+^D z G z ^G z A z |
+^A ^A, D F ^D A, D z |
+% Bar 30 (0:52)
+^D z G z ^G z A z |
+G z ^F z =F ^A, C D |
+^D z G z ^G z A z |
+^A ^A, D F ^D A, D z |
+G ^G ^A c A =G ^D F |
+^F ^A c ^d f d =d A |
+^G =G ^G ^A ^d =d A =G |
+A ^A ^d A ^G c A =d |
+^D z D z ^C z C z |
+C z C z B, z B, z |
+% Bar 40 (1:10)
+^A, z4 A, C D |
+^D z ^A, z D z D z |
+^G =G ^G A ^A B c =G |
+F ^G =G F ^D C ^A, G |
+^G =G ^G A ^A B c =G |
+F ^G =G F ^D ^A, D C |
+z8 |]
+
+X: 1
+%%Orig filename was MarioWorldFlute.abc
+T: Super Mario World (1:22) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Koji Kondo
+Z: Arranged by Pontin
+M: 4/4
+Q: 132
+K: C maj
+L: 1/8
+
++f+ c2 ^G3/2 ^D/ =D/ z/ ^D/ F5/2 |
+z8 |
+z8 |
++fff+ G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ D/ z/ ^A G3/2 F2 A,/ |
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ ^G/ =G/ F/ D4 z/ |
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ D/ z/ ^A G3/2 F2 A,/ |
+% Bar 10 (0:16)
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ ^G/ =G/ F/ D4 z/ |
+G3/2 ^D3/2 ^A, G3/2 D5/2 |
+^F/ ^D/ ^A,/ z/ F3/2 =F9/2 |
+G3/2 ^D3/2 ^A, G3/2 D5/2 |
+^F/ ^D/ ^A, ^A6 |
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 F/ |
+G/ ^D/ ^A, C3/2 D4 C/ |
+^A c A c A3/2 ^A,/ ^G/ =G/ F |
+^D z7 |
+% Bar 20 (0:34)
++f+ [C/^D/] [^G,C] [C3/2D3/2] [=DF] [^D/G/] [=D/^F/] [^C/=F/] [=C5/2E5/2] |
+[C/^D/] [^G,C] [C3/2D3/2] [=DF] [^D4G4] |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ D/ z/ ^A G3/2 F2 A,/ |
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ ^G/ =G/ F/ D4 z/ |
+% Bar 30 (0:52)
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ D/ z/ ^A G3/2 F2 A,/ |
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 C/ |
+^A,/ z/ ^D/ z/ ^G/ =G/ F/ D4 z/ |
+G3/2 ^D3/2 ^A, G3/2 D5/2 |
+^F/ ^D/ ^A,/ z/ F3/2 =F9/2 |
+G3/2 ^D3/2 ^A, G3/2 D5/2 |
+^F/ ^D/ ^A, ^A6 |
+G2 ^D3/2 ^A,/ C/ D/ z/ D2 F/ |
+G/ ^D/ ^A, C3/2 D4 C/ |
+% Bar 40 (1:10)
+^A c A c A3/2 ^A,/ ^G/ =G/ F |
+^D z7 |
++f+ [C/^D/] [^G,C] [C3/2D3/2] [=DF] [^D/G/] [=D/^F/] [^C/=F/] [=C5/2E5/2] |
+[C/^D/] [^G,C] [C3/2D3/2] [=DF] [^D4G4] |
+z8 |
+z8 |
+z8 |]
+
+X: 4
+%%Orig filename was MarioWorldHorn.abc
+T: Super Mario World (1:22) - Basic Horn
+%%part-name Basic Horn
+%%made-for Basic Horn
+C: Koji Kondo
+Z: Arranged by Pontin
+M: 4/4
+Q: 132
+K: C maj
+L: 1/8
+
++fff+ [^G2g2^a2] [^D3/2^d3/2g3/2] [C/g/a/] [^A,/f/=a/] z/ [C/g/^a/] [=D5/2=a5/2c'5/2] |
++f+ ^D,2/3 z/3 z C,2/3 z/3 z F,2/3 z/3 z ^A,2/3 z/3 z |
+^D,2/3 z/3 z C,2/3 z/3 z ^F,/ z/ =F,3 |
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+G,2/3 z/3 z ^F,2/3 z/3 z =F,2/3 z/3 ^A,2/3 z/3 C,2/3 z/3 D,2/3 z/3 |
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+^A,2/3 z/3 A,2/3 z/3 D,2/3 z/3 F,2/3 z/3 ^D,2/3 z/3 A,2/3 z/3 D,2/3 z/3 z |
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+G,2/3 z/3 z ^F,2/3 z/3 z =F,2/3 z/3 ^A,2/3 z/3 C,2/3 z/3 D,2/3 z/3 |
+% Bar 10 (0:16)
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+^A,2/3 z/3 A,2/3 z/3 D,2/3 z/3 F,2/3 z/3 ^D,2/3 z/3 A,2/3 z/3 D,2/3 z/3 z |
+z8 |
+z8 |
+z8 |
+z8 |
+^D,2/3 z/3 z D,2/3 z/3 z ^C,2/3 z/3 z C,2/3 z/3 z |
+C,2/3 z/3 z C,2/3 z/3 z B,2/3 z/3 z B,2/3 z/3 z |
+^A, z4 A,2/3 z/3 C,2/3 z/3 D,2/3 z/3 |
+^D,2/3 z/3 z ^A,2/3 z/3 z D,2/3 z/3 z D,2/3 z/3 z |
+% Bar 20 (0:34)
+z8 |
+z8 |
++ff+ [^Gc] [c^d] [Gc] [=df] [^d2/3g2/3] [^f/3^a/3] [=f/b/] [e2c'2] [c/d/] |
+[c/^d/] [^Gc] [c3/2d3/2] [cf] [^A2d2] z2 |
++f+ ^D,2/3 z/3 z C,2/3 z/3 z F,2/3 z/3 z ^A,2/3 z/3 z |
+^D,2/3 z/3 z C,2/3 z/3 z ^F,/ z/ =F,3 |
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+G,2/3 z/3 z ^F,2/3 z/3 z =F,2/3 z/3 ^A,2/3 z/3 C,2/3 z/3 D,2/3 z/3 |
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+^A,2/3 z/3 A,2/3 z/3 D,2/3 z/3 F,2/3 z/3 ^D,2/3 z/3 A,2/3 z/3 D,2/3 z/3 z |
+% Bar 30 (0:52)
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+G,2/3 z/3 z ^F,2/3 z/3 z =F,2/3 z/3 ^A,2/3 z/3 C,2/3 z/3 D,2/3 z/3 |
+^D,2/3 z/3 z G,2/3 z/3 z ^G,2/3 z/3 z A,2/3 z/3 z |
+^A,2/3 z/3 A,2/3 z/3 D,2/3 z/3 F,2/3 z/3 ^D,2/3 z/3 A,2/3 z/3 D,2/3 z/3 z |
+z8 |
+z8 |
+z8 |
+z8 |
+^D,2/3 z/3 z D,2/3 z/3 z ^C,2/3 z/3 z C,2/3 z/3 z |
+C,2/3 z/3 z C,2/3 z/3 z B,2/3 z/3 z B,2/3 z/3 z |
+% Bar 40 (1:10)
+^A, z4 A,2/3 z/3 C,2/3 z/3 D,2/3 z/3 |
+^D,2/3 z/3 z ^A,2/3 z/3 z D,2/3 z/3 z D,2/3 z/3 z |
+z8 |
+z8 |
++ff+ [^Gc] [c^d] [Gc] [=df] [^d2/3g2/3] [^f/3^a/3] [=f/b/] [e2c'2] [c/d/] |
+[c/^d/] [^Gc] [c3/2d3/2] [cf] [^A2d2] z2 |
+[G^d] z7 |]
+
+X: 14
+%%Orig filename was MarioWorldTravellers1.abc
+T: Super Mario World (1:22) - Traveller's Trusty Fiddle 1
+%%part-name Traveller's Trusty Fiddle 1
+%%made-for Traveller's Trusty Fiddle
+C: Koji Kondo
+Z: Arranged by Pontin
+M: 4/4
+Q: 132
+K: C maj
+L: 1/8
+
++mf+ z8 |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [B/g/] z/ +mp+ [B/g/] [B/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ [B5/2g5/2] z/ |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
+% Bar 10 (0:16)
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] [A/g/] [A/g/] [A/g/] |
+[A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/f/] z/ +mp+ [A/f/] [A/f/] +mf+ [^G/=f/] z/ +mp+ [G/f/] [G/f/] +mf+ [^A/f/] z/ +mp+ [A/f/] [A/f/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] [A/g/] [A/g/] [A/g/] |
+[A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/f/] z/ +mp+ [A/f/] [A/f/] +mf+ [^G/=f/] z/ +mp+ [G/f/] [G/f/] +mf+ [^A/3f/3] z/3 [A/3f/3] [A/3f/3] z/3 [A/3f/3] |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A2^g2] z6 |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
+% Bar 20 (0:34)
++f+ C ^D C2/3 D/3 F2/3 ^F/3 G2/3 F/3 =F2/3 E/3 G2/3 C/3 ^C2/3 =D/3 |
+^D C D2/3 F/3 ^F2/3 G/3 F2/3 G/3 D2/3 C/3 ^A,2/3 D/3 G,2/3 ^G,/3 |
+C ^D C2/3 D/3 F2/3 ^F/3 G2/3 F/3 =F2/3 E/3 G2/3 C/3 ^C2/3 =D/3 |
+^D C D2/3 F/3 ^F2/3 G/3 F2/3 G/3 D2/3 C/3 ^A,2/3 D/3 G,2/3 ^G,/3 |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [B/g/] z/ +mp+ [B/g/] [B/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ [B5/2g5/2] z/ |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
+% Bar 30 (0:52)
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/a/] z/ +mp+ [c/a/] [c/a/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] [A/g/] [A/g/] [A/g/] |
+[A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/f/] z/ +mp+ [A/f/] [A/f/] +mf+ [^G/=f/] z/ +mp+ [G/f/] [G/f/] +mf+ [^A/f/] z/ +mp+ [A/f/] [A/f/] |
++mf+ [c/^g/] z/ +mp+ [c/g/] [c/g/] +mf+ [c/g/] z/ +mp+ [c/g/] [c/g/] +mf+ [^A/=g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] [A/g/] [A/g/] [A/g/] |
+[A/^f/] z/ +mp+ [A/f/] [A/f/] +mf+ [A/f/] z/ +mp+ [A/f/] [A/f/] +mf+ [^G/=f/] z/ +mp+ [G/f/] [G/f/] +mf+ [^A/3f/3] z/3 [A/3f/3] [A/3f/3] z/3 [A/3f/3] |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++mf+ [^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
+% Bar 40 (1:10)
++mf+ [^A2^g2] z6 |
+[^A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] +mf+ [A/g/] z/ +mp+ [A/g/] [A/g/] |
++f+ C ^D C2/3 D/3 F2/3 ^F/3 G2/3 F/3 =F2/3 E/3 G2/3 C/3 ^C2/3 =D/3 |
+^D C D2/3 F/3 ^F2/3 G/3 F2/3 G/3 D2/3 C/3 ^A,2/3 D/3 G,2/3 ^G,/3 |
+C ^D C2/3 D/3 F2/3 ^F/3 G2/3 F/3 =F2/3 E/3 G2/3 C/3 ^C2/3 =D/3 |
+^D C D2/3 F/3 ^F2/3 G/3 F2/3 G/3 D2/3 C/3 ^A,2/3 D/3 G,2/3 ^G,/3 |
+[^D,2^D2] z6 |]
+
+X: 21
+%%Orig filename was MarioWorldTravellers2.abc
+T: Super Mario World (1:22) - Traveller's Trusty Fiddle 2
+%%part-name Traveller's Trusty Fiddle 2
+%%made-for Traveller's Trusty Fiddle
+C: Koji Kondo
+Z: Arranged by Pontin
+M: 4/4
+Q: 132
+K: C maj
+L: 1/8
+
++fff+ z8 |
+z8 |
+z8 |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ d/ z/ ^a g3/2 f2 A/ |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ ^g/ =g/ f/ d4 z/ |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ d/ z/ ^a g3/2 f2 A/ |
+% Bar 10 (0:16)
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ ^g/ =g/ f/ d4 z/ |
+g3/2 ^d3/2 ^A g3/2 d5/2 |
+^f/ ^d/ ^A/ z/ f3/2 =f9/2 |
+g3/2 ^d3/2 ^A g3/2 d5/2 |
+^f/ ^d/ ^A ^a6 |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 f/ |
+g/ ^d/ ^A c3/2 d4 c/ |
+^a c' a c' a3/2 ^A/ ^g/ =g/ f |
+^d z7 |
+% Bar 20 (0:34)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ d/ z/ ^a g3/2 f2 A/ |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ ^g/ =g/ f/ d4 z/ |
+% Bar 30 (0:52)
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ d/ z/ ^a g3/2 f2 A/ |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 c/ |
+^A/ z/ ^d/ z/ ^g/ =g/ f/ d4 z/ |
+g3/2 ^d3/2 ^A g3/2 d5/2 |
+^f/ ^d/ ^A/ z/ f3/2 =f9/2 |
+g3/2 ^d3/2 ^A g3/2 d5/2 |
+^f/ ^d/ ^A ^a6 |
+g2 ^d3/2 ^A/ c/ d/ z/ d2 f/ |
+g/ ^d/ ^A c3/2 d4 c/ |
+% Bar 40 (1:10)
+^a c' a c' a3/2 ^A/ ^g/ =g/ f |
+^d z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+

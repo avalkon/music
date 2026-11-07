@@ -1,0 +1,91 @@
+N: TS  2,   8  21
+X: 8
+%%Orig filename was FeatherTheme__Lute1.abc
+T:Forrest Gump Main Theme (Feather Theme) (Basic Lute) (5:33)
+%%part-name Basic Lute
+M:4/4
+L:1/8
+Q:1/8=110
+Z:Talwryn
+K:A
++f+ z8 | z8 | 
+z8 | z8 |
+c d e e2 c2 e- | e a2 e2 c3 | 
+d e f f2 d2 f- | f8 |
+d e f f2 d2 f- | f b2 g2 e3 |
+c d e e2 a2 e- | e8 |
+[Af] [Bg] [ca] [c2a2] [A2f2] [c-a-] | [c2a2] [Af] [c2a2] [A3f3] |
+[Fd] [Ge] [Af] [A2f2] [F2d2] [A-f-] | [A8f8]
+[Fd] [Ge] [Af] [A2f2] [F2d2] [D-B-] | [D2B2] [Ec] [F2d2] [D3B3] | 
+[C8-A8-] | [C4A4] z E A B | 
+[A4c] d e e- [G4e] c2 e- | [F4e] a e- [E4e] c3 | 
+d [d3e] f f- [c4f] d2 f- | [B4f8] A4 | 
+[B4d] e f f- [A4f] d2 f- | [G8f] b2 g2 e3 |
+[A4c] d e e- [G4e] a2 e- | [F4e8] E4 |
+[Af] [Bg] [ca] [c2a2] [A2f2] [c-a-] | [c2a2] [Af] [c2a2] [A3f3] |
+[Fd] [Ge] [Af] [A2f2] [F2d2] [A-f-] | [A8f8]
+[Fd] [Ge] [Af] [A2f2] [F2d2] [D-B-] | [D2B2] [Ec] [F2d2] [D3B3] | 
+[A8c] de e2 a2 e- | [e2z] B e b z E B d | 
+[ca4] d e e2 a2 [c-e] | [c4e4] A B c d |
+K:C
+[c4e] f g g- [B4g] e2 g- | [A4g2] c' g- [G4g] e3 |
+f g a a2 f2 a- | [a8z2] f g d A F E |
+[D4F] G A A- [C4A] F2 A- | [B,8A2] d B2 G3 |
+[c4e] f g g- [B4g] c'2 g- | [A4g8] G4 |
+[ca] [db] [ec'] [e2c'2] [c2a2] [e-c'-] | [e2c'2] [ca] [e2c'2] [c3a3] |
+[Af] [Bg] [ca] [c2a2] [A2f2] [c-a-] | [c8a8] |
+[Af] [Bg] [ca] [c2a2] [A2f2] [F-d-] | [F2d2] [Ge] [A2f2] [F3d3] |
+[Cc8] G2 G2 G2 G |z d G D2 G D G, | 
+[C,8C8] | z d G D2 G D G, | 
+[D,3D3] [E,5E5] | z d G D2 G D G, | 
+[C,8C8] | [A4f4] [B4g4] | 
+[G8e8] | [A4f4] [B4g4] | 
+[c8e8] | [f4c'4] [g4b4] | 
+[c8g8c'8] | z d G D2 G D G, | 
+[C4c4] C
+
+X: 21
+%%Orig filename was FeatherTheme__Theorbo2.abc
+T:Forrest Gump Main Theme (Feather Theme) (Basic Theorbo) (8:52)
+M:4/4
+L:1/8
+Q:1/8=110
+Z:Talwryn
+%%part-name Basic Theorbo
+K:A
+[A8z] e2 e2 e2 e | [A8z] e2 e2 e2 e |
+[A8z] e2 e2 e2 e | [A8z] e2 e2 e2 e |
+[A8z] e2 e2 e2 e | [A8z] e2 e2 e2 e |
+[A8z] f2 f2 f2 f | [A8z] f2 f2 f2 f |
+[B8z] f2 f2 f2 f | [G8z] e2 e2 e2 e |
+[A8z] e2 e2 e2 e | [A4z] e2 e [A2z] [e2z] [G2z] e |
+[F8z] c2 c2 c2 c | [F4z] c2 c [F2z] [c2z] [E2z] c |
+[D8z] A2 A2 A2 A | [D4z] A2 A [D2z] [A2z] [C2z] A |
+[B,4z] F2 F [A,4z] F2 F | [G,4z] E2 E [E,4z] E2 E |
+[A,8z] E2 E2 E2 E | [A,8z] E2 E2 E2 E | 
+[A,8z] E2 E2 E2 E | [A,8z] E2 E2 E2 E | 
+[A,8z] F2 F2 F2 F | [A,8z] F2 F2 F2 F |
+[B,8z] F2 F2 F2 F | [G,8z] E2 E2 E2 E | 
+[A,8z] E2 E2 E2 E | [A,4z] E2 E [A,2z] [E2z] [G,2z] E |
+[F8z] c2 c2 c2 c | [F4z] c2 c [F2z] [c2z] [E2z] c |
+[D8z] A2 A2 A2 A | [D4z] A2 A [D2z] [A2z] [C2z] A |
+[B,4z] F2 F [A,4z] F2 F | [G,4z] E2 E [E,4z] E2 E |
+[A,8z] E2 E2 E2 E | [A,8z] E2 E2 E2 E | 
+[A8z] e2 e2 e2 e | [A8z] e2 e2 e2 e |
+K:C
+[C8z] (G e G e G e G) | [C8z] (G e G e G e G) |
+[C8-z] (A f A e A e A) | ([C8d] A d A c A c A) |
+[D8z] (A g A g A g A) | [G8z] (d g d b d g d) |
+[C8z] (G e G e G e G) | [C4z] (G e G) [C2z] [G2z] [B,2z] G |
+[A,8z] (E c E e E c E) | [A,4z] (E c E) [A,2z] [E2z] [G,2z] E |
+[F,8z] (C A C G C A C) | [F,4z] (C A C) [F,2z] [C2z] [E,2z] C | 
+[D,8z] (A, F E F4) | [G,8z] (d B6) | 
+C8 | [C8z] G2 G2 G2 G |
+[C8z] G2 G2 G2 G | [C8z] G2 G2 G2 G |
+[C8z] G2 G2 G2 G | [C8z] G2 G2 G2 G |
+[C8z] G2 G2 G2 G | [C8z] G2 G2 G2 G |
+[C8z] G2 G2 G2 G | [C8z] G2 G2 G2 G |
+[C8z] G2 G2 G2 G | [C8z] G2 G2 G2 G |
+[C8z] G2 G2 G2 G | [C8z] G2 G2 G2 G |
+C4 [CC,]
+

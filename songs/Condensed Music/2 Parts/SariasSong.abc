@@ -1,0 +1,367 @@
+N: TS  2,   1   8
+X: 1
+%%Orig filename was SariasSongFlute.abc
+%abc-2.1
+%%song-title       Sarias Song
+%%song-composer    Zelda
+%%song-duration    2:04
+%%song-transcriber Trystan Laryssa
+%%abc-creator Maestro v3.1.0
+%%export-timestamp 2024-04-12 23:57:52
+%%swing-rhythm false
+%%mix-timings true
+%%abc-version 2.1
+
+T: Sarias Song (2:04) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Zelda
+Z: Trystan Laryssa
+M: 2/2
+Q: 280
+K: C maj
+L: 1/8
+
++mp+ F4 A4 B8 |
+F4 A4 B8 |
+F4 A4 B4 e4 |
+d8 B4 c4 |
+B4 G4 E8- |
+E12 D4 |
+E4 G4 E8- |
+E16 |
+F4 A4 B8 |
+% Bar 10 (0:07)
+F4 A4 B8 |
+F4 A4 B4 e4 |
+d8 B4 c4 |
+e4 B4 G8- |
+G12 B4 |
+G4 D4 E8- |
+E16 |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+% Bar 20 (0:16)
+E,16 |
+[D4F4] [E4G4] [F8A8] |
+[G4B4] [A4c4] [B8d8] |
+[c4e4] [d4f4] [e8-g8-] |
+[e16g16] |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+E,16 |
+[D4F4] [C4E4] [F4A4] [E4G4] |
+% Bar 30 (0:24)
+[G4B4] [F4A4] [A4c4] [G4B4] |
+[B4d4] [A4c4] [c4e4] [B4d4] |
+[d4f4] [c4e4] [B2e2] [c2f2] z2 [A2d2] |
+[B16-e16-] |
+[B16e16] |
+z16 |
+z8 [B4e4b4] z4 |
+F4 A4 B8 |
+F4 A4 B8 |
+F4 A4 B4 e4 |
+% Bar 40 (0:33)
+d8 B4 c4 |
+B4 G4 E8- |
+E12 D4 |
+E4 G4 E8- |
+E16 |
+F4 A4 B8 |
+F4 A4 B8 |
+F4 A4 B4 e4 |
+d8 B4 c4 |
+e4 B4 G8- |
+% Bar 50 (0:42)
+G12 B4 |
+G4 D4 E8- |
+E16 |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+E,16 |
+[D4F4] [E4G4] [F8A8] |
+[G4B4] [A4c4] [B8d8] |
+[c4e4] [d4f4] [e8-g8-] |
+% Bar 60 (0:50)
+[e16g16] |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+E,16 |
+[D4F4] [C4E4] [F4A4] [E4G4] |
+[G4B4] [F4A4] [A4c4] [G4B4] |
+[B4d4] [A4c4] [c4e4] [B4d4] |
+[d4f4] [c4e4] [B2e2] [c2f2] z2 [A2d2] |
+[B16-e16-] |
+% Bar 70 (0:59)
+[B16e16] |
+z16 |
+z8 [B4e4b4] z4 |
+F4 A4 B8 |
+F4 A4 B8 |
+F4 A4 B4 e4 |
+d8 B4 c4 |
+B4 G4 E8- |
+E12 D4 |
+E4 G4 E8- |
+% Bar 80 (1:07)
+E16 |
+F4 A4 B8 |
+F4 A4 B8 |
+F4 A4 B4 e4 |
+d8 B4 c4 |
+e4 B4 G8- |
+G12 B4 |
+G4 D4 E8- |
+E16 |
+D,4 E,4 F,8 |
+% Bar 90 (1:16)
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+E,16 |
+[D4F4] [E4G4] [F8A8] |
+[G4B4] [A4c4] [B8d8] |
+[c4e4] [d4f4] [e8-g8-] |
+[e16g16] |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+% Bar 100 (1:24)
+E,16 |
+[D4F4] [C4E4] [F4A4] [E4G4] |
+[G4B4] [F4A4] [A4c4] [G4B4] |
+[B4d4] [A4c4] [c4e4] [B4d4] |
+[d4f4] [c4e4] [B2e2] [c2f2] z2 [A2d2] |
+[B16-e16-] |
+[B16e16] |
+z16 |
+z8 [B4e4b4] z4 |
+F4 A4 B8 |
+% Bar 110 (1:33)
+F4 A4 B8 |
+F4 A4 B4 e4 |
+d8 B4 c4 |
+B4 G4 E8- |
+E12 D4 |
+E4 G4 E8- |
+E16 |
+F4 A4 B8 |
+F4 A4 B8 |
+F4 A4 B4 e4 |
+% Bar 120 (1:42)
+d8 B4 c4 |
+e4 B4 G8- |
+G12 B4 |
+G4 D4 E8- |
+E16 |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+E,16 |
+[D4F4] [E4G4] [F8A8] |
+% Bar 130 (1:50)
+[G4B4] [A4c4] [B8d8] |
+[c4e4] [d4f4] [e8-g8-] |
+[e16g16] |
+D,4 E,4 F,8 |
+G,4 A,4 B,8 |
+C4 B,4 E,8- |
+E,16 |
+[D4F4] [C4E4] [F4A4] [E4G4] |
+[G4B4] [F4A4] [A4c4] [G4B4] |
+[B4d4] [A4c4] [c4e4] [B4d4] |
+% Bar 140 (1:59)
+[d4f4] [c4e4] [B2e2] [c2f2] z2 [A2d2] |
+[B16-e16-] |
+[B16e16] |
+z16 |
+z8 [B4e4b4] z4 |
+z16 |]
+
+X: 8
+%%Orig filename was SariasSongLute.abc
+%abc-2.1
+%%song-title       Sarias Song
+%%song-composer    Zelda
+%%song-duration    2:04
+%%song-transcriber Trystan Laryssa
+%%abc-creator Maestro v3.1.0
+%%export-timestamp 2024-04-12 23:57:30
+%%swing-rhythm false
+%%mix-timings true
+%%abc-version 2.1
+
+T: Sarias Song (2:04) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+C: Zelda
+Z: Trystan Laryssa
+M: 2/2
+Q: 280
+K: C maj
+L: 1/8
+
++mp+ F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+F4 [A4c4] [A4c4] [A4c4] |
+% Bar 10 (0:07)
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+% Bar 20 (0:16)
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4 [D4F4A4] [D4F4A4] z4 |
+% Bar 30 (0:24)
+D4 [D4F4A4] [D4F4A4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+E4 [A4B4] z4 [A4B4] |
+E4 [A4B4] z4 [A4B4] |
+E4 [^G4B4] [G4B4] [G4B4] |
+[^G4B4] z4 E4 z4 |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+% Bar 40 (0:33)
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+% Bar 50 (0:42)
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+% Bar 60 (0:50)
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4 [D4F4A4] [D4F4A4] z4 |
+D4 [D4F4A4] [D4F4A4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+E4 [A4B4] z4 [A4B4] |
+% Bar 70 (0:59)
+E4 [A4B4] z4 [A4B4] |
+E4 [^G4B4] [G4B4] [G4B4] |
+[^G4B4] z4 E4 z4 |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+% Bar 80 (1:07)
+[C4E4] [G4c4] [G4c4] C4 |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+% Bar 90 (1:16)
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+% Bar 100 (1:24)
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4 [D4F4A4] [D4F4A4] z4 |
+D4 [D4F4A4] [D4F4A4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+E4 [A4B4] z4 [A4B4] |
+E4 [A4B4] z4 [A4B4] |
+E4 [^G4B4] [G4B4] [G4B4] |
+[^G4B4] z4 E4 z4 |
+F4 [A4c4] [A4c4] [A4c4] |
+% Bar 110 (1:33)
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+F4 [A4c4] [A4c4] [A4c4] |
+% Bar 120 (1:42)
+F4 [A4c4] [A4c4] [A4c4] |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+[C4E4] [G4c4] [G4c4] [G4c4] |
+[C4E4] [G4c4] [G4c4] C4 |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+% Bar 130 (1:50)
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4- [A,4D4F4] D4- [A,4D4F4] |
+G,4- [G,4A,4D4] G,4- [G,4A,4D4] |
+C4- [G,4C4E4] C4- [G,4C4E4] |
+A,4- [G,4A,4C4] A,4- [G,4A,4C4] |
+D4 [D4F4A4] [D4F4A4] z4 |
+D4 [D4F4A4] [D4F4A4] z4 |
+C4 [E4G4B4] [E4G4B4] z4 |
+% Bar 140 (1:59)
+C4 [E4G4B4] [E4G4B4] z4 |
+E4 [A4B4] z4 [A4B4] |
+E4 [A4B4] z4 [A4B4] |
+E4 [^G4B4] [G4B4] [G4B4] |
+[^G4B4] z4 E4 z4 |
+z16 |]
+

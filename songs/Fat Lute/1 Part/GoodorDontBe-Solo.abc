@@ -1,0 +1,54 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was GoodorDontBe-Solo.abc
+T:Evangelion - Good or Don't Be (1:16)
+%  Composed by Shiro Sagisu for use in Shin Seiki Evangelion
+%  ABC created by Mireru of Gladden
+L:1/4
+Q:120
+%%part-name Unknown Instrument
+K:C
+[F,A,CF] F,/2 [A,CF] F,/2 [A,CF] [F,A,CF] F,/2 [A,CF] F,/2 [A,CF]
+[F,A,CFz7/8] e/8 [f/2F,/2] [c/4A,CF] [c7/4z3/4] F,/2 [A,CFz/2] c/2
+[g3/4C,E,G,C] [g3/4z/4] C,/2 [c2E,G,C] C,/2 [E,G,Cz/2] c/2
+[a3/4F,A,CF] [^a3/4z/4] F,/2 [=a/2A,CF] [g3/4z/2] [F,/2z/4] [f3/4z/4]
+[A,CFz/2] g/2 [a3/4^A,DF] [^a3/4z/4] ^A,/2 [=a/2DF] [d3/2z/2] ^A,/2
+[DFz/2] d/4 e/4 [f3/4^A,DGG,2] [f3/4z/4] [^A,DGz/2] e/2 [e3/2EGC2]
+[EGz/2] f/4 g/4 [^a3/4=A,CFF,2] [=a3/4z/4] [A,CFz/2] g/2
+[f3/2F,A,DD,2] [F,A,Dz3/8] ^g/8 a/2 [a3/4E,G,B,E] [=g3/4z/4] E,/2
+[^f/2G,B,E] [gz/2] E,/2 [dG,B,E] [d3/2B,DGA,2] [B,DGz/2] e/2
+[e2^CEAA,2] [^CEA] [F,A,=C] [F/2=f/2F,/2] [C/4c/4A,] [C7/4c7/4z3/4]
+F,/2 [A,z/2] [C/2c/2] [G3/4g3/4C,E,G,C] [G3/4g3/4z/4] C,/2
+[C/2c/2E,G,] [C3/2c3/2z/2] C,/2 [E,G,z/2] [C/2c/2] [A3/4a3/4D,F,A,D]
+[^A3/4^a3/4z/4] D,/2 [=A/2=a/2F,A,D] [G3/4g3/4z/2] [D,/2z/4]
+[F3/4f3/4z/4] [F,A,Dz/2] [G/2g/2] [A3/4a3/4^A,DF] [^A3/4^a3/4z/4]
+^A,/2 [=A/2=a/2D/2F/2] [D3/2d3/2^A,] [^A,z/2] [D/4d/4] [E/4e/4]
+[F3/4f3/4^A,DG,2] [F3/4f3/4z/4] [^A,Dz/2] [E/2e/2] [E3/2e3/2G,CC,2]
+[G,Cz/2] [F/4f/4] [G/4g/4] [^A3/4^a3/4=A,CFF,2] [=A3/4=a3/4z/4]
+[A,CFz/2] [G/2g/2] [F3/2f3/2F,A,DD,2] [F,A,Dz3/8] ^g/8 [A/2a/2]
+[A3/4a3/4E,G,B,E] [G3/4=g3/4z/4] E,/2 [^F/2^f/2G,B,E] [G3/4g3/4z/2]
+[E,/2z/4] [A3/4a3/4z/4] [G,B,Ez/2] [^A/2^a/2] [=A=aA,^CE] [^ceA,/2]
+[A,z/2] [A^cez/2] [E,z/2] [EA^cz/2] A,/2 [^A,D=Fz7/8] ^C/8 [D/2^A,/2]
+[F^A,/2] [^A,/2D2z3/8] G/8 [A3/4^A,/2] [^A,z/4] G/4 F/2
+[G5/2=C2E2^A,] ^A,/2 [^A,z/2] [C2E2z/2] [A^A,/2] [^A,z/2] ^A/2
+[^A/4E2G2=A,] =c/4 [c2z/2] [A,2z] [E2G2z/2] =A/2 [^A/2A,/2] [c/2A,/2]
+[=A/2C2G3/8D,] [G13/8z/8] [A3z/2] D,/2 D,/2 [C2^F2D,] D,/2 [A/2D,/2]
+[^A/2=F2G,] =f/2 [d/4G,/2] ^A/4 [=A/4G,/2] G/4 [c3/4F3/2G,] ^A/4
+[=A/4G,/2] G/4 [F/2G,/2z/4] G/4 [C3/4E3/4G3/4A3/4A,] [E/2z/4]
+[A,/2z/4] E/4 [C15/8A,/2] A, [A,/2z3/8] C/8 [D/2A,/2] [F/2A,2^A,] D/2
+[G/4^A,/2] A/4 [G/4^A,/2] [F/4z/8] G/8 [A3/2=A,2D2^A,] ^A,/2
+[G/4^A,/2] [F/4z/8] G/8 [^CEA=A,] [DGBA,] [E2A2^c2A,] A,/2 A,/2
+[dFAD,3/2] [fFAdz/2] D,/2 [g3/4G2^A2d2G,3/2] f3/4 [g/2G,/2]
+[g/2=c/2e/2C,3/2] [g/2c3/2e3/2] c'/2 [^a/2C,/2] [=a/4c2f2F,3/2] g/2
+[a5/4z3/4] F,/2 [ac2f2D,3/2] [c'z/2] D,/2 [g3/4^a3/4d3/4f3/2G,3/2]
+g3/4 [f/2G,/2] [e/2G2c2C,3/2] e/2 d/2 [e/2C,/2] [g/4GcC,] f/2
+[f5/4z/4] [=AdD,] [dF2A2D,3/2] [fz/2] D,/2 [g3/4G2^A2d2G,3/2] f3/4
+[g/2G,/2] [g/2c/2e/2C,3/2] [g/2c3/2e3/2] c'/2 [^a/2C,/2]
+[=a/4c2f2F,3/2] g/2 [a5/4z3/4] F,/2 [ac2f2D,3/2] [c'z/2] D,/2
+[g3/4^a3/4d3/4f3/2G,3/2] g3/4 [f/2G,/2] [c'/2e2g2C,3/2] c'/2 =a/2
+[c'/2C,/2] [c'3/4egC,] [d5/4z/4] [faD,] [dF2=A2D,3/2] [fz/2] D,/2
+[g3/4G2^A2d2G,3/2] f3/4 [g/2G,/2] [g/2c/2e/2C,3/2] [g/2c3/2e3/2] c'/2
+[^a/2C,/2] [=a/4c2f2F,3/2] g/2 [a5/4z3/4] F,/2 [ac2f2D,3/2] [c'z/2]
+D,/2 [g3/4^a3/4d3/4f3/2G,3/2] g3/4 [f/2G,/2] [c'/2e2g2C,3/2] c'/2
+=a/2 [c'/2C,/2] [egc'C,] [fadD,]
+

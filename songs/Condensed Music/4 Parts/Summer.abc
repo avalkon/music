@@ -1,0 +1,283 @@
+%abc-2.1
+%%song-title       Summer
+%%song-composer    Vivaldi
+%%song-duration    2:58
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:38:21
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title: Vivaldi - Summer
+N: TS  4,  21 22 23  8
+I:decoration +
+
+X: 21
+T: Summer (2:58) - Basic Lute 1
+%%part-name Basic Lute 1
+%%made-for Basic Lute
+%%user-pan auto
+C: Vivaldi
+M: 4/4
+Q: 66
+L: 1/8
+K: C maj
++mf+ G// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// F// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// ^D// G,// G,// G,// G,// G,// G,//
+	G,// |
+G,// G,// G,// G,// D// G,// G,// G,// G,// G,// G,// G,// G,/ z7/2 d// D// D// D// |
+D// D// D// D// D// D// D// D// c// D// D// D// D// D// D// D// D// D// D// D// ^A// D// D// D// D// D// D// D// D// D// D// D// |
+A// D// D// D// D// D// D// D// D/ z3/4 d// c// ^A// =A// G// ^F// E// D// C// ^A,// =A,// G,// G,// G,// G,// G,// G,// G,// G,// |
+G,// G,// G,// G,// G,// g// f// ^d// =d// c// ^A// =A// G// F// ^D// =D// C// C// C// C// C// C// C// C// C// C// C// C// C// ^a// =a// g// |
+f// ^d// =d// c// ^A// =A// G// F// ^D// D// D// D// D// D// D// D// D// D// D// D// D// d// c'// ^a// =a// g// ^f// e// d// c// ^A// =A// |
+G// G// G// G// G// G// G// G// G// G// G// G// G// d// c'// ^a// =a// g// ^f// e// d// c// ^A// =A// G// G// G// G// G// G// G// G// |
+G// G// G// G// d// G// G// G// d// G// G// G// d// G// G// G// D// A// ^A// c// d// e// ^f// g// a/ z3/4 =A// ^A// c// |
+d// e// ^f// g// a/ z3/4 ^A// c// d// ^d// f// g// a// ^a/ z3/4 =d// e// f// g// =a// ^a// c'// d/ z/ |
+% Bar 10 (0:33)
+z// d// e// ^f// g// a// ^a// c'// d/ z3/4 A// ^A// c// d// e// f// g// =a/ z3/4 A// c// d// ^d// f// g// a// |
+^a/ z3/4 d// e// ^f// g// =a// ^a// c'// d/ z/ a// g// d// ^A// a// g// d// A// a// g// d// A// d// A// G// D// |
+d// ^A// G// D// d// A// G// D// G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// G// B// G// B// G// B// G// B// G// B// G// B// |
+G// c// G// c// G// c// G// c// G// c// G// c// G// ^c// G// c// G// c// G// c// G// c// G// c// A// d// A// d// A// d// A// d// |
+A// d// A// d// A// d// A// d// A// d// A// d// A// d// A// d// A// ^c// A// c// A// c// A// c// A// c// A// c// d// D// E// F// |
+G// A// B// ^c// d// A// B// c// d// e// f// g// a// d// e// f// g// a// b// c// d5/4 A// A// c// c// e// e// a// |
+a// A// D// A// g// A// D// A// f// A// D// A// e// A// D// A// f// A// D// A// g// A// D// A// a// A// D// A// g// A// D// A// |
+f// A// D// A// [D5/4A5/4e5/4] d// d// f// f// a// a// d// d// d// D// d// c'// d// D// d// ^a// d// D// d// =a// d// D// d// |
+^a// d// D// d// ^c// d// D// d// d// d// D// d// c'// d// D// d// a// d// D// d// [D5/4d5/4=a5/4] a// a// g// g// f// f// ^d// |
+^d// =d// d// c'// c'// ^a// a// =a// a// g// g// f// f// e// e// d// d// c// c// ^A// A// =A// A// ^G// [D/A/] G/ A/ G/ |
+% Bar 20 (1:10)
+A/ F/ G/ ^D/ F/ =D/ ^D/ ^C/ =D/ C/ D/ C/ D/ C/ D/ C/ |
+D/ ^C/ D/ C/ D/ D/ D/ d/ f/ a/ ^a/ D/ D/ d/ g/ a/ |
+^a/ E/ E/ e/ g/ a/ =a/ F/ F/ c/ f/ a/ a/ D/ D/ d/ |
+f/ a/ g/ ^D/ D/ ^A/ ^d/ g/ g/ C/ C/ c/ d/ g/ g/ =D/ |
+D/ B/ d/ g/ f/ D/ D/ B/ d/ f/ ^d// ^D// F// G// ^G// B// c// =d// ^d/ z/ |
+z// ^D// F// G// ^G// B// c// d// ^d/ z3/4 D// F// =G// ^G// B// c// =d// ^d/ z/ D// c// ^A// c// D// c// A// c// |
+^D// c// ^A// c// F// c// A// c// F// c// A// c// F// c// A// c// G// c// B// c// G// c// B// c// G// B// =A// B// c// C// C// C// |
+C// C// C// C// C// C// C// C// ^A// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// C// C// C// C// C// C// C// C// |
+G// C// C// C// C// C// C// C// C/ z/ [^d//g//] c// d// c// d// c// d// c// d// c// d// c// [=d//g//] B// d// B// d// B// d// B// |
+d// B// d// B// [^d//g//] c// d// c// d// c// d// c// d// c// d// c// [=d//f//] ^A// d// A// d// A// d// A// d// A// d// A// [^d//g//] A// d// A// |
+% Bar 30 (1:46)
+^d// ^A// d// A// d// A// d// A// ^D// G// G// ^G// G// A// A// c// c// =d// d// ^d// d// A// =G// D// d// A// G// D// d// A// G// D// |
+F// ^G// G// ^A// A// c// c// d// d// ^d// d// f// f// c// =A// F// f// c// A// F// f// c// A// F// =G// ^A// A// c// c// =d// d// ^d// |
+^d// f// f// g// g// =d// B// G// g// d// B// G// g// d// B// G// ^d// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// |
+^G// C// C// C// G// C// C// C// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// =G// ^A,// A,// A,// G// A,// A,// A,// G// A,// A,// A,// |
+A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// F// ^G,// G,// G,// F// G,// G,// G,// F// G,// G,// G,// =G,// G// G// G// G// G// G// G// |
+G// G// G// G// ^d// G// G// G// d// G// G// G// d// G// G// G// ^F// F// F// F// F// F// F// F// F// F// F// F// =d// =F// F// F// |
+d// F// F// F// d// F// F// F// E// E// E// E// E// E// E// E// E// E// E// E// c// ^D// D// D// c// D// D// D// c// D// D// D// |
+D// D// D// D// ^F// D// D// D// A// D// D// D// ^A// D// D// D// c// D// D// D// d// D// D// D// ^d// D// D// D// ^f// D// D// D// |
+g// D// D// D// a// D// D// D// ^a// D// D// D// c'// D// D// D// d// d// c// ^A// =A// G// ^F// E// D// C// ^A,// =A,// G,// G,// G,// G,// |
+G,// G,// G,// G,// G,// G,// G,// G,// G,// g// f// ^d// =d// c// ^A// =A// G// F// ^D// =D// C// C// C// C// C// C// C// C// C// C// C// C// |
+% Bar 40 (2:22)
+C// ^a// =a// g// f// ^d// =d// c// ^A// =A// G// F// ^D// D// D// D// D// D// D// D// D// D// D// D// D// d// c'// ^a// =a// g// ^f// e// |
+d// c// ^A// =A// G// G// G// G// G// G// G// G// G// G// G// G// d// G// G,// G// ^d// G// G,// G// ^f// G// G,// G// g// G// G,// G// |
+f// G// G,// G// ^d// G// G,// G// =d// G// G,// G// ^d// G// G,// G// ^f// G// G,// G// g// G// G,// G// =f// G// G,// G// d// G// G,// G// |
+[G,//G//d//] G// A// ^A// c// d// ^d// ^f// g// a// ^a// =a// g// =f// d// =d// c// A// =A// G// ^F// E// D// C// ^A,// G,// A,// G,// A,// G,// A,// G,// |
+^A,// G,// A,// G,// ^D// =D// ^F// E// G// F// A// G// ^A// =A// c// ^A// d// c// ^d// =d// f// e// g// ^f// a// g// ^a// =a// ^D// =D// F// E// |
+G// ^F// A// G// ^A// =A// c// ^A// d// c// ^d// =d// ^f// e// g// f// a// g// ^a// =a// D// D// D// D// D// D// D// D// D// D// D// D// |
+G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// G// G// G// G// G// G// G// G// G// G// G// G// ^F// F// F// F// F// F// F// F// |
+^F// F// F// F// G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// G// G// G// G// G// G// G// G// G// G// G// G// F// F// F// F// |
+^F// F// F// F// F// F// F// F// G// G// G// G// ^A// A// A// A// d// d// d// d// g// g// g// g// ^a// a// a// a// g// g// g// g// |
+d// d// d// d// ^A// A// A// A// G// G// G// G// G,5/2 |]
+
+
+X: 22
+T: Summer (2:58) - Basic Lute 2
+%%part-name Basic Lute 2
+%%made-for Basic Lute
+%%user-pan auto
+C: Vivaldi
+M: 4/4
+Q: 66
+L: 1/8
+K: C maj
++mf+ G// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// F// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// ^D// G,// G,// G,// G,// G,// G,//
+	G,// |
+G,// G,// G,// G,// D// G,// G,// G,// G,// G,// G,// G,// G,/ z7/2 d// D// D// D// |
+D// D// D// D// D// D// D// D// c// D// D// D// D// D// D// D// D// D// D// D// ^A// D// D// D// D// D// D// D// D// D// D// D// |
+A// D// D// D// D// D// D// D// D/ z3/4 d// c// ^A// =A// G// ^F// E// D// C// ^A,// =A,// G,// G,// G,// G,// G,// G,// G,// G,// |
+G,// G,// G,// G,// G,// g// f// ^d// =d// c// ^A// =A// G// F// ^D// =D// C// C// C// C// C// C// C// C// C// C// C// C// C// ^a// =a// g// |
+f// ^d// =d// c// ^A// =A// G// F// ^D// D// D// D// D// D// D// D// D// D// D// D// D// d// c'// ^a// =a// g// ^f// e// d// c// ^A// =A// |
+G// G// G// G// G// G// G// G// G// G// G// G// G// d// c'// ^a// =a// g// ^f// e// d// c// ^A// =A// G// G// G// G// G// G// G// G// |
+G// G// G// G// d// G// G// G// d// G// G// G// d// G// G// G// D// A// ^A// c// d// e// ^f// g// a/ z3/4 =A// ^A// c// |
+d// e// ^f// g// a/ z3/4 ^A// c// d// ^d// f// g// a// ^a/ z3/4 =d// e// f// g// =a// ^a// c'// d/ z/ |
+% Bar 10 (0:33)
+z// d// e// ^f// g// a// ^a// c'// d/ z3/4 A// ^A// c// d// e// f// g// =a/ z3/4 A// c// d// ^d// f// g// a// |
+^a/ z3/4 d// e// ^f// g// =a// ^a// c'// d/ z/ a// g// d// ^A// a// g// d// A// a// g// d// A// d// A// G// D// |
+d// ^A// G// D// d// A// G// D// G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// G// B// G// B// G// B// G// B// G// B// G// B// |
+G// c// G// c// G// c// G// c// G// c// G// c// G// ^c// G// c// G// c// G// c// G// c// G// c// A// d// A// d// A// d// A// d// |
+A// d// A// d// A// d// A// d// A// d// A// d// A// d// A// d// A// ^c// A// c// A// c// A// c// A// c// A// c// d// D// E// F// |
+G// A// B// ^c// d// A// B// c// d// e// f// g// a// d// e// f// g// a// b// c// d5/4 z7/4 |
+D D D D D D D D |
+D D5/4 z7/4 D D D D |
+D D D D D D5/4 z7/4 |
+z8 |
+% Bar 20 (1:10)
+z8 |
+z2 a/ D/ D/ d/ f/ a/ ^a/ D/ D/ d/ g/ a/ |
+^a/ E/ E/ e/ g/ a/ =a/ F/ F/ c/ f/ a/ a/ D/ D/ d/ |
+f/ a/ g/ ^D/ D/ ^A/ ^d/ g/ g/ C/ C/ c/ d/ g/ g/ =D/ |
+D/ B/ d/ g/ f/ D/ D/ B/ d/ f/ ^d// ^D// F// G// ^G// B// c// =d// ^d/ z/ |
+z// ^D// F// G// ^G// B// c// d// ^d/ z3/4 D// F// =G// ^G// B// c// =d// ^d/ z/ D// c// ^A// c// D// c// A// c// |
+^D// c// ^A// c// F// c// A// c// F// c// A// c// F// c// A// c// G// c// B// c// G// c// B// c// G// B// =A// B// c// C// C// C// |
+C// C// C// C// C// C// C// C// ^A// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// C// C// C// C// C// C// C// C// |
+G// C// C// C// C// C// C// C// C/ z11/2 |
+z8 |
+% Bar 30 (1:46)
+z8 |
+z8 |
+z4 C// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// |
+^G// C// C// C// G// C// C// C// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// =G// ^A,// A,// A,// G// A,// A,// A,// G// A,// A,// A,// |
+A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// F// ^G,// G,// G,// F// G,// G,// G,// F// G,// G,// G,// =G,// G// G// G// G// G// G// G// |
+G// G// G// G// ^d// G// G// G// d// G// G// G// d// G// G// G// ^F// F// F// F// F// F// F// F// F// F// F// F// =d// =F// F// F// |
+d// F// F// F// d// F// F// F// E// E// E// E// E// E// E// E// E// E// E// E// c// ^D// D// D// c// D// D// D// c// D// D// D// |
+D5/4 z27/4 |
+z17/4 d// c// ^A// =A// G// ^F// E// D// C// ^A,// =A,// G,// G,// G,// G,// |
+G,// G,// G,// G,// G,// G,// G,// G,// G,// g// f// ^d// =d// c// ^A// =A// G// F// ^D// =D// C// C// C// C// C// C// C// C// C// C// C// C// |
+% Bar 40 (2:22)
+C// ^a// =a// g// f// ^d// =d// c// ^A// =A// G// F// ^D// D// D// D// D// D// D// D// D// D// D// D// D// d// c'// ^a// =a// g// ^f// e// |
+d// c// ^A// =A// G// G// G// G// G// G// G// G// G// G// G// G// G G, G, G, |
+G, G, G, G, G, G, G, G, |
+G,// G// A// ^A// c// d// ^d// ^f// g// a// ^a// =a// g// =f// d// =d// c// A// =A// G// ^F// E// D// C// ^A,// G,// A,// G,// A,// G,// A,// G,// |
+^A,// G,// A,// G,// D5/4 z23/4 |
+z5 D// D// D// D// D// D// D// D// D// D// D// D// |
+G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// G// G// G// G// G// G// G// G// G// G// G// G// ^F// F// F// F// F// F// F// F// |
+^F// F// F// F// G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// G// G// G// G// G// G// G// G// G// G// G// G// F// F// F// F// |
+^F// F// F// F// F// F// F// F// G// G// G// G// ^A// A// A// A// d// d// d// d// g// g// g// g// ^a// a// a// a// g// g// g// g// |
+d// d// d// d// ^A// A// A// A// G// G// G// G// G,5/2 |]
+
+
+X: 23
+T: Summer (2:58) - Basic Lute 3
+%%part-name Basic Lute 3
+%%made-for Basic Lute
+%%user-pan auto
+C: Vivaldi
+M: 4/4
+Q: 66
+L: 1/8
+K: C maj
++mf+ G// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// F// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// ^D// G,// G,// G,// G,// G,// G,//
+	G,// |
+G,// G,// G,// G,// D// G,// G,// G,// G,// G,// G,// G,// G,/ z7/2 d// D// D// D// |
+D// D// D// D// D// D// D// D// c// D// D// D// D// D// D// D// D// D// D// D// ^A// D// D// D// D// D// D// D// D// D// D// D// |
+A// D// D// D// D// D// D// D// D/ z15/4 d// c// ^A// =A// G// ^F// E// |
+D// C// ^A,// =A,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// g// f// ^d// =d// c// ^A// =A// G// F// ^D// =D// C// C// C// C// |
+C// C// C// C// C// C// C// C// C// ^a// =a// g// f// ^d// =d// c// ^A// =A// G// F// ^D// D// D// D// D// D// D// D// D// D// D// D// |
+^D// d// c'// ^a// =a// g// ^f// e// d// c// ^A// =A// G// G// G// G// G// G// G// G// G// G// G// G// G// d// c'// ^a// =a// g// =f// e// |
+d// c// ^A// =A// G// G// G// G// d// G// G// G// d// G// G// G// D// ^F// G// A// ^A// c// d// e// ^f/ z3/4 F// G// =A// |
+^A// c// d// e// ^f/ z3/4 G// =A// ^A// c// d// ^d// f// g/ z3/4 ^F// G// =A// ^A// c// =d// e// f/ z/ |
+% Bar 10 (0:33)
+z// ^F// G// A// ^A// c// d// e// ^f/ z3/4 F// G// =A// ^A// c// d// e// f/ z3/4 G// =A// ^A// c// d// ^d// f// |
+g/ z3/4 ^F// G// A// ^A// c// d// e// ^f/ z/ A// d// g// ^a// A// d// g// a// A// d// g// a// D// G// A// d// |
+D// G// ^A// d// D// G// A// d// G,// ^A,// D// G// G,// A,// D// G// G,// A,// D// G// D// G// D// G// D// G// D// G// D// G// D// G// |
+^D// G// D// G// D// G// D// G// D// C// D// C// E// G// E// G// E// G// E// G// E// G// E// G// F// A// F// A// F// A// F// A// |
+F// D// F// D// E// A// E// A// E// A// E// A// E// A// E// A// E// A// E// A// E// A// E// A// E// A// E// A// F// D// E// F// |
+G// A// B// ^c// d// A// B// c// d// e// f// g// a// d// e// f// g// a// b// c// d2 z |
+D D D D D D D D |
+D D5/4 z7/4 D D D D |
+D D D D D D5/4 z7/4 |
+z8 |
+% Bar 20 (1:10)
+z8 |
+z2 f/ A,/ A,/ A/ d/ f/ g/ ^A,/ A,/ ^A/ d/ g/ |
+g/ C/ C/ c/ e/ g/ f/ C/ C/ A/ c/ f/ f/ ^A,/ A,/ ^A/ |
+d/ f/ ^d/ ^A,/ A,/ G/ ^A/ d/ d/ ^G,/ G,/ ^G/ c/ d/ =d/ B,/ |
+B,/ G/ B/ d/ d/ B,/ B,/ G/ B/ d/ c// C// D// ^D// F// G// A// B// c/ z/ |
+z// C// D// ^D// F// G// A// B// c3/4 z/ C// =D// ^D// F// G// A// B// c3/4 z// D// c// ^A// c// D// c// A// c// |
+^D// c// ^A// c// F// c// A// c// F// c// A// c// F// c// A// c// G// c// B// c// G// c// B// c// G// B// =A// B// c// C// C// C// |
+C// C// C// C// C// C// C// C// ^A// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// C// C// C// C// C// C// C// C// |
+G// C// C// C// C// C// C// C// C/ z11/2 |
+z8 |
+% Bar 30 (1:46)
+z8 |
+z8 |
+z4 C// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// |
+^G// C// C// C// G// C// C// C// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// =G// ^A,// A,// A,// G// A,// A,// A,// G// A,// A,// A,// |
+A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// F// ^G,// G,// G,// F// G,// G,// G,// F// G,// G,// G,// =G,// G// G// G// G// G// G// G// |
+G// G// G// G// ^d// G// G// G// d// G// G// G// d// G// G// G// ^F// F// F// F// F// F// F// F// F// F// F// F// =d// =F// F// F// |
+d// F// F// F// d// F// F// F// E// E// E// E// E// E// E// E// E// E// E// E// c// ^D// D// D// c// D// D// D// c// D// D// D// |
+D5/4 z27/4 |
+z29/4 d// c// ^A// |
+A// G// ^F// E// D// C// ^A,// =A,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// ^D// g// f// ^d// =d// c// ^A// =A// G// =F// D// =D// |
+% Bar 40 (2:22)
+C// C// C// C// C// C// C// C// C// C// C// C// G// ^a// =a// g// f// ^d// =d// c// ^A// =A// G// F// ^D// D// D// D// D// D// D// D// |
+^D// D// D// D// ^A// d// c'// ^a// =a// g// ^f// e// d// c// A// =A// G G, G, G, |
+G, G, G, G, G, G, G, G, |
+G,// G// A// ^A// c// d// ^d// ^f// g// a// ^a// =a// g// =f// d// =d// c// A// =A// G// ^F// E// D// C// ^A,// G,// A,// G,// A,// G,// A,// G,// |
+^A,// G,// A,// G,// D5/4 z23/4 |
+z5 D// D// D// D// D// D// D// D// D// D// D// D// |
+G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// =A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// |
+A,// A,// A,// A,// G// D// ^A,// G,// G// D// A,// G,// G// D// A,// G,// =A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// |
+A,// A,// A,// A,// A,// A,// A,// A,// ^A,// D// D// D// G// G// G// G// ^A// A// A// A// d// d// d// d// g// g// g// g// ^a// a// a// a// |
+g// g// g// g// d// d// d// d// ^A// A// A// A// G,5/2 |]
+
+
+X: 8
+T: Summer (2:58) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+C: Vivaldi
+M: 4/4
+Q: 66
+L: 1/8
+K: C maj
++mf+ G// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// F// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// ^D// G,// G,// G,// G,// G,// G,//
+	G,// |
+G,// G,// G,// G,// D// G,// G,// G,// G,// G,// G,// G,// G,/ z7/2 d// D// D// D// |
+D// D// D// D// D// D// D// D// c// D// D// D// D// D// D// D// D// D// D// D// ^A// D// D// D// D// D// D// D// D// D// D// D// |
+A// D// D// D// D// D// D// D// D/ z7/2 G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ C/ C/ C/ C/ C/ C/ C/ C/ |
+C/ C/ C/ C/ ^D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ |
+G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ G/ |
+G/ G/ G// G// G// G// d// G// G// G// d// G// G// G// D// d// D// d// D// d// D// d// D// d// D// d// D// c// D// c// |
+D// c// D// c// D// c// D// c// D// ^A// D// A// D// A// D// A// D// A// D// A// D// =A// D// A// D// A// D// A// D// A// D// A// |
+% Bar 10 (0:33)
+D// d// D// d// D// d// D// d// D// d// D// d// D// c// D// c// D// c// D// c// D// c// D// c// D// ^A// D// A// D// A// D// A// |
+D// ^A// D// A// D// =A// D// A// D// A// D// A// D// A// D// A// G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// |
+C// c// C// c// C// c// C// c// C// c// C// c// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// D// d// D// d// D// d// D// d// |
+D// d// D// d// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// A,// A// D- |
+D/ z9/2 D3/2 z3/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (1:10)
+z4 D/ A,/ D/ A,/ D/ A,/ D/ A,/ |
+D/ A,/ D/ A,/ D// d// c// ^A// =A// G// F// E// D3/4 z// G,// G// F// ^D// =D// C// ^A,// =A,// G,3/4 z// |
+C// c// ^A// =A// G// F// E// D// C3/4 z// F,// F// E// D// C// ^A,// =A,// G,// F,3/4 z// ^A,// ^A// =A// G// F// ^D// =D// C// |
+^A,3/4 z// ^D,// ^D// =D// C// A,// =A,// G,// F,// D,3/4 z// ^G,// ^G// =G// F// ^D// =D// C// ^A,// G,3/4 z// B,// B// A// G// |
+F// ^D// =D// C// B,3/4 z// G,// G// F// ^D// =D// C// B,// A,// G,3/4 z// C// c// ^A// ^G// =G// F// ^D// =D// C3/4 z// |
+z// c// ^A// ^G// =G// F// ^D// =D// C3/4 z/ c// A// ^G// =G// F// ^D// =D// C3/4 z// ^D/ D/ D/ D/ |
+^D/ D/ F/ F/ F/ F/ F/ F/ ^A/ A/ A/ A/ G,/ G,/ C// C// C// C// |
+C// C// C// C// C// C// C// C// ^A// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// C// C// C// C// C// C// C// C// |
+G// C// C// C// C// C// C// C// C/ z/ C/ c// B// c/ C/ C/ c/ G,3/2 z/ |
+z C/ c// B// c/ C/ C/ c/ ^A,3/2 z3/2 ^D,/ ^D// =D// |
+% Bar 30 (1:46)
+^D/ ^D,/ D,/ D/ G,3/2 z3/2 G,/ G// F// G/ G,/ G,/ G/ |
+^G,3/2 z3/2 A,/ A// G// A/ A,/ A,/ A/ ^A,3/2 z/ |
+z B,/ B// A// B/ B,/ B,/ B/ C// C// C// C// C// C// C// C// C// C// C// C// ^G// C// C// C// |
+^G// C// C// C// G// C// C// C// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// B,// =G// ^A,// A,// A,// G// A,// A,// A,// G// A,// A,// A,// |
+A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// F// ^G,// G,// G,// F// G,// G,// G,// F// G,// G,// G,// =G,// G// G// G// G// G// G// G// |
+G// G// G// G// ^d// G// G// G// d// G// G// G// d// G// G// G// ^F// F// F// F// F// F// F// F// F// F// F// F// =d// =F// F// F// |
+d// F// F// F// d// F// F// F// E// E// E// E// E// E// E// E// E// E// E// E// c// ^D// D// D// c// D// D// D// c// D// D// D// |
+D8- |
+D3 z4 G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ C/ C/ C/ C/ C/ C/ |
+% Bar 40 (2:22)
+C/ C/ C/ C/ C/ C/ ^D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ |
+^D/ D/ G/ G/ G/ G/ G/ G/ G G, G, G, |
+G, G, G, G, G, G, G, G, |
+G,3/2 z9/2 ^A,// G,// A,// G,// A,// G,// A,// G,// |
+^A,// G,// A,// G,// D3/2 z11/2 |
+z5 D// d// c// ^A// =A// ^A// =A// G// ^F// E// D// C// |
+^A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// A,// C// C// C// C// C// C// C// C// C// C// C// C// D// D// D// D// D// D// D// D// |
+D// D// D// D// G,// G,// G,// G,// ^A,// A,// A,// A,// A,// A,// A,// A,// C// C// C// C// C// C// C// C// C// C// C// C// D// D// D// D// |
+D// D// D// D// D// D// D// D// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// |
+G,// G// G,// G// G,// G// G,// G// G,// G// G,// G// G,5/2 |]
+

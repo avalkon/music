@@ -1,0 +1,24 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was KidsRunThroughtheCityCorne-Main.abc
+T:kidsrun3     %Tune name (1:31)
+C:   %Tune composer
+N:   %Tune infos
+Q:1/4=115     %Tempo
+     %!STAVE 0 'Piano 1' @
+     %!INSTR 'Piano 1[Ch1]' 0 0 @
+M:3/4     %Meter
+L:1/8     %
+%%part-name Unknown Instrument
+K:G
+[A2a2] [g2B,2] [e2^C2] |[^c3E3] c [dF]e |[D4F]F [AE]d [F2AD2] F |[D4B,6z] F Bd [DB][F-E] |[D4FF2] F A[Ed] [D2AF2-] F |[F^CA4F4] F A^c [D2A]F |
+[DGB]G [AB]d [BG2-] G |[G4E4G]G B[Fe] [FBE2] G |[zC4E6] G ce [cC2] G |[AE]A [E^c]e [DcG2] [EA] |[D4F]F [EA]d [AD2F2] F |[D4B,6z] F Bd [DB][EF-] |
+[^CFF4] F A[^cE] [AF2] F |[CA4D6] F Ad [D2A]F |[GDB]G [B^c]d [BG2d2] G |[EAF4] A ^ce [cE2G2] A |[GE6] G _Be [B^C2] G |[zD6] F Ad AF |
+[FAD4] F [EGA]d [zD2F2A2] F |[zD4F4B,6] F Bd [DFB][EGF-] |[FAD4F2] F A[EGd] [zD2A2F2-] F |[^CFA4^c4F4] F Ac [AD2] F |[DGBd]G [AB^c]d [zB2G2-] G |[GBE4G4] G B[FAe] [E2F2A2B2G2-] |
+[GC4E6G4] G ce [C2c]G |[EA]A [E^c]e [DFcG2] [EGA] |[FAD4] F [EGA]d [zD2F2A2] F |[zD4F4B,6] F Bd [DFB][EGF-] |[^CFA3F4] F A[EG^c] [zF2A2] F |[CA4c4D6] F Ad [AD2] F |
+[DGB]G [AB^c]d [BG2d2] G |[EAF4] A ^ce [cE2G2] A |[GE6] G _Be [B^C2] G |[zD6] F Ad AF |[zD4] F Ad [AD2] F |CF A[Dc] [AC2D2] F |
+[DdG4] G [B^c]d [FBd2] G |[EAB]A ^c[Ae] [GcE2] [AB] |[^CF4A6] F A^c [AE2] F |[zD4F6] F Ad [EA]F |[DGd]G [B^c]d [BG2d2] G |[BE4] G B[Ae] [GBgA2] [GBb] |
+[DA6] F [zA4] d [AD2] F |[z^C4] F A^c [AC2] F |[DdB,4] F [B^c]d [BB,2d2] F |[zB3E4] ^G Be [DB][^CG^c] |[dB,4] F B[^cd] [BB,2d2] F |[CEe6] G ce cG |
+[DBG4] G [B^c]d [BG2d2] G |[EAF4f4] A ^ce [cE2G2e2] A |[GE6e6] G _Be [B^C2] G |[zD6d6] F Ad AF |[zD4] F Ad [AD2] F |[zD6] G _Be BG |]
+     %End of file
+

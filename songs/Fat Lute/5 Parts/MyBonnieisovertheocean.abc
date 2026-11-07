@@ -1,0 +1,95 @@
+N: TS  5,   3  10   1   5   8
+X: 3
+%%Orig filename was MyBonnieisovertheocean__Clar1.abc
+T:My Bonnie Is Over The Ocean (2nd (1:12) - Basic Clarinet
+%%part-name Basic Clarinet
+M:3/4
+L:1/4
+Q:1/4=160
+Z:Talwryn
+K:C
++mp+ G | G>F E | F A F | E C2- | C z G | G>f E | ^F3 | =F3- | F z G |
+G>F E | F A F | E C2- | C z G | ^F3 | =F3 | E3- | E z z |
+E3 | E3 | F3 | ^F3 | =F3- | F3 | E2 G- | G3 |
+E3 | E3 | F3 | ^F2 c | =F3- | F3 | E3- | E z |
+G | G>F E | F A F | E C2- | C z G | G>f E | ^F3 | =F3- | F z G |
+G>F E | F A F | E C2- | C z G | ^F3 | =F3 | E3- | E z z |
+E3 | E3 | F3 | ^F3 | =F3- | F3 | E2 G- | G3 |
+E3 | E3 | F3 | ^F2 c | =F3- | F3 | E3- | E z |
+
+X: 10
+%%Orig filename was MyBonnieisovertheocean__Drums2.abc
+T:My Bonnie Is Over The Ocean (5th (1:12) - Basic Drum
+%%part-name Basic Drum
+M:3/4
+L:1/4
+Q:1/4=160
+Z:Talwryn
+K:C
+_B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, |
+D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | ^C, z/2 _B,/2 _B,/2 _B,/2 |
+D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, |
+D D D | D D D |D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, |
+D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, |
+D D D | D D D |D _B,/2 _B,/2 _B, | D z |
+_B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, |
+D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | D2 _B, | ^C, z/2 _B,/2 _B,/2 _B,/2 |
+D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, |
+D D D | D D D |D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, |
+D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, | D _B,/2 _B,/2 _B, |
+D D D | D D D |D _B,/2 _B,/2 _B, | D z |
+
+X: 1
+%%Orig filename was MyBonnieisovertheocean__Flute3.abc
+T:My Bonnie Is Over The Ocean (Basic Flute (1:12) - Basic Flute
+%%part-name Basic Flute
+M:3/4
+L:1/4
+Q:1/4=160
+Z:Talwryn
+K:C
++f+ G | e>d c | d c A | G E2- | E z G | e>d c | c B c | d3- | d z G |
+e>d c | d c A | G E2- | E z G | A d c | B A B | c3- | c z z |
+G3 | c3 | A3 | d3 | B B B | B A B | c2 d | e3 |
+G3 | c3 | A3 | d2 c | B B B | B A B | c3- | c z |
+G | e>d c | d c A | G E2- | E z G | e>d c | c B c | d3- | d z G |
+e>d c | d c A | G E2- | E z G | A d c | B A B | c3- | c z z |
+G3 | c3 | A3 | d3 | B B B | B A B | c2 d | e3 |
+G3 | c3 | A3 | d2 c | B B B | B A B | c3- | c z |
+
+X: 5
+%%Orig filename was MyBonnieisovertheocean__Harp4.abc
+T:My Bonnie Is Over The Ocean (3rd (1:12) - Basic Harp
+%%part-name Basic Harp
+M:3/4
+L:1/4
+Q:1/4=160
+Z:Talwryn
+K:C
++f+ z | C G G | F, A A | C G G | G, G G | C G G | D c c | G, [GB] [GB] | G, [GB] [GB] |
+C G G | F, F F | C G G | G, G G | D c c | G, [GB] [GB] | C G G, | [EG] z z |
+C G G | C G G | F, A A | D c c | G, G G | G, G G | C G G, | C G G |
+C G G | C G G | F, A A | D c c | G, G G | G, G G | C G G, | [EG] z |
+z | C G G | F, A A | C G G | G, G G | C G G | D c c | G, [GB] [GB] | G, [GB] [GB] |
+C G G | F, F F | C G G | G, G G | D c c | G, [GB] [GB] | C G G, | [EG] z z |
+C G G | C G G | F, A A | D c c | G, G G | G, G G | C G G, | C G G |
+C G G | C G G | F, A A | D c c | G, G G | G, G G | C G G, | [EG] z |
+
+X: 8
+%%Orig filename was MyBonnieisovertheocean__Theorbo5.abc
+T:My Bonnie Is Over The Ocean (4rd (1:12) - Basic Theorbo
+M:3/4
+L:1/4
+Q:1/4=160
+Z:Talwryn
+%%part-name Basic Theorbo
+K:C
+z | C E E | F, F F | C E E | G, E E | C E E | D ^F ^F | G, =F F | G, F F |
+C E E | F, F F | C E E | G, E E | D ^F ^F | G, =F F | C E G, | C z z |
+C E E | C E E | F, F F | D ^F ^F | G, =F F | G, F F | C E G, | C E E |
+C E E | C E E | F, F F | D ^F ^F | G, =F F | G, F F | C E G, | C z |
+z | C E E | F, F F | C E E | G, E E | C E E | D ^F ^F | G, =F F | G, F F |
+C E E | F, F F | C E E | G, E E | D ^F ^F | G, =F F | C E G, | C z z |
+C E E | C E E | F, F F | D ^F ^F | G, =F F | G, F F | C E G, | C E E |
+C E E | C E E | F, F F | D ^F ^F | G, =F F | G, F F | C E G, | C z |
+

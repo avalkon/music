@@ -1,0 +1,167 @@
+N: TS  2,   9  15
+X: 9
+%%Orig filename was HarvestDawnAges.abc
+T: Harvest Dawn (Duet) (2:33) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: The Elder Scrolls IV Oblivion (MIDI by Ayla)
+Z: Raymiond of Gladden
+M: 4/4
+Q: 98
+K: C maj
+L: 1/8
+
++fff+ e2 A2 c B c2 |
+d2 A4 B2 |
+G2 E2 F E F2- |
+F3 D E A B e |
+B A E A [E4A4] |
+^G8 |
+E2 A,2 C B, C2 |
+D2 A,4 A,2 |
+G,2 E,2 E,2 C,2 |
+% Bar 10 (0:22)
+D,8 |
+E2 A,2 C B, C2 |
+D E C4 B,2 |
+A,2 F,2 G,2 E,2 |
+A,8 |
+[A2e2] [G2d2] [B,2G2] [C2A2] |
+[E2G2] A4 A2 |
+G2 E4 C2 |
+[G,6D6] E,2 |
+E2 A,2 [A,C] B, C2 |
+% Bar 20 (0:46)
+D2 A,4 [A,2E2] |
+[G,2D2] E,2 [E,2C2] G, B, |
+[E,6A,6] z2 |
+[E2e2] A2 e2 A2 |
+[E2e2] B2 [E,2E2] A,2 |
+[E2e2] A2 e2 A2 |
+[D2d2] A2 d2 A2 |
+[D2f2] A2 f2 A2 |
+[E2e2] B2 [E,2E2] A,2 |
+g2 G2 G,2 G2 |
+% Bar 30 (1:11)
+A2 E2 E, A,3 |
+[E,2E2] A,2 B,2 [B,2E2] |
+[C2A2] A,2 B,2 [G,E] A |
+[A,6G6] [A,F] E |
+[A,6E6] [E,2A,2] |
+[A,2E2A2] [B,2B2] [C2c2] E2 |
+[D4A4d4] [E7/2e7/2] E// A// |
+[D2A2f2] c4 [DBd] A |
+[E6A6e6] [E2e2] |
+[Aa] e d2 b2 c B |
+% Bar 40 (1:35)
+[A6c'6] [A2a2] |
+[Bb] d [G4e4g4] [Fcf] d |
+[E8A8e8] |
+[CA] e d2 D4 |
+[Ec] B A4 [A,2C2] |
+[B,2D2] [G,4B,4] [F,2C2] |
+[D,4A,4]
+	%%Q: 90
+	E,49/45 A,49/45 D98/45 |
+[E,343/45-A,343/45-C343/45-] [E,98/135A,98/135C98/135] z49/135 |
+e98/45 A98/45 c49/45 B49/45 c98/45 |
+d98/45 A196/45 A98/45 |
+% Bar 50 (2:00)
+G98/45 E98/45 E98/45 C98/45 |
+D392/45 |
+e98/45 A98/45 c49/45 B49/45 c98/45 |
+d98/45 A196/45 A98/45 |
+c98/45 B49/45 A49/45 B98/45 G98/45 |
+A196/45 C98/45 B98/45 |
+c98/15 E98/45 |
+[D196/45^F196/45] A,196/45 |
+[C196/45F196/45A196/45] [D196/45G196/45B196/45] |
+[E98/15c98/15] e98/45 |
+% Bar 60 (2:27)
+[^F196/45d196/45] A196/45 |
+^F49/45 A,49/45 D49/45 E49/45 F49/45 D49/45 F49/45 A49/45 |
+[D392/45d392/45] |]
+
+X: 15
+%%Orig filename was HarvestDawnSoon.abc
+T: Harvest Dawn (Duet) (2:33) - Basic Bassoon
+%%part-name Basic Bassoon
+%%made-for Basic Bassoon
+C: The Elder Scrolls IV Oblivion (MIDI by Ayla)
+Z: Raymiond of Gladden
+M: 4/4
+Q: 98
+K: C maj
+L: 1/8
+
++mf+ z4 e2 A2 |
+B d [c2e2] [F2A2] d c |
+[E2B2] G2 [D3A3] B |
+[Dc] B [FA] B [E4-A4-] |
+[E4A4] [E4-B4-] |
+[E8B8] |
+[A,4E4] [D4A4] |
+[F,6C6] C2 |
+[E,4B,4] [C,4G,4] |
+% Bar 10 (0:22)
+[D,8A,8] |
+[A,4E4] [D4A4] |
+[F,6C6] G,2 |
+[F,4C4] [E,4B,4] |
+[A,8E8] |
+E6 A2 |
+B2 c4 F2 |
+E2 c B [C2A2] G2 |
+[D8A8] |
+[E,4A,4] [D,4D4] |
+% Bar 20 (0:46)
+[F,8F8] |
+[E,4B,4] [D,4G,4] |
+[E,6A,6] e2 |
+d2 e c B2 c A |
+[E2B2] G2 A2 e2 |
+[A2d2] e2 [Ec] B A2 |
+[F6A6d6] e2 |
+[A2d2g2] f e d2 e2 |
+[E2c2] B2 A2 d2 |
+[D2c2] B A B2 G2 |
+% Bar 30 (1:11)
+[A,8A8] |
+D, E, A, C5 |
+D, A, D F E, B, E G |
+F, C F G A2 D2 |
+[D,A,] E, A, B, C4 |
+D, E, A, B,7/4 z// C2 E |
+C, G, B, D2 G3 |
+[D,D] A, D E F4 |
+D, E, C A, E C A E |
+F, C F A G, D G B |
+% Bar 40 (1:35)
+D, A, C E A, E A c |
+E, B, E G2 B2 E |
+D, E, A, C A, E A E |
+[A,A] E A E [A,B] F B F |
+[A,c] E c E A, F2 F |
+F, C2 C G, D2 D |
+D, D, E, A,
+	%%Q: 90
+	D49/45 z49/15 |
+D,49/45 E,49/45 A,49/45 B,49/45 C49/45 E49/45 A49/45 B49/45 |
+[A196/45e196/45] [D196/45A196/45] |
+[F392/45c392/45] |
+% Bar 50 (2:00)
+[E196/45B196/45] [C196/45G196/45] |
+[^F392/45A392/45] |
+[A196/45e196/45] [D196/45A196/45] |
+[F392/45c392/45] |
+[F196/45c196/45] [E196/45G196/45] |
+[A,49/9E49/9A49/9] A,49/45 E49/45 B49/45 |
+A392/45 |
+D392/45 |
+F196/45 G196/45 |
+[C49/9G49/9] C,49/45 G,49/45 C49/45 |
+% Bar 60 (2:27)
+[D,49/45D49/45] A,49/45 D49/45 E49/45 ^F49/45 A49/45 d49/45 e49/45 |
+z392/45 |
+z392/45 |]
+

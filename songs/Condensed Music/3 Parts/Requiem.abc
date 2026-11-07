@@ -1,0 +1,64 @@
+N: TS  3,   8   1  21
+X: 8
+%%Orig filename was RequiemBass.abc
+T:Requiem bassline Basic Theorbo (1:11)
+C:Alana Cook
+Q:175
+M:6/8
+L:1/8
+%%part-name Basic Theorbo
+K:G
+% Bassline
+z6 |
+z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | 
+z6 | z6 | z6 | z6 | z6 | z6 z/4 | z6 | z6 | 
+G,5 A, | B,5 D | C4 D E | E,4 A,2 | B,5 B, | D4 E, F, | G,5 A,/2 B,/2 | D4 E, F, |
+G,3 F, G, A, | B,4 B, D | C4 D2 | E G B e E D | C3 D E2 | D2 E2 F2 | G4 D2 | G,3 G, G, F, |
+E,2 B,2 B,2 | E,2 B,2 B A | B,3 D F2 | B,4 B ^C | D5 A | D2 D2 E2 | A,5 B | ^C E ^C B, A, B |
+A,4 B,2 | C4 D E | E, G, B, E B, A, | B, D F B B, _B, | A,4 B,2 | C3 D E G | D4 E2 | F2 E,2 F,2 |
+G,5 A, | B,5 D | C4 D E | E,4 A,2 | B,5 B, | D4 E, F, | G,5 A,/2 B,/2 | D4 E, F, |
+G,3 F, G, A, | B,4 B, D | C4 D2 | E G B e E D | C3 D E2 | D4 ^D2 | E4 B, G, | E, z E2 D2 |
+C3 D E2 | D2 E2 F2 | G2 D2 B,2 | G,6 |
+
+X: 1
+%%Orig filename was RequiemFlute.abc
+T:Requiem melody Basic Flute (1:11)
+%%part-name Basic Flute
+C:Alana Cook
+Q:175
+M:6/8
+L:1/8
+K:G
+% Melody
+z4 G A |
+B3 A B c | d4 B d | e3 d e d | B4 B2 | d4 d e | A3 A G A | B d4 d/2 e/2 | d4 G A |
+B3 A B c | d4 B d | e3 d e f | g/2 f/2 e/2 d/2 B2 B d | e3 d e2 | d2 B A G/4 A2 | G6 | z4 G A |
+B3 A B c | d4 B d | e3 d e d | B4 B2 | d4 d e | A3 A G A | B d4 d/2 e/2 | d4 G A |
+B3 A B c | d4 B d | e3 d e f | g f e d B d | e3 d e2 | d3 B A G | G6 | z3 G/2 A/2 B d |
+e3 d e f | e2 e2 d2 | B4 A/2 B/2 d | B4 B2 | d3 d e d | f2 e2 d2 | ^c d ^c A E A | ^c2 B2 A B |
+c3 B c d | e2 d2 c2 | B c B G E G | F G F D B, _B, | A,4 B,2 | C3 D E G | F4 G2 | A2 G2 A2 |
+B3 A B c | d4 B d | e3 d e d | B4 B2 | d4 d e | A3 A G A | B d4 d/2 e/2 | d4 G A |
+B3 A B c | d4 B d | e3 d e f | g f e d B d | e3 d e2 | d3 B A G | G4 F2 | E z B2 d2 |
+e3 d e2 | d2 B A G/4 A2 | G6 | z6 |
+
+X: 21
+%%Orig filename was RequiemLute.abc
+T:Requiem accompaniment Basic Lute, Basic Harp (1:11)
+%%part-name Basic Lute, Basic Harp
+C:Alana Cook
+Q:175
+M:6/8
+L:1/8
+K:G
+% Accompaniment
+z6 |
+z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | 
+z6 | z6 | z6 | z6 | z6 | z6 z/4 | z6 | z6 | 
+G, D [G3g3] A, | B, D [G3g3] B, | C E [G2e2] D2 | E, E [G3e3] A, | B, F [B3f3] B, | D A [d3f3] F, | G, D [G4g4] | D A [d2f2] E, F, |
+G, D [G3g3] A, | B, D [G3g3] B, | C E [G2e2] D2 | E, E [G2e2] D2 | C E [G3e3] E | D A [d3f3] F, | G, D [Gg] B G [D/2B/2] [E/2c/2] | [DB] G g G F,2 |
+E, E e B G B | E, E e B G A, | B, F f d B d | B, F f d B d | D A f d A d | D A f d A d | A, E e ^c A ^c | A, E A ^c e2 |
+A, E e c A B, | C E e c G E | E, E [Ge] B G E | B, F [Bf] d B _B | A, E [Ae] c A B, | C E [Ge] c G E | D A [df] d E G | F [df] E [df] F [df] |
+G, D [Gg] B G A, | B, D [Gg] d G D | C E [Ge] c G D | E, E [Ge] B G A, | B, F [Bf] d B F | D A [df] d A D | G, D [Gg] B G D | D A d f E, F, |
+G, D [Gg] B G A, | B, D [Gg] d G D | C E [Ge] c G D | E, E [Ge] B D G | C E [Ge] c G E | D A [df] d A D | E, B, F G B G | e4 D2 |
+C E [Ge] c G E | D A [df] d A D | G, D [Gg] B G [D/2B/2] [E/2c/2] | [G,6D6G6B6g6] |
+

@@ -1,0 +1,440 @@
+N: TS  4,   9   1   5   8
+X: 9
+%%Orig filename was gruppakrovi__Ages2.abc
+T:Gruppa krovi (3:36)
+%%part-name Lute of Ages
+M:4/4
+L:1/8
+Q:1/4=120
+K:A 
+x8| \
+x8| \
+x8| \
+x8|
+[AFC][AFC] x2 [FC][FC] x2| \
+x3[CA,] [FC][EC] ^DC| \
+[EC][EC] x2 [FC][FC] x2| \
+x8|
+[AFC][AFC] x2 [FC][FC] x2| \
+x3[CA,] [FC][EC] ^DC| \
+[EC][EC] x2 [FC][FC] x2| \
+x8|
+[AFC][AFC] x2 [FC][FC] x2| \
+x3[CA,] [FC][EC] ^DC| \
+[EC][EC] x2 [FC][FC] x2| \
+x8|
+[AFC][AFC] x2 [FC][FC] x2| \
+x3[CA,] [FC][EC] ^DC| \
+[EC][EC] x2 [FC][FC] x2| \
+x6 x[EA,]|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+x[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2|
+x[c/2F/2=D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2=F/2]x/2 [c/2G/2=F/2]x/2[c/2G/2=F/2]x/2|
+x[c/2A/2^F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2|
+x[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2=F/2]x/2 [c/2G/2=F/2]x/2[c/2G/2=F/2]x/2|
+[A^FC][AFC] x2 [FC][FC] x2| \
+x3[CA,] [FC][EC] ^DC| \
+[EC][EC] x2 [FC][FC] x2| \
+x8|
+[AFC][AFC] x2 [FC][FC] x2| \
+x3[CA,] [FC][EC] ^DC| \
+[EC][EC] x2 [FC][FC] x2| \
+x6 x[EA,]|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x3|
+x[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2|
+x[c/2F/2=D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2=F/2]x/2 [c/2G/2=F/2]x/2[c/2G/2=F/2]x/2|
+x[c/2A/2^F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x3/2[c/2A/2F/2]x/2 [c/2A/2F/2]x/2[c/2A/2F/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2|
+x[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x3/2[c/2F/2D/2]x/2 [c/2F/2D/2]x/2[c/2F/2D/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x/2| \
+x[c/2G/2E/2]x/2 [c/2G/2E/2]x/2[c/2G/2E/2]x3/2[c/2G/2=F/2]x/2 [c/2G/2=F/2]x/2[EA,]|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EA,]|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EA,]|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EA,]|
+[EA,][EA,] [EB,]x [EA,]x2[EA,]| \
+[EA,][EA,] [EB,]x [EA,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EB,]| \
+[EB,][EB,] [EC]x [EB,]x2[EA,]|
+[^FC]
+
+X: 1
+%%Orig filename was gruppakrovi__Flute4.abc
+T:Gruppa krovi (3:05)
+%%part-name Basic Flute
+M:4/4
+L:1/8
+Q:1/4=120
+K:A 
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+Cx C/2x/2C/2x/2 Cx CC/2x/2| \
+C/2x/2C/2x/2 Cx A3/2x/2 C/2x/2C/2x/2| \
+E/2x/2E x2 EF xC-| \
+C/2x6x3/2|
+x4 Fx FF| \
+C3/2x6x/2| \
+x4 B,B, CB,-| \
+B,/2x6x3/2|
+C3/2x/2 CC Cx Cx| \
+CC Cx Ax CC| \
+EE EC E2 FC| \
+x8|
+x4 FF Fx| \
+F3/2x4x/2 GA| \
+G/2x/2G Ax G3/2x2x/2| \
+x4 A3/2x/2 G3/2x/2|
+FF x2 cc/2x/2 cF| \
+xF xF F/2x/2G A3/2x/2| \
+GG x2 cc/2x/2 cG-| \
+G/2x4x3/2 GG|
+A3/2x/2 AF AA xA| \
+F3/2x4x/2 GA| \
+G2- G/2x3/2 E3-E/2x/2| \
+C3-C/2x/2 A2 G2|
+A3/2x/2 A3/2x/2 AA3/2x/2A| \
+F2 x4 GA| \
+G3/2x/2 G3/2x/2 cc3/2x/2c| \
+G3/2x4x/2 GG|
+A3/2x/2 AF A3/2x/2 F3/2x/2| \
+x6 GA| \
+G4 c4| \
+B4 A2 G2|
+A2 F3/2x4x/2| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x6 xC|
+Cx CC Cx2C| \
+CC C3/2x/2 Ax2C| \
+EE xC E3/2x/2 FC-| \
+C/2x6x3/2|
+x4 Fx FF| \
+Cx4x CC| \
+B,3/2x/2 B,B, B,B, C3/2x/2| \
+B,3/2x4x/2 CC|
+Cx CC AA xA| \
+Fx6x| \
+EE xC EE xF| \
+Cx4x FF|
+FF Fx FG A3/2x/2| \
+F3/2x4x3/2G| \
+GG Ax G3/2x2x/2| \
+x4 A3/2x/2 G3/2x/2|
+FF x2 cc/2x/2 cF| \
+xF xF F/2x/2G A3/2x/2| \
+GG x2 cc/2x/2 cG-| \
+G/2x4x3/2 GG|
+A3/2x/2 AF AA xA| \
+F3/2x4x/2 GA| \
+G2- G/2x3/2 E3-E/2x/2| \
+C3-C/2x/2 A2 G2|
+A2 A2 AA3/2x/2A| \
+F2 x4 GA| \
+G3/2x/2 G3/2x/2 cc3/2x/2c| \
+G3/2x4x/2 GG|
+A3/2x/2 AF A3/2x/2 F3/2x/2| \
+x6 GA| \
+G4 c4| \
+B4 A2 G2|
+A2 F3/2
+
+X: 5
+%%Orig filename was gruppakrovi__Harp3.abc
+T:Gruppa krovi (3:04)
+%%part-name Basic Harp
+M:4/4
+L:1/8
+Q:1/4=120
+K:A 
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[FA,][FA,] x[FA,] [FA,][FA,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x2| \
+[EB,][EB,] x[EB,] [EB,][EB,] x[EB,]|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2|
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2 [c/2A/2]F/2[c/2A/2]F/2 [c/2A/2]x/2[c/2A/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2| \
+[c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]x/2 [c/2G/2]E/2[c/2G/2]E/2 [c/2G/2]x/2[c/2G/2]
+
+X: 8
+%%Orig filename was gruppakrovi__Theorbo1.abc
+T:Gruppa krovi (3:37)
+M:4/4
+L:1/8
+Q:1/4=120
+%%part-name Basic Theorbo
+K:A 
+x8| \
+x8| \
+x8| \
+x8|
+F,F, x2 F,F, x2| \
+x8| \
+CC x2 CC x2| \
+x8|
+F,F, x2 F,F, x2| \
+x8| \
+CC x2 CC x2| \
+x8|
+F,F, xA, F,F, xE,| \
+F,F, xC FC FC| \
+CC xC EE xE| \
+=F=F x=F ^FF xF|
+F,F, xA, F,F, xE,| \
+F,F, xC FC FC| \
+CC xC EE xE| \
+=F=F x=F ^FF xF|
+F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+CC xC CC xB,| \
+CC xC CC x2|
+F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+E,E, xE, E,E, xD,| \
+E,E, xE, E,E, E,=F,|
+^F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+CC xC CC xB,| \
+CC xC CC x2|
+F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+E,E, xE, E,E, xD,| \
+E,E, xE, E,E, E,=F,|
+^FF FF FF FF| \
+FF FF FF FF| \
+CC CC CC CC| \
+CC CC CC CC|
+B,B, B,B, B,B, B,B,| \
+B,B, B,B, B,B, B,B,| \
+E,E, E,E, E,E, E,E,| \
+E,E, E,E, =F,=F, =F,=F,|
+^FF FF FF FF| \
+FF FF FF FF| \
+CC CC CC CC| \
+CC CC CC CC|
+B,B, B,B, B,B, B,B,| \
+B,B, B,B, B,B, B,B,| \
+E,E, E,E, E,E, E,E,| \
+E,E, E,E, =F,=F, =F,=F,|
+^F,F, xA, F,F, xE,| \
+F,F, xC FC FC| \
+CC xC EE xE| \
+=F=F x=F ^FF xF|
+F,F, xA, F,F, xE,| \
+F,F, xC FC FC| \
+CC xC EE xE| \
+=F=F x=F ^FF xF|
+F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+CC xC CC xB,| \
+CC xC CC x2|
+F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+E,E, xE, E,E, xD,| \
+E,E, xE, E,E, E,=F,|
+^F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+CC xC CC xB,| \
+CC xC CC x2|
+F,F, xF, F,F, x2| \
+F,F, xF, F,F, x2| \
+E,E, xE, E,E, xD,| \
+E,E, xE, E,E, E,=F,|
+^FF FF FF FF| \
+FF FF FF FF| \
+CC CC CC CC| \
+CC CC CC CC|
+B,B, B,B, B,B, B,B,| \
+B,B, B,B, B,B, B,B,| \
+E,E, E,E, E,E, E,E,| \
+E,E, E,E, =F,=F, =F,=F,|
+^FF FF FF FF| \
+FF FF FF FF| \
+CC CC CC CC| \
+CC CC CC CC|
+B,B, B,B, B,B, B,B,| \
+B,B, B,B, B,B, B,B,| \
+CC CC EE xE| \
+=F=F x=F ^FF xF|
+FF FF FF FF| \
+FF FF FF FE| \
+CC CC CC CC| \
+CC CC CC CC|
+FF FF FF FF| \
+FF FF FF FE| \
+CC CC CC CC| \
+CC CC CC CC|
+FF FF FF FF| \
+FF FF FF FE| \
+CC CC CC CC| \
+CC CC CC CC|
+FF FF FF FF| \
+FF FF FF FE| \
+CC CC CC CC| \
+CC CC CC CC|
+FF,
+

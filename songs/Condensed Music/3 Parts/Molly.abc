@@ -1,0 +1,88 @@
+N: TS  3,   8   1  21
+X: 8
+%%Orig filename was MollyBass.abc
+T:Irish Traditional (1:56) - Molly Malone (Basic Theorbo) [Dalman of Brandywine]
+L:1/4
+Q:120
+%%part-name Basic Theorbo
+K:C
+z3 ^A,3 F3 C3 F3 ^A3 ^A3 C3 F3 ^A,3 F3 C3 F3 ^A3 G3 F3 ^A,3 ^A,3 ^A,3
+F3 F3 ^A3 G3 F3 ^A,3 ^A,3 F3 C3 F3 ^A3 ^A3 C3 F3 ^A,3 F3 C3 F3 ^A3 G3
+F3 ^A,3 ^A,3 ^A,3 F3 F3 ^A3 G3 F3 ^A,2 G C3 G3 D3 G3 c3 c3 D3 G3 C3
+G3 D3 G3 c3 =A3 G3 C3 C3 C3 G3 G3 c3 A3 G3 C3 c3 A3 G3 C3
+
+X: 1
+%%Orig filename was MollyFlute.abc
+T:Irish Traditional (1:58) - Molly Malone (Basic Flute) [Dalman of Brandywine]
+%%part-name Basic Flute
+L:1/4
+Q:120
+K:C
++p+
+z16 z16 z16 z16 z10 F, ^A, ^A,3/2 ^A,/2 ^A,/2 D3/2 ^A, C C3/2 C/2 C/2
+^D3/2 C F =D3/2 ^A,/2 F/2 D3/2 ^A, G,/2 C3/2 [^A,7/8z3/4] =A,/8 ^A,/8
+=A,2 F, ^A, ^A,3/2 ^A,/2 ^A,/2 D3/2 ^A, C C3/2 C/2 C/2 ^D3/2 =D/2 C/2
+F/2 D3/2 ^A, F/2 D3/2 [^A,z3/4] C/8 D/8 C3/2 ^A,/2 C ^A,2 F, ^A,3/2
+^A,/2 ^A, ^A,/2 D3/2 ^A, C3/2 C/2 C C/2 ^D3/2 =D/2 C/2 F/2 D3/2 ^A,
+F/2 D3/2 [^A,z3/4] C/8 D/8 C3/2 ^A,/2 C ^A,2 G, C C3/2 C/2 C/2 E3/2 C
+D D3/2 D/2 D/2 F3/2 D G E3/2 C/2 [Gz/2] E3/2 C =A,/2 D3/2 [C7/8z3/4]
+B,/8 C/8 B,2 G, C C3/2 C/2 C/2 E3/2 C D D3/2 D/2 D/2 F3/2 E/2 D/2
+[Gz/2] E3/2 C [Gz/2] E3/2 [Cz3/4] D/8 E/8 D3/2 C/2 D C2 G, C3/2 C/2 C
+C/2 E3/2 C D3/2 D/2 D D/2 F3/2 E/2 D/2 [Gz/2] E3/2 C [Gz/2] E3/2
+[Cz3/4] D/8 E/8 D3/2 C/2 D C2 z [Gz/2] E3/2 C [Gz/2] E3/2 [Cz3/4] D/8
+E/8 D3/2 C/2 D C2
+
+X: 21
+%%Orig filename was MollyLute.abc
+T:Irish Traditional (3:41) - Molly Malone (Basic Lute) [Dalman of Brandywine]
+%%part-name Basic Lute
+L:1/4
+Q:120
+K:C
+z2 F [^Ad3D3F3] ^A3/2 ^A/2 [^A2d/2D3F3] [d5/2z3/2] ^A [cC3F3=A3] c3/2
+c/2 [c2C3F3A3z/2] ^d3/2 c [fD3F3^A5/2=d] [d2z3/2] ^A/2
+[f/2d/2^A2D3F3] [d5/2z3/2] ^A [G3^d3^A2^D3z/2] c3/2 ^A
+[=A3^D3c3^d3z2] F [^A=d3=D3F3] ^A3/2 ^A/2 [^A2d/2D3F3] [d5/2z3/2] ^A
+[cC3F3=A3] c3/2 c/2 [c5/2C3F3A3z/2] ^d3/2 =d/2 c/2 [f/2D3F3^A2d/2]
+[d5/2z3/2] ^A [f/2^A2d/2D3G3] [d5/2z3/2] ^A [c3/2^d3^A3/2^D3G3]
+[^A3/2z/2] c [^A3=D3F2=d3] F [^A3/2d3D3F3] ^A/2 ^A [^A2d/2D3F3]
+[d5/2z3/2] ^A [c3/2C3F3=A3] c/2 c [c5/2C3F3A3z/2] ^d3/2 =d/2 c/2
+[f/2D3F3^A2d/2] [d5/2z3/2] ^A [f/2^A2d/2D3G3] [d5/2z3/2] ^A
+[c3/2^d3^A3/2^D3G3] [^A3/2z/2] c [^A3=D3F3=d3] [^A,/2d3^A2D/2F]
+[Dz/2] [F3/2z/2] [D3/2z/2] [^Az/2] F/2 [^A,/2d3D/2F^A2] [Dz/2]
+[F3/2z/2] [D3/2z/2] [^Az/2] F/2 [F3C3=A/2c] [Az/2] [c3/2z/2]
+[A3/2z/2] f/2 c/2 [F3C3A/2c] [Az/2] [c3/2z/2] [A3/2z/2] f/2 c/2
+[F3D3^A/2d] [^Az/2] [d3/2z/2] [^A3/2z/2] f/2 d/2 [F3d^A/2D3] [^Az/2]
+[d3/2z/2] [^A3/2z/2] f/2 d/2 [G2^d^A3^D3z/2] c/2 [^d2z/2] c/2 [Gz/2]
+c/2 [F/2^D3=A/2c^d3] [Az/2] [c2z/2] [Az/2] F/2 A/2 [^A,/2=d3^A2=D/2F]
+[Dz/2] [F3/2z/2] [D3/2z/2] [^Az/2] F/2 [^A,/2d3D/2F^A2] [Dz/2]
+[F3/2z/2] [D3/2z/2] [^Az/2] F/2 [F3C3=A/2c] [Az/2] [c3/2z/2]
+[A3/2z/2] f/2 c/2 [F3C3A/2c] [Az/2] [c3/2z/2] [A3/2z/2] f/2 c/2
+[F3D3^A/2d] [^Az/2] [d3/2z/2] [^A3/2z/2] f/2 d/2 [G3^A/2dD3] [^Az/2]
+[d3/2z/2] [^A3/2z/2] f/2 d/2 [C/2^d3/2^A3^D3G/2] [G5/2z/2] c/2
+[^d3/2z/2] =A/2 c/2 [=D3F3^A3=d3] [^A,/2d3^A2D/2F] [Dz/2] [F3/2z/2]
+[D3/2z/2] [^Az/2] F/2 [^A,/2d3D/2F^A2] [Dz/2] [F3/2z/2] [D3/2z/2]
+[^Az/2] F/2 [F3C3=A/2c] [Az/2] [c3/2z/2] [A3/2z/2] f/2 c/2 [F3C3A/2c]
+[Az/2] [c3/2z/2] [A3/2z/2] f/2 c/2 [F3D3^A/2d] [^Az/2] [d3/2z/2]
+[^A3/2z/2] f/2 d/2 [F/2^A/2dD3G3] [^Az/2] [d3/2z/2] [^A3/2z/2] f/2
+d/2 [C/2^d3/2^A3^D3G/2] [G5/2z/2] c/2 [^d3/2z/2] =A/2 c/2
+[=D2F2^A2=d2] [GCEc] [C/2e3c2E/2G] [Ez/2] [G3/2z/2] [E3/2z/2] [cz/2]
+G/2 [C/2e3E/2Gc2] [Ez/2] [G3/2z/2] [E3/2z/2] [cz/2] G/2 [G3D3B/2d]
+[Bz/2] [d3/2z/2] [B3/2z/2] g/2 d/2 [G3D3B/2d] [Bz/2] [d3/2z/2]
+[B3/2z/2] g/2 d/2 [G3E3c/2e] [cz/2] [e3/2z/2] [c3/2z/2] g/2 e/2
+[G3ec/2E3] [cz/2] [e3/2z/2] [c3/2z/2] g/2 e/2 [=A2fc3F3z/2] d/2
+[f2z/2] d/2 [Az/2] d/2 [G/2F3B/2df3] [Bz/2] [d2z/2] [Bz/2] G/2 B/2
+[C/2e3c2E/2G] [Ez/2] [G3/2z/2] [E3/2z/2] [cz/2] G/2 [C/2e3E/2Gc2]
+[Ez/2] [G3/2z/2] [E3/2z/2] [cz/2] G/2 [G3D3B/2d] [Bz/2] [d3/2z/2]
+[B3/2z/2] g/2 d/2 [G3D3B/2d] [Bz/2] [d3/2z/2] [B3/2z/2] g/2 d/2
+[G3E3c/2e] [cz/2] [e3/2z/2] [c3/2z/2] g/2 e/2 [A3c/2eE3] [cz/2]
+[e3/2z/2] [c3/2z/2] g/2 e/2 [D/2f3/2c3F3A/2] [A5/2z/2] d/2 [f3/2z/2]
+B/2 d/2 [E3G3c3e3] [C/2e3c2E/2G] [Ez/2] [G3/2z/2] [E3/2z/2] [cz/2]
+G/2 [C/2e3E/2Gc2] [Ez/2] [G3/2z/2] [E3/2z/2] [cz/2] G/2 [G3D3B/2d]
+[Bz/2] [d3/2z/2] [B3/2z/2] g/2 d/2 [G3D3B/2d] [Bz/2] [d3/2z/2]
+[B3/2z/2] g/2 d/2 [G3E3c/2e] [cz/2] [e3/2z/2] [c3/2z/2] g/2 e/2
+[G/2c/2eE3A3] [cz/2] [e3/2z/2] [c3/2z/2] g/2 e/2 [D/2f3/2c3F3A/2]
+[A5/2z/2] d/2 [f3/2z/2] B/2 d/2 [E3G3c3e3] [G3E3c/2e] [cz/2]
+[e3/2z/2] [c3/2z/2] g/2 e/2 [G/2c/2eE3A3] [cz/2] [e3/2z/2] [c3/2z/2]
+g/2 e/2 [D/2f3/2c3F3A/2] [A5/2z/2] d/2 [f3/2z/2] B/2 d/2 [E3G3c3e3]
+

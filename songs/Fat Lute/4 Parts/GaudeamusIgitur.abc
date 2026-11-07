@@ -1,0 +1,123 @@
+N: TS  4,   1   4  21   8
+X: 1
+%%Orig filename was GaudeamusIgitur__Flute2.abc
+T:Gaudeamus Igitur (Flute - Basic Flute 1 (1:40)
+%%part-name Basic Flute 1
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:gaudeamu.mid
+%  Transpose:0
+L:1/4
+Q:90
+K:C
+z G,3/4 D,/4 D,7/8 z/8 G,7/8 z/8 E,3/4 E,/4 E,15/8 z/8 ^F,3/4 G,/4
+A,7/8 z/8 ^F,7/8 z/8 G,/2 B,/2 G,15/8 z/8 G,3/4 D,/4 D,7/8 z/8 G,7/8
+z/8 E,3/4 E,/4 E,15/8 z/8 ^F,3/4 G,/4 A,7/8 z/8 ^F,7/8 z/8 G,/2 B,/2
+G,15/8 z/8 ^F,3/4 G,/4 A,7/8 z/8 A,7/8 z/8 B,/2 G,/2 A,7/8 z/8 A,7/8
+z/8 ^F,3/4 G,/4 A,7/8 z/8 A,7/8 z/8 B,/2 G,/2 A,7/8 z/8 A,7/8 z/8
+G,3/4 ^F,/4 E,/2 C/2 B,/2 A,/2 B, A,7/8 z/8 G,7/8 z/8 G,3/4 ^F,/4
+E,/2 C/2 B,/2 A,/2 D ^F,7/8 z/8 G,15/8 z9/8 G,3/4 D,/4 D,7/8 z/8
+G,7/8 z/8 E,3/4 E,/4 E,15/8 z/8 ^F,3/4 G,/4 A,7/8 z/8 ^F,7/8 z/8 G,/2
+B,/2 G,15/8 z/8 G,3/4 D,/4 D,7/8 z/8 G,7/8 z/8 E,3/4 E,/4 E,15/8 z/8
+^F,3/4 G,/4 A,7/8 z/8 ^F,7/8 z/8 G,/2 B,/2 G,15/8 z/8 ^F,3/4 G,/4
+A,7/8 z/8 A,7/8 z/8 B,/2 G,/2 A,7/8 z/8 A,7/8 z/8 ^F,3/4 G,/4 A,7/8
+z/8 A,7/8 z/8 B,/2 G,/2 A,7/8 z/8 A,7/8 z/8 G,3/4 ^F,/4 E,/2 C/2 B,/2
+A,/2 B, A,7/8 z/8 G,7/8 z/8 G,3/4 ^F,/4 E,/2 C/2 B,/2 A,/2 D ^F,7/8
+z/8 G,15/8 z9/8 G,3/4 D,/4 D,7/8 z/8 G,7/8 z/8 E,3/4 E,/4 E,15/8 z/8
+^F,3/4 G,/4 A,7/8 z/8 ^F,7/8 z/8 G,/2 B,/2 G,15/8 z/8 G,3/4 D,/4
+D,7/8 z/8 G,7/8 z/8 E,3/4 E,/4 E,15/8 z/8 ^F,3/4 G,/4 A,7/8 z/8
+^F,7/8 z/8 G,/2 B,/2 G,15/8 z/8 ^F,3/4 G,/4 A,7/8 z/8 A,7/8 z/8 B,/2
+G,/2 A,7/8 z/8 A,7/8 z/8 ^F,3/4 G,/4 A,7/8 z/8 A,7/8 z/8 B,/2 G,/2
+A,7/8 z/8 A,7/8 z/8 G,3/4 ^F,/4 E,/2 C/2 B,/2 A,/2 B, A,7/8 z/8 G,7/8
+z/8 G,3/4 ^F,/4 E,/2 C/2 B,/2 A,/2 D ^F,7/8 z/8 G,21/8
+
+X: 4
+%%Orig filename was GaudeamusIgitur__Horn1.abc
+T:Gaudeamus Igitur (Clarinet or Horn - melody) (1:40)
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:gaudeamu.mid
+%  Transpose:0
+L:1/4
+Q:90
+K:C
+z G3/4 D/4 D7/8 z/8 G7/8 z/8 E3/4 E/4 E15/8 z/8 ^F3/4 G/4 A7/8 z/8
+^F7/8 z/8 G/2 z/2 G15/8 z/8 G3/4 D/4 D7/8 z/8 G7/8 z/8 E3/4 E/4 E15/8
+z/8 ^F3/4 G/4 A7/8 z/8 ^F7/8 z/8 G/2 z/2 G15/8 z/8 ^F3/4 G/4 A7/8 z/8
+A7/8 z5/8 G/2 A7/8 z/8 A7/8 z/8 ^F3/4 G/4 A7/8 z/8 A7/8 z5/8 G/2 A7/8
+z/8 A7/8 z/8 G3/4 ^F/4 E/2 z A/2 z A7/8 z/8 G7/8 z/8 G3/4 ^F/4 E/2 z
+A/2 z ^F7/8 z/8 G15/8 z9/8 G3/4 D/4 D7/8 z/8 G7/8 z/8 E3/4 E/4 E15/8
+z/8 ^F3/4 G/4 A7/8 z/8 ^F7/8 z/8 G/2 z/2 G15/8 z/8 G3/4 D/4 D7/8 z/8
+G7/8 z/8 E3/4 E/4 E15/8 z/8 ^F3/4 G/4 A7/8 z/8 ^F7/8 z/8 G/2 z/2
+G15/8 z/8 ^F3/4 G/4 A7/8 z/8 A7/8 z5/8 G/2 A7/8 z/8 A7/8 z/8 ^F3/4
+G/4 A7/8 z/8 A7/8 z5/8 G/2 A7/8 z/8 A7/8 z/8 G3/4 ^F/4 E/2 z A/2 z
+A7/8 z/8 G7/8 z/8 G3/4 ^F/4 E/2 z A/2 z ^F7/8 z/8 G15/8 z9/8 G3/4 D/4
+D7/8 z/8 G7/8 z/8 E3/4 E/4 E15/8 z/8 ^F3/4 G/4 A7/8 z/8 ^F7/8 z/8 G/2
+z/2 G15/8 z/8 G3/4 D/4 D7/8 z/8 G7/8 z/8 E3/4 E/4 E15/8 z/8 ^F3/4 G/4
+A7/8 z/8 ^F7/8 z/8 G/2 z/2 G15/8 z/8 ^F3/4 G/4 A7/8 z/8 A7/8 z5/8 G/2
+A7/8 z/8 A7/8 z/8 ^F3/4 G/4 A7/8 z/8 A7/8 z5/8 G/2 A7/8 z/8 A7/8 z/8
+G3/4 ^F/4 E/2 z A/2 z A7/8 z/8 G7/8 z/8 G3/4 ^F/4 E/2 z A/2 z ^F7/8
+z/8 G21/8
+
+X: 21
+%%Orig filename was GaudeamusIgitur__Horn3.abc
+T:Gaudeamus Igitur (Horn - harmony) (1:40)
+%%part-name Basic Horn
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:gaudeamu.mid
+%  Transpose:0
+L:1/4
+Q:90
+K:C
+z B,3/4 B,/4 B,7/8 z/8 D7/8 z/8 C3/4 C/4 C15/8 z/8 D3/4 E/4 ^F7/8 z/8
+C7/8 z/8 B,/2 z/2 B,15/8 z/8 B,3/4 B,/4 B,7/8 z/8 D7/8 z/8 C3/4 C/4
+C15/8 z/8 D3/4 E/4 ^F7/8 z/8 C7/8 z/8 B,/2 z/2 B,15/8 z/8 D3/4 E/4
+^F7/8 z/8 ^F7/8 z/8 G/2 E/2 ^F7/8 z/8 D7/8 z/8 D3/4 E/4 ^F7/8 z/8
+^F7/8 z/8 G/2 E/2 [D7/8^F7/8] z/8 [D7/8^F7/8] z/8 B,3/4 D/4 C/2 E/2
+D/2 C/2 [D7/8G7/8] z/8 [C7/8^F7/8] z/8 [B,7/8E7/8] z/8 D3/4 D/4 C/2
+E/2 D/2 C/2 [D7/8B7/8] z/8 [D7/8C7/8] z/8 [D15/8B,15/8] z9/8 B,3/4
+B,/4 B,7/8 z/8 D7/8 z/8 C3/4 C/4 C15/8 z/8 D3/4 E/4 ^F7/8 z/8 C7/8
+z/8 B,/2 z/2 B,15/8 z/8 B,3/4 B,/4 B,7/8 z/8 D7/8 z/8 C3/4 C/4 C15/8
+z/8 D3/4 E/4 ^F7/8 z/8 C7/8 z/8 B,/2 z/2 B,15/8 z/8 D3/4 E/4 ^F7/8
+z/8 ^F7/8 z/8 G/2 E/2 ^F7/8 z/8 D7/8 z/8 D3/4 E/4 ^F7/8 z/8 ^F7/8 z/8
+G/2 E/2 [D7/8^F7/8] z/8 [D7/8^F7/8] z/8 B,3/4 D/4 C/2 E/2 D/2 C/2
+[D7/8G7/8] z/8 [C7/8^F7/8] z/8 [B,7/8E7/8] z/8 D3/4 D/4 C/2 E/2 D/2
+C/2 [D7/8B7/8] z/8 [D7/8C7/8] z/8 [D15/8B,15/8] z9/8 B,3/4 B,/4 B,7/8
+z/8 D7/8 z/8 C3/4 C/4 C15/8 z/8 D3/4 E/4 ^F7/8 z/8 C7/8 z/8 B,/2 z/2
+B,15/8 z/8 B,3/4 B,/4 B,7/8 z/8 D7/8 z/8 C3/4 C/4 C15/8 z/8 D3/4 E/4
+^F7/8 z/8 C7/8 z/8 B,/2 z/2 B,15/8 z/8 D3/4 E/4 ^F7/8 z/8 ^F7/8 z/8
+G/2 E/2 ^F7/8 z/8 D7/8 z/8 D3/4 E/4 ^F7/8 z/8 ^F7/8 z/8 G/2 E/2
+[D7/8^F7/8] z/8 [D7/8^F7/8] z/8 B,3/4 D/4 C/2 E/2 D/2 C/2 [D7/8G7/8]
+z/8 [C7/8^F7/8] z/8 [B,7/8E7/8] z/8 D3/4 D/4 C/2 E/2 D/2 C/2
+[D7/8B7/8] z/8 [C7/8D7/8] z/8 [B,21/8D21/8]
+
+X: 8
+%%Orig filename was GaudeamusIgitur__Theorbo4.abc
+T:Gaudeamus Igitur (Theorbo - bass line) (1:40)
+Z:Transcribed by Ranna Dylin with LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:gaudeamu.mid
+%  Transpose:0
+L:1/4
+Q:90
+%%part-name Basic Theorbo
+K:C
+z G3/4 G/4 G7/8 z/8 B7/8 z/8 c3/4 c/4 c15/8 z/8 D7/8 z/8 [^f7/8d7/8]
+z/8 D7/8 z/8 [d7/8G7/8] z/8 D7/8 z/8 G7/8 z/8 G3/4 G/4 G7/8 z/8 B7/8
+z/8 c3/4 c/4 c15/8 z/8 D7/8 z/8 [^f7/8d7/8] z/8 D7/8 z/8 [d7/8G7/8]
+z/8 D7/8 z/8 G7/8 z/8 D3/4 D/4 D7/8 z/8 D7/8 z/8 G7/8 z/8 D7/8 z/8
+^F7/8 z/8 D3/4 D/4 D7/8 z/8 D7/8 z/8 G/2 B/2 D7/8 z/8 D7/8 z/8 G3/4
+B/4 c/2 A/2 B/2 c/2 D7/8 z/8 ^D7/8 z/8 E7/8 z/8 B3/4 B/4 c/2 A/2 B/2
+c/2 =D7/8 z/8 [^f7/8d7/8D7/8] z/8 [g15/8G15/8d15/8] z9/8 G3/4 G/4
+G7/8 z/8 B7/8 z/8 c3/4 c/4 c15/8 z/8 D7/8 z/8 [^f7/8d7/8] z/8 D7/8
+z/8 [d7/8G7/8] z/8 D7/8 z/8 G7/8 z/8 G3/4 G/4 G7/8 z/8 B7/8 z/8 c3/4
+c/4 c15/8 z/8 D7/8 z/8 [^f7/8d7/8] z/8 D7/8 z/8 [d7/8G7/8] z/8 D7/8
+z/8 G7/8 z/8 D3/4 D/4 D7/8 z/8 D7/8 z/8 G7/8 z/8 D7/8 z/8 ^F7/8 z/8
+D3/4 D/4 D7/8 z/8 D7/8 z/8 G/2 B/2 D7/8 z/8 D7/8 z/8 G3/4 B/4 c/2 A/2
+B/2 c/2 D7/8 z/8 ^D7/8 z/8 E7/8 z/8 B3/4 B/4 c/2 A/2 B/2 c/2 =D7/8
+z/8 [^f7/8d7/8D7/8] z/8 [g15/8G15/8d15/8] z9/8 G3/4 G/4 G7/8 z/8 B7/8
+z/8 c3/4 c/4 c15/8 z/8 D7/8 z/8 [^f7/8d7/8] z/8 D7/8 z/8 [d7/8G7/8]
+z/8 D7/8 z/8 G7/8 z/8 G3/4 G/4 G7/8 z/8 B7/8 z/8 c3/4 c/4 c15/8 z/8
+D7/8 z/8 [^f7/8d7/8] z/8 D7/8 z/8 [d7/8G7/8] z/8 D7/8 z/8 G7/8 z/8
+D3/4 D/4 D7/8 z/8 D7/8 z/8 G7/8 z/8 D7/8 z/8 ^F7/8 z/8 D3/4 D/4 D7/8
+z/8 D7/8 z/8 G/2 B/2 D7/8 z/8 D7/8 z/8 G3/4 B/4 c/2 A/2 B/2 c/2 D7/8
+z/8 ^D7/8 z/8 E7/8 z/8 B3/4 B/4 c/2 A/2 B/2 c/2 =D7/8 z/8
+[D7/8d7/8^f7/8] z/8 [d21/8g21/8G21/8]
+

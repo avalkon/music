@@ -1,0 +1,52 @@
+N: TS  3,   3   1   5
+X: 3
+%%Orig filename was Carmen-Prelude__Clar1.abc
+T:Bizet - Carmen (1:23) - Prelude (Basic Clarinet) [Dalman of Brandywine]
+%%part-name Basic Clarinet
+L:1/4
+Q:120
+K:C
++ppp+
+z16 z7/8 d25/8 ^c ^A ^c9/8 =A33/8 z2 A25/8 ^G F9/8 ^G E33/8 z17/8 =G3
+^F9/8 ^D ^F =D17/8 E2 =F17/8 A33/8 G2 z/8 G2 F25/8 z f25/8 e ^c9/8 e
+=c33/8 z17/8 c3 B9/8 ^G B =G33/8 z17/8 ^A25/8 =A ^F A =F17/8 G17/8
+^G2 c33/8 ^A2 z/8 ^A2 ^G25/8 z B25/8 ^G9/8 =G ^G B17/8 ^A3 z9/8
+^c25/8 ^A =A ^A ^c17/8 =c25/8 z ^d25/8 c B c9/8 ^f25/8 ^d =d ^d a33/8
+a3 z/8 a2 z/8 a2 a9/8 ^a/2
+
+X: 1
+%%Orig filename was Carmen-Prelude__Flute2.abc
+T:Bizet - Carmen (1:30) - Prelude (Basic Flute) [Dalman of Brandywine]
+%%part-name Basic Flute
+L:1/4
+Q:120
+K:C
++ppp+
+z9/2 [D,16A,16F,16] [D,35/4A,35/4F,15] [D,25/2B,25/2z25/4] ^G,25/4
+[D,49/8D49/8A,49/8] [D25/4A,25/4F,25/4] [C25/4^A,25/4E,25/4]
+[C49/8=A,49/8F,49/8] [B,25/4^G,25/4F,25/4] [C25/4^G,25/4F,25/4]
+[D49/8^G,49/8F,49/8] [E25/4^C25/4E,25/4] [F49/8=C49/8F,49/8]
+[F25/4C25/4^G,25/4] [^D25/4^C25/4=G,25/4] [^D49/8=C49/8^G,49/8]
+[=D25/4B,25/4F,25/4] [^D25/4B,17/8^D,25/4] ^A,33/8
+[E49/8^C49/8E,49/8] [F25/4^C17/8F,25/4] =C33/8
+[^F25/4=A,25/4^D25/4^F,25/4] [A,49/8A49/8^F49/8C49/8]
+[C25/4c25/4A,25/4A25/4^D25/4] [c25/4C25/4A,25/4A25/4^D25/4]
+[^c/2E/2^A,/2^C/2E,/2]
+
+X: 5
+%%Orig filename was Carmen-Prelude__Harp3.abc
+T:Bizet - Carmen (1:35) - Prelude (Basic Harp) [Dalman of Brandywine]
+%%part-name Basic Harp
+L:1/4
+Q:120
+K:C
+z16 z7/8 d25/8 ^c ^A ^c9/8 [=A33/8z2] [DD,] z9/8 [DD,] z A25/8 ^G F9/8
+^G [E33/8z2] [D9/8D,9/8] z [DD,] z9/8 =G3 ^F9/8 ^D ^F =D17/8 E2
+=F17/8 A33/8 G2 z/8 G2 F25/8 z f25/8 e ^c9/8 e [=c33/8z2] [F9/8F,9/8]
+z [FF,] z9/8 c3 B9/8 ^G B [=G33/8z17/8] [FF,] z [F9/8F,9/8] z ^A25/8
+=A ^F A =F17/8 G17/8 ^G2 c33/8 ^A2 z/8 ^A2 ^G25/8 z [B25/8^G,9/8] z2
+^G9/8 =G ^G B17/8 [^A3=G,] z G, z9/8 [^c25/8^A,] z17/8 ^A =A ^A
+^c17/8 [=c25/8=A,] z9/8 A, z [^d25/8C,] z17/8 c B c9/8 [^f25/8^D,]
+z17/8 ^d =d ^d [a33/8^F,9/8] z3 a3 z/8 a2 z/8 a2 a9/8
+[g/2=G/2^a/2^A,/2G,/2]
+

@@ -1,0 +1,147 @@
+%abc-2.1
+%%song-title       Firefly Theme
+%%song-composer    Joss Whedon
+%%song-duration    0:51
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:22:34
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title: Joss Whedon - Firefly Theme
+N: TS  4,   5  8  1  4
+I:decoration +
+
+X: 5
+T: Firefly Theme (0:51) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+%%user-pan auto
+C: Joss Whedon
+M: 4/4
+Q: 86
+L: 1/8
+K: C maj
++mf+ G,/ A,/ C ^D/ C/ ^D, |
+[C,-G,-C-g] [C,/-G,/-C/-g/] [C,3/2-G,3/2-C3/2-g3/2] [C,G,C] f f/ f3/2 z |
+f f/ f3/2 g [G,/-C/-G/-e/] [G,3/2C3/2G3/2e3/2] [G,2-D2-G2-d2-] |
+[G,2D2G2d2] [^A,/-^D/-^d/] [A,3/2D3/2d3/2] d d/ g/- [A,-F-=d-g] [A,Fdf] |
+f2 [F-A-c-f] [F/-A/-c/-f/] [F/A/c/f/-] f g [c/-e/] [c3/2e3/2] |
+[^A,6G6d6] [C,-G,-C-g] [C,/-G,/-C/-g/] [C,/-G,/-C/-g/-] |
+[C,-G,-C-g] [C,G,C] f f/ f3/2 z f f/ f/- |
+f g [G,/-C/-E/-G/-c/-e/] [G,3/2C3/2E3/2G3/2c3/2e3/2] [G,4D4F4G4^A4d4] |
+[^A,/-^D/-^d/] [A,/-D/d/-] [A,Dd] [Gd] [^A/-d/] [A/g/-] [A,F-=d-g] [A,Fdf] [=Df-] [Ff] |
+% Bar 10 (0:24)
+[CF-A-c-f] [C/-F/-A/-c/-f/] [C/F/A/c/f/-] [Ff] [Gg] [E/c/-e/] [C3/2c3/2e3/2] [^A,2D2G2d2-] |
+d4 ^D,/ G,/ ^A,/ ^D/ D,/ G,/ A,/ D/ |
+^D,/ G,/ ^A,/ ^D/ D,/ G,/ A,/ D/ A,/ =D/ F/ ^A/ d/ c/ A/ f/ |
+g/ ^a/ g/ f/ d/ c/ ^A/ G/ =A f/ A/ ^A g/ A/ |
+c a3 [G,-C-G-g] [G,/-C/-G/-g/] [G,3/2-C3/2-G3/2-g3/2] [G,-C-G-] |
+[G,-C-G-g] [G,/-C/-G/-f/] [G,3/2-C3/2-G3/2-f3/2] [G,CG] f f/ f3/2 g |
+[G,/-C/-G/-e/] [G,3/2C3/2G3/2e3/2] [G,4D4G4d4] [^A,/-^D/-^d/] [A,/D/-d/-] [A,Dd] |
+[G^d] [^A/-d/] [A/g/-] [^A,F-=d-g] [A,Fdf] [Df-] [Ff] z2 |
+[^A,-F-d-] [A,Fdf] [C6-G6-g6-] |
+[C6G6g6] |]
+
+
+X: 8
+T: Firefly Theme (0:51) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+C: Joss Whedon
+M: 4/4
+Q: 86
+L: 1/8
+K: C maj
++mf+ z4 |
+C2 z2 ^A,2 z2 |
+A,2 z2 C2 G,2- |
+G,2 ^D2 z2 ^A,2 |
+z2 F2 z2 C2 |
+G,6 C2 |
+z2 ^A,2 z2 =A,2 |
+z2 C2 G,4 |
+^D2 z2 ^A,2 z2 |
+% Bar 10 (0:24)
+F2 z2 C2 G,2 |
+z4 ^D4 |
+G2 ^A2 ^A,4 |
+D2 C/ ^A,/ G, F,3 G,/ C/ |
+F4 C2 z2 |
+^A,2 z2 =A,2 z2 |
+C2 G,4 ^D2 |
+z2 ^A,2 z4 |
+[^D,2^D2] [C,6-C6-] |
+[C,6C6] |]
+
+
+X: 1
+T: Firefly Theme (0:51) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+C: Joss Whedon
+M: 4/4
+Q: 86
+L: 1/8
+K: C maj
++p+ z4 |
+G, G,/ G,3/2 z F, F,/ F,3/2 z |
+F, F,/ F,3/2 G, E,/ E,3/2 D,2- |
+D,2 ^D,/ D,3/2 D, D,/ G,3/2 F, |
+F,2 F, F,/ F,3/2 G, E,/ E,3/2 |
+[D,3/2-^A,3/2] [D,/-=A,/] [D,/-G,/] [D,/-A,/] [D,-^A,] [D,-G] [D,/-F/] [D,/^D/] [G,C-] [G,/C/] G,/- |
+G, z F, F,/ F,3/2 z F, F,/ F,/- |
+F, G, E,/ E,3/2 D,4 |
+^D,/ D,3/2 D, D,/ G,3/2 F, F,2 |
+% Bar 10 (0:24)
+F, F,/ F,3/2 G, E,/ E,3/2 D,2- |
+[D,/-G,/] [D,3/2-^A,3/2] [D,/-C/] [D,3/2D3/2] ^D2 [F3/4^A3/4-] [G5/4-A5/4-] |
+[G2^A2] F ^D F3 =D/ F/ |
+G/ ^A/ G/ F/ D/ C/ ^A,/ G,/ =A, F/ A,/ ^A, G/ A,/ |
+C A3 [G,G-] [G,/G/-] [G,3/2G3/2] z |
+G, F,/ F,3/2 z F, F,/ F,3/2 G, |
+E,/ E,3/2 D,4 ^D,/ D,3/2 |
+[^D,G,-] [D,/G,/] G,/- [G,^A,-] [F,A,] F,2 F, G, |
+^A,/ G,/ F,/ D,/ C,6- |
+C,6 |]
+
+
+X: 4
+T: Firefly Theme (0:51) - Basic Horn
+%%part-name Basic Horn
+%%made-for Basic Horn
+%%user-pan auto
+C: Joss Whedon
+M: 4/4
+Q: 86
+L: 1/8
+K: C maj
++p+ z4 |
+g g/ g3/2 z f f/ f3/2 z |
+f f/ f3/2 g e/ e3/2 d2- |
+d2 ^d/ d3/2 d d/ g3/2 f |
+f2 f f/ f3/2 g e/ e3/2 |
+[d3/2-^a3/2] [d/-=a/] [d/-g/] [d/-a/] [d-^a] [d-g] [d/-f/] [d/^d/] [gc'-] [g/c'/] g/- |
+g z f f/ f3/2 z f f/ f/- |
+f g e/ e3/2 d4 |
+^d/ d3/2 d d/ g3/2 f f2 |
+% Bar 10 (0:24)
+f f/ f3/2 g e/ e3/2 d2- |
+[d/-g/] [d3/2-^a3/2] [d/c'/] d3/2 ^d2 [f3/4a3/4-] [g5/4-a5/4-] |
+[g2^a2] f ^d f3 =d/ f/ |
+g/ ^a/ g/ f/ d/ c'/ a/ g/ =a f/ a/ ^a g/ a/ |
+c' a3 g g/ g3/2 z |
+g f/ f3/2 z f f/ f3/2 g |
+e/ e3/2 d4 ^d/ d3/2 |
+[^dg-] [d/g/] g/- [g^a-] [fa] f2 f g |
+^a/ g/ f/ d/ c6- |
+c6 |]
+

@@ -1,0 +1,119 @@
+N: TS  6,   1   5   4   8  21  22
+X: 1
+%%Orig filename was FireflyTheme__Flute3.abc
+T:Joss Whedon (0:56) - Firefly Theme (Basic Flute) [Dalman of Brandywine]
+%%part-name Basic Flute
+L:1/4
+Q:86
+K:C
++p+
+z4 G,/2 G,/4 G,3/4 z/2 F,/2 F,/4 F,3/4 z/2 F,/2 F,/4 F,3/4 G,/2 E,/4
+E,3/4 D,2 ^D,/4 ^D,3/4 ^D,/2 ^D,/4 G,3/4 F,/2 F, F,/2 F,/4 F,3/4 G,/2
+E,/4 E,3/4 [=D,3^A,3/4] =A,/4 G,/4 A,/4 ^A,/2 G/2 F/4 ^D/4 [G,/2C3/4]
+G,/4 G,3/4 z/2 F,/2 F,/4 F,3/4 z/2 F,/2 F,/4 F,3/4 G,/2 E,/4 E,3/4
+D,2 ^D,/4 ^D,3/4 ^D,/2 ^D,/4 G,3/4 F,/2 F, F,/2 F,/4 F,3/4 G,/2 E,/4
+E,3/4 [=D,3z] G,/4 ^A,3/4 C/4 =D3/4 ^D [F3/8^A2] G13/8 F/2 ^D/2 F3/2
+=D/4 F/4 G/4 ^A/4 G/4 F/4 D/4 C/4 ^A,/4 G,/4 =A,/2 F/4 A,/4 ^A,/2 G/4
+^A,/4 C/2 =A3/2 [G,/2G3/2] G,/4 G,3/4 z/2 G,/2 F,/4 F,3/4 z/2 F,/2
+F,/4 F,3/4 G,/2 E,/4 E,3/4 D,2 ^D,/4 ^D,3/4 [^D,/2G,3/4] ^D,/4
+[G,3/4z/4] [^A,z/2] F,/2 F, F,/2 G,/2 ^A,/4 G,/4 F,/4 =D,/4 C,6
+
+X: 5
+%%Orig filename was FireflyTheme__Harp4.abc
+T:Joss Whedon (1:04) - Firefly Theme (Basic Harp) [Dalman of Brandywine]
+%%part-name Basic Harp
+L:1/4
+Q:86
+K:C
+z2 G,/4 A,/4 C/2 ^D/4 C/4 ^D,/2 [C,2G,2C2g/2] g/4 g3/4 z/2 f/2 f/4
+f3/4 z/2 f/2 f/4 f3/4 g/2 [G,CGe/4] e3/4 [G,2=D2G2d2] [^A,^D^d/4]
+^d3/4 ^d/2 ^d/4 [g3/4z/4] [^A,F=dz/2] f/2 f [FAcf/2] f/4 f3/4 g/2
+[ce/4] e3/4 [^A,3G3d3] [C,2G,2C2g/2] g/4 g3/4 z/2 f/2 f/4 f3/4 z/2
+f/2 f/4 f3/4 g/2 [EcG,CGe/4] e3/4 [F2^A2G,2=D2G2d2] [^D/2^A,^d/4]
+[^d3/4z/4] ^D/2 [G/2^d/2] [^A/2^d/4] [g3/4z/4] [^A,/2F=d] [^A,/2f/2]
+[=D/2f] F/2 [C/2F=Acf/2] [C/2f/4] [f3/4z/4] F/2 [G/2g/2] [E/4ce/4]
+[C3/4e3/4] [^A,DGd3] z2 ^D,/4 G,/4 ^A,/4 ^D/4 ^D,/4 G,/4 ^A,/4 ^D/4
+^D,/4 G,/4 ^A,/4 ^D/4 ^D,/4 G,/4 ^A,/4 ^D/4 ^A,/4 =D/4 F/4 ^A/4 d/4
+c/4 ^A/4 f/4 g/4 ^a/4 g/4 f/4 d/4 c/4 ^A/4 G/4 =A/2 f/4 A/4 ^A/2 g/4
+^A/4 c/2 =a3/2 [G,4C4G4g/2] g/4 g3/4 z/2 g/2 f/4 f3/4 z/2 f/2 f/4
+f3/4 g/2 [G,CGe/4] e3/4 [G,2D2G2d2] [^A,/2^D^d/4] [^d3/4z/4] ^A,/2
+[G/2^d/2] [^A/2^d/4] [g3/4z/4] [^A,/2F=d] [^A,/2f/2] [=D/2f] F/2 z
+[^A,Fdz/2] f/2 [g6C6G6]
+
+X: 4
+%%Orig filename was FireflyTheme__Horn5.abc
+T:Joss Whedon (0:56) - Firefly Theme (Basic Horn) [Dalman of Brandywine]
+%%part-name Basic Horn
+L:1/4
+Q:86
+K:C
++p+
+z4 g/2 g/4 g3/4 z/2 f/2 f/4 f3/4 z/2 f/2 f/4 f3/4 g/2 e/4 e3/4 d2 ^d/4
+^d3/4 ^d/2 ^d/4 g3/4 f/2 f f/2 f/4 f3/4 g/2 e/4 e3/4 [=d3^a3/4] =a/4
+g/4 a/4 ^a/2 g/2 f/4 ^d/4 [g/2c'3/4] g/4 g3/4 z/2 f/2 f/4 f3/4 z/2
+f/2 f/4 f3/4 g/2 e/4 e3/4 =d2 ^d/4 ^d3/4 ^d/2 ^d/4 g3/4 f/2 f f/2 f/4
+f3/4 g/2 e/4 e3/4 [=d9/4z] g/4 ^a3/4 c'/4 d3/4 ^d [f3/8^a2] g13/8 f/2
+^d/2 f3/2 =d/4 f/4 g/4 ^a/4 g/4 f/4 d/4 c'/4 ^a/4 g/4 =a/2 f/4 a/4
+^a/2 g/4 ^a/4 c'/2 =a3/2 g/2 g/4 g3/4 z/2 g/2 f/4 f3/4 z/2 f/2 f/4
+f3/4 g/2 e/4 e3/4 d2 ^d/4 ^d3/4 [^d/2g3/4] ^d/4 [g3/4z/4] [^az/2] f/2
+f f/2 g/2 ^a/4 g/4 f/4 =d/4 c6
+
+X: 8
+%%Orig filename was FireflyTheme__Lute6.abc
+T:Firefly Theme by Dornath of Dwarrowdelf (1:13)
+%%part-name Basic Lute
+Z:Transcribed by Dornath
+%  Original file:firefly.mid
+%  Transpose:-5
+L:1/4
+Q:86
+K:C
+z2 D,/4 E,/4 G,/2 ^A,/4 G,/4 ^A,/2 [G,2D,2d/2] d/4 d3/4 z/2 [F,c/2]
+c/4 c3/4 z/2 [E,c/2] c/4 c3/4 d/2 [D,G,DB/4] B3/4 [D,2=A,2D2A2z] d/8
+f/8 d/8 f/8 d/8 f/8 d/8 f/8 [F,^A,^A/4d/8] f/8 [^A3/4d/8] f/8 d/8 f/8
+d/8 f/8 ^A/2 ^A/4 [d3/4z/4] [F,C=Az/2] c/2 c [CEGC,c/2] c/4 c3/4 d/2
+[GG,B/4] B3/4 [F,3D3D,3A3f3/4] e/4 d/4 e/4 f/2 d/2 c'/4 ^a/4
+[G,2D,2d/2g3/2] d/4 d3/4 [c/2=a/2] [F,c/2A2f2] c/4 c3/4 z/2
+[E,c/2G2e2c'2] c/4 c3/4 d/2 [B,G/2D,G,DB/4] [B3/4z/4] [G/2g/2]
+[C2F2D,2=A,2D2A2] [^A,/2F,^A/4] [^A3/4z/4] ^A,/2 [D/2^A/2] [F/2^A/4]
+[d3/4z/4] [F,/2C=A] [F,/2c/2] [=A,/2c] C/2 [G,/2CEGC,c/2] [G,/2c/4]
+[c3/4z/4] C/2 [D/2d/2] [B,/4GG,/4B/4] [G,3/4B3/4] [F,A,DD,A3] d/4
+f3/4 g/4 a3/4 [^A,3/4^az/4] D,/4 F,/4 ^A,/4 [^A,3/4c'3/8f2z/4]
+[D,/4z/8] [d13/8z/8] F,/4 ^A,/4 [^A,/4D,/4] [D,3/4z/4] F,/4 ^A,/4
+[^A,/4F,/2c'/2] D,/4 [F,/2^a/2z/4] ^A,/4 [F,2c'3/2z/4] =A,/4 C/4 F/4
+A/4 G/4 [F/4=a/4] [c/4c'/4] [d/4A,] f/4 d/4 [c/4c'/4] [A/4G,/4a/4]
+[G/4F,/4g/4] [F/4D,/2f/4] [D/4d/4] [E/2C,3/2e/2] [c/4c'/4] [E/4e/4]
+[F/2f/2] [d/4D,/4] [F/4G,/4f/4] [G/2C,2g/2] e3/2 [D,4G,4D4d/2] d/4
+d3/4 z/2 [F,d/2] c/4 c3/4 z/2 [E,c/2] c/4 c3/4 d/2 [D,G,DB/4] B3/4
+[D,2A,2D2A2] [F,/2^A,^A/4^a] [^A3/4z/4] F,/2 [D/2^A/2d3/4] [F/2^A/4]
+[d3/4z/4] [F,/2C=Ac/2=af] [F,/2c/2] [=A,/2c] C/2 c/2 d/2
+[F,CA3/4^A,f/4] d/4 [c/2z/4] A/4 [d6G,6D6G6]
+
+X: 21
+%%Orig filename was FireflyTheme__Theorbo1.abc
+T:Firefly Theme(backup) by Dornath of Dwarrowdelf (0:52)
+Z:Transcribed by Dornath
+%  Original file:fireflywind.mid
+%  Transpose:-10
+L:1/4
+Q:86
+%%part-name Basic Theorbo 1
+K:C
+z91/8 z5/8 A/8 c/8 A/8 c/8 A/8 c/8 A/8 c/8 A/8 c/8 A/8 c/8 A/8 c/8 A/8
+c/8 z6 c3/4 B/4 A/4 B/4 c/2 a/2 g/4 f/4 [A3/2d3/2] [G/2e/2] [E2c2]
+[D2B2g2] [A,/2^f/2] [D/2d/2] [C2c2] z8 A/4 c3/4 d/4 e3/4 =f [g3/8c'2]
+a13/8 g/2 f/2 g3/2 e/4 g/4 a/4 c'/4 a/4 g/4 e/4 d/4 c/4 A/4 B/2 g/4
+B/4 c/2 a/4 c/4 d/2 b3/2 a3/2 z15/2 [Ff] A [Gec] z G/2 A/2 c/4 A/4
+G/4 E/4 [A6a6D6]
+
+X: 22
+%%Orig filename was FireflyTheme__Theorbo2.abc
+T:Joss Whedon (0:52) - Firefly Theme (Basic Theorbo 2) [Dalman of Brandywine]
+L:1/4
+Q:86
+%%part-name Basic Theorbo 2
+K:C
+z4 C z ^A, z =A, z C G,2 ^D z ^A, z F z C G,3 C z ^A, z =A, z C G,2 ^D
+z ^A, z F z C G, z2 ^D2 G ^A ^A,2 =D C/4 ^A,/4 G,/2 F,3/2 G,/4 C/4 F2
+C z ^A, z =A, z C G,2 ^D z ^A, z2 [^D,^D] [C,6C6]
+

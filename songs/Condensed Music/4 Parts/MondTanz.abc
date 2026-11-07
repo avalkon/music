@@ -1,0 +1,453 @@
+N: TS  4,  10  21   8   6
+X: 10
+%%Orig filename was MondTanzDrums1.abc
+T: Mond Tanz (2:44) - Basic Drum 1
+%%part-name Basic Drum 1
+C: Blackmore's Night
+Z: Raymiond of Gladden
+M: 4/4
+Q: 130
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+z4
+	%%Q: 156
+	z10/3 |
+z20/3 |
+z5
+	%%Q: 90
+	z26/9 |
+z104/9 |
+z104/9 |
+%%Q: 130
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+% Bar 30 (0:54)
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+% Bar 40 (1:13)
+^A2 ^d2 ^A,4 |
+^A,4 A,4 |
+^A,4 ^A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A,2 A,2 |
+% Bar 50 (1:31)
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+% Bar 60 (1:50)
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A3/2 d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A A A,2 |
+% Bar 70 (2:08)
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A A A,2 |
+^A A ^A,2 A A A,2 |
+^A A ^A,2 A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+% Bar 80 (2:26)
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,2 |
+z8 |]
+
+X: 21
+%%Orig filename was MondTanzDrums2.abc
+T: Mond Tanz (2:44) - Basic Drum 2
+%%part-name Basic Drum 2
+C: Blackmore's Night
+Z: Raymiond of Gladden
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+z4
+	%%Q: 156
+	z10/3 |
+z20/3 |
+z5
+	%%Q: 90
+	z26/9 |
+z104/9 |
+z104/9 |
+%%Q: 130
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+% Bar 30 (0:54)
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+% Bar 40 (1:13)
+^A2 ^d2 ^A,4 |
+^A,4 A,4 |
+^A,4 ^A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A3/2 ^d/ A, d |
+^A A ^A,2 A,2 A,2 |
+% Bar 50 (1:31)
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ ^A, d A A A,2 |
+^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
+% Bar 60 (1:50)
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A3/2 d/ +fff+ [A,F] +mf+ d |
+^A +fff+ [FA] [^A,-F] A, +mf+ A3/2 ^d/ +fff+ [A,F] +mf+ d |
+^A A +fff+ [^A,-F] A, +mf+ A3/2 ^d/ +fff+ [A,F] +mf+ d |
+^A +fff+ [FA] [^A,-F] A, +mf+ A A +fff+ [A,-F] A, |
+% Bar 70 (2:08)
++mf+ ^A A +fff+ [^A,-F] A, +mf+ A3/2 ^d/ +fff+ [A,F] +mf+ d |
+^A +fff+ [FA] [^A,-F] A, +mf+ A3/2 ^d/ +fff+ [A,F] +mf+ d |
+^A A +fff+ [^A,-F] A, +mf+ A3/2 ^d/ +fff+ [A,F] +mf+ d |
+^A +fff+ [FA] [^A,-F] A, [F-A] +mf+ [FA] +fff+ [A,2F2] |
++mf+ ^A A +fff+ [^A,-F] A, +mf+ A A +fff+ [A,-F] A, |
++mf+ ^A A +fff+ [^A,-F] A, +mf+ A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
+% Bar 80 (2:26)
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A +fff+ [FA] [A,-F] A, |
++mf+ ^A3/2 ^d/ +fff+ [^A,F] +mf+ d A A +fff+ [A,-F] A, |
++mf+ ^A,/ A,/ A,/ A,/ +fff+ [A,/F/-] +mf+ [A,/F/] A,/ A,/ A,/ A,/ +fff+ [A,/F/-] +mf+ [A,/F/] +fff+ [A,/F/-] +mf+ [A,/F/] A,/ A,/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ +fff+ [A,2F2] |
+z8 |]
+
+X: 8
+%%Orig filename was MondTanzLute.abc
+T: Mond Tanz (2:44) - Basic Lute
+%%part-name Basic Lute
+C: Blackmore's Night
+Z: Raymiond of Gladden
+M: 4/4
+Q: 130
+K: C maj
+
++ffff+ A, B/ c/ A/ e/ B/ c/ f +pp+ e +ffff+ d c |
+d/ e/ [e/-] e13/2 |
+A, B/ c/ A/ e/ B/ c/ f c [G/-A/-^c/] [G/A/] G |
+[E,/-A/] E,/ B/ c/ B2- B4 |
+A, B/ c/ A/ e/ B/ c/ f e d c |
+D f +f+ e2- e4 |
++ffff+ E, d c/ [B/d/] [B/-d/] B5/2 A ^G |
+A8- |
+A4 [ec'] [eb] a b |
+% Bar 10 (0:16)
+c' d [eg] f +f+ e4 |
++ffff+ [Dfa] e d c' b a [A,2-b2-] |
+[A,4b4]
+	%%Q: 156
+	[A,5/6c'5/6] b5/6 a5/6 b5/6 |
+c'5/6 d5/6 c'5/6 b5/6 a5/6 g5/6 f5/6 e5/6 |
+[e5/12-] e25/12 e5/6 f5/6 g5/6
+	%%Q: 90
+	f13/18 g13/18 f13/18 e13/18 |
+d13/9 e13/9 d13/9 c13/9 B13/9 c13/9 d13/9 e13/9- |
+e104/9 |
+%%Q: 130
+[ec'] [eb] a b c' d [eg] f |
++f+ e4 +ffff+ [Dfa] e d c' |
+b a [E,2-b2-] [E,4b4] |
+% Bar 20 (0:36)
+[ac'] b a b [Fc'] d [G/b/] [a/b/] a/ [a/b/] |
+b/ [a/b/] a/ [a/b/] b/ [a/b/] a/ [a/b/] [Gc'] +f+ b +ffff+ a [A,/-g/] [A,/-a/] |
+[A,/-g/a/-] [A,15/2a15/2] |
+[Df] [De] [Dd] c [G,B] +f+ [G,c] +ffff+ [G,d] G |
+[Ce] d [B/-c/-e/] [B/c/] B [F,4A4] |
+[A,c] +f+ B +ffff+ A B [A,c] [B,d] [C2c2e2] |
+[G,2d2] [E,2G2] [A,4-A4-] |
+[A,8-A8-] |
+[A,8A8] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+% Bar 30 (0:54)
+[G,3/2d3/2] c/ +f+ B +ffff+ G G/ +f+ A/ [A/B/] G/ +ffff+ [E,2E2] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +f+ B +ffff+ G G/ +f+ A/ [A/B/] G/ +ffff+ [E,2E2] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[D3/2f3/2] e/ d f [A,e] d c G |
+[^A,3/2d3/2] c/ ^A d [F,c] A =A2 |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+% Bar 40 (1:13)
+[G,2d2] [E,2G2] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] c3/2 B/ +f+ A +ffff+ B |
+c d/ e/ [e/-] e3/2 e3/2 f/ e [B/] [e/] |
+[e/-] e7/2 e3/2 f/ e [d/-] d/ |
+c B [A/] A/ B c B [G/-=A/-c/] [G/A/] G |
+A4 c3/2 B/ +f+ A +ffff+ B |
+c d/ e/ [e/-] e3/2 e/ +f+ f/ e/ f/ e +ffff+ d |
+a3 a/ +f+ b/ +ffff+ c' b a [e/-g/-b/] [e/g/] |
+f e [B/-d/-f/] [B/d/] c/ d/ [=c/e/-] e/ =d G ^F/ G/ |
+% Bar 50 (1:31)
+A4 z4 |
+e4 +p+ e4 |
++ffff+ [A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +f+ B +ffff+ G G/ +f+ A/ [A/B/] G/ +ffff+ [E,2E2] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +f+ B +ffff+ G G/ +f+ A/ [A/B/] G/ +ffff+ [E,2E2] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+% Bar 60 (1:50)
+[D3/2f3/2] e/ d f [A,e] d c G |
+[G,3/2^A3/2] +f+ =A/ +ffff+ G ^A [A,=A] +f+ ^A +ffff+ ^c2 |
+[A,c] +f+ d +ffff+ e +f+ f +ffff+ [A,4e4] |
+[A,c] +f+ d +ffff+ e +f+ f +ffff+ [A,4e4] |
+^c +f+ d +ffff+ e +f+ f +ffff+ ^g +f+ a g +ffff+ f |
+e +f+ f e +ffff+ d ^c4 |
+[^c4e4a4] [D/A/e/] +f+ f/ [f/g/] e/ +ffff+ d e |
+f g a2 [C3/2g3/2] f/ +f+ e +ffff+ c |
+[D/d/] e/ +f+ [e/f/] +ffff+ d/ [A,2A2c2] [D/A/e/] +f+ f/ [f/g/] e/ +ffff+ d e |
+f g a2 [C/g/] [C/g/a/] a/ [C/g/a/] [A,2e2] |
+% Bar 70 (2:08)
+[D4d4] [D/A/e/] +f+ f/ [f/g/] e/ +ffff+ d e |
+f g a2 [C3/2g3/2] f/ +f+ e +ffff+ c |
+[D/d/] e/ +f+ [e/f/] +ffff+ d/ [A,2A2c2] [D/A/e/] +f+ f/ [f/g/] e/ +ffff+ d e |
+f g a2 [C2g2] [A,2e2] |
+[D4A4d4f4] [D4A4d4f4] |
+[D4A4d4f4] [D4A4d4f4] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +f+ B +ffff+ G G/ +f+ A/ [A/B/] G/ +ffff+ [E,2E2] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+% Bar 80 (2:26)
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +f+ B +ffff+ G G/ +f+ A/ [A/B/] G/ +ffff+ [E,2E2] |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[C3/2g3/2] f/ +f+ e +ffff+ c [B,2d2] G2 |
+[A,3/2c3/2] B/ [A/-B/-c/] [A/B/] A [A,2B2] G2 |
+[A,/B/] +f+ c/ [c/d/] B/ +ffff+ A B [Cc] [B,d] [C2-e2-] |
+[C8e8] |
+[G,2d2] [E,2G2] [A,2E2A2] [A,/-E/-A/-c/-] [A,3/2E3/2A3/2c3/2e3/2] |
+z8 |]
+
+X: 6
+%%Orig filename was MondTanzMisty.abc
+T: Mond Tanz (2:44) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: Blackmore's Night
+Z: Raymiond of Gladden
+M: 4/4
+Q: 130
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+z4
+	%%Q: 156
+	z10/3 |
+z20/3 |
+z5
+	%%Q: 90
+	z26/9 |
+z104/9 |
+z104/9 |
+%%Q: 130
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+% Bar 30 (0:54)
+[G,3/2d3/2] c/ +mf+ B +ff+ G G/ +mf+ A/ [A/B/] G/ +ff+ [E,2E2] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +mf+ B +ff+ G G/ +mf+ A/ [A/B/] G/ +ff+ [E,2E2] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[D3/2f3/2] e/ d f [A,e] d c G |
+[^A,3/2d3/2] c/ ^A d [F,c] A =A2 |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+% Bar 40 (1:13)
+[G,2d2] [E,2G2] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,2E2A2] [G,2D2G2] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,2E2A2] [G,2D2G2] |
+% Bar 50 (1:31)
+[A,4E4A4] [A,4E4A4] |
+[A,4E4A4] [A,4E4A4] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +mf+ B +ff+ G G/ +mf+ A/ [A/B/] G/ +ff+ [E,2E2] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +mf+ B +ff+ G G/ +mf+ A/ [A/B/] G/ +ff+ [E,2E2] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+% Bar 60 (1:50)
+[D3/2f3/2] e/ d f [A,e] d c G |
+[G,3/2^A3/2] +mf+ =A/ +ff+ G ^A [A,=A] +mf+ ^A +ff+ ^c2 |
+[A,A] +mf+ ^A +ff+ ^c +mf+ d +ff+ [A,4c4] |
+[A,A] +mf+ ^A +ff+ ^c +mf+ d +ff+ [A,4c4] |
+A ^A ^c d [A,e] f e d |
+^c d c ^A [A,4=A4] |
+[^c4e4a4] [D/A/e/] +mf+ f/ [f/g/] e/ +ff+ d e |
+f g a2 [C3/2g3/2] f/ +mf+ e +ff+ c |
+[D/d/] e/ +mf+ [e/f/] +ff+ d/ [A,2A2c2] [D/A/e/] +mf+ f/ [f/g/] e/ +ff+ d e |
+f g a2 [C/g/] [C/g/a/] a/ [C/g/a/] [A,2e2] |
+% Bar 70 (2:08)
+[D4d4] [D2a2] e g |
+a ^a c'2 c'3/2 a/ =a g |
+f e c2 [D2a2] e g |
+a ^a c'2 [C2g2] [A,2e2] |
+[D8d8] |
+d8 |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +mf+ B +ff+ G G/ +mf+ A/ [A/B/] G/ +ff+ [E,2E2] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+% Bar 80 (2:26)
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,3/2d3/2] c/ +mf+ B +ff+ G G/ +mf+ A/ [A/B/] G/ +ff+ [E,2E2] |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2e2] |
+[G,2d2] [E,2G2] [A,4E4A4] |
+[C3/2g3/2] f/ +mf+ e +ff+ c [B,2d2] G2 |
+[A,3/2c3/2] B/ [A/-B/-c/] [A/B/] A [A,2B2] G2 |
+[A,/B/] +mf+ c/ [c/d/] B/ +ff+ A B [Cc] [B,d] [C2-e2-] |
+[C8e8] |
+[G,2d2] [E,2G2] [A,2E2A2] [A,/-E/-A/-c/-] [A,3/2E3/2A3/2c3/2e3/2] |
+z8 |]
+

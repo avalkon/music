@@ -1,0 +1,50 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was Jordu-lute.abc
+T:jordu  [Basic Lute, Basic Harp] [v.1 Giddily] (1:24)
+Q:1/4=120  
+M:4/4   
+L:1/8   
+%%part-name Basic Lute, Basic Harp
+K:G
+z2 [^g2d2] [D2f2c2] [B2=f2=G,2] |
+[_B2C2e2] [=F,2_e2A2] [^G2=E,2d2] c[A,A] |
+[AA,] z/ ^G/ =G2 [F2D2] [=F2G,2] |
+[E2C2] [_E2=F,2] [=E,2D2] [C^G,]A, |
+z3/2 E/ AB cd ec |
+[_eB,]B, F/^GA/ [=E,d]=F G[A,^FcE] |
+z3/2 E/ AB cd eg |
+[fD]c ^G,2 [=f=G,]B ^C[=CAeG] |
+z3/2 E/ AB cd ec |
+[B,_e]B, F/^GA/ [d=E,]=F G[EA,^Fc] |
+[A,2E2F2c2] B,2 [C/c/]d/c/A/ [E,c]A |
+[=F,2_E2] G,2 [F,2E2A2] F,[=E,D^G=e] |
+z3/2 E/ AB cd ec |
+[B,_e]B, F/^GA/ [=E,d]=F G[A,E^Fc] |
+z3/2 E/ AB cd eg |
+[Df]c ^G,2 [=G,=f]B ^C[=CGAe] |
+z3/2 E/ AB cd ec |
+[B,_e]B, F/^GA/ [=E,d]=F G[A,E^Fc] |
+[A,2E2F2c2] B,2 [C/c/]d/c/A/ [E,c]A |
+[=F,2_E2] G,2 [F,2E2A2] F,[=E,D^G=e] |
+z2 F,G, ^G, e2 z/ e/ |
+E,2 [D/4^G/4]A/4GF/ [^C2=G2] [G,e]c |
+[F,2d2] [C/4F/4]G/4FE/ [B,2=F2] [F,d]B |
+[E,2c2] [_B,/4E/4]=F/4ED/ [A,2_E2] F,^C |
+[_B,2D2] G,2 =F, d2 z/ d/ |F,2 [C/4F/4]G/4FE/ [B,2=F2] [F,d]B |
+[E,2c2] [_B,/4E/4]=F/4ED/ [A,2_E2] [E,c]A |
+[D,2_B2] [^G,/4D/4]_E/4DC/ [=G,2^C2] [EGc]=B |
+[^G,_EGc]=E AB cd ec |
+[B,_e]F F,/A,C/ [=F,d][EA] [=E,D^G][A,Ac] |
+z3/2 E,/ A,B, CD EG |
+[Fa]c _e2 [=F^g]d [=G,B][C=EAg] |
+z3/2 E/ AB cd ec |
+[B,_e]F F,/A,C/ [B,=Fd]=E, ^G,[A,E^Fc] |
+[A,2E2F2c2] B,2 [C/c/]d/c/A/ [E,c]A |
+[=F,2_E2] G,2 [F,2E2A2] [F,E][=E,D^G=e] |
+[d4^g4] [D2c2f2] [=G2B2=f2] |
+[C2_B2e2] [=F2A2_e2] [=E2^G2d2] [E,c][A,A] |
+[A,A] z/ ^G/ =G2 [D2F2] [G,2=F2] |
+[C2E2] [=F,2_E2] [=E,2D2] [^G,C]A, |
+z7/2 e/ a4 |b2 [A,c] F4 z |]
+

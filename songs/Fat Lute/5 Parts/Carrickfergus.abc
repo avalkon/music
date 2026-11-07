@@ -1,0 +1,104 @@
+N: TS  5,   9   3   2   5   8
+X: 9
+%%Orig filename was Carrickfergus__Ages4.abc
+T:Carrigfergus Lute of Ages (2:24)
+%%part-name Lute of Ages
+N:Instrument Channel 1 ... [Fiddle]
+N:Instrument Channel 2 ... [Clavinet]
+N:Instrument Channel 3 ... [Acoustic Bass]
+N:Instrument Channel 4 ... [Acoustic Guitar (Steel)]
+M:4/4
+L:1/8
+Q:1/4=29
+N:Last note suggests Mixolydian mode tune
+K:C
+%%MIDI program 4 25
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z2 z/2G/2c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|[C/2-C/2]C2-[G/2C/2]c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|
+[C/2-C/2]C2-[G/2C/2][G/2G/2]c/2 c2- c/2c/2[e/2d/2]d/2|[d/2c/2]z/2[B/2G/2-]G3/2[c/2G/2]d/2 e2- e/2-[e/2c/2]f/2z/2|[e/2d/2-]d2-[d/2c/2]c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|
+[C/2-C/2]C2-C/2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|[C/2-C/2]C2-C/2
+
+X: 3
+%%Orig filename was Carrickfergus__Clar2.abc
+T:Carrigfergus Clavinet (2:25)
+%%part-name Basic Clarinet
+N:Instrument Channel 1 ... [Fiddle]
+N:Instrument Channel 2 ... [Clavinet]
+N:Instrument Channel 3 ... [Acoustic Bass]
+N:Instrument Channel 4 ... [Acoustic Guitar (Steel)]
+M:4/4
+L:1/8
+Q:1/4=29
+N:Last note suggests Mixolydian mode tune
+K:C
+%Sequenced By
+%%MIDI  program 2 7
+z4 D/2[d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][d/2G/2]|[d/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][d/2G/2]|[d/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|
+[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][e/2E/2][e/2G/2] [e/2C/2][G/2E/2][e/2E/2][e/2G/2]|[e/2G,/2][D/2B,/2][g/2D/2][d/2G/2] [g/2G,/2][D/2B,/2][g/2D/2][d/2G/2] [g/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2]|[A/2G,/2][B/2G/2][g/2G/2][d/2B/2] [d/2G,/2][B/2G/2][f/2G/2][d/2B/2] [d/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][d/2G/2]|[d/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|
+[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][d/2G/2]|[d/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][d/2G/2]|[d/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|
+[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][e/2E/2][e/2G/2] [e/2C/2][G/2E/2][e/2E/2][e/2G/2]|[e/2G,/2][D/2B,/2][g/2D/2][d/2G/2] [g/2G,/2][D/2B,/2][g/2D/2][d/2G/2] [g/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2]|[A/2G,/2][B/2G/2][g/2G/2][d/2B/2] [d/2G,/2][B/2G/2][f/2G/2][d/2B/2] [d/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][d/2G/2]|[d/2C/2][c/2E/2][G/2B,/2][B/2D/2] [G/2A,/2][c/2E/2][A/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|
+[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [c/2C/2][G/2E/2][c/2G,/2][c/2A/2] [A/2D/2][d/2A/2][f/2D/2][d/2A/2] [d/2D/2][B/2G/2][f/2D/2][f/2G/2]|[f/2C/2][G/2E/2][c/2E/2][e/2G/2] [e/2-c/2-c/2G/2-E/2-C/2-][e3/2c3/2G3/2E3/2C3/2]
+
+X: 2
+%%Orig filename was Carrickfergus__Fiddle3.abc
+T: Carrigfergus Basic Fiddle (2:25)
+%%part-name Basic Fiddle
+N: Instrument Channel 1 ... [Fiddle]
+N: Instrument Channel 2 ... [Clavinet]
+N: Instrument Channel 3 ... [Acoustic Bass]
+N: Instrument Channel 4 ... [Acoustic Guitar (Steel)]
+M: 4/4
+L: 1/8
+Q:1/4=29
+N: Last note suggests Mixolydian mode tune
+K:C
+%Carrigfergus
+%%MIDI program 1 110
+z2 z/2G/2c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2E/2[D/2C/2]z/2|[C/2-C/2]C2-[G/2C/2]c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2E/2[D/2C/2]z/2|
+[C/2-C/2]C2-[G/2C/2][G/2G/2]c/2 c2- c/2c/2[e/2d/2]d/2|[d/2c/2]z/2[B/2G/2-]G3/2[c/2G/2]d/2 e2- e/2-[e/2c/2]f/2z/2|[e/2d/2-]d2c/2c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2E/2[D/2C/2]z/2|
+[C/2-C/2]C2-C/2z a2 g2|g2 a2 f2 g2|g4 a2 g2|g2 a2 f2 g2|
+g4 e2- e/2e/2[g/2f/2]e/2|f/2z/2[d/2B/2-]B3/2[e/2B/2]f/2 g2- g/2-[g/2e/2]a/2z/2|[a/2g/2-]g2-[g/2g/2]g/2z/2 [g/2f/2-]f/2f/2[e/2d/2] [c/2B/2-]B3/2|eg a2 f2 g2|
+g4 f2 g2|g4
+
+X: 5
+%%Orig filename was Carrickfergus__Harp5.abc
+T:Carrigfergus Extra (2:24)
+%%part-name Basic Harp
+N:Instrument Channel 1 ... [Fiddle]
+N:Instrument Channel 2 ... [Clavinet]
+N:Instrument Channel 3 ... [Acoustic Bass]
+N:Instrument Channel 4 ... [Acoustic Guitar (Steel)]
+M:4/4
+L:1/8
+Q:1/4=29
+N:Last note suggests Mixolydian mode tune
+K:C
+%%MIDI program 4 25
+z8|z8|z8|z8|
+z8|z8|z8|z8|
+z2 z/2G/2c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|[C/2-C/2]C2-[G/2C/2]c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|
+[C/2-C/2]C2-[G/2C/2][G/2G/2]c/2 c2- c/2c/2[e/2d/2]d/2|[d/2c/2]z/2[B/2G/2-]G3/2[c/2G/2]d/2 e2- e/2-[e/2c/2]f/2z/2|[e/2d/2-]d2-[d/2c/2]c/2z/2 [B/2A/2]D2D/2[F/2E/2]G/2|E/2[D/2C/2-]C2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|
+[C/2-C/2]C2-C/2C/2[E/2D/2] F2- F/2-[F/2E/2][D/2C/2]z/2|[C/2-C/2]C2-C/2
+
+X: 8
+%%Orig filename was Carrickfergus__Theorbo1.abc
+T:Carrigfergus Basic Theorbo (2:25)
+N:Instrument Channel 1 ... [Fiddle]
+N:Instrument Channel 2 ... [Clavinet]
+N:Instrument Channel 3 ... [Acoustic Bass]
+N:Instrument Channel 4 ... [Acoustic Guitar (Steel)]
+M:4/4
+L:1/8
+Q:1/4=29
+N:Last note suggests Mixolydian mode tune
+%%part-name Basic Theorbo
+K:C
+%Barry Taylor
+%%MIDI  program 3 32
+z4 D,/2z/2[A,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2G,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C,/2z/2[G,/2C,/2]G,/2 C,[G,/2C,/2]G,/2 D,/2z/2[A,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2G,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|
+C,/2z/2[G,/2C,/2]G,/2 C,C,/2C,/2 C,/2z/2[G,/2C,/2]G,/2 C,/2z/2[G,/2C,/2]G,/2|D,/2z/2[G,/2D,/2]G,/2 D,/2z/2[G,/2D,/2]G,/2 C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2F,/2]A,/2|G,/2z/2[G,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2 D,/2z/2[A,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2G,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|
+C,/2z/2[G,/2C,/2]G,/2 C,[G,/2C,/2]G,/2 D,/2z/2[A,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2G,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C,/2z/2[G,/2C,/2]G,/2 C,[G,/2C,/2]G,/2 D,/2z/2[A,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2G,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|
+C,/2z/2[G,/2C,/2]G,/2 C,C,/2C,/2 C,/2z/2[G,/2C,/2]G,/2 C,/2z/2[G,/2C,/2]G,/2|D,/2z/2[G,/2D,/2]G,/2 D,/2z/2[G,/2D,/2]G,/2 C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2F,/2]A,/2|G,/2z/2[G,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2 D,/2z/2[A,/2D,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C/2z/2[C/2B,/2]z/2 [B,/2A,/2]z/2[A,/2G,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|
+C,/2z/2[G,/2C,/2]z/2 [G,/2C,/2-]C,/2[G,/2C,/2]z/2 F,/2z/2[F,/2F,/2]D,/2 G,/2z/2[G,/2D,/2]G,/2|C,/2z/2[G,/2C,/2]G,/2 C,2
+

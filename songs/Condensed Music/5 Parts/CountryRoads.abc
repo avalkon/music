@@ -1,0 +1,989 @@
+N: TS  5,   9  21   3  10   1
+X: 9
+%%Orig filename was CountryRoadsAges1.abc
+T: Take Me Home, Country Roads Lute of Ages 1 (2:56)
+%%part-name Lute of Ages 1
+C: John Denver
+Z: Keli
+M: 4/4
+Q: 172
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+D2 [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-DF] A, [A,2-D2-F2-] |
+[A,/-B,/-D/-^F/] [A,/B,/-D/] B, [B,2-D2-F2-] [^F,-B,DF] F,- [F,3/2B,3/2-D3/2-F3/2-] [B,/D/-F/-] |
+[B,-D^F-] [B,/-F/] B,/ [B,2D2-F2-] [B,-DF] B, +p+ [B,2-D2-F2-] |
++mp+ [A,-B,D^F] A, [A,2-^C2-E2-] [E,-A,-CE] [E,/-A,/] E,/- [E,3/2A,3/2-C3/2-E3/2-] [A,/C/-E/-] |
+% Bar 10 (0:13)
+[A,3/2-^C3/2E3/2] A,/ [A,2-C2-E2-] [E,A,CE] z [A,2-C2-E2-] |
+[A,/^C/-E/G/-] [C/G/-] G [B,2-D2-G2] [B,DG] z [B,-D-EG-] [B,-DG-] |
+[B,D-G] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,3/2D3/2-^F3/2] D/ [A,2D2-F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,3/2D3/2-^F3/2] D/ [A,2D2-F2-] [A,-D-F] [A,/-D/] A,/ [A,2-D2F2-] |
+[A,3/2D3/2-^F3/2] D/ [A,2D2-F2-] [A,-DF] A,/ z/ [A,2-D2-F2-] |
+[A,3/2B,3/2-D3/2^F3/2] B,/ [B,2-D2-F2] [B,3/2D3/2F3/2-] F/ [B,2D2-F2-] |
+[B,-D-^F] [B,/-D/] B,/ [B,2D2-F2-] [B,3/2-D3/2F3/2] B,/ [B,2-D2-F2-] |
+[A,-B,D^F] A, [A,2-^C2-E2] [A,3/2C3/2E3/2-] E/ [A,2C2-E2-] |
+[A,-^CE] A, [A,2-C2-E2] [A,-CE] A,/ z/ [A,2-C2-E2-] |
+% Bar 20 (0:27)
+[G,/-A,/^C/E/] G,3/2- [G,3/2B,3/2-D3/2-G3/2-] [B,/-D/-G/-] [B,D^FG] z [B,-D-EG-] [B,-DG-] |
+[B,/D/-G/-] [D/-G/] D [A,2D2-^F2-] [A,3/2-D3/2F3/2] A,/ [A,2-D2F2-] |
+[A,3/2D3/2-^F3/2] D/ [A,2D2-F2-] [A,-D-F] [A,/-D/] A,/ [A,2-D2F2-] |
+[A,D-^F] D [A,2-D2-F2] [A,DF-] F/ z/ [A,-D-F-A] [A,D-F-] |
+[A,-D^F] A, [A,2-^C2-E2] [A,CE-] E [A,2C2-E2-] |
+[A,-^CE] A, [A,2-C2-E2] [A,CE-] E [A,2-C2-E2-] |
+[A,/B,/-^C/E/] B,3/2 [B,2-D2-^F2] [B,DF-] F [B,2D2-F2-] |
+[B,3/2-D3/2^F3/2] B,/ [B,2D2-F2-] [B,3/2D3/2F3/2] z/ [B,2-D2-F2-] |
+[B,/D/^F/G/-] G3/2 [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+[B,-DG-] [B,/G/-] G/ [B,2-D2-G2] [B,DG] z [B,3/2-D3/2-E3/2G3/2-] [B,/-D/G/-] |
+% Bar 30 (0:41)
+[B,/D/-G/-] [D/-G/] D [A,2D2-^F2-] [A,/-D/-F/] [A,/-D/] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2-D2-F2] [A,DF] z [A,-D-F-G] [A,-D-F-] |
+[A,/D/^F/A/-] A3/2- [A,3/2-^C3/2-E3/2-A3/2] [A,/-C/-E/] [A,CE-] E [A,2-C2-E2-] |
+[A,^CEA-] A- [A,-C-E-A] [A,-C-E] [A,/-C/E/-] [A,/E/] z [A,-C-E-^F] [A,-C-E-] |
+[A,/^C/E/G/-] G3/2 [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+[B,DG-] G [B,2-D2-G2-] [B,D^FG] z [B,3/2-D3/2-E3/2G3/2-] [B,/-D/G/-] |
+[B,/D/-G/] D3/2 [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,/-D/-F/] [A,/-D/] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,/-D/F/-] [A,/-F/] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-DF] A, [A,2-D2-F2-] |
+% Bar 40 (0:56)
+[A,/B,/-D/^F/] B,3/2 [B,2-D2-F2] [B,DF-] F [B,2D2-F2-] |
+[B,-D^F] B, [B,2-D2F2-] [B,D-F] D/ z/ [B,2-D2-F2-] |
+[A,/-B,/D/^F/] A,3/2 [A,2-^C2-E2] [A,CE-] E [A,2C2-E2-] |
+[A,-^CE] A, [A,2-C2-E2] [A,CE] z [A,2-C2-E2-] |
+[G,/-A,/^C/E/] G,3/2- [G,3/2B,3/2-D3/2-G3/2-] [B,/-D/-G/-] [B,D^FG] z [B,-D-EG-] [B,-DG-] |
+[B,/-D/-G/] [B,/D/-] D [A,2D2-^F2-] [A,3/2-D3/2F3/2] A,/ [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-D-F] [A,/-D/] A,/ [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,DF] z [A,2-D2-F2-] |
+[A,/B,/-D/^F/] B,3/2 [B,2-D2-F2] [B,DF-] F [B,2D2-F2-] |
+% Bar 50 (1:10)
+[B,-D^F] B, [B,2-D2-F2] [B,DF] z [B,2-D2-F2-] |
+[A,/-B,/D/^F/] A,3/2 [A,2-^C2-E2] [A,CE-] E [A,2C2-E2-] |
+[A,-^CE] A, [A,2-C2-E2] [A,CE] z [A,2-C2-E2-] |
+[G,/-A,/^C/E/-] [G,/-E/] G,- [G,2B,2-D2-G2-] [B,D^FG] z [B,-D-EG-] [B,-DG-] |
+[B,D-G] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2-D2-F2] [A,DF] z [A,3/2-D3/2-F3/2-G3/2] [A,/-D/-F/-] |
+[A,/D/^F/A/-] A3/2- [A,-^C-E-A] [A,-C-E] [A,CE-] E [A,2-C2-E2-] |
+[A,/-^C/-E/A/-] [A,/C/A/-] A- [A,-C-E-A] [A,-C-E-] [^F,A,CE] z [A,2-C2-E2-] |
+[A,/B,/-^C/E/] B,3/2 [B,2-D2-^F2] [B,DF-] F [B,2D2-F2-] |
+% Bar 60 (1:25)
+[B,-D^F] B, [B,2-D2-F2] [B,DF] z [B,-D-F-A] [B,-D-F-] |
+[B,/D/-^F/G/-] [D/G/-] G [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+[B,DG-] G [B,2-D2-G2] [B,DG] z [B,-D-EG-] [B,-DG-] |
+[B,/D/-G/] D3/2 [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,/-D/-^F/] [A,/D/-] D [A,2-D2-F2] [A,/D/F/-] F/ z [A,-D-F-G] [A,-D-F] |
+[A,/D/A/-] A3/2- [A,3/2-^C3/2-E3/2-A3/2] [A,/-C/-E/] [A,/C/-E/-] [C/E/-] E [A,2-C2-E2-] |
+[A,^CEA-] A- [A,3/2-C3/2-E3/2-A3/2] [A,/-C/-E/] [A,CE-] E/ z/ [A,-C-E-A] [A,-C-E-] |
+[A,/^C/E/G/-] G3/2 [B,2-D2G2-] [B,/D/-G/] D3/2 [B,2-D2-G2] |
+[B,DG-] G [B,2-D2-G2-] [B,D^FG] z [B,-D-EG-] [B,-DG-] |
+[B,/D/-G/] D3/2 [A,2D2-^F2-] [A,/-D/F/] A,3/2 [A,2-D2F2-] |
+% Bar 70 (1:39)
+[A,/-D/-^F/] [A,/D/-] D [A,2D2-F2-] [A,DF] z [A,-^A,D-F-] [=A,-D-F] |
+[A,/B,/-D/] B,3/2 [B,2-D2-^F2] [B,/-D/F/-] [B,/F/] z [B,2-D2-F2-] |
+[A,/-B,/D/^F/] A,3/2 [A,2^C2-E2-] [A,-CE] A, [A,2-C2-E2-] |
+[A,/^C/-D/-E/] [C/D/-] D [A,2-D2-^F2-] [A,DFA-] A- [A,3/2-D3/2-F3/2-A3/2] [A,/-D/F/-] |
+[A,D-^F] D [A,2-D2-F2-] [A,/D/-E/-F/] [D/E/] z [A,2-D2-F2-] |
+[A,/D/-^F/G/-] [D/G/-] G [B,2-D2-G2] [B,DG-] G [B,2-D2G2-] |
+[B,/D/-G/-] [D/-G/] D [A,2-D2^F2-] [A,D-F] D/ z/ [A,-D-F-] [A,D-F-A] |
+[A,/-D/^F/] A,3/2 [A,2-^C2-E2] [A,CE-] E [A,2-C2-E2-] |
+[A,^CEA-] A- [A,-C-E-A] [A,C-E-] [A,CE] z [A,-^A,C-E-] [=A,-C-E-] |
+[A,/B,/-^C/E/] B,3/2 [B,2D2-^F2-] [B,-DF] B, [B,2-D2-F2-] |
+% Bar 80 (1:54)
+[B,C-D^F] C [G,2-C2-E2] [G,CE] z [G,-C-E-G] [G,-C-E-] |
+[G,/-C/-E/G/-] [G,/C/G/-] G- [G,-B,-D-G] [G,-B,-D-] [G,B,D^F] z [G,-B,-D-E] [G,-B,-D] |
+[G,/B,/D/-] D3/2 [A,2-D2^F2-] [A,D-F] D [A,2-D2-F2-] |
+[A,D^FA-] A- [A,-^C-E-A] [A,-C-E] [A,CE-] E +p+ [A,2-C2-E2-] |
++mp+ [A,^CEA-] A- [A,3/2-C3/2-E3/2-A3/2] [A,/-C/-E/] [A,CE] z [A,2-C2-E2-] |
+[A,^CEA-] A- [A,-C-E-A] [A,-C-E] [A,/C/-E/-] [C/E/-] E [A,2-C2-E2-] |
+[A,^C-EA-] [C/A/-] A/- [A,6-C6-E6-A6-] |
+[A,/-^C/-D/-E/-A/] [A,/C/D/-E/] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,-D-^F] [A,/D/-] D/ [A,2-D2-F2] [A,/-D/F/-] [A,/F/] z [A,-D-F-A] [A,D-F-] |
+[A,/-D/^F/] A,3/2 [A,2-^C2-E2] [A,/C/E/-] E3/2 [A,2C2-E2-] |
+% Bar 90 (2:08)
+[A,/-^C/E/] A,3/2 [A,2-C2-E2] [A,CE-] E [A,2-C2-E2-] |
+[A,/B,/-^C/E/] B,3/2 [B,2-D2-^F2] [B,DF-] F [B,2D2-F2-] |
+[B,-D^F] B, [B,2D2-F2-] [B,DF] z [B,2-D2-F2-] |
+[B,/D/-^F/-G/-] [D/F/G/-] G [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+[B,DG-] G [B,2-D2-G2] [B,DG] z [B,3/2-D3/2-E3/2G3/2-] [B,/-D/G/-] |
+[B,/D/-G/-] [D/-G/] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2-D2-F2] [A,DF] z [A,-D-F-G] [A,-D-F-] |
+[A,/D/^F/A/-] A3/2- [A,3/2-^C3/2-E3/2-A3/2] [A,/-C/-E/] [A,CE-] E [A,2-C2-E2-] |
+[A,^CEA-] A- [A,-C-E-A] [A,-C-E] [A,CE] z [A,-C-E-^F] [A,-C-E-] |
+[A,/^C/-E/-G/-] [C/E/G/-] G [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+% Bar 100 (2:23)
+[B,3/2D3/2G3/2-] G/ [B,2-D2-G2-] [B,D^FG] z [B,3/2-D3/2-E3/2G3/2-] [B,/-D/G/-] |
+[B,-D-G] [B,/D/-] D/ [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,/-D/F/] A,3/2 [A,2-D2F2-] |
+[A,D-^F] D [A,2-D2-F2] [A,DF-] F/ z/ [A,-D-F-A] [A,D-F-] |
+[A,/-D/^F/] A,3/2 [A,2-^C2-E2] [A,/C/-E/-] [C/E/-] E [A,2C2-E2-] |
+[A,/-^C/-E/] [A,/-C/] A, [A,2-C2-E2] [A,/C/E/-] E3/2 [A,2-C2-E2-] |
+[A,/B,/-^C/E/] B,3/2 [B,2-D2-^F2] [B,/D/F/-] F3/2 [B,2D2-F2-] |
+[B,-D^F] B, [B,2D2-F2-] [B,/-D/F/-] [B,/F/] z [B,2-D2-F2-] |
+[B,/D/^F/G/-] G3/2 [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+% Bar 110 (2:37)
+[B,DG-] G [B,2-D2-G2] [B,DG] z [B,3/2-D3/2-E3/2G3/2-] [B,/-D/G/-] |
+[B,/D/-G/-] [D/-G/] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D-^F] D [A,2-D2-F2] [A,DF] z [A,-D-F-G] [A,-D-F-] |
+[A,/D/^F/A/-] A3/2- [A,3/2-^C3/2-E3/2-A3/2] [A,/-C/-E/] [A,CE-] E [A,2-C2-E2-] |
+[A,/^C/E/A/-] A3/2- [A,-C-E-A] [A,-C-E] [A,/C/E/-] E/ z [A,-C-E-^F] [A,-C-E-] |
+[A,/^C/E/G/-] G3/2 [B,2-D2G2-] [B,D-G] D [B,2-D2-G2] |
+[B,DG-] G [B,2-D2-G2-] [B,D^FG] z [B,3/2-D3/2-E3/2G3/2-] [B,/-D/G/-] |
+[B,/D/-G/-] [D/-G/] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D^F] z [A,2-D2-F2-] [A,^CDF] z [A,-B,D-F-] [A,D-F-] |
+[A,/-D/^F/] A,3/2 [A,2-^C2-E2] [A,CE-] E [A,2-C2-E2-] |
+% Bar 120 (2:52)
+[A,^CEA] z [A,2-C2-E2-] [A,B,CE] z [A,2-C2-E2-] |
+[A,/^C/D/-E/] D3/2 [A,2-D2-^F2-] [A,/-D/-F/A/-] [A,/D/A/-] A- [A,-D-F-A] [A,-DF-] |
+[A,D^F] z [A,2-D2-F2-] [A,^CDF] z [A,-B,D-F-] [A,D-F-] |
+[A,/-D/^F/] A,3/2 [A,2-^C2-E2] [A,CE-] E [A,2C2-E2-] |
+[A,^CE] z [A,2-C2-E2-] [A,/-B,/-C/-E/] [A,/B,/C/] z [A,2-C2-E2-] |
+[A,^CD-E] D [A,2D2-^F2-] [A,-DF] A, [A,2-D2F2-] |
+[A,D^F] z [A,^CE] z [A,7/2D7/2-F7/2] [z/D/] |
+z8 |] 
+
+%Lyrics - Larksong of Second Breakfast
+
+%Almost hidden
+%West of Bree-land
+%Green Hill Country
+%Brandywine River
+
+%Never cold there
+%Sun's up in the sky
+%Soft and gentle rains come
+%To grow the pipe-weed high
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%All my memories
+%Gather round them:
+%Bird and Baby, Hobbiton-Bywater
+%Stock and Scary
+%Overhill nearby
+%The Marish in the moonshine
+%Golden fields of rye
+
+%Great East Road, take me home
+%To the place I belong
+%A cozy burrow by the fire
+%Take me home, Great East Road
+
+%I hear the laughter in the evenings at the Green Dragon
+%A coney pie reminds me of my home far away
+%Riding down the road I hear my Gaffer saying,
+%"Should have been home yesterday, yesterday . . ."
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+%Take me home, Great East Road
+%Take me home, Great East Road
+
+X: 21
+%%Orig filename was CountryRoadsAges2.abc
+T: Take Me Home, Country Roads Lute of Ages 2 (2:56)
+%%part-name Lute of Ages 2
+C: John Denver
+Z: Keli
+M: 4/4
+Q: 172
+K: C maj
+
++p+ z8 |
+z5 f ^f a- |
+a8- |
+a- [f/-a/] f/ ^f a2 b3 |
++mp+ [D-^f-] [D/-d/-f/] [D/d/-] [A,2D2-^F2-d2-] +mf+ [A,-DFd-] [A,d-] +mp+ [A,2-D2F2-d2-] |
++mf+ [A,B,-D-^Fd-] [B,-Dd-] [A,B,D-F-d-] +mp+ [A,D-F-d-] [A,-DFd-] [A,/-d/] A,/ [A,-D-F] [A,-D-F-] |
+[A,/-B,/-D/-^F/B/-] [A,/-B,/-D/B/-] [A,-B,B-] +mf+ [A,3/2B,3/2-D3/2-F3/2-B3/2-] [B,/D/-F/-B/-] [^F,-B,-DFB-] [F,-B,B-] +mp+ [F,-A,-B,D-F-B-]
+	[F,/A,/B,/-D/-F/-B/-] [B,/D/-F/-B/-] |
+[B,-D^F-B-] [B,/-D/-F/B/-] [B,/D/B/-] [B,2D2-F2-B2-] [B,-D-FB-] [B,/-D/-B/] [B,/D/] +p+ [B,-D-F-] [B,-D-F-A] |
++mp+ [A,-B,D-^F^c-] [A,Dc-] +mf+ [A,2-^C2-E2c2-] [E,-A,-CE-c-] [E,/-A,/E/c/-] [E,/-c/-] +mp+ [E,3/2A,3/2-C3/2-E3/2-c3/2-] [A,/C/-E/-c/-] |
+% Bar 10 (0:13)
++mf+ [A,3/2-^C3/2E3/2^F3/2-^c3/2-] [A,/F/-c/-] [A,-C-EFc-] +mp+ [A,-C-E-c-] [E,A,CE-c] E [A,-C-E-] [A,-B,C-E-] |
++mf+ [A,/B,/-^C/-E/G/-e/-] [B,/-C/G/-e/] [B,Gd] +mp+ [A,2B,2D2-G2B2] [B,-DGA] [B,A] [A,-B,-D-E^F-G-] [A,B,-DFG-] |
++mf+ [B,D-G] D [A,-D^F-] [A,D-F-] [A,-D-Fe] [A,Dd] +mp+ [A,2-D2F2-B2] |
+[A,-D-^F-d] [A,/D/-F/A/-] [D/A/] [A,-D-F-^f] [A,D-F-] [A,-D-F] [A,DE] [A,2-D2F2-] |
+[A,3/2D3/2-^F3/2] D/ [A,2D2-F2-] +mf+ [A,-D-F] [A,D] +mp+ [A,-D-F-] +mf+ [A,-B,-DF-] |
+[A,3/2B,3/2-D3/2-^F3/2] [B,/-D/] [A,/-B,/D/-F/-] [A,3/2D3/2-F3/2-] +mp+ [A,-DF] A, [A,2-D2-F2-] |
++mf+ [A,3/2B,3/2-D3/2^F3/2] B,/ [B,2-D2F2] [B,3/2D3/2-F3/2-] [D/F/] [B,2D2-E2F2] |
+[B,3/2-D3/2^F3/2-] [B,/F/] +mp+ [B,2D2-F2-] [B,3/2-D3/2F3/2-] [B,/F/] [B,2-D2-F2-] |
++mf+ [A,-B,DE-^F] [A,/-E/] A,/ [A,2-^C2-E2] [A,3/2C3/2E3/2-] E/ +mp+ [A,2C2-E2-] |
+[A,-^CE^F-] [A,F-] [A,-C-EF] [A,-C-E] [A,-CE-] [A,/E/-] E/ [A,2-C2-E2-] |
+% Bar 20 (0:27)
++mf+ [G,/-A,/B,/-^C/E/e/-] [G,/-B,/-e/] [G,-B,d] [G,3/2B,3/2-D3/2-G3/2-A3/2-] [B,/-D/G/-A/-] [B,D-^FGA-] [DA-] [B,/-D/-E/-F/-G/-A/] [B,/-D/E/-F/-G/-]
+	[B,/-D/-E/F/-G/-] [B,/-D/F/G/-] |
++mp+ [B,/D/-G/-] [D/-G/] D +mf+ [A,2D2^F2-] [A,3/2-D3/2-F3/2] [A,/D/] [A,-D-EF] [A,-DF-] |
+[A,3/2D3/2-^F3/2-] [D/F/] +mp+ [A,3/2-D3/2-F3/2-A3/2] [A,/D/-F/-] [A,-D-F-d] [A,/-D/F/-] [A,/F/] [A,-D-F-] [A,-DF-e-] |
+[A,/-D/-^F/-e/] [A,/D/-F/-] [DF] [A,2-D2-F2^f2-] [A,DE-F-f-] [E/-F/f/-] [E/f/-] [A,-D-F-Af-] [A,/-D/-E/-F/-f/] [A,/D/-E/-F/-] |
+[A,-DE-^F] [A,E] [A,-^C-E-e] [A,-C-EA] [A,CE-^c] [Ee] [A,-C-E-A] [A,C-E-c] |
+[A,-^CE-e] [A,E^c] [A,2-C2-E2A2-] [A,CE-^F-A-] [EFA] [A,-C-E-] [A,-C-D-E-] |
+[A,/B,/-^C/D/-E/] [B,3/2D3/2] [B,-D-^F] [B,-D-F] [B,D-F-B-] [DFB] [B,-D-F-d] [B,D-F-B] |
+[B,-D-^FA] [B,DF] +mf+ [B,2D2-F2B2-] [B,3/2D3/2F3/2-B3/2-] [F/B/] +mp+ [B,-D-F-A] [B,-D-F-B-] |
+[B,/D/^F/G/-B/-] [G3/2B3/2] [B,2-D2G2-B2-] [B,D-GB-g] [DB-d] [B,-D-G-B-e] [B,-D-GB-e] |
+[B,-DG-B-d-] [B,/G/-B/-d/-] [G/B/-d/-] [B,3/2-D3/2-G3/2-B3/2d3/2-] [B,/-D/-G/d/-] [B,DGB-d] B [B,-D-E-^FG-] [B,/-D/-E/G/-A/-] [B,/-D/G/-A/-] |
+% Bar 30 (0:41)
+[B,/D/-G/-A/-] [D/-G/A/-] [DA] +mf+ [A,-D-^F-d] [A,D-F-e-] [A,-DF-e] [A,Fd] +mp+ [A,2-D2F2-e2] |
+[A,D-^F-d] [DF^f-] [A,2-D2-F2f2-] [A,DE-Ff-] [Ef-] [A,-D-F-Gf-] [A,-D-E-F-f] |
+[A,/D/E/-^F/A/-] [E3/2A3/2-] [A,3/2-^C3/2-E3/2-F3/2-A3/2^c3/2-] [A,/-C/-E/F/-c/] [A,CE-F-a] [EF-e] [A,-C-F-^f-] [A,/-C/-F/-f/a/-] [A,/-C/-F/-a/-] |
+[A,/-^C/-^F/-A/-e/-a/] [A,/C/F/-A/e/] [F-A] [A,2-C2-E2F2A2-] [A,/-C/E/-A/-] [A,/E/-A/-] [E/A/-] A/- [A,-C-DE-FA-] [A,-C-D-E-A] |
+[A,/^C/D/-E/G/-] [D3/2G3/2] [B,-D-G-] [B,-DG-d] [B,D-Gb-] [D/-d/-b/] [D/d/] [B,-D-G-B] [B,-D-Ga] |
+[B,D-G-a-] [DGa] [B,2-D2G2-g2-] [B,D-^FGg-] [Dg-] [B,-DE-G-g-] [B,/-D/-E/G/-g/-] [B,/-D/G/-g/] |
+[B,/D/-G/] D3/2 [A,-D-^F-] [A,D-F-A-^f-] [A,/-D/-F/-A/f/] [A,/-D/-F/] [A,DAf] [A,-D-F-Ge] [A,-DF] |
+[A,D-^F-d-] [DFd-] [A,2D2-F2-d2-] [A,2D2F2d2-] [A,-D-F-d] [A,-DF-] |
+[A,D-^F] D [A,2D2-F2-] [A,/-D/F/-] [A,/-F/] A, [A,2-D2F2-] |
++mf+ [A,B,-D-^F] [B,-D] [A,B,-D-F-] [A,/-B,/D/-F/-] [A,/D/-F/-] +mp+ [A,-DFA-] [A,A-] [A,3/2-D3/2-F3/2-A3/2] [A,/-D/-F/] |
+% Bar 40 (0:56)
+[A,/B,/-D/^F/-] [B,3/2F3/2] [B,2D2-F2] [B,-DF-] [B,F] [A,-B,D-F-] [A,/B,/-D/-F/-] [B,/D/-F/-] |
+[B,-D^F-] [B,F] [B,2-D2F2-] [B,D-E-F] [DE-] [B,2-D2-E2-F2-] |
+[A,/-B,/D/E/-^F/] [A,3/2E3/2] [A,2-^C2-E2] +mf+ [A,CE-] E +mp+ [A,2C2-E2-] |
++mf+ [A,-^CE-^F-] [A,/-E/F/-] [A,/F/-] [A,-C-EF] +mp+ [A,-CDEF] [A,C-E-] [CE] [A,-=C-^C-^D-E-] [A,-B,=C^C-DE-] |
+[G,/-A,/B,/-^C/D/-E/] [G,3/2-B,3/2D3/2] [G,3/2A,3/2-B,3/2-D3/2-G3/2-] [A,/B,/D/-G/-] [B,-D-^FG] [B,D] [A,-B,-D-EG-] [A,B,-DG-] |
++mf+ [B,/-D/-G/] [B,/D/-] D [A,-D^F-] [A,D-F-] [A,3/2-D3/2-F3/2] [A,/D/] +mp+ [A,2-D2F2-] |
+[A,D-^F] D [A,2D2-F2-] [A,-D-F] [A,D] [A,2D2F2-] |
+[A,-D-^F] [A,D] [A,2D2-F2-] +mf+ [A,-DF] A, +mp+ [A,2-D2F2-] |
+[A,-B,-D-^F] [A,B,-D] [A,B,-D-F-] [A,/-B,/D/-F/-] [A,/D/F/-] [A,-D-F] [A,D] [A,2-B,2D2-F2-] |
++mf+ [A,/B,/-D/^F/] B,3/2 +mp+ [B,2-D2F2] [B,2D2F2] +mf+ [B,2D2-E2F2] |
+% Bar 50 (1:10)
+[B,-D^F-] [B,F] +mp+ [B,2-D2-F2] [B,^C-DF-] [C-F] [B,2-C2-D2-F2-] |
++mf+ [A,/-B,/^C/-D/E/-^F/] [A,-C-E] [A,/C/] [A,2-C2-E2] [A,C-E-] [CE] [A,2C2-E2-] |
+[A,-^C-E^F-] [A,CF-] [A,-C-EF-] [A,/-C/-E/-F/] [A,/-C/-E/] +mp+ [A,B,-CE-] [B,-E] [A,2-B,2C2-E2-] |
+[G,/-A,/B,/-^C/E/-] [G,/-B,/-E/] [G,-B,] +mf+ [G,2B,2-D2G2-] [B,-D-^FG] [B,D] +mp+ [B,-DE-G-] [B,/-D/-E/G/-] [B,/-D/G/-] |
+[B,-D-G] [B,D] [A,2D2^F2-] +mf+ [A,-D-F] [A,D] [A,-D-E-F] [A,-DEF] |
++mp+ [A,D-^F-] [DF] [A,3/2-D3/2-F3/2-A3/2] [A,/D/-F/-] [A,-DF-d] [A,F] [A,-D-F-] [A,-DF-e-] |
+[A,/-D/-^F/-e/] [A,/D/-F/-] [DF] [A,2-D2-F2^f2-] [A,DE-F-f-] [EFf-] [A,-DF-G-f-] [A,/-D/-E/-F/-G/f/] [A,/-D/-E/F/-] |
+[A,/D/E/-^F/A/-] [E3/2A3/2-] [A,-^C-E-Ae] [A,-C-EA] [A,CE-^c] [Ee] [A,-C-E-A] [A,-C-E-c] |
+[A,^CE-A-e] [EA^c] [A,2-C2-E2-A2-] [^F,A,CE^F-A-] [F-A] [A,2-C2-E2-F2] |
+[A,/B,/-^C/D/-E/] [B,3/2D3/2] [B,-D-^F] [B,-D-F] [B,D-F-B-] [DFB] [B,-D-F-d] [B,D-F-B] |
+% Bar 60 (1:25)
+[B,-D-^FA] [B,DF] [B,2-D2-F2B2-] +mf+ [B,DF-B-] [FB] +mp+ [B,-D-F-A-] [B,/-D/-F/-A/B/-] [B,/-D/-F/-B/] |
+[B,/D/-^F/G/-B/-] [D/G/-B/-] [GB] [B,2-D2G2-B2-] [B,D-GB-g] [DB-d] [B,-D-G-B-e] [B,-D-GB-e] |
+[B,DG-B-d-] [GB-d-] [B,3/2-D3/2-G3/2-B3/2d3/2-] [B,/-D/-G/d/-] [B,DGB-^c-d] [Bc-] [B,-D-E^FG-c-] [B,-DG-A-c] |
+[B,/D/-G/A/-d/-] [D3/2A3/2d3/2] +mf+ [A,-D-^F-d-] [A,D-F-d-e-] [A,-DF-de] [A,Fd-] +mp+ [A,2-D2F2-d2e2] |
+[A,D-^F-d-] [DFd^f-] [A,2-D2-F2f2-] [A,/D/E/-F/-f/-] [E3/2F3/2f3/2-] [A,-D-FGf-] [A,-D-E-F-f] |
+[A,/D/E/-^F/-A/-] [E3/2F3/2A3/2-] [A,3/2-^C3/2-E3/2-F3/2-A3/2^c3/2-] [A,/-C/-E/F/-c/] [A,/C/-E/-F/-a/-] [C/E/-F/-a/] [EF-e] [A,-C-F-^f-] [A,/-C/-F/-f/a/-]
+	[A,/-C/-F/-a/-] |
+[A,/-^C/-^F/-A/-e/-a/] [A,/C/F/-A/e/] [F-A] [A,2-C2-E2F2A2-] [A,CE-F-A-] [E/F/-A/-] [F/-A/] [A,-C-DE-F-A-] [A,/-C/-D/-E/-F/A/-] [A,/-C/-D/E/-A/] |
+[A,/^C/D/-E/G/-] [D3/2G3/2] [B,-D-G-] [B,-DG-d] [B,/D/-G/b/-] [D/-b/-] [D/-d/-b/] [D/d/] [B,-D-G-B] [B,-D-Ga] |
+[B,D-G-a-] [DGa] [B,2-D2G2-g2-] [B,D-^FGg-] [Dg-] [B,-DE-G-g-] [B,/-D/-E/G/-g/-] [B,/-D/G/-g/] |
+[B,/D/-G/] D3/2 [A,-D-^F-] [A,D-F-A-^f-] [A,/-D/-F/A/f/] [A,/-D/-] [A,DAf] [A,-D-F-Ge] [A,-DF] |
+% Bar 70 (1:39)
+[A,D-^F-d-] [DFd-] [A,2D2-F2-d2-] [A,D-F-d-] [DFd-] [A,-^A,D-F-d] [=A,-D-F] |
+[A,/B,/-D/] B,3/2 +mf+ [B,2-D2^F2] [B,D-F] D/ z/ [B,2-D2-F2-] |
+[A,/-B,/^C/-D/^F/] [A,3/2C3/2] +mp+ [A,2C2-E2-] [A,-CD-E] [A,D] +mf+ [A,2-C2-E2-] |
+[A,/^C/-D/-E/^F/-] [C/D/-F/-] [DF] +mp+ [A,-D-F] [A,-D-F] [A,DF-A-] [FA-] +mf+ [A,-D-FA-] [A,/-D/-F/-A/] [A,/-D/F/] |
++mp+ [A,D-^F-] [DF] [A,2-D2-F2-] [A,/D/-E/-F/d/-] [D/-E/d/-] [Dd-] +mf+ [A,-DF-d-] [A,-D-F-d] |
+[A,/D/-^F/G/-B/-] [D/G/-B/-] [GB-] [B,-D-GB-] [B,-D-GB-] +mp+ [B,DG-B-] [GB-] +mf+ [B,-D-GB-] [B,-DG-B-] |
+[B,/D/-G/-B/-] [D-GB-] [D/B/-] +mp+ [A,2-D2^F2-B2-] +mf+ [A,D-E-FB] [D/E/-] E/ +mp+ [A,-D-F-] [A,D-F-A] |
+[A,/-D/E/-^F/A/-] [A,3/2E3/2A3/2-] [A,3/2-^C3/2-E3/2-A3/2] [A,/-C/-E/] [A,CE-F-A-] [E/-F/A/-] [E/A/-] +mf+ [A,-C-EFA-] +mp+ [A,-C-E-A] |
+[A,^CE-A-] [EA-] [A,-C-E-A] [A,C-E-] [A,CE-A-] [EA-] [A,-^A,C-E-A-] [=A,/-C/-E/-A/] [A,/-C/-E/-] |
+[A,/B,/-^C/E/^F/-] [B,3/2F3/2] +mf+ [B,2D2-F2] [B,-DF] [B,F] +mp+ [B,2-D2-F2-] |
+% Bar 80 (1:54)
++mf+ [B,C-DE-^F] [CE] [G,2-C2-E2] [G,CEB-] [EB-] +mp+ [G,-C-E-GB-] [G,/-C/-E/-B/] [G,/-C/-E/-] |
++mf+ [G,/-C/-D/-E/G/-d/-] [G,/C/D/-G/-d/-] [DG-d-] [G,-B,-D-Gd-] [G,-B,-Dd-] [G,B,D^Fd-] [Dd-] +mp+ [G,-B,-D-Ed-] [G,-B,-Dd-] |
++mf+ [G,/B,/D/-d/-] [D3/2d3/2-] [A,2-D2^F2-d2-] [A,DFd-] [Dd-] +mp+ [A,2-D2-F2-d2] |
++mf+ [A,DE-^FA-^c-] [E/A/-c/-] [A/-c/-] +mp+ [A,-^C-EF-Ac-] [A,/-C/-E/-F/c/-] [A,/-C/-E/c/-] [A,CE-c-] [Ec-] [A,2-C2-E2-c2-] |
+[A,^CE-A-^c-] [EA-c-] [A,3/2-C3/2-E3/2-A3/2c3/2-] [A,/-C/-E/c/-] +mf+ [A,CE-c-] [Ec-] [A,2-C2-E2-^F2c2] |
+[A,^CEG-A-] [G-A-] [A,-C-E-G-A] [A,-C-EG-] [A,/C/-E/-G/-] [C/E/-G/-] [EG-] [A,2-C2-E2-G2-] |
+[A,^C-EG-A-] [C/G/-A/-] [G/-A/-] [A,-C-E-GA-] [A,-C-E-A-] [A,2-C2-D2E2A2-] +mp+ [A,-C-E-A-] +mf+ [A,-C-E-^FA-] |
++mp+ [A,/-^C/-D/-E/-^F/-A/] [A,/C/D/-E/F/-] [DF] [A,3/2-D3/2-F3/2-A3/2] [A,/D/-F/-] [A,-DF-d] [A,F] [A,-D-F-] [A,-DF-e-] |
+[A,/-D/-^F/-e/] [A,D-F-] [D/F/] [A,2-D2-F2^f2-] [A,/-D/E/-F/-f/-] [A,/E/-F/-f/-] [EFf-] [A,-DF-Af-] [A,/-D/-E/-F/-f/] [A,/D/-E/F/-] |
+[A,/-D/E/-^F/] [A,3/2E3/2] [A,-^C-E-e] [A,-C-EA] [A,/C/E/-^c/-] [E/-c/] [Ee] [A,-C-E-A] [A,C-E-c] |
+% Bar 90 (2:08)
+[A,/-^C/E/-e/-] [A,/-E/-e/] [A,E^c] [A,2-C2-E2A2-] [A,CE-^F-A-] [EF-A] [A,-C-E-F-] [A,-C-DE-F] |
+[A,/B,/-^C/D/-E/] [B,3/2D3/2] [B,-D-^F] [B,-D-F] [B,D-F-B-] [DFB] [B,-D-F-d] [B,D-F-B] |
+[B,-D-^FA] [B,DF] [B,2D2-F2B2-] +mf+ [B,DF-B-] [FB] +mp+ [B,-D-F-A-] [B,/-D/-F/-A/B/-] [B,/-D/-F/-B/] |
+[B,/D/-^F/-G/-B/-] [D/F/G/-B/-] [GB] [B,2-D2G2-B2-] [B,D-GB-g] [DB-d] [B,-D-G-B-e] [B,-D-GB-e] |
+[B,DG-B-d-] [GB-d-] [B,3/2-D3/2-G3/2-B3/2d3/2-] [B,/-D/-G/d/-] [B,DGB-^c-d] [Bc-] [B,-D-E-^FG-c-] [B,/-D/-E/G/-A/-c/-] [B,/-D/G/-A/-c/] |
+[B,/D/-G/-A/-d/-] [D/-G/A/-d/-] [DAd] +mf+ [A,-D-^F-d-] [A,D-F-d-e-] [A,-DF-de] [A,Fd-] +mp+ [A,2-D2F2-d2e2] |
+[A,D-^F-d-] [DFd^f-] [A,2-D2-F2f2-] [A,DE-F-f-] [EFf-] [A,-D-FGf-] [A,-D-E-F-f] |
+[A,/D/E/-^F/-A/-] [E3/2F3/2A3/2-] [A,3/2-^C3/2-E3/2-F3/2-A3/2^c3/2-] [A,/-C/-E/F/-c/] [A,CE-F-a] [EF-e] [C-E-F-^f-] [C/-E/-F/-f/a/-] [C/-E/-F/-a/-] |
+[^C/-E/-^F/-A/-e/-a/] [C/E/F/-A/e/] [F-A] [A,2-C2-E2F2A2-] [A,CE-F-A-] [E/F/-A/-] [F/A/-] [A,-C-DE-F-A-] [A,/-C/-D/-E/-F/A/-] [A,/-C/-D/E/-A/] |
+[A,/^C/-D/-E/-G/-] [C/D/-E/G/-] [DG] [B,-D-G-] [B,-DG-d] [B,D-Gb-] [D/-d/-b/] [D/d/] [B,-D-G-B] [B,-D-Ga] |
+% Bar 100 (2:23)
+[B,3/2D3/2-G3/2-a3/2-] [D/G/a/] [B,2-D2G2-g2-] [B,D-^FGg-] [Dg-] [B,-DE-G-g-] [B,/-D/-E/G/-g/-] [B,/-D/G/-g/] |
+[B,-D-G] [B,/D/-] D/ [A,-D-^F-] [A,D-F-A-^f-] [A,/-D/-F/-A/f/] [A,/-D/-F/] [A,DAf] [A,-D-F-Ge] [A,-DF] |
+[A,D-^F-d-] [DFd-] [A,2D2F2-d2-] [A,2D2F2d2-] +mf+ [A,-D-EFd] [A,-DF-] |
+[A,D-^F-] [DF] +mp+ [A,3/2-D3/2-F3/2-A3/2] [A,/D/-F/] [A,/-D/F/-d/-] [A,/-F/-d/] [A,F] [A,-D-F-] [A,-DF-e-] |
+[A,/-D/-^F/-e/] [A,/D/-F/-] [DF] [A,2-D2-F2^f2-] [A,DE-F-f-] [EFf-] [A,-D-F-Af-] [A,/-D/-E/-F/-f/] [A,/D/-E/-F/-] |
+[A,/-D/E/-^F/] [A,3/2E3/2] [A,-^C-E-e] [A,-C-EA] [A,/C/-E/-^c/-] [C/E/-c/] [Ee] [A,-C-EA] [A,C-E-c] |
+[A,-^CE-e] [A,E^c] [A,2-C2-E2A2-] [A,/C/E/-^F/-A/-] [E3/2F3/2A3/2] [A,-C-E-] [A,-C-D-E-] |
+[A,/B,/-^C/D/-E/] [B,3/2D3/2] [B,-D-^F] [B,-D-F] [B,/D/-F/-B/-] [D3/2F3/2B3/2] [B,-D-F-d] [B,DF-B] |
+[B,-D-^FA] [B,DF] +mf+ [B,2D2-F2B2-] [B,D-F-B-] [DFB] +mp+ [B,-D-F-A] [B,-D-F-B-] |
+[B,/D/-^F/G/-B/-] [DG-B-] [G/B/] [B,2-D2G2-B2-] [B,D-GB-^c-g] [DB-c-d] [B,-D-G-B-c-e] [B,/-D/-G/-B/-c/e/-] [B,/-D/-G/B/-e/] |
+% Bar 110 (2:37)
+[B,DG-B-d-] [GB-d-] [B,3/2-D3/2-G3/2-B3/2d3/2-] [B,/-D/-G/d/-] [B,DGB-d-] [Bd-] [B,-D-E-^FG-d-] [B,/-D/-E/G/-A/-d/-] [B,/-D/G/-A/-d/-] |
+[B,/D/-G/-A/-d/-] [D/-G/A/-d/-] [DAd] +mf+ [A,-D-^F-d] [A,D-F-e-] [A,-DF-e] [A,Fd] +mp+ [A,2-D2F2-e2] |
+[A,D-^F-d] [DF^f-] [A,2-D2-F2f2-] [A,DE-Ff-] [Ef-] [A,-D-F-Gf-] [A,-D-E-F-f] |
+[A,/D/E/-^F/A/-] [E3/2A3/2-] [A,3/2-^C3/2-E3/2-F3/2-A3/2^c3/2-] [A,/-C/-E/F/c/] [A,CE-F-a] [EF-e] [A,-C-F-^f-] [A,/-C/-F/-f/a/-] [A,/-C/-F/-a/-] |
+[A,/^C/^F/-A/-e/-a/] [F/-A/e/] [F-A] [A,2-C2-E2F2-A2-] [A,/C/E/-F/-A/-] [EF-A-] [F/A/-] [A,-C-DE-FA-] [A,-C-D-E-A] |
+[A,/^C/D/-E/G/-] [D3/2G3/2] [B,-D-G-] [B,-DG-d] [B,D-GB-b-] [D/-B/-d/-b/] [D/B/d/] [B,-D-G-B-] [B,-D-GBa] |
+[B,D-G-a-] [DGa] [B,2-D2G2-g2-] [B,D-^FG-g-] [DGg-] [B,-DE-G-g-] [B,/-D/-E/G/-g/-] [B,/-D/G/-g/] |
+[B,/D/-G/-] [D3/2G3/2] [A,-D-^F-] [A,D-F-A-^f-] [A,/-D/-F/-A/f/] [A,/-D/-F/] [A,DAf] [A,-D-F-Ge] [A,-DF] |
+[A,D-^F-d-] [DFd-] [A,2-D2-F2-d2-] [A,^CDE-F-d-] [EFd-] [A,-B,D-F-d] +mf+ [A,D-E-F-] |
+[A,/-D/E/-^F/] [A,3/2E3/2] +mp+ [A,2-^C2-E2] [A,CE-F-] [EF-] [A,-C-E-F] [A,-C-DE] |
+% Bar 120 (2:52)
+[A,^CE-A] E [A,2-C2-E2-] [A,B,CD-E-] [DE] +mf+ [A,-C-E-] [A,-C-DE-] |
+[A,/^C/D/-E/-] [D-E] D/ +mp+ [A,2-D2-^F2] [A,D-F-A-] [DFA-] [A,-D-F-A] [A,-DF-] |
+[A,D-^F] D [A,2-D2-F2-] [A,^CD-E-F] [DE] [A,-B,D-F-] [A,D-E-F-] |
+[A,/-D/-E/-^F/] [A,/-D/E/-] [A,E] [A,2-^C2-E2] [A,CE-F-] [EF-] [A,/-C/-E/-F/] [A,/-C/-E/-] [A,C-DE] |
+[A,^CE-] E [A,2-C2-E2-] [A,B,CD-E-] [DE] [A,-C-E-] [A,-C-DE-] |
+[A,^CD-E] D [A,2D2-^F2] [A,2D2F2] [A,2-D2F2-] |
+[A,D-^F] D- [A,^CD-E] D [A,7/2D7/2-F7/2] [z/D/] |
+z8 |] 
+
+%Lyrics - Larksong of Second Breakfast
+
+%Almost hidden
+%West of Bree-land
+%Green Hill Country
+%Brandywine River
+
+%Never cold there
+%Sun's up in the sky
+%Soft and gentle rains come
+%To grow the pipe-weed high
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%All my memories
+%Gather round them:
+%Bird and Baby, Hobbiton-Bywater
+%Stock and Scary
+%Overhill nearby
+%The Marish in the moonshine
+%Golden fields of rye
+
+%Great East Road, take me home
+%To the place I belong
+%A cozy burrow by the fire
+%Take me home, Great East Road
+
+%I hear the laughter in the evenings at the Green Dragon
+%A coney pie reminds me of my home far away
+%Riding down the road I hear my Gaffer saying,
+%"Should have been home yesterday, yesterday . . ."
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+%Take me home, Great East Road
+%Take me home, Great East Road
+
+X: 3
+%%Orig filename was CountryRoadsClar.abc
+T: Take Me Home, Country Roads Basic Clarinet (2:56)
+%%part-name Basic Clarinet
+C: John Denver
+Z: Keli
+M: 4/4
+Q: 172
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z4 A, z +mp+ A,3/2 z/ |
++mf+ B,3 +mp+ A,5- |
+A,7/2 z/ +mf+ B,2 +mp+ A,- [A,/B,/-] B,/- |
+B, D7- |
+D2 z2 +mf+ E3/2 z/ +mp+ E2- |
+% Bar 10 (0:13)
++mf+ [E/^F/-] F5/2 +mp+ E4- [B,/E/-] E/ |
++mf+ B,2 +mp+ A,2 B,2- [A,/-B,/] A,3/2 |
++mf+ D5/2 z/ D5- |
+D8 |
+z4 A,3/2 z/ +mp+ A,- +mf+ [A,/B,/-] B,/- |
+B,2- [A,/-B,/] A,11/2 |
+B,2 D3/2 z/ D2- [D/E/-] E3/2 |
+^F15/2 z/ |
+E3/2 z/ E3/2 z/ E2 +mp+ E2 |
+^F3 E5 |
+% Bar 20 (0:27)
++mf+ B,2 D3/2 z/ D2 +mp+ E- +mf+ [D/-E/] D/- |
+D3 z D2 E ^F- |
+^F8- |
+^F3 z +mp+ E2 D E- |
+E8- |
+E3 z ^F2 +p+ E +mp+ D- |
+D8- |
+D7/2 z/ +mf+ ^F2 +mp+ A B- |
+B8- |
+B7/2 z/ B2 ^F A- |
+% Bar 30 (0:41)
+A2 +mf+ ^F6- |
+^F4- [E/-F/] E3/2 +mp+ D E- |
+E2 ^F6- |
+^F4 E3/2 z/ D +p+ D- |
+D8- |
+D7/2 z/ +mp+ D2 E D- |
+D8- |
+D7 D |
+z4 A,3/2 z/ A,3/2 z/ |
++mf+ B,3- [A,/-B,/] A,9/2- |
+% Bar 40 (0:56)
+A,/ z7/2 +mp+ B,2 A,- [A,/B,/-] B,/- |
+B,2 D6- |
+D/ z7/2 +mf+ E z +mp+ E2- |
++mf+ [E/^F/-] F5/2 +mp+ E4 B,/ z/ |
+B,2 A,2 B,2 A,2 |
++mf+ D5/2 z/ D5- |
+D8- |
+D3 D/ z/ A, z +mp+ A,2 |
+B,3- [A,/-B,/] A,9/2 |
++mf+ B,2 +mp+ D3/2 z/ D2- [D/E/-] E3/2 |
+% Bar 50 (1:10)
++mf+ ^F8 |
+E3/2 z/ E3/2 z/ E3/2 z/ E2- |
+[E/^F/-] F5/2- [E/-F/] E9/2 |
++mp+ B,2 +mf+ D3/2 z/ D2 +mp+ E- [D/-E/] D/- |
+D7/2 z/ +mf+ D2 E ^F- |
+^F8- |
+^F3 z +mp+ E2 D E- |
+E8- |
+E3 z ^F2 +p+ E2- |
++mp+ [D/-E/] D15/2- |
+% Bar 60 (1:25)
+D4- +mf+ [D/^F/-] F3/2 +mp+ A B- |
+B8- |
+B7/2 z/ B2 ^F A- |
+A2 +mf+ ^F6- |
+^F4- [E/-F/] E3/2 +mp+ D E- |
+E2 ^F6- |
+^F4 E3/2 z/ D +p+ D- |
+D8- |
+D7/2 z/ +mp+ D2 E D- |
+D8- |
+% Bar 70 (1:39)
+D7 D |
+z2 +mf+ D3/2 z/ D3/2 z/ D2 |
++mp+ ^C4 D2 +mf+ E2 |
+^F5/2 z/ +mp+ F/ z/ F5/2 z/ +mf+ F/ z/ |
++mp+ ^F2 D9/2 z/ +mf+ D |
++mp+ G3/2 z/ +mf+ G G5/2 z/ G G- |
+G3/2 z/ +mp+ ^F2 +mf+ E2 +mp+ D2 |
+E4 ^F3/2 z/ +mf+ F +mp+ E- |
+E8 |
+^F3/2 z/ +mf+ F2 F/ z/ F5/2 z/ |
+% Bar 80 (1:54)
+E2 E3/2 z/ E/ z/ E5/2 z/ |
+D2 D3/2 z/ D/ z/ D5/2 z/ |
+D2 D3/2 z/ D/ z/ D3 |
+E3/2 z/ +mp+ ^F- [E/-F/] E9/2- |
+E7/2 z/ +mf+ E2 ^F2 |
+G8- |
+G3 z D2 +mp+ E +mf+ ^F- |
+^F8- |
+^F3 z +mp+ E2 D E- |
+E8- |
+% Bar 90 (2:08)
+E3 z ^F2 +p+ E +mp+ D- |
+D8- |
+D7/2 z/ +mf+ ^F2 +mp+ A B- |
+B8- |
+B7/2 z/ B2 ^F A- |
+A2 +mf+ ^F6- |
+^F4- [E/-F/] E3/2 +mp+ D E- |
+E2 ^F6- |
+^F4 E3/2 z/ D +p+ D- |
+D8- |
+% Bar 100 (2:23)
+D7/2 z/ +mp+ D2 E D- |
+D8- |
+D4 D2 E +mf+ ^F- |
+^F8- |
+^F3 z +mp+ E2 D E- |
+E8- |
+E3 z ^F2 +p+ E +mp+ D- |
+D8- |
+D7/2 z/ +mf+ ^F2 +mp+ A B- |
+B8- |
+% Bar 110 (2:37)
+B7/2 z/ B2 ^F A- |
+A2 +mf+ ^F6- |
+^F4- [E/-F/] E3/2 +mp+ D E- |
+E2 ^F6- |
+^F4 E3/2 z/ D +p+ D- |
+D8- |
+D7/2 z/ +mp+ D2 E D- |
+D8- |
+D4 E2 D +mf+ E- |
+E8- |
+% Bar 120 (2:52)
+E3 z +mp+ D2 +mf+ E D- |
+D8- |
+D4 +mp+ E2 +p+ D- +mp+ [D/E/-] E/- |
+E8- |
+E4 D2 E- [D/-E/] D/- |
+D8- |
+D5 z3 |
+z8 |]
+
+%Lyrics - Larksong of Second Breakfast
+
+%Almost hidden
+%West of Bree-land
+%Green Hill Country
+%Brandywine River
+
+%Never cold there
+%Sun's up in the sky
+%Soft and gentle rains come
+%To grow the pipe-weed high
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%All my memories
+%Gather round them:
+%Bird and Baby, Hobbiton-Bywater
+%Stock and Scary
+%Overhill nearby
+%The Marish in the moonshine
+%Golden fields of rye
+
+%Great East Road, take me home
+%To the place I belong
+%A cozy burrow by the fire
+%Take me home, Great East Road
+
+%I hear the laughter in the evenings at the Green Dragon
+%A coney pie reminds me of my home far away
+%Riding down the road I hear my Gaffer saying,
+%"Should have been home yesterday, yesterday . . ."
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+%Take me home, Great East Road
+%Take me home, Great East Road
+
+X: 10
+%%Orig filename was CountryRoadsDrums.abc
+T: Take Me Home, Country Roads Basic Drum (2:56)
+%%part-name Basic Drum
+C: John Denver
+Z: Keli
+M: 4/4
+Q: 172
+K: C maj
+
++p+ z/ ^c/ z3 c z3 |
+^c z3 c z3 |
+[^G,^c] +pp+ G, +p+ G, +pp+ G, +p+ [G,c] +pp+ G, +p+ G, +pp+ G, |
++p+ [^G,^c] +pp+ G, +p+ G, G, [G,c] G, G, G, |
++mp+ [^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+% Bar 10 (0:13)
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+% Bar 20 (0:27)
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,] [F,G,] [F,-G,c] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,A^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 30 (0:41)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,A^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 40 (0:56)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 50 (1:10)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,A^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 60 (1:25)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 70 (1:39)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,A^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 80 (1:54)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,-G,] [F,-G,Ac] [F,G,] [F,-G,] [F,-G,] [F,-G,] [F,G,] |
+[^F,-^G,A^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 90 (2:08)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 100 (2:23)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,A^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 110 (2:37)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+% Bar 120 (2:52)
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
+[^F,-^G,^c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++p+ [^G,^c] +pp+ G, +mp+ [^F,-G,c] [F,G,] [F,-G,c] [F,G,] [F,-G,c] [F,G,] |
++mf+ [^G,/^c/] +p+ c/ z +mf+ [G,/c/-] c/ z [G,/c/] z7/2 |
+z8 |] 
+
+%Lyrics - Larksong of Second Breakfast
+
+%Almost hidden
+%West of Bree-land
+%Green Hill Country
+%Brandywine River
+
+%Never cold there
+%Sun's up in the sky
+%Soft and gentle rains come
+%To grow the pipe-weed high
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%All my memories
+%Gather round them:
+%Bird and Baby, Hobbiton-Bywater
+%Stock and Scary
+%Overhill nearby
+%The Marish in the moonshine
+%Golden fields of rye
+
+%Great East Road, take me home
+%To the place I belong
+%A cozy burrow by the fire
+%Take me home, Great East Road
+
+%I hear the laughter in the evenings at the Green Dragon
+%A coney pie reminds me of my home far away
+%Riding down the road I hear my Gaffer saying,
+%"Should have been home yesterday, yesterday . . ."
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+%Take me home, Great East Road
+%Take me home, Great East Road
+
+X: 1
+%%Orig filename was CountryRoadsFlute.abc
+T: Take Me Home, Country Roads Basic Flute (2:56)
+%%part-name Basic Flute
+C: John Denver
+Z: Keli
+M: 4/4
+Q: 172
+K: C maj
+
++p+ z8 |
+z5 F ^F A- |
+A8- |
+A- [F/-A/] F/ ^F A2 B3 |
+^F- [D/-F/] D13/2- |
+D11/2 z3/2 ^F, |
+B,8- |
+B,11/2 z3/2 A, |
+^C8- |
+% Bar 10 (0:13)
+^C5 z3 |
+E D B,2 A,/ z/ A, ^F,2 |
+D,3 z E D B,2 |
+D/ z/ A,/ z/ ^F/ z5/2 E, ^F,2 |
+D,8- |
+D, z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:27)
+E D A,4- [^F,/-A,/] F,3/2 |
+D,7 z |
+z2 A,3/2 z/ D z2 E- |
+E/ z3/2 ^F11/2 z/ |
+z2 E A, ^C E A, C |
+E ^C A,4 z2 |
+z3 ^F, B,2 D B, |
+A, ^F, B,4 z2 |
+z2 B,2 G D E/ z/ E/ z/ |
+D5 z3 |
+% Bar 30 (0:41)
+z2 D E2 D E2 |
+D ^F7 |
+z2 +pp+ ^C2 +p+ A +pp+ E +p+ ^F- [F/A/-] A/- |
+[E/-A/] E/ A, A,6 |
+z3 D B- [D/-B/] D/ B, A/ z/ |
+A2 G6 |
+z3 [A,3/2^F3/2] z/ [A,/F/] z/ [G,/E/] z3/2 |
+[^F,7D7] z |
+z8 |
+z8 |
+% Bar 40 (0:56)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 A,3/2 z/ D z2 E- |
+E/ z3/2 ^F11/2 z/ |
+z2 E A, ^C E A, C |
+E ^C A,4 z2 |
+z3 ^F, B,2 D B, |
+% Bar 60 (1:25)
+A, ^F, B,4 z2 |
+z2 B,2 G D E/ z/ E/ z/ |
+D5 z3 |
+z2 D/ z/ E2 D E2 |
+D ^F7 |
+z2 +pp+ ^C2 +p+ A +pp+ E +p+ ^F- [F/A/-] A/- |
+[E/-A/] E/ A, A,6 |
+z3 D B- [D/-B/] D/ B, A/ z/ |
+A2 G6 |
+z3 [A,3/2^F3/2] z/ [A,/F/] z/ [G,/E/] z3/2 |
+% Bar 70 (1:39)
+[^F,7D7] z |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (1:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 A,3/2 z/ D z2 E- |
+E/ z3/2 ^F11/2 z/ |
+z2 E A, ^C E A, C |
+% Bar 90 (2:08)
+E ^C A,4 z2 |
+z3 ^F, B,2 D B, |
+A, ^F, B,4 z2 |
+z2 B,2 G D E/ z/ E/ z/ |
+D5 z3 |
+z2 D E2 D E2 |
+D ^F7 |
+z2 +pp+ ^C2 +p+ A +pp+ E +p+ ^F- [F/A/-] A/- |
+[E/-A/] E/ A, A,6 |
+z3 D B- [D/-B/] D/ B, A/ z/ |
+% Bar 100 (2:23)
+A2 G6 |
+z3 [A,3/2^F3/2] z/ [A,/F/] z/ [G,/E/] z3/2 |
+[^F,7D7] z |
+z2 A,3/2 z/ D z2 E- |
+E/ z3/2 ^F11/2 z/ |
+z2 E A, ^C E A, C |
+E ^C A,4 z2 |
+z3 ^F, B,2 D B, |
+A, ^F, B,4 z2 |
+z2 B,2 G D E/ z/ E/ z/ |
+% Bar 110 (2:37)
+D5 z3 |
+z2 D E2 D E2 |
+D ^F7 |
+z2 +pp+ ^C2 +p+ A +pp+ E +p+ ^F- [F/A/-] A/- |
+[E/-A/] E/ A, A,6 |
+z3 D B- [D/-B/] D/ B, A/ z/ |
+A2 G6 |
+z3 [A,3/2^F3/2] z/ [A,/F/] z/ [G,/E/] z3/2 |
+[^F,7D7] z |
+z8 |
+% Bar 120 (2:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |] 
+
+%Lyrics - Larksong of Second Breakfast
+
+%Almost hidden
+%West of Bree-land
+%Green Hill Country
+%Brandywine River
+
+%Never cold there
+%Sun's up in the sky
+%Soft and gentle rains come
+%To grow the pipe-weed high
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%All my memories
+%Gather round them:
+%Bird and Baby, Hobbiton-Bywater
+%Stock and Scary
+%Overhill nearby
+%The Marish in the moonshine
+%Golden fields of rye
+
+%Great East Road, take me home
+%To the place I belong
+%A cozy burrow by the fire
+%Take me home, Great East Road
+
+%I hear the laughter in the evenings at the Green Dragon
+%A coney pie reminds me of my home far away
+%Riding down the road I hear my Gaffer saying,
+%"Should have been home yesterday, yesterday . . ."
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+
+%Great East Road, take me home
+%To the place I belong
+%Little Delving, in the Shire
+%Take me home, Great East Road
+%Take me home, Great East Road
+%Take me home, Great East Road
+

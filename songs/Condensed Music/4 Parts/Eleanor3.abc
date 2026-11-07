@@ -1,0 +1,400 @@
+N: TS  4,  11  12  13  14
+X: 11
+%%Orig filename was Eleanor3Bardic.abc
+%abc-2.1
+%%song-title       Eleanor Rigby
+%%song-composer    The Beatles
+%%song-duration    2:05
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+
+
+T: Eleanor Rigby (2:05) - Bardic Fiddle
+%%part-name Bardic Fiddle
+C: The Beatles
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 136
+K: C maj
+
++mp+ [CG-] +fff+ [G,/G/-] G/- [B,/C/-G/-] [C/G/-] [C,-G-] +p+ [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] |
+[C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,G-] |
+[B,2G2-] +mf+ [B,/-G/-] [A,/B,/G/-] +fff+ [G,G-] [E,-B,G-] [E,-G] +mp+ [E,-B,A] [E,-B] |
+[E,-B,G] [E,-B] [E,-B,^F] [E,-B] [E,-B,G] [E,-B] [E,-B,E] [E,B] |
+[CG-] +fff+ [G,G-] [E,CG-] [C,-G-] +p+ [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] |
+[C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,G-] |
+[B,G-] +fff+ [B,G-] [G,B,G-] [E,-G-] +p+ [E,-B,G-] [E,-G] +mp+ [E,-B,A] [E,-B] |
+[E,-B,G] [E,-B] [E,-B,^F] [E,-B] [E,-B,G] [E,-B] [E,-B,E] [E,B] |
++mf+ [E,B,E] z [E,B,E] z [E,B,E] z [E,B,E] z |
+% Bar 10 (0:15)
+[E,B,E] z [E,B,E] z [E,B,E] z [E,B,E] z |
+[E,B,E] z [E,B,E] z [E,B,E] z [E,B,E] z |
++fff+ [C,CE] z [G,CE] z +mp+ [CE] z +fff+ [G,CE] z |
++mf+ [C,CE] z [C,CE] z [E,B,E] z [E,B,E] z |
+[E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ |
++mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ |
++mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ |
++mf+ [C,/-C/c/] C,/ +mp+ [C/c/] z/ +mf+ [C,/-C/c/] C,/ +mp+ [C/c/] z/ +mf+ [C,/-C/c/] C,/ +mp+ [C/c/] z/ +mf+ [C,/-C/c/] C,/ +mp+ [C/c/] z/ |
++mf+ [C,/-C/c/] C,/ +mp+ [C/c/] z/ +mf+ [D,/-C/c/] D,/ +mp+ [C/c/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ +mf+ [E,/-B,/B/] E,/ +mp+ [B,/B/] z/ |
++mf+ [D-E] D- +p+ [D-E] D- [D-E] D- [D-E] D |
+% Bar 20 (0:33)
++mf+ [^C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++mf+ [C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++mf+ [B,-E] B,- +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++mf+ [D-E] D- +p+ [D-E] D- [D-E] D- [D-E] D |
++mf+ [^C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++mf+ [C-E] C- +p+ [C-E] C- [C-E] C- [C-E] +mp+ [CB] |
++mf+ [B,-Eg-] [B,-g] +mp+ [B,-Ee] [B,-B-] +p+ [B,-EB] +mp+ [B,-A-] +p+ [B,-EA] +mp+ [B,G-] |
++mf+ [E,B,G-] G- [E,B,G-] G- [E,B,G-] G- [E,B,G-] G |
+[E,B,] z [E,B,] z [E,B,] z [E,B,] z |
+[E,B,] z [E,B,] z [E,B,] z [E,B,] z |
+% Bar 30 (0:51)
++ff+ [C,/C/-] C/ D,/ z/ [E,/C/-] C/ ^F,/ z/ [G,/C/-] C/ A,/ z/ [B,/C/-] C/ +fff+ C,- |
++p+ [C,-C] C,- [C,C] +ff+ E,- +p+ [E,-B,] E,- [E,-B,] E, |
++mf+ [E,B,] z [E,B,] z [E,B,] +mp+ B,/ z/ +mf+ [E,/-B,/-E/] [E,/B,/] +mp+ ^F/ z/ |
++mf+ [E,B,G-] G- [E,B,G] +mp+ ^F- +mf+ [E,B,F-] F- [E,B,F] +mp+ E- |
++mf+ [E,B,E-] E- [E,B,E] +mp+ D- +mf+ [E,B,D-] D- [E,B,D] +mp+ E- |
++ff+ [C,/C/-E/-] [C/E/-] [D,/E/-] E/- [E,/C/-E/-] [C/E/-] [^F,/E/-] E/- [G,/C/-E/-] [C/E/-] [A,/E/-] E/- [B,/C/-E/-] [C/E/-] [C,-E] |
++mp+ [C,-CE] [C,-^F] [C,CG-] +fff+ [E,-G-] +p+ [E,-B,G-] [E,-G-] [E,-B,G-] [E,G] |
++ff+ [D-E] D- +p+ [D-E] D- [D-E] D- [D-E] D |
++ff+ [^C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++ff+ [C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
+% Bar 40 (1:08)
++ff+ [B,-Ee-] [B,-e] +mf+ [B,-E^f-] [B,-f] [B,-Eg-] [B,-g] [B,-Ea-] [B,a] |
++ff+ [D-Eb-] [D-b-] +p+ [D-Eb-] [D-b-] [D-Eb-] [D-b-] [D-Eb-] [Db] |
++ff+ [^C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++ff+ [C-E] C- +p+ [C-E] C- [C-E] C- [C-E] +mp+ [CB] |
++ff+ [B,-Eg-] [B,-g] +mp+ [B,-Ee] [B,-B-] +p+ [B,-EB] +mp+ [B,-A-] +p+ [B,-EA] +mp+ [B,G] |
++p+ [CG-] +fff+ [G,/G/-] G/- [B,/C/-G/-] [C/G/-] [C,-G-] +p+ [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] |
+[C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,G-] |
+[B,2G2-] +fff+ [B,/-G/-] [A,/B,/G/-] [G,G-] [E,-B,G-] [E,-G] +p+ [E,-B,A] [E,-B] |
+[E,-B,G] [E,-B] [E,-B,^F] [E,-B] [E,-B,G] [E,-B] [E,-B,E] [E,B] |
+[CG-] +fff+ [G,/G/-] G/- [E,/C/-G/-] [C/G/-] [C,-G-] +p+ [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] |
+% Bar 50 (1:26)
+[C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,-G-] [C,-CG-] [C,G-] |
+[B,G-] +fff+ [B,/G/-] G/- [G,/B,/-G/-] [B,/G/-] [E,-G-] +p+ [E,-B,G-] [E,-G] [E,-B,A] [E,-B] |
+[E,-B,G] [E,-B] [E,-B,^F] [E,-B] [E,-B,G] [E,-B] [E,-B,E] [E,B] |
++mf+ [E,e-] e- [E,e-] e- [E,e-] e- [E,e-] e- |
+[E,e-] e- [E,e-] [B-e-] [E,B-e-] [B-e-] [E,Be-] +mp+ [A-e-] |
++mf+ [E,A-e-] [A-e-] [E,Ae-] +mp+ [G-e-] +mf+ [E,G-e-] [G-e-] [E,Ge-] +mp+ [A-e] |
++mf+ [E,A-e-] [A-e-] [E,A-e-] [A-e-] [E,A-e-] [A-e-] [E,A-e-] [A-e-] |
+[C,A-e-] [A-e-] [C,A-e-] [A-e-] [E,A-e-] [A-e-] [E,A-e-] [Ae] |
++mp+ [Ge] z [Ge] z [Ge] +fff+ B,/ z/ [E,/G/-e/-] [G/e/] ^F,/ z/ |
++f+ [G,Ge] A, [B,Ge] +fff+ D- +mp+ [DGe] +f+ ^C [B,Ge] +fff+ C- |
+% Bar 60 (1:44)
++mp+ [^CGe] +f+ B, [A,Ge] B,- +mp+ [B,Ge] +f+ A, [G,Ge] +fff+ A,- |
++mp+ [A,-Ee] A,- [A,-Ee] A,- [A,Ee] +f+ E, [A,Ee] E, |
+[A,-Ee] A,- +mp+ [A,-Ee] A, +f+ [E,-Ge] E,- +mp+ [E,-Ge] E, |
++mf+ [D-E] D- +p+ [D-E] D- [D-E] D- [D-E] D |
++mf+ [^C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++mf+ [C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++mf+ [B,-E] B,- +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++mf+ [D-E] D- +p+ [D-E] D- [D-E] D- [D-E] D |
++mf+ [^C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
++mf+ [C-E] C- +p+ [C-E] C- [C-E] C- [C-E] C |
+% Bar 70 (2:01)
++mf+ [E,-Eg-] [E,g] [B,-Ee-] [B,e] [G,-EB-] [G,B] [^F,-EA-] [F,A] |
+[E,8E8G8] |
+z8 |]
+
+X: 12
+%%Orig filename was Eleanor3Lonely.abc
+%abc-2.1
+%%song-title       Eleanor Rigby
+%%song-composer    The Beatles
+%%song-duration    2:05
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+
+T: Eleanor Rigby (2:05) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+C: The Beatles
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 136
+K: C maj
+
++fff+ [C,G,-C-E-G-] [G,-C-EG-] +mp+ [C,G,-C-E-G-] [G,-C-EG-] [C,G,CEG-] +fff+ [A,D^FG] [C,B,EG-] [C-F-G-A-] |
++mp+ [C,CE^FGA] +fff+ [C-EG-] +mp+ [C,CEG-] +fff+ [G,-B,-F-G-] +mp+ [C,G,B,EFG-] +fff+ [G,-EG-] +mp+ [C,G,EG-] +fff+ [G,-B,G-] |
+[E,G,A,EG-] [E,G,-G-] +mp+ [E,-G,-EG-] [E,G,G-] [E,EG-] G [E,EA] B |
+[E,EG] B [E,E^F] B [E,EG] B [E,E] B |
++fff+ [C,G,-C-E-G-] [G,-C-EG-] +mp+ [C,G,-C-E-G-] [G,-C-EG-] [C,G,CEG-] +fff+ [A,D^FG] [C,B,EG-] [C-F-G-A-] |
++mp+ [C,CE^FGA] +fff+ [C-EG-] +mp+ [C,CEG-] +fff+ [G,-B,-F-G-] +mp+ [C,G,B,EFG-] +fff+ [G,-EG-] +mp+ [C,G,EG-] +fff+ [G,-B,G-] |
+[E,G,A,EG-] [E,G,-G-] +mp+ [E,-G,-EG-] [E,G,G-] [E,EG-] G [E,EA] B |
+[E,EG] B [E,E^F] B [E,EG] B [E,E] B |
++fff+ [G,A,B,E] A, [G,B,E] G, +mp+ [G,B,E] +fff+ E, +mp+ [G,B,E] z |
+% Bar 10 (0:15)
++fff+ [G,B,E] A, [G,B,E] D- +mp+ [G,B,DE] +fff+ ^C [G,B,E] C- |
++mp+ [G,B,^CE] +fff+ B, [G,A,B,E] B, +mp+ [G,B,E] +fff+ A, [G,B,E] A,- |
++mp+ [G,A,-CE] A, [G,CE] z [G,CE] z [G,CE] z |
++fff+ [G,CE] A, [G,B,CE] C- +mp+ [G,B,CE] +fff+ B, +mp+ [G,B,E] z |
++fff+ [G,/-A,/-G/B/] [G,/A,/] [A,/-G/B/] A,/ [G,/-B,/-G/B/] [G,/B,/] [G,/-G/B/] G,/ +mp+ [G,/-G/B/] G,/ +fff+ [E,/-G/B/] E,/ +mp+ [G,/-G/B/] G,/ [G/B/] z/ |
++fff+ [G,/-G/B/] G,/ [A,/-G/B/] A,/ [G,/-B,/-G/B/] [G,/B,/] [D/-G/B/] D/- +mp+ [G,/-D/-G/B/] [G,/D/] +fff+ [^C/-G/B/] C/ [G,/-B,/-G/B/] [G,/B,/] [C/-G/B/] C/- |
++mp+ [G,/-^C/-G/B/] [G,/C/] +fff+ [B,/-G/B/] B,/ [G,/-A,/-G/B/] [G,/A,/] [B,/-G/B/] B,/- +mp+ [G,/-B,/-G/B/] [G,/B,/] +fff+ [A,/-G/B/] A,/ [G,/-G/B/] G,/
+	[A,/-G/B/] A,/- |
++f+ [C,/-A,/-G/c/] [C,/A,/-] +mp+ [A,/-G/c/] A,/- +f+ [G,/-A,/-G/c/] [G,/A,/-] +mp+ [A,/-G/c/] A,/ +f+ [C/-G/c/] C/ +mp+ [G/c/] z/ +f+ [G,/-G/c/] G,/ +mp+
+	[G/c/] z/ |
++fff+ [G,/-G/c/] G,/ [A,/-G/c/] A,/ [G,/-B,/-G/c/] [G,/B,/] [C/-G/c/] C/- +mp+ [G,/-C/-G/B/] [G,/C/] +fff+ [B,/-G/B/] B,/ +mp+ [G,/-G/B/] G,/ [G/B/] z/ |
++fff+ [E,-A,-B] [E,-A,] [E,-G,B] [E,-A,-] +p+ [E,-A,-B] [E,-A,] +fff+ [E,-B,B] [E,-G,-] |
+% Bar 20 (0:33)
++p+ [E,G,B] +fff+ E,- +p+ [E,-B] E,- [E,-B] E, +fff+ [E,-B] [E,-E-] |
++p+ [E,-E-B] [E,-E] +fff+ [E,-B,B] [E,-A,] [E,-G,B] [E,-G,-] +p+ [E,G,B] +fff+ E,- |
++p+ [E,-B] E,- [E,-B] E,- [E,-B] E,- [E,-B] E, |
++fff+ [E,-A,-B] [E,-A,] [E,-G,B] [E,-A,-] +p+ [E,-A,-B] [E,-A,] +fff+ [E,-B,B] [E,-G,-] |
++p+ [E,G,B] +fff+ E,- +p+ [E,-B] E,- [E,-B] E, +fff+ [E,-B] [E,-G-] |
++p+ [E,-G-B] [E,-G] +fff+ [E,-B,B] [E,-A,] [E,-G,B] [E,-G,-] +p+ [E,G,B] +fff+ [E,-B] |
++mp+ [E,-Bg-] [E,-g] [E,-Be] [E,-B] +p+ [E,-B] +mp+ [E,-A-] +p+ [E,-AB] +mp+ [E,G-] |
++fff+ [G,A,B,G-] [A,G-] [G,B,G-] [G,G-] +mp+ [G,B,G-] +fff+ [E,G-] +mp+ [G,B,G-] G |
++fff+ [G,B,] A, [G,B,] D- +mp+ [G,B,D] +fff+ ^C [G,B,] C- |
++mp+ [G,B,^C] +fff+ B, [G,A,B,] B, +mp+ [G,B,] +fff+ A, [G,B,] A,- |
+% Bar 30 (0:51)
++mp+ [G,A,-C] A, [G,C] z [G,C] z [G,C] +fff+ G, |
+[G,C] A, [G,B,C] C- +mp+ [G,B,C] +fff+ B, +mp+ [G,B,] z |
++fff+ [G,A,E] A, [G,B,E] G, +mp+ [G,E] +fff+ [E,/-B,/] E,/ +mp+ [G,E] ^F/ z/ |
++fff+ [G,EG-] [A,G-] [G,B,EG] [D-^F-] +mp+ [G,DEF-] +fff+ [^CF-] [G,B,EF] [C-E] |
++mp+ [G,^CE-] +fff+ [B,E] [G,A,E] [B,-D-] +mp+ [G,B,D-E] +fff+ [A,D-] [G,DE] [A,-E] |
++mp+ [G,A,-E-] [A,-E] [G,A,-E-] [A,E] [G,E-] E [G,E-] E |
++fff+ [G,E] [A,^F] [G,B,EG-] [C-G-] +mp+ [G,CEG-] +fff+ [B,G-] +mp+ [G,EG-] G |
++fff+ [E,-A,-B] [E,-A,] [E,-G,B] [E,-A,-] +p+ [E,-A,-B] [E,-A,] +fff+ [E,-B,B] [E,-G,-] |
++p+ [E,G,B] +fff+ E,- +p+ [E,-B] E,- [E,-B] E, +fff+ [E,-B] [E,-E-] |
++p+ [E,-E-B] [E,-E] +fff+ [E,-B,B] [E,-A,] [E,-G,B] [E,-G,-] +p+ [E,G,B] +fff+ E,- |
+% Bar 40 (1:08)
++mf+ [E,-Be-] [E,-e] [E,-B^f-] [E,-f] [E,-Bg-] [E,-g] [E,-Ba-] [E,a] |
++fff+ [E,-A,-Bb-] [E,-A,b-] [E,-G,Bb-] [E,-A,-b-] +p+ [E,-A,-Bb-] [E,-A,b-] +fff+ [E,-B,Bb-] [E,-G,-b] |
++p+ [E,G,B] +fff+ E,- +p+ [E,-B] E,- [E,-B] E, +fff+ [E,-B] [E,-G-] |
++p+ [E,-G-B] [E,-G] +fff+ [E,-B,B] [E,-A,] [E,-G,B] [E,-G,-] +p+ [E,G,B] +fff+ [E,-B] |
++mp+ [E,-Bg-] [E,-g] [E,-Be] [E,-B] +p+ [E,-B] +mp+ [E,-A-] +p+ [E,-AB] +mp+ [E,G] |
++fff+ [C,G,-C-E-G-] [G,-C-EG-] +mp+ [C,G,-C-E-G-] [G,-C-EG-] [C,G,CEG-] +fff+ [A,D^FG] [C,B,EG-] [C-F-G-A-] |
++mp+ [C,CE^FGA] +fff+ [C-EG-] +mp+ [C,CEG-] +fff+ [G,-B,-F-G-] +mp+ [C,G,B,EFG-] +fff+ [G,-EG-] +mp+ [C,G,EG-] +fff+ [G,-B,G-] |
+[E,G,A,EG-] [E,G,-G-] +mp+ [E,-G,-EG-] [E,G,G-] [E,EG-] G [E,EA] +p+ B |
++mp+ [E,EG] +p+ B +mp+ [E,E^F] +p+ B +mp+ [E,EG] +p+ B +mp+ [E,E] +p+ B |
++fff+ [C,G,-C-E-G-] [G,-C-EG-] +mp+ [C,G,-C-E-G-] [G,-C-EG-] [C,G,CEG-] +fff+ [A,D^FG] [C,B,EG-] [C-F-G-A-] |
+% Bar 50 (1:26)
++mp+ [C,CE^FGA] +fff+ [C-EG-] +mp+ [C,CEG-] +fff+ [G,-B,-F-G-] +mp+ [C,G,B,EFG-] +fff+ [G,-EG-] +mp+ [C,G,EG-] +fff+ [G,-B,G-] |
+[E,G,A,EG-] [E,G,-G-] +mp+ [E,-G,-EG-] [E,G,G-] [E,EG-] G [E,EA] +p+ B |
++mp+ [E,EG] +p+ B +mp+ [E,E^F] +p+ B +mp+ [E,EG] +p+ B +mp+ [E,E] +p+ B |
++fff+ [A,e-] [A,e-] [B,e-] [G,2e2-] [E,e-] e2- |
+[G,e-] [A,e-] [B,e-] [D2B2-e2-] [^CB-e-] [B,Be-] [C-A-e-] |
+[^CA-e-] [B,A-e-] [A,Ae-] [B,2G2-e2-] [A,G-e-] [G,Ge-] [A,-=C-A-e] |
++pp+ [A,2C2-A2-e2-] [C6A6-e6-] |
++fff+ [G,C-A-e-] [A,C-A-e-] [B,CA-e-] [C-A-e-] +mp+ [CE-A-e-] +fff+ [B,E-A-e-] [E2A2e2] |
+[A,EBe] A, [B,EBe] G,- +mp+ [G,EBe] +fff+ E, +mp+ [EBe] z |
++fff+ [G,EBe] A, [B,EBe] D- +mp+ [DEBe] +fff+ ^C [B,EBe] C- |
+% Bar 60 (1:44)
++mp+ [^CEBe] +fff+ B, [A,EBe] B,- +mp+ [B,EBe] +fff+ A, [G,EBe] A,- |
++mp+ [A,-CAe] A,- [A,-CAe] A, [CAe] z [CAe] z |
++fff+ [G,CAe] A, [B,CAe] C- +mp+ [CEBe] +fff+ B, +mp+ [EBe] z |
++fff+ [E,-A,-E-B] [E,-A,E-] [E,-G,E-B] [E,-A,-E-] +p+ [E,-A,-EB] +fff+ [E,-A,^F] [E,-B,GB] [E,-G,-A-] |
++p+ [E,G,AB] +fff+ [E,-G-] +p+ [E,-GB] +fff+ [E,-^F-] +p+ [E,-FB] +fff+ [E,E-] [E,-EB] [E,-B,E-] |
+[E,-A,E-B] [E,-G,-E] [E,-G,-B,B] [E,-G,A,] [E,-G,B] [E,-G,-] +p+ [E,G,B] +fff+ E,- |
++p+ [E,-B] E,- [E,-B] E,- [E,-B] E,- [E,-B] E, |
++fff+ [E,-A,-E-B] [E,-A,E-] [E,-G,E-B] [E,-A,-E-] +p+ [E,-A,-EB] +fff+ [E,-A,^F] [E,-B,GB] [E,-G,-A-] |
++p+ [E,G,AB] +fff+ [E,-G-] +p+ [E,-GB] +fff+ [E,-^F-] +p+ [E,-FB] +fff+ [E,E-] [E,-EB] [E,-B,G-] |
+[E,-A,G-B] [E,-G,-G] [E,-G,-B,B] [E,-G,A,] [E,-G,B] [E,-G,-] +p+ [E,G,B] +fff+ E,- |
+% Bar 70 (2:01)
++mp+ [E,-Bg-] [E,-g] [E,-Be-] [E,-e] +p+ [E,2-B2] +mp+ [E,-A-B] [E,A] |
+[E,8G8B8] |
+z8 |]
+
+X: 13
+%%Orig filename was Eleanor3Sprightly.abc
+%abc-2.1
+%%song-title       Eleanor Rigby
+%%song-composer    The Beatles
+%%song-duration    2:04
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+
+T: Eleanor Rigby (2:04) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+C: The Beatles
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 136
+K: C maj
+
++fff+ [G,C-E-] [G,-CE-] [G,/-B,/C/-E/-] [G,/-C/-E/-] [C,-G,-CE-] +p+ [C,-G,CE] +fff+ [C,-A,D^F] [C,-B,CEG] [C,-CF-A-] |
++p+ [C,-C^FA] +fff+ [C,-CE-G-] +p+ [C,-CEG] +fff+ [C,-G,-B,-F-] +p+ [C,-G,B,CF] +fff+ [C,-G,-E-] +p+ [C,-G,CE] +fff+ [C,G,-B,] |
+[G,A,B,-] [E,-G,-B,] +mf+ [E,/-G,/-B,/-] [E,/-G,/A,/B,/] +fff+ [E,G,] [E,-B,] E,- +p+ [E,-B,] E,- |
+[E,-B,] E,- [E,-B,] E,- [E,-B,] E,- [E,-B,] E, |
++fff+ [G,C-E-] [G,-CE-] [E,G,-C-E-] [C,-G,-CE-] +p+ [C,-G,CE] +fff+ [C,-A,D^F] [C,-B,CEG] [C,-CF-A-] |
++p+ [C,-C^FA] +fff+ [C,-CE-G-] +p+ [C,-CEG] +fff+ [C,-G,-B,-F-] +p+ [C,-G,B,CF] +fff+ [C,-G,-E-] +p+ [C,-G,CE] +fff+ [C,G,-B,] |
+[G,A,B,] [E,-G,B,] [E,G,-B,] [E,-G,] +p+ [E,-B,] E,- [E,-B,] E,- |
+[E,-B,] E,- [E,-B,] E,- [E,-B,] E,- [E,-B,] E, |
++fff+ [E,A,B,] A, [E,B,] G,- +mf+ [E,G,B,] +fff+ E, +mf+ [E,B,] z |
+% Bar 10 (0:15)
++fff+ [E,G,B,] A, [E,B,] D- +mf+ [E,B,D] +fff+ ^C [E,B,] C- |
++mf+ [E,B,^C] +fff+ B, [E,A,B,] B, +mf+ [E,B,] +fff+ A, [E,G,B,] A,- |
+[C,A,-C] A, [G,C] z +p+ C z +fff+ [G,C] z |
+[C,G,C] A, [C,B,C] C- +mf+ [E,B,C] +fff+ B, +mf+ [E,B,] z |
++fff+ [E,/-A,/-B,/] [E,/A,/] [A,/-B,/] A,/ +mf+ [E,B,] +fff+ [G,/-B,/] G,/- +mf+ [E,/-G,/-B,/] [E,/G,/] +fff+ [E,/-B,/] E,/ +mf+ [E,/-B,/] E,/ +p+ B,/ z/ |
++fff+ [E,/-G,/-B,/] [E,/G,/] [A,/-B,/] A,/ +mf+ [E,B,] +fff+ [B,/D/-] D/- +mf+ [E,/-B,/D/-] [E,/D/] +fff+ [B,/^C/-] C/ +mf+ [E,B,] +fff+ [B,/C/-] C/- |
++mf+ [E,/-B,/^C/-] [E,/C/] +p+ B, +fff+ [E,/-A,/-B,/] [E,/A,/] +p+ B, +mf+ [E,B,] +fff+ [A,/-B,/] A,/ [E,/-G,/-B,/] [E,/G,/] [A,/-B,/] A,/- |
++mf+ [C,/-A,/-C/] [C,/A,/-] +p+ [A,/-C/] A,/- +mf+ [C,/-A,/-C/] [C,/A,/-] +p+ [A,/-C/] A,/ +mf+ [C,/-C/] C,/ +p+ C/ z/ +mf+ [C,/-C/] C,/ +p+ C/ z/ |
++fff+ [C,/-G,/-C/] [C,/G,/] [A,/-C/] A,/ [D,/-B,/-C/] [D,/B,/] +p+ C- +mf+ [E,/-B,/C/-] [E,/C/] +p+ B, +mf+ [E,/-B,/] E,/ +p+ B,/ z/ |
++fff+ [A,-D-E] [A,D-] [G,D-E] [A,-D-] +p+ [A,-D-E] [A,D-] +fff+ [B,D-E] [G,-D] |
+% Bar 20 (0:33)
++mf+ [G,^C-E] +fff+ [E,-C-] +p+ [E,-C-E] [E,C-] [C-E] C- +fff+ [E,C-E] [CE] |
++mf+ [C2-E2] +fff+ [B,C-E] [A,C-] [G,C-E] [G,-C-] +p+ [G,C-E] +fff+ [E,C] |
++mf+ [B,-E] B,- +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++fff+ [A,-D-E] [A,D-] [G,D-E] [A,-D-] +p+ [A,-D-E] [A,D-] +fff+ [B,D-E] [G,-D] |
++mf+ [G,^C-E] +fff+ [E,-C-] +p+ [E,-C-E] [E,C-] [C-E] C- +fff+ [E,C-E] [CG-] |
++mf+ [C-EG-] [C-G] +fff+ [B,C-E] [A,C-] [G,C-E] [G,-C-] +p+ [G,C-E] +fff+ [E,-C] |
++mf+ [E,-B,-E] [E,B,-] +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++fff+ [E,A,B,] A, [E,B,] G,- +mf+ [E,G,B,] +fff+ E, +mf+ [E,B,] z |
++fff+ [E,G,B,] A, [E,B,] D- +mf+ [E,B,D] +fff+ ^C [E,B,] C- |
++mf+ [E,B,^C] +fff+ B, [E,A,B,] B, +mf+ [E,B,] +fff+ A, [E,G,B,] A,- |
+% Bar 30 (0:51)
++ff+ [C,/A,/-C/-] [A,/-C/] [D,/A,/-] A,/ [E,/C/-] C/ ^F,/ z/ [G,/C/-] C/ A,/ z/ [B,/C/-] C/ +fff+ [C,-G,] |
+[C,-G,C] [C,-A,] [C,B,C] [E,-C-] +p+ [E,-B,C] +fff+ [E,-B,] +p+ [E,-B,] E, |
++fff+ [E,A,B,] A, [E,B,] G,- +mf+ [E,G,B,] +fff+ E, +mf+ [E,B,] z |
++fff+ [E,G,B,] A, [E,B,] D- +mf+ [E,B,D] +fff+ ^C [E,B,] C- |
++mf+ [E,B,^C] +fff+ B, [E,A,B,] B, +mf+ [E,B,] +fff+ A, [E,G,B,] A,- |
++ff+ [C,/A,/-C/-] [A,/-C/] [D,/A,/-] A,/- [E,/A,/-C/-] [A,/-C/] [^F,/A,/-] A,/ [G,/C/-] C/ A,/ z/ [B,/C/-] C/ C,- |
++fff+ [C,-G,C] [C,-A,] [C,B,C] [E,-C-] +p+ [E,-B,C] +fff+ [E,-B,] +p+ [E,-B,] E, |
++fff+ [A,-D-E] [A,D-] [G,D-E] [A,-D-] +p+ [A,-D-E] [A,D-] +fff+ [B,D-E] [G,-D] |
++ff+ [G,^C-E] +fff+ [E,-C-] +p+ [E,-C-E] [E,C-] [C-E] C- +fff+ [E,C-E] [CE] |
++ff+ [C2-E2] +fff+ [B,C-E] [A,C-] [G,C-E] [G,-C-] +p+ [G,C-E] +fff+ [E,C] |
+% Bar 40 (1:08)
++ff+ [B,-E] B,- +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++fff+ [A,-D-E] [A,D-] [G,D-E] [A,-D-] +p+ [A,-D-E] [A,D-] +fff+ [B,D-E] [G,-D] |
++ff+ [G,^C-E] +fff+ [E,-C-] +p+ [E,-C-E] [E,C-] [C-E] C- +fff+ [E,C-E] [CG-] |
++ff+ [C-EG-] [C-G] +fff+ [B,C-E] [A,C-] [G,C-E] [G,-C-] +p+ [G,C-E] +fff+ [E,-C] |
++ff+ [E,-B,-E] [E,B,-] +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++fff+ [G,C-E-] [G,-CE-] [G,/-B,/C/-E/-] [G,/-C/-E/-] [C,-G,-CE-] +p+ [C,-G,CE] +fff+ [C,-A,D^F] [C,-B,CEG] [C,-CF-A-] |
++p+ [C,-C^FA] +fff+ [C,-CE-G-] +p+ [C,-CEG] +fff+ [C,-G,-B,-F-] +p+ [C,-G,B,CF] +fff+ [C,-G,-E-] +p+ [C,-G,CE] +fff+ [C,G,-B,] |
+[G,A,B,-] [E,-G,-B,] [E,/-G,/-B,/-] [E,/-G,/A,/B,/] [E,G,] [E,-B,] E,- +p+ [E,-B,] E,- |
+[E,-B,] E,- [E,-B,] E,- [E,-B,] E,- [E,-B,] E, |
++fff+ [G,C-E-] [G,-CE-] [E,/G,/-C/-E/-] [G,/-C/-E/-] [C,-G,-CE-] +p+ [C,-G,CE] +fff+ [C,-A,D^F] [C,-B,CEG] [C,-CF-A-] |
+% Bar 50 (1:26)
++p+ [C,-C^FA] +fff+ [C,-CE-G-] +p+ [C,-CEG] +fff+ [C,-G,-B,-F-] +p+ [C,-G,B,CF] +fff+ [C,-G,-E-] +p+ [C,-G,CE] +fff+ [C,G,-B,] |
+[G,A,B,] [E,/-G,/-B,/] [E,/-G,/] [E,G,-B,] [E,-G,] +p+ [E,-B,] E,- [E,-B,] E,- |
+[E,-B,] E,- [E,-B,] E,- [E,-B,] E,- [E,-B,] E, |
++fff+ [E,A,] A, [E,B,] G,- +mf+ [E,G,] +fff+ E, +mf+ E, z |
++fff+ [E,G,] A, [E,B,] [D-B-] +mf+ [E,DB-] +fff+ [^CB-] [E,B,B] [C-A-] |
++mf+ [E,^CA-] +fff+ [B,A-] [E,A,A] [B,-G-] +mf+ [E,B,G-] +fff+ [A,G-] [E,G,G] [A,-A-] |
++mf+ [E,A,-A-] [A,A-] [E,A-] A- [E,A-] A- [E,A-] A- |
++fff+ [C,G,A-] [A,A-] [C,B,A-] [C-A-] +mf+ [E,CA-] +fff+ [B,A-] +mf+ [E,A-] A |
++fff+ [A,G] A, [B,G] G,- +mp+ [G,G] +fff+ [E,/-B,/] E,/ [E,/G/-] G/ ^F,/ z/ |
+[G,G] A, [B,G] D- +mp+ [DG] +fff+ ^C [B,G] C- |
+% Bar 60 (1:44)
++mp+ [^CG] +fff+ B, [A,G] B,- +mp+ [B,G] +fff+ A, [G,G] A,- |
++mp+ [A,-E] A,- [A,-E] A,- [A,E] +f+ E, [A,E] E, |
++fff+ [G,A,E] A,- [A,-B,E] [A,C-] +f+ [E,-CG] +fff+ [E,-B,] +mp+ [E,-G] E, |
++fff+ [A,2D2-E2] [G,D-E-] [A,-D-E] +p+ [A,-D-E] +fff+ [A,D-^F] [B,D-EG] [G,-DA-] |
++mf+ [G,^C-EA] +fff+ [E,-C-G-] +p+ [E,-C-EG] +fff+ [E,C-^F-] +p+ [C-EF] +fff+ [C-E] [E,C-E] [B,CE] |
+[A,C-E-] [G,-C-E] [G,-B,C-E] [G,A,C-] [G,C-E] [G,-C-] +p+ [G,C-E] +fff+ [E,C] |
++mf+ [B,-E] B,- +p+ [B,-E] B,- [B,-E] B,- [B,-E] B, |
++fff+ [A,2D2-E2] [G,D-E-] [A,-D-E] +p+ [A,-D-E] +fff+ [A,D-^F] [B,D-EG] [G,-DA-] |
++mf+ [G,^C-EA] +fff+ [E,-C-G-] +p+ [E,-C-EG] +fff+ [E,C-^F-] +p+ [C-EF] +fff+ [C-E] [E,C-E] [B,CG-] |
+[A,C-EG-] [G,-C-G] [G,-B,C-E] [G,A,C-] [G,C-E] [G,-C-] +p+ [G,C-E] +fff+ [E,C] |
+% Bar 70 (2:01)
++mf+ [E,-E] E, [B,-E] B, [G,-E] G, [^F,-E] F, |
+[E,8E8] |
+z8 |]
+
+X: 14
+%%Orig filename was Eleanor3Travellers.abc
+%abc-2.1
+%%song-title       Eleanor Rigby
+%%song-composer    The Beatles
+%%song-duration    2:04
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+
+T: Eleanor Rigby (2:04) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+C: The Beatles
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 136
+K: C maj
+
++mp+ [G,G-] +fff+ [G,/G/-] G/- [G,/-B,/G/-] [G,/G/-] [C,-G-] +mp+ [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] |
+[C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,G-] |
++mf+ [G,B,-G-] [B,G-] [G,/-B,/G/-] [G,/A,/G/-] +fff+ [G,G-] [E,-G,G-] [E,-G] +mp+ [E,-G,A] +p+ [E,-B] |
++mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,^F] +p+ [E,-B] +mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,E] +p+ [E,B] |
++mp+ [G,G-] +fff+ [G,G-] [E,G,G-] [C,-G-] +mp+ [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] |
+[C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,G-] |
+[G,G-] +fff+ [B,G-] +mp+ [G,G-] +fff+ [E,-G-] +mp+ [E,-G,G-] [E,-G] [E,-G,A] +p+ [E,-B] |
++mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,^F] +p+ [E,-B] +mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,E] +p+ [E,B] |
++mf+ [E,G,E] z [E,G,E] z [E,G,E] z [E,G,E] z |
+% Bar 10 (0:15)
+[E,G,E] z [E,G,E] z [E,G,E] z [E,G,E] z |
+[D,G,E] z [E,G,E] z [E,G,E] z [E,G,E] z |
++fff+ [C,G,E] z +mp+ [G,E] z +fff+ [C,G,E] z +mp+ [G,E] z |
++mf+ [C,G,E] z [C,G,E] z [E,G,E] z [E,G,E] z |
+[E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ |
++mf+ [E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ |
++mf+ [E,E] +p+ E/ z/ +mf+ [E,E] +p+ E/ z/ +mf+ [D,E] +p+ E/ z/ +mf+ [D,E] +p+ E/ z/ |
++f+ [C,/-E/] C,/ +p+ E/ z/ +f+ [C,/-G,/-E/] [C,/G,/] +p+ E/ z/ +f+ [C,/-C/-E/] [C,/C/] +p+ E/ z/ +f+ [C,/-G,/-E/] [C,/G,/] +p+ E/ z/ |
++mf+ [C,/-C/-E/] [C,/C/] +p+ E/ z/ +mf+ [D,/-C/-E/] [D,/C/] +p+ E/ z/ +mf+ [E,/-C/-E/] [E,/C/] +p+ E/ z/ +mf+ [E,/-C/-E/] [E,/C/] +p+ E/ z/ |
++mf+ [E,-D-G] [E,-D-] +p+ [E,-D-G] [E,-D-] [E,-D-G] [E,-D-] [E,-D-G] [E,-D] |
+% Bar 20 (0:33)
++mp+ [E,-^C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,-C] |
++mp+ [E,-C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,C] |
++mp+ [B,-G] B,- +p+ [B,-G] B,- [B,-G] B,- [B,-G] B, |
++mf+ [E,-D-G] [E,-D-] +p+ [E,-D-G] [E,-D-] [E,-D-G] [E,-D-] [E,-D-G] [E,-D] |
++mp+ [E,-^C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,-C] |
++mp+ [E,-C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,C] |
++mp+ [B,-G] B,- +p+ [B,-G] B,- [B,-G] B,- [B,-G] B, |
++mf+ [E,G,E] z [E,G,E] z [E,G,E] z [E,G,E] z |
+[E,G,E] z [E,G,E] z [E,G,E] z [E,G,E] z |
+[E,G,E] z [E,G,E] z [E,G,E] z [E,G,E] z |
+% Bar 30 (0:51)
++ff+ [C,/G,/-E/-] [G,/E/] D,/ z/ [E,/G,/-E/-] [G,/E/] ^F,/ z/ [G,E] A,/ z/ [G,/-B,/E/-] [G,/E/] +fff+ C,- |
++mp+ [C,-G,E] C,- [C,G,E] +ff+ E,- +mp+ [E,-G,E] E,- [E,-G,E] E, |
++mf+ [E,E] z [E,E] z [E,E] B,/ z/ [E,E] ^F/ z/ |
+[E,G-] G- [E,G] +p+ ^F- +mf+ [E,F-] F- [E,F] +p+ E- |
++mf+ [E,E-] E- [E,E] +p+ D- +mf+ [E,D-] D- [E,D] +p+ E- |
++ff+ [C,/E/-] E/- [D,/E/-] E/- [E,/E/-] E/- [^F,/E/-] E/- [G,/E/-] E/- [A,/E/-] E/- [B,/E/-] E/- [C,-E] |
++p+ [C,-E] [C,-^F] [C,G-] +fff+ [E,-G-] [E,4G4] |
++ff+ [E,-D-G] [E,-D-] +p+ [E,-D-G] [E,-D-] [E,-D-G] [E,-D-] [E,-D-G] [E,-D] |
++mp+ [E,-^C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,-C] |
++mp+ [E,-C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,C] |
+% Bar 40 (1:08)
++mp+ [B,-G] B,- +p+ [B,-G] B,- [B,-G] B,- [B,-G] B, |
++ff+ [E,-D-G] [E,-D-] +p+ [E,-D-G] [E,-D-] [E,-D-G] [E,-D-] [E,-D-G] [E,-D] |
++mp+ [E,-^C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,-C] |
++mp+ [E,-C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,C] |
++mp+ [B,-G] B,- +p+ [B,-G] B,- [B,-G] B,- [B,-G] B, |
++mp+ [G,G-] +fff+ [G,/G/-] G/- [G,/-B,/G/-] [G,/G/-] [C,-G-] +mp+ [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] |
+[C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,G-] |
++mf+ [G,B,-G-] [B,G-] +fff+ [G,/-B,/G/-] [G,/A,/G/-] [G,G-] [E,-G,G-] [E,-G] +mp+ [E,-G,A] +p+ [E,-B] |
++mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,^F] +p+ [E,-B] +mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,E] +p+ [E,B] |
++mp+ [G,G-] +fff+ [G,/G/-] G/- [E,/G,/-G/-] [G,/G/-] [C,-G-] +mp+ [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] |
+% Bar 50 (1:26)
+[C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,-G-] [C,-G,G-] [C,G-] |
+[G,G-] +fff+ [B,/G/-] G/- [G,G-] [E,-G-] +mp+ [E,-G,G-] [E,-G] [E,-G,A] +p+ [E,-B] |
++mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,^F] +p+ [E,-B] +mp+ [E,-G,G] +p+ [E,-B] +mp+ [E,-G,E] +p+ [E,B] |
++f+ [E,e-] [B,/e/-] e/- [E,/-E/e/-] [E,/e/-] [E,/e/-] e/- [E,/-B,/e/-] [E,/e/-] [E/e/-] e/- [E,e-] [B,/e/-] e/- |
+[E,e-] [B,/e/-] e/- [E,/-E/e/-] [E,/e/-] [E,/e/-] e/- [E,/-B,/e/-] [E,/e/-] [E/e/-] e/- [E,e-] [B,/e/-] e/- |
+[E,e-] [B,/e/-] e/- [E,/-E/e/-] [E,/e/-] [E,/e/-] e/- [E,/-B,/e/-] [E,/e/-] [E/e/-] e/- [E,e-] [B,/e/-] e/ |
+[C,/E,/-] E,/ E,/ z/ [D,/E,/-] E,/ E,/ z/ [E,/-A,/] E,/ E,/ z/ [C,/E,/-] E,/ E,/ z/ |
+C, E,/ z/ C, A,/ z/ [E,/-E/] E,/ B,/ z/ E, B,/ z/ |
++mf+ [Ee] z [Ee] z [Ee] +fff+ B,/ z/ [E,/E/-e/-] [E/e/] ^F,/ z/ |
++f+ [G,Ee] A, [B,Ee] +fff+ D- +mf+ [DEe] +f+ ^C [B,Ee] +fff+ C- |
+% Bar 60 (1:44)
++mf+ [^CEe] +f+ B, [A,Ee] B,- +mf+ [B,Ee] +f+ A, [G,Ee] +fff+ A,- |
++mf+ [A,-Cc] A,- [A,-Cc] A,- [A,Cc] +f+ E, [A,Cc] E, |
+[A,-Cc] A,- +mf+ [A,-Cc] A, +f+ [E,-Ee] E,- +mf+ [E,-Ee] E, |
+[E,-D-G] [E,-D-] +p+ [E,-D-G] [E,-D-] [E,-D-G] [E,-D-] [E,-D-G] [E,-D] |
++mp+ [E,-^C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,-C] |
++mp+ [E,-C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,C] |
++mp+ [B,-G] B,- +p+ [B,-G] B,- [B,-G] B,- [B,-G] B, |
++mf+ [E,-D-G] [E,-D-] +p+ [E,-D-G] [E,-D-] [E,-D-G] [E,-D-] [E,-D-G] [E,-D] |
++mp+ [E,-^C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,-C] |
++mp+ [E,-C-G] [E,-C-] +p+ [E,-C-G] [E,-C-] [E,-C-G] [E,-C-] [E,-C-G] [E,C] |
+% Bar 70 (2:01)
++mf+ [E,-B,-G] [E,B,] [B,-G] B,- [G,-B,-G] [G,B,-] [^F,-B,-G] [F,B,] |
+[E,8B,8G8] |
+z8 |]
+

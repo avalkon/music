@@ -1,0 +1,120 @@
+N: TS  4,  20  10   4  18
+X: 20
+%%Orig filename was AttackTeam__Cowbell2.abc
+T:1-11-attack team01 (1:04)
+%%part-name Basic Cowbell
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:1-11-attack_team01.mid
+%  Transpose:-2
+L:1/4
+Q:120
+K:C
+c'5/4 g9/8 c5/4 z16 z11/2 c' g c9/8 z27/2 c' g9/8 c z16 z57/4 c'9/8 g
+c z109/8 c' g c9/8 z16 z57/4 c' g9/8 c
+
+X: 10
+%%Orig filename was AttackTeam__Drums3.abc
+T:1-11-attack team01 (1:11)
+%%part-name Basic Drum
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:1-11-attack_team01.mid
+%  Transpose:0
+L:1/4
+Q:120
+K:C
+[^C35/8E35/8] z81/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/4 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/4 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,5/8 D,/2 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z9/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/4 D,/2 D,/2 z/2 D,/8 D,/4 D,/8 [D,/2^C7/8E7/8]
+D,5/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z9/8 D,/2
+D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,5/8 z/2 D,/8 D,/4
+D,/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/4 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z
+D,5/8 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z5/8
+D,/8 D,/4 D,/8 [D,/2^C7/8E7/8] D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,5/8 D,/2 z D,/2 D,5/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/2 D,/2 z/2 D,/8 D,3/8 D,/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/2 D,5/8 z D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/4 D,/8
+D,/8 D,/8 D,/2 D,/2 z/2 D,/8 D,/4 D,/8 D,5/8 D,/2 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z9/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,5/8 D,/2 z/2 D,/8 D,/4 D,/8 D,/2 D,/2 D,/4 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z9/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/2 D,5/8 z/2 D,/8 D,/4 D,/8 [D,/2^C7/8E7/8]
+D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/4 D,/8 D,/8 D,/2 D,/2 z D,/2 D,5/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z5/8 D,/8 D,/4 D,/8
+D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,5/8 D,/2 z D,/2
+D,/2 D,/8 D,/4 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z/2 D,/8 D,/4
+D,/8 [D,5/8^C7/8E7/8] D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/2 D,5/8 z D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/4 D,/8 D,/2
+D,/2 z/2 D,/8 D,/4 D,/8 D,/2 D,5/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/2 D,/2 z9/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,5/8 D,/2 z/2 D,/8 D,/4 D,/8 D,/2 D,/2 D,/8 D,/8 D,/4 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/2 D,/2 z D,5/8 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/2 D,/2 z5/8 D,/8 D,/4 D,/8 D,/2 D,/2 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/4 D,/2 D,/2 z D,/2 D,5/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+D,/8 D,/8 D,/2 D,/2 z/2 D,/8 D,3/8 D,/8 [D,/2^C7/8E7/8] D,/2 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,5/8 z D,/2 D,/2 D,/8 D,/8
+D,/8 D,/4 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z/2 D,/8 D,/4 D,/8 D,5/8 D,/2
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/2 D,/2 z9/8 D,/2 D,/2 D,/8
+D,/8 D,/8 D,/8 D,/8 D,/8 D,/8 D,/8
+
+X: 4
+%%Orig filename was AttackTeam__Horn4.abc
+T:1-11-attack team01 (1:11)
+%%part-name Basic Horn
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:1-11-attack_team01.mid
+%  Transpose:0
+L:1/4
+Q:120
+K:C
++ppp+ D,16 D,21/8 z/8 [D,16D5/8d5/8A5/8] [D/2d/2A/2] z/2 [D/2A/2]
+[D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2 [D/2A/2] z/8
+[D/2d/2A/2] [D/2d/2A/2] z [D/2d/2A/2] [D/2d/2A/2] z5/8 [D/2A/2]
+[D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2 [D/2A/2]
+[D/2d/2A/2] [D5/8d5/8A5/8] z/4 [D,16z3/4] [D/2d/2A/2] [D/2d/2A/2]
+z5/8 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z [D/2d/2A/2] z/8 [D/2d/2A/2]
+z/2 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2
+[D/2A/2] [D5/8d5/8A5/8] [D/2d/2A/2] z [D/2d/2A/2] [D/2d/2A/2] z5/8
+[D/2A/2] [D/2d/2A/2] [D/2d/2A/2z/8] [D,16z3/2] [D/2d/2A/2]
+[D/2d/2A/2] z/2 [D/2A/2] [D/2d/2A/2] [D5/8d5/8A5/8] z [D/2d/2A/2]
+[D/2d/2A/2] z/2 [D5/8A5/8] [D/2d/2A/2] [D/2d/2A/2] z [D/2d/2A/2] z/8
+[D/2d/2A/2] z/2 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2]
+[D/2d/2A/2] z/2 [D/2A/2] [D5/8d5/8D,17/8A5/8] [D/2d/2A/2] z
+[D,111/8D/2d/2A/2] [D/2d/2A/2] z5/8 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2]
+z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2]
+z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2 [D5/8A5/8] [D/2d/2A/2] [D/2d/2A/2] z
+[D/2d/2A/2] [D5/8d5/8A5/8] z/4 [D,17/8z/4] [D/2A/2] [D/2d/2A/2]
+[D/2d/2A/2] z3/8 [D,111/8z3/4] [D/2d/2A/2] [D/2d/2A/2] z/2 [D/2A/2]
+[D/2d/2A/2] z/8 [D/2d/2A/2] z [D/2d/2A/2] [D/2d/2A/2] z5/8 [D/2A/2]
+[D/2d/2A/2] [D/2d/2A/2] z [D5/8d5/8A5/8] [D/2d/2A/2] z/2 [D/2A/2]
+[D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2] [D/2d/2A/2z/8] [D,17/8z7/8]
+[D/2A/2] z/8 [D/2d/2A/2] [D/2d/2A/2z/8] [D,111/8z11/8] [D/2d/2A/2]
+[D5/8d5/8A5/8] z/2 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2]
+[D/2d/2A/2] z/2 [D/2A/2] [D/2d/2A/2] z/8 [D/2d/2A/2] z [D/2d/2A/2]
+[D/2d/2A/2] z5/8 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z
+[D5/8D,17/8d5/8A5/8] [D/2d/2A/2] z/2 [D/2A/2] [D/2D,111/8d/2A/2]
+[D/2d/2A/2] z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2 [D/2A/2] z/8 [D/2d/2A/2]
+[D/2d/2A/2] z [D/2d/2A/2] [D/2d/2A/2] z5/8 [D/2A/2] [D/2d/2A/2]
+[D/2d/2A/2] z9/8 [D/2d/2A/2] [D/2d/2A/2] z/2 [D/2A/2] [D/2d/2A/2]
+[D5/8d5/8A5/8] z/4 [D,17/8z3/4] [D/2d/2A/2] [D/2d/2A/2] z3/8
+[D,81/8z/4] [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z [D/2d/2A/2] z/8
+[D/2d/2A/2] z/2 [D/2A/2] [D/2d/2A/2] [D/2d/2A/2] z9/8 [D/2d/2A/2]
+[D/2d/2A/2] z/2 A/2 A5/8
+
+X: 18
+%%Orig filename was AttackTeam__Pipes1.abc
+T:1-11-attack team01 (1:11)
+%%part-name Basic Bagpipe
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:1-11-attack_team01.mid
+%  Transpose:0
+L:1/4
+Q:120
+K:C
+z16 z89/8 d9/8 e/2 A/2 a25/8 g/2 ^f/2 e9/8 d/2 e/2 ^f15/8 d/4 A33/8
+z17/8 d e/2 A/2 a13/4 g/2 ^f/2 e d/2 e5/8 ^f7/4 a/4 a17/4 z16 z11/4 d
+e/2 A5/8 a25/8 g/2 ^f/2 e d5/8 e/2 ^f7/4 d/4 A17/4 z2 d9/8 e/2 A/2
+a25/8 g/2 ^f5/8 e d/2 e/2 ^f15/8 a/4 a33/8 z16 z23/8 d e/2 A/2 a25/8
+g5/8 ^f/2 e d/2 e/2 ^f15/8 d/4 A33/8
+

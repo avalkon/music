@@ -1,0 +1,49 @@
+N: TS  2,   5   8
+X: 5
+%%Orig filename was MistyMountainCold__Harp2.abc
+T:Misty Mountain Cold (0:48)
+%%part-name Basic Harp
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:Misty Mountain Cold.mid
+%  Transpose:0
+L:1/4
+Q:70
+K:C
+[G/2d2^AG,4] [G2z/2] [^A2z] [d2z/2] [G3/2z/2] ^A [G/2d2^AG,4] [G2z/2]
+[^A2z] [d2z/2] [G3/2z/2] [D/2^A] F/2 [G/2G,2d2^A] [G3/2z/2] ^A/2 ^A/2
+[c3/4F,2F/2=A] [d/4F3/2] [c5/4z/4] [^A/2=A/2] A/2 [G/2G,4^Ad2]
+[G2z/2] [^A2z] [d2z/2] [D/2G/2] [G^Az/2] =A/2 [AF,4F/2c2] [F2z/2]
+[A2z] [cz/2] [^A/2F3/2] [c=A3/4z/2] ^A/4 =A/4 [G/2G,4^Ad2] [G2z/2]
+[^A2z] [d2z/2] [D/2G3/2] [D/2^A] F/2 [G/2G,2d2^A] [G3/2z/2] ^A
+[^A/2F,2F/2=Ac/2] [c3/2Fz/4] ^A/4 [=Az/2] F/2 [G/2G,4^Ad2] [G2z/2]
+[^A2z] [d2z/2] [D/2G/2] [G^Az/2] =A/2 [A/2F,4F/2c2] [A/2F2] [A2z]
+[^A/2c/2] [c3/2F3/2z/4] ^A/4 [=Az/2] G/2 [A/2A,2ce2] [A3/2z/2] c
+[^A,2^A/2df2] [^A3/2z/2] [c/2d] =A/2 [d2G/2^AG,4] [G2z/2] [^A3/2z]
+[d2z/2] [^A/2G3/2] [c3/4^A3/4] ^A/4 [=A2D/2Fd4] [D2z/2] [F2z]
+[A3/2z/2] [D3/2z/2] [Fz/2] A/2 [^A/2^A,2f2d] [^A3/2z/2] d
+[=A,2=A/2ce2] A/2 [Acz3/4] F/4 [G/2G,4^Ad3/2] [G7/2z/2] [^A3z/2]
+[d5/2z/2] g2
+
+X: 8
+%%Orig filename was MistyMountainCold__Theorbo1.abc
+T:Misty Mountain Cold (0:48)
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:Misty Mountain Cold.mid
+%  Transpose:0
+L:1/4
+Q:70
+%%part-name Basic Theorbo
+K:C
+[d/2G,3/2] G/2 ^A/2 [D/2G,/2] [d/2G,2] G/2 ^A/2 D/2 [d/2G,3/2] G/2
+^A/2 [D/2G,/2] [d/2G,2] G/2 ^A/2 D/2 [d/2G,3/2] G/2 ^A/2 [D/2G,/2]
+[c/2F,3/2] F/2 =A/2 [C/2F,/2] [d/2G,3/2] G/2 ^A/2 [D/2G,/2] [d/2G,2]
+G/2 ^A/2 D/2 [c/2F,3/2] F/2 =A/2 [C/2F,/2] [c/2F,2] F/2 A/2 C/2
+[d/2G,3/2] G/2 ^A/2 [D/2G,/2] [d/2G,2] G/2 ^A/2 D/2 [d/2G,3/2] G/2
+^A/2 [D/2G,/2] [c/2F,3/2] F/2 =A/2 [C/2F,/2] [d/2G,3/2] G/2 ^A/2
+[D/2G,/2] [d/2G,2] G/2 ^A/2 D/2 [c/2F,3/2] F/2 =A/2 [C/2F,/2]
+[c/2F,2] F/2 A/2 C/2 [e/2A,3/2] A/2 c/2 [E/2A,/2] [f/2^A,3/2] ^A/2
+d/2 [F/2^A,/2] [d/2G/2] [Gz/2] ^A/2 [D/2G/2] [d/2G/2] [G3/2z/2] ^A/2
+D/2 [=A/2D/2] [Dz/2] F/2 [=A,/2D/2] [A/2D/2] [D3/2z/2] F/2 A,/2
+[f/2^A,3/2] ^A/2 d/2 [F/2^A,/2] [e/2=A,3/2] =A/2 c/2 [E/2A,/2]
+[d/2G,2] G/2 ^A/2 D/2 G,2
+

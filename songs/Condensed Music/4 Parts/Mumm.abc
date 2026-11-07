@@ -1,0 +1,193 @@
+N: TS  4,   8   1  21  18
+X: 8
+%%Orig filename was MummBass.abc
+T: Mummer's Dance (theor) (3:24)
+C: 
+N:Loreena McKennitt     
+Q:1/4=130    
+M:4/4    
+L:1/8     
+%%part-name Basic Theorbo
+K:C
+z4 | z8 |
+z8 | D,3 D, z2 C D | D,3 D, G,4 | D3 D z2 C D | D,3 D F,F,G,A, | D,3 D, z2 C D |
+	%bar8 
+D,3 D, z2 A, C, | D,3 D z2 C D | D3 D z4 | D,3 D, z2 C D | D,3 D, G,4 | D3 D z2 C D |
+	%bar14 
+D,3 D F,F,G,A, | D,3 D, z2 C D | D,3 D, z2 A, C, | D,3 D z2 C D | D,3 D, z4 | D,3 D, z2 C D |
+	%bar20
+D,3 D, G,4 | D3 D z2 C D | D,3 D F,F,G,A, | D,3 D, z2 C D | D,3 D, z2 A, C, | D,2 z6 |
+	%bar26
+z8 | D,4 D,4 | D,3 D,2 D,2 A, | G,2 G,6 | D,4 D,4 | D,2 D,3 D, D,2 |
+	%bar32 
+D,4 D,4 | G,4 G,2 G, A, | D, D,2 D,4 D,- | D,3 D, z4| D,3 D,2 z3 | D,3 D,2 z G, A, | 
+	%bar38
+D, D,2 D,2 z3 | D,3 D, z2 C D | D,3 D, G4 | D,3 D, z2 C D | D,3 D, z2 G2 | D,3 D, z2 C D | 
+	%bar44
+D,3 D, z2 A, C | D,3 D, z2 C D | D,3 D, z4 | D,3 D, z2 C D | D,3 D, G,4 | D3 D z2 C D | 
+	%bar50
+D,3 D F,F,G,A, | D,3 D, z2 C D | D,3 D, z2 A, C, | D,2 z6 | z8 | D,4 D,2 D,2 | 
+	%56
+D,3 D,2 D,2 A, | G,2 G,6 | D,4 D,4 | D,2 D,3 D, D,2 | D,4 D,4 | G,4 G,2 G, A, | 
+	%62
+D, D,2 D,4 D,- | D,3 D, z4 | D,3 D,2 z3 | D,3 D,2 z G, A, |  D, D,2 D,2 z3 | D,3 D, z4 |
+	%68
+D,3 D,2 z3 | D,3 D,2 z G A | D, D,2 D,2 z3 | D,3 D, z2 C D | D,3 D, G,4 | D3 D z2 C D |
+	%74 
+D,3 D F,F,G,A, | D,3 D, z2 C D | D,3 D, z2 F, A, | D,3 D, z2 C D | D,3 D, z4 | z8 |
+	%80
+z8 | z8 |z8 |z8 |z8 |z8 |
+	%86
+z8 | z8 |z8 |z8 |z8 |z8 |
+	%92
+z8 |z8 |z8 | D,4 D,4 | D,4 D,4 | G2 G6 |
+D,4 D,4 | D,4 D,4 | D,4 D,4 | G4 G2 G A | D, D,2 D,4 D,- | D,3 D, z4 |
+D,3 D,2 z3 | D,3 D,2 z G A | D, D,2 D,2 z3 | D,3 D, z4 | D,3 D, z4 | z8 | z8 |]
+
+X: 1
+%%Orig filename was MummFlute.abc
+T: Mummer's Dance (Basic Flute) (3:24)
+%%part-name Basic Flute
+C: 
+N:Loreena McKennitt     
+Q:1/4=130
+M:4/4    
+L:1/8     
+K:C
+z4 | z8 |
+z8 | [D,8A,8] | [E,8C,8] | [E,8G,8A,8] | [A,8D,8] | [D,8F,8] |
+	%bar8 
+[G,6E,6] [C2E,2G,2] | [A,8D,8] | [A,8D,8] | [D,2-A,2-D2] [D,-A,-A] [D,3-A,3-A3] [D,-A,-D] [D,A,E] | [C,2-E,2-D2] [C,-E,-C] [C,3-E,3-C3] [C,-E,-C] [C,E,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] 
+[A,-E,-D] [A,2E,2D2-] | 
+	%bar14
+[D,7-A,7-D7] [D,A,D] | [D,2-F,2-D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | [E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [A,8D,8D8] | [D,2-F,2D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] |
+	%bar20
+[E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [A,7-D,7-D7] [A,D,D] | [D,2-F,2D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | [E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] |
+	%bar26
+[A,8D,8D8] | [D,2-A,2-D2A2] [D,-A,-d] [D,3-A,3-A3-d3] [D,-A,-Ad] [D,A,Ae] | [D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc][D,4-G,4-G4c4] [D,G,GB] | [D,-G,-Gc] [D,-G,-B][D,2-G,2-B2] [D,2-G,2-G2B2] [D,2G,2A2c2] | 
+[D,/^F,/B/] [D,/^F,/c/][D,/^F,/B/] [D,/^F,/A/D/][D,5-^F,5-A5D5] [D,^FD] | [D,2A,2D2A2] [D,-A,-d] [D,3-A,3-A3-d3] [D,-A,-Ad] [D,A,Ae] | 
+	%bar32
+[D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc][D,4-G,4-G4c4] [D,G,GB] | [D,-G,-Gc] [D,-G,-B][D,2-G,2-B2] [D,2-G,2-G2B2] [D,2G,2A2c2] | [D,/^F,/B/] [D,/^F,/c/][D,/^F,/B/] [D,/^F,/A/D/][D,2^F,2A2D2] [D,4F,4] | [D,8A,8] | [D,4F,4] [D,4E,4] | [A,8D8A8] 
+	%bar38
+[A,8D8A8] | [D,2-A,2-D2] [D,-A,-A] [D,3-A,3-A3] [D,-A,-D] [D,A,E] | [C,2-E,2-D2] [C,-E,-C] [C,3-E,3-C3] [C,-E,-C] [C,E,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [D,7-A,7-D7] [D,A,D] | [D,2-F,2-D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | 
+	%bar44
+[E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [A,8D,8D8] | [D,2-F,2D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | [E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | 
+	%bar50
+[A,7-D,7-D7] [A,D,D] | [D,2-F,2D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | [E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [A,8D,8D8] | [D,2-A,2-D2A2] [D,-A,-d] [D,3-A,3-A3-d3] [D,-A,-Ad] [D,A,Ae] | 
+	%56
+[D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc][D,4-G,4-G4c4] [D,G,GB] | [D,-G,-Gc] [D,-G,-B][D,2-G,2-B2] [D,2-G,2-G2B2] [D,2G,2A2c2] | [D,/^F,/B/] [D,/^F,/c/][D,/^F,/B/] [D,/^F,/A/D/][D,5-^F,5-A5D5] [D,^FD] | [D,2A,2D2A2] [D,-A,-d] [D,3-A,3-A3-d3] [D,-A,-Ad] [D,A,Ae] | [D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc][D,4-G,4-G4c4] [D,G,GB] | [D,-G,-Gc] [D,-G,-B][D,2-G,2-B2] [D,2-G,2-G2B2] [D,2G,2A2c2] | 
+	%62
+[D,/^F,/B/] [D,/^F,/c/][D,/^F,/B/] [D,/^F,/A/D/][D,2^F,2A2D2] [D,4F,4] | [D,8A,8] | [D,4F,4] [D,4E,4] | [A,8D8A8] | [A,8D8A8] | [A,8D8A8] | 
+	%68
+[D,4F,4] [D,4E,4] | [A,8D8A8] | [A,8D8A8] | [A,8D8A8] | [C,8E,8C8] | [A,8E,8G8] | 
+	%74
+[A,8D,8A8] | [D,8F,8F8] | [E,7G,7G7] [E,G,C] | [A,8D,8D8] | [A,8D,8D8] | [D,2-A,2-D2] [D,-A,-A] [D,3-A,3-A3] [D,-A,-D] [D,A,E] | 
+	%80
+[C,2-E,2-D2] [C,-E,-C] [C,3-E,3-C3] [C,-E,-C] [C,E,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [D,7-A,7-D7] [D,A,D] | [D,2-F,2-D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | [E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | 
+	%86
+[A,8D,8D8] | [D,2-F,2D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] |[E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [A,7-D,7-D7] [A,D,D] | [D,2-F,2D2] [D,-F,-A] [D,3-F,3-A3] [D,-F,-D] [D,F,E] | 
+	%92
+[E,2-G,2-D2] [E,-G,-C] [E,3-G,3-C3] [E,-G,-C] [E,G,D] | [A,/-E,/-E/][A,/-E,/-F/][A,-E,-E] [A,-E,-=E] [A,2-E,2-=E2] [A,-E,-D] [A,2E,2D2-] | [A,7D,7D7] [A,D,D] | [D,2-A,2-D2A2] [D,-A,-d] [D,3-A,3-A3-d3] [D,-A,-Ad] [D,A,Ae] | [D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc][D,4-G,4-G4c4] [D,G,GB] | [D,-G,-Gc] [D,-G,-B][D,2-G,2-B2] [D,2-G,2-G2B2] [D,2G,2A2c2] | 
+	%98
+[D,/^F,/B/] [D,/^F,/c/][D,/^F,/B/] [D,/^F,/A/D/][D,6^F,6A6D6] | [D,8A,8] |  [D,4F4] [D,4E4] | [D,8A,8] | [D,8A,8] | [D,8A,8] | 
+	%104
+[D,4F,4][D,4E,4] | [D,8A,8] | [D,8A,8] |[D,8A,8] | [D,4F,4][D,4E,4] | [D,8A,8] | [D,8A,8] |]
+
+X: 21
+%%Orig filename was MummLute.abc
+T: Mummer's Dance (Basic Lute) (3:24)
+%%part-name Basic Lute
+C: 
+N:Loreena McKennitt     
+Q:1/4=130 
+M:4/4    
+L:1/8     
+K:C
+z4 | z8 |
+z8 | CDDCDDCD | G2 [F/G/]F/DCD D2 | A,CCA,CCA,C | D3 EDC A,2 | CDDCDDCD | 
+	%8
+G2 [G/F/]F/ DCD D2 | [D,-D-A][D,DC] [D,D] D [D,D] C A [D,D] | [D,DA,] C [D,D] D [D,D] C A,2 | z8 | z8 | z8 |
+	%14
+z8 | z8 | z8 | z8 | z8 | z8 |
+	%20
+z8 | z8 | z8 | z8 | z8 | z8 |
+	%26
+z8 | [D2A2] [dA] [A3d3] [Ad] [eB] | [Ad] [Gc][Gc] [G4c4] [GB] | [Gc] B [B2G2-] [B2G2] [Ac] G | [B/G/] c/ B/ [A/D/] [^F6D6] | [D2A2] [dA] [A3d3] [Ad] [eB] |
+	%32
+[Ad] [Gc][Gc] [G4c4] [GB] | [Ad] [Gc][Gc] [G4c4] [GB] | [B/G/] c/ B/ [A/D/] [^F2D2] ^F G A B | A G G4 D E | [D4F4] [C4E4] |  [C,3/2C3/2] [D,/D/] [D,D] [D,D] [_E,/_E/] [=D,/=D/] [C,C] [D,D] [C,C] | 
+	%38
+z8 |  z8 | z8 | z8 | z8 | z8 |
+	%44
+z8 | z8 | z8 | z8 | z8 | z8 |
+	%50
+z8 | z8 | z8 | z8 | z8 | A2 A A3 A B | 
+	%56
+A G2 G4 G | G2 G4 A G | G2 ^F6 | A2 A A2 A2 B | A G2 G4 G | z2 G G2 A2 G | 
+	%62
+G ^F3 ^F G A B | A G G4 D E | [D4F4] [C4E4] | [C,3/2C3/2] [D,/D/] [D,D] [D,D] [_E,/_E/] [=D,/=D/] [C,C] [D,D] [C,C] |  z2 z ^F ^F G A B | A G G4 D E |
+	%68
+[D4F4] [C4E4] | [C,3/2C3/2] [D,/D/] [D,D] [D,D] [_E,/_E/] [=D,/=D/] [C,C] [D,D] [C,C] |  | z8 | CDDCDDCD | G2 [F/G/]F/DCD D2 | A,CCA,CCA,C | 
+	%74
+D3 EDC A,2 | CDDCDDCD | G2 [G/F/]F/ DCD D2 | [D,-D-A][D,DC] [D,D] D [D,D] C A [D,D] | [D,DA,] C [D,D] D [D,D] C A,2 | D2 A A3 D E | 
+	%80
+D2 C C3 C D | E/ F/ E E E2 D D2- | D7 D | D2 A A3 D E | D2 C C3 C D | E/ F/ E E E2 D D2- | 
+	%86
+D8 | D2 A A3 D E | D2 C C3 C D | E/ F/ E E E2 D D2- | D7 D | D2 A A3 D E | 
+	%92
+D2 C C3 C D | E/ F/ E E E2 D D2- | D8 | A2 A A3 A/ B A/- | A G2 G4 G | G2 G4 A G | 
+	%98
+G2 ^F6 | A2 A A2 A2 B | A G2 G4 G | z2 G G2 A2 G | G ^F3 ^F G A B | A G G4 D E | 
+	%104
+[D4F4] [C4E4] | [C,3/2C3/2] [D,/D/] [D,D] [D,D] [_E,/_E/] [=D,/=D/] [C,C] [D,D] [C,C] | z2 z ^F ^F G A B | A G G4 D E | [D4F4] [C4E4] | [A,8D8] | 
+	%110
+[A,8D8] |
+
+X: 18
+%%Orig filename was MummPipes.abc
+T: Mummer's Dance (Basic Bagpipe) (3:24)
+%%part-name Basic Bagpipe
+C: 
+N:Loreena McKennitt     
+Q:1/4=130
+M:4/4    
+L:1/8     
+K:C
+z4 [F,8-D,8-]
+[F,8D,8] | [D,8] | [C,8E,8-] | [E,8] | [D,8-] | [D,8F,8] | 
+	%8
+[E,8G,8] | [D,8-] | [D,8] | [D,8] | [C,8E,8-] | [E,8] | 
+	%14
+[D,8-] | [D,8F,8] | [E,8G,8] | [D,8-] | [D,8-] | [D,8] | 
+	%20
+[C,8E,8-] | [E,8] | [D,8-] | [D,8F,8] | [E,8G,8] | [D,8-] |
+	%26
+[D,8-] | [D,8-] | [D,8-G,8] | [D,8-G,8] | [D,8-^F,8] | [D,8-] |
+	%32
+[D,8-G,8-] | [D,8-G,8] | [D,8-^F,8] | [D,8-] | [D,4-F,4] [D,4-E,4] | [D,8-] |
+	%38
+[D,8-] | [D,8] | [C,8E,8-] | [E,8] | [D,8-] | [D,8-F,8] |
+	%44
+[E,8G,8] | [D,8-] | [D,8-] | [D,8A,8] |
+	%48
+[C,8E,8-] | [E,8] | [D,8-] | [D,8F,8] | [E,8G,8] | [D,8-] |
+	%54
+[D,8-] | [D,8-] | [D,8-G,8-] | [D,8-G,8] | [D,8-^F,8] | [D,8-A,8] |
+	%60
+[D,8-G,8-] | [D,8-G,8] | [D,8-^F,8] | [D,8] | [D,4F,4] [D,4E,4] | [D,8-] |
+	%66
+[D,8-] | [D,8-] | [D,4-F,4] [D,4-E,4] | [D,8-] | [D,8-] | [D,8] |
+	%72
+[C,8E,8-] | [E,8] | [D,8-] | [D,8F,8] | [E,8G,8] | [D,8-] |
+	%78
+[D,8-] | [D,8] | [C,8E,8-] | [E,8] | [D,8-] | [D,8F,8] |
+	%84
+[E,8G,8] | [D,8-] | [D,8-] | [D,8A,8] | [C,8E,8-] | [E,8] |
+	%90
+[D,8-] | [D,8F,8] | [E,8G,8] | [D,8-] | [D,8-] | [D,8-] |
+	%96
+[D,8-G,8-] | [D,8-G,8] | [D,8-^F,8] | [D,8-] | [D,8-G,8-] | [D,8-G,8] |
+	%102
+[D,8-^F,8] | [D,8-] | [D,4-F,4] [D,4-E,4] | [D,8-] | [D,8-] | [D,8-] |
+	%108
+[D,4-F,4] [D,4-E,4] | [D,8-] | [D,8] |]
+

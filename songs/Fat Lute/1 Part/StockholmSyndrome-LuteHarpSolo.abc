@@ -1,0 +1,134 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was StockholmSyndrome-LuteHarpSolo.abc
+T: Stockholm Syndrome by Muse, Ghingeriel (HobbitPhil) (4:39) - solo
+M: 4/4
+L: 1/16
+Q:1/4=134
+% Last note suggests minor mode tune
+%%part-name Basic Lute, Basic Harp
+K:F % 1 flats
+% Intro
+% Stockholm Syndrome
+% Matt Vocals
+% Matt Lead Guitar
+% Piano Arpegios (Low Part)
+% Piano Arpegios (High Part)
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,| \
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,|
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,| \
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,|
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,| \
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, [_GA,-][=GA,-] [_GA,-][A,D,]|
+% Verse 1
+[dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dFD] [dD][dD] [dD][dD]|[c=E-C][cE-C] [cE-C][cE-C] [cE-C][cE-C] [cE-C][cE-C] [cE-C][cEC] [cC][cC] [cF-C][cF-C] [cF-C][cFC]| \
+[=BE-=B,][=BE-=B,] [=BE-=B,][=BE=B,] [=BE-=B,][=BE=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD=B,]|[_BB,][BB,] [BB,][BB,] [BB,][BB,] [BB,][BB,] [BE-B,][BE-B,] [BE-B,][BEB,] [BF-B,][BF-B,] [BF-B,][BFB,]|
+[dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dAD]|[_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA_D]| \
+[cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cAC]|[=dD][dD] [dD][dD] [dD][dD] [dD][dD] [dD][dD] [dD-D][dDD-] [dDD][dD-D] [dDD-][dDD-]|
+[bBD-][bBD] [bB-B][bBB-] [bBB-][bBB-] [bBB-][bBB-] [bBB-][bBB] [bBD-][bBD-] [bBD][bBD-] [bBD-][bBD-]|[aAD-][aAD] [aAA-][aAA-] [aAA-][aAA-] [aAA-][aAA-] [aAA-][aAA] [aAD-][aAD-] [aAD][aAD-] [aAD-][aAD-]| \
+[=gGD-][gGD-] [gGD-][gGD] [gG-G][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG]|[fF][fF] [fF][fF] [fF][fF] [fF][fF] [fFD-][fFD-] [fFD][fFD-] [fFD-][fFD] [fFE-][fFE-]|
+[gGE-][gGE] [gGE-][gGE] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-]|[gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE] [gGG-][gGG-] [gGG-][gGG] [gG-G][gGG-] [gGG-][gGG] [gG-G][gGG-]| \
+[aAG-][aAG] [aAF-][aAF] [aAF-][aAF] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-]|[aAE-][aAE-] [aAE-][aAE] [aA][aA] [aA][aA] [aA][aA] [aAA,-][aAA,] [aAA,-][aAA,-] [aAA,-][aAA,]|
+[dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dFD] [dD][dD] [dD][dD]|[cE-C][cE-C] [cE-C][cE-C] [cE-C][cE-C] [cE-C][cE-C] [cE-C][cEC] [cC][cC] [cF-C][cF-C] [cF-C][cF-C]| \
+[=BF-=B,][=BF-=B,] [=BF-=B,][=BF=B,] [=BE-=B,][=BE=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD=B,]|[_BB,][BB,] [BB,][BB,] [BB,][BB,] [BB,][BB,] [BE-B,][BE-B,] [BE-B,][BEB,] [BF-B,][BF-B,] [BF-B,][BFB,]|
+[dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dAD]|[_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA_D]| \
+[cC][cC] [cC][cC] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cAC]|[=dD][dD] [dD][dD] [dD][dD] [dD][dD] [dD][dD] [dDD-][dDD-] [dDD][dD-D] [dDD-][dDD-]|
+[bBD-][bBD] [bB-B][bBB-] [bBB-][bBB-] [bBB-][bBB-] [bBB-][bBB] [bBD-][bBD-] [bBD][bBD-] [bBD-][bBD-]|[aAD-][aAD] [aA-A][aAA-] [aAA-][aAA-] [aAA-][aAA-] [aAA-][aAA] [aAD-][aAD-] [aAD][aAD-] [aAD-][aAD-]| \
+[gGD-][gGD-] [gGD-][gGD] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG]|[fF][fF] [fF][fF] [fF][fF] [fF][fF] [fFD-][fFD-] [fFD][fFD-] [fFD-][fFD] [fFE-][fFE-]|
+[gGE-][gGE] [gGE-][gGE] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-]|[gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE] [gG-G][gGG-] [gGG-][gGG] [gG-G][gGG-] [gGG-][gGG] [gG-G][gGG-]| \
+[aAG-][aAG] [aAF-][aAF] [aAF-][aAF] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-]|[aAE-][aAE-] [aAE-][aAE] [aA][aA] [aA][aA] [G4D4G,4] [_G4_D4_G,4]|
+% Bridge
+[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]|[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]| \
+[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]|[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]|
+% Chorus 1
+[F-F,][F-C] [FF-][AF-] [F-C][FF-] [AF-][cF-] [FF-][AF-] [cF-][fF] Ac fa|[F-C,][F-F,] [F-A,][F-C] [F-F,][F-A,] [F-C][FF] A,C FA [F-C][FF-] [AF-][cF]| \
+[A-E,][A-A,] [A-E][AA-] [A-A,][A-E] [AA-][_dA] [B-E][B-A] [_dB-][eB-] [B-A][_dB-] [eB-][aB]|[A-A,][A-E,] [A-A,][A-_D] [A-E,][A-A,] [A-_D][AE] [=G-A,][G-_D] [G-E][AG-] [G-_D][G-E] [AG-][GE]|
+[fG-][=dG-] [AG-][G-D] [dG-][AG-] [G-D][G-A,] [AG-][G-D] [G-A,][GF,] [F-D][F-A,] [F-F,][FD,]|[F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D,] [F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][FA,]| \
+dA DA, AD A,F, DA, F,D, [F-A,][F-F,] [F-D,][F-A,]|[F-F,][F-D,] [F-A,][FF,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][FA,] [E-F,][E-D] [E-A,][E-F,]|
+[E-F,][E-C] [FE-][AE-] [E-C][FE-] [AE-][cE-] [FE-][AE-] [cE-][fE-] [AE-][cE-] [fE-][aE]|C,F, A,C F,A, CF [F-A,][F-C] [FF-][AF-] [F-C][FF-] [AF-][cF]| \
+[A-E,][A-A,] [A-E][AA-] [A-A,][A-E] [AA-][_dA] [B-E][B-A] [_dB-][eB-] [B-A][_dB-] [eB-][aB]|[A-A,][A-E,] [A-A,][A-_D] [A-E,][A-A,] [A-_D][AE] [G-A,][G-_D] [G-E][AG-] [G-_D][G-E] [AG-][GE]|
+[fG-][=dG-] [AG-][G-D] [dG-][AG-] [G-D][G-A,] [AG-][G-D] [G-A,][GF,] [F-D][F-A,] [F-F,][FD,]|[F-F,][F-D,] [F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][F-A,] [F-F,][F-D] [F-A,][FF,]| \
+dB FD BF DB, FD [A-B,][A-F,] [A-D][AB,] [A-F,][A-D,]|[A-B,][AF,] [A-D,][A-B,] [A-F,][AD,] [G-B,][G-F,] [G-D,][G-B,] [G-F,][G-D] [G-B,][G-F,] [G-D][GB,]|
+% Pre-Verse 2
+[FCF,][FCF,] [FCF,][FCF,] [FCF,][FCF,] [FCF,][FCF,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,]|[=A=EA,][AEA,] [AEA,][AEA,] [AEA,][AEA,] [AEA,][AEA,] [cGC][cGC] [cGC][cGC] [_d_A_D][_d_A_D] [_d_A_D][_d_A_D]| \
+=DD, _ED, DD, CD D,D, _ED, DD, CD|D,
+%%MIDI program 31
+%%MIDI program 31
+C2
+%%MIDI program 29
+%%MIDI program 29
+D, 
+%%MIDI program 31
+%%MIDI program 31
+C2 
+%%MIDI program 29
+%%MIDI program 29
+D,
+%%MIDI program 31
+%%MIDI program 31
+C2
+%%MIDI program 29
+%%MIDI program 29
+D, 
+%%MIDI program 31
+%%MIDI program 31
+C2 
+%%MIDI program 29
+%%MIDI program 29
+D,D, 
+%%MIDI program 31
+%%MIDI program 31
+C2|
+% Verse 2
+%%MIDI program 29
+%%MIDI program 29
+[dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dF-D] [dF-D][dFD] [dD][dD] [dD][dD]|[c=E-C][cE-C] [cE-C][cE-C] [cE-C][cE-C] [cE-C][cE-C] [cE-C][cEC] [cC][cC] [cF-C][cF-C] [cF-C][cFC]| \
+[=BE-=B,][=BE-=B,] [=BE-=B,][=BE=B,] [=BE-=B,][=BE=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD-=B,] [=BD-=B,][=BD=B,]|[_BB,][BB,] [BB,][BB,] [BB,][BB,] [BB,][BB,] [BE-B,][BE-B,] [BE-B,][BEB,] [BF-B,][BF-B,] [BF-B,][BFB,]|
+[d=A-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dA-D] [dA-D][dAD]|[_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA-_D] [_dA-_D][_dA_D]| \
+[cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cA-C] [cA-C][cAC]|[=dD][dD] [dD][dD] [dD][dD] [dD][dD] [dD][dD] [dDD-][dDD-] [dDD][dD-D] [dDD-][dDD-]|
+[bBD-][bBD] [bBB-][bBB-] [bBB-][bBB-] [bBB-][bBB-] [bBB-][bBB] [bBD-][bBD-] [bBD][bBD-] [bBD-][bBD-]|[aAD-][aAD] [aA-A][aAA-] [aAA-][aAA-] [aAA-][aAA-] [aAA-][aAA] [aAD-][aAD-] [aAD][aAD-] [aAD-][aAD-]| \
+[gGD-][gGD-] [gGD-][gGD] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG-] [gGG-][gGG]|[fF][fF] [fF][fF] [fF][fF] [fF][fF] [fFD-][fFD-] [fFD][fFD-] [fFD-][fFD] [fFE-][fFE-]|
+[gGE-][gGE] [gGE-][gGE] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE-]|[gGE-][gGE-] [gGE-][gGE-] [gGE-][gGE] [gG-G][gGG-] [gGG-][gGG] [gGG-][gGG-] [gGG-][gGG] [gG-G][gGG-]| \
+[aAG-][aAG] [aAF-][aAF] [aAF-][aAF] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-] [aAE-][aAE-]|[aAE-][aAE-] [aAE-][aAE] [aA][aA] [aA][aA] [G4D4G,4] [_G4_D4_G,4]|
+% Bridge 2
+[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]|[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]| \
+[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]|[F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2] [F2C2F,2]|
+% Chorus 2
+[F-F,][F-C] [FF-][AF-] [F-C][FF-] [AF-][cF-] [FF-][AF-] [cF-][fF] Ac fa|[F-C,][F-F,] [F-A,][F-C] [F-F,][F-A,] [F-C][FF] A,C FA [F-C][FF-] [AF-][cF]| \
+[A-E,][A-A,] [A-E][AA-] [A-A,][A-E] [AA-][_dA] [B-E][B-A] [_dB-][eB-] [B-A][_dB-] [eB-][aB]|[A-A,][A-E,] [A-A,][A-_D] [A-E,][A-A,] [A-_D][AE] [=G-A,][G-_D] [G-E][AG-] [G-_D][G-E] [AG-][GE]|
+[fG-][=dG-] [AG-][G-D] [dG-][AG-] [G-D][G-A,] [AG-][G-D] [G-A,][GF,] [F-D][F-A,] [F-F,][FD,]|[F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D,] [F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][FA,]| \
+dA DA, AD A,F, DA, F,D, [F-A,][F-F,] [F-D,][F-A,]|[F-F,][F-D,] [F-A,][FF,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][FA,] [E-F,][E-D] [E-A,][E-F,]|
+[E-F,][E-C] [FE-][AE-] [E-C][FE-] [AE-][cE-] [FE-][AE-] [cE-][fE-] [AE-][cE-] [fE-][aE]|C,F, A,C F,A, CF [F-A,][F-C] [FF-][AF-] [F-C][FF-] [AF-][cF]| \
+[A-E,][A-A,] [A-E][AA-] [A-A,][A-E] [AA-][_dA] [B-E][B-A] [_dB-][eB-] [B-A][_dB-] [eB-][aB]|[A-A,][A-E,] [A-A,][A-_D] [A-E,][A-A,] [A-_D][AE] [G-A,][G-_D] [G-E][AG-] [G-_D][G-E] [AG-][GE]|
+[fG-][=dG-] [AG-][G-D] [dG-][AG-] [G-D][G-A,] [AG-][G-D] [G-A,][GF,] [F-D][F-A,] [F-F,][FD,]|[F-F,][F-D,] [F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][F-A,] [F-F,][F-D] [F-A,][FF,]| \
+dB FD BF DB, FD [A-B,][A-F,] [A-D][AB,] [A-F,][A-D,]|[A-B,][AF,] [A-D,][A-B,] [A-F,][AD,] [G-B,][G-F,] [G-D,][G-B,] [G-F,][G-D] [G-B,][G-F,] [G-D][GB,]|
+% Interlude
+[FCF,][FCF,] [FCF,][FCF,] [FCF,][FCF,] [FCF,][FCF,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,]|[=A=EA,][AEA,] [AEA,][AEA,] [AEA,][AEA,] [AEA,][AEA,] [cGC][cGC] [cGC][cGC] [_d_A_D][_d_A_D] [_d_A_D][_d_A_D]| \
+=DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,|
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, _G=G _GD,| \
+DD, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, DD, CD|
+D,D, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, DD, CD| \
+D,D, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, DD, CD|
+D,D, _ED, DD, CD D,D, _ED, DD, CD|D,D, _ED, DD, CD D,D, _ED, DD, CD| \
+BB =GG DD BB GG DD BB GG|=AA FF DD AA FF DD AA FF|
+GG =EE DD GG EE DD GG EE|GG _E_E DD GG _E_E DD GG _E_E| \
+AA BB AA GA A,A, BB AA GA|A,A, BB AA GA A,A, BB AA GA|
+A,A, BB AA GA A,A, BB AA GA|[_d2_G2] [_d2_G2] [_d2_G2] [_d2_G2] [=G4=D4G,4] [_G4_D4_G,4]| \
+% Chorus 3
+[F-F,][F-C] [FF-][AF-] [F-C][FF-] [AF-][cF-] [FF-][AF-] [cF-][fF] Ac fa|[F-C,][F-F,] [F-A,][F-C] [F-F,][F-A,] [F-C][FF] A,C FA [F-C][FF-] [AF-][cF]|
+[A-=E,][A-A,] [A-E][AA-] [A-A,][A-E] [AA-][_dA] [B-E][B-A] [_dB-][eB-] [B-A][_dB-] [eB-][aB]|[A-A,][A-E,] [A-A,][A-_D] [A-E,][A-A,] [A-_D][AE] [=G-A,][G-_D] [G-E][AG-] [G-_D][G-E] [AG-][GE]| \
+[fG-][=dG-] [AG-][G-D] [dG-][AG-] [G-D][G-A,] [AG-][G-D] [G-A,][GF,] [F-D][F-A,] [F-F,][FD,]|[F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D,] [F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][FA,]|
+dA DA, AD A,F, DA, F,D, [F-A,][F-F,] [F-D,][F-A,]|[F-F,][F-D,] [F-A,][FF,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][FA,] [E-F,][E-D] [E-A,][E-F,]| \
+[E-F,][E-C] [FE-][AE-] [E-C][FE-] [AE-][cE-] [FE-][AE-] [cE-][fE-] [AE-][cE-] [fE-][aE]|C,F, A,C F,A, CF [F-A,][F-C] [FF-][AF-] [F-C][FF-] [AF-][cF]|
+[A-E,][A-A,] [A-E][AA-] [A-A,][A-E] [AA-][_dA] [B-E][B-A] [_dB-][eB-] [B-A][_dB-] [eB-][aB]|[A-A,][A-E,] [A-A,][A-_D] [A-E,][A-A,] [A-_D][AE] [G-A,][G-_D] [G-E][AG-] [G-_D][G-E] [AG-][GE]| \
+[fG-][=dG-] [AG-][G-D] [dG-][AG-] [G-D][G-A,] [AG-][G-D] [G-A,][GF,] [F-D][F-A,] [F-F,][FD,]|[F-F,][F-D,] [F-A,][F-F,] [F-D,][F-A,] [F-F,][F-D] [F-A,][F-F,] [F-D][F-A,] [F-F,][F-D] [F-A,][FF,]|
+dB FD BF DB, FD [A-B,][A-F,] [A-D][AB,] [A-F,][A-D,]|[A-B,][AF,] [A-D,][A-B,] [A-F,][AD,] [G-B,][G-F,] [G-D,][G-B,] [G-F,][G-D] [G-B,][G-F,] [G-D][G-B,]| \
+% Outro
+[G-FCF,][G-FCF,] [G-FCF,][GFCF,] [FCF,][FCF,] [FCF,][FCF,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,]|[=A=EA,][AEA,] [AEA,][AEA,] [AEA,][AEA,] [AEA,][AEA,] [cGC][cGC] [cGC][cGC] [_d_A_D][_d_A_D] [_d_A_D][_d_A_D]|
+[FCF,][FCF,] [FCF,][FCF,] [FCF,][FCF,] [FCF,][FCF,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,] [_A_E_A,][_A_E_A,]|[=A=EA,][AEA,] [AA-EA,][AA-EA,] [AA-EA,][AAEA,] [A-AEA,][AA-EA,] [cA-GC][cAGC] [cA-GC][cA-GC] [_dA-_A_D][_d=A_A_D] [_d=A-_A_D][_d=A-_A_D]| \
+[=d2=A2A2D2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]|[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]|
+[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]|[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]| \
+[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]|[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]|
+[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]|[D2A,2D,2] [D2A,2D,2] [_e2B2_E2] [D2A,2D,2] [d2A2D2] [D2A,2D,2] [c2G2C2] [d2A2D2]| \
+[D16-A,16-D,16-]|[D8-A,8-D,8] [D4-A,4] D4|
+

@@ -1,0 +1,91 @@
+N: TS  2,   8  18
+X: 8
+%%Orig filename was ClockworkMansion__Lute2.abc
+T:Clockwork Mansion (1:08)
+%%part-name Basic Lute
+Z:Converted to ABC by Kuroshi of Silverlode
+%  Original Song :Clockwork Mansion for Castlevania :Circle of the Moon
+%  Transpose:0
+L:1/4
+Q:120
+K:C
+z4 A,2 B, E, A, C, B, E, A,3/4 A,/4 A,3/4 A,/2 A,/2 A,/4 G,/4 E,/4
+G,/4 ^G,/4 A,3/4 A,/4 A,3/4 A,/2 A,/2 A,/4 =G,/4 E,/4 G,/4 ^G,/4
+A,3/4 A,/4 A,3/4 A,/2 A,/2 A,/4 =G,/4 E,/4 G,/4 ^G,/4 A, C, B,3/4
+E,3/4 E,/2 [A,/2A/4] B/4 [A,/2c/4] d/4 [A,/2e3/2] A,/4 D,/2 E,/4
+[=G,/4f/4] [A,/2e/4] d/4 [A,/4c/4] [A,/4B/4] [A,/4A/4] [A,/2^G/4] B/4
+[A,/2d/4] e/4 [A,/2f5/4] A,/4 D,/2 [E,/4e/4] [G,/4d/4] [A,/2c/4] B/4
+[A,/4c/4] [A,/4d/4] [A,/4B/4] [A,/2A/4] B/4 [A,/2c/4] d/4 [A,/2e]
+A,/4 [B,/2z/4] [^f3/4z/4] B,/2 [B,/4a3/4] B,/2 B,/2 [E,/2e/4] B/4
+[E,/2d/4] =f/4 [B,/2e/4] d/4 [E,/4e/4] [E/2^g/4] d/4 [E/4^g/4]
+[D/4d/4] [B,/2^g/4] f/4 [E,/4e/2] E,/4 E,/4 [A,/2A/4] B/4 [A,/2c/4]
+d/4 [A,/2e3/2] A,/4 D,/2 E,/4 [G,/4f/4] [A,/2e/4] d/4 [A,/4c/4]
+[A,/4B/4] [A,/4A/4] [A,/2^G/4] B/4 [A,/2d/4] e/4 [A,/2f5/4] A,/4 D,/2
+[E,/4e/4] [G,/4d/4] [A,/2c/4] B/4 [A,/4c/4] [A,/4d/4] [A,/4B/4]
+[A,/2A/4] B/4 [A,/2c/4] d/4 [A,/2e] A,/4 [B,/2z/4] [A3/4^d3/4z/4]
+B,/2 [B,/4A3/4^f3/4] B,/2 [B,/2^f/2a/2] [E,/2e2b2] E,/2 B,/2 E,/4 E/2
+E/4 D/4 B,/2 E,/4 E,/4 E,/4 F,3/2 C,/2 F,2 E,3/2 B,/2 E,2 F,3/2 C,/2
+F,2 E,3/2 B,3/2 E, F,3/2 C,/2 F,2 E,3/2 B,/2 E,2 ^D,/2 ^D,/2 ^D,/2
+^D,/2 ^D,/2 ^D,/2 ^D,/2 ^D,/2 E,3/2 B,3/2 E, A,/2 A,/2 A,/2 A,/4
+=D,/2 E,/4 G,/4 A,/2 A,/4 A,/4 A,/4 A,/2 A,/2 A,/2 A,/4 D,/2 E,/4
+G,/4 A,/2 A,/4 A,/4 A,/4 A,/2 A,/2 A,/2 A,/4 D,/2 E,/4 G,/4 A,/2 A,/4
+A,/4 A,/4 A,/2 A,/2 A,/2 A,/4 D,/2 E,/4 G,/4 A,/2 A,/4 A,/4 A,/4 A,/2
+A,/2 A,/2 A,/4 D,/2 E,/4 G,/4 A,/2 A,/4 A,/4 A,/4 A,/2 A,/2 A,/2 A,/4
+D,/2 E,/4 G,/4 A,/2 A,/4 A,/4 A,/4 A,/2 A,/2 A,/2 A,/4 D,/2 E,/4 G,/4
+A,/2 A,/4 A,/4 A,/4 A,/2 A,/2 A,/2 A,/4 G, E,3/4 G,/2 F,3/2 C/2 A,2
+G,3/2 D/2 B,2 A,2
+
+X: 18
+%%Orig filename was ClockworkMansion__Pipes1.abc
+T:Clockwork Mansion (1:08)
+%%part-name Basic Bagpipe
+Z:Converted to ABC by Kuroshi of Silverlode
+%  Original Song :Clockwork Mansion for Castlevania :Circle of the Moon
+%  Transpose:0
+L:1/4
+Q:120
+K:C
+z4 [c'/4ec3/2] [^g/4b/4] [a/4c'/4] [^f/4a/4] [e3/4^g/4] [d/4b/4]
+[c/2a/4] [A/4e/4] [^d3/4Bz/4] [A/4^f/4] [c/4a/4] [^d/4c'/4] [B=d/4]
+[d3/4=f/4] [f/4^g/4] [^g/4b/4] [a2ce7/4z/4] E/4 A/4 B/4 [c/2z/4] A/4
+[c/2z/4] e/4 [^d/2^D/4^f3/4] [a/4^F/4] [c'/4^d/4] [^d/4^f/4]
+[b/4^G/4=d/4=f3/8] [d/4B/4] [^g/4e/4] [b/4^g/4] [a4e4z/2] A/2 [=gz/2]
+A/2 [^fz/2] A/2 [=fz/2] A/2 [ez/2] A/2 [gz/2] A/2 [^fz/2] A/2
+[=f3/4z/2] [A/2d/8] e/8 [f/4z/8] g/8 [a2ez/2] A/2 [c'gz/2] A/2
+[a^fz/2] A/2 [a=f5/8z/8] b/8 c'/8 d/8 [A/2e/8] [f3/8z/8] g/8 ^g/8
+[e/4a/4] [a/4e/4] a/4 [a5/4^d3/4] e/4 f/4 e/4 c'/4 b/4 c'/4 a/4 c'/4
+e/4 a/4 [eA,4A/8] z/8 B/8 z/8 c/8 z/8 =d/8 z/8 [e3/2z] [a5/4z/2] f/8
+z/8 e/8 z/8 d/8 z/8 [c'/4c/8] z/8 [d/4B/8] z/8 [e/4A/8] z/8
+[fA,4^G/8] z/8 B/8 z/8 d/8 z/8 e/8 z/8 [f5/4z] [^g2z/4] e/8 z/8 d/8
+z/8 c/8 z/8 B/8 z/8 c/8 z/8 d/8 z/8 B/8 z/8 [eA,2A/8] z/8 B/8 z/8 c/8
+z/8 d/8 z/8 e [^d3/4B,2^f3/4] [c'3/4a3/4] a/2 [b4E2e/4] B/4 =d/4 =f/4
+e/4 d/4 e/4 ^g/4 [E,2d/4] ^g/4 d/4 ^g/4 f/4 e/2 z/4 [eA,4A/8] z/8 B/8
+z/8 c/8 z/8 d/8 z/8 [e3/2z] [a5/4z/2] f/8 z/8 e/8 z/8 d/8 z/8
+[c'/4c/8] z/8 [d/4B/8] z/8 [e/4A/8] z/8 [fA,4^G/8] z/8 B/8 z/8 d/8
+z/8 e/8 z/8 [f5/4z] [^g2z/4] e/8 z/8 d/8 z/8 c/8 z/8 B/8 z/8 c/8 z/8
+d/8 z/8 B/8 z/8 [eA,2A/8] z/8 B/8 z/8 c/8 z/8 d/8 z/8 e
+[a3/4^d3/4B,2] [a3/4^f3/4] [^f/2a/2] [e4b4E4] [a/4e] b/4 c'/4 =d/4
+[e3/2z/2] A/4 B/4 c/4 d/4 e/2 [a/2e/2] [e/2a/2] [d3/2z/2] a/2 ^g/2
+[dz/2] a/2 [d/2^g/2] [a/2d/4] e/4 [^g/4=f/4] ^g/4 [a/4e] b/4 c'/4 d/4
+[e3/2z/2] A/4 B/4 c/4 d/4 e/2 [a/2e/2] [e/2a/2] [d/2z/4] A/4
+[d9/4z/4] a/2 a/4 b/4 a/4 ^g3/4 [b/4B/4] [^g/4f/4] [f/4d/4] [d/4B/4]
+[b/4^G/4] [a/4e] b/4 c'/4 d/4 [e3/2z/2] A/4 B/4 c/4 d/4 e/2 [a/2e/2]
+[e/2a/2] [d3/2z/2] a/2 ^g/2 [dz/2] a/2 [d/2^g/2] [a/2d/4] e/4
+[^g/4f/4] ^g/4 [a/4f3/2] b/4 c'/4 d/4 [^d3/2z/2] A/4 B/4 c/4 =d/4
+^d/2 [c'/2f] ^d/2 [a2e4A2c2] [^g2b2^G2B2] [aA,16z/4] b/8 z/8 c'/8 z/8
+=d/8 z/8 [a5/2e2z/4] b/4 c'/4 d/4 [c'2z3/2] [a/2z/4] b/8 z/8
+[c'/8=g4a7/2] z/8 b/8 z/8 c'/8 z/8 d/8 z/8 [c'/4e2] b/4 c'/4 d/4
+[c'2z3/2] [a/2z/4] b/8 z/8 [c'/8^f4a3/2] z/8 b/8 z/8 c'/8 z/8 d/8 z/8
+[c'/4e/4] b/4 [c'/4a5/2] [d/4b/8] z/8 [c'/2z/4] b/8 z/8 [c'/2z/4] d/8
+z/8 [c'/4e/8] z/8 [b/4d/8] z/8 [c'/4e/8] z/8 [d/4g/8] z/8
+[e2b3/4=f2a3/4] [a11/4z5/4] [e2g] g [aeA,14c'/2z/4] b/4 [c'z/4] d/4
+[ea2z/4] b/4 [c'/2z/4] d/4 [c'2e2z] a/2 [a/2z/4] b/4 [c'/4d3/4b/4g2]
+[b7/2z/4] c'/4 [d5/4z/4] [e2z] [B2g2z3/2] a/4 b/4 [c'/4a3/2c2^f] b/4
+c'/4 d/4 [e/2^f] [a3/2z/4] b/4 [c'/2^f2z/4] b/4 [c'/2z/4] d/4 [e/4a]
+d/4 e/4 g/4 [b3/4c2=f2a3/4] [a9/4z5/4] [e2b2G,2g] g
+[a3/4e/4f4=F4c'/2] [ez/4] [c'/2z/4] [a3/4z/4] [c'3/4z/4] [e3/4z/4]
+[az/4] [c'/2z/4] [e5/4z/4] [c'/2z/4] [a/2z/4] [c'3/4z/4] [az/4]
+[e/2z/4] [c'/2z/4] e/4 [b3/4B4d/2g/4=G4] [gz/4] [d/2z/4] [b3/4z/4]
+[d3/4z/4] [g3/4z/4] [bz/4] [d/2z/4] [g3/4z/4] [d3/4z/4] [b3/4z/4]
+[g3/4z/4] [dz/4] [b/2z/4] [g/2z/4] b/4 [e4a4A4]
+

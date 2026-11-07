@@ -1,0 +1,66 @@
+N: TS  3,   1   5   8
+X: 1
+%%Orig filename was FinalFantasyVIEpitaph__Flute1.abc
+T:Final Fantasy 6 Epitaph (Basic Flute) 2:00 (1:59)
+%%part-name Basic Flute
+Z:Transcribed by Esrah of Elendilmir
+N:Nobuo Uematsu     
+Q:1/4=89
+M:4/4
+L:1/8
+K:C
+z8 |z8 |z8 |z8 |z8 |z8 |
+z2 [E,2A,2] [F2D2] [A,2D2] |[^C8E8] |z8 |z8 |z2 [E,2A,2] [E2G,2] [B,2D2] |
+[A,8^C8] |z8 |z8 |G^F EB, ^CD EF- |^F4 z4 |
+[F,8_B,8-D8-] |[_B,4D4G,8] z4 |[F,8_B,8-D8-] |[_B,4D4E,8] z4 |[D4E,8-A,8-] z E DB, |
+[E,4A,4^C8] z4|[G,4D,8-C8-] z A, G,E, |[C4D,4^F,8] z4|z8 |z8 |
+z2 [E,2A,2] [D2F2] [A,2D2] |[^C8E8] |z8 |z8 |z2 [E,2A,2] [G,2E2] [B,2D2] |
+[A,8^C8] |z8 |z8 |G^F EB, ^CD EF- |^F4 z4 |
+[F,8_B,8-D8-] |[_B,4D4G,8] z4|[F,8_B,8-D8-] |[_B,4D4E,8] z4 |[D4E,8-A,8-] z E DB, |
+[E,4A,4^C8] z4 |[G,4C8-D,8-] z A, G,E, |[D,4C4^F,8] z4 |]
+%End of file
+
+X: 5
+%%Orig filename was FinalFantasyVIEpitaph__Harp2.abc
+T:Final Fantasy 6 Epitaph (Basic Harp) 2:00 (1:59)
+%%part-name Basic Harp
+Z:Transcribed by Esrah of Elendilmir
+N:Nobuo Uematsu         
+Q:1/4=89     
+M:4/4    
+L:1/8     
+K:C
++ff+
+[zA,8] [zA7] [z2^c6] e4 |[zE,8] [zG7] [z2d6] e4 |[zA,8] [zA7] [z2^c6] e4 |[zE,8] [zG7] [z2d6] e4 |[zA,8] [zA7] [z2^c6] e4 |[zE,8] [zG7] [z2d6] e4 |
+[zA,4] A ^ce [zD4] A [zd2] f |[zA,8] [zA7] [z2^c6] e4  |[zA,8] [zA7] [z2^c6] e4 |[zG,8] [z_B7] [z2f6] g4 |[zA,4] A ^ce [zE,4] G [zd2] e |
+[zA,8] [zA4] ^c [z2e4] c A2 |[zD4] A cf [zG,4] G [zB2] f |[zC8] [zG4] B [z2e4] B G2 |[zE,4] G de [zA,4] G [z^c2] e |[zD8] [zA4] ^c [z2^f4] c A2 |
+[z_B,8] F _BF BF [zB2] F |[zE,8] E _BE BE [zB2] E |[zG,8] G _BG BG [zB2] G |[zC8] G _BG BG [zB2] G |[zA,8] [zA4] de [zd3] A [ze2] d |
+[zA,8] [zA4] ^ce [zc3] A [ze2] c |[zD8] [zA4] cg [zc3] A [zg2] c |[zD8] A [zc6] [zA4] ^f4 |
+[zA,8] [zA7] [z2^c6] e4 |[zE,8] [zG7] [z2d6] e4 |
+[zA,4] A ^ce [zD4] A [zd2] f |[zA,8] [zA7] [z2^c6] e4  |[zA,8] [zA7] [z2^c6] e4 |[zG,8] [z_B7] [z2f6] g4 |[zA,4] A ^ce [zE,4] G [zd2] e |
+[zA,8] [zA4] ^c [z2e4] c A2 |[zD4] A cf [zG,4] G [zB2] f |[zC8] [zG4] B [z2e4] B G2 |[zE,4] G de [zA,4] G [z^c2] e |[zD8] [zA4] ^c [z2^f4] c A2 |
+[z_B,8] F _BF BF [zB2] F |[zE,8] E _BE BE [zB2] E |[zG,8] G _BG BG [zB2] G |[zC8] G _BG BG [zB2] G |[zA,8] [zA4] de [zd4] A [ze2] d |
+[zA,8] [zA4] ^ce [zc4] A [ze2] c |[zD8] [zA4] cg [zc4] A [zg2] c |[zD8] A [zc6] [zA4] ^f4 |]
+     %End of file
+
+X: 8
+%%Orig filename was FinalFantasyVIEpitaph__Lute3.abc
+T:Final Fantasy 6 Epitaph (Basic Lute) 2:00 (1:53)
+%%part-name Basic Lute
+Z:Transcribed by Esrah of Elendilmir
+N:Nobuo Uematsu      
+Q:1/4=89
+M:4/4
+L:1/8
+K:C
+z8 |z8 |z8 |z8 |A2 ed ^c3 A |B^c B2 G2 B2 |
+A8 |z8 |A2 ed ^c3 A |g2 f2 e3 d |e8 |
+z8 |ed cA Bc d2 |e8 |z8 |z6 D2 |
+F6 EF |[z7G8] D |F4 z A GF |G6 E2 |A8- |
+A8 |z8 |z8 |A2 ed ^c3 A |B^c B2 G2 B2 |
+A8 |z8 |A2 ed ^c3 A |g2 f2 e3 d |e8 |
+z8 |ed cA Bc d2 |e8 |z8 |z6 D2 |
+F6 EF |[z7G8] D |F4 z A GF |G6 E2 |A8- |
+A8 |]
+%End of file
+

@@ -1,0 +1,488 @@
+%abc-2.1
+%%song-title       Carolina in my Mind
+%%song-duration    3:58
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:47:56
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title:  - Carolina in my Mind
+N: TS  5,  22  5 21  8 10
+I:decoration +
+
+X: 22
+T: Carolina in my Mind (3:58) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+%%user-pan auto
+M: 4/4
+Q: 75
+L: 1/8
+K: C maj
++mf+ z/ |
+z8 |
+z8 |
+f/ g g3/2 e/ f3/2 e/ f e/ e |
+d8- |
+d f/ f/ f e/ e d7/2 |
+f/ f/ f f e/ e d2 c d/ |
+e/ e/ e2 d/ e d c2 G/ |
+A/ c c3/2 A/ d2 z/ c/ d3/2 |
+% Bar 10 (0:26)
+e3/2 e/ g e/ f3/2 e/ f/ e c/ c/ |
+z8 |
+f/ g g3/2 e/ f3/2 e/ f G/ f |
+f/ f e/ f/ e d/ e/ d d e3/2- |
+e2 e/ e c3/2 c/ c c d/ |
+z15/2 G/ |
+f3/2 e/ f/ e e/ e/ c c e e/- |
+e3/2 d/ d5/2 c/ d2 z/ G/ |
+[d3/2e3/2] e/ g f/ f e c3/2 c/ c/ |
+z15/2 G/ |
+% Bar 20 (0:58)
+g/ g g3/2 e/ f f f3/2 f/ f/- |
+f/ f/ f2 d/ e c/ e3/2 d/ c- |
+c2 e/ e3/2 c/ c c G/ d |
+z15/2 G/ |
+f f3/2 f/ e d c2 e |
+e3/2 d/ d2 c/ d5/2 z/ G/ |
+e3/2 G/ g f/ f3/2 e/ c d c/ |
+z8 |
+f/ g g3/2 e f3/2 e/ f e/ e/ |
+d8- |
+% Bar 30 (1:30)
+d f/ f/ f e/ e d7/2 |
+f/ f/ f f e/ e d2 c d/ |
+e/ e/ e2 d/ e d c2 G/ |
+A/ c c3/2 A/ d2 z/ c/ d3/2 |
+e3/2 e/ g f/ f e d/ c/ d c/ |
+z15/2 G/ |
+g/ g g3/2 e/ f f f e/ f/ e/ |
+f/ f f3/2 d/ e d d c3/2- |
+c2 e/ d c2 A/ c3/2 A/ |
+d7 z/ G/ |
+% Bar 40 (2:02)
+f3/2 e/ f e/ e c3/2 c/ d/ e |
+e3/2 d/ d3/2 E/ e2 d/ c e/- |
+e3/2 e/ g f/ f3/2 e/ d/ c/ d c/ |
+z7 c/ c/ |
+a3/2 g/ g e/ g a3/2 e/ e/ e/ e/ |
+c8 |
+e/ a g3/2 e/ f f3/2 f/ e/ c |
+c6 z/ d/ e/ f/- |
+f f f/ f3/2 f f f e/ f/ |
+e6 c/ d c/ |
+% Bar 50 (2:34)
+e2 d6- |
+d4 c/ d3/2 c/ d e/- |
+e e g f/ f3/2 d/ c d c/ |
+z8 |
+f/ g g e f2 e/ f e/ e/ |
+d8- |
+d f/ f/ f e/ e d7/2 |
+f/ f/ f f e/ e d2 c3/2 |
+e/ e/ e/ e3/2 d/ d c/ c2 c |
+a/- a/6 c'2/3 a/6- a/ g3/2 d/ e/ d/ c c/ d e/ |
+% Bar 60 (3:06)
+z3/2 e/ g3/2 f/ f2 e/ d/ c |
+f4 z d c c |
+z8 |
+f e/ c3/2 e/ f3/2 e/ c d3/2 |
+c6 z/ d/ e/ f/- |
+f e/ c e/ f3/2 e/ c3/2 c c/ |
+z8 |
+f e/ c3/2 e/ f3/2 e/ c3/2 d |
+c8 |
+f2 e/ d/ c4 g |
+% Bar 70 (3:38)
+g8 |
+f/ f f e/ e3/2 c c/ e g- |
+g2 d c4 d/ c/ |
+f e/ f e/ d3/2 c g g3/2- |
+g2 z6 |
+z8 |
+z5/2 |]
+
+
+X: 5
+T: Carolina in my Mind (3:58) - Basic Harp 1
+%%part-name Basic Harp 1
+%%made-for Basic Harp
+%%user-pan auto
+M: 4/4
+Q: 75
+L: 1/8
+K: C maj
++mf+ G/ |
+[C/-d/] [C/e/] G c C/ G/ [F,f-] [cf-] [E,-F-f-] [E,Fcf] |
+[D,f] F c [D,/F/] F/ [G,-f-] [G,-Ff-] [G,-cf-] [G,/-D/-F/f/-] [G,/D/F/c/f/] |
+C [ce] [ce] G/ c/ F, G/ c/ E,- [E,/-G/-] [E,/G/c/] |
+D, C F C/ F/ G,/- [G,/-G/] [G,/-d/] [G,/-G/] [G,/-A/] [G,/-B/] [G,GA] |
+F,3 A, G,- [G,/-D/] [G,/-D/] [G,/-G/-A/] [G,/-G/-B/] [G,/-D/G/-] [G,/D/G/] |
+D, F/ [F/A/] [FA] A, G, G/ [G/c/] [Gc-] [Gc] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+% Bar 10 (0:26)
+C [G/e/] [G/e/] A, [G/c/] [G/c/] D, [F/A/] [F/A/] G,- [G,FA] |
+C G/ [c/d/] e/ d/ G/ c/ [C/-d/] [C/-e/] [C-G] [G,/C/-] [A,3/2C3/2] |
+C G c/ e ^A, D [DF^A] F F,/- |
+F,2 C [CFA] G, [DGB] ^G,- [G,DFB] |
+A, E/ A E/ A, F, C [F-A-] [F,FA] |
+[G,D] G/ d [Ad] G/ [A/d/] B/ A/ G/ [A/d/] B F,/- |
+F, [CFA] A2 E, [EGc] c- [EGc] |
+A,/ E/ A D,/ D/ [^FA] [D=FA] D,/ G,/ [D-B-] [G,DB] |
+C/ G/ c A, [EAc] D, [CFA] G,- [G,DF] |
+C G/ [c/d/] e/ d/ [G-c] [C/-G/-d/] [C/G/e/] G G,/ A, G,/ |
+% Bar 20 (0:58)
+C G c/ e ^A, D [DF^A] F F,/- |
+F,2 C [CFA] G, [DGB] ^G,- [G,DGB] |
+A, E/ A E/ A, F, C [F-A-] [F,FA] |
+[G,D] G/ d [Ad] G/ [A/d/] B/ A/ G/ [A/d/] B F,/- |
+F, [CFA] A2 E, [EGc] c- [EGc] |
+A,/ E/ A D,/ D/ [^FA] [D=FA] D,/ G,/ [D-B-] [G,DB] |
+C/ G/ c A, [EAc] D, [CFA] G,- [G,DF] |
+C G/ [c/d/] e/ d/ [G-c] [C/-G/-d/] [C/G/e/] G G,/ A, G,/ |
+C [ce] c [Gce] F, [CFA] D, [DFA] |
+G, D/ G/ [G/A/] B/ [D/A/] D/ [D2G2A2d2] z/ [G/A/d/] [G/A/d/] [G/A/d/] |
+% Bar 30 (1:30)
+F, C [FA] F, G, D [G/-A/d/-] [G/-B/d/-] [GAd] |
+[D,A,] D [FA] D, G, D [G-B-] [DGB] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+C [G/e/] [G/e/] A, [G/c/] [G/c/] D, [F/A/] [F/A/] G,- [G,FA] |
+C G/ [c/d/] e/ d/ [G/c/-d/-] [c/d/] [C4e4] |
+[G,/C/D/] E2 C [D,F,C] ^A,2 F,/ [G,-=A,-C-] |
+[G,4A,4C4] [D,3B,3] D/- [D/e/] |
+[E3A3c3] C [C2F2A2-] [CA-] [A,A] |
+[G,7/2B,7/2D7/2] D/ [G/A/] B/ G D2 |
+% Bar 40 (2:02)
+[A,2C2F2] F2 [G,4C4E4] |
+[A,CE] G, ^F, [A,CE] [A,CD] =F, [A,-B,-D-] [F,A,B,D] |
+[E,2G,2C2] [A,2C2E2] [F,2A,2] [F,2G,2C2] |
+[E,3/2G,3/2C3/2] G/ [c/d/] e/ G/ c/ f/ e/ d/ c/ [c/-d/] [c3/2e3/2-] |
+e F,/ C/ F/ A G, D [GB] G, [A,/-E/-A/-c/-] |
+[A,3E3A3c3] [A/B/c/-] c/ A4 |
+E, G [Be] E, D, D [F-A-] [D,FA] |
+[F,2C2F2A2] z/ A,/ C/ A,/ A,4 |
+^A, D [F^A] A, F, C [F-=A-] [F,FA] |
+G, C G d/ e/ [C/d/] c/ G G2 |
+% Bar 50 (2:34)
+^A, F d F =A, F c- [Fc] |
+[Ad] F c [G,F] D F F/ G3/2 |
+C [G/e/] [G/c/] A, [G/c/] [G/c/] D, [F/A/] [F/A/] G,- [G,FA] |
+C G/ [c/d/] e/ d/ G/ c/ [C/d/] e/ G G,/ A, C/- |
+C [ce] c [Gce] F, [CFA] D, [DFA] |
+G, D/ G/ [G/A/] B/ [D/A/] D/ [D2G2A2d2] z/ [G/A/d/] [G/A/d/] [G/A/d/] |
+F, C [FA] F, G, D [G/-A/d/-] [G/-B/d/-] [GAd] |
+[D,A,] D [FA] D, G, D [G-B-] [DGB] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/G/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+% Bar 60 (3:06)
+C [Gc] [Gce] [Gc] F, [CFA] E,- [E,EGc] |
+D, [DFA] D, [DFA] G, D [G-B-] [DGB] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+% Bar 70 (3:38)
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+C G/ e/ B, G/ d/ A, G/ c/ G,- [G,/-D/] [G,/B/] |
+F, F/ A/ E, C/ G/ D, C/ ^F/ G,- [G,/-B,/-] [G,/B,/=F/] |
+[C5/2E5/2] |]
+
+
+X: 21
+T: Carolina in my Mind (3:58) - Basic Harp 2
+%%part-name Basic Harp 2
+%%made-for Basic Harp
+%%user-pan auto
+M: 4/4
+Q: 75
+L: 1/8
+K: C maj
++mf+ z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:26)
+z8 |
+z8 |
+[CGcd] e3 [^A,/-F/-^A/-c/] [A,2-F2-A2-d2] [A,-CF-GA-c] [F,/-A,/F/=A/-^A/] |
+[F,3A3] F, [G,2D2B2] ^G,- [G,E] |
+[A,4A4c4] [F,3-F3-A3c3-] [F,Fcf] |
+[G,5G5B5d5] z/ D/ d2 |
+[F3A3c3f3] f [E4G4c4e4] |
+[A,Ace] G [D^F] [Ace] [cd] =F [G,-A-B-d-] [G,FABd] |
+[C2E2G2c2] [A,2A2c2e2] [D2F2A2] [G,2F2G2c2] |
+[C7-E7-G7-c7-] [CEGcg] |
+% Bar 20 (0:58)
+[C/G/c/d/] e2 G [^A,F^Ac] d2 G [F,/-C/-F/-=A/-] |
+[F,3C3F3A3] [F,CA] [G,2D2B2] ^G,- [G,E] |
+[A,4A4c4] [F,3-F3A3c3-] [F,Fc] |
+[G,5G5B5d5] z/ D/ d- [Dd] |
+[F3c3f3a3] a [E3-c3e3-g3-] [Edeg] |
+[A,Ace] G [D^F] [Ace] [Acd] =F [G,-A-B-d-] [G,FABd] |
+[C2E2G2c2] [A,2A2c2e2] [D2F2A2] [G,2F2G2c2] |
+[C7E7G7c7] G |
+[C4E4G4c4] [F,2C2F2A2] [D,2C2F2A2] |
+[G,5D5G5B5] z/ D/ d2 |
+% Bar 30 (1:30)
+[F,3C3F3A3] [Fc] [G,3-D3-G3B3-] [G,DGBg] |
+[D,4A4c4f4] [G,4B4d4g4] |
+[C2G2c2e2] B,2 [A,2A2c2e2] [G,2G2B2e2] |
+[F,2A2c2f2] E,2 [D,Acd] ^F [G,2=F2G2B2d2] |
+[E2G2c2] [A2c2e2] [F2A2] [F2G2c2] |
+[E3G3c3] g c'4 |
+[G/c/d/] e2 c [DFc] ^A2 F/ [G-=A-c-] |
+[G4A4c4] [D3B3] D/- [D/e/] |
+[e3a3c'3] c [c2f2a2-] [ca-] [Aa] |
+[G7/2-B7/2-d7/2] [G/-B/-d/] [G/-B/-g/a/] [G/-B/-b/] [G-B-g] [G2B2d2] |
+% Bar 40 (2:02)
+[A3c3f3] f [G4c4e4] |
+[Ace] G ^F [Ace] [Acd] =F [A-B-d-] [FABd] |
+[E2G2c2] [A2c2e2] [F2A2] [F2G2c2] |
+[E8G8c8] |
+[A2c2f2] [A2c2f2] [B2d2g2] [B2d2g2] |
+[A7/2c7/2e7/2] e/ a4 |
+[G3B3e3] [GBe] [A3d3f3] [EGc] |
+[C2F2A2] f/ A/ c/ f/ [B4d4g4] |
+[d4f4^a4] [c4f4=a4] |
+[cdg] e3 g4 |
+% Bar 50 (2:34)
+[F^Ac] d4 [F3-=A3-c3-] |
+[FAc] [DFAc] [G6-c6-d6-g6-] |
+[G2c2d2g2] z6 |
+z7 G |
+[E4G4c4] [C2F2A2] [C2F2A2] |
+[D5G5B5] z/ D/ d2 |
+[C3F3A3] [Fc] [D3-G3B3-] [DGBg] |
+[A4c4f4] [B4d4g4] |
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+% Bar 60 (3:06)
+[E4G4c4] [F2A2c2] [E2G2c2] |
+[D4F4A4] [D4G4B4] |
+[Gcf] e3 [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+% Bar 70 (3:38)
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+[G4c4e4] [A2c2e2] [G2B2e2] |
+[A4c4f4] [Acd] ^F [=F2G2B2d2] |
+[E5/2G5/2c5/2] |]
+
+
+X: 8
+T: Carolina in my Mind (3:58) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+M: 4/4
+Q: 75
+L: 1/8
+K: C maj
++mf+ z/ |
+z8 |
+z8 |
+C4 F,2 E,2 |
+D,2 A,2 G,4 |
+F,2 A,2 G,2 E,2 |
+D,3 A, G,3 B, |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+% Bar 10 (0:26)
+C2 A,2 D,2 G,2 |
+C,4 C2 G,2 |
+C4 ^A,4 |
+F,4 G,2 ^G,2 |
+A,4 F,4 |
+G,2 D, D, G,4 |
+F,4 E,2 G,2 |
+A,2 D2 D,2 G,2 |
+C2 A,2 D,2 G,2 |
+C3 G, C,4 |
+% Bar 20 (0:58)
+C4 ^A,2 D E |
+F4 G2 ^G2 |
+A4 F4 |
+G2 D D G,4 |
+F,4 E,3 G, |
+A,2 D2 D,2 G,2 |
+C2 A,2 D,2 G,2 |
+C,7- [C,/-G,/] [C,/A,/] |
+C3 C F,2 D,2 |
+G,2 D,2 G,2 A, G, |
+% Bar 30 (1:30)
+F,4 G,2 E,2 |
+D,2 A,2 G,3 G,/ A,/ |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+C2 A,2 D,2 G,2 |
+C,4 C,4 |
+c4 ^A4 |
+F G A F G A B ^G |
+A4 F4 |
+G3 D G,4 |
+% Bar 40 (2:02)
+F,4 E,2 G,2 |
+A,2 D2 D,2 G,2 |
+C2 A,2 D,2 G,2 |
+C,4 C,2 D, E, |
+F,4 G,4 |
+A,2 E2 A4 |
+E2 E2 D3 E |
+F3 F/ ^F/ G2 A2 |
+^A4 F2 D2 |
+C4 C,4 |
+% Bar 50 (2:34)
+^A4 =A4 |
+D4 G,4 |
+C2 A,2 D,2 G,2 |
+C,4 C3 G, |
+C3 C F,2 D,2 |
+G,3 D G,2 D,2 |
+F,2 F,2 G,3- [E,G,] |
+D,2 A,2 G,2 A, B, |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+% Bar 60 (3:06)
+C2 E,2 F,2 E,2 |
+D,2 A,2 G,3 D |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D, G,3/2 D/ G/ D/ |
+% Bar 70 (3:38)
+C2 B,2 A,2 G, C, |
+F,2 E, C, D, E,/ F,/ G, A,/ B,/ |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 G,2 |
+C2 B,2 A,2 G,2 |
+F,2 E,2 D, G,3 |
+C5/2 |]
+
+
+X: 10
+T: Carolina in my Mind (3:58) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+%%user-pan auto
+M: 4/4
+Q: 75
+L: 1/8
+K: C maj
++mf+ z/ |
+z8 |
+z8 |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+% Bar 10 (0:26)
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C,/ C/ [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,/G/] G/ C,/ C/ C, F [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,/C/] G/ C, [C,G] F |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,/^C/] G/ C, [C,G] C,/ C/ C,/ C,/ F [C,G] C,/ G/ |
+% Bar 20 (0:58)
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] F [C,G] [C,C] [C,C] C, [C,G] C,/ C/ |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C,/ C/ [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C,/ C/ |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C,/ G/ |
+[^C,^C] C, [C,G] C, [C,C] C, [C,G] C, |
+[^C,^C] C, [C,/G/] C/ C,/ G/ [C,C] C, [C,G] C,/ G/ |
+[^CA] ^C, [C,G] [C,C] [C,C] C, [C,G] [C,C] |
+[^C,^C] C, [C,G] C, [C,/C/] G/ C, [C,/G/] G/ [C,C] |
+% Bar 30 (1:30)
+[^C,^C] F [C,G] [C,C] [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] [C,/G/] G/ |
+[^C,^C] C, [C,CG] C, [C,C] C, [C,CG] C, |
+[^C,^C] C, [C,CG] C, [C,C] C, [C,G] C,/ G/ |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] [C,C] |
+[^C,^C] C, [C,/G/] C/ C,/ G/ [CF] z [C,G] C,/ C,/ |
+^C, C,/ C,/ [C,d] C,/ C,/ C, C,/ C,/ [C,d] C,/ C,/ |
+^C, C,/ C,/ [C,d] C,/ C,/ C, C,/ C,/ [C,d] C,/ C,/ |
+^C, C,/ C,/ [C,d] C,/ C,/ C, C,/ C,/ [C,d] C,/ C,/ |
+^C, C,/ C,/ [C,d] C,/ C,/ C, C,/ C,/ [C,d] C,/ C,/ |
+% Bar 40 (2:02)
+^C, C,/ C,/ [C,G,d] C,/ C,/ C, C,/ C,/ [C,G,d] C,/ C,/ |
+^C, C,/ C,/ [C,G,d] C,/ C,/ C, C,/ C,/ [C,G,d] C,/ C,/ |
+^C, C,/ C,/ [C,G,d] C,/ C,/ C, C,/ C,/ [C,G,d] C,/ C,/ |
+^C, C,/ C,/ [C,G,d] C,/ C,/ C, C,/ C,/ [C,G,d] C,/ C,/ |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C, |
+[^C,^C] C, C, C, C,/ G/ G/ G/ G C, |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] [C,C] |
+[^C2F2] ^C, z/ C,/ C,/ C,/ F2 C, |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] [C,C] |
+[^C,^C] C, [C,/G/] C/ C,/ G/ [CFA] z3 |
+% Bar 50 (2:34)
+z8 |
+z8 |
+z8 |
+z8 |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C,/ C/ |
+[^C,^C] C, [C,G] C,/ C/ C, [C,C] [C,G] C, |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C,/ C/ |
+[^C,^C] C, [C,CG] [C,C] [C,C] C, [C,CG] C, |
+[^C,^C] C, [C,CG] [C,C] [C,C] C, [C,CG] C,/ G/ |
+% Bar 60 (3:06)
+[^C,^C] C, [C,G] [C,C] [C,C] C, [C,G] C, |
+[^C,^C] C, [C,G] [C,/C/] C/ [C,C] C, [C,G] C,/ G/ |
+[^CA] ^C, [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,G] [C,/G/] G/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,/C/] G/ [C,/C/] C/ G/ e/ g/ d/ |
+[^C,^C] C, [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,G] [C,/G/] C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,/G/] G/ C,/ G/ C,/ G/ [C/F/] C,/ C,/ G/ d/ G/ |
+% Bar 70 (3:38)
+[^C,^C] C, [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,/G/] G/ G/ G/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,/G/] G/ C,/ G/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C,/ C/ [C,G] C,/ C/ |
+[^C,^C] C,/ C/ [C,G] C,/ C/ [C,C] C, C, C, |
+[FA] z3/2 |]
+

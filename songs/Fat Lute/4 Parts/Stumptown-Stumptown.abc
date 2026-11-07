@@ -1,0 +1,226 @@
+N: TS  4,   1   8  21  22
+X: 1
+%%Orig filename was Stumptown-Stumptown__Flute1.abc
+T:'Stumptown' by Nickel Creek (Flute (1:37) - Violin)
+%%part-name Basic Flute
+M:4/4
+L:1/8
+K:E
+Q:230
+z4
+z16
+z16
+z16
+z16
+z16
+z16
+z16
+z16
++pp+F8E8
+C8B,8
+C8E8
+B,8C8
+A,8B,8
+C8E8
++ff+z8z4zE,F,E,
+F,G,B,3G,B,G,B,CE3FGc
+BceBcB(3GFEF3zB,CEB,
+F/2G7/2 G/2F/2 EDEE2A,2B,/2C5/2D/2C/2
+B,2CB,G,3G,A,G,F,E,G,F,E,C,
+E,/2F,/2E,15
+z8
++ppp+b36 
+B4
+F,8G,8
+E,8F,16
++ff+z4bgeg
+f2ffefdfedccBcAc
+G2GEGcefdcBBABGB
+F2FB,CFABGFE(3GABGEG
+F2FFEFDFC4B,4
++ppp+=G,16
+z16
+=G,16
+z16
+A,24
+=G,8
+A,8z8
++f+zEFE
+F^GB3GBGBce3fga
+geBAGFGED2DDEEFE
+FGB3GBGBce3fga
+geBGFEB,DE2EDEEFE
+FGB3GBGBce3fga
+geBAGFGED2DDEEFE
+FGBe2efeg2g3g2a
+geBGFEB,DE8z16
+
+X: 8
+%%Orig filename was Stumptown-Stumptown__Lute2.abc
+T:'Stumptown' by Nickel Creek (Basic Lute 1 (1:41) - Mandolin)
+%%part-name Basic Lute 1
+M:4/4
+L:1/8
+K:E
+Q:230
++ff+
+zEFE
+FGB2BGBGBce2efgc
+bgecBABGF2FDEEFE
+FGB2BGBGBce2efgc
+bgecBGFGE2EDEEFE
+FGB2eBdBBce2efgc
+bgecBABGF2FDEEFE
+FGBeGBdBBce2efgc
+bgecBGFGE2(3gbbbgeg
+f2ffefdfedccBcAc
+G2GEGcefdcBBABGB
+F2FB,CFABGFEgbgeg
+f2ffefdfedccBcAc
+G2GEGcefdcBBABGB
+F2FB,CFABGFEGBGEG
+F2FFEFDFCeGdB,[Fd]zB,
++p+[E7/2G7/2e7/2]E/2E3/2E/2[e3/2G3/2]E/2A,2[e2c2A2]A,2[e3/2c3/2A3/2][E/2A,/2]
+B,2[e2A2]B,2[B,3/2A2e2]B,/2[B,2F2][e2B2F2]B,3/2[e2B2F2][F/2B,/2]
+B,2[e2G2]B,2[e3/2G3/2][A/2C/2][C2A2][e2A2]C2[e2A3/2][F/2D/2]
+[B,2F2][e2B2F2]B,3/2[F/2B,/2][F3/2B2e2]B,/2[B,E]z[e2B2E]EB,[f3B]EC
+[Af][g2B2][g2B2][gB][Bg][gB][Bg3]c2[g2c2][gc][cg][gc]
+[B2g3]B[g2B2][gB][Bg][fB][B3f3][f2B2]Bf[fB]
+[B2g2][B3g3]BgB[c2g3]c[g2c]c[gc][cg][gc]
+[B2g3]B[gB][B2f3]B[fB][B3e3][e2B2]+ff+e(3gfe
+fdBgadfcgec3G,A,B,
+CGAdcgacd2dcbfge
+fcAFCFAc(3Bcd(3egcbgeg
+f2ffefdfedccBcAc
+G2GEGcefdcBBABGB
+F2FB,CFABGFE(3GABGEG
+F2FFEFDFCeGdB,dFB,
+=G,=DABG,A=GAB2=d3ded
+efa10z3/2[A/2=D/2][D3/2A3/2][e3/2A3/2]
+=GABzAGAB2=d2eBe=g
+=a2ab6bab=gbe2
+e=A=gaag=fga2=c2=dcAc
+=d2(3dee(3eee(3eee(3eeede=cea2
+za=ga=faea=dd=cdA=G=F2
+zE^FE
+F^GB2BGBGB^ce2e^f^gc
+bgecBAB^G^F2F^DEEFE
+FGB2BGBGBce2efgc
+bgecBGFGE2EDEEFE
+FGB2eB^dBBce2efgc
+bgecBABGF2FDEEFE
+FGBeGBdBBce2efgc
+bgecBGFGE48
+
+X: 21
+%%Orig filename was Stumptown-Stumptown__Lute3.abc
+T:'Stumptown' by Nickel Creek (Lute 2 (1:36) - Guitar)
+%%part-name Basic Lute 2
+M:4/4
+L:1/8
+K:E
+Q:230
+z4
++mp+[E6B6e6g6]B[ae]+mf+[A,2C2]+pp+[a2e2A2E2]+mf+E+ppp+[eA][EA]e
++mf+E2+pp+[g2e2B2]+mf+E2+pp+[g2e2B2]+mf+B,2+pp+[f2e2B2F2]+mf+F2+pp+[f2e2B2]
++mf+E2+pp+[g2e2B2]+mf+B,2+pp+[g2e2B2]+mf+A,2+pp+[a2e2B2]+mf+E2+pp+[a2e2B2]
++mf+B,2+pp+[f2e2B2]+mf+F2+pp+[f2e2B2]+mf+E2+pp+[g3e3B3]E[g2e2B2E2]
++mf+E2+pp+[g2e2B2]+mf+B,2+pp+[eB][ae]+mf+A,2+pp+[a2e2B2]+mf+E2+pp+[a2e2]
++mf+E2+pp+[f3e3B3]E[f2e2B2]+mf+B,2+pp+[d2B2]+mf+F2+pp+[d2B2]
++mf+E2+pp+[g2e2B2]E[ge][A2e2a2]+mf+[A,2C2]+pp+[a2e2A2]+mf+E2+pp+[a2e2A2]
++mf+B,2+pp+[e2B2]+mf+F2+pp+[e2B2]+mf+E2+pp+[Bef][fe]B[fe][B2e2f2]
++mf+B,2+pp+[f2d2B2]+mf+F+pp+[fd][B2d2f2]+mf+C2+pp+[g2e2c2]+mf+G+pp+c[gc]c
++mf+A,2+pp+[a2c2A2]+mf+Ee+pp+[e2A2]+mf+B,+pp+[fe][B2e2f2]+mf+F2+pp+[f2e2B2]
++mf+F,2+pp+[f2c2A2]+mf+C2+pp+[f2c2A2]+mf+E2+pp+[Bef][fe]+mf+C+pp+[fe][B2e2f2]
++mf+B,2+pp+[f2d2B2]+mf+F+pp+[fd][B2d2f2]+mf+C2+pp+[g2e2c2]+mf+G+pp+c[gc]c
++mf+A,2+pp+[a2c2A2]+mf+Ee+pp+[e2A2]+mf+B,+pp+[fe][B2e2f2]+mf+F2+pp+[f2e2B2]
++mf+F,2+pp+[f2c2A2]+mf+C2+pp+[f2c2A2]+mf+E2+pp+[g2e2B2][EB]B[B2e2g2]
++mf+B,2BfF+pp+[fd]cz+mf+[C2^G2c2]+pp+Gcz+mf+[c2B2F2B,2]+mp+[BF]
++mf+E2+pp+[g2e2B2]+mf+B,2+pp+[eB][ae]+mf+A,2+pp+[a2e2B2]+mf+E2+pp+[a2e2]
++mf+E2+pp+[f3e3B3]+mf+E+pp+[f2e2B2]+mf+B,2+pp+[d2B2]+mf+F2+pp+[d2B2]
++mf+E2+pp+[g2e2B2]+mf+E3/2+pp+[g/2e/2][A2e2a2]+mf+[A,2C2]+pp+[a2e2A2]+mf+E2+pp+[a2e2A2]
++mf+B,2+pp+[e2B2]+mf+F2+pp+[e2B2]+mf+E2+pp+[EBe][f2e2]+fff+EFE
+E/2F/2GB4B/2A/2GABceafgc
+bgfecBAGEF2F2EFE
+FGB2E2D2[E4A4c4]zbcb2
+gfgfedcBAGFEE/2D/2C2
++mf+B,2+pp+[f2d2B2]+mf+F+pp+[fd][B2d2f2]+mf+C2+pp+[g2e2c2]+mf+G+pp+c[gc]c
++mf+A,2+pp+[a2c2A2]+mf+E+pp+e[e2c2]+mf+B,+pp+[fe][B2e2f2]+mf+F2+pp+[f2e2B2]
++mf+F,2+pp+[f2c2A2]+mf+C2+pp+[f2c2A2]+mf+E2+pp+[Bef][fe]+mf+C+pp+[fe][B2e2f2]
++mf+B,2+pp+[f2d2B2]+mf+F+pp+[fd][B2d2f2]+mf+C2+pp+[g2e2c2]+mf+G+pp+c[gc]c
++mf+A,2+pp+[a2c2A2]+mf+E+pp+e[e2c2]+mf+B,+pp+[fe][B2e2f2]+mf+F2+pp+[f2e2B2]
++mf+F,2+pp+[f2c2A2]+mf+C2+pp+[f2c2A2]+mf+E2+pp+[g2e2B2]+mf+[EB]+pp+B[B2e2g2]
++mf+B,2+pp+Bf+mf+F+pp+[fd]cz+mf+[C2^G2c2e2]+pp+GcE+mf+[dBFB,]+pp+[FB]B
++mf+[=G,2=D2=G2B2=d2=g2]+pp+[g2d2]+mf+G+pp+[gd][B2d2g2]+mf+E2+pp+[g2e2]+mf+E2+pp+[g2e2]
++mf+[=D2F2A2=d2f2]+pp+df2A[F2A2]+mf+B,2+pp+B[fd][FB][f2d2][BF]
++mf+[=C2=G2=c2=d2=g2]+pp+[Gc][g2d2][gd][Gc]z+mf+[E2B2e2g2]+pp+B[g2e2][ge][EB]z
++mf+[=G,2D2G2B2]+pp+dgDG[D2G2]+mf+E2+pp+[Beg][ge][Be][ge][B2e2g2]
++mf+[=F2=c2=f2]+pp+[cf]f+mf+[Fc]+pp+f[c2f2][=D8A8=d8f8] 
+[A,8E8A8=c8e8][=D8=G8B8=d8]
+[=D8A8=d8][=F8=c8=f8]
+z4
++f+E2+p+[^g2e2B2]+f+B,2+p+[eB][ae]+f+A,2+p+[a2e2B2]+f+E2+p+[a2e2]
++f+E2+p+[^f3e3B3]+f+E+p+[f2e2B2]+f+B,2+p+[^d2B2]+f+^F2+p+[d2B2]
++f+E2+p+[g2e2B2]+f+B,2+p+[g2e2B2]+f+A,2+p+[a2e2B2]+f+E2+p+[a2e2B2]
++f+B,2+p+[f2e2B2]+f+^F2+p+[f2d2B2]+f+E2+p+[g3e3B3]+f+E+p+[g2e2B2E2]
++f+^G2+p+[g2e2B2]+f+F2+p+[Be][ae]+f+E2+p+[a2e2B2]+f+A2+p+[a2e2]
++f+G2+p+[f3e3B3]+f+E+p+[f2e2B2]+f+F2+p+[d2B2]+f+B,2+p+[d2B2]
++f+G2+p+[e2B2]+f+F2+p+[e4B4] +ff+[a6e6A6E6^C6A,6]
++f+[A,4^C4E4B4] [B,4F4B4] [E16B16e16]
+
+X: 22
+%%Orig filename was Stumptown-Stumptown__Theorbo4.abc
+T:'Stumptown' by Nickel Creek (Basic Theorbo (1:37) - Contrabass)
+M:4/4
+L:1/8
+%%part-name Basic Theorbo
+K:E
+Q:230
+z4
+EzzzB,zzzA,zzzA,zzz
+EzzzCzzzB,zzzFzzz
+EzzzG,zzzA,zzzCzzz
+B,zzzFzzzEzzzB,zzz
+E,zzzG,zzzA,zzzCzzz
+EzzzGzAzBzzzFzzz
+EzzzG,zzzA,zzzCzzz
+B,zzzB,zzzEzzzDzCz
+B,zzzB,zzzCzzzB,zzz
+A,zzzA,zzzB,zzzB,zzz
+FzzzFzzzEzzzCzzz
+B,zzzB,zzzCzzzB,zzz
+A,zzzA,zzzB,zzzB,zzz
+F,zzzF,zzzE,zzzG,zzz
+B,zzzB,zzzCzzzB,zzz
+EzzzEzzzA,zzzFzzz
+EzGzAz^AzBzzzFzzz
+EzzzG,zzzA,zzzCzzz
+DzEzFzzzEzzzB,zzz
+E,8A,8
+G,4A,4B,8
+E2Gz=AzBzAzzzczzz
+BzzzB,zzzEzEzDzCz
+B,zzzB,zzzCzzzB,zzz
+A,zzzA,zzzB,zzzB,zzz
+FzzzFzzzEzzzCzzz
+B,zzzDzzzCzzzB,zzz
+A,zzzA,zzzB,zzzB,zzz
+FzzzFzzzEzzzCzzz
+B,zzzB,zzzCzzzB,zzz
+=G4=g4e4e4
+=d4c4B4B,zzz
+=CzzzB,zzzA,zzzA,zzz
+=G,zzz=DzzzEzzzEzzz
+=FzzzEzzz=DzzzDzzz
+A,zzzA,zzz=G,8
+=D8=F8
+z4
+EzzzB,zzzA,zzzA,zzz
+Ezzz^c4Bz^Gz^FzB,z
+Ezzz^G,zzzA,zzz^Czzz
+^D2E2^F2z2EzCzB,zG,z
+E,zzzG,zzzA,zzzCzzz
+EzzzGzzzB,zzzFzzz
+EzzzB,zzz z2 A,14
+E,16 z8
+

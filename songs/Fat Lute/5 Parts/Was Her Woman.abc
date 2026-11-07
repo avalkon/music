@@ -1,0 +1,177 @@
+N: TS  5,  18   1   4   3  10
+X: 18
+%%Orig filename was 014_0.abc
+T:The Irish Washerwoman - Basic Bagpipe (1:09) - Traditional
+%%part-name Basic Bagpipe
+N:Keptwise ABC arrangement - Elendilmir
+M:6/8
+L:1/8
+Q:1/4=260
+K:G
+z6|z6|G,6|G,6|
+D,6|D,6|G,6|G,6|
+A,3 D,3|D,3 G,3|G,6|G,6|
+D,6|D,6|G,6|G,6|
+A,3 D,3|G,3 G,3|G,6|G,6|
+D,6|D,6|C,3 B,3|A,3 G,3|
+A,3 D,3|G,3 G,3|G,6|G,6|
+D,6|D,6|C,3 B,3|A,3 G,3|
+A,3 D,3|G,3 G,3|E,6|E,6|
+E,6|D,6|E,6|E,6|
+D,3 A,3|D,3 A,3|E,6|E,6|
+E,6|D,6|E,6|E,6|
+D,3 A,3|D,3 A,3|E,6|E,6|
+E,6|D,6|E,6|E,6|
+D,3 A,3|D,3 A,3|E,6|E,6|
+E,6|D,6|E,6|E,6|
+D,3 A,3|D,3 A,3|G,6|G,6|
+G,6|F,6|G,6|G,6|
+D,3 A,3|D,3 A,3|G,6|G,6|
+G,6|F,6|G,6|G,6|
+D,3 A,3|D,3 A,3|G,6|E,6|
+G,6|G,3 F,3|G,6|D,6|
+G,3 D,3|D,3 D,3|G,6|E,6|
+G,6|G,3 F,3|G,6|D,6|
+G,3 D,3|D,3 D,3|E,6|
+
+X: 1
+%%Orig filename was 014_1.abc
+T:The Irish Washerwoman - Basic Flute (1:09) - Traditional
+%%part-name Basic Flute
+N:Keptwise ABC arrangement - Elendilmir
+M:6/8
+L:1/8
+Q:1/4=260
+K:G
+cBc Adc|BGG G2d|BGG DGG|BGB dcB|
+cAA EAA|cAc edc|BGG DGG|BGB dcB|
+cBc ABc|def gdc|BGG DGG|BGB dcB|
+cAA EAA|cAc edc|BGG DGG|BGB dcB|
+cBc Adc|BGG G2g|gdg gdg|gdg BAg|
+fdf fdf|fdf agf|egg dgg|cgg Bgg|
+cBc Adc|BGG G2g|gdg gdg|gdg BAg|
+fdf fdf|fdf agf|egg dBB|cAA Bgg|
+cBc ABc|def gdc|G2E EFE|GEG BGE|
+G2E EFG|FDF AGF|G2E EFE|GEG AB^c|
+d^cB ABG|FDF AGF|G2E EFE|GEG BGE|
+G2E EFG|FDF AGF|G2E EFE|GEG AB^c|
+d^cB ABG|FDF AGF|EGB efg|fe^d eBG|
+EGB eBG|FDF AGF|EGB efg|fe^d e=d^c|
+d^cB ABG|FDF AGF|EGB efg|fe^d eBG|
+EGB eBG|FDF AGF|EGB efg|fe^d e=d^c|
+d^cB ABG|FDF AGF|g2e efe|geg Bge|
+g2e efg|fdf afd|g2e efe|geg Bge|
+d^cB ABG|FDF AGF|g2e efe|geg Bge|
+g2e efg|fdf afd|g2e efe|geg Bge|
+d^cB ABG|FDF AGF|EGB EGB|eBG eBG|
+EGB EGB|eBG AFD|EGB GBe|Bdg egB|
+ge^c dBG|FDF AGF|EGB EGB|eBG eBG|
+EGB EGB|eBG AFD|EGB GBe|Bdg egB|
+ge^c dBG|FDF AGF|e6-|e
+
+X: 4
+%%Orig filename was 014_2.abc
+T:The Irish Washerwoman - Basic Horn (1:09) - Traditional
+%%part-name Basic Horn
+N:Keptwise ABC arrangement - Elendilmir
+M:6/8
+L:1/8
+Q:1/4=260
+N:Last note suggests minor mode tune
+K:G
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|B,2G, G,A,G,|B,G,B, DB,G,|
+B,2G, G,A,B,|A,F,A, DA,F,|B,2G, G,A,G,|B,G,B, ^CDE|
+FED =CDB,|A,F,A, DED|B,2G, G,A,G,|B,G,B, DB,G,|
+B,2G, G,A,B,|A,F,A, DB,A,|B,2G, G,A,G,|B,G,B, ^CDE|
+FED ^CDB,|A,F,A, DB,D|G,B,E GAB|AGF GDB,|
+G,B,E GDB,|A,F,A, DED|G,B,E GAB|AGF GFE|
+FE^D =C=DB,|A,F,A, DB,A,|G,B,E GAB|AGF GDB,|
+G,B,E GDB,|A,F,A, DED|G,B,E GAB|AGF GFE|
+FED CDB,|A,F,A, DB,A,|B2G GAG|BGB dBG|
+B2G GAB|AFA cAF|B2G GAG|BGB eBG|
+FED CDB,|A,F,A, DB,A,|B2G GAG|BGB dBG|
+B2G GAB|AFA cAF|B2G GAG|BGB dBG|
+FED CDB,|A,F,A, DB,A,|G,B,E G,B,E|GDB, GDB,|
+G,B,E G,B,E|GDB, CA,F,|G,B,E B,EG|DGB GBd|
+BGE FDB,|A,F,A, DB,A,|G,B,E G,B,E|GDB, GDB,|
+G,B,E G,B,E|GDB, CA,F,|G,B,E B,EG|DGB GBd|
+BGE FDB,|A,F,A, DB,A,|B,6-|B,
+
+X: 3
+%%Orig filename was 014_3.abc
+T:The Irish Washerwoman - Basic Clarinet (1:09) - Traditional
+%%part-name Basic Clarinet
+N:Keptwise ABC arrangement - Elendilmir
+M:6/8
+L:1/8
+Q:1/4=260
+K:G
+z6|z6|GDD B,DD|GDG B,DG|
+AFF CFF|AFA =cBA|GDD B,DD|GDG B,DG|
+AGA FGA|Bcd eBA|GDD B,DD|GDG B,DG|
+AFF CFF|AFA cBA|GDD B,DD|GDG B,DG|
+AGA FBA|GB,B, B,2B|BGB BGB|BGB dcB|
+AFA AFA|AFA cBA|GBB FBB|EBB DBB|
+AGA FBA|GB,B, B,2B|BGB BGB|BGB dcB|
+AFA AFA|AFA cBA|GBB FBB|EBB DBB|
+AGA FGA|Bcd eBA|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|e6-|e
+
+X: 10
+%%Orig filename was 014_4.abc
+T:The Irish Washerwoman - Basic Drum, Basic Cowbell (1:09) - Traditional
+%%part-name Basic Drum, Basic Cowbell
+N:Keptwise ABC arrangement - Elendilmir
+M:6/8
+L:1/8
+Q:1/4=260
+K:G
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z6|
+z6|z6|z6|z3 B,EG|
+B6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG|
+B,6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG|
+B,6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG|
+B,6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG|
+B,6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG|
+B,6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG,|
+B,6|z3 A,DF|B6|z6|
+z6|z3 A,DF|B6|z3 B,EG|
+B,6|z3 A,DF|B,6|z6|
+z6|z3 A,DF|B,6|
+

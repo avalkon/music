@@ -1,0 +1,119 @@
+N: TS  3,   1   4   8
+X: 1
+%%Orig filename was 3RavensFlute.abc
+T:Three Ravens (Basic Flute) (0:00)
+%%part-name Basic Flute
+M:4/4
+L:1/8
+Q:1/4=130
+K:Bmaj
+
+x6
+C2| \
+E3F G2 G2| \
+A2 G2 G4| \
+G3G G2 C2|
+D3D D2 D2| \
+E2 F2 G2 E2| \
+D4 C2 CC| \
+=C4 x2 D2|
+E2 G2 F2 E2| \
+D2 E2 F2- F/2x/2F| \
+E4 D2 ^C2| \
+=C3^C D2 DD|
+B4 AG FE| \
+D3/2x/2 D3/2x/2 ^E3x| \
+x6
+C2| \
+=E3F G2 G2|
+A2 G2 G4| \
+G3G G2 C2| \
+D3D D2 D2| \
+E2 F2 G2 E2|
+D4 C2 CC| \
+=C4 x2 D2| \
+E2 G2 F2 E2| \
+D2 E2 F2- F/2x/2F|
+E4 D2 ^C2| \
+=C3^C D2 DD| \
+B4 AG FE| \
+D3/2x/2 D3/2x/2 ^E3
+
+X: 4
+%%Orig filename was 3RavensHorn.abc
+T:Three Ravens (Basic Horn) (0:00)
+%%part-name Basic Horn
+M:4/4
+L:1/8
+Q:1/4=130
+K:Bmaj
+
+x6
+C,2| \
+C,6 C,2| \
+F,2 C,2 G,4| \
+C3B, =A,2 =A,2|
+G,3G, G,2 G,2| \
+C6- C/2x3/2| \
+B,4 =A,2 =A,=A,| \
+G,6- G,/2x3/2|
+=E,6- E,/2x3/2| \
+B,6- B,/2x3/2| \
+C4 C2 C3/2x/2| \
+G,6 G,G,|
+E,4 F,3x| \
+G,G, G,3/2x/2 [C3C,3]x| \
+x6
+C,2| \
+C,6 C,2|
+F,2 C,2 G,4| \
+C3B, =A,2 =A,2| \
+G,3G, G,2 G,2| \
+C6- C/2x3/2|
+B,4 =A,2 =A,=A,| \
+G,6- G,/2x3/2| \
+E,6- E,/2x3/2| \
+B,6- B,/2x3/2|
+C4 C2 C3/2x/2| \
+G,6 G,G,| \
+E,4 F,3x| \
+G,G, G,3/2x/2 [C3C,3]
+
+X: 8
+%%Orig filename was 3RavensLute.abc
+T:Three Ravens (Basic Lute) (0:00)
+%%part-name Basic Lute
+M:4/4
+L:1/8
+Q:1/4=130
+K:B % 5 sharps
+
+x6 [c2G2]| \
+[c2G2] [d-A][dB-] [e/2-B/2][e3/2c3/2-] [g-c][ge]| \
+[f2d2] [e2c2] [d4=c4]| \
+[e3^c3][dd] [e-c][ee] [f-d][fc]|
+[g3=c3][a^c] [g2=c2] [g2=c2]| \
+[^c2G2-] [d2G2-] [e2G2] [c2A2]| \
+[d2B2-] [e2B2] [f2c2] [ec][fc]| \
+[g4d4] x2 [g2B2]|
+[g2B2-] [b2B2-] [a2B2] [g2B2]| \
+[f2B2-] [e-B]e [d3/2B3/2]x3/2[dB]| \
+[e2G2-] [g2G2] [f2G2] [e2G2]| \
+[d2G2-] [=c2G2-] [G2G2] [eG][fG]|
+[g3-e3][gd] [f^c][eB] [dA][cA]| \
+[BG-][c/2-G/2]c/2 [d3/2G3/2]x/2 [c3G3]x| \
+x6 [c2G2]| \
+[c2G2] [d-A][dB-] [e/2-B/2][e3/2c3/2-] [g-c][ge]|
+[f2d2] [e2c2] [d4=c4]| \
+[e3^c3][dd] [e-c][ee] [f-d][fc]| \
+[g3=c3][a^c] [g2=c2] [g2=c2]| \
+[^c2G2-] [d2G2-] [e2G2] [c2A2]|
+[d2B2-] [e2B2] [f2c2] [ec][fc]| \
+[g4d4] x2 [g2B2]| \
+[g2B2-] [b2B2-] [a2B2] [g2B2]| \
+[f2B2-] [e-B]e [d3/2B3/2]x3/2[dB]|
+[e2G2-] [g2G2] [f2G2] [e2G2]| \
+[d2G2-] [=c2G2-] [G2G2] [eG][fG]| \
+[g3-e3][gd] [f^c][eB] [dA][cA]| \
+[BG-][c/2-G/2]c/2 [d3/2G3/2]x/2 [c3G3]
+

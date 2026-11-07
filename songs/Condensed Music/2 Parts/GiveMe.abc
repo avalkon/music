@@ -1,0 +1,279 @@
+N: TS  2,   3   5
+X: 3
+%%Orig filename was GiveMeClar.abc
+T: Give Me Your Hand (2:07) - Basic Clarinet
+%%part-name Basic Clarinet
+C: Unknown
+Z: Raymiond of Gladden
+M: 3/4
+Q: 160
+K: C maj
+
+%%Q: 120
++f+ z16/3
+	%%Q: 160
+	z2 |
+C4 +ff+ D2 |
+D4 G2 |
+G4 E2 |
++f+ D4 z2 |
+C2 +fff+ E2 G2 |
++ff+ E2 ^F2 +fff+ G2 |
++ff+ E4 D2 |
++fff+ E4 z2 |
+% Bar 10 (0:10)
++f+ D4 z2 |
++ff+ E4 z2 |
++f+ D4 +fff+ ^F +ff+ E |
++f+ C4 z2 |
+C2 +fff+ E2- E2 |
+G4 d2 |
+e2 +ff+ d2 +f+ c2 |
+B4 ^F2 |
++ff+ G4 E2 |
++f+ D4 +fff+ G2 |
+% Bar 20 (0:21)
+B3 +ff+ G ^F G |
++f+ D4 z2 |
+C2 +fff+ E2- E2 |
++ff+ E2 ^F2 G2 |
+G4 ^F2 |
++f+ E4 z2 |
+D4 z2 |
+E4 z2 |
+D4 +fff+ G2 |
+c4 z2 |
+% Bar 30 (0:32)
++f+ B4 +ff+ c2 |
++fff+ d4 z2 |
++ff+ c2 c2 +fff+ e2 |
++ff+ d4 z2 |
++f+ G4 +ff+ ^F2 |
+G4 z2 |
++f+ B4 +fff+ c2 |
+d4 +f+ B2 |
++fff+ d4 +ff+ d2 |
+d4 z2 |
+% Bar 40 (0:44)
++f+ d4 +fff+ e2 |
++f+ d4 z2 |
+c4 z2 |
+B4 z2 |
+G4 z2 |
+d4 z2 |
+G4 +fff+ G2 |
++ff+ F4 z2 |
++f+ G4 E2 |
+C4 z2 |
+% Bar 50 (0:55)
+G4 z2 |
+D4 z2 |
+d2 c +ff+ B +f+ A +ff+ B |
++f+ G4 z2 |
+C4 +ff+ D2 |
+D4 +fff+ G2 |
+G4 +f+ E2 |
++ff+ D4 z2 |
++f+ C2 +fff+ E2 G2 |
++ff+ E2 ^F2 G2 |
+% Bar 60 (1:06)
+E4 D2 |
+E4 z2 |
++f+ D4 z2 |
++ff+ E4 z2 |
++f+ D4 +fff+ ^F +ff+ E |
++f+ C4 z2 |
++ff+ C2 +fff+ E2- E2 |
++ff+ G4 +fff+ d2 |
+e2 +ff+ d2 c2 |
++f+ B4 ^F2 |
+% Bar 70 (1:17)
++ff+ G4 E2 |
++f+ D4 +fff+ G2 |
+B3 +f+ G ^F +ff+ G |
++f+ D4 z2 |
+C2 +ff+ E2- E2 |
+E2 ^F2 G2 |
+G4 +f+ ^F2 |
++ff+ E4 z2 |
++f+ D4 z2 |
++ff+ E4 z2 |
+% Bar 80 (1:29)
++f+ D4 +fff+ G2 |
+c4 z2 |
++ff+ B4 c2 |
++fff+ d4 z2 |
++f+ c2 +ff+ c2 +fff+ e2 |
++ff+ d4 z2 |
+G4 +f+ ^F2 |
++ff+ G4 z2 |
++f+ B4 +ff+ c2 |
++fff+ d4 +ff+ B2 |
+% Bar 90 (1:40)
+d4 d2 |
+d4 z2 |
++f+ d4 +ff+ e2 |
+d4 z2 |
++f+ c4 z2 |
+B4 z2 |
+G4 z2 |
++ff+ d4 z2 |
++f+ G4 +ff+ G2 |
+F4 z2 |
+% Bar 100 (1:51)
++f+ G4 E2 |
+C4 z2 |
+G4 z2 |
+D4 z2 |
++ff+ d2 c +f+ B A +fff+ B |
++ff+ G4 +fff+ d2 |
+e2 +ff+ d2 c2 |
+B4 +f+ ^F2 |
++ff+ G2 ^F2 E2 |
++f+ D4 +ffff+ d2 |
+% Bar 110 (2:02)
++fff+ e2 +ff+ d2 +f+ c2 |
++ff+ B4 +f+ G2 |
++ff+ B3 G ^F G |
++f+ D6 |
+z6 |]
+
+X: 5
+%%Orig filename was GiveMeHarp.abc
+T: Give Me Your Hand (2:07) - Basic Harp
+%%part-name Basic Harp
+C: Unknown
+Z: Raymiond of Gladden
+M: 3/4
+Q: 160
+K: C maj
+
+%%Q: 120
++f+ z16/3
+	%%Q: 160
+	D2 |
++ff+ E2 G2 G2 |
+G4 +f+ D2 |
++ff+ E2 +fff+ G2 +ff+ G3/2 A/ |
+G4 +f+ D2 |
++ff+ E2 G2 G2 |
+G2 A2 +fff+ B2 |
++ff+ B2 +fff+ e2 +ff+ d2 |
++f+ B4 A +ff+ G |
+% Bar 10 (0:10)
+A2 A2 +fff+ e +ff+ d |
++f+ B2 +ff+ B2 d +f+ B |
+A2 +ff+ A B A G |
+E4 +f+ D2 |
++ff+ E2 G2 G2 |
+G4 +f+ D2 |
++ff+ E2 +fff+ G2 +ff+ G2 |
+G4 +f+ D2 |
++ff+ E2 G2 G2 |
+G2 A2 +fff+ B2 |
+% Bar 20 (0:21)
++ff+ d3 +f+ B +ff+ A B |
++f+ G4 D2 |
++ff+ E2 +fff+ G2 +ff+ G2 |
+G2 A2 B2 |
+B2 +fff+ e2 +ff+ d2 |
++f+ B4 A G |
++fff+ A2 +ff+ A2 +fff+ e +ff+ d |
++f+ B2 +ff+ B2 d B |
+A2 A2 B +fff+ d |
++ff+ e4 d +f+ B |
+% Bar 30 (0:32)
++ff+ d2 d2 e2 |
++fff+ g4 +ff+ e d |
+e2 e2 g/ e g/ |
+a4 +f+ d +ff+ e |
+g2 g2 +f+ d +ff+ e |
+g2 g2 +f+ d +ff+ e |
+g2 g2 a/ g a/ |
+b6 |
+b2 b2 b2 |
+b4 a g |
+% Bar 40 (0:44)
+a g a +fff+ b +ff+ a b |
++f+ a4 g +ff+ ^f |
+e2 e2 g +f+ e |
++ff+ d2 d2 e d |
++f+ B2 B2 +ff+ d +f+ B |
+A4 +ff+ B +f+ A |
+G2 +ff+ G2 +fff+ B d |
++ff+ f4 e d |
+e2 e2 g2 |
+e4 d +f+ B |
+% Bar 50 (0:55)
++ff+ d2 d2 +fff+ g2 |
++f+ B2 B2 +ff+ d2 |
++f+ A2 +ff+ c B A G |
+G4 D2 |
+E2 G2 G2 |
+G4 +f+ D2 |
++ff+ E2 G2 G3/2 +fff+ A/ |
++ff+ G4 +f+ D2 |
++ff+ E2 G2 G2 |
+G2 A2 +fff+ B2 |
+% Bar 60 (1:06)
++ff+ B2 +fff+ e2 +ff+ d2 |
++f+ B4 A +ff+ G |
+A2 A2 +fff+ e +ff+ d |
+B2 B2 d B |
+A2 A B A G |
++f+ E4 D2 |
++ff+ E2 G2 G2 |
+G4 +f+ D2 |
++ff+ E2 +fff+ G2 +ff+ G2 |
+G4 +f+ D2 |
+% Bar 70 (1:17)
++ff+ E2 G2 G2 |
+G2 A2 B2 |
++fff+ d3 +ff+ B +f+ A +ff+ B |
+G4 +f+ D2 |
++ff+ E2 G2 G2 |
+G2 +fff+ A2 +ff+ B2 |
+B2 +fff+ e2 +ff+ d2 |
++f+ B4 +ff+ A +f+ G |
++fff+ A2 +ff+ A2 +fff+ e +ff+ d |
++f+ B2 +ff+ B2 d B |
+% Bar 80 (1:29)
++f+ A2 +ff+ A2 B +fff+ d |
++ff+ e4 +f+ d B |
++ff+ d2 d2 +fff+ e2 |
++ff+ g4 +f+ e +ff+ d |
+e2 e2 g/ +f+ e +ff+ g/ |
+a4 +f+ d +fff+ e |
++ff+ g2 g2 +f+ d +ff+ e |
+g2 g2 +f+ d +ff+ e |
+g2 g2 +fff+ a/ +ff+ g a/ |
++fff+ b6 |
+% Bar 90 (1:40)
++ff+ b2 b2 b2 |
+b4 +f+ a g |
++ff+ a g a b a b |
++f+ a4 +ff+ g ^f |
+e2 e2 g +f+ e |
++ff+ d2 d2 e d |
+B2 B2 d B |
+A4 B A |
++f+ G2 +ff+ G2 B d |
+f4 e +f+ d |
+% Bar 100 (1:51)
++ff+ e2 e2 g2 |
++f+ e4 +ff+ d +f+ B |
++ff+ d2 d2 +fff+ g2 |
++f+ B2 B2 +ff+ d2 |
+A2 c B A +f+ G |
++ff+ G4 +f+ D2 |
++ff+ E2 G2 G2 |
+G4 +f+ D2 |
++ff+ E2 +fff+ G2 +ff+ G2 |
+G4 +f+ D2 |
+% Bar 110 (2:02)
++ff+ E2 +fff+ G2 +ff+ G2 |
+G2 A2 B2 |
+d3 B A B |
+G6 |
+z6 |]
+

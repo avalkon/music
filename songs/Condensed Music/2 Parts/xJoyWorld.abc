@@ -1,0 +1,251 @@
+N: TS  2,   5   8
+X: 5
+%%Orig filename was xJoyWorldHarp.abc
+T: Joy to the World (2:10) - 2/2:Harp)
+%%part-name Basic Harp
+C: Lowell Mason
+M: 2/4
+Q: 96
+K: C maj
+
++ff+ z2 [D,-D] [D,C] [G,2-B,2] [G,2-D2-] |
+[G,2D2] [G,2G2] [G,4-G4-] |
+[G,2G2] [C,2E2] [D,4D4] |
+[D,2-D2] [D,2C2] [G,4-B,4-] |
+[G,3B,3] z [G,4G4g4] |
+[G,3G3g3] [G,Gg] [G,3-G3-b3] [G,-G-a] |
+[G,2G2g2] [C,2E2a2] [D,2-D2-b2] [D,2D2-g2] |
+[D,2-D2d2] [D,2C2c2] [G,3-B,3-B3] [G,-B,-c] |
+[G,2B,2d2] [B,2G2d2] [C2-G2-g2] [C2-G2-^f2] |
+% Bar 10 (0:11)
+[C2G2e2] [C2G2g2] [D2-a2] [D2g2] |
+[D2^f2] [D2a2] [G,4-D4-g4-] |
+[G,8D8g8] |
+z2 [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] z2 z4 |
+z2 [G,2D2g2] [G,-D-g] [G,Da] [G,-D-b] [G,Da] |
+[G,2D2g2] [G,2D2] D4- |
+% Bar 20 (0:23)
+D2 [D,2D2-^f2] [D,-D-f] [D,D-g] [D,-D-a] [D,D-g] |
+[D,2D2^f2] [D,-Dg-] [D,Cg] [G,2-B,2b2] [G,2-D2-g2-] |
+[G,2D2g2] [G,2G2^f2] [G,3-G3-g3] [G,-G-a] |
+[G,2G2b2] [C,2E2a2] [D,2-D2-g2] [D,-D-d] [D,De] |
+[D,2-D2^f2] [D,2C2d2] [G,4-B,4-g4-] |
+[G,2-B,2-g2] [G,2B,2] [G,4G4g4] |
+[G,3G3g3] [G,Gg] [G,3-G3-b3] [G,-G-a] |
+[G,2G2g2] [C,2E2a2] [D,2-D2-b2] [D,2D2-g2] |
+[D,2-D2d2] [D,2C2c2] [G,3-B,3-B3] [G,-B,-c] |
+[G,2B,2d2] [B,2G2d2] [C2-G2-g2] [C2-G2-^f2] |
+% Bar 30 (0:36)
+[C2G2e2] [C2G2g2] [D2-a2] [D2g2] |
+[D2^f2] [D2a2] [G,4-D4-g4-] |
+[G,8D8g8] |
+z2 [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] z2 z4 |
+z2 [G,2D2g2] [G,-D-g] [G,Da] [G,-D-b] [G,Da] |
+[G,2D2g2] [G,2D2] D4- |
+% Bar 40 (0:48)
+D2 [D,2D2-^f2] [D,-D-f] [D,D-g] [D,-D-a] [D,D-g] |
+[D,2D2^f2] [D,-Dg-] [D,Cg] [G,2-B,2b2] [G,2-D2-g2-] |
+[G,2D2g2] [G,2G2^f2] [G,3-G3-g3] [G,-G-a] |
+[G,2G2b2] [C,2E2a2] [D,2-D2-g2] [D,-D-d] [D,De] |
+[D,2-D2^f2] [D,2C2d2] [G,4-B,4-g4-] |
+[G,2-B,2-g2] [G,2B,2] [G,4G4g4] |
+[G,3G3g3] [G,Gg] [G,3-G3-b3] [G,-G-a] |
+[G,2G2g2] [C,2E2a2] [D,2-D2-b2] [D,2D2-g2] |
+[D,2-D2d2] [D,2C2c2] [G,3-B,3-B3] [G,-B,-c] |
+[G,2B,2d2] [B,2G2d2] [C2-G2-g2] [C2-G2-^f2] |
+% Bar 50 (1:01)
+[C2G2e2] [C2G2g2] [D2-a2] [D2g2] |
+[D2^f2] [D2a2] [G,4-D4-g4-] |
+[G,8D8g8] |
+z2 [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] z2 z4 |
+z2 [G,2D2g2] [G,-D-g] [G,Da] [G,-D-b] [G,Da] |
+[G,2D2g2] [G,2D2] D4- |
+% Bar 60 (1:13)
+D2 [D,2D2-^f2] [D,-D-f] [D,D-g] [D,-D-a] [D,D-g] |
+[D,2D2^f2] [D,-Dg-] [D,Cg] [G,2-B,2b2] [G,2-D2-g2-] |
+[G,2D2g2] [G,2G2^f2] [G,3-G3-g3] [G,-G-a] |
+[G,2G2b2] [C,2E2a2] [D,2-D2-g2] [D,-D-d] [D,De] |
+[D,2-D2^f2] [D,2C2d2] [G,4-B,4-g4-] |
+[G,2-B,2-g2] [G,2B,2] [G,4G4g4] |
+[G,3G3g3] [G,Gg] [G,3-G3-b3] [G,-G-a] |
+[G,2G2g2] [C,2E2a2] [D,2-D2-b2] [D,2D2-g2] |
+[D,2-D2d2] [D,2C2c2] [G,3-B,3-B3] [G,-B,-c] |
+[G,2B,2d2] [B,2G2d2] [C2-G2-g2] [C2-G2-^f2] |
+% Bar 70 (1:26)
+[C2G2e2] [C2G2g2] [D2-a2] [D2g2] |
+[D2^f2] [D2a2] [G,4-D4-g4-] |
+[G,8D8g8] |
+z2 [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] z2 z4 |
+z2 [G,2D2g2] [G,-D-g] [G,Da] [G,-D-b] [G,Da] |
+[G,2D2g2] [G,2D2] D4- |
+% Bar 80 (1:38)
+D2 [D,2D2-^f2] [D,-D-f] [D,D-g] [D,-D-a] [D,D-g] |
+[D,2D2^f2] [D,-Dg-] [D,Cg] [G,2-B,2b2] [G,2-D2-g2-] |
+[G,2D2g2] [G,2G2^f2] [G,3-G3-g3] [G,-G-a] |
+[G,2G2b2] [C,2E2a2] [D,2-D2-g2] [D,-D-d] [D,De] |
+[D,2-D2^f2] [D,2C2d2] [G,4-B,4-g4-] |
+[G,2-B,2-g2] [G,2B,2] [G,4G4g4] |
+[G,3G3g3] [G,Gg] [G,3-G3-b3] [G,-G-a] |
+[G,2G2g2] [C,2E2a2] [D,2-D2-b2] [D,2D2-g2] |
+[D,2-D2d2] [D,2C2c2] [G,3-B,3-B3] [G,-B,-c] |
+[G,2B,2d2] [B,2G2d2] [C2-G2-g2] [C2-G2-^f2] |
+% Bar 90 (1:51)
+[C2G2e2] [C2G2g2] [D2-a2] [D2g2] |
+[D2^f2] [D2a2] [G,4-D4-g4-] |
+[G,8D8g8] |
+z2 [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] [G,2D2g2] [G,4D4g4] |
+[G,4G4g4] [G,4-G4-b4-] |
+[G,2G2b2] z2 z4 |
+z2 [G,2D2g2] [G,-D-g] [G,Da] [G,-D-b] [G,Da] |
+[G,2D2g2] [G,2D2] D4- |
+% Bar 100 (2:03)
+D2 [D,2D2-^f2] [D,-D-f] [D,D-g] [D,-D-a] [D,D-g] |
+[D,2D2^f2] [D,-Dg-] [D,Cg] [G,2-B,2b2] [G,2-D2-g2-] |
+[G,2D2g2] [G,2G2^f2] [G,3-G3-g3] [G,-G-a] |
+[G,2G2b2] [C,2E2a2] [D,2-D2-g2] [D,-D-d] [D,De] |
+[D,2-D2^f2] [D,2C2d2] [G,4-B,4-g4-] |
+[G,3-B,3-g3] [z5G,B,] |]
+
+X: 8
+%%Orig filename was xJoyWorldLute.abc
+T: Joy to the World (2:10) - 1/2:Liuto)
+%%part-name Basic Lute
+C: Lowell Mason
+M: 2/4
+Q: 96
+K: C maj
+
++fff+ z2 [GB] [^FA] G2 [B2-g2-] |
+[B2g2] [c2e2] [B3d3] [Ac] |
+[G2B2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G3 z [B4g4] |
+[d3^f3] [ce] [B4-d4-] |
+[B2d2] [A2c2] [G4B4] |
+[^F4A4] G4 |
+G2 d2 [c4-e4-] |
+% Bar 10 (0:11)
+[c2e2] [c2e2] [A4-^f4-] |
+[A2^f2] [A2f2] [B4-g4-] |
+[B8g8] |
+z2 [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [G2B2] [G2B2] [G2B2] |
+[G2B2] [GB] [Ac] [B4-d4-] |
+[B2d2] [Ac] [GB] [^F2A2] [F2A2] |
+% Bar 20 (0:23)
+[^F2A2] [FA] [GB] [A4-c4-] |
+[A2c2] [GB] [^FA] G2 [B2-g2-] |
+[B2g2] [c2e2] [B3d3] [Ac] |
+[G2B2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G4 [B4g4] |
+[d3^f3] [ce] [B4-d4-] |
+[B2d2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G2 d2 [c4-e4-] |
+% Bar 30 (0:36)
+[c2e2] [c2e2] [A4-^f4-] |
+[A2^f2] [A2f2] [B4-g4-] |
+[B8g8] |
+z2 [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [G2B2] [G2B2] [G2B2] |
+[G2B2] [GB] [Ac] [B4-d4-] |
+[B2d2] [Ac] [GB] [^F2A2] [F2A2] |
+% Bar 40 (0:48)
+[^F2A2] [FA] [GB] [A4-c4-] |
+[A2c2] [GB] [^FA] G2 [B2-g2-] |
+[B2g2] [c2e2] [B3d3] [Ac] |
+[G2B2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G4 [B4g4] |
+[d3^f3] [ce] [B4-d4-] |
+[B2d2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G2 d2 [c4-e4-] |
+% Bar 50 (1:01)
+[c2e2] [c2e2] [A4-^f4-] |
+[A2^f2] [A2f2] [B4-g4-] |
+[B8g8] |
+z2 [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [G2B2] [G2B2] [G2B2] |
+[G2B2] [GB] [Ac] [B4-d4-] |
+[B2d2] [Ac] [GB] [^F2A2] [F2A2] |
+% Bar 60 (1:13)
+[^F2A2] [FA] [GB] [A4-c4-] |
+[A2c2] [GB] [^FA] G2 [B2-g2-] |
+[B2g2] [c2e2] [B3d3] [Ac] |
+[G2B2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G4 [B4g4] |
+[d3^f3] [ce] [B4-d4-] |
+[B2d2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G2 d2 [c4-e4-] |
+% Bar 70 (1:26)
+[c2e2] [c2e2] [A4-^f4-] |
+[A2^f2] [A2f2] [B4-g4-] |
+[B8g8] |
+z2 [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [G2B2] [G2B2] [G2B2] |
+[G2B2] [GB] [Ac] [B4-d4-] |
+[B2d2] [Ac] [GB] [^F2A2] [F2A2] |
+% Bar 80 (1:38)
+[^F2A2] [FA] [GB] [A4-c4-] |
+[A2c2] [GB] [^FA] G2 [B2-g2-] |
+[B2g2] [c2e2] [B3d3] [Ac] |
+[G2B2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G4 [B4g4] |
+[d3^f3] [ce] [B4-d4-] |
+[B2d2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G2 d2 [c4-e4-] |
+% Bar 90 (1:51)
+[c2e2] [c2e2] [A4-^f4-] |
+[A2^f2] [A2f2] [B4-g4-] |
+[B8g8] |
+z2 [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [B2g2] [B2g2] [d2^f2] |
+[c2e2] [B2d2] [B3d3] [Ac] |
+[G2B2] [G2B2] [G2B2] [G2B2] |
+[G2B2] [GB] [Ac] [B4-d4-] |
+[B2d2] [Ac] [GB] [^F2A2] [F2A2] |
+% Bar 100 (2:03)
+[^F2A2] [FA] [GB] [A4-c4-] |
+[A2c2] [GB] [^FA] G2 [B2-g2-] |
+[B2g2] [c2e2] [B3d3] [Ac] |
+[G2B2] [A2c2] [G4B4] |
+[^F4A4] G4- |
+G4 z4 |]
+

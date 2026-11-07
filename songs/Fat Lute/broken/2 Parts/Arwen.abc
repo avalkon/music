@@ -1,0 +1,46 @@
+N: TS  2,   1   5
+X: 1
+%%Orig filename was Arwen__Flute2.abc
+T:Arwen (Basic Flute) v.1 (By:Bungee) (3:39)
+%%part-name Basic Flute
+Z:Lord Of The Rings (Soundtrack)
+L:1/4
+Q:90
+K:C
+z12 z12 z8 b5 a/2 b/2 b2 e2 g3/2 g/2 g2 a3 a/2 g/2 a2 b4 b5 a/2 b/2 b2
+^f4 c'2 b2 g2 g2 a4 e4 d e [e2c6] g4 g2 a3 g/2 a/2 [a2c6] [b4g4] e4 d
+e [c6e2] g3 e/2 g/2 g2 ^f3 d e6 z12 z6 B2 A2 ^F2 E6 ^F6 d2 c3 c c2 B4
+[e4G6] B e [e2B6] d4 [B6d2G6] e3 b [b2c6] a3 g [d6b2B6] ^f3 a
+[b2B6e6] a3 g [b2g6e6] b3 a/2 b/2 [b2e2c6] [e4z2] g3/2 g/2 [g2^f6d6]
+a3 a/2 g/2 [a2g6e6] b4 [b5g6e6] a/2 b/2 [b2^f2d6] ^f4 [c'2e4c4] b2
+[g2e2c2] [g2^f41/8d41/8] a25/8 B25/8 d3 B25/8 G25/4 A25/4 B3 B25/8
+G25/8 G13/8 ^F3 G13/8 G25/8 A3/2 B3/2 ^F25/8 ^F25/8 [G25/4E25/4]
+
+X: 5
+%%Orig filename was Arwen__Harp1.abc
+T:Arwen (Basic Harp) v.1 (By:Bungee) (5:16)
+%%part-name Basic Harp
+Z:Lord Of The Rings (Soundtrack)
+L:1/4
+Q:90
+K:C
+[AeE8A,8] ^F c e f e c A [c=F7] ^G c ^G f c ^G F [G,8C8E8z] =G c e f e
+c G [E8^G,8z] ^G B e e B B e [g5e5b5z] E =G B G [a/2E] b/2
+[e2c2g2b2z] C [e2E] G [g3/2E] [Cz/2] g/2 [d2g2D2] [d3^f3a3^F] A ^F
+[a/2D] g/2 [e2a2z] E [b4e4g4G] B G E [b5g5e5E23/4z/4] [G11/2z/4]
+[B21/4z13/4] [C,2z5/4] a/2 b/2 [^f2b2d6z] D [^f4^F] B ^F D
+[c'2e6g4c6C6z/4] [E23/4z/4] [G11/2z3/2] b2 g2 [g2z] D [^f4a4^F] A ^F
+D [E6z/4] [A23/4z/4] c11/2 z C E G E C [D6z/4] [^F23/4z/4] A11/2 z E
+G B G E [E6z/4] [A23/4z/4] c11/2 z C E G E C [D6z/4] [^F23/4z/4]
+A11/2 z E G B G E [G6B6E,6E6] [^F6B6B,6E6] [c6A6A,6E6] [D6^F6B6B,6]
+[G6B6E6E,6] [D6^F6B6D,6] [^F6A6D6D,6] [E6G6E,6] [E6E,6] [^F,6D6^F6]
+[=G,6E6] [E6A,6A6] [^F6D6B,6] [G6E6C6] [e2g2b2G2E2] [e3g3b3B] G E
+[a/2B,] b/2 [b2g2c2e2C2G2] [e2B] G [g3/2E] [Cz/2] g/2 [g2d2A2D2^F2]
+[a3^f3d] A ^F [a/2D] g/2 [a2e2E2G2] [e4g4b4B] G E B, [b5g5B2E2] e B G
+[a/2E] b/2 [d2b2B2^F2D2] [^f4d] B ^F D [g4e4c'2C2G2] [b2B] G
+[c2g2e2E] C [g2d41/8D41/8^F41/8A41/8] a25/8 [G49/8e49/8E,49/8E49/8]
+[e25/4C,25/4z/4] [G,6z/4] E23/4 [d25/4^f25/4D,25/4A,25/4D25/4]
+[g49/8e49/8E,31/8E31/8] E3/4 G3/4 B3/4 [e25/4g25/4C,25/4z7/8] G,3/4
+E37/8 [d25/4D,25/4z3/4] A,7/8 D37/8 [G25/8E,49/8z3/4] B,3/4
+[E37/8z13/8] A3/2 [B31/4z3/2] [D25/8D,25/4A,25/4] D25/8 [E25/4E,25/4]
+

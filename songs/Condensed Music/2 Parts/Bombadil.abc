@@ -1,0 +1,902 @@
+N: TS  2,   1   8
+X: 1
+%%Orig filename was BombadilFlute.abc
+T: Let Us Sing Together (Tom Bombadil Theme) Basic Flute (0:00)
+%%part-name Basic Flute
+N: Astleigh of Landroval
+L: 1/8
+Q: 186
+K: C
+
+%%% intro %%%
+
+z6
+
+z6
+
+z6
+
+z4 G F
+
+%%% start %%%
+
+E2 G z c d
+
+c4 z2
+
+z6
+
+z4 E F
+
+G2 c z d e
+
+f2 e z d c
+
+A2 A z c G
+
+A4 z2
+
+z6
+
+z6
+
+A2 A z c G
+
+A2 B/2 A/2 G3
+
+z6
+
+z4 G F
+
+E2 G z c d
+
+c4 z2
+
+z6
+
+z4 E F
+
+G2 c z d e
+
+f2 e z d c
+
+a2 g z e g
+
+e6
+
+z6
+
+z4 d e
+
+f4 z1 d/2 f/2
+
+d4 d c
+
+B d g4
+
+z6
+
+a3 z2 g
+
+f z e2 d c
+
+g2 z3 e
+
+d2 c2 z2
+
+f3 z2 e
+
+d2 c2 B A
+
+G/2 A/2 G/2 A/2 G/2 A/2 G z a
+
+g4 G F
+
+%%% repeat %%%
+
+E2 G z c d
+
+c4 z2
+
+z6
+
+z4 E F
+
+G2 c z d e
+
+f2 e z d c
+
+A2 A z c G
+
+A4 z2
+
+z6
+
+z6
+
+A2 A z c G
+
+A2 B/2 A/2 G3
+
+z6
+
+z4 G F
+
+E2 G z c d
+
+c4 z2
+
+z6
+
+z4 E F
+
+G2 c z d e
+
+f2 e z d c
+
+a2 g z e g
+
+e6
+
+z6
+
+z4 d e
+
+f4 z1 d/2 f/2
+
+d4 d c
+
+B d g4
+
+z6
+
+a3 z2 g
+
+f z e2 d c
+
+g2 z3 e
+
+d e c2 z2
+
+f3 z2 e
+
+d2 c2 B A
+
+G/2 A/2 G/2 A/2 G/2 A/2 G z a
+
+g4
+
+X: 8
+%%Orig filename was BombadilLute.abc
+T: Let Us Sing Together (Tom Bombadil Theme) Basic Lute (0:00)
+%%part-name Basic Lute
+N: Astleigh of Landroval
+L: 1/8
+Q: 186
+K: C
+
+%%% intro %%%
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++p+[ceg]
+
+%%% start %%%
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
+|
++mf+[_B,F_Bdf_b]	% Bb barre E
+z
++ppp+[dfb]
++p+[dfb]
++ppp+[dfb]
++p+[dfb]
+|
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
+z
++ppp+[dfa]
++p+[dfa]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
+%%% variation 1 %%%
++mf+[F,CFAcf]		% F  barre E
++p+[Acf]
++ppp+[Acf]
++mf+[G,DGBdg]		% G  barre E
++ff+a b
+
+c' b c' b g d
+
+c B G D C B,
+%%% end variation 1 %%%
+
+%%% variation 2 %%%
+%+mf+[F,CFAcf]		% F  barre E
+%+p+[Acf]
+%+ppp+[Acf]
+%+mf+[G,DGBdg]		% G  barre E
+%+ppp+[Bdg]
+%+p+[Bdg]
+%
+%+mp+[G,DGBdg]		% G  barre E
+%z
+%+ppp+[Bdg]
+%+p+[Bdg]
+%+ppp+[Bdg]
+%+p+[Bdg]
+%
+%+mf+[G,DGBdg]		% G  barre E
+%z
+%+ppp+[Bdg]
+%+p+[Bdg]
+%+ppp+[Bdg]
+%+p+[Bdg]
+%%% end varation 2 %%%
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[A,EAce]		% Am open
+z
++ppp+[Ace]
++p+[Ace]
++ppp+[Ace]
++p+[Ace]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
++p+[GBe]
++ppp+[GBe]
++p+[GBe]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
++p+[GBe]
++ppp+[GBe]
++p+[GBe]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
++p+[GBe]
++ppp+[GBe]
++p+[GBe]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
+z
++ppp+[GBe]
++p+[GBe]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
+%%% repeat %%%
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
+|
++mf+[_B,F_Bdf_b]	% Bb barre E
+z
++ppp+[dfb]
++p+[dfb]
++ppp+[dfb]
++p+[dfb]
+|
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
+z
++ppp+[dfa]
++p+[dfa]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
+%%% variation 1 %%%
+%+mf+[F,CFAcf]		% F  barre E
+%+p+[Acf]
+%+ppp+[Acf]
+%+mf+[G,DGBdg]		% G  barre E
+%a b
+%
+%c' b c' b g d
+%
+%c B G D C B,
+%%% end variation 1 %%%
+
+%%% variation 2 %%%
++mf+[F,CFAcf]		% F  barre E
++p+[Acf]
++ppp+[Acf]
++mf+[G,DGBdg]		% G  barre E
++ppp+[Bdg]
++p+[Bdg]
+
++mp+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+%%% end varation 2 %%%
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[A,EAce]		% Am open
+z
++ppp+[Ace]
++p+[Ace]
++ppp+[Ace]
++p+[Ace]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
++p+[GBe]
++ppp+[GBe]
++p+[GBe]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
++p+[GBe]
++ppp+[GBe]
++p+[GBe]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
++p+[GBe]
++ppp+[GBe]
++p+[GBe]
+
++mf+[E,B,EGBe]		% Em open
+z
++ppp+[GBe]
+z
++ppp+[GBe]
++p+[GBe]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
+%%% repeat %%%
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++p+[ceg]
+
++mf+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
+|
++mf+[_B,F_Bdf_b]	% Bb barre E
+z
++ppp+[dfb]
++p+[dfb]
++ppp+[dfb]
++p+[dfb]
+|
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
++p+[dfa]
++ppp+[dfa]
++p+[dfa]
+
++mf+[DAdfa]		% Dm barre A
+z
++ppp+[dfa]
+z
++ppp+[dfa]
++p+[dfa]
+
++mf+[F,CFAcf]		% F  barre E
+z
++ppp+[Acf]
++p+[Acf]
++ppp+[Acf]
++p+[Acf]
+
+%%% variation 1 %%%
+%+mf+[F,CFAcf]		% F  barre E
+%+p+[Acf]
+%+ppp+[Acf]
+%+mf+[G,DGBdg]		% G  barre E
+%a b
+%
+%c' b c' b g d
+%
+%c B G D C B,
+%%% end variation 1 %%%
+
+%%% variation 2 %%%
++mf+[F,CFAcf]		% F  barre E
++p+[Acf]
++ppp+[Acf]
++mf+[G,DGBdg]		% G  barre E
++ppp+[Bdg]
++p+[Bdg]
+
++mp+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+
++mf+[G,DGBdg]		% G  barre E
+z
++ppp+[Bdg]
++p+[Bdg]
++ppp+[Bdg]
++p+[Bdg]
+%%% end varation 2 %%%
+
+%%% fade out %%%
+
++mp+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++p+[ceg]
++ppp+[ceg]
++p+[ceg]
+
++p+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++pp+[ceg]
++ppp+[ceg]
++pp+[ceg]
+
++pp+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++ppp+[ceg]
++ppp+[ceg]
++ppp+[ceg]
+
++ppp+[CGceg]		% C  barre A
+z
++ppp+[ceg]
+z
++ppp+[ceg]
++ppp+[ceg]
+
++ppp+[CGceg]		% C  barre A
+z
++ppp+[ceg]
++ppp+[ceg]
++ppp+[ceg]
++ppp+[ceg]
+
++ppp+[CGceg]		% C  barre A
+

@@ -1,0 +1,204 @@
+N: TS  3,   8   5  21
+X: 8
+%%Orig filename was LothBass.abc
+%abc-2.1
+%%song-title       Lothlorien (theorbo)
+%%song-duration    2:02
+%%song-transcriber makalaure using LotRO MIDI Player
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Lothlorien (Basic Theorbo) (2:02) - Lothlorien (Basic Theorbo) (1:33)
+%%part-name Basic Theorbo
+Z: makalaure using LotRO MIDI Player
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ z8 |
+D,8 |
+A,8 |
+D,8 |
+A,8 |
+F,4 G,4 |
+C,8 |
+F,4 G,4 |
+D,8 |
+% Bar 10 (0:24)
+F,4 G,4 |
+C,8 |
+F,4 G,4 |
+A,8 |
+z8 |
+D,8 |
+A,8 |
+D,8 |
+A,8 |
+F,4 G,4 |
+% Bar 20 (0:51)
+C,8 |
+F,4 G,4 |
+D,8 |
+F,4 G,4 |
+C,8 |
+F,4 G,4 |
+A,8 |
+D,8 |
+A,8 |
+D,8 |
+% Bar 30 (1:18)
+A,8 |
+F,4 G,4 |
+C,8 |
+F,4 G,4 |
+D,8 |
+F,4 G,4 |
+C,8 |
+F,4 G,4 |
+D,8 |
+F,4 G,4 |
+% Bar 40 (1:45)
+C,8 |
+F,4 G,4 |
+D,8 |
+F,4 G,4 |
+C,8 |
+F,4 G,4 |
+A,8- |
+A,2- A,3/2 z9/2 |]
+
+X: 5
+%%Orig filename was LothHarp.abc
+%abc-2.1
+%%song-title       Lothlorien (harp)
+%%song-duration    2:02
+%%song-transcriber makalaure using LotRO MIDI Player
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Lothlorien (Basic Harp) (2:02) - Lothlorien (Basic Harp) (1:32)
+%%part-name Basic Harp
+Z: makalaure using LotRO MIDI Player
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ z8 |
+[fa-] [ea-] [f2-a2-] [f2a2-] [da] z |
+[e-c'] [e-b] [e2-c'2-] [e2c'2] a z |
+[fa-] [ea-] [f2-a2-] [f2a2-] [da] z |
+[e-c'] [e-b] [e2-c'2-] [e2-c'2] [ea] z |
+a z g a c' b g z |
+g4- g// z15/4 |
+a2 g a c' b g z |
+a4- a z z2 |
+% Bar 10 (0:24)
+a2 g a c' b g2 |
+e4- e// z15/4 |
+a2 g a c' b g z |
+a8- |
+a4- a3 z |
+[fa-] [ea-] [f2-a2-] [f2a2-] [da] z |
+[e-c'] [e-b] [e2-c'2-] [e2c'2] a z |
+[fa-] [ea-] [f2-a2-] [f2a2-] [da] z |
+[e-c'] [e-b] [e2-c'2-] [e2-c'2] [ea] z |
+a z g a c' b g z |
+% Bar 20 (0:51)
+g4- g// z15/4 |
+a2 g a c' b g z |
+a4- a z z2 |
+a2 g a c' b g2 |
+e4- e/ z7/2 |
+a2 g a c' b g z |
+a4- a z z2 |
+[fa-] [ea-] [f2-a2-] [f2a2-] [da] z |
+[e-c'] [e-b] [e2-c'2-] [e2-c'2] [ea] z |
+[fa-] [ea-] [f2-a2-] [f2a2-] [da] z |
+% Bar 30 (1:18)
+[e-c'] [e-b] [e2-c'2-] [e2-c'2] [ea] z |
+a z g a c' b g z |
+g4- g// z15/4 |
+a z g a c' b g z |
+a4- a z z2 |
+a2 g a c' b g z |
+e4- e z z2 |
+a z g a c' b g z |
+a4- a z z2 |
+a z g a c' b g z |
+% Bar 40 (1:45)
+g4- g z z2 |
+a z g a c' b g z |
+a4- a z z2 |
+a z g a c' b g z |
+e4- e z z2 |
+a z g a c' b g z |
+z a- a2- a3 z |]
+
+X: 21
+%%Orig filename was LothLute.abc
+%abc-2.1
+%%song-title       Lothlorien (lute)
+%%song-duration    2:02
+%%song-transcriber makalaure using LotRO MIDI Player
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Lothlorien (Basic Lute) (2:02) - Lothlorien (Basic Lute) (1:32)
+%%part-name Basic Lute
+Z: makalaure using LotRO MIDI Player
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ z8 |
+D,- [D,-A,-] [D,2-A,2-F2-] [D,2-A,2-F2-] [D,/A,/-F/-] [A,F-] F/ |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,-A,-] [E,//A,//-] A,3/4 |
+D,- [D,-A,-] [D,2-A,2-D2-] [D,2-A,2-D2-] [D,/A,/-D/-] [A,/-D/-] [A,//D//-] D3/4 |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,3/2A,3/2-] A,/ |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+D,- [D,-A,] [D,D-] D2 A, D A |
+% Bar 10 (0:24)
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,-A,] E,// z3/4 |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,-A,] E,/ z/ |
+D,- [D,-A,-] [D,2-A,2-F2-] [D,2-A,2-F2-] [D,/A,/-F/-] [A,F-] F/ |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,-A,-] [E,//A,//-] A,3/4 |
+D,- [D,-A,-] [D,2-A,2-D2-] [D,2-A,2-D2-] [D,/A,/-D/-] [A,/-D/-] [A,//D//-] D3/4 |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,3/2A,3/2-] A,/ |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+% Bar 20 (0:51)
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+D,- [D,-A,] [D,D-] D2 A, D A |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+A,- [E,A,] A, E, A,- [E,A,] A, E, |
+D,- [D,-A,-] [D,2-A,2-F2-] [D,2-A,2-F2-] [D,/A,/-F/-] [A,F-] F/ |
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,-A,-] [E,//A,//-] A,3/4 |
+D,- [D,-A,-] [D,2-A,2-D2-] [D,2-A,2-D2-] [D,/A,/-D/-] [A,/-D/-] [A,//D//-] D3/4 |
+% Bar 30 (1:18)
+A,- [E,-A,] [E,2-A,2-] [E,2-A,2-] [E,3/2A,3/2-] A,/ |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C-] [A,C] G,- [G,-B,] [G,D] B, |
+D,- [D,-A,] [D,D-] D2 A, D A |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+D,- [D,-A,] [D,D-] D2 A, D A |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+% Bar 40 (1:45)
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+D,- [D,-A,] [D,D-] D2 A, D A |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+C,- [C,-G,] [C,C-] C2 G, C G |
+F,- [F,-A,] [F,C] A, G,- [G,-B,] [G,D] B, |
+A,//- [E,//-A,//] [E,23/4A,23/4-] A,7/4 |
+z8 |]
+

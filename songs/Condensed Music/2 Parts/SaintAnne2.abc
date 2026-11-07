@@ -1,0 +1,279 @@
+N: TS  2,   1   9
+X: 1
+%%Orig filename was SaintAnne2Flute.abc
+%abc-2.1
+%%song-title       Saint Anne's Reel
+%%song-composer    Barry Taylor
+%%song-duration    1:50
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 23:08:54
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Saint Anne's Reel (1:50) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 2/4
+Q: 110
+K: C maj
+L: 1/16
+
++ff+ E D ^C B, A, C E G |
+^F D E ^C D2 +fff+ A, D |
+^F2 F G F E D B, |
+A,2 ^F, A, D, F, A, C |
+B,2 G, B, D, G, B, D |
+A,2 ^F, A, D, F, A, D |
+^F2 F G F E D B, |
+A, A, ^F, A, D, F, A, D |
+B, G, B, D ^C A, C E |
+% Bar 10 (0:10)
+D2 [D^F] [DF] [D2F2] D E |
+^F2 F G F E D B, |
+A,2 ^F, A, D, F, A, C |
+B,2 G, B, D, G, B, D |
+A,2 ^F, A, D, F, A, D |
+^F2 F G F E D B, |
+A, A, ^F, A, D, F, A, D |
+B, G, B, D ^C A, C E |
+D2 [D^F] [DF] [D2F2] A G |
+^F D F A F D F G |
+% Bar 20 (0:21)
+A G G ^F G2 G F |
+E D ^C B, A, C E G |
+B A A ^G A2 A =G |
+^F D F A F D F G |
+A G G ^F G A G F |
+E D ^C B, A, C E G |
+^F A E ^C D2 A G |
+^F D F A F D F G |
+A G G ^F G2 G F |
+E D ^C B, A, C E G |
+% Bar 30 (0:32)
+B A A ^G A2 A =G |
+^F D F A F D F G |
+A G G ^F G A G F |
+E D ^C B, A, C E G |
+^F D E ^C D2 +ff+ A, D |
+^F2 F G F E D B, |
+A, A, ^F, A, D, A, F, A, |
+B, B, G, B, D, B, G, B, |
+A, A, ^F, A, D, F, A, D |
+^F2 F G F E D B, |
+% Bar 40 (0:43)
+A, A, ^F, A, D, F, A, D |
+B, G, B, D ^C A, C E |
+D2 [D^F] [DF] [D2F2] D E |
+^F2 F G F E D B, |
+A, A, ^F, A, D, A, F, A, |
+B, B, G, B, D, B, G, B, |
+A, A, ^F, A, D, F, A, D |
+^F2 F G F E D B, |
+A, A, ^F, A, D, F, A, D |
+B, G, B, D ^C A, C E |
+% Bar 50 (0:54)
+D2 [D^F] [DF] [D2F2] A G |
+^F D F A F D F G |
+A G G ^F G2 G F |
+E D ^C B, A, C E G |
+B A A ^G A2 A =G |
+^F D F A F D F G |
+A G G ^F G A G F |
+E D ^C B, A, C E G |
+^F A E ^C D2 A G |
+^F D F A F D F G |
+% Bar 60 (1:05)
+A G G ^F G2 G F |
+E D ^C B, A, C E G |
+B A A ^G A2 A =G |
+^F D F A F D F G |
+A G G ^F G A G F |
+E D ^C B, A, C E G |
+^F D E ^C D2 [E,B,] [A,F] |
+[B,2^G2] [B,G] [^CA] [B,G] [A,^F] [^G,E] [^F,C] |
+[E,2B,2] [^G,B,] [E,B,] [E,B,] [E,G,] [G,B,] [B,D] |
+[A,2^C2] [E,A,] [A,C] [E,A,] [^C,A,] [E,C] [A,E] |
+% Bar 70 (1:16)
+[^G,2B,2] [E,G,] [G,B,] [E,B,] [E,G,] [G,B,] [A,E] |
+[B,2^G2] [B,G] [^CA] [B,G] [A,^F] [^G,E] [^F,C] |
+[E,B,] [E,B,] [^G,B,] [E,B,] [E,G,] [G,B,] [E,B,] [A,E] |
+[E,^C] [^C,A,] [E,C] [^G,E] [^F,^D] [^D,B,] [F,D] [A,^F] |
+[^G,2E2] [E,G,E^G] [E,G,EG] [E,2G,2E2G2] [G,E] [A,^F] |
+[B,2^G2] [B,G] [^CA] [B,G] [A,^F] [^G,E] [^F,C] |
+[E,2B,2] [^G,B,] [E,B,] [E,B,] [E,G,] [G,B,] [B,D] |
+[A,2^C2] [E,A,] [A,C] [E,A,] [^C,A,] [E,C] [A,E] |
+[^G,2B,2] [E,G,] [G,B,] [E,B,] [E,G,] [G,B,] [A,E] |
+[B,2^G2] [B,G] [^CA] [B,G] [A,^F] [^G,E] [^F,C] |
+% Bar 80 (1:27)
+[E,B,] [E,B,] [^G,B,] [E,B,] [E,G,] [G,B,] [E,B,] [A,E] |
+[E,^C] [^C,A,] [E,C] [^G,E] [^F,^D] [^D,B,] [F,D] [A,^F] |
+[^G,2E2] [E,G,E^G] [E,G,EG] [E,2G,2E2G2] [^DB] [^CA] |
+[B,^G] [^G,E] [B,G] [EB] [B,G] [G,E] [B,G] [EA] |
+[^DB] [^CA] [CA] [B,^G] [C2A2] [CA] [B,G] |
+[A,^F] [^G,E] [^F,^D] [E,^C] [^D,B,] [F,D] [A,F] [CA] |
+[A,^c] [^G,B] [G,B] [^F,^A] [G,2B2] [^DB] [^C=A] |
+[B,^G] [^G,E] [B,G] [EB] [B,G] [G,E] [B,G] [EA] |
+[^DB] [^CA] [CA] [B,^G] [CA] [DB] [CA] [B,G] |
+[A,^F] [^G,E] [^F,^D] [E,^C] [^D,B,] [F,D] [A,F] [CA] |
+% Bar 90 (1:38)
+[B,^G] [^CB] [A,^F] [^F,^D] [^G,2E2] [EB] [CA] |
+[B,^G] [^G,E] [B,G] [EB] [B,G] [G,E] [B,G] [EA] |
+[^DB] [^CA] [CA] [B,^G] [C2A2] [CA] [B,G] |
+[A,^F] [^G,E] [^F,^D] [E,^C] [^D,B,] [F,D] [A,F] [CA] |
+[A,^c] [^G,B] [G,B] [^F,^A] [G,2B2] [^DB] [^C=A] |
+[B,^G] [^G,E] [B,G] [EB] [B,G] [G,E] [B,G] [EA] |
+[^DB] [^CA] [CA] [B,^G] [CA] [DB] [CA] [B,G] |
+[A,^F] [^G,E] [^F,^D] [E,^C] [^D,B,] [F,D] [A,F] [CA] |
+[B,^G] [^G,E] [A,^F] [^F,^D] [G,4E4] |
+^F E ^D ^C B, D F A |
+% Bar 100 (1:49)
+^G E ^F ^D E2 [B,2E2e2] |
+z6 |]
+
+X: 9
+%%Orig filename was SaintAnne2ReelAges.abc
+%abc-2.1
+%%song-title       Saint Anne's Reel
+%%song-composer    Barry Taylor
+%%song-duration    1:50
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 23:08:54
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Saint Anne's Reel (1:50) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 2/4
+Q: 110
+K: C maj
+L: 1/16
+
++mf+ z8 |
+z8 |
+D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ [G,-D-] +mp+ [G,-Dg] +mf+ [G,-DGBg] +mp+ [G,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ A,- +mp+ [A,-g] +mf+ [A,-EA^cg] +mp+ [A,g] |
+% Bar 10 (0:10)
++mf+ D2 [A,-D^FAd^f] +mp+ [A,f] +mf+ [A,-D-F-] +mp+ [A,-D-Ff] [A,-D-Adf] [A,Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ [G,-D-] +mp+ [G,-Dg] +mf+ [G,-DGBg] +mp+ [G,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ A,- +mp+ [A,-g] +mf+ [A,-EA^cg] +mp+ [A,g] |
++mf+ D2 [A,-D^FAd^f] +mp+ [A,f] +mf+ [A,-D-F-] +mp+ [A,-D-Ff] [A,-D-Adf] [A,Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-F-] +mp+ [A,-Ff] +mf+ [A,-DFAdf] +mp+ [A,f] |
+% Bar 20 (0:21)
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EAcg] +mp+ [A,g] |
++mf+ [A,2D2] [A,-D^FA^cg] +mp+ [A,g] +mf+ [D2-F2] +mp+ [D-Ad^f] [Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-F-] +mp+ [A,-Ff] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
+% Bar 30 (0:32)
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EAcg] +mp+ [A,g] |
++mf+ [A,2D2] [A,-D^FA^cg] +mp+ [A,g] +mf+ [D2-F2] +mp+ [D-Ad^f] [Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ [G,-D-] +mp+ [G,-Dg] +mf+ [G,-DGBg] +mp+ [G,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
+% Bar 40 (0:43)
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ A,- +mp+ [A,-g] +mf+ [A,-EA^cg] +mp+ [A,g] |
++mf+ D2 [A,-D^FAd^f] +mp+ [A,f] +mf+ [A,-D-F-] +mp+ [A,-D-Ff] [A,-D-Adf] [A,Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ [G,-D-] +mp+ [G,-Dg] +mf+ [G,-DGBg] +mp+ [G,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ A,- +mp+ [A,-f] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ G,2- [G,-DGBg] +mp+ [G,g] +mf+ A,- +mp+ [A,-g] +mf+ [A,-EA^cg] +mp+ [A,g] |
+% Bar 50 (0:54)
++mf+ D2 [A,-D^FAd^f] +mp+ [A,f] +mf+ [A,-D-F-] +mp+ [A,-D-Ff] [A,-D-Adf] [A,Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-F-] +mp+ [A,-Ff] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EAcg] +mp+ [A,g] |
++mf+ [A,2D2] [A,-D^FA^cg] +mp+ [A,g] +mf+ [D2-F2] +mp+ [D-Ad^f] [Df] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-F-] +mp+ [A,-Ff] +mf+ [A,-DFAdf] +mp+ [A,f] |
+% Bar 60 (1:05)
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ D2 [D^FAd^f] +mp+ f +mf+ [A,-A-] +mp+ [A,-Af] +mf+ [A,-DFAdf] +mp+ [A,f] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EGAcg] +mp+ [A,g] |
++mf+ E2 [EGA^cg] +mp+ g +mf+ [A,-A-] +mp+ [A,-Ag] +mf+ [A,-EAcg] +mp+ [A,g] |
++mf+ [A,2D2] [A,-D^FA^cg] +mp+ [A,g] +mf+ [D-F-] +mp+ [D-Fe] [D-^GBe] [De] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ A,2- [A,-EA^ca] +mp+ [A,a] +mf+ [A,-E-] +mp+ [A,-Ea] +mf+ [A,-EAca] +mp+ [A,a] |
+% Bar 70 (1:16)
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ A,2- [A,-EA^ca] +mp+ [A,a] +mf+ B,- +mp+ [B,-a] +mf+ [B,-^FB^da] +mp+ [B,a] |
++mf+ E2 [B,-E^GBe^g] +mp+ [B,g] +mf+ [B,-E-G-] +mp+ [B,-E-Gg] [B,-E-Beg] [B,Eg] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ A,2- [A,-EA^ca] +mp+ [A,a] +mf+ [A,-E-] +mp+ [A,-Ea] +mf+ [A,-EAca] +mp+ [A,a] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
+% Bar 80 (1:27)
++mf+ E2 [E^GBe^g] +mp+ g +mf+ B,- +mp+ [B,-g] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ A,2- [A,-EA^ca] +mp+ [A,a] +mf+ B,- +mp+ [B,-a] +mf+ [B,-^FB^da] +mp+ [B,a] |
++mf+ E2 [B,-E^GBe^g] +mp+ [B,g] +mf+ [B,-E-G-] +mp+ [B,-E-Gg] [B,-E-Beg] [B,Eg] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ [B,-G-] +mp+ [B,-Gg] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FABda] +mp+ [B,a] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FABda] +mp+ [B,a] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ [B,-B-] +mp+ [B,-Bg] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ [B,-B-] +mp+ [B,-Bg] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FABda] +mp+ [B,a] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FBda] +mp+ [B,a] |
+% Bar 90 (1:38)
++mf+ [B,2E2] [B,-E^GB^da] +mp+ [B,a] +mf+ [E2-G2] +mp+ [E-Be^g] [Eg] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ [B,-G-] +mp+ [B,-Gg] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FABda] +mp+ [B,a] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FABda] +mp+ [B,a] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ [B,-B-] +mp+ [B,-Bg] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ E2 [E^GBe^g] +mp+ g +mf+ [B,-B-] +mp+ [B,-Bg] +mf+ [B,-EGBeg] +mp+ [B,g] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FABda] +mp+ [B,a] |
++mf+ ^F2 [FAB^da] +mp+ a +mf+ [B,-B-] +mp+ [B,-Ba] +mf+ [B,-FBda] +mp+ [B,a] |
++mf+ [B,2E2] [B,-E^GB^da] +mp+ [B,a] +mf+ [E2-G2-] +mp+ [E-G-Be^g] [EGg] |
+z8 |
+% Bar 100 (1:49)
+z6 [E2B2e2^g2] |
+z6 |]
+

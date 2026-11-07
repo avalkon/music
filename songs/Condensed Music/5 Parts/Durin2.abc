@@ -1,0 +1,828 @@
+%abc-2.1
+%%song-title       Song of Durin's Awakening
+%%song-composer    The Lonely Mountain Band
+%%song-duration    4:00
+%%song-transcriber Astleigh Mondegreen
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:56:08
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title: The Lonely Mountain Band - Song of Durin's Awakening
+N: TS  5,  22  5 21  8 20
+I:decoration +
+
+X: 22
+T: Song of Durin's Awakening (4:00) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+%%user-pan auto
+C: The Lonely Mountain Band
+Z: Astleigh Mondegreen
+M: 4/4
+Q: 130
+L: 1/8
+K: C maj
++f+ [^D^A] z D ^d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [^CA] z D d |
++pp+ ^A ^D +f+ [^CA] z D ^d +pp+ A D |
++f+ [B,^A] z ^D ^d +pp+ A D +f+ [B,A] z |
+^D ^d +pp+ ^A D +f+ [^G,A] z D d |
++pp+ ^A ^D +f+ [^G,A] z D ^d +pp+ A D |
++f+ [B,^A] z ^D ^d +pp+ A D +f+ [B,A] z |
+^D ^d +pp+ ^A D +f+ [^G,A] z D d |
++pp+ ^A ^D +f+ [^G,A] z D ^d +pp+ A D |
+% Bar 10 (0:17)
++f+ [^D^A] z D ^d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [Dd] |
++f+ [^D^A^d] z [D^c] d +pp+ A [Dc] +f+ [DAd] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^CAd] z [D^c] d |
++pp+ ^A [^D^c] +f+ [^CA^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] ^c D d |
++pp+ ^A [^D^c] +f+ [^G,A^d] z D [cd] +pp+ A D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+% Bar 20 (0:36)
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [D^a] |
++f+ [^D^A^a] z [D^g] [^d^f] +pp+ [Ag] D +f+ [DAa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^CAa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^CA^a] b [Da] ^d +pp+ A [Da] |
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^G,A^a] b [Da] ^d +pp+ A [Da] |
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
+% Bar 30 (0:54)
++pp+ [^A^d] ^D +f+ [^G,Ad] z D [^cd] +pp+ A D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [D^a] |
++f+ [^D^A^a] z [D^g] [^d^f] +pp+ A [Dg] +f+ [DAa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^CAa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^CA^a] b [Da] ^d +pp+ A [Da] |
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^G,A^a] b [Da] ^d +pp+ A [Da] |
+% Bar 40 (1:12)
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
++pp+ ^A ^D +f+ [^G,A] z [D^d] d +pp+ [A^c] D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [Dd] |
++f+ [^D^A^d] z [D^c] d +pp+ A [Dc] +f+ [DAd] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^CAd] z [D^c] d |
++pp+ [^A^c] ^D +f+ [^CA^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+% Bar 50 (1:31)
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] z [D^c] d |
++pp+ ^A [^D^c] +f+ [^G,A^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] z [D^c] d |
++pp+ ^A [^D^c] +f+ [^G,A^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] z [D^c] d |
++pp+ [^A^c] ^D +f+ [^G,A^d] z D [cd] +pp+ A D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
+% Bar 60 (1:49)
++pp+ ^A ^D +f+ [DA] z5 |
+z6 [^D,^D] z/ +pp+ [D,/D/] |
+[^D,^D] +f+ [^C,^C] +pp+ ^A, [C,C] +f+ [D,D] z/ +pp+ [D,/D/] [D,D] +f+ [^F,^F] |
++pp+ [^D,^D] [^F,^F] +f+ [^G,^G] z/ +pp+ [G,/G/] [G,G] +f+ [F,F] +pp+ [=F,=F] z |
++f+ [^F,^F] +pp+ [=F,=F] [^C,^C] +f+ [C,C] +pp+ [C,C] [C,C] +f+ [^D,^D] z/ +pp+ [D,/D/] |
+[^D,^D] +f+ [^C,^C] +pp+ ^A, [C,C] +f+ [D,D] z/ +pp+ [D,/D/] [D,D] +f+ [^F,^F] |
++pp+ [^D,^D] [^F,^F] +f+ [B,B] z/ +pp+ [^A,/^A/] [^G,^G] +f+ [A,A] +pp+ [G,G] [F,F] |
++f+ [^G,^G] +pp+ [^F,^F] [=F,=F] +f+ [^F,^F] +pp+ [=F,=F] [^D,^D^d] +f+ [D,Dd] +pp+ D |
+[^D^c] +f+ [^D,D^d] +pp+ D [Dc] +f+ [D,Dd] +pp+ [D^f] D +f+ [D,Fd] |
++pp+ F [F^d] +f+ [^C,^Fd] +pp+ F [F^c] +f+ [C,Fd] +pp+ F [Fc] |
+% Bar 70 (2:08)
++f+ [^C,^F^d] +pp+ F [F^f] +f+ [C,^Ad] +pp+ A [Ad] +f+ [B,^Gd] +pp+ G |
+[^G^c] +f+ [B,G^d] +pp+ G [Gc] +f+ [B,Gd] +pp+ G [G^f] +f+ [B,Gd] |
++pp+ ^G [G^d] +f+ [^G,^Dd] +pp+ D [D^c] +f+ [G,Dd] +pp+ D [Dc] |
++f+ [^G,^D^d] +pp+ D [D^f] +f+ [G,Dd] +pp+ D [Dd] +f+ [B,^Fd] +pp+ [F^c] |
+^F +f+ [B,F^d] +pp+ F [F^c] +f+ [B,=Fd] +pp+ F [F^f] +f+ [B,Fd] |
++pp+ F [^A^d] +f+ [^G,^Dd] +pp+ [D^c] D +f+ [G,Dd] +pp+ D [Dc] |
++f+ [^G,^A,^d] +pp+ [A,^c] A, +f+ [G,A,d] +pp+ A, ^A +f+ [B,^Dd] +pp+ D |
+[^D^c] +f+ [B,D^d] +pp+ D [Dc] +f+ [B,Dd] +pp+ D [D^f] +f+ [B,Fd] |
++pp+ F [F^d] +f+ [^G,^Fd] +pp+ F [F^c] +f+ [G,Fd] +pp+ F [Fc] |
++f+ [^G,^F^d] +pp+ F F +f+ [G,F^c] +pp+ ^A, ^C +f+ [^D,^Dd] +pp+ D |
+% Bar 80 (2:26)
+^D +f+ [^D,D] +pp+ D D +f+ [D,D] +pp+ D D +f+ [D,^A,] |
++pp+ ^A, A, +f+ [^D,^D] +pp+ D D +f+ [D,D] +pp+ D D |
++f+ [^D,^D] z4 +pp+ ^a +mp+ a z |
+^g ^f z g ^a b a z |
+z ^a [^C^Aa] z [^D^g] [^d^f] +pp+ A [Dg] |
++f+ [^C^A^a] b [^Da] ^d +pp+ A [Da] +f+ [B,Aa] z |
+[^D^g] [^d^f] +pp+ ^A [Dg] +f+ [B,A^a] b [Da] d |
++pp+ ^A [^D^a] +f+ [^G,Aa] z [D^g] [^d^f] +pp+ A D |
++f+ [^G,^A] z [^D^d] d +pp+ [A^c] D +f+ [DAd] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
+% Bar 90 (2:45)
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A D |
++f+ [^D^A] z D ^d +pp+ A [Dd] +mf+ [DAd] z |
+[^D^c] ^d +pp+ ^A [Dc] +mf+ [DAd] ^f [Dd] z |
++pp+ ^A [^D^d] +mf+ [^CAd] z [D^c] d +pp+ A [Dc] |
++mf+ [^C^A^d] ^f [^Dd] z +pp+ A [Dd] +mf+ [B,Ad] z |
+[^D^c] ^d +pp+ ^A [Dc] +mf+ [B,Ad] ^f [Dd] z |
++pp+ ^A [^D^d] +mf+ [^G,Ad] z [D^c] d +pp+ A [Dc] |
++mf+ [^G,^A^d] ^f [^Dd] z +pp+ A [Dd] +mf+ [B,Ad] z |
+[^D^c] ^d +pp+ ^A [Dc] +mf+ [B,Ad] ^f [Dd] z |
++pp+ ^A [^D^d] +mf+ [^G,Ad] ^c [Dd] z +pp+ A [Dd] |
+% Bar 100 (3:03)
++mf+ [^G,^A^f] ^d [^Dd] z +pp+ A D +mf+ [DA] z |
+^D ^d +pp+ ^A D +mf+ [DA] z D d |
++pp+ ^A ^D +mf+ [DA] z D ^d +pp+ A D |
++mf+ [^D^A] z D ^d +pp+ A [D^a] +f+ [DAa] z |
+[^D^g] [^d^f] +pp+ [^Ag] D +f+ [DA^a] b [Da] d |
++pp+ ^A [^D^a] +f+ [^CAa] z [D^g] [^d^f] +pp+ [Ag] D |
++f+ [^C^A^a] b [^Da] ^d +pp+ A [Da] +f+ [B,Aa] z |
+[^D^g] [^d^f] +pp+ ^A [Dg] +f+ [B,A^a] b [Da] d |
++pp+ ^A [^D^a] +f+ [^G,Aa] ^g [D^f] ^d +pp+ A [Dg] |
++f+ [^G,^A^a] z ^D [^d^g] +pp+ A D +f+ [B,Aa] z |
+% Bar 110 (3:22)
+^D ^d +pp+ ^A D +f+ [B,A] z D d |
++pp+ ^A ^D +f+ [^G,A] z [D^a] [^da] +pp+ [A^g] D |
++f+ [^G,^A^f] z ^D [^c^d] +pp+ A D +f+ [DAd] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A D |
++f+ [^D^A] z D ^d +pp+ A D z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (3:59)
+z5 |]
+
+
+X: 5
+T: Song of Durin's Awakening (4:00) - Basic Harp 1
+%%part-name Basic Harp 1
+%%made-for Basic Harp
+%%user-pan auto
+C: The Lonely Mountain Band
+Z: Astleigh Mondegreen
+M: 4/4
+Q: 130
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z4 ^a z3 |
+z8 |
+^c z7 |
+z4 ^g z3 |
+z8 |
+^d z7 |
+z4 ^f z3 |
+% Bar 30 (0:54)
+z2 f z5 |
+^d z7 |
+z ^f z =f ^d z3 |
+z8 |
+^D ^F F ^A ^a z3 |
+z4 ^C F ^F ^A |
+^g z7 |
+B, ^D ^F ^A ^f z3 |
+z4 ^G, ^D ^F ^A |
+^d z7 |
+% Bar 40 (1:12)
+B, ^D ^F ^A ^f z3 |
+z4 ^G, ^D ^F ^A |
+^d z7 |
+^D ^F F ^A ^a z3 |
+z4 ^D ^F F ^A |
+^a z7 |
+^D ^F F ^A ^a z3 |
+z4 ^C F ^F ^A |
+^g z7 |
+B, ^D ^F ^A ^f z3 |
+% Bar 50 (1:31)
+z4 ^G, ^D ^F ^A |
+^d z7 |
+B, ^D ^F ^A ^f z3 |
+z4 ^G, ^D ^F ^A |
+^d z7 |
+B, ^D ^F ^A ^f z3 |
+z4 ^G, ^D ^F ^A |
+^d z7 |
+^D ^F F ^A ^a z3 |
+z8 |
+% Bar 60 (1:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 +f+ [^D,^D] +pp+ D |
+^D +f+ [^D,D] +pp+ D D +f+ [D,D] +pp+ D D +f+ [D,F] |
++pp+ F F +f+ [^C,^F] +pp+ F F +f+ [C,F] +pp+ F F |
+% Bar 70 (2:08)
++f+ [^C,^F] +pp+ F F +f+ [C,^A] +pp+ A A +f+ [B,^G] +pp+ G |
+^G +f+ [B,G] +pp+ G G +f+ [B,G] +pp+ G G +f+ [B,G] |
++pp+ ^G G +f+ [^G,^D] +pp+ D D +f+ [G,D] +pp+ D D |
++f+ [^G,^D] +pp+ D D +f+ [G,D] +pp+ D D +f+ [B,^F] +pp+ F |
+^F +f+ [B,F] +pp+ F F +f+ [B,=F] +pp+ F F +f+ [B,F] |
++pp+ F ^A +f+ [^G,^D] +pp+ D D +f+ [G,D] +pp+ D D |
++f+ [^G,^A,] +pp+ A, A, +f+ [G,A,] +pp+ A, ^A +f+ [B,^D] +pp+ D |
+^D +f+ [B,D] +pp+ D D +f+ [B,D] +pp+ D D +f+ [B,F] |
++pp+ F F +f+ [^G,^F] +pp+ F F +f+ [G,F] +pp+ F F |
++f+ [^G,^F] +pp+ F F +f+ [G,F] +pp+ ^A, ^C +f+ [^D,^D] +pp+ D |
+% Bar 80 (2:26)
+^D +f+ [^D,D] +pp+ D D +f+ [D,D] +pp+ D D +f+ [D,^A,] |
++pp+ ^A, A, +f+ [^D,^D] +pp+ D D +f+ [D,D] +pp+ D D |
++f+ [^D,^D] z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (3:03)
+z8 |
+z8 |
+z8 |
+z6 +mp+ ^D ^F |
+^F ^A ^a z5 |
+z2 ^C F ^F ^A ^g z |
+z6 B, ^D |
+^F ^A ^f z5 |
+z2 ^G, ^D ^F ^A ^d z |
+z8 |
+% Bar 110 (3:22)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 +p+ [^D/3-^A/3-^d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3 |
+[^D/3-^d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 +ppp+ [^A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] +p+ [D/3-A/3-f/3] [D/3-A/3-f/3] [D/3A/3f/3] f/3 f/3
+	f/3 [D/3-f/3] [D/3-f/3] [D/3f/3] [d/3-f/3] [d/3-f/3] [d/3f/3] |
++ppp+ [^A/3-f/3] [A/3-f/3] [A/3f/3] [^D/3-f/3] [D/3-f/3] [D/3f/3] +p+ [^C/3-A/3-^f/3] [C/3-A/3-f/3] [C/3A/3f/3] f/3 f/3 f/3 [D/3-f/3] [D/3-f/3] [D/3f/3]
+	[^d/3-f/3] [d/3-f/3] [d/3f/3] +ppp+ [A/3-f/3] [A/3-f/3] [A/3f/3] [D/3-f/3] [D/3-f/3] [D/3f/3] |
++p+ [^C/3-^A/3-^f/3] [C/3-A/3-f/3] [C/3A/3f/3] f/3 f/3 f/3 [^D/3-f/3] [D/3-f/3] [D/3f/3] [^d/3-^a/3] [d/3-a/3] [d/3a/3] +ppp+ [A/3-a/3] [A/3-a/3] [A/3a/3]
+	[D/3-a/3] [D/3-a/3] [D/3a/3] +p+ [B,/3-A/3-^g/3] [B,/3-A/3-g/3] [B,/3A/3g/3] g/3 g/3 g/3 |
+[^D/3-^g/3] [D/3-g/3] [D/3g/3] [^d/3-g/3] [d/3-g/3] [d/3g/3] +ppp+ [^A/3-g/3] [A/3-g/3] [A/3g/3] [D/3-g/3] [D/3-g/3] [D/3g/3] +p+ [B,/3-A/3-g/3] [B,/3-A/3-g/3]
+	[B,/3A/3g/3] g/3 g/3 g/3 [D/3-g/3] [D/3-g/3] [D/3g/3] [d/3-g/3] [d/3-g/3] [d/3g/3] |
+% Bar 120 (3:40)
++ppp+ [^A/3-^g/3] [A/3-g/3] [A/3g/3] [^D/3-g/3] [D/3-g/3] [D/3g/3] +p+ [^G,/3-A/3-^d/3] [G,/3-A/3-d/3] [G,/3A/3d/3] d/3 d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3
+	d/3 d/3 +ppp+ [A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] |
++p+ [^G,/3-^A/3-^d/3] [G,/3-A/3-d/3] [G,/3A/3d/3] d/3 d/3 d/3 [^D/3-d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 +ppp+ [A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3]
+	[D/3d/3] +p+ [B,/3-A/3-^f/3] [B,/3-A/3-f/3] [B,/3A/3f/3] f/3 f/3 f/3 |
+[^D/3-^f/3] [D/3-f/3] [D/3f/3] [^d/3-f/3] [d/3-f/3] [d/3f/3] +ppp+ [^A/3-f/3] [A/3-f/3] [A/3f/3] [D/3-f/3] [D/3-f/3] [D/3f/3] +p+ [B,/3-A/3-=f/3] [B,/3-A/3-f/3]
+	[B,/3A/3f/3] f/3 f/3 f/3 [D/3-f/3] [D/3-f/3] [D/3f/3] [d/3-f/3] [d/3-f/3] [d/3f/3] |
++ppp+ [^A/3-f/3] [A/3-f/3] [A/3f/3] [^D/3-f/3] [D/3-f/3] [D/3f/3] +p+ [^G,/3-A/3-^d/3] [G,/3-A/3-d/3] [G,/3A/3d/3] d/3 d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3
+	d/3 d/3 +ppp+ [A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] |
++p+ [^G,/3-^A/3] [G,/3-A/3] [G,/3A/3] A/3 A/3 A/3 [^D/3-A/3] [D/3-A/3] [D/3A/3] [A/3^d/3-] [A/3d/3-] [A/3d/3] +ppp+ A/3 A/3 A/3 [D/3-A/3] [D/3-A/3] [D/3A/3]
+	+pp+ [B,/3-A/3-d/3] [B,/3-A/3-d/3] [B,/3A/3d/3] d/3 d/3 d/3 |
+[^D/3-^d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 +ppp+ [^A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] +pp+ [B,/3-A/3-d/3] [B,/3-A/3-d/3] [B,/3A/3d/3] d/3
+	d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 |
++ppp+ [^A/3-^d/3] [A/3-d/3] [A/3d/3] [^D/3-d/3] [D/3-d/3] [D/3d/3] +pp+ [^G,/3-A/3] [G,/3-A/3] [G,/3A/3] A/3 A/3 A/3 [D/3-A/3] [D/3-A/3] [D/3A/3] [A/3d/3-]
+	[A/3d/3-] [A/3d/3] +ppp+ A/3 A/3 A/3 [D/3-A/3] [D/3-A/3] [D/3A/3] |
++pp+ [^G,/3-^A/3-^c/3] [G,/3-A/3-c/3] [G,/3A/3c/3] c/3 c/3 c/3 [^D/3-c/3] [D/3-c/3] [D/3c/3] [c/3^d/3-] [c/3d/3-] [c/3d/3] +ppp+ [A/3-c/3] [A/3-c/3] [A/3c/3]
+	[D/3-c/3] [D/3-c/3] [D/3c/3] [D/3-A/3-d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3 |
+[^D/3-^d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 [^A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] [D/3-A/3-d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3
+	[D/3-d/3] [D/3-d/3] [D/3d/3] [d/3-^f/3] [d/3-f/3] [d/3f/3] |
+[^A/3-^f/3] [A/3-f/3] [A/3f/3] [^D/3-=f/3] [D/3-f/3] [D/3f/3] [D/3-A/3-^d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3
+	[A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] |
+% Bar 130 (3:59)
+[^D/3-^A/3-^d/3] [D2/3A2/3] z4 |]
+
+
+X: 21
+T: Song of Durin's Awakening (4:00) - Basic Harp 2
+%%part-name Basic Harp 2
+%%made-for Basic Harp
+%%user-pan auto
+C: The Lonely Mountain Band
+Z: Astleigh Mondegreen
+M: 4/4
+Q: 130
+L: 1/8
+K: C maj
++f+ [^D^A] z D ^d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [^CA] z D d |
++pp+ ^A ^D +f+ [^CA] z D ^d +pp+ A D |
++f+ [B,^A] z ^D ^d +pp+ A D +f+ [B,A] z |
+^D ^d +pp+ ^A D +f+ [^G,A] z D d |
++pp+ ^A ^D +f+ [^G,A] z D ^d +pp+ A D |
++f+ [B,^A] z ^D ^d +pp+ A D +f+ [B,A] z |
+^D ^d +pp+ ^A D +f+ [^G,A] z D d |
++pp+ ^A ^D +f+ [^G,A] z D ^d +pp+ A D |
+% Bar 10 (0:17)
++f+ [^D^A] z D ^d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [Dd] |
++f+ [^D^A^d] z [D^c] d +pp+ A [Dc] +f+ [DAd] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^CAd] z [D^c] d |
++pp+ ^A [^D^c] +f+ [^CA^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] ^c D d |
++pp+ ^A [^D^c] +f+ [^G,A^d] z D [cd] +pp+ A D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+% Bar 20 (0:36)
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [D^a] |
++f+ [^D^A^a] z [D^g] [^d^f] +pp+ [Ag] D +f+ [DAa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^CAa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^CA^a] b [Da] ^d +pp+ A [Da] |
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^G,A^a] b [Da] ^d +pp+ A [Da] |
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
+% Bar 30 (0:54)
++pp+ [^A^d] ^D +f+ [^G,Ad] z D [^cd] +pp+ A D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [D^a] |
++f+ [^D^A^a] z [D^g] [^d^f] +pp+ A [Dg] +f+ [DAa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^CAa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^CA^a] b [Da] ^d +pp+ A [Da] |
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
++pp+ ^A [^D^g] +f+ [^G,A^a] b [Da] ^d +pp+ A [Da] |
+% Bar 40 (1:12)
++f+ [B,^A^a] z [^D^g] [^d^f] +pp+ A [Dg] +f+ [B,Aa] b |
+[^D^a] ^d +pp+ ^A [Da] +f+ [^G,Aa] z [D^g] [d^f] |
++pp+ ^A ^D +f+ [^G,A] z [D^d] d +pp+ [A^c] D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A [Dd] |
++f+ [^D^A^d] z [D^c] d +pp+ A [Dc] +f+ [DAd] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^CAd] z [D^c] d |
++pp+ [^A^c] ^D +f+ [^CA^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+% Bar 50 (1:31)
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] z [D^c] d |
++pp+ ^A [^D^c] +f+ [^G,A^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] z [D^c] d |
++pp+ ^A [^D^c] +f+ [^G,A^d] ^f D d +pp+ A [Dd] |
++f+ [B,^A^d] z [^D^c] d +pp+ A [Dc] +f+ [B,Ad] ^f |
+^D ^d +pp+ ^A [Dd] +f+ [^G,Ad] z [D^c] d |
++pp+ [^A^c] ^D +f+ [^G,A^d] z D [cd] +pp+ A D |
++f+ [^D^A^d] z D d +pp+ A D +f+ [DA] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
+% Bar 60 (1:49)
++pp+ ^A ^D +f+ [DA] z5 |
+z6 [^D,^D] z/ +pp+ [D,/D/] |
+[^D,^D] +f+ [^C,^C] +pp+ ^A, [C,C] +f+ [D,D] z/ +pp+ [D,/D/] [D,D] +f+ [^F,^F] |
++pp+ [^D,^D] [^F,^F] +f+ [^G,^G] z/ +pp+ [G,/G/] [G,G] +f+ [F,F] +pp+ [=F,=F] z |
++f+ [^F,^F] +pp+ [=F,=F] [^C,^C] +f+ [C,C] +pp+ [C,C] [C,C] +f+ [^D,^D] z/ +pp+ [D,/D/] |
+[^D,^D] +f+ [^C,^C] +pp+ ^A, [C,C] +f+ [D,D] z/ +pp+ [D,/D/] [D,D] +f+ [^F,^F] |
++pp+ [^D,^D] [^F,^F] +f+ [B,B] z/ +pp+ [^A,/^A/] [^G,^G] +f+ [A,A] +pp+ [G,G] [F,F] |
++f+ [^G,^G] +pp+ [^F,^F] [=F,=F] +f+ [^F,^F] +pp+ [=F,=F] [^D,^D^d] +f+ [D,Dd] +pp+ D |
+[^D^c] +f+ [^D,D^d] +pp+ D [Dc] +f+ [D,Dd] +pp+ [D^f] D +f+ [D,Fd] |
++pp+ F [F^d] +f+ [^C,^Fd] +pp+ F [F^c] +f+ [C,Fd] +pp+ F [Fc] |
+% Bar 70 (2:08)
++f+ [^C,^F^d] +pp+ F [F^f] +f+ [C,^Ad] +pp+ A [Ad] +f+ [B,^Gd] +pp+ G |
+[^G^c] +f+ [B,G^d] +pp+ G [Gc] +f+ [B,Gd] +pp+ G [G^f] +f+ [B,Gd] |
++pp+ ^G [G^d] +f+ [^G,^Dd] +pp+ D [D^c] +f+ [G,Dd] +pp+ D [Dc] |
++f+ [^G,^D^d] +pp+ D [D^f] +f+ [G,Dd] +pp+ D [Dd] +f+ [B,^Fd] +pp+ [F^c] |
+^F +f+ [B,F^d] +pp+ F [F^c] +f+ [B,=Fd] +pp+ F [F^f] +f+ [B,Fd] |
++pp+ F [^A^d] +f+ [^G,^Dd] +pp+ [D^c] D +f+ [G,Dd] +pp+ D [Dc] |
++f+ [^G,^A,^d] +pp+ [A,^c] A, +f+ [G,A,d] +pp+ A, ^A +f+ [B,^Dd] +pp+ D |
+[^D^c] +f+ [B,D^d] +pp+ D [Dc] +f+ [B,Dd] +pp+ D [D^f] +f+ [B,Fd] |
++pp+ F [F^d] +f+ [^G,^Fd] +pp+ F [F^c] +f+ [G,Fd] +pp+ F [Fc] |
++f+ [^G,^F^d] +pp+ F F +f+ [G,F^c] +pp+ ^A, ^C +f+ [^D,^Dd] +pp+ D |
+% Bar 80 (2:26)
+^D +f+ [^D,D] +pp+ D D +f+ [D,D] +pp+ D D +f+ [D,^A,] |
++pp+ ^A, A, +f+ [^D,^D] +pp+ D D +f+ [D,D] +pp+ D D |
++f+ [^D,^D] z4 +pp+ ^a +mp+ a z |
+^g ^f z g ^a b a z |
+z ^a [^C^Aa] z [^D^g] [^d^f] +pp+ A [Dg] |
++f+ [^C^A^a] b [^Da] ^d +pp+ A [Da] +f+ [B,Aa] z |
+[^D^g] [^d^f] +pp+ ^A [Dg] +f+ [B,A^a] b [Da] d |
++pp+ ^A [^D^a] +f+ [^G,Aa] z [D^g] [^d^f] +pp+ A D |
++f+ [^G,^A] z [^D^d] d +pp+ [A^c] D +f+ [DAd] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
+% Bar 90 (2:45)
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A D |
++f+ [^D^A] z D ^d +pp+ A [Dd] +mf+ [DAd] z |
+[^D^c] ^d +pp+ ^A [Dc] +mf+ [DAd] ^f [Dd] z |
++pp+ ^A [^D^d] +mf+ [^CAd] z [D^c] d +pp+ A [Dc] |
++mf+ [^C^A^d] ^f [^Dd] z +pp+ A [Dd] +mf+ [B,Ad] z |
+[^D^c] ^d +pp+ ^A [Dc] +mf+ [B,Ad] ^f [Dd] z |
++pp+ ^A [^D^d] +mf+ [^G,Ad] z [D^c] d +pp+ A [Dc] |
++mf+ [^G,^A^d] ^f [^Dd] z +pp+ A [Dd] +mf+ [B,Ad] z |
+[^D^c] ^d +pp+ ^A [Dc] +mf+ [B,Ad] ^f [Dd] z |
++pp+ ^A [^D^d] +mf+ [^G,Ad] ^c [Dd] z +pp+ A [Dd] |
+% Bar 100 (3:03)
++mf+ [^G,^A^f] ^d [^Dd] z +pp+ A D +mf+ [DA] z |
+^D ^d +pp+ ^A D +mf+ [DA] z D d |
++pp+ ^A ^D +mf+ [DA] z D ^d +pp+ A D |
++mf+ [^D^A] z D ^d +pp+ A [D^a] +f+ [DAa] z |
+[^D^g] [^d^f] +pp+ [^Ag] D +f+ [DA^a] b [Da] d |
++pp+ ^A [^D^a] +f+ [^CAa] z [D^g] [^d^f] +pp+ [Ag] D |
++f+ [^C^A^a] b [^Da] ^d +pp+ A [Da] +f+ [B,Aa] z |
+[^D^g] [^d^f] +pp+ ^A [Dg] +f+ [B,A^a] b [Da] d |
++pp+ ^A [^D^a] +f+ [^G,Aa] ^g [D^f] ^d +pp+ A [Dg] |
++f+ [^G,^A^a] z ^D [^d^g] +pp+ A D +f+ [B,Aa] z |
+% Bar 110 (3:22)
+^D ^d +pp+ ^A D +f+ [B,A] z D d |
++pp+ ^A ^D +f+ [^G,A] z [D^a] [^da] +pp+ [A^g] D |
++f+ [^G,^A^f] z ^D [^c^d] +pp+ A D +f+ [DAd] z |
+^D ^d +pp+ ^A D +f+ [DA] z D d |
++pp+ ^A ^D +f+ [DA] z D ^d +pp+ A D |
++f+ [^D^A] z D ^d +pp+ A D +p+ [D/3-A/3-d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3 |
+[^D/3-^d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 +ppp+ [^A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] +p+ [D/3-A/3-f/3] [D/3-A/3-f/3] [D/3A/3f/3] f/3 f/3
+	f/3 [D/3-f/3] [D/3-f/3] [D/3f/3] [d/3-f/3] [d/3-f/3] [d/3f/3] |
++ppp+ [^A/3-f/3] [A/3-f/3] [A/3f/3] [^D/3-f/3] [D/3-f/3] [D/3f/3] +p+ [^C/3-A/3-^f/3] [C/3-A/3-f/3] [C/3A/3f/3] f/3 f/3 f/3 [D/3-f/3] [D/3-f/3] [D/3f/3]
+	[^d/3-f/3] [d/3-f/3] [d/3f/3] +ppp+ [A/3-f/3] [A/3-f/3] [A/3f/3] [D/3-f/3] [D/3-f/3] [D/3f/3] |
++p+ [^C/3-^A/3-^f/3] [C/3-A/3-f/3] [C/3A/3f/3] f/3 f/3 f/3 [^D/3-f/3] [D/3-f/3] [D/3f/3] [^d/3-^a/3] [d/3-a/3] [d/3a/3] +ppp+ [A/3-a/3] [A/3-a/3] [A/3a/3]
+	[D/3-a/3] [D/3-a/3] [D/3a/3] +p+ [B,/3-A/3-^g/3] [B,/3-A/3-g/3] [B,/3A/3g/3] g/3 g/3 g/3 |
+[^D/3-^g/3] [D/3-g/3] [D/3g/3] [^d/3-g/3] [d/3-g/3] [d/3g/3] +ppp+ [^A/3-g/3] [A/3-g/3] [A/3g/3] [D/3-g/3] [D/3-g/3] [D/3g/3] +p+ [B,/3-A/3-g/3] [B,/3-A/3-g/3]
+	[B,/3A/3g/3] g/3 g/3 g/3 [D/3-g/3] [D/3-g/3] [D/3g/3] [d/3-g/3] [d/3-g/3] [d/3g/3] |
+% Bar 120 (3:40)
++ppp+ [^A/3-^g/3] [A/3-g/3] [A/3g/3] [^D/3-g/3] [D/3-g/3] [D/3g/3] +p+ [^G,/3-A/3-^d/3] [G,/3-A/3-d/3] [G,/3A/3d/3] d/3 d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3
+	d/3 d/3 +ppp+ [A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] |
++p+ [^G,/3-^A/3-^d/3] [G,/3-A/3-d/3] [G,/3A/3d/3] d/3 d/3 d/3 [^D/3-d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 +ppp+ [A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3]
+	[D/3d/3] +p+ [B,/3-A/3-^f/3] [B,/3-A/3-f/3] [B,/3A/3f/3] f/3 f/3 f/3 |
+[^D/3-^f/3] [D/3-f/3] [D/3f/3] [^d/3-f/3] [d/3-f/3] [d/3f/3] +ppp+ [^A/3-f/3] [A/3-f/3] [A/3f/3] [D/3-f/3] [D/3-f/3] [D/3f/3] +p+ [B,/3-A/3-=f/3] [B,/3-A/3-f/3]
+	[B,/3A/3f/3] f/3 f/3 f/3 [D/3-f/3] [D/3-f/3] [D/3f/3] [d/3-f/3] [d/3-f/3] [d/3f/3] |
++ppp+ [^A/3-f/3] [A/3-f/3] [A/3f/3] [^D/3-f/3] [D/3-f/3] [D/3f/3] +p+ [^G,/3-A/3-^d/3] [G,/3-A/3-d/3] [G,/3A/3d/3] d/3 d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3
+	d/3 d/3 +ppp+ [A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] |
++p+ [^G,/3-^A/3] [G,/3-A/3] [G,/3A/3] A/3 A/3 A/3 [^D/3-A/3] [D/3-A/3] [D/3A/3] [A/3^d/3-] [A/3d/3-] [A/3d/3] +ppp+ A/3 A/3 A/3 [D/3-A/3] [D/3-A/3] [D/3A/3]
+	+pp+ [B,/3-A/3-d/3] [B,/3-A/3-d/3] [B,/3A/3d/3] d/3 d/3 d/3 |
+[^D/3-^d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 +ppp+ [^A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] +pp+ [B,/3-A/3-d/3] [B,/3-A/3-d/3] [B,/3A/3d/3] d/3
+	d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 |
++ppp+ [^A/3-^d/3] [A/3-d/3] [A/3d/3] [^D/3-d/3] [D/3-d/3] [D/3d/3] +pp+ [^G,/3-A/3] [G,/3-A/3] [G,/3A/3] A/3 A/3 A/3 [D/3-A/3] [D/3-A/3] [D/3A/3] [A/3d/3-]
+	[A/3d/3-] [A/3d/3] +ppp+ A/3 A/3 A/3 [D/3-A/3] [D/3-A/3] [D/3A/3] |
++pp+ [^G,/3-^A/3-^c/3] [G,/3-A/3-c/3] [G,/3A/3c/3] c/3 c/3 c/3 [^D/3-c/3] [D/3-c/3] [D/3c/3] [c/3^d/3-] [c/3d/3-] [c/3d/3] +ppp+ [A/3-c/3] [A/3-c/3] [A/3c/3]
+	[D/3-c/3] [D/3-c/3] [D/3c/3] [D/3-A/3-d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3 |
+[^D/3-^d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3 [^A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] [D/3-A/3-d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3
+	[D/3-d/3] [D/3-d/3] [D/3d/3] [d/3-^f/3] [d/3-f/3] [d/3f/3] |
+[^A/3-^f/3] [A/3-f/3] [A/3f/3] [^D/3-=f/3] [D/3-f/3] [D/3f/3] [D/3-A/3-^d/3] [D/3-A/3-d/3] [D/3A/3d/3] d/3 d/3 d/3 [D/3-d/3] [D/3-d/3] [D/3d/3] d/3 d/3 d/3
+	[A/3-d/3] [A/3-d/3] [A/3d/3] [D/3-d/3] [D/3-d/3] [D/3d/3] |
+% Bar 130 (3:59)
+[^D/3-^A/3-^d/3] [D2/3A2/3] z4 |]
+
+
+X: 8
+T: Song of Durin's Awakening (4:00) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+C: The Lonely Mountain Band
+Z: Astleigh Mondegreen
+M: 4/4
+Q: 130
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+^D6 D2- |
+^D4 ^C4- |
+^C2 C6 |
+B,6 B,2- |
+B,4 ^G,4- |
+^G,2 G,6 |
+^D6 D2- |
+% Bar 20 (0:36)
+^D4 D4- |
+^D2 D6 |
+^D6 D2- |
+^D4 ^C4- |
+^C2 C6 |
+B,6 B,2- |
+B,4 ^G,4- |
+^G,2 G,6 |
+B,6 B,2- |
+B,4 ^G,4- |
+% Bar 30 (0:54)
+^G,2 G,6 |
+^D6 D2- |
+^D4 D4- |
+^D2 D6 |
+^D6 D2- |
+^D4 ^C4- |
+^C2 C6 |
+B,6 B,2- |
+B,4 ^G,4- |
+^G,2 G,6 |
+% Bar 40 (1:12)
+B,6 B,2- |
+B,4 ^G,4- |
+^G,2 G,6 |
+^D6 D2- |
+^D4 D4- |
+^D2 D6 |
+^D6 D2- |
+^D4 ^C4- |
+^C2 C6 |
+B,6 B,2- |
+% Bar 50 (1:31)
+B,4 ^G,4- |
+^G,2 G,6 |
+B,6 B,2- |
+B,4 ^G,4- |
+^G,2 G,6 |
+B,6 B,2- |
+B,4 ^G,4- |
+^G,2 G,6 |
+^D6 D2- |
+^D4 D4- |
+% Bar 60 (1:49)
+^D2 D6 |
+z6 +f+ ^D z/ +mp+ D/ |
+^D +f+ ^C +mp+ ^A, C +f+ D z/ +mp+ D/ D +f+ ^F |
++mp+ ^D ^F +f+ ^G z/ +mp+ G/ G +f+ F +mp+ =F z |
++f+ ^F +mp+ =F ^C +f+ C +mp+ C C +f+ ^D z/ +mp+ D/ |
+^D +f+ ^C +mp+ ^A, C +f+ D z/ +mp+ D/ D +f+ ^F |
++mp+ ^D ^F +f+ B z/ +mp+ ^A/ ^G +f+ A +mp+ G F |
++f+ ^G +mp+ ^F =F +f+ ^F +mp+ =F ^D D D |
+^D D D D D D D D |
+^D D ^C C C C C C |
+% Bar 70 (2:08)
+^C C C C C C B, B, |
+B, B, B, B, B, B, B, B, |
+B, B, ^G, G, G, G, G, G, |
+^G, G, G, G, G, G, B, B, |
+B, B, B, B, B, B, B, B, |
+B, B, ^G, G, G, G, G, G, |
+^G, G, G, G, G, G, B, B, |
+B, B, B, B, B, B, B, B, |
+B, B, ^G, G, G, G, G, G, |
+^G, G, G, G, G, G, ^D D |
+% Bar 80 (2:26)
+^D D D D D D D D |
+^D D D D D D D D |
+^D z7 |
+z8 |
+z2 +mf+ ^C6 |
+^C6 B,2- |
+B,4 B,4- |
+B,2 ^G,6 |
+^G,6 ^D2- |
+^D4 D4- |
+% Bar 90 (2:45)
+^D2 D6 |
+^D6 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (3:03)
+z8 |
+z8 |
+z8 |
+z6 ^D2- |
+^D4 D4- |
+^D2 ^C6 |
+^C6 B,2- |
+B,4 B,4- |
+B,2 ^G,6 |
+^G,6 B,2- |
+% Bar 110 (3:22)
+B,4 B,4- |
+B,2 ^G,6 |
+^G,6 ^D2- |
+^D4 D4- |
+^D2 D6 |
+^D6 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (3:59)
+z5 |]
+
+
+X: 20
+T: Song of Durin's Awakening (4:00) - Basic Cowbell
+%%part-name Basic Cowbell
+%%made-for Basic Cowbell
+%%user-pan auto
+C: The Lonely Mountain Band
+Z: Astleigh Mondegreen
+M: 4/4
+Q: 130
+L: 1/8
+K: C maj
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:31)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:49)
+z2 G,3 G,3 |
+G,3 G,3 G,2- |
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+G,3 G,3 G,2- |
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+G,3 G,3 G,2- |
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+% Bar 70 (2:08)
+G,3 G,3 G,2- |
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+G,3 G,3 G,2- |
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+G,3 G,3 G,2- |
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+G,3 G,3 G,2- |
+% Bar 80 (2:26)
+G, G,3 G,3 G,- |
+G,2 G,3 G,3 |
+G,3 z5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (3:03)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (3:22)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (3:59)
+z5 |]
+

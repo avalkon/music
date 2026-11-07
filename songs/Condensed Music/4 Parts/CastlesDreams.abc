@@ -1,0 +1,813 @@
+N: TS  4,   9   3  10  12
+X: 9
+%%Orig filename was CastlesDreamsAges.abc
+%abc-2.1
+%%song-title       Castles And Dreams
+%%song-composer    Blackmore's Night
+%%song-duration    3:22
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Castles And Dreams (3:22) - Lute of Ages
+%%part-name Lute of Ages
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 3/4
+Q: 150
+K: C maj
+
++fff+ [^F,2-^f2-] +f+ [F,-^Cf-] [F,-^Ff-] [F,-Af-] [F,-^cf] |
++fff+ [^F,2-^f2a2-] +f+ [F,2-^c2a2-] [F,-Aa-] [F,^Fa] |
++fff+ [^F,2-^g2] +f+ [F,-^Ca-] [F,-^Fa] +fff+ [F,-Ae-] +f+ [F,-^ce] |
+[^F,2-^f2-] [F,2-^c2f2-] [F,-Af-] [F,^Ff] |
++fff+ [^F,2-^c2] +f+ [F,-^Cd-] [F,-^Fd] [F,-Ac] [F,-c] |
++fff+ [^F,2-^f2b2-] +f+ [F,2-^c2b2] +fff+ [F,-Aa-] +f+ [F,^Fa] |
++fff+ [^F,2-^g2] +f+ [F,-^Ca-] [F,-^Fa] +fff+ [F,-Ae-] +f+ [F,-^ce] |
+[^F,2-^f2-] [F,2-^c2f2-] [F,-Af-] [F,^Ff] |
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+% Bar 10 (0:10)
+^F,2- [F,-^F] [F,-A] [F,-d] [F,^f] |
+[^C,2-^C2] [C,-F] [C,-^G] [C,-^c] [C,f] |
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+[D,2-D2] [D,-^F] [D,-A] [D,-d] [D,^f] |
+[E,2-E2] [E,-^G] [E,-B] [E,-e] [E,^g] |
+A,2- [A,-E] [A,-A] [A,-^c] [A,-e] |
+[A,2-a2] [A,-e] [A,-^c] [A,-A] [A,E] |
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+^F,2- [F,-^F] [F,-A] [F,-d] [F,^f] |
+[^C,2-^C2] [C,-F] [C,-^G] [C,-^c] [C,f] |
+% Bar 20 (0:22)
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+[D,2-D2] [D,-^F] [D,-A] [D,-d] [D,^f] |
+[E,2-E2] [E,-^G] [E,-B] [E,-e] [E,^g] |
+A,2- +fff+ [A,-E^c] [A,-Ad] [A,-ce] +f+ [A,e] |
++fff+ [^C,2-^C2d2] [C,-F^c-] +f+ [C,-^Gc] +fff+ [C,-B-c] +f+ [C,Bf] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +fff+ [E,-EGBe^g] [E,-EGBea] [E,/-E/-G/-B/-e/-g/] [E,/-E/G/B/e/a/] [E,/-E/-G/-B/-e/-a/] [E,/E/G/B/e/a/] |
+[F,/-F/-^G/-^c/-f/-a/] [F,3/2-F3/2G3/2c3/2f3/2] +mp+ [F,2-F2G2c2f2] [F,2F2G2c2f2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
+% Bar 30 (0:34)
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] [E,-EGBe] [E,EGBe] |
++fff+ [F,-F-^G-^c-f-b] [F,/-F/-G/-c/-f/-a/] +mf+ [F,/-F/G/c/f/b/] +fff+ [F,2-F2G2c2f2^g2-] +mp+ [F,2F2G2c2f2g2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] +fff+ [E,-EGBe^g] [E,-EGBea] |
+[E,/-E/-^G/-B/-e/-^g/] [E,/-E/-G/-B/-e/-a/] [E,/-E/-G/-B/-e/-a/] [E,/-E/G/B/e/a/] [E,/-E/-G/-B/-e/-a/] [E,/-E/-G/-B/-e/] [E,-EGBe] [E,2E2G2B2e2] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,-DAdf] [D,-DAdf] [D,-DAdf] [D,DAdf] |
++f+ [^C,2-^C2E2A2^c2] +mp+ [C,2-C2E2A2c2] [C,2C2E2A2c2] |
+[B,2^F2B2d2^f2] [B,FBdf] [B,FBdf] +fff+ [B,FBdfb] [B,FB^cdf] |
+% Bar 40 (0:46)
+[^F,-^C-^F-A-^cd] [F,CFAc] +mp+ [F,-C-F-A-c-^f-] [F,CFAcf] [F,-C-F-A-c-f] +fff+ [F,CFAcf] |
++mp+ [B,2^F2B2d2^f2] [B,FBdf] [B,FBdf] [B,FBdf] [B,FBdf] |
+[^F,4^C4^F4A4^c4^f4] +f+ [^G,2^G2B2e2^g2] |
++mp+ [^F,2^C2^F2^A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
+[^F,2^C2^F2^A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [^F,-^C-^F-A-^c-^f] +mf+ [F,CFAcd] [F,CFAcf] +mp+ [F,CFAcf] +fff+ [F,CFAcf] +mp+ [F,CFAcf] |
+[^F,-^C-^F-A-^c-^f-] [F,CFAcf] +fff+ [F,-C-F-A-c-f] [F,CFAc=f] [F,-C-F-A-c-^f-] [F,CFAcf] |
+[^F,2-a2-] +f+ [F,-^Ca-] [F,-^Fa-] [F,-Aa-] [F,^ca] |
++fff+ [^F,2-b2-] +f+ [F,-^Fb-] [F,-Ab-] [F,-db-] [F,^fb] |
++fff+ [^C,2-^C2^g2-] +f+ [C,-Fg-] [C,-^Gg-] [C,-^cg-] [C,fg] |
+% Bar 50 (0:58)
++fff+ [^F,2-^f2-] +f+ [F,-^Cf-] [F,-^Ff-] [F,-Af-] [F,^cf] |
++fff+ [D,2-D2d2-] +f+ [D,-^Fd] +fff+ [D,-Ae] [D,-d^f] +f+ [D,f] |
++fff+ [E,2-E2e2-] +f+ [E,-^Ge-] [E,-Be] +fff+ [E,-d-e] +f+ [E,d^g] |
++fff+ [A,2-^c2-] +f+ [A,-Ec-] [A,-Ac] [A,-c-] [A,-ce] |
++fff+ [A,2-^c2-a2] +f+ [A,-ce] [A,-c-] [A,-Ac-] [A,Ec] |
++fff+ [^F,2-^c2-] +f+ [F,-^Cc-] [F,-^Fc-] [F,-Ac] [F,c] |
++fff+ [^F,2-d2-] +f+ [F,-^Fd-] [F,-Ad] [F,-d-] [F,d^f] |
++fff+ [^C,2-^C2^c2-] +f+ [C,-Fc] [C,-^Gd] [C,-c-] [C,cf] |
++fff+ [^F,2-a2-] +f+ [F,-^Ca-] [F,-^Fa-] [F,-Aa-] [F,^ca] |
++fff+ [D,2-D2d2-] +f+ [D,-^Fd-] [D,-Ad] [D,-d-] [D,d^f] |
+% Bar 60 (1:10)
++fff+ [E,2-E2e2-] +f+ [E,-^Ge-] [E,-Be] +fff+ [E,-d-e] +f+ [E,d^g] |
++fff+ [A,2-^c2-] +f+ [A,-Ec-] [A,-Ac] [A,-c-] [A,ce] |
++fff+ [^C,-^C-^c] [C,-Cf] [C,-F^g] [C,-^Gc] [C,-cd] [C,/-c/f/-] +mf+ [C,/d/f/] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] [E,-EGBe] [E,EGBe] |
++f+ [F,2-F2^G2^c2f2] +mp+ [F,2-F2G2c2f2] [F,2F2G2c2f2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] [E,-EGBe] [E,EGBe] |
+% Bar 70 (1:22)
++fff+ [F,-F-^G-^c-f-] [F,-EFGcf] [F,-F-^FG-c-f-] [F,-=FGAcf] [F,2F2G2B2c2f2] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] +fff+ [E,-EGBea] [E,/-E/-G/-B/-e/-^g/] +mf+ [E,/-E/G/B/e/a/] |
++fff+ [E,-E-^G-B-e^f] [E,-EGBe] +mp+ [E,2-E2G2B2e2] [E,2E2G2B2e2] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,-DAdf] [D,-DAdf] [D,-DAdf] [D,DAdf] |
++fff+ [^C,2-^C2E2A2^c2e2-] +mp+ [C,2-C2E2A2c2e2-] [C,2C2E2A2c2e2] |
++fff+ [B,2^F2B2d2^f2] [B,FBde-f] +mp+ [B,FBdef] [B,FBdf] [B,FBdf] |
+[^F,2^C2^F2A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [B,2^F2B2d2^f2] [B,/-F/-B/-^c/d/f/-] +mf+ [B,/F/B/d/f/] +mp+ [B,/-F/-B/-d/-f/-] +mf+ [B,/F/B/c/d/f/] +mp+ [B,FBdf] [B,FBdf] |
+% Bar 80 (1:34)
++fff+ [^F,4^C4^F4A4^c4^f4] [^G,2^G2B2e2^g2] |
++mp+ [^F,2^C2^F2^A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
+[^F,2^C2^F2^A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [^F,-^C-^F-^A-^c-^f] [F,CFAcf] [F,CFAcf] +mp+ [F,CFAcf] [F,CFAcf] +fff+ [F,CFAcf] |
++mp+ [^F,/-^C/-^F/-^A/-^c/^f/-] +mf+ [F,/-C/-F/-A/-c/-f/-] [F,/-C/-F/-A/-c/-f/-] [F,/C/F/A/c/f/] +mp+ [F,-C-F-A-c-f-] [F,CFAcf] +fff+ [F,2C2F2A2c2f2] |
++mp+ [B,2^F2B2d2^f2] [B,FBdf] [B,FBdf] +fff+ [B,FBde-f] +mp+ [B,FBdef] |
++fff+ [B,/-^F/-B/-d/-e/^f/-] [B,3/2F3/2B3/2d3/2f3/2] +mp+ [B,2F2B2d2f2] [B,2F2B2d2f2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] +fff+ [F,CFAB-c] +mp+ [F,CFABc] |
+[^F,2^C2^F2A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
+[B,2^F2B2d2^f2] [B,FBdf] [B,FBdf] +fff+ [B,FBde-f] +mp+ [B,FBdef] |
+% Bar 90 (1:46)
+[B,2^F2B2d2^f2] [B,-F-B-d-f-] +fff+ [B,FBdef] [B,-F-Bd-f-] [B,FBdf] |
+[^F,-^C-^F-A-^c-^f] [F,CFABc] [F,CFAcf] [F,CF^GAc] [F,CFAcf] [F,CFGAc] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
+[B,2^F2B2d2^f2] [B,FBdf] [B,FBdf] [B,FBdf] [B,FBdf] |
+[B,2^F2B2d2^f2] [B,2F2B2d2f2] [B,2F2B2d2f2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] +fff+ [F,CFAB-c] +mp+ [F,CFABc] |
+[^F,2^C2^F2A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [D,-D-A-d-^f-] [D,-DA^cdf] [D,-DAdfb] [D,-DAdfa] [D,-DAdf^g] [D,DAdf] |
+[B,-^F-B-de^f-] [B,FBdf] [B,/-F/-B/-^c/d/f/-] +mf+ [B,/-F/-B/-c/d/-f/-] +fff+ [B,FBdef] [B,-F-Bcd-f-] [B,FBdf] |
+[^C,-^C-^GA^c-f-] [C,/-C/-G/c/-f/-] +mf+ [C,/-C/G/A/c/f/] +fff+ [C,-C^FGcf] [C,-CGcf] [C,-CFGcf] [C,C=FGcf] |
+% Bar 100 (1:58)
++f+ [^C,2-^C2^G2^c2f2] +mp+ [C,2-C2G2c2f2] [C,2C2G2c2f2] |
++fff+ [^C,-^C-^G-^c-f-] [C,-CFGcf] [C,-C^FGcf] [C,-CGcf] [C,-CGBcf] [C,CGcdf] |
+[F,-^C-^G-^c-f-] [F,-CGBcf] [F,-C-GAc-f-] [F,-CGcf] [F,-C-^FGc-f-] [F,CGcf] |
+[^F,2-A2-] +f+ [F,-^CA-] [F,-^FA] [F,-A-] [F,A^c] |
+^F,2- [F,-^F] [F,-A] [F,-d] [F,^f] |
+[^C,2-^C2] [C,-F] [C,-^G] [C,-^c] [C,f] |
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+[D,2-D2] +fff+ [D,-^Fd-] +f+ [D,-Ad] [D,-d-] [D,d^f] |
++fff+ [E,2-E2e2-] +f+ [E,-^Ge-] [E,-Be] +fff+ [E,-d-e] +f+ [E,d^g] |
++fff+ [A,-^c] [A,-d] [A,-Ee] [A,-Ad] +f+ [A,-c-] [A,-ce] |
+% Bar 110 (2:10)
++fff+ [A,-^ca] [A,-a] +f+ [A,-e-] [A,-ce-] [A,-Ae-] [A,Ee] |
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+^F,2- [F,-^F] [F,-A] [F,-d] [F,^f] |
+[^C,2-^C2] [C,-F] [C,-^G] [C,-^c] [C,f] |
+^F,2- [F,-^C] [F,-^F] [F,-A] [F,^c] |
+[D,2-D2] +fff+ [D,-^FA] [D,-Ad] [D,-d^f] [D,fa] |
+[E,-E-^g] [E,-E^f] [E,-^Ge] +f+ [E,-B-] [E,-B-e] [E,Bg] |
+A,2- +fff+ [A,-E^c] [A,-Ad] [A,-ce] +f+ [A,e] |
++fff+ [^C,2-^C2d2] [C,-F^c-] +f+ [C,-^Gc] +fff+ [C,-B-c] +f+ [C,Bf] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
+% Bar 120 (2:22)
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] +fff+ [E,-EGBe^f-] +mp+ [E,EGBef] |
++fff+ [F,-F-^G-^c-f-^g] [F,-FGcf^f] +mp+ [F,-F-G-c=f-] +fff+ [F,-FGcf] [F,2F2G2c2f2b2] |
+[^F,-^C-^F-A-^c-^f-] [F,CFAcf] +mp+ [F,CFAcf] [F,CFAcf] +fff+ [F,CFAcf] [F,CFAce] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] +fff+ [D,-D-A-d-ef] [D,DAdf] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] [E,-EGBe] [E,EGBe] |
++fff+ [F,-F-^G-^c-f-] [F,-FGcf^g] [F,-F-G-c-f] [F,-FGcf] [F,-F-G-c-f-^f] [F,FGc=fg] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++fff+ [E,2-E2^G2B2e2] [E,-EGBeb-] +mp+ [E,-EGBeb] +fff+ [E,/-E/-G/-B/-e/-a/] +mf+ [E,/-E/G/B/e/b/-] +mp+ [E,/-E/-G/-B/-e/-b/] +mf+ [E,/-E/G/B/e/a/] |
+% Bar 130 (2:34)
++fff+ [E,-E-^G-B-e-f] [E,-EGBe^g] [E,2-E2G2B2^c2e2] [E,2E2G2B2e2f2] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,-DAdf] [D,-DAdf] [D,-DAdf] [D,DAdf] |
++f+ [^C,2-^C2E2A2^c2] +mp+ [C,2-C2E2A2c2] [C,2C2E2A2c2] |
++fff+ [B,2^F2B2d2^f2] [B,FB^c-df] +mp+ [B,FBcdf] [B,FBdf] [B,FBdf] |
+[^F,2^C2^F2A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [B,2^F2B2d2^f2] [B,/-F/-B/-^c/d/f/-] +mf+ [B,/F/B/d/f/] +mp+ [B,/-F/-B/-d/-f/-] +mf+ [B,/F/B/c/d/f/] +mp+ [B,FBdf] [B,FBdf] |
++fff+ [^F,4^C4^F4A4^c4^f4] [^G,2^G2B2e2^g2] |
++mp+ [^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++fff+ [^C,2-^C2E2-^G2^c2f2] +mp+ [C,2-C2E2-G2c2f2] [C,2C2E2G2c2f2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
+% Bar 140 (2:46)
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] [E,-EGBe] [E,EGBe] |
++f+ [F,2-F2^G2^c2f2] +mp+ [F,2-F2G2c2f2] [F,2F2G2c2f2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] [E,-EGBe] [E,EGBe] |
++fff+ [F,-F-^G-^c-f-b] [F,/-F/-G/-c/-f/-a/] +mf+ [F,/-F/G/c/f/b/] +fff+ [F,2-F2G2c2f2^g2-] +mp+ [F,2F2G2c2f2g2] |
+[^F,2^C2^F2A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,2-D2A2d2f2] [D,2D2A2d2f2] |
++f+ [E,2-E2^G2B2e2] +mp+ [E,-EGBe] [E,-EGBe] +fff+ [E,-EGBea] [E,/-E/-G/-B/-e/-^g/] +mf+ [E,/-E/G/B/e/a/] |
+% Bar 150 (2:58)
++fff+ [E,-E-^G-B-e^f] [E,-EGBe] +mp+ [E,2-E2G2B2e2] [E,2E2G2B2e2] |
++f+ [D,2-D2A2d2^f2] +mp+ [D,-DAdf] [D,-DAdf] [D,-DAdf] [D,DAdf] |
++f+ [^C,2-^C2E2A2^c2] +mp+ [C,2-C2E2A2c2] [C,2C2E2A2c2] |
++fff+ [B,2^F2B2d2^f2] [B,/-F/-B/-^c/d/f/-] +mf+ [B,/F/B/d/f/] +mp+ [B,/-F/-B/-d/-f/-] +mf+ [B,/F/B/c/d/f/] +fff+ [B,FBdfb-] +mp+ [B,FBdfb] |
+[^F,2^C2^F2A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [B,2^F2B2d2^f2] [B,/-F/-B/-^c/d/f/-] +mf+ [B,/F/B/d/f/] +mp+ [B,/-F/-B/-d/-f/-] +mf+ [B,/F/B/c/d/f/] +fff+ [B,FBdfb-] +mp+ [B,FBdfb] |
+[^F,4^C4^F4A4^c4^f4] +fff+ [^G,2^G2B2e2^g2] |
++mp+ [^F,2^C2^F2^A2^c2^f2] [F,CFAcf] [F,CFAcf] [F,CFAcf] [F,CFAcf] |
+[^F,2^C2^F2^A2^c2^f2] [F,2C2F2A2c2f2] [F,2C2F2A2c2f2] |
++fff+ [D,2-D2A2d2^f2a2] [D,/-D/-A/-d/-f/-^g/] +mf+ [D,/-D/A/d/f/a/-] +mp+ [D,/-D/-A/-d/-f/-a/] +mf+ [D,/-D/A/d/f/g/] +mp+ [D,-DAdf] [D,DAdf] |
+% Bar 160 (3:10)
++fff+ [^C,2-^C2E2A2^c2e2-] +mp+ [C,2-C2E2A2c2e2-] [C,2C2E2A2c2e2] |
++fff+ [B,2D2^F2B2d2^f2] [B,/-^C/-F/-B/-d/-e/] +mf+ [B,/C/-F/B/d/f/] +mp+ [B,/-C/-F/-B/-d/-f/] +mf+ [B,/C/F/B/d/e/] +mp+ [B,FBdf] [B,FBdf] |
+%%Q: 100
+[^F,3^C3^F3A3^c3^f3] [F,3C3F3A3c3f3] [F,3C3F3A3c3f3] |
+[B,9^F9B9d9^f9] |
++f+ ^F,6 [^G,3^G3B3e3^g3] |
+^F,3/2- [F,3/2-^C3/2] [F,3/2-^F3/2] [F,3/2-^A3/2] [F,3/2-^c3/2] [F,3/2-^f3/2] |
+[^F,3/2-^c3/2] [F,3/2-^A3/2] [F,3/2-^F3/2] [F,3/2^C3/2] F,3 |
+z9 |]
+
+X: 3
+%%Orig filename was CastlesDreamsClar.abc
+%abc-2.1
+%%song-title       Castles And Dreams
+%%song-composer    Blackmore's Night
+%%song-duration    3:22
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Castles And Dreams (3:22) - Basic Clarinet
+%%part-name Basic Clarinet
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 3/4
+Q: 150
+K: C maj
+
++ffff+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z2 ^C2 C2 |
+% Bar 10 (0:10)
+D3 D D2 |
+^C3 B, A,2 |
+A,4 A,2 |
+^F,3 ^G, A,2 |
+B,2 ^C2 D C- |
+^C6 |
+z6 |
+z2 ^C2 C2 |
+D4 D2 |
+F2 ^F2 ^G2 |
+% Bar 20 (0:22)
+A2 ^G2 G ^F |
+^F4 E E |
+E ^F2 E D2 |
+D ^C5 |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+% Bar 30 (0:34)
+^F,3 B, ^C2 |
+[B,6E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+z4 A,2 |
+A2 ^G2 ^F2 |
+E4 ^C2 |
+D3 ^C B,2 |
+% Bar 40 (0:46)
+^C6 |
+[D3^F3] [^CE] [B,2D2] |
+[A,4^C4] [B,2E2] |
+[^A,6^C6^F6] |
+z6 |
+z6 |
+z6 |
+z2 ^C2 C2 |
+D3 D D2 |
+^C3 B, A,2 |
+% Bar 50 (0:58)
+A,4 A,2 |
+^F,3 ^G, A,2 |
+B,2 ^C2 D C- |
+^C6 |
+z6 |
+z2 ^C2 C2 |
+D4 D2 |
+F2 ^F2 ^G2 |
+A2 ^G2 G ^F |
+^F4 E E |
+% Bar 60 (1:10)
+E ^F2 E D2 |
+D ^C5 |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+^F,3 B, ^C2 |
+[B,6E6^G6] |
+% Bar 70 (1:22)
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+z4 A,2 |
+A2 ^G2 ^F2 |
+E4 ^C2 |
+D3 ^C B,2 |
+^C6 |
+[D3^F3] [^CE] [B,2D2] |
+% Bar 80 (1:34)
+[A,4^C4] [B,2E2] |
+[^A,6^C6^F6] |
+z6 |
+z6 |
+z6 |
+D2 D2 E2 |
+^F6 |
+^C2 A,2 B,2 |
+^C6 |
+D2 D2 E2 |
+% Bar 90 (1:46)
+^F3 E D B, |
+^C6- |
+^C6 |
+D2 D2 E2 |
+^F6 |
+^C2 A,2 B,2 |
+^C6 |
+[D6-^F6-] |
+[D2^F2-] F E D2 |
+[^C6-^G6-] |
+% Bar 100 (1:58)
+[^C6^G6] |
+z6 |
+z6 |
+z2 ^C2 C2 |
+D3 D D2 |
+^C3 B, A,2 |
+A,4 A,2 |
+^F,3 ^G, A,2 |
+B,2 ^C2 D C- |
+^C6 |
+% Bar 110 (2:10)
+z6 |
+z2 ^C2 C2 |
+D4 D2 |
+F2 ^F2 ^G2 |
+A2 ^G2 G ^F |
+^F4 E E |
+E ^F2 E D2 |
+D ^C5 |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+% Bar 120 (2:22)
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+^F,3 B, ^C2 |
+[B,6E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+% Bar 130 (2:34)
+z4 A,2 |
+A2 ^G2 ^F2 |
+E4 ^C2 |
+D3 ^C B,2 |
+^C6 |
+[D3^F3] [^CE] [B,2D2] |
+[A,4^C4] [B,2E2] |
+[A,6^C6^F6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+% Bar 140 (2:46)
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+^F,3 B, ^C2 |
+[B,6E6^G6] |
+z2 [^C2E2A2] [B,2D2^G2] |
+[A,6^C6^F6] |
+[^F4A4] [E^G] [FA] |
+[E6^G6] |
+% Bar 150 (2:58)
+z4 A,2 |
+A2 ^G2 ^F2 |
+E4 ^C2 |
+D3 ^C B,2 |
+^C6 |
+[D3^F3] [^CE] [B,2D2] |
+[A,4^C4] [B,2E2] |
+[A,6^C6^F6] |
+z4 A,2 |
+A2 ^G2 ^F2 |
+% Bar 160 (3:10)
+E4 A,2 |
+D3 ^C B,2 |
+%%Q: 100
+^C9 |
+[D9/2^F9/2] [^C3/2E3/2] [B,3D3] |
+[A,6^C6] [^G,3E3] |
+[^F,9-^F9-] |
+[^F,9^F9] |
+z9 |]
+
+X: 10
+%%Orig filename was CastlesDreamsDrums.abc
+%abc-2.1
+%%song-title       Castles And Dreams
+%%song-composer    Blackmore's Night
+%%song-duration    3:22
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Castles And Dreams (3:22) - Basic Drum
+%%part-name Basic Drum
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 3/4
+Q: 150
+K: C maj
+
++mf+ [^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 10 (0:10)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 20 (0:22)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 30 (0:34)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 40 (0:46)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 50 (0:58)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 60 (1:10)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 70 (1:22)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 80 (1:34)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 90 (1:46)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 100 (1:58)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 110 (2:10)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 120 (2:22)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 130 (2:34)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 140 (2:46)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 150 (2:58)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C, C, C, C, |
+% Bar 160 (3:10)
+[^C,2^A2] C,2 C,2 |
+[^C,2^A2] C,2 C,2 |
+%%Q: 100
+c9 |
+z9 |
+z9 |
+z9 |
+z9 |
+z9 |]
+
+X: 12
+%%Orig filename was CastlesDreamsLonely.abc
+%abc-2.1
+%%song-title       Castles And Dreams
+%%song-composer    Blackmore's Night
+%%song-duration    3:22
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Castles And Dreams (3:22) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 3/4
+Q: 150
+K: C maj
+
++p+ [^C,6-^F,6-A,6-] |
+[^C,6-^F,6-A,6-] |
+[^C,6-^F,6-A,6-] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[^C,6-^F,6-A,6-] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[^C,6^F,6A,6] |
+% Bar 10 (0:10)
+[D,6^F,6A,6] |
+[^C,4-F,4-^G,4-] [C,2F,2G,2B,2] |
+[^C,6^F,6A,6] |
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,2-^G,2-B,2-] [^C,2E,2-G,2-B,2-] [D,2E,2G,2B,2] |
+[^C,6-E,6-A,6-] |
+[^C,6E,6A,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[^C,2-F,2-^G,2-] [C,2-F,2-^F,2G,2] [C,2=F,2G,2] |
+% Bar 20 (0:22)
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,3-^G,3-B,3-] [E,^F,G,-B,-] [E,2G,2B,2] |
+[^C,6E,6A,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,6^G,6B,6] |
+[^C,2F,2-^G,2-] [C,2-F,2-G,2-] [C,2F,2G,2B,2] |
+[^C,6^F,6A,6] |
+% Bar 30 (0:34)
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,6^G,6B,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,6-^G,6-B,6-] |
+[E,6^G,6B,6] |
+[D,6^F,6A,6] |
+[^C,6E,6A,6] |
+[D,6^F,6B,6] |
+% Bar 40 (0:46)
+[^C,6^F,6A,6] |
+[D,2-^F,2-B,2-] [^C,2D,2-F,2-B,2] [D,2F,2B,2] |
+[^C,4^F,4A,4] [^G,2B,2] |
+[^C,6-^F,6-^A,6-] |
+[^C,6^F,6^A,6] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[^C,4-F,4-^G,4-] [C,2F,2G,2B,2] |
+% Bar 50 (0:58)
+[^C,6^F,6A,6] |
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,2-^G,2-B,2-] [^C,2E,2-G,2-B,2-] [D,2E,2G,2B,2] |
+[^C,6-E,6-A,6-] |
+[^C,6E,6A,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[^C,2-F,2-^G,2-] [C,2-F,2-^F,2G,2] [C,2=F,2G,2] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+% Bar 60 (1:10)
+[E,3-^G,3-B,3-] [E,^F,G,-B,-] [E,2G,2B,2] |
+[^C,6E,6A,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,6^G,6B,6] |
+[^C,2F,2-^G,2-] [C,2-F,2-G,2-] [C,2F,2G,2B,2] |
+[^C,6^F,6A,6] |
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,6^G,6B,6] |
+% Bar 70 (1:22)
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,6-^G,6-B,6-] |
+[E,6^G,6B,6] |
+[D,6^F,6A,6] |
+[^C,6E,6A,6] |
+[D,6^F,6B,6] |
+[^C,6^F,6A,6] |
+[D,2-^F,2-B,2-] [^C,2D,2-F,2-B,2] [D,2F,2B,2] |
+% Bar 80 (1:34)
+[^C,4^F,4A,4] [^G,2B,2] |
+[^C,6-^F,6-^A,6-] |
+[^C,6^F,6^A,6] |
+[^C,6-^F,6-^A,6-] |
+[^C,6^F,6^A,6] |
+[D,6-^F,6-B,6-] |
+[D,6^F,6B,6] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[D,6-^F,6-B,6-] |
+% Bar 90 (1:46)
+[D,6^F,6B,6] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[D,6-^F,6-B,6-] |
+[D,6^F,6B,6] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[D,6^F,6B,6] |
+[^C,6-F,6-^G,6-] |
+% Bar 100 (1:58)
+[^C,6-F,6-^G,6-] |
+[^C,6-F,6^G,6-] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[^C,4-F,4-^G,4-] [C,2F,2G,2B,2] |
+[^C,6^F,6A,6] |
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,2-^G,2-B,2-] [^C,2E,2-G,2-B,2-] [D,2E,2G,2B,2] |
+[^C,6-E,6-A,6-] |
+% Bar 110 (2:10)
+[^C,6E,6A,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[^C,2-F,2-^G,2-] [C,2-F,2-^F,2G,2] [C,2=F,2G,2] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,3-^G,3-B,3-] [E,^F,G,-B,-] [E,2G,2B,2] |
+[^C,6E,6A,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+% Bar 120 (2:22)
+[D,6^F,6A,6] |
+[E,6^G,6B,6] |
+[^C,2F,2-^G,2-] [C,2-F,2-G,2-] [C,2F,2G,2B,2] |
+[^C,6^F,6A,6] |
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,6^G,6B,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,6-^G,6-B,6-] |
+% Bar 130 (2:34)
+[E,6^G,6B,6] |
+[D,6^F,6A,6] |
+[^C,6E,6A,6] |
+[D,6^F,6B,6] |
+[^C,6^F,6A,6] |
+[D,2-^F,2-B,2-] [^C,2D,2-F,2-B,2] [D,2F,2B,2] |
+[^C,4^F,4A,4] [^G,2B,2] |
+[^C,6^F,6A,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+% Bar 140 (2:46)
+[D,6^F,6A,6] |
+[E,6^G,6B,6] |
+[^C,2F,2-^G,2-] [C,2-F,2-G,2-] [C,2F,2G,2B,2] |
+[^C,6^F,6A,6] |
+[D,3-^F,3-A,3-] [D,-F,-^G,A,] [D,2F,2A,2] |
+[E,6^G,6B,6] |
+[^C,6F,6^G,6] |
+[^C,6^F,6A,6] |
+[D,6^F,6A,6] |
+[E,6-^G,6-B,6-] |
+% Bar 150 (2:58)
+[E,6^G,6B,6] |
+[D,6^F,6A,6] |
+[^C,6E,6A,6] |
+[D,6^F,6B,6] |
+[^C,6^F,6A,6] |
+[D,2-^F,2-B,2-] [^C,2D,2-F,2-B,2] [D,2F,2B,2] |
+[^C,4^F,4A,4] [^G,2B,2] |
+[^C,6-^F,6-A,6-] |
+[^C,6^F,6A,6] |
+[D,2-^F,2-A,2-] [D,2-F,2^G,2A,2-] [D,2F,2A,2] |
+% Bar 160 (3:10)
+[^C,6E,6^F,6A,6] |
+[D,2-^F,2-B,2-] [^C,2D,2-F,2-B,2] [D,2F,2B,2] |
+%%Q: 100
+[^C,9^F,9A,9] |
+[D,3-^F,3-B,3-] [^C,3D,3-F,3-B,3] [D,3F,3B,3] |
+[^C,6^F,6A,6] [^G,3B,3] |
+[^C,9-^F,9-^A,9-] |
+[^C,9^F,9^A,9] |
+z9 |]
+

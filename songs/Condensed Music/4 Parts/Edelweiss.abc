@@ -1,0 +1,620 @@
+%abc-2.1
+%%song-title       Edelweisse
+%%song-composer    Sound of Music
+%%song-duration    1:53
+%%song-transcriber Arranged by Fin
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-05 12:18:31
+%%swing-rhythm false
+%%mix-timings true
+%%reduced-file-size false
+%%organic             false
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+N: Title: Sound of Music - Edelweisse
+N: TS  4,   9  5  8  1
+I:decoration +
+
+X: 9
+T: Edelweisse (1:53) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+%%user-pan auto
+C: Sound of Music
+Z: Arranged by Fin
+M: 3/4
+Q: 120
+L: 1/8
+K: C maj
++mp+ z6 |
+z6 |
+z6 |
+z6 |
+d4 f2 |
+c'4 z2 |
+^a4 f2 |
+^d4 z2 |
+d4 d2 |
+% Bar 10 (0:14)
+d2 ^d2 f2 |
+g6 |
+f4 z2 |
+d4 f2 |
+c'4 z2 |
+^a4 f2 |
+^d4 z2 |
+d4 f2 |
+f2 g2 a2 |
+^a6 |
+% Bar 20 (0:29)
+^a4 z2 |
+c' z2 f f2 |
+a2 g2 f2 |
+d4 f2 |
+^a4 z2 |
+g4 ^a2 |
+c'4 ^a2 |
+a6 |
+f4 z2 |
+d4 f2 |
+% Bar 30 (0:44)
+c'4 z2 |
+^a4 f2 |
+^d4 z2 |
+d4 f2 |
+f2 g2 a2 |
+^a6 |
+^a4 z2 |
+d4 f2 |
+c'4 z2 |
+^a4 f2 |
+% Bar 40 (0:59)
+^d4 z2 |
+d4 d2 |
+d2 ^d2 f2 |
+g6 |
+f4 z2 |
+d4 f2 |
+c'4 z2 |
+^a4 f2 |
+^d4 z2 |
+d4 f2 |
+% Bar 50 (1:14)
+f2 g2 a2 |
+^a6 |
+^a4 z2 |
+c' z2 f f2 |
+a2 g2 f2 |
+d4 f2 |
+^a4 z2 |
+g4 ^a2 |
+c'4 ^a2 |
+a6 |
+% Bar 60 (1:29)
+f2-
+	%%Q: 119
+	f240/119
+	%%Q: 117
+	z80/39 |
+%%Q: 116
+d60/29-
+	%%Q: 114
+	d40/19
+	%%Q: 113
+	f240/113 |
+%%Q: 111
+c'80/37-
+	%%Q: 110
+	c'24/11
+	%%Q: 108
+	z20/9 |
+%%Q: 107
+^a240/107-
+	%%Q: 105
+	a16/7
+	%%Q: 104
+	f30/13 |
+%%Q: 102
+^d40/17-
+	%%Q: 100
+	d12/5
+	%%Q: 99
+	z80/33 |
+%%Q: 97
+d240/97-
+	%%Q: 96
+	d5/2
+	%%Q: 94
+	f120/47 |
+%%Q: 93
+f80/31
+	%%Q: 91
+	g240/91
+	%%Q: 90
+	a8/3 |
+%%Q: 88
+^a30/11-
+	%%Q: 87
+	a80/29-
+	%%Q: 85
+	a48/17
+	%%Q: 84
+	a20/7- |
+%%Q: 82
+^a120/41-
+	%%Q: 80
+	a3-
+	%%Q: 79
+	a240/79- |
+%%Q: 77
+^a240/77-
+	%%Q: 76
+	a60/19
+	%%Q: 74
+	z120/37 |
+% Bar 70 (1:48)
+%%Q: 73
+z240/73
+	%%Q: 71
+	z240/71
+	%%Q: 70
+	z24/7 |
+%%Q: 68
+z60/17
+	%%Q: 67
+	z240/67 |]
+
+
+X: 5
+T: Edelweisse (1:53) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+%%user-pan auto
+C: Sound of Music
+Z: Arranged by Fin
+M: 3/4
+Q: 120
+L: 1/8
+K: C maj
++mp+ F2 F2 F2 |
+F2 F2 F2 |
+F2 F2 F2 |
+F2 F2 F2 |
+^A2 +pp+ A4 |
++mp+ A2- +pp+ [A2-^d2f2] [A2d2f2] |
++mp+ D2- +pp+ [D4^A4] |
++mp+ G2- +pp+ [^D2G2-] [G2^A2] |
++mp+ F2 +pp+ [F4^A4] |
+% Bar 10 (0:14)
++mp+ [F6G6^A6] |
+C2- +pp+ [C2-^A2^d2] [C2A2d2] |
++mp+ F2- +pp+ [F2-A2^d2] [F2A2d2] |
++mp+ ^A2 +pp+ A4 |
++mp+ A2- +pp+ [A2-^d2f2] [A2d2f2] |
++mp+ D2- +pp+ [D4^A4] |
++mp+ G2- +pp+ [^D2G2-] [G2^A2] |
++mp+ F2- +pp+ [F4^A4] |
++mp+ [F6A6^d6] |
+^A2 +pp+ [A2d2f2] [A2d2f2] |
+% Bar 20 (0:29)
++mp+ F2- +pp+ [F2-^A2d2f2] [F2A2d2f2] |
++mp+ A2 F2 z2 |
+[F2A2-^d2-] [F2A2-d2-] [A2d2] |
+^A2 [F2A2-] A2 |
+F2 [F2^A2d2f2] +pp+ [A2d2f2] |
++mp+ ^D2 [^A2-^d2-] [G2A2d2] |
+E2 [C2c2-g2-] [G2c2g2] |
+F2 [C2c2f2] [A2c2f2] |
+F2 [C2A2^d2] [F2A2d2] |
+^A2 +pp+ A4 |
+% Bar 30 (0:44)
++mp+ ^G2- +pp+ [G2-c2d2f2] [G2c2d2f2] |
++mp+ G2- +pp+ [G4^A4] |
++mp+ ^F2- +pp+ [F2-^A2] [F2A2] |
++mp+ F2- +pp+ [F4^A4] |
++mp+ [F6A6^d6] |
+^A2 [F2A2d2] +pp+ [A2d2] |
++mp+ F2 [F2^A2d2] +pp+ [A2d2] |
++mp+ ^A2 +pp+ A4 |
++mp+ A2- +pp+ [A2-^d2f2] [A2d2f2] |
++mp+ D2- +pp+ [D4^A4] |
+% Bar 40 (0:59)
++mp+ G2- +pp+ [^D2G2-] [G2^A2] |
++mp+ F2 +pp+ [F4^A4] |
++mp+ [F6G6^A6] |
+C2- +pp+ [C2-^A2^d2] [C2A2d2] |
++mp+ F2- +pp+ [F2-A2^d2] [F2A2d2] |
++mp+ ^A2 +pp+ A4 |
++mp+ A2- +pp+ [A2-^d2f2] [A2d2f2] |
++mp+ D2- +pp+ [D4^A4] |
++mp+ G2- +pp+ [^D2G2-] [G2^A2] |
++mp+ F2- +pp+ [F4^A4] |
+% Bar 50 (1:14)
++mp+ [F6A6^d6] |
+^A2 +pp+ [A2d2f2] [A2d2f2] |
++mp+ F2- +pp+ [F2-^A2d2f2] [F2A2d2f2] |
++mp+ A2 F2 z2 |
+[F2A2-^d2-] [F2A2-d2-] [A2d2] |
+^A2 [F2A2-] A2 |
+F2 [F2^A2d2f2] +pp+ [A2d2f2] |
++mp+ ^D2 [^A2-^d2-] [G2A2d2] |
+E2 [C2c2-g2-] [G2c2g2] |
+F2 [C2c2f2] [A2c2f2] |
+% Bar 60 (1:29)
+F2
+	%%Q: 119
+	[C240/119A240/119^d240/119]
+	%%Q: 117
+	[F80/39A80/39d80/39] |
+%%Q: 116
+^A60/29
+	%%Q: 114
+	+pp+ A40/19-
+	%%Q: 113
+	A240/113 |
+%%Q: 111
++mp+ ^G80/37-
+	%%Q: 110
+	+pp+ [G24/11-c24/11d24/11f24/11]
+	%%Q: 108
+	[G20/9c20/9d20/9f20/9] |
+%%Q: 107
++mp+ G240/107-
+	%%Q: 105
+	+pp+ [G16/7-^A16/7-]
+	%%Q: 104
+	[G30/13A30/13] |
+%%Q: 102
++mp+ ^F40/17-
+	%%Q: 100
+	+pp+ [F12/5-^A12/5]
+	%%Q: 99
+	[F80/33A80/33] |
+%%Q: 97
++mp+ F240/97-
+	%%Q: 96
+	+pp+ [F5/2-^A5/2-]
+	%%Q: 94
+	[F120/47A120/47] |
+%%Q: 93
++mp+ [F80/31-A80/31-^d80/31-]
+	%%Q: 91
+	[F240/91-A240/91-d240/91-]
+	%%Q: 90
+	[F8/3A8/3d8/3] |
+%%Q: 88
+^A30/11
+	%%Q: 87
+	F80/29
+	%%Q: 85
+	d48/17
+	%%Q: 84
+	G20/7 |
+%%Q: 82
+D120/41
+	%%Q: 80
+	^A3
+	%%Q: 79
+	C240/79 |
+%%Q: 77
+G240/77
+	%%Q: 76
+	^A60/19
+	%%Q: 74
+	F120/37 |
+% Bar 70 (1:48)
+%%Q: 73
+G240/73
+	%%Q: 71
+	[A240/71^d240/71]
+	%%Q: 70
+	[F24/7-^A24/7-] |
+%%Q: 68
+[F60/17-^A60/17-]
+	%%Q: 67
+	[F240/67A240/67] |]
+
+
+X: 8
+T: Edelweisse (1:53) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+C: Sound of Music
+Z: Arranged by Fin
+M: 3/4
+Q: 120
+L: 1/8
+K: C maj
++p+ z6 |
+z6 |
+z6 |
+z6 |
+z2 f4 |
+z2 f4 |
+z2 f4 |
+z6 |
+z6 |
+% Bar 10 (0:14)
+z6 |
+z6 |
+z2 f2 c2 |
+z2 f4 |
+z2 f4 |
+z2 f4 |
+z6 |
+z2 d4 |
+z6 |
+z2 f4 |
+% Bar 20 (0:29)
+z2 f4 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z2 f4 |
+% Bar 30 (0:44)
+z2 d4 |
+z2 ^d4 |
+z2 ^d4 |
+z2 f4 |
+z2 f4 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (0:59)
+z6 |
+z2 [d2f2^a2] [d2f2a2] |
+[d6f6^a6] |
+z2 f4 |
+z2 f4 |
+z2 f4 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:14)
+z2 f2 c2 |
+z2 f4 |
+z2 f4 |
+z2 f4 |
+z6 |
+z2 d4 |
+z6 |
+z2 f4 |
+z2 f4 |
+z6 |
+% Bar 60 (1:29)
+z2
+	%%Q: 119
+	z240/119
+	%%Q: 117
+	z80/39 |
+%%Q: 116
+z60/29
+	%%Q: 114
+	z40/19
+	%%Q: 113
+	z240/113 |
+%%Q: 111
+z80/37
+	%%Q: 110
+	z24/11
+	%%Q: 108
+	z20/9 |
+%%Q: 107
+z240/107
+	%%Q: 105
+	z16/7
+	%%Q: 104
+	z30/13 |
+%%Q: 102
+z40/17
+	%%Q: 100
+	z12/5
+	%%Q: 99
+	z80/33 |
+%%Q: 97
+z240/97
+	%%Q: 96
+	z5/2
+	%%Q: 94
+	z120/47 |
+%%Q: 93
+z80/31
+	%%Q: 91
+	z240/91
+	%%Q: 90
+	z8/3 |
+%%Q: 88
+z30/11
+	%%Q: 87
+	f80/29-
+	%%Q: 85
+	f48/17
+	%%Q: 84
+	z20/7 |
+%%Q: 82
+d120/41-
+	%%Q: 80
+	d3
+	%%Q: 79
+	z240/79 |
+%%Q: 77
+^d240/77-
+	%%Q: 76
+	d60/19
+	%%Q: 74
+	z120/37 |
+% Bar 70 (1:48)
+%%Q: 73
+^d240/73-
+	%%Q: 71
+	d240/71
+	%%Q: 70
+	z24/7 |
+%%Q: 68
+f60/17-
+	%%Q: 67
+	f240/67 |]
+
+
+X: 1
+T: Edelweisse (1:53) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+C: Sound of Music
+Z: Arranged by Fin
+M: 3/4
+Q: 120
+L: 1/8
+K: C maj
++p+ [D,6^A,6D6] |
+[F,6^A,6D6F6] |
+[^D,6G,6^A,6^D6] |
+[^D,6A,6C6F6] |
+D,4 F,2 |
+C6 |
+^A,4 F,2 |
+^D,6 |
+D,4 D,2 |
+% Bar 10 (0:14)
+D,2 ^D,2 F,2 |
+G,6 |
+F,6 |
+D,4 F,2 |
+C6 |
+^A,4 F,2 |
+^D,6 |
+D,4 F,2 |
+F,2 G,2 A,2 |
+^A,6 |
+% Bar 20 (0:29)
+^A,6 |
+[^D,F,C] z2 [C,D,F,] [C,2D,2F,2] |
+A,2 G,2 F,2 |
+D,4 F,2 |
+^A,6 |
+G,4 ^A,2 |
+C4 ^A,2 |
+A,6 |
+F,6 |
+D,4 F,2 |
+% Bar 30 (0:44)
+C6 |
+^A,4 F,2 |
+^D,6 |
+D,4 F,2 |
+F,2 G,2 A,2 |
+^A,6 |
+^A,4 z2 |
+D,4 F,2 |
+C6 |
+^A,4 F,2 |
+% Bar 40 (0:59)
+^D,6 |
+D,4 D,2 |
+D,2 ^D,2 F,2 |
+G,6 |
+F,6 |
+D,4 F,2 |
+C6 |
+^A,4 F,2 |
+^D,6 |
+D,4 F,2 |
+% Bar 50 (1:14)
+F,2 G,2 A,2 |
+^A,6 |
+^A,6 |
+[^D,F,C] z2 [C,D,F,] [C,2D,2F,2] |
+A,2 G,2 F,2 |
+D,4 F,2 |
+^A,6 |
+G,4 ^A,2 |
+C4 ^A,2 |
+A,6 |
+% Bar 60 (1:29)
+F,2-
+	%%Q: 119
+	F,240/119-
+	%%Q: 117
+	F,80/39 |
+%%Q: 116
+D,60/29-
+	%%Q: 114
+	D,40/19
+	%%Q: 113
+	F,240/113 |
+%%Q: 111
+C80/37-
+	%%Q: 110
+	C24/11-
+	%%Q: 108
+	C20/9 |
+%%Q: 107
+^A,240/107-
+	%%Q: 105
+	A,16/7
+	%%Q: 104
+	F,30/13 |
+%%Q: 102
+^D,40/17-
+	%%Q: 100
+	D,12/5-
+	%%Q: 99
+	D,80/33 |
+%%Q: 97
+D,240/97-
+	%%Q: 96
+	D,5/2
+	%%Q: 94
+	F,120/47 |
+%%Q: 93
+F,80/31
+	%%Q: 91
+	G,240/91
+	%%Q: 90
+	A,8/3 |
+%%Q: 88
+[D,30/11F,30/11^A,30/11]
+	%%Q: 87
+	[F,80/29A,80/29D80/29]
+	%%Q: 85
+	[F,48/17A,48/17F48/17]
+	%%Q: 84
+	[D,20/7F,20/7A,20/7] |
+%%Q: 82
+[F,120/41^A,120/41D120/41]
+	%%Q: 80
+	[F,3A,3F3]
+	%%Q: 79
+	z240/79 |
+%%Q: 77
+[F,240/77^A,240/77]
+	%%Q: 76
+	[^D,60/19A,60/19F60/19]
+	%%Q: 74
+	z120/37 |
+% Bar 70 (1:48)
+%%Q: 73
+[^D,240/73^A,240/73]
+	%%Q: 71
+	[G,240/71^D240/71G240/71]
+	%%Q: 70
+	[=D,24/7F,24/7A,24/7=D24/7] |
+%%Q: 68
+[F,60/17^A,60/17D60/17F60/17]
+	%%Q: 67
+	[A,240/67D240/67F240/67^A240/67] |]
+

@@ -1,0 +1,104 @@
+N: TS  3,   4  18  21
+X: 4
+%%Orig filename was SmaointeHorn.abc
+T: Smaointe...-horn (Enya) (3:41)
+%%part-name Basic Horn
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: smointe.mid
+%  Transpose: 0
+L: 1/4
+Q: 100
+K: C
+
++p+ [A,4E4] [E4A,4] [E4^G,4] [^F,4^C4] [E4A,4] [^F4D4] [E31/8A,4] z/8
+[E,4B,4] [D,4A,4] [E4A,4] [^G,4E4] [D4^F,33/8] [A,4E4] [D4^F4]
+[B,8E,8] [A,4E4^C4] [D2^F4] B,2 [E2^G2] [^F2A2] [A3B,3] [^F9/8z] E4
+[D2^F4] B,2 [^G2E2] [A2^F2] [A3B,25/8] [D,A,] [B,4E,4] [A,4E4]
+[^G,4E4] [^F,4^C4] [E4A,4] [D4^F4] [E4A,4] [B,4E,4] [A,4D,4]
+[A,4E31/8] z/8 [^G,4E4] [D4^F,4] [A,4E4] [^F4D4] [B,8E,8] [E2^C2A,2]
+[=G,2D17/8] [=C4=G4] [B,4G4] [E4A,4] [G4C4] [A4=F4] [G4C4] [G,4D4]
+[=F,4C4] [G31/8C4] z/8 [G4B,4] [A,4E4] [C4G4] [A4F4] [D4G,4] [D4G,4]
+[G4E4C33/8] F2 D2 [G2B2] [c2A2] [D3c3] A G4 F2 D2 [B2G17/8] [c2A2]
+[c3D3] [CF,] [D31/8G,4] z/8 [C33/8G4] [G4B,4] [E4A,4] [C4G4] [F4A4]
+[C4G4] [G,4D4] [F,4C4] [G4C4] [B,4G4] [A,4E4] [G4C4] [A4F4] [G,4D4]
+[D4G,4] [C2G2E2] [E2^A,2] [D4G,4] [C2E2] [^A,2E2] [G,4D4] [C15/8E2]
+z/8 [^A,2E2] [G,4D33/8] [E2C2] [^A,2E2] [D4G,4] [C2E2] [E2^A,2]
+[G,4D4] [E2C17/8] [E2^A,15/8] z/8 [D4G,4]
+
+X: 18
+%%Orig filename was SmaointePipes1.abc
+T: Smaointe...-bagpipe1 (Enya) (3:41)
+%%part-name Basic Bagpipe 1
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: smointe.mid
+%  Transpose: 0
+L: 1/4
+Q: 100
+K: C
+
+A13/4 z3/4 B/2 ^c5/4 z/4 B3/4 z/4 ^c3/8 z/8 e3/8 z/8 e13/8 z3/8 ^c7/8
+z/8 e3/4 z/4 ^f9/8 z3/8 ^g/4 ^f/8 z/8 e3/4 z/4 ^c7/8 z/8 ^c19/8 z5/8
+e3/8 z/8 ^f/4 ^g/4 a5/4 z/4 b/8 z/8 a/4 ^g3/4 z/4 e7/8 z/8 e13/8 z3/8
+^c3/4 z/4 A3/4 z/4 B13/8 z3/8 B3/4 z/4 ^c3/4 z/4 A19/8 z5/8 A3/8 z/8
+B3/8 z/8 ^c5/4 z/4 d/4 ^c/4 B3/4 z/4 ^c3/8 z/8 e3/8 z/8 e13/8 z3/8
+^c7/8 z/8 e3/4 z/4 ^f5/4 z/4 ^g/4 ^f/4 e3/4 z/4 ^c3/4 z/4 ^c19/8 z5/8
+e3/8 z/8 ^f/4 ^g/8 z/8 a5/4 z/4 b/4 a/8 z/8 ^g7/8 z/8 e3/4 z/4 ^c3/4
+z/4 B17/8 z3/8 B3/8 z/8 ^c5/4 z/4 d/4 ^c/4 B7/8 z/8 A3/4 z/4 A19/8
+z5/8 e3/4 z/4 a3/2 z/2 a7/8 z/8 ^g3/8 z/8 ^f3/8 z/8 e3/8 z/8 ^f/4 e/8
+z/8 ^c3/8 z/8 ^f3/8 z/8 ^f5/4 z/4 e3/8 z/8 ^f3/4 z/4 ^g7/8 z/8 a3/4
+z/4 A7/8 z/8 ^c7/8 z/8 B13/8 z3/8 e7/8 z/8 a13/8 z3/8 a3/4 z/4 a/4
+z/8 b/4 a3/8 ^g3/8 z/8 a/4 ^g/4 ^f3/8 z/8 e3/8 z/8 ^f5/4 z/4 e3/8 z/8
+^f7/8 z/8 ^g7/8 z/8 a7/8 z/8 A7/8 z/8 [B13/4^G13/4] z3/4 B/2 ^c9/8
+z3/8 B3/4 z/4 ^c3/8 z/8 e3/8 z/8 e13/8 z3/8 ^c3/4 z/4 e3/4 z/4 ^f9/8
+z3/8 ^g/4 ^f/4 e3/4 z/4 ^c3/4 z/4 ^c19/8 z5/8 e3/8 z/8 ^f/4 ^g/8 z/8
+a5/4 z/4 b/4 a/4 ^g3/4 z/4 e3/4 z/4 e13/8 z3/8 ^c7/8 z/8 A3/4 z/4
+B13/8 z3/8 B3/4 z/4 ^c7/8 z/8 A19/8 z5/8 A3/8 z/8 B3/8 z/8 ^c5/4 z/4
+d/4 ^c/4 B3/4 z/4 ^c3/8 z/8 e3/8 z/8 e13/8 z3/8 ^c3/4 z/4 e3/4 z/4
+^f9/8 z3/8 ^g/4 ^f/8 z/8 e3/4 z/4 ^c7/8 z/8 ^c19/8 z5/8 e3/8 z/8 ^f/8
+z/8 ^g/8 z/8 a9/8 z3/8 b/4 a/4 ^g7/8 z/8 e3/4 z/4 ^c7/8 z/8 B9/4 z/4
+B3/8 z/8 ^c5/4 z/4 d/8 z/8 ^c/4 B7/8 z/8 A3/4 z/4 A13/8 z3/8 B13/8
+z3/8 e13/8 z3/8 d3/4 z/4 e3/8 z/8 =g3/8 z/8 g19/8 z5/8 e3/8 z/8 g/2
+a9/8 z3/8 b/4 a/4 g3/4 z/4 e7/8 z/8 e19/8 z5/8 g3/8 z/8 a/4 b/8 z/8
+c'13/8 z3/8 b3/8 z/8 g5/4 z/4 [e19/8g5/2] z5/8 e/4 z/8 g/4 =c3/8
+d13/8 z3/8 e3/4 z/4 g3/4 z/4 c13/8 z3/8 g3/8 z/8 c3/4 z/4 d3/8 z/8
+e9/8 z3/8 =f/4 e/4 d3/4 z/4 e3/8 z/8 g3/8 z/8 g5/4 z/4 a/8 z/8 g/8
+z/8 e3/4 z/4 g3/4 z/4 a9/8 z3/8 b/4 a/8 z/8 g3/4 z/4 e7/8 z/8 e19/8
+z5/8 g3/8 z/8 a/4 b/4 c'13/8 z3/8 b3/8 z/8 g5/4 z/4 e3/8 z/8 d9/4 z/4
+e3/8 z/8 f/4 e/4 d13/8 z3/8 g3/8 z/8 c7/8 z/8 g3/8 z/8 c19/8 z5/8
+g3/4 z/4 c'13/8 z3/8 c'7/8 z/8 b3/8 z/8 a3/8 z/8 g3/8 z/8 a/4 g/8 z/8
+e3/8 z/8 a3/8 z/8 a5/4 z/4 g/2 a7/8 z/8 b3/4 z/4 c'7/8 z/8 c3/4 z/4
+[c7/8e7/8] z/8 [B13/8d13/8] z3/8 g3/4 z/4 c'13/8 z3/8 c'3/4 z/4 c'/4
+d3/8 z/8 c'/4 b3/8 z/8 c'/8 z/8 b/8 z/8 a/2 g3/8 z/8 a5/4 z/4 g3/8
+z/8 a7/8 z/8 b7/8 z/8 c'7/8 z/8 [c3/4A3/4] z/4 [d25/8B13/4] z7/8 d/2
+e9/8 z3/8 d3/4 z/4 e3/8 z/8 g3/8 z/8 g13/8 z3/8 e3/4 z/4 g7/8 z/8
+a5/4 z/4 b/4 a/4 g3/4 z/4 e7/8 z/8 e19/8 z5/8 g3/8 z/8 a/8 z/8 b/4
+c'5/4 z/4 d/4 c'/4 b3/4 z/4 g3/4 z/4 [g13/8e13/8] z3/8 e7/8 z/8 c3/4
+z/4 d13/8 z3/8 e7/8 z/8 c3/4 z/4 c19/8 z5/8 c3/8 z/8 d/4 e/4 e5/4 z/4
+f/4 e/4 d7/8 z/8 e3/8 z/8 g3/8 z/8 g13/8 z3/8 e3/4 z/4 g3/4 z/4 a5/4
+z/4 b/8 z/8 a/4 g7/8 z/8 e7/8 z/8 e19/8 z5/8 g3/8 z/8 a/4 b/4 c'9/8
+z3/8 d/8 z/8 c'/8 z/8 b3/4 z/4 g3/4 z/4 e3/4 z/4 d3/4 z/4 d5/4 z/4
+d3/8 z/8 e5/4 z/4 f/4 e/4 d5/4 z/4 c3/8 z/8 [c3/2z] g3/4 z/4 g5/4 z/4
+f/4 e/8 z/8 f/2 g19/8 z/8 c7/8 z/8 g13/8 z3/8 g5/4 z/4 f/4 e/8 z/8
+f19/8 z5/8 c7/8 z/8 g3/2 z/2 g9/8 z3/8 f/4 e/4 f3/8 z/8 g5/4 z/4 g3/4
+z/4 c3/4 z/4 g13/8 z3/8 g5/4 z/4 f/4 e/8 z/8 f5/2 z/2 c3/4 z/4 g13/8
+z3/8 g5/4 z/4 f/8 z/8 e/4 f3/8 z/8 g5/4 z/4 g3/4 z/4 c3/4 z/4 g13/8
+z3/8 g5/4 z/4 f/4 e/4 f19/8 z5/8 c7/8
+
+X: 21
+%%Orig filename was SmaointePipes2.abc
+T: Smaointe...-bagpipe2(Enya) (3:41)
+%%part-name Basic Bagpipe 2
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: smointe.mid
+%  Transpose: 0
+L: 1/4
+Q: 100
+K: C
+
+z4 A4 [B33/8z4] A4 [A33/8z4] d4 ^c4 ^G4 ^F4 A4 B4 A4 A4 d4 ^G8 z53/4
+z53/4 z19/2 A4 [B33/8z4] A4 A4 d4 ^c4 ^G4 ^F4 A4 B4 A4 [A33/8z4] d4
+^G8 z2 d3/2 d/2 =c4 d4 c4 c4 f4 z4 B4 A4 c4 d4 c4 c4 f4 B4 B4 z4 f4
+d2 e2 f3 z5 f4 d2 e2 f3 z5 c4 d4 c4 c4 f4 z4 d4 c4 c31/8 z/8 d4 c4 c4
+f4 B4 B4 c g [c2g3/2] f/4 e/4 ^A31/8 z/8 c15/8 z/8 c2 ^A4 c15/8 z/8
+c2 ^A4 c2 c2 ^A4 c2 c2 ^A4 c2 c2 ^A4
+

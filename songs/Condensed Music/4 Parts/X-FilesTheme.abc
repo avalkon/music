@@ -1,0 +1,157 @@
+N: TS  4,   1   5  21  12
+X: 1
+%%Orig filename was X-FilesThemeFlute.abc
+T: X-Files (0:50) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Mark Snow
+Z: Raymiond of Sting
+M: 4/4
+Q: 115
+K: C maj
+L: 1/8
+
++fff+ z8 |
+z4 A,2 E2 |
+D2 E2 G2 E2- |
+E6 z2 |
+z4 A,2 E2 |
+D2 E2 A2 E2- |
+E6 z2 |
+z4 c2 B2 |
+A2 G2 A2 E2- |
+% Bar 10 (0:19)
+E6 z2 |
+z4 c2 B2 |
+A2 G2 A2- [E//-A//] E7/4- |
+E6 z2 |
+z4 A,2 E2 |
+D2 E2 G2 E2- |
+E6 z2 |
+z4 A,2 E2 |
+D2 E2 A2 E2- |
+E6 z2 |
+% Bar 20 (0:40)
+z4 A2 z// E7/4- |
+E8- |
+E3/2 z13/2 |
+z8 |
+z4 |]
+
+X: 5
+%%Orig filename was X-FilesThemeHarp1.abc
+T: X-Files (0:50) - Basic Harp 1
+%%part-name Basic Harp 1
+%%made-for Basic Harp
+C: Mark Snow
+Z: Raymiond of Sting
+M: 4/4
+Q: 115
+K: C maj
+L: 1/8
+
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 +mp+ c2/3 +mf+ e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 +mp+ c2/3 e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 +ff+ f2/3 +f+ c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 +mp+ c2/3 e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 c2/3 e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 +mf+ f2/3 c2/3 e2/3 f2/3 c2/3 e2/3 |
+% Bar 10 (0:19)
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 +mp+ c2/3 e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 +mp+ c2/3 +mf+ e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 c2/3 e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 c2/3 e2/3 |
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 f2/3 c2/3 e2/3 f2/3 +mf+ c2/3 e2/3 f2/3 c2/3 e2/3 |
+% Bar 20 (0:40)
+z8 |
++fff+ A2/3 +f+ c2/3 e2/3 A2/3 c2/3 e2/3 A2/3 +mf+ c2/3 e2/3 +mp+ A2/3 c2/3 e2/3 |
+z8 |
+z8 |
+z4 |]
+
+X: 21
+%%Orig filename was X-FilesThemeHarp2.abc
+T: X-Files (0:50) - Basic Harp 2
+%%part-name Basic Harp 2
+%%made-for Basic Harp
+C: Mark Snow
+Z: Raymiond of Sting
+M: 4/4
+Q: 115
+K: C maj
+L: 1/8
+
++ff+ z8 |
+A z +f+ A3/4 z5/4 A z A z |
+z8 |
++ff+ B z +f+ B3/4 z5/4 B z B z |
+z8 |
++ff+ A z +f+ A3/4 z5/4 A z A z |
+z8 |
++ff+ B z +f+ B3/4 z5/4 B z B z |
+z8 |
+% Bar 10 (0:19)
+e z e3/4 z5/4 e z e z |
+z8 |
++ff+ A z +f+ A3/4 z5/4 A z A z |
+z8 |
++ff+ A z +f+ A3/4 z5/4 A z A z |
+z8 |
++ff+ B z +f+ B3/4 z5/4 B z B z |
+z8 |
++ff+ A z +f+ A3/4 z5/4 A z A z |
+z8 |
+% Bar 20 (0:40)
++ff+ B z +f+ B3/4 z5/4 B3/4 z5/4 B z |
+z8 |
++ff+ A z7 |
+z8 |
+z4 |]
+
+X: 12
+%%Orig filename was X-FilesThemeLonely.abc
+T: X-Files (0:50) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+%%made-for Lonely Mountain Fiddle
+C: Mark Snow
+Z: Raymiond of Sting
+M: 4/4
+Q: 115
+K: C maj
+L: 1/8
+
++ppp+ [A,8-A8-] |
+[A,8A8] |
+[A,8-A8-] |
+[A,8A8] |
+[A,8-A8-] |
+[A,8A8] |
+[A,8-A8-] |
+[A,8A8] |
+[A,8-A8-] |
+% Bar 10 (0:19)
+[A,8A8] |
+[A,8-A8-] |
+[A,8A8] |
+[A,8-A8-] |
+[A,8A8] |
+[A,8-A8-] |
+[A,8A8] |
+z// [A,31/4-A31/4-] |
+[A,8-A8-] |
+[A,//A//] [A,31/4-A31/4-] |
+% Bar 20 (0:40)
+[A,8-A8-] |
+[A,//A//] [A,31/4-A31/4-] |
+[A,8A8] |
+[A,8-A8-] |
+[A,15/4-A15/4] A,// |]
+

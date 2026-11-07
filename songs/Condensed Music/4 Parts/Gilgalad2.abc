@@ -1,0 +1,1898 @@
+N: TS  4,   9   1  21   5
+X: 9
+%%Orig filename was Gilgalad2Ages.abc
+T: The Fall of Gil-Galad Lute of Ages (3:20)
+%%part-name Lute of Ages
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 160
+K: F
+
+%[G,CGcdg]		% 002200
+%[G,CGce]		% 00222x
+%[G,CGcda]		% 002202
+%[G,CGd]		% 002x0x
+%[G,CGc]		% 0022xx
+
+%[G,CGBdg]		% 002000
+%[G,CGBda]		% 002002
+%[G,CGBdb]		% 002003
+
+%[G,CGBg]		% 00205x
+%[G,CGd^f]		% 00244x
+%[G,CF^cf]		% 00033x
+
+%[G,DGBdg]		% 022000
+%[G,EABdg]		% 044000
+%[G,FBdg]		% 055000
+
+
+% ----- bridge
++mf+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 C, G c2
+
+% -----
+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 G2 C,2
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
+% ----- instrumental
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mp+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mp+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mp+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- verse A
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++f+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcda]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcdg]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
+
++f+[G,2C2G2d2]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGd]
++ppp+[G,CG]
+
++f+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- verse B
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
+z
++f+[G,CGBda]		% 002002
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2b2]	% 002003
+z
++ppp+[G,CGBd]
++ppp+[G,CGBdb]
++ppp+[G,CGBd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2e2]	% 00222x
+z
++mf+[G,CGd]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- instrumental
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- verse A
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcda]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcdg]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
+
++f+[G,2C2G2d2]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGd]
++ppp+[G,CG]
+
++f+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- verse B
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
+z
++f+[G,CGBda]		% 002002
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2b2]	% 002003
+z
++ppp+[G,CGBd]
++ppp+[G,CGBdb]
++ppp+[G,CGBd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2e2]	% 00222x
+z
++mf+[G,CGd]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- bridge
+
++mf+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 C, G c2
+
+% -----
+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 G2 C,2
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
+% ----- instrumental
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- verse C
+
++f+[G,2C2G2B2g2]	% 00205x
+z
++ppp+[G,CGB]
++ppp+[G,CGBg]
++ppp+[G,CGB]
+
++f+[G,2C2G2B2g2]	% 00205x
++ppp+[G,CGB]
++ppp+[G,CGB]
++ppp+[G,CGBg]
++ppp+[G,CGB]
+
++f+[G,2C2G2d2^f2]	% 00244x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd^f]
++ppp+[G,CGd]
+
++f+[G,2C2G2d2^f2]	% 00244x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd^f]
++ppp+[G,CGd]
+|
+
++f+[G,2C2F2^c2f2]	% 00033x
+z
++ppp+[G,CF^c]
++ppp+[G,CF^cf]
++ppp+[G,CF^c]
+
++f+[G,2C2F2^c2f2]	% 00033x
++mf+[G,CF^cg]
++ppp+[G,CF^c]
++ppp+[G,CF^cf]
++ppp+[G,CF^c]
+|
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++mf+[G,CGc]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
+
++f+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
+% ----- verse D
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++pp+[G,CGBdg]
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
+z
++f+[G,CGBda]		% 002002
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2b2]	% 002003
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdb]
++ppp+[G,CGBd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2e2]	% 00222x
+z
++mf+[G,CGd]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- instrumental
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- bridge
++mf+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 C, G c2
+
+% -----
+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
++p+c/3 +mf+c'
+
+X: 1
+%%Orig filename was Gilgalad2Flute1.abc
+T: The Fall of Gil-Galad Basic Flute 1 (3:20)
+%%part-name Basic Flute 1
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 160
+K: F
+
+
+% ----- bridge
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+z12 z12
+
+% ----- instrumental
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+
+% ----- verse A
+
+E4 E z E4 E E		% Gil Ga-lad was an
+A4 A z G4 G z		% El-ven King of
+E4 E z E4 E z		% Him the har-pers
+D4 D z C4 C2		% Sad-ly sing, the
+
+% ----- verse B
+
+G4 G z G4 G z		% Last whose realm was
+G3 A3 B4 B2		% fair and free, Be-
+C4 C z C4 C z		% tween the moun-tains
+E3 D3 C4 z2		% and the sea
+
+% ----- instrumental
+
+z12 z12 z12 z12
+z12 z12 z12 z6
+z4 E2			% His
+
+% ----- verse A
+
+E4 E z E4 E z		% sword was long, his
+A4 A z G4 G z		% lance was keen, his
+E4 E z E4 E z		% Shi-ning helm a-
+D4 D z C4 C2		% far was seen, the
+
+% ----- verse B
+
+G4 G z G4 G z		% count-less stars of
+G3 A3 B4 B2		% hea-vens field were
+C2 C3 z C4 C z		% mir-rored in his
+E3 D3 C4 z2		% sil-ver shield
+
+% ----- bridge
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+z12 z12
+
+% ----- instrumental
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+
+% ----- verse C
+
+G4 G z G4 G z		% Long a-go he
+^F4 F z F4 F z		% rode a-way and
+=F4 F z F G3 F2		% where he dwelleth
+E3 C3 C4 C2		% none can say, for
+
+% ----- verse D
+
+G4 G z G4 G z		% in-to dark-ness
+G3 A3 B4 B2		% fell his star, in
+C4 C z C4 C z		% Mor-dor where the
+E3 D3 C4 z2		% sha-dows are
+
+% ----- instrumental
++p+
+z12
+A6 G6			% ah-ah
+z12
+D6 C6			% ah-ah
+z12
+A6 G6			% ah-ah
+z12
+D6 C6			% ah-ah
+
+X: 21
+%%Orig filename was Gilgalad2Flute2.abc
+T: The Fall of Gil-Galad Basic Flute 2 (3:20)
+%%part-name Basic Flute 2
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 160
+K: F
+
++p+
+
+% ----- bridge
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+z12 z12
+
+% ----- instrumental
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+
+% ----- verse A
+
+z12 z12 z12 z12
+
+% ----- verse B
+
+z12 z12 z12 z12
+
+% ----- instrumental
+
+C12 A6 G6
+C12 F6 E6
+C12 A6 G6
+C12 F6 E6
+
+% ----- verse A
+
+z12 z12 z12 z12
+
+% ----- verse B
+
+z12 G,12 C,12 F,6 E,6
+
+% ----- bridge
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+z12 z12
+
+% ----- instrumental
+
+z12 z12 z12 z12
+z12 z12 z12 z12
+
+% ----- verse C
+
+G,12 ^F,12 =F,12 E,12
+
+% ----- verse D
+
+C,12 C,3 D,3 _E,6 | C,12 C,12
+
+% ----- instrumental
+C,12 A,6 G,6
+C,12 F,6 E,6
+C,12 A,6 G,6
+C,12 F,6 E,6
+
+X: 5
+%%Orig filename was Gilgalad2Harp.abc
+T: The Fall of Gil-Galad Basic Harp (3:20)
+%%part-name Basic Harp
+C: The Lonely Mountain Band
+Z: Astleigh
+L: 1/8
+Q: 160
+K: F
+
+%[G,CGcdg]		% 002200
+%[G,CGce]		% 00222x
+%[G,CGcda]		% 002202
+%[G,CGd]		% 002x0x
+%[G,CGc]		% 0022xx
+
+%[G,CGBdg]		% 002000
+%[G,CGBda]		% 002002
+%[G,CGBdb]		% 002003
+
+%[G,CGBg]		% 00205x
+%[G,CGd^f]		% 00244x
+%[G,CF^cf]		% 00033x
+
+%[G,DGBdg]		% 022000
+%[G,EABdg]		% 044000
+%[G,FBdg]		% 055000
+
+
+% ----- bridge
++mf+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 C, G c2
+
+% -----
+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 G2 C,2
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
+% ----- instrumental
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mp+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mp+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mp+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mp+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- verse A
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++f+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcda]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcdg]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
+
++f+[G,2C2G2d2]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGd]
++ppp+[G,CG]
+
++f+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- verse B
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
+z
++f+[G,CGBda]		% 002002
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2b2]	% 002003
+z
++ppp+[G,CGBd]
++ppp+[G,CGBdb]
++ppp+[G,CGBd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2e2]	% 00222x
+z
++mf+[G,CGd]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- instrumental
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- verse A
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcda]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcd]
++ppp+[G,CGcd]
++ppp+[G,CGcdg]
++ppp+[G,CGcd]
+
++f+[G,2C2G2c2e2]	% 00222x
+z
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGce]
++ppp+[G,CGc]
+
+
++f+[G,2C2G2d2]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGd]
++ppp+[G,CG]
+
++f+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- verse B
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
+z
++f+[G,CGBda]		% 002002
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2b2]	% 002003
+z
++ppp+[G,CGBd]
++ppp+[G,CGBdb]
++ppp+[G,CGBd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2e2]	% 00222x
+z
++mf+[G,CGd]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- bridge
+
++mf+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 C, G c2
+
+% -----
+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 G2 C,2
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,3C3G3c3d3g3]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mp+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
+% ----- instrumental
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- verse C
+
++f+[G,2C2G2B2g2]	% 00205x
+z
++ppp+[G,CGB]
++ppp+[G,CGBg]
++ppp+[G,CGB]
+
++f+[G,2C2G2B2g2]	% 00205x
++ppp+[G,CGB]
++ppp+[G,CGB]
++ppp+[G,CGBg]
++ppp+[G,CGB]
+
++f+[G,2C2G2d2^f2]	% 00244x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd^f]
++ppp+[G,CGd]
+
++f+[G,2C2G2d2^f2]	% 00244x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd^f]
++ppp+[G,CGd]
+|
+
++f+[G,2C2F2^c2f2]	% 00033x
+z
++ppp+[G,CF^c]
++ppp+[G,CF^cf]
++ppp+[G,CF^c]
+
++f+[G,2C2F2^c2f2]	% 00033x
++mf+[G,CF^cg]
++ppp+[G,CF^c]
++ppp+[G,CF^cf]
++ppp+[G,CF^c]
+|
+
++f+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGc]
++mf+[G,CGc]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
+
++f+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
+% ----- verse D
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdg]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
++ppp+[G,CGBd]
++pp+[G,CGBdg]
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2g2]	% 002000
+z
++f+[G,CGBda]		% 002002
++ppp+[G,CGBd]
++ppp+[G,CGBd]
+
++f+[G,2C2G2B2d2b2]	% 002003
++ppp+[G,CGBd]
++ppp+[G,CGBd]
++ppp+[G,CGBdb]
++ppp+[G,CGBd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CGc]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2e2]	% 00222x
+z
++mf+[G,CGd]		% 002x0x
++ppp+[G,CG]
++ppp+[G,CG]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
++ppp+[G,CG]
+
+% ----- instrumental
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% -----
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2d2a2]	% 002202
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
++ppp+[G,CGcda]
+
++mf+[G,2C2G2c2d2g2]	% 002200
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
++ppp+[G,CGcdg]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2c2e2]	% 00222x
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
++ppp+[G,CGce]
+
++mf+[G,2C2G2d2]		% 002x0x
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
++ppp+[G,CGd]
+
++mf+[G,2C2G2c2]		% 0022xx
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
++ppp+[G,CGc]
+
+% ----- bridge
++mf+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
+c2 C, G c2
+
+% -----
+
+[C,2G,2G2c2c'2] C, G c' G
+a2 C, G a G
+
+b2 a2 G2
+g2 C, G g2
+
+[C,2G,2G2c2f2] C, G f G
+g2 C, G g2
+
+e2/3 f2/3 g2/3 f2 e2
++p+c/3 +mf+c'
+

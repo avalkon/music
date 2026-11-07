@@ -1,0 +1,465 @@
+N: TS  4,   8   3  21   6
+X: 8
+%%Orig filename was BadGuyBass.abc
+T: Bad Guy (2:52) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Billie Eilish
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ff+ G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
++mf+ G,3 G, ^A, G,2 G,- |
+% Bar 10 (0:17)
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
++f+ G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+% Bar 20 (0:36)
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G z5 |
+C G c G C G c G |
+% Bar 30 (0:54)
+C G c G C G c G |
+D A d A D A d A |
+D A d z5 |
+A,5- A,2/3 z/3 G,2- |
+G,11/2 z5/2 |
++ff+ G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+C G c G C G c G |
+% Bar 40 (1:12)
+C G c G C G c G |
+D A d A D A d A |
+D A d A D,2 D,2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:31)
+z8 |
++f+ G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
+G, D G D G, D G D |
+% Bar 60 (1:49)
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G z5 |
+C G c G C G c G |
+C G c G C G c G |
+D A d A D A d A |
+D A d z5 |
+A,5- A,2/3 z/3 G,2- |
+G,11/2 z5/2 |
++ff+ G, D G D G, D G D |
+% Bar 70 (2:08)
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+C G c G C G c G |
+C G c G C G c G |
+D A d A D A d A |
+D A d A D,2 +fff+ D,2 |
++ff+ G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+% Bar 80 (2:26)
+G, D G D G, D G D |
+C G c G C G c G |
+C G c G C G c G |
+D A d A D A d A |
+D A d A D,2 D,2- |
+D,11/2 z5/2 |
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+% Bar 90 (2:45)
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+z |]
+
+X: 3
+%%Orig filename was BadGuyClar.abc
+T: Bad Guy (2:52) - Basic Clarinet
+%%part-name Basic Clarinet
+%%made-for Basic Clarinet
+C: Billie Eilish
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ff+ z8 |
+z4 ^A G F2 |
+G3 G ^A G2 G- |
+G G2 G ^A G F2 |
+z8 |
+z4 ^d c ^A2 |
+z4 ^f d2 d- |
+d z7 |
++mf+ ^A,2 A,3 A,2 A,- |
+% Bar 10 (0:17)
+^A, A,2 G,2 G, C2 |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DGA] [DG] [D3^F3] z3 |
++f+ [G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+% Bar 20 (0:36)
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DGA] [DG] [D2^F2] z ^A c A |
+c2 G2 c ^A c A |
+c2 G2 c ^A c A |
+c2 G2 c ^A c A |
+c2 G2 z2 ^A c |
+d2 d2 c ^A c A |
+% Bar 30 (0:54)
+d2 d2 c ^A c A |
+d2 d2 c ^A c A |
+d2 d2 z2 c ^A |
+[A,5-A5-] [A,2/3A2/3] z/3 [G,2-G2-] |
+[G,11/2G11/2] z/ +fff+ G,2 |
++ff+ G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+c g2 c ^f g f ^d |
+% Bar 40 (1:12)
+c g2 c ^f g f ^d |
+d a2 d g d2 c- |
+c2- c2/3 z/3 z5 |
++f+ ^A2 A3 A2 A- |
+^A A2 A2 G [=A2c2] |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+% Bar 50 (1:31)
+[DGA] [DG] [D2^F2] z4 |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DGA] [DG] [D2^F2] z ^A c A |
+c2 G2 c ^A c A |
+% Bar 60 (1:49)
+c2 G2 c ^A c A |
+c2 G2 c ^A c A |
+c2 G2 z2 ^A c |
+d2 d2 c ^A c A |
+d2 d2 c ^A c A |
+d2 d2 c ^A c A |
+d2 d2 z2 c ^A |
+[A,5-A5-] [A,2/3A2/3] z/3 [G,2-G2-] |
+[G,11/2G11/2] z/ +fff+ G,2 |
++ff+ G d2 G ^c d c ^A |
+% Bar 70 (2:08)
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+c g2 c ^f g f ^d |
+c g2 c ^f g f ^d |
+d a2 d g d2 c- |
+c2- c2/3 z/3 z3 +fff+ G,2 |
++ff+ G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+% Bar 80 (2:26)
+G d2 G ^c d c ^A |
+c g2 c ^f g f ^d |
+c g2 c ^f g f ^d |
+d a2 d g d2 c |
+c3 z5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:45)
+z8 |
+z8 |
+z8 |
+z4 [G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 |
+z |]
+
+X: 21
+%%Orig filename was BadGuyLute.abc
+T: Bad Guy (2:52) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+C: Billie Eilish
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++fff+ z8 |
+z4 ^A G F2 |
+G3 G ^A G2 G- |
+G G2 G ^A G F2 |
+z8 |
+z4 ^d c ^A2 |
+z4 ^f d2 d- |
+d z7 |
++f+ ^A,2 A,3 A,2 A,- |
+% Bar 10 (0:17)
+^A, A,2 G,2 G, C2 |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DGA] [DG] [D3^F3] z3 |
++ff+ [G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+% Bar 20 (0:36)
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DGA] [DG] [D2^F2] z ^A c A |
+c2 G2 c ^A c A |
+c2 G2 c ^A c A |
+c2 G2 c ^A c A |
+c2 G2 z2 ^A c |
+d2 d2 c ^A c A |
+% Bar 30 (0:54)
+d2 d2 c ^A c A |
+d2 d2 c ^A c A |
+d2 d2 z2 c ^A |
+[A,5-A5-] [A,2/3A2/3] z/3 [G,2-G2-] |
+[G,11/2G11/2] z/ +ffff+ G,2 |
++fff+ G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+c g2 c ^f g f ^d |
+% Bar 40 (1:12)
+c g2 c ^f g f ^d |
+d a2 d g d2 c- |
+c2- c2/3 z/3 z5 |
++ff+ ^A2 A3 A2 A- |
+^A A2 A2 G [=A2c2] |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+% Bar 50 (1:31)
+[DGA] [DG] [D2^F2] z4 |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[G2^A2] [G3A3] [G2A2] [G-A-] |
+[G^A] [G2A2] [G2A2] [GA] [=A2c2] |
+[D2G2^A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DG^A] [D2G2A2] [D2G2A2] [DGA] [D2=A2d2] |
+[D2G2A2] [D3G3A3] [D2G2A2] [D-G-A-] |
+[DGA] [DG] [D2^F2] z ^A c A |
+c2 G2 c ^A c A |
+% Bar 60 (1:49)
+c2 G2 c ^A c A |
+c2 G2 c ^A c A |
+c2 G2 z2 ^A c |
+d2 d2 c ^A c A |
+d2 d2 c ^A c A |
+d2 d2 c ^A c A |
+d2 d2 z2 c ^A |
+[A,5-A5-] [A,2/3A2/3] z/3 [G,2-G2-] |
+[G,11/2G11/2] z/ +ffff+ G,2 |
++fff+ G d2 G ^c d c ^A |
+% Bar 70 (2:08)
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+c g2 c ^f g f ^d |
+c g2 c ^f g f ^d |
+d a2 d g d2 c- |
+c2- c2/3 z/3 z3 +ffff+ G,2 |
++fff+ G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+G d2 G ^c d c ^A |
+% Bar 80 (2:26)
+G d2 G ^c d c ^A |
+c g2 c ^f g f ^d |
+c g2 c ^f g f ^d |
+d a2 d g d2 c |
+c3 z5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:45)
+z8 |
+z8 |
+z8 |
+z4 [G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 |
+z |]
+
+X: 6
+%%Orig filename was BadGuyMisty.abc
+T: Bad Guy (2:52) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+%%made-for Misty Mountain Harp
+C: Billie Eilish
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ff+ G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
++mf+ G,3 G, ^A, G,2 G,- |
+% Bar 10 (0:17)
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
++f+ G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+% Bar 20 (0:36)
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G z5 |
+C G c G C G c G |
+% Bar 30 (0:54)
+C G c G C G c G |
+D A d A D A d A |
+D A d z5 |
+A,5- A,2/3 z/3 G,2- |
+G,11/2 z5/2 |
++ff+ G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+C G c G C G c G |
+% Bar 40 (1:12)
+C G c G C G c G |
+D A d A D A d A |
+D A d A D,2 D,2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:31)
+z8 |
++f+ G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+G,3 G, ^A, G,2 G,- |
+G, G,2 G, ^A, G, F,2 |
+C3 C ^D C2 C- |
+C C2 C ^D C ^A,2 |
+D3 D ^F D2 D- |
+D D,2 D,2 D,2 z |
+G, D G D G, D G D |
+% Bar 60 (1:49)
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G z5 |
+C G c G C G c G |
+C G c G C G c G |
+D A d A D A d A |
+D A d z5 |
+A,5- A,2/3 z/3 G,2- |
+G,11/2 z5/2 |
++ff+ G, D G D G, D G D |
+% Bar 70 (2:08)
+G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+C G c G C G c G |
+C G c G C G c G |
+D A d A D A d A |
+D A d A D,2 +fff+ D,2 |
++ff+ G, D G D G, D G D |
+G, D G D G, D G D |
+G, D G D G, D G D |
+% Bar 80 (2:26)
+G, D G D G, D G D |
+C G c G C G c G |
+C G c G C G c G |
+D A d A D A d A |
+D A d A D,2 D,2- |
+D,11/2 z5/2 |
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+% Bar 90 (2:45)
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+[G,5-D5-G5-] [G,2/3D2/3G2/3] z/3 [G,2-D2-G2-] |
+[G,3-D3-G3-] [G,2/3D2/3G2/3] z/3 z4 |
+z |]
+

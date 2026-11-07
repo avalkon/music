@@ -1,0 +1,674 @@
+N: TS  5,   9   8   3   1  21
+X: 9
+%%Orig filename was ComeHills2Ages.abc
+T: Come By The Hills [Lute OA] (2:50) 
+%%part-name Lute
+M: 3/4
+Q: 120
+K: C maj
+
++mf+ A,- [A,-A] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,-Ac] [A,-e-] [A,ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 10 (0:13)
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[E,-^f-] [E,-^Gf] [E,-B-] [E,GB] e- [Be-] |
+[B,-e-] [B,-^Ge] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[D-^f-] [D-Af] [D-d-] [DAd] e- [de-] |
+% Bar 20 (0:28)
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[E,-e-] [E,-^Ge] [E,-B-] [E,GB] e- [Be] |
+[B,-e] [B,-^G] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 30 (0:43)
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 40 (0:58)
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[E,-^f-] [E,-^Gf] [E,-B-] [E,GB] e- [Be-] |
+[B,-e-] [B,-^Ge] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[D-^f-] [D-Af] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[E,-e-] [E,-^Ge] [E,-B-] [E,GB] e- [Be] |
+[B,-e] [B,-^G] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 50 (1:13)
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 60 (1:28)
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[E,-^f-] [E,-^Gf] [E,-B-] [E,GB] e- [Be-] |
+[B,-e-] [B,-^Ge] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 70 (1:43)
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[D-^f-] [D-Af] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[E,-e-] [E,-^Ge] [E,-B-] [E,GB] e- [Be] |
+[B,-e] [B,-^G] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 80 (1:58)
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 90 (2:13)
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[E,-^f-] [E,-^Gf] [E,-B-] [E,GB] e- [Be-] |
+[B,-e-] [B,-^Ge] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[^C-e-] [C-Ae] [C-^c-] [CAc] ^f- [cf-] |
+[D-^f-] [D-Af] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[E,-e-] [E,-^Ge] [E,-B-] [E,GB] e- [Be] |
+% Bar 100 (2:28)
+[B,-e] [B,-^G] [B,-B-] [B,GB] e- [Be-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[D-e-] [D-Ae] [D-d-] [DAd] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+% Bar 110 (2:43)
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [de-] |
+[A,-e-] [A,-Ae] [A,-^c-] [A,Ac] e- [ce-] |
+[A,-e-] [A,-Ae] [A,-d-] [A,Ad] e- [d/-e/-] [A,/4d/4-e/4-] [E/4A/4d/4e/4] |
+[A,6-A6-^c6-e6-] |
+[A,6A6^c6e6] |
+z/4 |]
+
+X: 8
+%%Orig filename was ComeHills2Bass.abc
+T: Come By The Hills Basic Theorbo (2:50) 
+%%part-name Basic Theorbo
+M: 3/4
+Q: 120
+K: C maj
+
++mf+ A5 E |
+A6 |
+A5 E |
+A6 |
+A6 |
+d6 |
+A6 |
+d6 |
+A5 E |
+% Bar 10 (0:13)
+A6 |
+A6 |
+A6 |
+A6 |
+^c6 |
+E5 E |
+B6 |
+A6 |
+^c6 |
+d6 |
+% Bar 20 (0:28)
+A6 |
+E5 E |
+B6 |
+A6 |
+d6 |
+A6 |
+d6 |
+A5 E |
+A6 |
+A5 E |
+% Bar 30 (0:43)
+A6 |
+A6 |
+d6 |
+A6 |
+d6 |
+A5 E |
+A6 |
+A6 |
+A6 |
+A6 |
+% Bar 40 (0:58)
+^c6 |
+E5 E |
+B6 |
+A6 |
+^c6 |
+d6 |
+A6 |
+E5 E |
+B6 |
+A6 |
+% Bar 50 (1:13)
+d6 |
+A6 |
+d6 |
+A5 E |
+A6 |
+A5 E |
+A6 |
+A6 |
+d6 |
+A6 |
+% Bar 60 (1:28)
+d6 |
+A5 E |
+A6 |
+A6 |
+A6 |
+A6 |
+^c6 |
+E5 E |
+B6 |
+A6 |
+% Bar 70 (1:43)
+^c6 |
+d6 |
+A6 |
+E5 E |
+B6 |
+A6 |
+d6 |
+A6 |
+d6 |
+A5 E |
+% Bar 80 (1:58)
+A6 |
+A5 E |
+A6 |
+A6 |
+d6 |
+A6 |
+d6 |
+A5 E |
+A6 |
+A6 |
+% Bar 90 (2:13)
+A6 |
+A6 |
+^c6 |
+E5 E |
+B6 |
+A6 |
+^c6 |
+d6 |
+A6 |
+E5 E |
+% Bar 100 (2:28)
+B6 |
+A6 |
+d6 |
+A6 |
+d6 |
+A5 E |
+A6 |
+A5 E |
+A6 |
+A5 E |
+% Bar 110 (2:43)
+A6 |
+A5 E |
+A6- |
+A6- |
+A6 |
+z/4 |]
+
+X: 3
+%%Orig filename was ComeHills2Clar.abc
+T: Come By The Hills Basic Clarinet (2:50) 
+%%part-name Basic Clarinet
+M: 3/4
+Q: 120
+K: C maj
+
++ff+ z6 |
+z6 |
+z6 |
+z6 |
+^c4 B c |
+B4 A ^F |
+E4 E2 |
+^F2 A3 B |
+A6- |
+% Bar 10 (0:13)
+A4 E2 |
+A4 B ^c |
+d4 ^c B |
+^c4 B A |
+^F2 A2 ^c2 |
+B6- |
+B4 ^c d |
+e ^c3 B2 |
+A4 B ^c |
+d2 e2 ^f2 |
+% Bar 20 (0:28)
+e4 ^c A |
+B6- |
+B4 B2 |
+^c4 B c |
+B A4 ^F |
+E4 E2 |
+^F2 A3 B |
+A6- |
+A6- |
+A6 |
+% Bar 30 (0:43)
+z6 |
+^c4 B c |
+B4 A ^F |
+E4 E2 |
+^F2 A3 B |
+A6- |
+A4 E2 |
+A4 B ^c |
+d4 ^c B |
+^c4 B A |
+% Bar 40 (0:58)
+^F2 A2 ^c2 |
+B6- |
+B4 ^c d |
+e2 ^c3 B |
+A4 B ^c |
+d2 e2 ^f2 |
+e4 ^c A |
+B6- |
+B4 B2 |
+^c4 B c |
+% Bar 50 (1:13)
+B A3 ^F2 |
+E4 E2 |
+^F2 A3 B |
+A6- |
+A6- |
+A6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (1:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 70 (1:43)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 80 (1:58)
+z6 |
+z6 |
+z6 |
+^c4 B c |
+B4 A ^F |
+E4 E2 |
+^F2 A3 B |
+A6- |
+A4 E2 |
+A4 B ^c |
+% Bar 90 (2:13)
+d4 ^c B |
+^c4 B A |
+^F2 A2 ^c2 |
+B6- |
+B4 ^c d |
+e ^c3 B2 |
+A4 B ^c |
+d2 e2 ^f2 |
+e4 ^c A |
+B6- |
+% Bar 100 (2:28)
+B4 B2 |
+^c4 B c |
+B A3 ^F2 |
+E4 E2 |
+^F2 A3 B |
+A6- |
+A6- |
+A6- |
+A6 |
+A6 |
+% Bar 110 (2:43)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
+X: 1
+%%Orig filename was ComeHills2Flute1.abc
+T: Come By The Hills Basic Flute 1 (2:50) 
+%%part-name Basic Flute 1
+M: 3/4
+Q: 120
+K: C maj
+
++f+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:13)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:43)
+z6 |
+E4 D E |
+D4 ^C D |
+^C4 C2 |
+D2 D3 D |
+^C6- |
+^C4 A,2 |
+^C4 D E |
+^F4 E D |
+E4 D ^C |
+% Bar 40 (0:58)
+A,2 ^C2 E2 |
+E6- |
+E4 E ^F |
+A2 E3 D |
+^C4 D E |
+^F2 ^G2 A2 |
+A4 E ^C |
+E6- |
+E4 E2 |
+E4 D E |
+% Bar 50 (1:13)
+D ^C3 D2 |
+^C4 C2 |
+D2 D3 D |
+^C6- |
+^C6- |
+^C6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (1:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 70 (1:43)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 80 (1:58)
+z6 |
+z6 |
+z6 |
+E4 D E |
+D4 ^C D |
+^C4 C2 |
+D2 D3 D |
+^C6- |
+^C4 A,2 |
+^C4 D E |
+% Bar 90 (2:13)
+^F4 E D |
+E4 D ^C |
+A,2 ^C2 E2 |
+E6- |
+E4 E ^F |
+A E3 D2 |
+^C4 D E |
+^F2 ^G2 A2 |
+A4 E ^C |
+E6- |
+% Bar 100 (2:28)
+E4 E2 |
+E4 D E |
+D ^C3 D2 |
+^C4 C2 |
+D2 D3 D |
+^C6- |
+^C6- |
+^C6- |
+^C6 |
+^C6 |
+% Bar 110 (2:43)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
+X: 21
+%%Orig filename was ComeHills2Flute2.abc
+T: Come By The Hills Basic Flute 2 (2:50) 
+%%part-name Basic Flute 2
+M: 3/4
+Q: 120
+K: C maj
+
++f+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:13)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:43)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (0:58)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:13)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+[^C4E4] [B,D] [CE] |
+[B,4D4] [A,^C] [^F,D] |
+[E,4^C4] [E,2C2] |
+% Bar 60 (1:28)
+[^F,2D2] [A,3D3] [B,D] |
+[A,6-^C6-] |
+[A,4^C4] [E,2A,2] |
+[A,4^C4] [B,D] [CE] |
+[D4^F4] [^CE] [B,D] |
+[^C4E4] [B,D] [A,C] |
+[^F,2A,2] [A,2^C2] [C2E2] |
+[B,6-E6-] |
+[B,4E4] [^CE] [D^F] |
+[E2A2] [^C3E3] [B,D] |
+% Bar 70 (1:43)
+[A,4^C4] [B,D] [CE] |
+[D2^F2] [E2^G2] [F2A2] |
+[E4A4] [^CE] [A,C] |
+[B,6-E6-] |
+[B,4E4] [B,2E2] |
+[^C4E4] [B,D] [CE] |
+[B,D] [A,3^C3] [^F,2D2] |
+[E,4^C4] [E,2C2] |
+[^F,2D2] [A,3D3] [B,D] |
+[A,6-^C6-] |
+% Bar 80 (1:58)
+[A,6-^C6-] |
+[A,6^C6] |
+z6 |
+[^C4E4] [B,D] [CE] |
+[B,4D4] [A,^C] [^F,D] |
+[E,4^C4] [E,2C2] |
+[^F,2D2] [A,3D3] [B,D] |
+[A,6-^C6-] |
+[A,4^C4] [E,2A,2] |
+[A,4^C4] [B,D] [CE] |
+% Bar 90 (2:13)
+[D4^F4] [^CE] [B,D] |
+[^C4E4] [B,D] [A,C] |
+[^F,2A,2] [A,2^C2] [C2E2] |
+[B,6-E6-] |
+[B,4E4] [^CE] [D^F] |
+[EA] [^C3E3] [B,2D2] |
+[A,4^C4] [B,D] [CE] |
+[D2^F2] [E2^G2] [F2A2] |
+[E4A4] [^CE] [A,C] |
+[B,6-E6-] |
+% Bar 100 (2:28)
+[B,4E4] [B,2E2] |
+[^C4E4] [B,D] [CE] |
+[B,D] [A,3^C3] [^F,2D2] |
+[E,4^C4] [E,2C2] |
+[^F,2D2] [A,3D3] [B,D] |
+^C4 B, C |
+B,4 A, ^F, |
+[E,4-^C4] +mf+ [E,-B,] [E,-C] |
+[E,4-B,4] [E,-A,] [E,^F,] |
+[E,4-^C4] +mp+ [E,-B,] [E,-C] |
+% Bar 110 (2:43)
+[E,4-B,4] [E,-A,] [E,^F,] |
+[E,6-^C6-] |
+[E,6-^C6-] |
+[E,6-^C6-] |
+[E,6^C6] |
+z/4 |]
+

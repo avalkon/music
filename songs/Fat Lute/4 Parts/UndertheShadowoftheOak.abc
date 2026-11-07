@@ -1,0 +1,128 @@
+N: TS  4,   9   2   1   5
+X: 9
+%%Orig filename was UndertheShadowoftheOak__Ages2.abc
+T:Under the Shadow of the Oak (Flute) -Findiras of Landroval-     %Tune name (2:31)
+C:   %Tune composer
+N:Remarks:        %Tune infos
+Q:1/4=70     %Tempo
+     %!STAVE 0 'Melody' @
+     %!INSTR 'Piano 1' 0 3 @
+||
+M:4/4     %Meter
+L:1/8     %
+K:Eb =C =D _E =F =G _A _B
+z8 |z8 |z8 |z8 |
+z8 |
+z8 |z8 |z4 e/d/c/G/ A/c/d/e/ |cG/d/ cG/c/ GE C/D/E/F/ |
+GG/A/ GF C4 |
+DC/D/ FD/E/ GF AG |BA/G/ BA/G/ F/G/F/E/ D2 |G/F/D/E/ C4 z/ F/E/F/ |A3 B c2 e2 |
+Bc B/A/G/F/ E2 D2 |
+C8 |ED C4 EG |ED C4 FE |DC B,4 z G, |
+E3 B, GF ED |
+EB, C4 EG |ED C4 E2 |DC B,4 z G, |C8 |
+z8 |
+z8 |z8 |z8 |z8 |
+z8 |
+z8 |z4 e/d/c/G/ A/c/d/e/ |[C2G2] [FB][dB] [B3e3] [Bd] |[A8c8] |
+[B2D2] [Fd][Be] [f3d3] [cg] |
+[G3e3] [GB] [fB][Be] [Fd][BG] |[E2G2] [FB][Dd] [e2G2] [B2g2] |[e6a6] [gB][cf] |[B3d3] [cF] [E2B2] [D2d2] |
+[cC][B,d] [C6c6] |z8 |
+z4 z2 [Ff][Ee] |[B2B,2] [G,2G2] [E2e2] [B,2B2] |[cC][Dd] [C6c6] |]
+     %End of file
+
+X: 2
+%%Orig filename was UndertheShadowoftheOak__Fiddle1.abc
+T:Under the Shadow of the Oak (Clarinet) -Findiras of Landroval-     %Tune name (2:31)
+C:   %Tune composer
+N:Remarks:        %Tune infos
+Q:1/4=70     %Tempo
+     %!STAVE 0 'Melody' @
+     %!INSTR 'Piano 1' 0 3 @
+||
+M:4/4     %Meter
+L:1/8     %
+K:Eb =C =D _E =F =G _A _B
+z8 |z8 |z8 |z8 |
+z8 |
+z8 |z8 |z8 |c8 |
+c6 e2 |
+d6 B2 |G4 B4 |G4 B4 |A6 e2 |
+d2 e2 d2 b2 |
+c8 |z8 |z8 |z8 |
+z8 |
+z8 |z8 |z8 |z8 |
+EB, C4 D2 |
+EA c4 dg |ba ga//g//a//g// a//g//a//g3/4 z/ d2 |e3 B gf ed |eB c4 df |
+ed c4 e2 |
+dc B4 z G |c8 |z8 |z2 G2 F2 C2 |
+B,8 |
+E4 FE DB, |G,8 |A6 e2 |d3 c e2 f2 |
+g6 gf |B2 G2 d2 B2 |
+cd e6 |B,8 |C8 |]
+     %End of file
+
+X: 1
+%%Orig filename was UndertheShadowoftheOak__Flute4.abc
+T:Under the Shadow of the Oak (Horn) -Findiras of Landroval-     %Tune name (2:32)
+C:   %Tune composer
+N:Remarks:        %Tune infos
+Q:1/4=70     %Tempo
+     %!STAVE 0 'Melody' @
+     %!INSTR 'Piano 1' 0 3 @
+||
+M:4/4     %Meter
+L:1/8     %
+K:Eb =C =D _E =F =G _A _B
+z8 |z8 |z8 |z8 |
+z8 |
+z8 |z8 |z8 |z8 |
+z8 |
+z8 |z8 |z8 |z8 |
+z8 |
+z8 |[G8E8c8] |[c8A8E8] |[F8D8B8] |
+[e4B4G4] [E4B,4B4] |
+[G8E8c8] |[c8A8E8] |[F8D8B8] |[c8G8E8] |
+[G8E8c8] |
+[A8E8c8] |[B8F8D8] |[B4G4e4] [B4E4B,4] |[G8E8c8] |
+[A8E8c8] |
+[B8F8D8] |[G8E8c8] |[c8G8E8] |[A8E8c8] |
+[B8F8D8] |
+[B4G4e4] [B4E4B,4] |[G8E8c8] |[E8c6A6] B2 |[F8D8B8] |
+[c8G8E8] |[F8D8d8] |
+[G8E8e8] |[B8F8D8] |[G8C8c8] |]
+     %End of file
+
+X: 5
+%%Orig filename was UndertheShadowoftheOak__Harp3.abc
+T:Under the Shadow of the Oak (Basic Harp) -Findiras of Landroval-     %Tune name (2:49)
+%%part-name Basic Harp
+C:   %Tune composer
+N:Remarks:        %Tune infos
+Q:1/4=70     %Tempo
+     %!STAVE 0 'Melody' @
+     %!INSTR 'Piano 1' 0 3 @
+||
+M:4/4     %Meter
+L:1/8     %
+K:Eb =C =D _E =F =G _A _B
+GE CG, EC FE |CE, A,E, CB, A,G, |FB, DB, FE DB, |G,B, EB, GF ED |
+E G,2 C GA GD |
+EE, A,E, CB, A,G, |DB, B,F, ed cB |cd cG eE AG |GE CG, EC FE |
+CE, A,E, CB, A,G, |
+FB, DB, FE DB, |G,B, EB, GF ED |E G,2 C GA GD |EE, A,E, CB, A,G, |
+DB, B,F, ed cB |
+cd cG cE AG |GE CG, EC FE |CE, A,E, CB, A,G, |FB, DB, FE DB, |
+G,B, EB, GF ED |
+E G,2 C GA GD |EE, A,E, CB, A,G, |DB, B,F, ed cB |cd cG cE AG |
+GE CG, EC FE |
+CE, A,E, CB, A,G, |FB, DB, FE DB, |G,B, EB, GF ED |E G,2 C GA GD |
+EE, A,E, CB, A,G, |
+DB, B,F, ed cB |cd cG cE AG |GE CG, EC FE |CE, A,E, CB, A,G, |
+FB, DB, FE DB, |
+G,B, EB, GF ED |E G,2 C GA GD |EE, A,E, CB, B,G, |DB, B,F, ed cB |
+cd cG cE AG |DB, CB, ed cB |
+EG, E,G, A,G, FE |DB, CB, ed cB |EG, E,G, A,G, E2 |[cC3] G ed/e/ cG [BD]F |
+[cC3] G ed/e/ g2 [Ge]d |[cC3] G ed/e/ cG [DB]F |
+[C3c]G ed/e/ g2 [BE]d |[C8c8] |]
+     %End of file
+

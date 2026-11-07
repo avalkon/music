@@ -1,0 +1,100 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was Buttons-Solo.abc
+T: Buttons (3:15)
+M: 4/4
+L: 1/8
+Q:1/4=109
+%%part-name Unknown Instrument
+K:C % 0 sharps
+%%MIDI program 65
+x4 xE/2x/2 x/2E/2E/2E/2| \
+AG/2x/2 A/2x/2G/2x/2 Ax F/2G/2x| \
+xA/2x/2 AG/2x/2 AG/2x2x/2|
+A/2A/2G/2G/2 A/2A/2G/2x/2 AG/2x/2 F3/2x/2| \
+xG/2x/2 A/2A/2G/2x/2 AG F/2F/2F/2F/2| \
+GF/2x/2 G/2x/2F/2x/2 GF/2x/2 x/2E/2x| \
+xF/2x/2 G/2x/2F/2x/2 GF/2x/2 Ex|
+x/2G/2F/2F/2 G/2G/2F/2x/2 G/2x/2F/2x/2 Ex| \
+xF/2x/2 G/2F/2E/2x/2 GF/2x2x/2| \
+F/2x/2F/2x/2 FE/2x/2 F/2x/2F EF/2x/2| \
+F/2x/2F/2x/2 Fx E/2x/2E/2x/2 E/2x/2E|
+F/2x/2F/2x/2 Fx2E/2x/2 E/2x/2E/2x/2| \
+F/2x/2F EF E/2x/2E/2x/2 E/2x/2E/2x/2| \
+E^C/2x2E/2 E/2x/2E/2E/2 E/2E/2E/2E/2-| \
+E^C/2x2x/2 E/2E/2E/2E/2 E/2x/2E/2E/2|
+E^C/2x2x/2 E/2E/2E/2E/2 F/2E/2x/2E/2-| \
+E^C x6| \
+FD/2x/2 FD/2x/2 F/2x/2F/2x/2 F3/2x/2| \
+F/2x/2F D/2x/2F xF/2x/2 FE/2x/2|
+F/2x/2E/2x/2 FD/2x/2 F/2x/2F/2x/2 FD/2x/2| \
+F/2x/2F/2x/2 E/2x/2F xF/2F/2 F/2x/2F| \
+Ex2F/2<F/2 F/2x/2F/2x/2 F/2F/2F/2x/2| \
+Ex2E F/2x/2F/2F/2 F/2F/2F|
+Ex2E FF EF/2x/2| \
+FD/2x/2 F/2x/2D/2x/2 FE/2x/2 x/2E/2E/2E/2| \
+AG/2x/2 A/2x/2G/2x/2 Ax F/2G/2x| \
+xA/2x/2 AG/2x/2 AG/2x2x/2|
+A/2A/2G/2G/2 A/2A/2G/2x/2 AG/2x/2 F3/2x/2| \
+xG/2x/2 A/2A/2G/2x/2 AG F/2F/2F/2F/2| \
+GF/2x/2 G/2x/2F/2x/2 GF/2x/2 x/2E/2x| \
+xF/2x/2 G/2x/2F/2x/2 GF/2x/2 Ex|
+x/2G/2F/2F/2 G/2G/2F/2x/2 G/2x/2F/2x/2 Ex| \
+xF/2x/2 G/2F/2E/2x/2 GF/2x2x/2| \
+F3/2x/2 F3/2x/2 F/2x/2F/2x/2 D/2x/2F| \
+xF/2x/2 F3/2x/2 FD/2x/2 F3/2x/2|
+Fx FF/2x/2 FE/2x/2 E/2x/2F| \
+xF/2x/2 Fx FD/2x/2 F/2x/2F| \
+E^C/2x3/2E/2x/2 EE/2EE/2E/2x/2| \
+E^C xE/2E/2 EE/2E/2 xE/2x/2|
+E^C/2x2x/2 E/2x/2E/2Ex/2E| \
+FE/2x/2 F/2x/2E/2x/2 Fx3| \
+F/2x/2F/2x/2 F3/2x/2 F/2x/2F E/2x/2F-| \
+FE/2x/2 F3/2x/2 F/2x/2D/2x/2 F3/2x/2|
+F/2x/2F/2x/2 F2 E/2x/2E/2x/2 EF-| \
+Fx F/2x/2F AF AG/2G/2| \
+E^C/2x3/2E/2x/2 E/2x/2E/2EE/2E/2E/2-| \
+E^C/2x2x/2 E/2E/2E/2x/2 E/2x/2E/2x/2|
+E^C/2x3/2E/2<E/2 E/2x/2E/2x/2 F/2E/2D/2E/2-| \
+E^C x3E/2>E/2 E/2E/2E/2<G/2| \
+AG/2x/2 A/2x/2G/2x/2 Ax F/2G/2x| \
+xA/2x/2 AG/2x/2 AG/2x2x/2|
+A/2A/2G/2G/2 A/2A/2G/2x/2 AG/2x/2 F3/2x/2| \
+xG/2x/2 A/2A/2G/2x/2 AG F/2F/2F/2F/2| \
+GF/2x/2 G/2x/2F/2x/2 GF/2x/2 x/2E/2x| \
+xF/2x/2 G/2x/2F/2x/2 GF/2x/2 Ex|
+x/2G/2F/2F/2 G/2G/2F/2x/2 G/2x/2F/2x/2 Ex| \
+xF/2x/2 G/2F/2E/2x/2 GF/2x2x/2| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x6 F/2F/2G/2G/2| \
+A/2x/2A G/2x/2G F/2x/2F E2| \
+D/2x/2D =C/2x/2C A,/2x/2A, G,/2-[G/2G,/2-][G/2G,/2-][G/2G,/2]|
+A/2x/2A G/2x/2G F/2x/2F E3/2x/2| \
+D3/2D<CC<A,A,/2 G,/2-[G/2G,/2]x/2x/2| \
+A/2x/2A G/2x/2G F/2x/2F E2| \
+D/2x/2D C/2x/2C A,/2x/2A, G,/2-[G/2G,/2-][G/2G,/2-][G/2G,/2]|
+A/2x/2A G/2x/2G F/2x/2F E3/2x/2| \
+D3/2D<CC<A,A,/2 G,/2-[E/2G,/2]F/2<F/2| \
+AG/2x/2 A/2x/2G/2x/2 Ax F/2G/2x| \
+xA/2x/2 AG/2x/2 AG/2x2x/2|
+A/2A/2G/2G/2 A/2A/2G/2x/2 AG/2x/2 F3/2x/2| \
+xG/2x/2 A/2A/2G/2x/2 AG F/2F/2F/2F/2| \
+GF/2x/2 G/2x/2F/2x/2 GF/2x/2 x/2E/2x| \
+xF/2x/2 G/2x/2F/2x/2 GF/2x/2 Ex|
+x/2G/2F/2F/2 G/2G/2F/2x/2 G/2x/2F/2x/2 Ex| \
+xF/2x/2 G/2F/2E/2x/2 GF/2x/2 F/2F/2F/2G/2| \
+AG/2x/2 A/2x/2G/2x/2 Ax F/2G/2x| \
+xA/2x/2 AG/2x/2 AG/2x2x/2|
+A/2A/2G/2G/2 A/2A/2G/2x/2 AG/2x/2 F3/2x/2| \
+xG/2x/2 A/2A/2G/2x/2 AG F/2F/2F/2F/2| \
+GF/2x/2 G/2x/2F/2x/2 GF/2x/2 x/2E/2x| \
+xF/2x/2 G/2x/2F/2x/2 GF/2x/2 Ex|
+x/2G/2F/2F/2 G/2G/2F/2x/2 G/2x/2F/2x/2 Ex| \
+xF/2x/2 G/2F/2E/2x/2 GF/2
+

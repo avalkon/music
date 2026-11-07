@@ -1,0 +1,307 @@
+N: TS  6,   3  10   1   4   8  21
+X: 3
+%%Orig filename was Noontide__Clar1.abc
+T:Noontide (3:51)
+%%part-name Basic Clarinet
+C:Composer:Alana Cook
+N:Remarks:
+Q:1/8=380
+M:6/8
+L:1/8
+K:G
++pp+
+%intro portion-----------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+%first verse--------------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z2 D A B2 |
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E6 | F6 | G6 | z4 F2 |
+%bridge---------------------------------------------------------------
+| E2 G2 B2- | B2 G2 E2 | B,2 D2 F2- | F2 D2 B2 | A,2 B,2 C2 | E2 C2 A,2 | E6 | F6 |
+| E2 G2 B2- | B2 G2 E2 | B,2 D2 F2- | F6 | E2 D2 C2 | B,6 | E2 F2 G2 | A5 z |
+%second verse--------------------------------------------------------
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E6 | F6 | G6- | G6 |
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E6 | F6 | G6 | z4 F2 |
+%bridge---------------------------------------------------------------
+| E2 G2 B2- | B2 G2 E2 | B,2 D2 F2- | F2 D2 B2 | A,2 B,2 C2 | E2 C2 A,2 | E6 | F6 |
+| E2 G2 B2- | B2 G2 E2 | B,2 D2 F2- | F6 | E2 D2 C2 | B,6 | E2 F2 G2 | A5 z |
+%break----------------------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| B6- | B6 | A6- | A2 B2 A2 | G6- | G6 | F6- | F2 G2 F2 | E6- | E6 | D6- | D6 | A,2 B,2 C2 | G,2 A,2 B,2 | C2 D2 E2 | F2 G2 A2 |
+%third verse-----------------------------------------------------------
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E6 | F6 | G6- | G6 |
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E6 | F6 | G6 | z4 F2 |
+%bridge---------------------------------------------------------------
+| E2 G2 B2- | B2 G2 E2 | B,2 D2 F2- | F2 D2 B2 | A,2 B,2 C2 | E2 C2 A,2 | E6 | F6 |
+| E2 G2 B2- | B2 G2 E2 | B,2 D2 F2- | F6 | E2 D2 C2 | B,6 | E2 F2 G2 | A5 z |
+| E2 F2 G2 | B2 A2 G2 | B,2 ^C2 D2 | F2 E2 D2 | A,2 B,2 =C2 | E2 D2 C2 | E2 F2 G2 | F2 G2 A2 |
+| G2 F2 E2 | B,6 | F2 E2 D2 | B,6 | A,3 C B, A, | G,2 B,2 D2 | C D E F G A | F2 G2 A2 |
+%outro------------------------------------------------------------------
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E6 | F6 | G6- | G6 |
+| G6- | G6 | F6- | F6 | E6 | D6 | C2 D2 E2 | F6 | 
+|G6- | G6 | F6- | F2 E2 D2 | E z5 | F z5 | D z5 | E z5 |
+| E6 | F6 | G2 D2 B,2 | G, z5 |
+%End of file
+
+X: 10
+%%Orig filename was Noontide__Drums5.abc
+T:Noontide (7:00)
+%%part-name Basic Drum
+C:Composer:Alana Cook
+N:Remarks:
+Q:1/8=380
+M:6/8
+L:1/8
+K:G
+%intro portion-----------------------------------------------------
+| d2 =f e3 | F2 =F2 =F2 | d2 =f e3 | F2 =F2 =F2 | d2 =f e3 | F2 =F2 =F2 | d2 =f e3 | F2 =F2 =F2 |
+| [^C6d2] =f e3 | [^C6F2] =F2 =F2 | [^C6d2] =f e3 | [^C4F2] =F2 [=F2^C2] | [^C6d2] =f e3 | [^C4F2] =F2 =F2 | [^C6d2] =f e3 | [^C4F2] =F2 [=F2^C2] |
+%first verse--------------------------------------------------------
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+%bridge---------------------------------------------------------------
+| +p+ [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, |
+| [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | +mp+[^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | +mf+[^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, |
+%second verse--------------------------------------------------------
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+%bridge---------------------------------------------------------------
+| +p+ [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, |
+| [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | +mp+[^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | +mf+[^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, |
+%break----------------------------------------------------------------
+| +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ ^C, +pp+ ^C, ^C, ^C, ^C, ^C, |
+| +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, | +f+ [^C6^C,] +pp+ ^C, ^C, ^C, ^C, ^C, |
+%third verse-----------------------------------------------------------
+| +mf+  [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+%bridge---------------------------------------------------------------
+| +p+ [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, |
+| [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | ^C, ^C, ^C, ^C, [^C2^C,] ^C, | +mp+[^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | +mf+[^C6^C,] ^C, ^C, ^C, ^C, ^C, | [^C6^C,] ^C, ^C, ^C, ^C, ^C, | |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+%outro------------------------------------------------------------------
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, |
+| [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, | [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C4F2^C,] ^C, [=F2^C,] ^C, [=F2^C2^C,] ^C, | +f+ [^C^C,d] z5 | [^C^C,d] z5 | [^C^C,d] z5 | [^C^C,d] z5 |
+| +mf+ [^C6d2^C,] ^C, [=f^C,] [e3^C,] ^C, ^C, | [^C6F2^C,] ^C, [=F2^C,] ^C, [=F2^C,] ^C, |+f+  [^C2^C,] ^C, [^C2^C,] ^C, [^C2^C,] ^C, | +ff+ [^C^C,] z5 |
+%End of file
+
+X: 1
+%%Orig filename was Noontide__Flute2.abc
+T:Noontide (3:50)
+%%part-name Basic Flute
+C:Composer:Alana Cook
+N:Remarks:
+Q:1/8=380
+M:6/8
+L:1/8
+K:G
+%intro portion-----------------------------------------------------
+| +ff+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| g3 f2 g | e2 g2 e2 | d3 c2 g | B2 g2 c2 | B3 A2 g | G2 g2 G2 | A2 B2 c2 | d4 z2 |
+%first verse--------------------------------------------------------
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G6 | z6 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G6 | z2 G2 F2 |
+%bridge---------------------------------------------------------------
+| E4 z2 | B2 A2 G2 | F G F D B,2 | z6 | z2 A,2 B,2 | C2 D2 E2 | E2 F2 G2 | A2 G2 F2 |
+| E4 z2 | B2 A2 G2 | F G A F D2 | z6 | C2 B,2 A,2 | G, A, B, C D z | C2 E G3 | A B A2 G2 |
+%second verse--------------------------------------------------------
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G4 z2 | c B A G E D |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G6 | z2 G2 F2 |
+%bridge---------------------------------------------------------------
+| E4 z2 | B2 A2 G2 | F G F D B,2 | z6 | z2 A,2 B,2 | C2 D2 E2 | E2 F2 G2 | A2 G2 F2 |
+| E4 z2 | B2 A2 G2 | F G A F D2 | z6 | z2 C B, A, B, | G,4 z2 | C E G C E G | D F A D F A |
+%break----------------------------------------------------------------
+| B6 | B2 A2 G2 | A6 | z2 B2 A2 | G6 | E2 F2 G2 | F D B,4 | z6 | E6 | E2 D2 C2 | B,2 C2 A,2 | G,4 z2 | A, B, C D E F | G2 F2 E2 | G3 A B c | A4 z2 |
+| B6 | d2 c2 B2 | A6 | c2 B2 A2 | G6 | B2 A2 G2 | F2 G A3 | F3 E D2 | C2 D2 E2 | G6 | B,2 C2 D2 | G4 z2 | C E D C D C | B, C B, A, G,2 | z2 C E G E | F G A B A2 |
+%third verse-----------------------------------------------------------
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G4 z2 | d e d c B A |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G6 | z2 G2 F2 |
+%bridge---------------------------------------------------------------
+| E4 z2 | B2 A2 G2 | F G F D B,2 | z6 | z2 A,2 B,2 | C2 D2 E2 | E2 F2 G2 | A2 G2 F2 |
+| E4 z2 | B2 A2 G2 | F G A F D2 | z6 | z2 C B, A, B, | G,4 z2 | C E G C E G | D F A D F A |
+| B G E B G E | B E G B G E | A F D A F D | F A F D F A | c A E c A E | c E A c A E | c G E c G E | d A F d A F |
+| E F G A B c | B A G F E F | D E F G A B | A G F E D E | C E D C D C | B, C A, B, G,2 | C D E F G A | D E F G A c |
+%outro------------------------------------------------------------------
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | A2 G2 F2 | G4 z2 | d e c d B c |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | D2 C2 B,2 | C2 B,2 A, G, | A,4 z2 |
+| B3 c d2 | c2 B2 G2 | F3 G A2 | G2 F2 D2 | E2 F G3 | F2 G2 A2 | D2 E F3 | ^G2 E2 B,2 |
+| E3 F G2 | B2 A2 =G A | G6 |
+%End of file
+
+X: 4
+%%Orig filename was Noontide__Horn3.abc
+T:Noontide (3:51)
+%%part-name Basic Horn
+C:Composer:Alana Cook
+N:Remarks:
+Q:1/8=380
+M:6/8
+L:1/8
+K:G
++mp+
+%intro portion-----------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+%first verse--------------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+%bridge---------------------------------------------------------------
+| E,6- | E,6 | B,6- | B,6 | A,6- | A,6 | C6 | D6 |
+| E,6- | E,6 | B,6- | B,6 | A,2 B,2 A,2 | G,6 | C2 B,2 C2 | D6 |
+%second verse--------------------------------------------------------
+| D6- | D6 | D6- | D6 | C6 | B,6 | A,2 B,2 C2 | D6 |
+| D6- | D6 | D6- | D2 C2 B,2 | C6 | D6 | G,6- | G,2 z4 |
+| D6- | D6 | D6- | D6 | C6 | B,6 | A,2 B,2 C2 | D6 |
+| D6- | D6 | D6- | D2 C2 B,2 | C6 | D6 | G,6- | G,2 z4 |
+%bridge---------------------------------------------------------------
+| E,6- | E,6 | B,6- | B,6 | A,6- | A,6 | C6 | D6 |
+| E,6- | E,6 | B,6- | B,6 | A,2 B,2 A,2 | G,6 | C2 B,2 C2 | D6 |
+%break----------------------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+| G6- | G6 | F6- | F2 G2 F2 | E6- | E6 | D6- | D2 E2 D2 | C6- | C6 | B,6- | B,6 | A,2 B,2 C2 | G,2 A,2 B,2 | C2 D2 E2 | D2 E2 F2 |
+%third verse-----------------------------------------------------------
+| D6- | D6 | D6- | D6 | C6 | B,6 | A,2 B,2 C2 | D6 |
+| D6- | D6 | D6- | D2 C2 B,2 | C6 | D6 | G,6- | G,2 z4 |
+| D6- | D6 | D6- | D6 | C6 | B,6 | A,2 B,2 C2 | D6 |
+| D6- | D6 | D6- | D2 C2 B,2 | C6 | D6 | G,6- | G,2 z4 |
+%bridge---------------------------------------------------------------
+| E,6- | E,6 | B,6- | B,6 | A,6- | A,6 | C6 | D6 |
+| E,6- | E,6 | B,6- | B,6 | A,2 B,2 A,2 | G,6 | C2 B,2 C2 | D6 |
+| E,6 | E6 | B,6 | F6 | A,6 | E6 | C2 D2 E2 | D2 E2 F2 |
+| E,6 | E6 | B,6 | F6 | C3 E D C | B,2 D2 G2 | C D E F G A | D2 E2 F2 |
+%outro------------------------------------------------------------------
+| D6- | D6 | D6- | D6 | C6 | B,6 | A,2 B,2 C2 | D6 |
+| D6- | D6 | D6- | D2 C2 B,2 | C6 | D6 | G,6- | G,2 z4 |
+| D6- | D6 | D6- | D6 | C6 | B,6 | A,2 B,2 C2 | D6 |
+| D6- | D6 | D6- | D2 C2 B,2 | C z5 | D z5 | B, z5 | B, z5 |
+| C6 | D6 | G,2 B,2 D2 | G z5 |
+%End of file
+
+X: 8
+%%Orig filename was Noontide__Lute4.abc
+T:Noontide (3:51)
+%%part-name Basic Lute
+C:Composer:Alana Cook
+N:Remarks:
+Q:1/8=380
+M:6/8
+L:1/8
+K:G
+ | +f+ |
+%intro portion-----------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |
+%first verse--------------------------------------------------------
+| [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,2D2G2B2g2] +p+ [D2G2B2g2] [F,2A,2D2A2d2f2] |
+%bridge---------------------------------------------------------------
+| +f+ [E,6B,6E6G6B6e6] | e2 B2 G2 | [B,6F6B6d6f6] | f2 d2 B2 | [A,6E6A6c6e6] | e2 c2 A2 | [C2e2] c2 G2 | [D2f2] d2 A2 |
+[E,6B,6E6G6B6e6] | e2 B2 G2 | [B,6F6B6d6f6] | f2 d2 B2 | [A,6E6A6c6e6] | [G,6D6G6B6g6] | [C6E6G6c6e6] | [D6A6d6f6] |
+%second verse--------------------------------------------------------
+| [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,2D2G2B2g2] +p+ [D2G2B2g2] [F,2A,2D2A2d2f2] |
+%bridge---------------------------------------------------------------
+| +f+ [E,6B,6E6G6B6e6] | e2 B2 G2 | [B,6F6B6d6f6] | f2 d2 B2 | [A,6E6A6c6e6] | e2 c2 A2 | [C2e2] c2 G2 | [D2f2] d2 A2 |
+| [E,6B,6E6G6B6e6] | e2 B2 G2 | [B,6F6B6d6f6] | f2 d2 B2 | [A,6E6A6c6e6] | [G,6D6G6B6g6] | [C6E6G6c6e6] | [D6A6d6f6] |
+%break----------------------------------------------------------------
+| G,2 B2 G2 | [D2g2] B2 G2 | D2 d2 A2 | [f2D2] d2 A2 | E,2 B2 G2 | [E2e2] B2 G2 | B,2 d2 B2 | [F2f2] d2 B2 | C2 c2 G2 | [E2e2] c2 G2 | G,2 B2 G2 | [D2g2] B2 G2 | A,2 c2 A2 | [E2e2] c2 A2 | [C2c2] G2 [E2e2] | [D2d2] A2 [A2f2] |
+| G,2 B2 G2 | [D2g2] B2 G2 | D2 d2 A2 | [f2D2] d2 A2 | E,2 B2 G2 | [E2e2] B2 G2 | B,2 d2 B2 | [F2f2] d2 B2 | C2 c2 G2 | [E2e2] c2 G2 | G,2 B2 G2 | [D2g2] B2 G2 | [A,6E6A6c6e6] | [G,6D6G6B6g6] | [C6E6G6c6e6] | [D6A6d6f6] |
+%third verse-----------------------------------------------------------
+| [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,2D2G2B2g2] +p+ [D2G2B2g2] [F,2A,2D2A2d2f2] |
+%bridge---------------------------------------------------------------
+| +f+ [E,6B,6E6G6B6e6] | e2 B2 G2 | [B,6F6B6d6f6] | f2 d2 B2 | [A,6E6A6c6e6] | e2 c2 A2 | [C2e2] c2 G2 | [D2f2] d2 A2 |
+| [E,6B,6E6G6B6e6] | e2 B2 G2 | [B,6F6B6d6f6] | f2 d2 B2 | [A,6E6A6c6e6] | [G,6D6G6B6g6] | [C6E6G6c6e6] | [D6A6d6f6] |
+| [E,2B,2E2G2B2e2] +p+ [EGBe] [E2G2B2e2] [EGBe] | +f+ e2 B2 G2 | [B,2F2B2d2f2] +p+ [Bdf] [B2d2f2] [Bdf] | +f+ f2 d2 B2 | [A,2E2A2c2e2] +p+ [EAce] [E2A2c2e2] [EAce] | +f+ e2 c2 A2 | [C2e2] c2 G2 | [D2f2] d2 A2 |
+| [E,2B,2E2G2B2e2] +p+ [EGBe] [E2G2B2e2] [EGBe] | +f+ e2 B2 G2 | [B,2F2B2d2f2] +p+ [Bdf] [B2d2f2] [Bdf] | +f+ f2 d2 B2 | [A,6E6A6c6e6] | [G,6D6G6B6g6] | [C6E6G6c6e6] | [D6A6d6f6] |
+%outro------------------------------------------------------------------
+| [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,3D3G3B3g3] +p+ [DGBg] [DGBg] [EGcg] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +f+ [C2E2G2c2e2] +p+ [Gce] [E2G2c2e2] [EGce] | +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [A,2E2A2c2e2] +p+ [B,2D2G2B2] [C2E2G2c2e2] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] |
+| +f+ [G,3D3G3B3g3] +p+ [DGBg] [D2G2B2g2] | +f+ [G,4D4G4B4g4] +p+ [DGBg] [DGBg] | +f+ [D3A3d3f3] +p+ [DAdf] [DAdf] [DAdf] | +f+ [D3A3d3f3] +p+ [DAdf] [D2A2d2f2] | +mf+ [CEGce] z5 | [DAdf] z5 | [B,FBdf] z5 | [E,B,E^GBe] z5 |
+| [C2E2G2c2e2] +p+ [CEGce] [C3E3G3c3e3] | +f+ [D2A2d2f2] [D2A2d2f2] [D2A2d2f2] | [G,2D2G2B2g2] [GDGBg] [GDGBg] [GDGBg] [GEGcg] | [GDGBg] z5 |
+%End of file
+
+X: 21
+%%Orig filename was Noontide__Theorbo6.abc
+T:Noontide (3:51)
+C:Composer:Alana Cook
+N:Remarks:
+Q:1/8=380
+M:6/8
+L:1/8
+%%part-name Basic Theorbo
+K:G
+| +f+ |
+%intro portion-----------------------------------------------------
+| z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z2 E,2 F,2 |
+%first verse--------------------------------------------------------
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C4 E2 | D4 F,2| G,6 | z6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C2 D2 E2 | D2 E2 F2 | G2 D2 B,2 | G,4 F,2 |
+%bridge---------------------------------------------------------------
+| E,6 | z4 A,2 | B,6 | z2 B,2 _B,2 | A,6 | z2 A,2 =B,2 | C6 | D4 E2 |
+| E,6 | z2 G,2 A,2 | B,6 | z2 B,2 _B,2 | A,6 | G,6 | C2 D2 E2 | D2 E2 F2 |
+%second verse--------------------------------------------------------
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C4 E2 | D4 F,2| G,6 | z6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C2 D2 E2 | D2 E2 F2 | G2 D2 B,2 | G,4 F,2 |
+%bridge---------------------------------------------------------------
+| E,6 | z4 A,2 | B,6 | z2 B,2 _B,2 | A,6 | z2 A,2 =B,2 | C6 | D4 E2 |
+| E,6 | z2 G,2 A,2 | B,6 | z2 B,2 _B,2 | A,6 | G,6 | C2 D2 E2 | D2 E2 F2 |
+%break----------------------------------------------------------------
+| G,6 | z6 | D6 | z6 | E,6 | z6 | B,6 | z6 | C6 | z6 | G,6 | z6 | A,6 | z6 | C6 | D6 |
+| G,2 B,2 D2 | G6 | D6 | z6 | E,2 G,2 B,2 | E6 | B,6 | z6 | C2 E2 G2 | c6 | G,6 | z6 | A,6 | G,6 | C2 D2 E2 | D2 E2 F2 |
+%third verse-----------------------------------------------------------
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C4 E2 | D4 F,2| G,6 | z6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C2 D2 E2 | D2 E2 F2 | G2 D2 B,2 | G,4 F,2 |
+%bridge---------------------------------------------------------------
+| E,6 | z4 A,2 | B,6 | z2 B,2 _B,2 | A,6 | z2 A,2 =B,2 | C6 | D4 E2 |
+| E,6 | z2 G,2 A,2 | B,6 | z2 B,2 _B,2 | A,6 | G,6 | C2 D2 E2 | D2 E2 F2 |
+| E,3 G,2 B, | E2 G,2 A,2 | B,3 D2 F | B2 B,2 _B,2 | A,3 C2 E | A2 A,2 =B,2 | C2 D2 E2 | D2 E2 F2 |
+| E,3 G,2 B, | E2 G,2 A,2 | B,3 D2 F | B2 B,2 _B,2 | A,6 | G,6 | C6 | D2 E,2 F,2 |
+%outro------------------------------------------------------------------
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C4 E2 | D4 F,2| G,6 | z6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | G,6 | A,2 B,2 C2 | D6 |
+| G,6 | z2 A,2 B,2 | D6 | z2 C2 B,2 | C6 | D6 | B,6 | E,6 |
+| C2 D E3 | D2 E2 F2 | G2 D2 B,2 | G,6 |
+%End of file
+

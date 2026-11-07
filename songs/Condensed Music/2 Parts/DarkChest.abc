@@ -1,0 +1,263 @@
+N: TS  2,   5  21
+X: 5
+%%Orig filename was DarkChestHarp1.abc
+%abc-2.1
+%%song-title       Nightwish - Dark Chest Of Wonders
+%%song-duration    4:06
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish - Dark Chest Of Wonders (4:06) - Basic Harp 1
+Z: Turinthi of Gladden
+%%part-name Basic Harp 1
+M: 4/4
+Q: 100
+K: C maj
+
++fff+ [E,/B,/e/-] [E,/e/-] [E,/e/-] [F,/C/e/-] [E,/e/-] [E,/e/-] [G,/D/e/-] [E,/e/-] [E,/e/-] [F,/C/e/-] [E,/e/-] [E,/e/-] [E,/B,/e/-] [E,/e/-] [E,/B,/e/-]
+	[E,/e/] |
+[E,/B,/e/-] [E,/e/-] [E,/e/-] [F,/C/e/-] [E,/e/-] [E,/e/-] [G,/D/e/-] [E,/e/-] [E,/e/-] [F,/C/e/-] [E,/e/-] [E,/e/-] [E,/B,/e/-] [F,/C/e/-] [E,/B,/e/-]
+	[D,/A,/e/] |
+[E,/B,/e/-] [E,/e/-] [E,/e/-] [F,/C/e/-] [E,/e/-] [E,/e/-] [G,/D/e/-] [E,/e/-] [E,/B,/e/-] [F,/C/e/-] [F,/C/e/-] [^G,/^D/e/-] [G,/D/e/-] [=G,/=D/e/-] [G,/D/e/-]
+	[F,/C/e/] |
+[F,/C/] [E,/B,/] [D,/A,/] [E,/B,/] z [F,/C/] [E,/B,/] [D,/A,/] [E,/B,/] z z2 |
+G,/ E,/ E,/ F,/ E,/ E,/ G,/ E,/ E,/ F,/ E,/ E,/ E,/ E,/ E,/ E,/ |
+G,/ E,/ E,/ F,/ E,/ E,/ G,/ E,/ E,/ F,/ E,/ E,/ E,/ F,/ E,/ D,/ |
+G,/ E,/ E,/ F,/ E,/ E,/ G,/ E,/ E,/ F,/ F,/ ^G,/ G,/ =G,/ F,/ D,/ |
+[F,/C/] [E,/B,/] [D,/A,/] [E,/B,/] z [F,/C/] [E,/B,/] [D,/A,/^g/b/] [E,/B,/=g/^a/] +ff+ [^f3/4=a3/4] [g//^a//] [^g/b/] [=a/c'/] z |
++fff+ [G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [E,/B,/] E,/ [E,/B,/] E,/ |
+% Bar 10 (0:21)
+[G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [E,/B,/] [F,/C/] [E,/B,/] [D,/A,/] |
+[G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [G,/D/] E,/ [E,/B,/] [F,/C/] [F,/C/] [^G,/^D/] [G,/D/] [=G,/=D/] [G,/D/] [F,/C/] |
+[F,/C/] [E,/B,/] [D,/A,/] [E,/B,/] z [F,/C/] [E,/B,/] [D,/A,/] [E,/B,/] z +ff+ d d |
++fff+ [G,/D/e/-] [E,/e/-] [E,/e/-] [F,/C/e/] E,/ E,/ [G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [E,/B,/] E,/ [E,/B,/] E,/ |
+[G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [E,/B,/] [F,/C/] [E,/B,/] [D,/A,/] |
+[G,/D/] E,/ E,/ [F,/C/] E,/ E,/ [G,/D/] E,/ [E,/B,/] [F,/C/] [F,/C/] [^G,/^D/] [G,/D/] [=G,/=D/] [G,/D/] [F,/C/] |
+[B,4^F4] [A,2E2] [G,2D2G2] |
+[G,D] [G,/G/] [G,/A/] [G,/^A/] G,/ [G,/d/] [G,/^d/] [G,/c/] [G,/=d/] [A,/E/=A/] [F,/C/F/] [G,DG] [G,/G/] [G,/A/] |
+[G,/^A/] G,/ [F,Ccc'] [F,Cd] [F,Ccc'] [G,D] [G,/G/] [G,/=A/] [G,/^A/] G,/ [G,/d/] [G,/^d/] |
+[G,/c/] [G,/d/] [G,/D/A/] [G,/D/F/] [F,Cc] [F,/c/] [F,/^A/] [F,/=A/] F,/ [A,Aa] [G,Gg] [F,Ff] |
+% Bar 20 (0:45)
+[A,EAa-] [A,/A/a/-] [A,/B/a/-] [A,/c/a/-] [A,/a/-] [A,/e/a/-] [A,/f/a/-] [A,/d/a/-] [A,/e/a/-] [A,/E/B/a/-] [G,/D/G/a/] [A,EA] [A,/A/] [A,/B/] |
+[A,/c/] A,/ [G,Dd] [G,De] [G,Dd] [A,EAa-] [A,/A/a/-] [A,/B/a/] [A,/c/] A,/ [A,/e/] [A,/f/] |
+[A,/d/] [A,/e/] [A,/E/B/] [A,/E/G/] [G,-D-d] +ff+ [G,/-D/-d/] [G,/-D/-c/] [G,DB] +fff+ [D,-A,-A-] [D,2A,2A2] |
+z8 |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ |
+F,/ F,/ [F,/C/] F,/ F,/ [F,/C/] F,/ F,/ [G,/D/] G,/ G,/ [G,/D/] G,/ G,/ [G,/D/] [G,/D/] |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+% Bar 30 (1:09)
+A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ |
+[C/G/] C/ C/ [C/G/] C/ C/ [C/G/] C/ [D/A/] D/ D/ [D/A/] D/ D/ [D/A/] D/ |
+[G,D] [G,/G/] [G,/A/] [G,/^A/] G,/ [G,/d/] [G,/^d/] [G,/c/] [G,/=d/] [A,/E/=A/] [F,/C/F/] [G,DG] [G,/G/] [G,/A/] |
+[G,/^A/] G,/ [F,Ccc'] [F,Cd] [F,Ccc'] [G,D] [G,/G/] [G,/=A/] [G,/^A/] G,/ [G,/d/] [G,/^d/] |
+[G,/c/] [G,/d/] [G,/D/A/] [G,/D/F/] [F,Cc] [F,/c/] [F,/^A/] [F,/=A/] F,/ [A,Aa] [G,Gg] [F,Ff] |
+[A,EAa-] [A,/A/a/-] [A,/B/a/-] [A,/c/a/-] [A,/a/-] [A,/e/a/-] [A,/f/a/-] [A,/d/a/-] [A,/e/a/-] [A,/E/B/a/-] [G,/D/G/a/] [A,EA] [A,/A/] [A,/B/] |
+[A,/c/] A,/ [G,Dd] [G,De] [G,Dd] [A,EAa-] [A,/A/a/-] [A,/B/a/] [A,/c/] A,/ [A,/e/] [A,/f/] |
+[A,/d/] [A,/e/] [A,/E/B/] [A,/E/G/] [G,-D-d] +ff+ [G,/-D/-d/] [G,/-D/-c/] [G,DB] +fff+ [D,-A,-A-] [D,2A,2A2] |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+% Bar 40 (1:33)
+A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ |
+F,/ F,/ [F,/C/] F,/ F,/ [F,/C/] F,/ F,/ [G,/D/] G,/ G,/ [G,/D/] G,/ G,/ [G,/D/] [G,/D/] |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+E,/ E,/ [E,B,] E,/ E,/ [E,B,] E,/ E,/ [E,B,] D,/ E,/ ^F,/ D,/ |
+A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ |
+[C/G/] C/ C/ [C/G/] C/ C/ [C/G/] C/ [G,/D/] G,/ G,/ [G,/D/] G,/ G,/ [G,/D/] [G,/D/] |
+[A,6E6] [F,2C2] |
+[C8G8] |
+[D,4A,4] F,3/2 G,3/2 G, |
+[A,8E8] |
+% Bar 50 (1:57)
+[A,6E6] [G,2D2] |
+[F,4C4] [D,4A,4] |
+[G,8D8] |
+[E,4B,4] [F,4C4] |
+[G,8D8] |
+[G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// [G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// [E,B,] E,// E,// E,// E,// |
+[G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// [G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// [E,B,] E,// E,// E,// E,// |
+[G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// [G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// [E,B,] [E,B,] |
+[G,//D//] z// E,// z// E,// z// [F,//C//] z// E,// z// E,// z// E,// E,// E,// E,// E,// z// [E,//B,//-] B,// E,// z// E,// z// [E,B,] [E,B,] |
+[E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z [E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z [E,/B,/E/b/] [E,/B,/E/b/] [E,/B,/E/b/] [E,/B,/E/b/] |
+% Bar 60 (2:21)
+z [E,/B,/E/e/] [E,/B,/E/e/] [E,/B,/E/e/] [E,/B,/E/e/] z z4 |
+[D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] |
+z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,A,] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] [^D,-^A,-] |
+[^D,^A,] [=D,/=A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z A,- |
+A, ^A, F/ E/ C [D,/=A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] |
+[D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z |
+[D,A,] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/-] [A,-^D-^d-] [A,Dd] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z |
+[D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z A,/ A,/ A, ^A, F/ E/ C |
+[E,8B,8] |
+[^D,8^A,8] |
+% Bar 70 (2:45)
+[E,8B,8] |
+[A,4E4] [B,4^F4] |
+[E,B,] [E,B,] [E,2-B,2-] [E,4B,4] |
+[^D,8^A,8] |
+[E,B,] [E,B,] [E,2-B,2-] [E,4B,4] |
+[A,4E4] [F,4C4] |
+z8 |
+[D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] |
+z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,A,] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] [^D,-^A,-] |
+[^D,^A,] [=D,/=A,/] [D,/A,/] [D,/A,/] [D,/A,/] z [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] z A, |
+% Bar 80 (3:09)
+A, ^A, F/ E/ C [E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z [E,/B,/] [E,/B,/] |
+[E,/B,/] [E,/B,/] z [E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z [E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z |
+[E,B,] [E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] [F,-C-] [F,C] [E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z |
+[E,/B,/] [E,/B,/] [E,/B,/] [E,/B,/] z B, B, C G/ ^F/ D |
+z8 |
+[A,6E6] [F,2C2] |
+[C8G8] |
+[D,4A,4] D,3/2 F,3/2 G, |
+[A,8E8] |
+[A,6E6] [G,2D2] |
+% Bar 90 (3:33)
+[F,4C4] [D,4A,4] |
+[G,8D8] |
+[E,4B,4] [F,4C4] |
+[G,8D8] |
+B,/ B,/ [B,/^F/] B,/ B,/ [B,/F/] B,/ B,/ [B,/F/] B,/ [B,/F/] B,/ [A,/E/] A,/ [A,/E/] A,/ |
+D/ D/ [D/A/] D/ D/ [D/A/] D/ D/ [D/A/] D/ [D/A/] D/ [D/A/] D/ [D/A/] D/ |
+E,/ E,/ [E,/B,/] E,/ E,/ [E,/B,/] E,/ E,/ [E,/B,/] E,/ [E,/B,/] [E,/B,/] [G,/D/] [G,/D/] [A,/E/] [A,/E/] |
+D/ D/ [D/A/] D/ D/ [D/A/] D/ D/ [D/A/] D/ [D/A/] D/ [A,/E/] A,/ [A,/E/] A,/ |
+B,/ B,/ [B,/^F/] B,/ B,/ [B,/F/] B,/ B,/ [B,/F/] B,/ [B,/F/] B,/ [A,/E/] A,/ [A,/E/] A,/ |
+G,/ G,/ [G,/D/] G,/ G,/ [G,/D/] G,/ G,/ [E,/B,/] E,/ [E,/B,/] E,/ [E,/B,/] E,/ [E,/B,/] E,/ |
+% Bar 100 (3:57)
+A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ |
+^F,/ F,/ [F,/^C/] F,/ F,/ [F,/C/] F,/ F,/ [G,/D/] G,/ [G,/D/] G,/ [G,/D/] G,/ [G,/D/] G,/ |
+A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ [A,/E/] A,/ |
+[B,/^F/b/] [B,/F/b/] z z [A,/E/b/] [B,4F4b4] z/ |]
+
+X: 21
+%%Orig filename was DarkChestHarp2.abc
+%abc-2.1
+%%song-title       Nightwish - Dark Chest Of Wonders
+%%song-duration    4:06
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish - Dark Chest Of Wonders (4:06) - Basic Harp 2
+Z: Turinthi of Gladden
+%%part-name Basic Harp 2
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ [e/b/] z15/2 |
+[e/b/] z15/2 |
+[e/b/] z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ [B4e4] [^A2e2] [c2e2] |
+% Bar 10 (0:21)
+[E8B8e8] |
+[B4e4] [^A2e2] [c2e2] |
+[E8B8e8] |
+[B/-e/] [B/-e/-] [B/-e/-^f/] [B/-e/-g/] [B/-e/-b/] [B3/2e3/2] [^A/-e/-] [A/-e/-f/] [A/-e/-g/] [A/e/a/] [c/-e/-] [c/-e/-f/] [c/-e/-g/] [c/e/c'/] |
+[E/-B/-e/] [E/-B/-e/-] [E/-B/-e/-^f/] [E/-B/-e/-g/] [E/-B/-e/-b/] [E11/2B11/2e11/2] |
+[E/-B/-e/] [E/-B/-e/-] [E/-B/-e/-^f/] [E/-B/-e/-g/] [E/-B/-e/-b/] [E3/2B3/2e3/2] [E/-^A/-e/-] [E/-A/-e/-f/] [E/-A/-e/-g/] [E/A/e/a/] [E/-c/-e/-] [E/-c/-e/-f/]
+	[E/-c/-e/-g/] [E/c/e/c'/] |
+[E//-B//-e//-b//] [E//-B//-e//-] [E/-B/-e/-^f/] [E/-B/-d/e/-] [E/-B/-e/-c'/] [E/-B/-e/-b/] [E3/2B3/2e3/2] [E2A2e2] [E2c2e2] |
+z g/ a/ ^a/ z/ d/ ^d/ c'/ =d/ =a/ f/ g/ z/ g/ a/ |
+^a/ z/ +ff+ [fc'] [cd] [dc'] z +f+ g/ =a/ ^a/ z/ d/ ^d/ |
+c'/ d/ a/ f/ c'/ z/ c'/ ^a/ =a/ z/ +ff+ [fa] [dg] [cf] |
+% Bar 20 (0:45)
++f+ a a/ b/ c'/ z/ e/ f/ d/ e/ b/ g/ a/ z/ a/ b/ |
+c'/ z/ +ff+ [dg] [ea] [dg] +f+ a a/ b/ c'/ z/ e/ f/ |
+d/ e/ b/ g/ d d/ c'/ b a- a2 |
+[E-B-e-gb] [E-B-e-g-b-] [E-B-e-g-b] [E/-B/-e/-^f/g/-b/-] [E/-B/-e/-g/-b/-] [E4B4e4g4b4] |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+[A8e8a8c'8] |
+[F4c4f4a4] [G4d4g4b4] |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+% Bar 30 (1:09)
+[A8e8a8c'8] |
+[e4c'4] [d4f4] |
+z g/ a/ ^a/ z/ d/ ^d/ c'/ =d/ =a/ f/ g/ z/ g/ a/ |
+^a/ z/ +ff+ [^dc'] [c=d] [dc'] z +f+ g/ =a/ ^a/ z/ d/ ^d/ |
+c'/ d/ a/ f/ c'/ z/ c'/ ^a/ =a/ z/ +ff+ [fa] [dg] [cf] |
++f+ a a/ b/ c'/ z/ e/ f/ d/ e/ b/ g/ a/ z/ a/ b/ |
+c'/ z/ +ff+ [dg] [ea] [dg] +f+ a a/ b/ c'/ z/ e/ f/ |
+d/ e/ b/ g/ d d/ c'/ b a- a2 |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+% Bar 40 (1:33)
+[A8e8a8c'8] |
+[F4c4f4a4] [G4d4g4b4] |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+z [e/-g/-b/] [e/g/] z [e/-g/-b/] [e/g/] z [e/-^f/-b/] [e/f/] z2 |
+[A8e8a8c'8] |
+[c4e4g4c'4] [G4d4g4b4] |
+[A4-e4-a4-] [A3/2-e3/2-a3/2-c'3/2] [A3/2e3/2a3/2b3/2] [fac'] |
+[c4-e4-g4c'4-] [c3/2-e3/2-g3/2-c'3/2-] [c3/2-e3/2-f3/2g3/2c'3/2-] [cegc'] |
+[d4-f4-a4] [d3/2-f3/2-a3/2-] [d3/2-f3/2-a3/2-b3/2] [dfac'] |
+[A4-e4-a4-c'4] [A3/2-e3/2-a3/2-c'3/2-] [A3/2-e3/2-a3/2-b3/2c'3/2] [Aeac'] |
+% Bar 50 (1:57)
+[A4-e4-a4c'4-] [A3/2-e3/2-a3/2-c'3/2-] [A3/2-e3/2g3/2a3/2-c'3/2-] [Aeac'] |
+[F4c4f4a4] [d4f4a4] |
+[G8d8g8b8] |
+[E4B4e4g4c'4] [F3/2-c3/2-f3/2-a3/2-c'3/2] [F3/2-c3/2-d3/2f3/2-a3/2-] [Fcefa] |
+[G8d8g8b8] |
+z b/ e/ z/ b/ e/ b/ z c'/ e/ [e/-b/-] [e/b/-c'/] [e/-b/-] [e/b/c'/] |
+z a/ d/ z/ a/ d/ a/ z b/ e/ [e/-b/] [e/b/-] [e/-b/] [e/b/] |
+z b/ e/ z/ b/ e/ b/ z c'/ e/ [e/-b/-] [e/b/-c'/] [e/-b/-] [e/b/c'/] |
+z a/ d/ z/ a/ d/ a/ z b/ e/ z/ b/ e/ b/ |
+[E/e/] [E/e/] [E/e/] [E/e/] z [E/e/] [E/e/] [E/e/] [E/e/] z [E/b/] [E/b/] [E/b/] [E/b/] |
+% Bar 60 (2:21)
+z [E/e/] [E/e/] [E/e/] [E/e/] z z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[gb] e [gb] e [gb] e [gb] e |
+[gc'] ^d [gc'] d [gc'] d [gc'] d |
+% Bar 70 (2:45)
+[gb] e [gb] e [gb] e [gb] e |
+[da] e [da] e [eb] ^f [eb] f |
+[eg] e [eg] e [eg] e [eg] e |
+[gb] [^fa] [eg] [^df] [dc'] [=db] [ac'] [gb] |
+[egb] e [egb] e [egb] e [egb] e |
+e4 g4 |
+[D/d/] [D/d/] [D/d/] [D/d/] z [D/d/] [D/d/] [D/d/] [D/d/] z z2 |
+d d/ d/ z c' c'/ c'/ z d d/ d/ |
+z f/ e/ d/ d3/2 z3 d// +mp+ f// d// f// |
+d// f// f5/2 +f+ d- d2 c'2 |
+% Bar 80 (3:09)
+a ^a f/ e/ g [e2g2b2] z [e-^f-b-] |
+[e^fb] z [e2a2b2] z [e-g-b-] [e2-g2-b2-] |
+[egb] z z2 [e2g2b2] z [e-^f-b-] |
+[e^fb] z d2 d e g/ f/ d |
+z8 |
+[A4-e4-a4-] [A3/2-e3/2-a3/2-c'3/2] [A3/2e3/2a3/2b3/2] [fac'] |
+[c4-e4-g4c'4-] [c3/2-e3/2-g3/2-c'3/2-] [c3/2-e3/2-f3/2g3/2c'3/2-] [cegc'] |
+[d4f4-a4] [c3/2-f3/2-a3/2-c'3/2-] [c/f/a/-b/-c'/] [d-g-a-b] [dgac'] |
+[A4-e4-a4-c'4] [A3/2-e3/2-a3/2-c'3/2-] [A3/2-e3/2-a3/2-b3/2c'3/2] [Aeac'] |
+[A4-e4-a4c'4-] [A3/2-e3/2-a3/2-c'3/2-] [A3/2-e3/2g3/2a3/2-c'3/2-] [Aeac'] |
+% Bar 90 (3:33)
+[F4c4f4a4] [d4f4a4] |
+[G8d8g8b8] |
+[E4B4e4g4c'4] [F3/2-c3/2-f3/2-a3/2-c'3/2] [F3/2-c3/2-d3/2f3/2-a3/2-] [Fcefa] |
+[G8d8g8b8] |
++ff+ [d/b/] [^f/b/] [d/f/] +f+ b/ +ff+ [d/b/] [f/b/] [d/f/] +f+ b/ +ff+ [d/b/] [f/b/] [d/f/] +f+ b/ +ff+ [d/b/] [f/b/] [d/f/] +f+ b/ |
++ff+ [d/a/] [^f/a/] [d/f/] +f+ a/ +ff+ [d/a/] [f/a/] [d/f/] +f+ a/ +ff+ [d/a/] [f/a/] [d/f/] +f+ a/ +ff+ [d/a/] [f/a/] [d/f/] +f+ a/ |
++ff+ [e/b/] [g/b/] [e/g/] +f+ b/ +ff+ [e/b/] [g/b/] [e/g/] +f+ b/ +ff+ [e/b/] [g/b/] [e/g/] +f+ b/ +ff+ [e/b/] [g/b/] [g/b/] +f+ ^c/ |
+[d/^f/-] [f/a/] f/- [f/-a/] [d/f/-] [f/a/] f/- [f/a/] [d/f/-] [f/a/] f/ [e/-a/] [^c/e/-] [e/a/] +ff+ [c/e/b/] [c/a/] |
+[d/b/] [^f/b/] [d/f/] +f+ b/ +ff+ [d/b/] [f/b/] [d/f/] +f+ b/ +ff+ [d/b/] [f/b/] [d/f/] +f+ b/ +ff+ [d/b/] [f/b/] [d/f/] +f+ [^c/b/] |
++ff+ [d/b/] [g/b/] [e/g/] +f+ b/ +ff+ [d/b/] [g/b/] [e/g/] +f+ b/ +ff+ [d/e/b/] [g/b/] [e/g/] +f+ b/ +ff+ [d/e/b/] [g/b/] [g/b/] +f+ b/ |
+% Bar 100 (3:57)
+^c/ a/ e/ a/ c/ a/ e/ a/ +ff+ [c/e/] +f+ a/ e/ a/ +ff+ [c/e/] +f+ a/ +ff+ [c/e/] +f+ a/ |
+^c/ a/ ^f/ a/ c/ a/ f/ a/ d/ b/ g/ b/ d/ b/ +ff+ [e/g/] +f+ b/ |
+e/ ^c/ a/ c/ e/ c/ a/ c/ e/ c/ a/ c/ e/ c/ a/ c/ |
+b/ b/ z z b/ b4 z/ |]
+

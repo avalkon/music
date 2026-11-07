@@ -1,0 +1,37 @@
+N: TS  2,   3   5
+X: 3
+%%Orig filename was AllegroClarFlute.abc
+T:Motzart Allegro part1 Duet (Basic Clarinet, Basic Flute) (1:00)
+%%part-name Basic Clarinet, Basic Flute
+C:Music by W.A.Mozart 
+Q:1/4=120 
+M:C 
+L:1/8 
+K:D
+a| f d c e | d A z A | B B c c | d2 z A | B B c c | d2 z f |
+e A ^G d | c A z A | B ^A B c | A2 z A | B1/2 ^A1/2 B1/2 A1/2 B c| A3 a |
+f d c e | d A z A | B B c c | d2 z A | B B c c | d2 z f |
+e A ^G d | c A z A | B ^A B c | A2 z A | B1/2 ^A1/2 B1/2 A1/2 B c| A3 a |
+a f f ^d | ^d2 z B | e B f B | g2 z g | g e e c | c2 z A | d A e A | f2 z a | f d c e | d A z A |
+B B c c | d2 z A | B B c c | d2 z g | e d e  f | d2 z d |  e1/2 ^d1/2 e1/2 d1/2 e f| d3 a |
+a f f ^d | ^d2 z B | e B f B | g2 z g | g e e c | c2 z A | d A e A | f2 z a | f d c e | d A z A |
+B B c c | d2 z A | B B c c | d2 z g | e d e  f | d2 z d |  e1/2 ^d1/2 e1/2 d1/2 e f| d3  |]
+
+X: 5
+%%Orig filename was AllegroHarpLute.abc
+T:Motzart Allegro Duet pt 2 (Basic Harp, Basic Lute, Basic Theorbo) (1:00)
+%%part-name Basic Harp, Basic Lute, Basic Theorbo
+C:Music by W.A.Mozart 
+Q:1/4=120 
+M:C 
+L:1/8 
+K:D
+z | D2 E2 | F2 z F | G G E E  | F2 z F | G G E E | F2 z D |
+C2 B,2 | A,2 z C | D2 E2 | F2 z C | D3 E | A,3 z |
+ D2 E2 | F2 z F | G G E E  | F2 z F | G G E E | F2 z D |
+C2 B,2 | A,2 z C | D2 E2 | F2 z C | D3 E | A,3 z |
+z4 | B2 A2 | G2 ^D2 | E2 z2 | z4 | A2 G2 | F2 C2 | D2 z2 | D2 E2 | F2 z F |
+G2 E2 | F2 z F | G2 E2 | F2 z F| G2 A2 | B2 z F | G3 A | F3 z |
+z4 | B2 A2 | G2 ^D2 | E2 z2 | z4 | A2 G2 | F2 C2 | D2 z2 | D2 E2 | F2 z F |
+G2 E2 | F2 z F | G2 E2 | F2 z F| G2 A2 | B2 z F | G3 A | F3 z |
+

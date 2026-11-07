@@ -1,0 +1,58 @@
+N: TS  2,   1   8
+X: 1
+%%Orig filename was PreludeinCWellTemperedClavichord__Flute2.abc
+T:The Well Tempered Clavichord - Prelude in C (1:07) - Melody     %Tune name
+%%part-name Basic Flute
+C:Bach     %Tune composer
+N:Remarks:   %Tune infos
+Q:1/4=129     %Tempo
+     %!STAVE 0 'Melody' @
+     %!INSTR 'Piano 1' 0 2400 @
+M:4/4     %Meter
+L:1/8     %
+K:C
+z G/c/ e/G/c/e/ z G/c/ e/G/c/e/ |z A/d/ f/A/d/f/ z A/d/ f/A/d/f/ |z G/d/ f/G/d/f/ z G/d/ f/G/d/f/ |
+z G/c/ e/G/c/e/ z G/c/ e/G/c/e/ |z A/e/ a/A/e/a/ z A/e/ a/A/e/a/ |z ^F/A/ d/F/A/d/ z F/A/ d/F/A/d/ |
+z G/d/ g/G/d/g/ z G/d/ g/G/d/g/ |z E/G/ c/E/G/c/ z E/G/ c/E/G/c/ |z E/G/ c/E/G/c/ z E/G/ c/E/G/c/ |
+z D/^F/ c/D/F/c/ z D/F/ c/D/F/c/ |z D/G/ B/D/G/B/ z D/G/ B/D/G/B/ |
+z E/G/ ^c/E/G/c/ z E/G/ c/E/G/c/ |z D/A/ d/D/A/d/ z D/A/ d/D/A/d/ |
+z D/F/ d/D/F/d/ z D/F/ d/D/F/d/ |z C/G/ c/C/G/c/ z C/G/ c/C/G/c/ |z A,/C/ F/A,/C/F/ z A,/C/ F/A,/C/F/ |
+z A,/C/ F/A,/C/F/ z A,/C/ F/A,/C/F/ |z G,/B,/ F/G,/B,/F/ z G,/B,/ F/G,/B,/F/ |z G,/C/ E/G,/C/E/ z G,/C/ E/G,/C/E/ |
+z _B,/C/ E/B,/C/E/ z B,/C/ E/B,/C/E/ |z A,/C/ E/A,/C/E/ z A,/C/ E/A,/C/E/ |
+z A,/C/ _E/A,/C/E/ z A,/C/ E/A,/C/E/ |z B,/C/ _E/B,/C/E/ z B,/C/ E/B,/C/E/ |
+z B,/C/ D/B,/C/D/ z B,/C/ D/B,/C/D/ |z G,/B,/ D/G,/B,/D/ z G,/B,/ D/G,/B,/D/ |z G,/C/ E/G,/C/E/ z G,/C/ E/G,/C/E/ |
+z G,/C/ F/G,/C/F/ z G,/C/ F/G,/C/F/ |z G,/B,/ F/G,/B,/F/ z G,/B,/ F/G,/B,/F/ |
+z A,/C/ ^F/A,/C/F/ z A,/C/ F/A,/C/F/ |z G,/C/ G/G,/C/G/ z G,/C/ G/G,/C/G/ |
+z G,/C/ F/G,/C/F/ z G,/C/ F/G,/C/F/ |z G,/B,/ F/G,/B,/F/ z G,/B,/ F/G,/B,/F/ |
+z G,/_B,/ E/G,/B,/E/ z G,/B,/ E/G,/B,/E/ |z F,/A,/ C/F/C/A,/ C/A,/F,/A,/ F,/D,/F,/D,/ |
+z G/B/ d/f/d/B/ d/B/G/B/ D/F/E/D/ |[G8E8c8] |]
+     %End of file
+
+X: 8
+%%Orig filename was PreludeinCWellTemperedClavichord__Theorbo1.abc
+T:The Well Tempered Clavichord - Prelude in C (1:17) - Bass     %Tune name
+C:Bach     %Tune composer
+N:Remarks:   %Tune infos
+Q:1/4=129     %Tempo
+     %!STAVE 0 'Melody' @
+     %!INSTR 'Piano 1' 0 2400 @
+M:4/4     %Meter
+L:1/8     %
+%%part-name Basic Theorbo
+K:C
+[z/c4] e3/2- e2 [z/c4] e3/2- e2 |[c4z/] d3/2- d2 [z/c4] d3/2- d2 |[B4z/] d3/2- d2 [z/B4] d3/2- d2 |
+[z/c4] e3/2- e2 [z/c4] e3/2- e2 |[z/c4] e3/2- e2 [z/c4] e3/2- e2 |[z/c4] d3/2- d2 [z/c4] d3/2- d2 |
+[z/B4] d3/2- d2 [z/B4] d3/2- d2 |[z/B4] c3/2- c2 [B4z/] c3/2- c2 |[z/A4] c3/2- c2 [A4z/] c3/2- c2 |
+[z/D4] A3/2- A2 [z/D4] A3/2- A2 |[z/G4] B3/2- B2 [z/G4] B3/2- B2 |
+[z/G4] _B3/2- B2 [z/G4] B3/2- B2 |[z/F4] A3/2- A2 [z/F4] A3/2- A2 |
+[z/F4] _A3/2- A2 [z/F4] A3/2- A2 |[E4z/] G3/2- G2 [z/E4] G3/2- G2 |
+[E4z/] F3/2- F2 [z/E4] F3/2- F2 |[E4z/] F3/2- F2 [z/E4] F3/2- F2 |[G,4z/] D3/2- D2 [z/G,4] D3/2- D2 |
+[z/C4] E3/2- E2 [z/C4] E3/2- E2 |[z/C4] G3/2- G2 [z/C4] G3/2- G2 |[z/F,4] F3/2- F2 [F,4z/] F3/2- F2 |
+[z/^F,4] A,3/2- A,2 [F,4z/] A,3/2- A,2 |[z/G,4] _E3/2- E2 [z/G,4] E3/2- E2 |
+[z/_A,4] F3/2- F2 [z/A,4] F3/2- F2 |[z/G,4] F3/2- F2 [z/G,4] F3/2- F2 |[z/G,4] E3/2- E2 [z/G,4] E3/2- E2 |
+[z/G,4] D3/2- D2 [z/G,4] D3/2- D2 |[z/G,4] D3/2- D2 [z/G,4] D3/2- D2 |
+[z/G,4] _E3/2- E2 [z/G,4] E3/2- E2 |[G,4z/] E3/2- E2 [z/G,4] E3/2- E2 |[G,4z/] D3/2- D2 [z/G,4] D3/2- D2 |
+[z/G,4] D3/2- D2 [z/G,4] D3/2- D2 |[z/C,4] C3/2- C2 [z/C,4] C3/2- C2 |[z/C,8] C3/2- C2- C4 |
+[z/C,8] B,3/2- B,2- B,4 |A,8 |]
+     %End of file
+

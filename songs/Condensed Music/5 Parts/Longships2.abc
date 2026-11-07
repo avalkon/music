@@ -1,0 +1,451 @@
+N: TS  5,   1   5  12  15  14
+X: 1
+%%Orig filename was Longships2Flute.abc
+T: Longships (2:23) - Basic Flute
+%%part-name Basic Flute
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z A,3/4- +mp+ [A,//C//-] C3/4- [A,//-C//] A,/ z A, C3/4- [A,//-C//] A,3/4 z3/4 |
+z/ A, C +mf+ A, z9/2 |
+z3/4 +mp+ A, C A, z A,3/4 C- +mf+ [A,//-C//] A,3/4 z/ |
+z3/4 +mp+ A,3/4- [A,//C//-] C3/4 +mf+ A,5/4 ^A,/ z/ +mp+ A,/ z/ A,/ z/ +mf+ A,/ z3/4 |
+z3/4 +mp+ A, C A,3/4 z +mf+ ^A, +mp+ D- +mf+ [A,//-D//] A,3/4 z/ |
+% Bar 30 (0:58)
+z8 |
+z4 z3/4 +mp+ A, C A,3/4 z/ |
+z3/4 +mf+ A, +mp+ C3/4 A, z5/4 A,- [A,//C//-] C3/4 A,- [A,//^A,//-] |
+^A,// z3/4 +mf+ A,// z/ A,/ z/ A,/ z7/4 +mp+ =A,3/4- [A,//C//-] C3/4 A,3/4 z/ |
+z3/4 A, C A,3/4 z5/4 A, C +mf+ A,3/4 z/ |
+z3/4 +mp+ A, +p+ C +mp+ A, z17/4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z8 |
+z A,3/4- [A,//C//-] C3/4- [A,//-C//] A,3/4 z A, C3/4 A, z/ |
+z/ A,- [A,//C//-] C3/4 A,5/4 z17/4 |
+z A, C A,3/4 z A, +p+ C +mp+ A,3/4 z/ |
+z3/4 A, C A,- [A,//^A,//-] A,// z/ +mf+ A,/ z/ A,/ z/ A,/ z3/4 |
+z3/4 +mp+ A, C +mf+ A,3/4 z5/4 +mp+ ^A, D +mf+ A, z// |
+z4 z2 z z3/4 +f+ ^A,//- |
+^A,// z/ +mf+ A,/ z/ A,// z/ A,/ z z3/4 =A, C3/4 A,3/4 z3/4 |
+% Bar 60 (1:58)
+z3/4 +mp+ A, C A,3/4 z3/2 +mf+ A,3/4- [A,//C//-] C3/4 A, ^A,//- |
+^A,// z/ A,/ z/ +mp+ A,/ z/ +mf+ A,/ z3/2 +mp+ =A, C A,3/4 z/ |
+z3/4 A, C +mf+ A,3/4 z3/2 A, C3/4 A, z// |
+^A,// z/ A,/ z/ A,/ z/ A,/ z3/2 +mp+ =A,3/4 C +mf+ A,3/4 z3/4 |
+z/ +mp+ A, C +mf+ A,3/4 z3/2 +mp+ A,3/4- +mf+ [A,//C//-] C3/4 +mp+ A,5/4 ^A,// |
+z3/4 ^A,// z3/4 A,// z3/4 A,// z3/2 =A, +p+ C +mp+ A,3/4 z3/4 |
+z/ A, +p+ C z// +mp+ A,/ z3/2 A, C3/4 z// A,- +p+ [A,//^A,//-] |
+^A,// z/ +mp+ A,/ z/ A,/ z/ A,/ z3/2 =A, +p+ C +mp+ A,3/4 z/ |
+z3/4 A, +p+ C +mp+ A,3/4 z3/2 A, +p+ C3/4 +mp+ A, ^A,//- |
+^A,// z/ A,// z3/4 A,// z3/4 +mf+ A,/ z3/2 +mp+ =A, +p+ C +mp+ A,3/4 z/ |
+% Bar 70 (2:18)
+z3/4 A, C3/4 A,3/4 z3/2 A, +p+ C3/4 z// A,3/4 z// +mp+ ^A,// |
+z3/4 ^A,// z3/4 A,// z3/4 A,// z3/4 =A,17/4- |
+A,4- A,/ z7/2 |]
+
+X: 5
+%%Orig filename was Longships2Harp.abc
+T: Longships (2:23) - Basic Harp
+%%part-name Basic Harp
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 A c +ff+ f +f+ c3/4- +ff+ [A//-c//] |
+A3/4 +f+ c f- [c//-f//] c3/4 +mf+ A5/4 c +f+ f c |
+G c3/4- [c//e//-] e3/4- +mf+ [c//-e//] c3/4 +f+ A- [A//c//-] c3/4 z// +mp+ [f3/4g3/4] +f+ c5/4 |
+% Bar 10 (0:18)
+A c3/4- [c//f//-] f c G3/4- [G//^A//-] A d A |
++mf+ G ^A- +ff+ [A//d//-] d3/4- +f+ [A//-d//] A3/4 +mf+ =A +f+ c- [c//e//-] e3/4- [c//-e//] c3/4 |
++ff+ F- +f+ [F//^A//-] A3/4 +ff+ d- +f+ [A//-d//] A3/4 F +ff+ =A +f+ d A |
++ff+ F3/4- +f+ [F//A//-] A d A3/4 F- +mf+ [F//^A//-] A3/4 +ff+ ^d- +f+ [A//-d//] A |
+A d f3/4- [c//-f//] c A3/4- [A//c//-] c +ff+ f +f+ c |
++ff+ A +f+ c +ff+ f- +f+ [c//-f//] c3/4 +ff+ A +f+ c +ff+ f +f+ c |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A- [A//c//-] c3/4 +ff+ f c3/4 +f+ A- +ff+ [A//c//-] c3/4 +f+ f//- [f//] =f/ c +ff+ A//- |
+A3/4 c f +f+ c G- +ff+ [G//c//-] c3/4 e- +f+ [c//-e//] c3/4 +ff+ A//- |
+A +f+ c +ff+ f +f+ c3/4 +ff+ A5/4 c +f+ f c |
+A +ff+ c f3/4- +f+ [c//-f//] c3/4 z// G- [G//^A//-] A3/4 +ff+ d A |
+A3/4- [A//c//-] c +f+ e3/4- [c//-e//] c3/4 F- [F//^A//-] A3/4- +ff+ [A//d//-] d3/4- +f+ [A//-d//] A3/4- [F//-A//] |
+% Bar 30 (0:58)
+F3/4- [F//A//-] A d A3/4 z// F- [F//A//-] A3/4- +ff+ [A//d//-] d3/4- +f+ [A//-d//] A3/4- |
+[F//-A//] F3/4- +ff+ [F//^A//-] A3/4 +f+ ^d- [A//-d//] A/ z// +ff+ =A3/4- [A//c//-] c g3/4 c +f+ A//- |
+A3/4- +ff+ [A//c//-] c3/4- [c//f//-] f3/4- +f+ [c//-f//] c3/4 +ff+ A5/4 c f +f+ c |
+A c f c A- +ff+ [A//c//-] c3/4- [c//f//-] f3/4 +f+ c |
+A- +ff+ [A//c//-] c3/4 f +f+ c A- [A//c//-] c3/4 +ff+ f +f+ c |
++ff+ A c +f+ f +ff+ c +f+ A +mf+ c +f+ f- [c//-f//] c3/4 |
+A c- [c//f//-] f3/4- [c//-f//] c3/4- +ff+ [A//-c//] A3/4 +f+ c f c |
+A3/4- [A//c//-] c3/4- +ff+ [c/e/-] e/- +mf+ [c//-e//] c3/4- +f+ [A//-c//] A c3/4- [c//f//-] f3/4- [c//-f//] c |
+A c f c A c f +mf+ c |
++ff+ G +f+ ^A d A =A +ff+ c e +f+ c |
+% Bar 40 (1:18)
++ff+ F +f+ ^A +ff+ d +f+ A F3/4- [F//=A//-] A d A |
+F A d- [A//-d//] A3/4 +ff+ F +f+ ^A ^d3/4- [A//-d//] A3/4- [=A//-^A//] |
+A c f c A c +ff+ f +f+ c |
++ff+ A +f+ c f c +ff+ A +f+ c f c |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z8 |
+A- [A//c//-] c3/4- c// f3/4 c A c +ff+ f3/4 +f+ c A//- |
+A3/4- [A//c//-] c3/4 f c G- [G//c//-] c3/4 e- [c//-e//] c3/4- [A//-c//] |
+A3/4- [A//c//-] c f3/4- [c//-f//] c3/4 A5/4- [A//c//-] c3/4 f c |
+A- [A//c//-] c3/4 f c G +ff+ ^A d3/4- +f+ [A//-d//] A |
++ff+ A +f+ c- c// ^d/ +mf+ c5/4 +f+ F3/4- +ff+ [F//-^A//-] [F//A//-] A/- [A//=d//-] d3/4 +f+ A +mf+ F//- |
+F3/4 +f+ A d A +mf+ F- +f+ [F//A//-] A3/4 d5/4 A3/4 z// |
+F3/4- [F//^A//-] A +ff+ ^d A [=A//] A/- [A//c//-] c f3/4- +f+ [c//-f//] c3/4 A//- |
+% Bar 60 (1:58)
+A c f c A- [A//c//-] c3/4 +ff+ f +f+ c |
+A- +ff+ [A//^A//-] A3/4- +f+ [A//e//-] e3/4- [A//-e//] A3/4 +ff+ =A +f+ c f c |
+A- [A//c//-] c3/4 f c +mf+ A- +f+ [A//c//-] c3/4- [c//f//-] f3/4- [c//-f//] c3/4 |
+F +ff+ ^A +f+ d A +ff+ =A +f+ c +ff+ f3/4- +f+ [c//-f//] c3/4 A//- |
+A3/4- [A//c//-] c3/4 f c A- [A//c//-] c3/4 f c +mf+ F//- |
+F3/4 +f+ ^A- [A//e//-] e3/4 A G c3/4- [c//f//-] f3/4- [c//-f//] c3/4 =A/- |
+A/- [A/c/-] c/- [c//f//-] f c A- [A//c//-] c +mf+ f +f+ c |
+F ^A d A =A- [A//c//-] c3/4 f c |
+A c f c A c f c |
++mf+ F +f+ ^A d A =A +mf+ c +f+ f c |
+% Bar 70 (2:18)
+A c +mf+ f +f+ c3/4- [A//-c//] A3/4- [A//c//-] c f3/4 z// c3/4 F//- |
+F3/4- [F//^A//-] A3/4- [A//d//-] d3/4 +mf+ A +f+ =A11/4 z3/2 |
+z8 |]
+
+X: 12
+%%Orig filename was Longships2Lonely.abc
+T: Longships (2:23) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+K: C maj
+
++p+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+D2- D3/4 z// +mp+ D- [^A,//-D//] A,7/4- A,/ z// +mf+ A,5/4 |
++mp+ C2- C3/4 z// C F,4 |
+^C2- C3/4 z// C +mf+ ^A,2- A,3/4 z/ +mp+ A,3/4- |
+^A,// C5/2 z/ C// z3/4 C15/4 |
+% Bar 20 (0:38)
+D2- D/ z/ D- +mf+ [^A,//-D//] A,7/4- A,3/4 z// +mp+ A,- |
+^A,// C11/4 z// C F,15/4 |
+^C2- C/ z/ C ^A,2- A,/ z/ A,3/4 z// |
+C2- C/ z// C/ z/ C15/4 z// C//- |
+C2- C// z/ C/ z/ C4 z// |
+F,2- F,3/4 z// +mf+ F,- F,2- F,- F,3/4 z// |
++mp+ F,2- F,// z/ F, z// C2- C- C3/4 F,//- |
+F,4- F,2- F,3/2 z/ |
+F,2- F,/ z// F,3/4 z// G,17/4 |
+A,2- A,/ z/ A,3/4- +p+ [A,//^A,//-] A,15/4 D//- |
+% Bar 30 (0:58)
+D2- D// z/ +mp+ D/ z/ D17/4 |
++p+ ^A,2- A,/ z/ +mf+ A,/ z// +mp+ [F,3/4-G,3/4] F,9/4 z// F,/ z/ |
+F,2- F,3/2 z// F,3 z// F, |
+^A,4 +p+ F,2- F,/ z/ +mp+ F,/ z/ |
+F,2- F,- F,3/4 z// F,2- F,/ z/ +p+ F,// z/ +mp+ F,//- |
+F,2 z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+D2- D/ z// D- [^A,//-D//] A,5/2 z// A,- [A,//C//-] |
+C2- C/ z// C5/4- [F,//-C//] F,7/2- [F,//^C//-] |
+^C2- C/ z// +mf+ C +mp+ ^A,11/4 z// A,5/4 |
+C2- C3/4 z// C/ z/ C4 |
+D2- D/ z/ D- [^A,//-D//] A,7/4- A,3/4 z// A,- |
+^A,// C5/2 z// C3/4 +p+ F,4 z// |
+% Bar 50 (1:38)
++mp+ ^C2- C3/4 z// C3/4 z// +mf+ ^A,4 |
++mp+ C2- C/ z/ C// z/ C15/4 z/ |
++mf+ C2- C// z/ C/ z/ C4 z// |
++mp+ F,2- F,3/4 z// F,- F,2- F,3/2 z// F,//- |
+F,2- F,/ z// F, z// +mf+ C2- C- C3/4 +mp+ F,//- |
+F,4- F,2- F,3/2 z/ |
+F,2- F,/ z// F,3/4 z// G,4 A,//- |
+A,2- A,/ z// A,- [A,//^A,//-] A,7/2- [A,//D//-] D//- |
+D2 z/ D/ z3/4 D4 ^A,//- |
+^A,2- A,/ z// A, F,11/4 z// F,/ z/ F,//- |
+% Bar 60 (1:58)
+F,2- F,3/2 z// F,11/4 z// F,3/4 z/ |
++mf+ ^A,2- A,- A,3/4 +mp+ F,11/4 z/ F,// z/ F,//- |
+F,2- F,3/2 z// F,11/4 z// F,5/4 |
+^A,2- A,- A,3/4 +p+ F,11/4 z// +mp+ F,/ z/ F,//- |
+F,2- F,- F,// z/ F,11/4 z// F, ^A,//- |
+^A,2- A,- A,3/4 F,5/2 z/ F,// z/ +p+ F,/- |
+F,2- F,- F,// z// +mp+ F,11/4 z/ F,- [F,//^A,//-] |
+^A,2- A,- A,3/4 F,11/4 z// F,/ z/ F,//- |
+F,2- F,- F,// z/ F,11/4 z/ F,/ z// +pp+ F,// |
++mp+ ^A,2- A,- A,3/4 F,11/4 z/ F,// z/ F,//- |
+% Bar 70 (2:18)
+F,2- F,3/2 z/ F,2- F,// z/ F,5/4 |
+^A,2- A,- A,/- [F,//-A,//] F,17/4- |
+F,4- F,3/4 z13/4 |]
+
+X: 15
+%%Orig filename was Longships2Soon.abc
+T: Longships (2:23) - Basic Bassoon
+%%part-name Basic Bassoon
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z z3/4 f7/4 z// f2 +f+ c'7/4 z// +ff+ c'//- |
+c'4- c'/ z3/2 a2 |
++f+ ^a2- a3/4 +ff+ =a f17/4- |
+% Bar 10 (0:18)
+f4 z3 a |
++f+ ^a- a3/4 z// +ff+ a2 =a2- a- a3/4 z// |
++f+ f2- f3/2 z// +ff+ f17/4- |
+f- f3/4 +f+ c7/4 z// +ff+ c ^d2- [=d//-^d//] =d |
++f+ c8- |
+c4- c3 z |
+[D2-F2-A2-] [D-F-A-] [D//-F//-A//] [D//F//] z// [D13/4F13/4^A13/4] z |
+[E-G-c-] [E3/4-G3/4c3/4-] +ff+ [E//-G//-c//] [EG] +f+ A/ z/ [C2F2A2] z z3/4 [^C//-F//-^A//-] |
+[^C3F3^A3] z3/4 +ff+ [D11/4F11/4A11/4] z3/2 |
+[E4-G4-c4-] [E//G//c//] z7/2 +f+ [D//-F//-A//-] |
+% Bar 20 (0:38)
+[D2-F2-A2-] [D/-F/-A/] [D//-F//-] [D-F-A] [D//-F//-] [D2-F2-^A2-] [D/F/A/] z5/4 [C//-E//-] |
+[C2-E2-G2-] [C3/4-E3/4-G3/4] [C//-E//A//-] [C/A/] z/ +ff+ [C3/2-F3/2A3/2-] [C/-A/] +fff+ [C3/4F3/4-] F// z3/4 +ff+ [^C//-F//-^A//-] |
+[^C-F-^A-] [C3/4-F3/4A3/4-] [C//A//-] A- A3/4 +f+ [D9/4-F9/4-] +ff+ [DFA] z3/4 [E//-G//-c//-] |
+[E8-G8-c8-] |
+[E3/4G3/4c3/4] z21/4 F3/2 z/ |
+F- F3/4 c2 z// c4- |
+c3/4 z A2- [A//^A//-] A11/4- [=A//-^A//] =A |
+F4- F2- F- F3/4 z// |
+z2 z3/4 +f+ A +ff+ ^A2 A2- [=A//-^A//] |
+A4 F2- F3/2 z/ |
+% Bar 30 (0:58)
+F4- F- F3/4 z// C3/2 z/ |
+C ^D- D =D3/4 +f+ C17/4- |
+C2- C- C3/4 z9/4 +ff+ C- C3/4 z// |
+C ^D- D3/4- [=D//-^D//] =D3/4 C17/4- |
+C2- C- C3/4 z17/4 |
+z2 +f+ f3/2 z/ +ff+ f7/4- +f+ [f//c'//-] c'3/2 z// c'//- |
+c'4- c' z a2 |
+^a11/4- [=a//-^a//] =a +ff+ f4- |
+f4 z2 z3/4 +f+ a- [a//^a//-] |
+^a- a3/4 z// a2 =a15/4- [f//-a//] |
+% Bar 40 (1:18)
+f2- f- f3/4 z// f4- |
+f2 +ff+ c- c3/4 +f+ c5/4 +ff+ ^d- d3/4- +f+ [=d//-^d//] =d3/4- [c//-d//] |
+c8- |
+c3 z z2 z z3/4 +mf+ [D//-F//-A//-] |
+[D2-F2-A2-] [D//-F//-A//] [D//F//] z5/4 +f+ [D13/4F13/4^A13/4] z |
+[E-G-c-] [E3/4-G3/4c3/4-] [E//-c//] +ff+ [E-G] +f+ [E//A//-] A// z/ [C2-F2-A2-] [C//F//A//] z3/2 [^C//-F//-^A//-] |
+[^C2-F2-^A2-] [C-F-A-] [C//-F//A//] C// z/ [D2-F2-A2-] [D3/4F3/4A3/4] z5/4 |
+[E4-G4-c4-] [E-G-c-] [E//G//c//] z11/4 |
+[D2-F2-A2-] [D/-F/-A/] [D//-F//-] +ff+ [D-F-A] [D//-F//-] +f+ [D2-F2-^A2-] [D//-F//-A//] [D//F//] z3/2 |
+[C2-E2-G2-] [C3/4-E3/4-G3/4] +ff+ [C//-E//-A//-] [C3/4E3/4A3/4] z// [C3/2-F3/2A3/2-] [C/-A/] [C//F//-] F5/4 z// [^C//-F//-^A//-] |
+% Bar 50 (1:38)
+[^C2-F2-^A2-] [C3/4F3/4A3/4] z5/4 [D2-F2-] +fff+ [DF] z |
++ff+ [E8-G8-c8-] |
+[E3/2G3/2c3/2] z9/2 F- F3/4 z// |
+z// F7/4 +f+ c- c3/4 z// +ff+ c4- |
+c z +f+ A2 ^A11/4- [=A//-^A//] =A |
++ff+ F8 |
+z2 +f+ A- A3/4 z// +ff+ A2- +f+ [A//^A//-] A7/4 |
++ff+ A4 +f+ F2- F3/2 z// +ff+ F//- |
+F4- F- F3/4 z// C3/2 z/ |
+C ^D- D =D C3 F3/4 z// |
+% Bar 60 (1:58)
+F A F2- F// z11/4 A |
+^A- A3/4 z// A2 z3 F/ z/ |
+F- [F//A//-] A3/4- [F//-A//] F7/4- F// z11/4 A3/4- [A//^A//-] |
+^A- A3/4 z// A2 z3 +f+ F/ z/ |
++ff+ F- +f+ [F//A//-] A3/4 +ff+ F2- F// z11/4 +f+ A |
+^A2 +ff+ A2 z3 F/ z/ |
+F- [F//A//-] A3/4 F2 z3 A3/4 ^A//- |
+^A2 A3/4 +fff+ A z3 +ff+ F/ z/ F//- |
+F3/4- [F//A//-] A3/4 F9/4 z3 A |
+^A- A3/4 z// A2 +f+ F4- |
+% Bar 70 (2:18)
+F// z31/4 |
+z8 |
+z8 |]
+
+X: 14
+%%Orig filename was Longships2Travellers.abc
+T: Longships (2:23) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+C: Enya
+Z: Raymiond of Gladden
+M: 4/4
+Q: 120
+K: C maj
+
++p+ z4 z3 [A,//C//F//] z3/4 |
+[A,-C-F-] [A,3/4C3/4F3/4] z// +mp+ [A,//-C//-] [A,7/4C7/4F7/4] z3 +p+ [C//F//A//] z3/4 |
+[D4F4^A4] z3 [A,//C//F//] z3/4 |
+[A,-C-F-] [A,3/4C3/4F3/4] z// [A,2C2F2] z3 +mp+ [C//F//-A//] F// z/ |
+z// [D15/4F15/4^A15/4] z3 +p+ [A,//C//F//] z3/4 |
++mp+ [A,-C-F-] [A,3/4C3/4F3/4] z// [A,2C2F2] z4 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+z8 |
+z8 |]
+

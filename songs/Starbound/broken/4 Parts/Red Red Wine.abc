@@ -1,0 +1,90 @@
+N: TS 4,   8 1 21 22
+
+X:8
+%%Orig filename was redbass.abc
+T:Red Red Wine - Bass (2:29)
+C:Arranged by Meldowen
+Q:1/4=90
+M:4/4
+L:1/8
+%%part-name Basic Theorbo
+K:C
+z8 |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |G,3/2G/ G,G G,3/2G/ FD |F,3/2F/ CF G,3/2G/ FD |C3/2c/ Cc F,3/2F/ F,F |
+D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |G,3/2G/ G,G G,3/2G/ FD |F,F CF G,3/2G/ FD |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |
+G,3/2G/ FD G,3/2G/ G,G |C3/2c/ AG C3/2c/ Cc |F,3/2F/ F,F F,3/2F/ F,F |C3/2c/ Cc C3/2c/ AG |G,3/2G/ FD G,3/2G/ G,G |C3/2c/ AG C3/2c/ Cc |F,3/2F/ F,F F,3/2F/ F,F |G,3/2G/ FD G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |
+D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |G,3/2G/ G,G G,3/2G/ FD |F,3/2F/ CF G,3/2G/ FD |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |
+C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |G,3/2G/ FD G,3/2G/ G,G |C3/2c/ AG C3/2c/ Cc |F,F F,F F,3/2F/ F,F |C3/2c/ Cc C3/2c/ AG |G,3/2G/ FD G,3/2G/ G,G |C3/2c/ AG C3/2c/ Cc |F,3/2F/ F,F F,3/2F/ F,F |
+G,3/2G/ FD G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,3/2D/ D,D G,3/2G/ G,G |C3/2c/ Cc F,3/2F/ F,F |D,D D,D G,3/2G/ G,G |G,3/2G/ G,G G,3/2G/ FD |F,3/2F/ CF G,3/2G/ FD |
+C2 z2 z4 |]
+	%End of File
+
+X:1
+%%Orig filename was redmelod.abc
+T:Red Red Wine - Melody (2:28)
+C:Arranged by Meldowen
+Q:1/4=90
+M:4/4
+L:1/8
+%%part-name Basic Flute 1
+K:C
+z8 |C[c/E/C/G/g/e/]c/ C[eGcECg] F,[F/a/A/f/c/C/]F/ F,[FcCfAa] |D,[d/B/g/b/D/G/]D/ D,[GdDbBg] G,[a/A/c/F/f/C/]G/ G,[CGfcFa] |C[g/G/c/E/C/e/]c/ C[GECecg] F,[f/A/C/c/F/a/]F/ F,[CFAcfa] |D,[d/G/B/D/b/g/]D/ D,[DBGdgb] G,[f/c/C/F/A/a/]G/ G,[CFcGaf] |
+C[g/c/e/G/E/C/]c/ C[CceEgG] F,[C/A/F/a/c/f/]F/ F,[CAFfac] |D,[D/d/B/g/b/G/]D/ D,[GDdgbB] G,[A/C/F/f/a/c/]G/ G,[CGFcaf] |G,[G/D/d/b/g/B/]G/ G,[GBdbDg] G,[B/D/d/g/G/b/]G/ F[DGdBgb] |[F,cfa][c/f/a/]F/ C[aFfc] [gG,bd][d/b/g/]G/ [Ffac][dgbD] |
+C[E/G/C/e/c/g/]c/ C[ecgEGC] F,[C/F/A/c/f/a/]F/ F,[CAcFfa] |D,[D/G/B/d/b/g/]D/ D,[DBdGgb] G,[C/A/f/c/a/F/]G/ G,[CcFfaG] |C[G/E/C/c/e/g/]c/ C[CGEceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/d/g/b/B/]D/ D,[DBGgdb] G,[C/F/A/c/f/a/]G/ G,[CFGfca] |
+C[C/E/G/c/e/g/]c/ C[CcGeEg] F,[C/F/A/c/f/a/]F/ F,[CAcFfa] |D,[D/G/d/g/B/b/]D/ D,[DGBgbd] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |G,[D/G/B/d/g/b/]G/ G,[DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |F,[CFAcfa] C[CFAcfa] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |
+C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[faCFAc] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |G,[D/G/B/d/g/b/]G/ F[DGBdgb] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |C[C/E/G/c/e/g/]c/ A[CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |
+F,[C/F/A/c/f/a/]F/ F,[CFAcfa] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |C[C/E/G/c/e/g/]c/ C[CEGceg] C[C/E/G/c/e/g/]c/ A[CEGceg] |G,[D/G/B/d/g/b/]G/ F[DGBdgb] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |C[C/E/G/c/e/g/]c/ A[CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |
+F,[C/F/A/c/f/a/]F/ F,[CFAcfa] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |G,[D/G/B/d/g/b/]G/ F[DGBdgb] [G,dgb][d/g/b/]G/ [G,cfa][Gdgb] |[Cceg][c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |
+C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |
+G,[D/G/B/d/g/b/]G/ G,[DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |[F,cfa][c/f/a/]F/ C[Fcfa] [G,dgb][d/g/b/]G/ [faFc][Ddgb] |C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/c/d/g/c'/]D/ D,[DGcdgc'] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |
+C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/c/d/g/c'/]D/ D,[DGcdgc'] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |G,[D/G/B/d/g/b/]G/ F[DGBdgb] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |C[C/E/G/c/e/g/]c/ A[CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |
+F,[CFAcfa] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |C[C/E/G/c/e/g/]c/ C[CEGceg] C[C/E/G/c/e/g/]c/ A[CEGceg] |G,[D/G/B/d/g/b/]G/ F[DGBdgb] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |C[C/E/G/c/e/g/]c/ A[CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |
+[F,fac'][c/f/a/]F/ F,[CFAcfa] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |[G,gb][d/g/b/]G/ F[DGBdgb] [G,dgb][d/g/b/]G/ [G,cfa][Gdgb] |[Cceg][c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |
+C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[DGBdgb] D,[DGBdgb] G,[C/F/A/c/f/a/]G/ G,[CFGcfa] |
+G,[D/G/B/d/g/b/]G/ G,[DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |F,[C/F/A/c/f/a/]F/ C[CFAcfa] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |C [E2G2c2e2g2c'2] z |]
+     %End of file
+
+X:21
+%%Orig filename was redsolo.abc
+T:Red Red Wine (2:28)
+C:Arranged by Meldowen
+Q:1/4=90
+M:4/4
+L:1/8
+%%part-name Unknown Instrument
+K:C
+z4 G2 B2 |[cC][E/c/G/e/g/C/]c/ C[gCecGE] [AF,][F/C/c/f/A/a/]F/ F,[AaFfCc] |D,[B/D/b/g/d/G/]D/ D,[BGDgdb] [dG,][A/f/F/C/c/a/][e/G/] G,[afFGCA] |[eC][e/C/G/E/g/c/][c/d/] [Cc][C/E/G/c/e/g/]G/ [AF,][F/f/A/C/c/a/]F/ F,[CcAFaf] |
+D,[D/G/b/B/g/d/]D/ D,[gdBDbG] [dG,][F/C/A/f/c/a/][e/G/] G,[fCFGAc] |[C//d//]e3/4[C//G//E//e//c//g//]d//c/ C/c/[EgGcCe] F,[F/A/C/f/c/a/]F/ F,[FcafCA] |D,[B/d/D/G/b/g/]D/ D,[DGgdBb] [G,A][F/C/A/c/f/a/]G/ G,[CFAfca] |
+[GG,][B/D/G/g/d/b/][G/A/] [GG,][DBdgbG] G,[d/G/D/B/g/b/]G/ F[DGBdgb] |[F,caf][c/f/a/]F/ C[Fcaf] [GdbG,g][g/b/d/]G/ [FBcfa][Dgbd] |[Cc][C/G/c/g/e/E/]c/ C[ECeGgc] [F,A][C/F/A/f/a/c/]F/ F,[CFAcfa] |D,[D/G/b/d/g/B/]D/ D,[GdDgbB] [G,d][C/F/A/f/a/c/][G/e/] G,[CGAfcF] |
+[eC][E/G/c/g/e/C/][c/d/] [Cc][C/G/E/e/g/c/]G/ [AF,][C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[GDBdgb] [G,d][a/C/A/c/F/f/][e/G/] G,[CGcAaf] |[d//C//]e3/4[C//E//G//c//e//g//]d//c/ C/c/[CEGceg] F,[C/A/c/F/f/a/]F/ F,[CfFAca] |
+D,[D/G/d/g/b/B/]D/ D,[DGdBgb] [G,A][C/A/f/F/c/a/]G/ G,[CGAcfa] |[G,G][D/G/B/d/g/b/][G/A/] [G,G][DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |F,[CFAcfa] [CF][AcfaCF] [G,E][B,/D/G/d/g/b/]G/ [C//F//]D//[C3/2-D3/2-B3/2-d3/2-g3/2-b3/2-]|
+[C//D//B//d//g//b//]C/[C/E/G/c/e/g/]c//C [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] G,[C/F/A/c/f/a/]G/ [G,G][CFGcfa] |[G,//c//]B/[D/G/B/d/g/b/]G//F [DGBdgb]G,3/2 [D/G/B/d/g/b/]G/ [G,G][DGBdgb] |
+[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |[F,f][C/F/A/c/f/a/][F/e/] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,A][CEFcfa] |[C//G//]A/G//[C/E/G/c/e/g/]c/ C[CEGceg] C[C/E/G/c/e/g/]c/ [GA][CEGceg] |
+[G,B][D/G/B/d/g/b/][G/A/] [FG][DGBdgb] G,[D/G/B/d/g/b/]G/ [G,G][DGBdgb] |[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ [Cd][CEGceg] |[F,f][C/F/A/c/f/a/][F/e/] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,//c//]d//e/[CFcdfa] |
+G,[D/G/B/d/g/b/]G/ F[DGBdgb] [G,//d//g//b//]e/[d/g/b/]G3/4 [G,//c//d//f//a//]e//[G3/2-d3/2-g3/2-b3/2-]|[G//d//g//b//][C/c/e/g/][c/e/g/]c//[Cd] [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFcfaA] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |
+[Ce][C/E/G/c/e/g/][c/d/] [Cc][C/E/G/c/e/g/]G/ [F,A][C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |[C//d//]e3/4[C//E//G//c//e//g//]d//c/ C/c/[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |
+D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,A][C/F/A/c/f/a/]G/ G,[CFGcfa] |[G,G][D/G/B/d/g/b/][G/A/] [G,G][DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |[F,cfa][c/f/a/]F/ [CF][Fcfa] [G,Edgb][B,/d/g/b/]G/ [C//F//c//f//a//]D//[C3/2-D3/2-d3/2-g3/2-b3/2-]|
+[C//D//d//g//b//]C/[C/E/G/c/e/g/]c//C [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/c/d/g/c'/]D/ D,[DGcdgc'] G,[D/G/B/d/g/b/]G/ G,[DGBdgb] |C[C/E/G/c/e/g/]c/ C[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |
+D,[D/G/c/d/g/c'/]D/ D,[DGcdgc'] G,[D/G/B/d/g/b/]G/ [G,G][DGcdgb] |[G,//c//]B/[D/G/B/d/g/b/]G//F [DGBdgb]G,3/2 [D/G/B/d/g/b/]G/ [G,G][DGBdgb] |[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ C[CEGceg] |
+[F,f][C/F/A/c/f/a/]e/ F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,A][CEFcfa] |[C//G//]A/G//[C/E/G/c/e/g/]c/ C[CEGceg] C[C/E/G/c/e/g/]c/ [GA][CEGceg] |[G,B][D/G/B/d/g/b/][G/A/] [FG][DGBdgb] G,[D/G/B/d/g/b/]G/ [G,G][DGBdgb] |
+[Cc][C/E/G/c/e/g/][A/c/] [GA][CEGceg] C[C/E/G/c/e/g/]c/ [Cd][CEGceg] |[F,fac'][c/f/a/][F/e/] F,[CFAcfa] F,[C/F/A/c/f/a/]F/ [F,//c//]d//e/[CFcdfa] |[G,gb][d/g/b/]G/ F[DGBdgb] [G,//d//g//b//]e/[d/g/b/]G3/4 [G,//c//d//f//a//]e//[G3/2-d3/2-g3/2-b3/2-]|
+[G//d//g//b//][C/c/e/g/][c/e/g/]c//[Cd] [CEGceg]F,3/2 [C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |[Ce][C/E/G/c/e/g/][c/d/] [Cc][C/E/G/c/e/g/]G/ [F,A][C/F/A/c/f/a/]F/ F,[CFAcfa] |
+D,[D/G/B/d/g/b/]D/ D,[DGBdgb] [G,d][C/F/A/c/f/a/][G/e/] G,[CFGcfa] |[C//d//]e3/4[C//E//G//c//e//g//]d//c/ C/c/[CEGceg] F,[C/F/A/c/f/a/]F/ F,[CFAcfa] |D,[DGBdgb] D,[DGBdgb] [G,A][C/F/A/c/f/a/]G/ G,[CFGcfa] |
+[G,G][D/G/B/d/g/b/][G/A/] [G,G][DGBdgb] G,[D/G/B/d/g/b/]G/ F[DGBdgb] |F,[C/F/A/c/f/a/]F/ [Cf][C/F/A/c/f/a/]e/ G,[D/G/B/d/g/b/]G/ [F//c//]d//[D3/2-G3/2-c3/2-d3/2-g3/2-b3/2-]|[D//G//c//d//g//b//]C// [E2G2c2e2g2c'2] z |]
+     %End of file
+
+X:22
+%%Orig filename was redvocal.abc
+T:Red Red Wine - Vocal (2:29)
+C:Arranged by Meldowen
+Q:1/4=90
+M:4/4
+L:1/8
+%%part-name Basic Flute 2
+K:C
+z4 G2 B2 |c4 A4 |z4 d3/2e3/2 f |e3/2d/ c3/2G/ A4 |z4 d3/2e3/2 f |d//ed//c c2 z2 z3/2 |z4 A3/2G3/2 G |G3/2A/ G z z4 |z4 G2 B2 |c4 A4 |z4 d3/2e3/2 f |e3/2d/ c3/2G/ A4 |z4 d3/2e3/2 f |d//ed//c c2 z3/2 z2 |
+z4 A3/2G3/2 G |G3/2A/ G z z4 |z2 F2 EB, C//D3/4C- |C z z6 |z6 Gc |c//B//- B3/2 z4 Gd |c3/2A/ G2 z4 |f3/2e3/2 c3 AE |G//A/G//- G2 z3 Gc |B3/2A/ G2 z2 Gd |c3/2A/ G2 z2 de |f3/2e3/2 c3 c//d//e/d- |d4 d//e//- e3/2 d//e//- e3/2 |
+e3/2c/ d c2 A2 z |z4 d3/2e3/2 f |e3/2d/ c3/2G/ A4 |z4 d3/2e3/2 f |d//ed//c c2 z3/2 z2 |z4 A3/2G3/2 G |G3/2A/ G z z4 |z2 F2 EB, C//D3/4C- |C z z6 |z8 |z8 |z6 Gc |c//B//- B3/2 z4 Gd |c3/2A/ G2 z4 |f3/2e3/2 c3 AE |
+G//A/G//- G2 z3 Gc |B3/2A/ G2 z2 Gd |c3/2A/ G2 z2 de |f3/2e3/2 c3 c//d//e/d- |d4 d//e//- e3/2 d//e//- e3/2 |e3/2c/ d c2 A2 z |z4 d3/2e3/2 f |e3/2d/ c3/2G/ A4 |z4 d3/2e3/2 f |d//ed//c c2 z3/2 z2 |z4 A3/2G3/2 G |
+G3/2A/ G z z4 |z2 f3/2e3/2 B c//d//-d/c- |c3 z4 z |]
+     %End of file
+

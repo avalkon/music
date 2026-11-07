@@ -1,0 +1,30 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was ReginoftheSeptims-Oblivion,insevenparts-TES-Oblivion-Lute.abc
+T:Oblivion-Lute (1:45) [v.1 by Ictiv]
+Z:Transcribed using LotRO MIDI Player:http://lotro.acasylum.com/midi
+N:LotRO adaptation by Ictiv from Edhel Annon of Withywindle.
+N:Special Thanks to vgmusic.com for hosting- and Daniel Lawrence for uploading the original MIDI file I worked from. (http://www.vgmusic.com/music/console/microsoft/xbox360/Oblivion.mid)
+N:This is my first .abc set therefore it is far from perfect, any tweaking is allowed and encouraged. Credits given is welcome.
+%  Original file:Oblivion.mid
+%  Transpose:-7
+L:1/4
+Q:118
+%%part-name Basic Lute
+K:C
++mp+G,9/8 z21/8 D,3/4 G, z21/8 D,3/4 G,9/8 z13/4 G,9/8 z9/8 G,3/4 A,3/4
+F,3/4 G,9/8 z9/8 G, z9/8 G,9/8 z9/8 G,9/8 z G,5/4 z G,9/8 z9/8 G,9/8
+z9/8 G, z115/8 G,3/8 z/8 G,/4 G,3/8 G,3/8 G,3/8 G,3/8 G,3/8 G,3/8
+G,3/8 G,3/8 G,3/8 G,3/8 z125/8 z125/8 z125/8 z125/8 z33/4 G,3/4 z/8
+^A,5/8 D3/4 G3/4 ^A3/4 d5/8 z/8 F,5/8 z/8 =A,5/8 z/8 C5/8 F3/4 =A3/4
+c3/4 A,3/4 C3/4 F3/4 A3/4 c5/8 z/8 f5/8 z/8 a5/8 z/8 c'5/8 f3/4 c'3/4
+a3/4 f5/8 z/8 G,3/4 ^A,3/4 D5/8 z/8 G5/8 z/8 ^A5/8 z/8 d5/8 f3/4 d3/4
+^A3/4 G3/4 D5/8 z/8 ^A,5/8 z/8 G,3/4 ^A,5/8 z/8 D5/8 z/8 G5/8 z/8
+^A5/8 d3/4 g3/4 ^a3/4 d5/8 z/8 ^a5/8 z/8 g5/8 d3/4 G,7/8 ^A,3/4
+[G3/4z5/8] [D7/8z3/4] ^A,3/4 G,3/4 F,3/4 =A,3/4 F3/4 C3/4 [A,3/4z5/8]
+[F,7/8z3/4] G,7/8 [^A,3/4z5/8] [D7/8z3/4] ^A,3/4 G,3/4 D,3/4 E,3/4
+G,3/4 [C3/4z5/8] [E,7/8z3/4] G,3/2 E,3/4 G,3/4 C3/4 E,3/4 G,3/2 E,5/8
+z/8 G,5/8 C3/4 E,3/4 G,3/2 +p+E,3/4 G,3/4 C5/8 z/8 E,5/8 z/8 G,11/8
++pp+E,3/4 G,3/4 C3/4 z/8 E,3/4 z/8 G,7/4 E,7/8 z/8 G,7/8 C7/8 z/8 E,7/8
++ppp+G,15/8 z11/4 [G,11/4G11/4]
+

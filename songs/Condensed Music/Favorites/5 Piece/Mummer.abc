@@ -1,0 +1,632 @@
+%abc-2.1
+%%song-title       Mummer's Dance
+%%song-duration    3:24
+%%abc-creator Maestro v4.5.18
+%%export-timestamp 2026-01-13 16:30:37
+%%swing-rhythm false
+%%mix-timings false
+%%reduced-file-size true
+%%organic             false
+%%organic-multi-stage false
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+N: Title:  - Mummer's Dance
+N: TS  5,   1  2  3  4  8
+
+X: 1
+T: Mummer's Dance (3:24) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ffff+ z4 |
+z8 |
+z4 [D,4-A,4-] |
+[D,4A,4] [C,4-E,4-] |
+[C,4E,4] [E,4-G,4-A,4-] |
+[E,4G,4A,4] [D,4-A,4-] |
+[D,4A,4] [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,2G,2] [E,2G,2C2] [D,4-A,4-] |
+[D,4A,4] [D,4-A,4-] |
+[D,4A,4] [D,2-A,2-D2] [D,-A,-A] [D,-A,-A-] |
+[D,2-A,2-A2] [D,-A,-D] [D,A,E] [C,2-E,2-D2] [C,-E,-C] [C,-E,-C-] |
+[C,2-E,2-C2] [C,-E,-C] [C,E,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3-A,3-D3] [D,A,D] [D,2-F,2-D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,2-F,2D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3-A,3-D3] [D,A,D] [D,2-F,2D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,2-A,2-D2A2] [D,-A,-d] [D,-A,-A-d-] |
+[D,2-A,2-A2-d2] [D,-A,-Ad] [D,A,Ae] [D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc] [D,-G,-G-c-] |
+[D,3-G,3-G3c3] [D,G,GB] [D,-G,-Gc] [D,-G,-B] [D,2-G,2-B2] |
+[D,2-G,2-G2B2] [D,2G,2A2c2] [D,/^F,/B/] [D,/F,/c/] [D,/F,/B/] [D,/F,/D/A/] [D,2-F,2-D2-A2-] |
+[D,3-^F,3-D3A3] [D,F,-D^F] [D,2F,2-A,2D2A2] [D,-F,-A,-d] [D,-F,-A,-A-d-] |
+[D,2-^F,2-A,2-A2-d2] [D,-F,-A,-Ad] [D,F,-A,Ae] [D,-F,-G,-Ad] [D,-F,-G,-Gc] [D,-F,-G,-Gc] [D,-F,G,-G-c-] |
+[D,3-^F,3-G,3-G3c3] [D,F,-G,GB] [D,-F,-G,-Gc] [D,-F,-G,-B] [D,2-F,2-G,2-B2] |
+[D,2-^F,2-G,2-G2B2] [D,2F,2-G,2A2c2] [D,/F,/B/] [D,/F,/c/] [D,/F,/B/] [D,/F,/D/A/] [D,2F,2D2A2] |
+[D,4^F,4] [D,4-A,4-] |
+[D,4A,4] [D,4F,4] |
+[D,4E,4] [A,4-D4-A4-] |
+[A,4D4A4] [A,4-D4-A4-] |
+[A,4D4A4] [D,2-A,2-D2] [D,-A,-A] [D,-A,-A-] |
+[D,2-A,2-A2] [D,-A,-D] [D,A,E] [C,2-E,2-D2] [C,-E,-C] [C,-E,-C-] |
+[C,2-E,2-C2] [C,-E,-C] [C,E,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3-A,3-D3] [D,A,D] [D,2-F,2-D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,2-F,2D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3-A,3-D3] [D,A,D] [D,2-F,2D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,2-A,2-D2A2] [D,-A,-d] [D,-A,-A-d-] |
+[D,2-A,2-A2-d2] [D,-A,-Ad] [D,A,Ae] [D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc] [D,-G,-G-c-] |
+[D,3-G,3-G3c3] [D,G,GB] [D,-G,-Gc] [D,-G,-B] [D,2-G,2-B2] |
+[D,2-G,2-G2B2] [D,2G,2A2c2] [D,/^F,/B/] [D,/F,/c/] [D,/F,/B/] [D,/F,/D/A/] [D,2-F,2-D2-A2-] |
+[D,3-^F,3-D3A3] [D,F,-D^F] [D,2F,2-A,2D2A2] [D,-F,-A,-d] [D,-F,-A,-A-d-] |
+[D,2-^F,2-A,2-A2-d2] [D,-F,-A,-Ad] [D,F,-A,Ae] [D,-F,-G,-Ad] [D,-F,-G,-Gc] [D,-F,-G,-Gc] [D,-F,G,-G-c-] |
+[D,3-^F,3-G,3-G3c3] [D,F,-G,GB] [D,-F,-G,-Gc] [D,-F,-G,-B] [D,2-F,2-G,2-B2] |
+[D,2-^F,2-G,2-G2B2] [D,2F,2-G,2A2c2] [D,/F,/B/] [D,/F,/c/] [D,/F,/B/] [D,/F,/D/A/] [D,2F,2D2A2] |
+[D,4^F,4] [D,4-A,4-] |
+[D,4A,4] [D,4F,4] |
+[D,4E,4] [A,4-D4-A4-] |
+[A,4D4A4] [A,4-D4-A4-] |
+[A,4D4A4] [A,4-D4-A4-] |
+[A,4D4A4] [D,4F,4] |
+[D,4E,4] [A,4-D4-A4-] |
+[A,4D4A4] [A,4-D4-A4-] |
+[A,4D4A4] [A,4-D4-A4-] |
+[A,4D4A4] [C,4-E,4-C4-] |
+[C,4E,4C4] [E,4-A,4-G4-] |
+[E,4A,4G4] [D,4-A,4-A4-] |
+[D,4A,4A4] [D,4-F,4-F4-] |
+[D,4F,4F4] [E,4-G,4-G4-] |
+[E,3G,3G3] [E,G,C] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,2-A,2-D2] [D,-A,-A] [D,-A,-A-] |
+[D,2-A,2-A2] [D,-A,-D] [D,A,E] [C,2-E,2-D2] [C,-E,-C] [C,-E,-C-] |
+[C,2-E,2-C2] [C,-E,-C] [C,E,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3-A,3-D3] [D,A,D] [D,2-F,2-D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,4A,4D4] [D,2-F,2D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3-A,3-D3] [D,A,D] [D,2-F,2D2] [D,-F,-A] [D,-F,-A-] |
+[D,2-F,2-A2] [D,-F,-D] [D,F,E] [E,2-G,2-D2] [E,-G,-C] [E,-G,-C-] |
+[E,2-G,2-C2] [E,-G,-C] [E,G,D] [E,/-A,/-E/] [E,/-A,/-F/] [E,-A,-E] [E,-A,-E] [E,-A,-E-] |
+[E,-A,-E] [E,-A,-D] [E,2A,2D2-] [D,4-A,4-D4-] |
+[D,3A,3D3] [D,A,D] [D,2-A,2-D2A2] [D,-A,-d] [D,-A,-A-d-] |
+[D,2-A,2-A2-d2] [D,-A,-Ad] [D,A,Ae] [D,-G,-Ad] [D,-G,-Gc] [D,-G,-Gc] [D,-G,-G-c-] |
+[D,3-G,3-G3c3] [D,G,GB] [D,-G,-Gc] [D,-G,-B] [D,2-G,2-B2] |
+[D,2-G,2-G2B2] [D,2G,2A2c2] [D,/^F,/B/] [D,/F,/c/] [D,/F,/B/] [D,/F,/D/A/] [D,2-F,2-D2-A2-] |
+[D,4^F,4D4A4] [D,4-A,4-] |
+[D,4A,4] [D,4F4] |
+[D,4E4] [D,4-A,4-] |
+[D,4A,4] [D,4-A,4-] |
+[D,4A,4] [D,4-A,4-] |
+[D,4A,4] [D,4F,4] |
+[D,4E,4] [D,4-A,4-] |
+[D,4A,4] [D,4-A,4-] |
+[D,4A,4] [D,4-A,4-] |
+[D,4A,4] [D,4F,4] |
+[D,4E,4] [D,4-A,4-] |
+[D,4A,4] [D,4-A,4-] |
+[D,4A,4] |]
+
+
+X: 2
+T: Mummer's Dance (3:24) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+%%user-pan auto
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ffff+ z4 |
+z8 |
+z4 [CD] D D [CD] |
+D D [Cc] [Dd] [D2-G2] [D/-F/G/] [D/F/] D |
+[CG-] [DG-] [D2G2] [A,d-] [Cd-] [Cd] [A,d] |
+C C [A,c] [Cd] D3 [Ed] |
+[DF] [CF] [A,-G] [A,A] [CD] D D [CD] |
+D D [Cc] [Dd] [D2-G2] [D/-F/G/] [D/F/] D |
+C D [D-A] [CD] [D,-D-A] [D,CD] [D,D] [Dd] |
+[D,D] C [Ac] [D,Dd] [D,A,Dd-] [Cd-] [D,Dd] [Dd] |
+[D,D] C A,2 D3 D |
+z2 c d D3 D |
+G4 d3 d |
+z2 c d D3 d |
+F F G A D3 D |
+z2 c d D3 D |
+z2 A C D3 d |
+z2 c d D3 D |
+z4 D3 D |
+z2 c d D3 D |
+G4 d3 d |
+z2 c d D3 d |
+F F G A D3 D |
+z2 c d D3 D |
+z2 A C D2 z2 |
+z8 |
+z4 [D2-A2] [D-Ad] [DA-d-] |
+[D2-A2d2] [D-Ad] [DBe] [D-Ad] [D-Gc] [DGc] [D-G-c-] |
+[DG-c-] [D2G2c2] [GAB] [G-c] [GB] [G2-B2] |
+[G2-B2] [GAc] G [D/-G/B/] [D/-c/] [D/B/] [D/A/] [D2^F2-] |
+[D4^F4] [D2A2] [D-Ad] [D-A-d-] |
+[DA-d-] [DAd] [D-Ad] [DBe] [D-Ad] [D-Gc] [D-Gc] [DG-c-] |
+[D3-G3c3] [DGB] [GAd] [Gc] [Gc] [Gc-] |
+[G2c2-] [Gc] [GAB] [D/-G/B/] [D/c/] [D/B/] [D/A/] [D^F-] [D-F] |
+[D-^F] [D-G] [DA] [D-B] [D-A] [D-G] [DG-] [DG-] |
+G2 D E [D3F3-] [D-F] |
+[C-DE-] [C3E3] [C,3/2C3/2D3/2] [D,/D/] [D,D] [D,D-] |
+[^D,/D/^D/] [=D,/=D/] [C,C] [D,DG] [C,CA] D D2 D- |
+D z3 D3 D |
+z2 c d D3 D |
+g4 D3 D |
+z2 c d D3 D |
+z2 g2 D3 D |
+z2 c d D3 D |
+z2 A c D3 D |
+z2 c d D3 D |
+z4 D3 D |
+z2 c d D3 D |
+G4 d3 d |
+z2 c d D3 d |
+F F G A D3 D |
+z2 c d D3 D |
+z2 A C D2 z2 |
+z8 |
+z4 [D2-A2] [D-A] [DA-] |
+[D2A2] [D-A] [DB] [D-A] [D2G2] [D-G-] |
+[DG-] [D2G2] [GA] G2 G2- |
+G2- [GA] G [D2-G2] [D2^F2-] |
+[D4^F4] [D2A2] [D-A] [D-A-] |
+[DA] [DA-] [D-A] [DB] [D-A] [D2-G2] [DG-] |
+[D3-G3] [DG] G2 G G |
+G- [GA-] [GA] [GA] [DG] [D2^F2-] [D-F] |
+[D-^F] [D-G] [DA] [D-B] [D-A] [D-G] [DG-] [DG-] |
+G2 D E [D3F3-] [D-F] |
+[C-DE-] [C3E3] [C,3/2C3/2D3/2] [D,/D/] [D,D] [D,D-] |
+[^D,/D/^D/] [=D,/=D/] [C,C] [D,DG] [C,CA] D D2 [D-^F] |
+[D^F] G A B [D-A] [D-G] [DG-] [DG-] |
+G2 D E [D3F3-] [D-F] |
+[C-DE-] [C3E3] [C,3/2C3/2D3/2] [D,/D/] [D,D] [D,D-] |
+[^D,/D/^D/] [=D,/=D/] [C,C] [D,Dg] [C,Ca] D D2 D- |
+D z3 [CD] D D [CD] |
+D D [Cc] [Dd] [D2-G2] [D/-F/G/] [D/F/] D |
+[CG-] [DG-] [D2G2] [A,d-] [Cd-] [Cd] [A,d] |
+C C [A,c] [Cd] D3 [Ed] |
+[DF] [CF] [A,-G] [A,A] [CD] D D [CD] |
+D D [Cc] [Dd] [D2-G2] [D/-F/G/] [D/F/] D |
+C D [D-F] [DA] [D,-D-A] [D,CD] [D,D] D |
+[D,D] C [Ac] [D,Dd] [D,A,D-] [CD] [D,D] D |
+[D,D] C A,2 D2 A A- |
+A2 D E D2 C C- |
+C2 C D E/ F/ E E E- |
+E D D2- D4- |
+D3 D D2 A A- |
+A2 D E D2 C C- |
+C2 C D E/ F/ E E E- |
+E D D2- D4- |
+D4 D2 A A- |
+A2 D E D2 C C- |
+C2 C D E/ F/ E E E- |
+E D D2- D4- |
+D3 D D2 A A- |
+A2 D E D2 C C- |
+C2 C D E/ F/ E E E- |
+E D D2- D4- |
+D4 [D2-A2] [D-A] [DA-] |
+[D2-A2] [D/-A/] [D-B] [D/A/-] [D-A] [D2-G2] [DG-] |
+[D3-G3] [DG] [G2g2] [G2-g2-] |
+[G2g2-] [Ag-] [Gg] [D2-G2] [D2^F2-] |
+[D4^F4] [D2-A2] [D-A] [DA-] |
+[D-A] [D2-A2] [DB] [D-A] [D2-G2] [DG-] |
+[D3-G3] [DG] g2- [Gg-] [G-g] |
+[Gg-] [A-g] [Ag] [Ga] [DG] [D2^F2-] [D-F] |
+[D-^F] [D-G] [DA] [D-B] [D-A] [D-G] [DG-] [DG-] |
+G2 D E [D3F3-] [D-F] |
+[C-DE-] [C3E3] [C,3/2C3/2D3/2] [D,/D/] [D,D] [D,D-] |
+[^D,/D/^D/] [=D,/=D/] [C,C] [D,Dg] [C,Ca] D D2 [D-^F] |
+[D^F] G A B [D-A] [D-G] [DG-] [DG-] |
+G2 D E [D3F3-] [DF] |
+[C4E4] [A,4-D4-] |
+[A,4D4] [A,4-D4-] |
+[A,4D4] |]
+
+
+X: 3
+T: Mummer's Dance (3:24) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+%%user-pan auto
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ffff+ z4 |
+z8 |
+z4 D,3 D, |
+z2 C D D,3 D, |
+G,4 D3 D |
+z2 C D D,3 D |
+F, F, G, A, D,3 D, |
+z2 C D D,3 D, |
+z2 A, C, D,3 D |
+z2 C D D3 D |
+z4 D,3 D, |
+z2 C D D,3 D, |
+G,4 D3 D |
+z2 C D D,3 D |
+F, F, G, A, D,3 D, |
+z2 C D D,3 D, |
+z2 A, C, D,3 D |
+z2 C D D,3 D, |
+z4 D,3 D, |
+z2 C D D,3 D, |
+G,4 D3 D |
+z2 C D D,3 D |
+F, F, G, A, D,3 D, |
+z2 C D D,3 D, |
+z2 A, C, D,2 z2 |
+z8 |
+z4 D,4 |
+D,4 D,3 D,- |
+D, D,2 A, G,2 G,2- |
+G,4 D,4 |
+D,4 D,2 D,2- |
+D, D, D,2 D,4 |
+D,4 G,4 |
+G,2 G, A, D, D,2 D,- |
+D,3 D,4 D, |
+z4 D,3 D,- |
+D, z3 D,3 D,- |
+D, z G, A, D, D,2 D,- |
+D, z3 D,3 D, |
+z2 C D D,3 D, |
+G4 D,3 D, |
+z2 C D D,3 D, |
+z2 G2 D,3 D, |
+z2 C D D,3 D, |
+z2 A, C D,3 D, |
+z2 C D D,3 D, |
+z4 D,3 D, |
+z2 C D D,3 D, |
+G,4 D3 D |
+z2 C D D,3 D |
+F, F, G, A, D,3 D, |
+z2 C D D,3 D, |
+z2 A, C, D,2 z2 |
+z8 |
+z4 D,4 |
+D,2 D,2 D,3 D,- |
+D, D,2 A, G,2 G,2- |
+G,4 D,4 |
+D,4 D,2 D,2- |
+D, D, D,2 D,4 |
+D,4 G,4 |
+G,2 G, A, D, D,2 D,- |
+D,3 D,4 D, |
+z4 D,3 D,- |
+D, z3 D,3 D,- |
+D, z G, A, D, D,2 D,- |
+D, z3 D,3 D, |
+z4 D,3 D,- |
+D, z3 D,3 D,- |
+D, z G A D, D,2 D,- |
+D, z3 D,3 D, |
+z2 C D D,3 D, |
+G,4 D3 D |
+z2 C D D,3 D |
+F, F, G, A, D,3 D, |
+z2 C D D,3 D, |
+z2 F, A, D,3 D, |
+z2 C D D,3 D, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 D,4 |
+D,4 D,4 |
+D,4 G2 G2- |
+G4 D,4 |
+D,4 D,4 |
+D,4 D,4 |
+D,4 G4 |
+G2 G A D, D,2 D,- |
+D,3 D,4 D, |
+z4 D,3 D,- |
+D, z3 D,3 D,- |
+D, z G A D, D,2 D,- |
+D, z3 D,3 D, |
+z4 D,3 D, |
+z8 |
+z8 |
+z4 |]
+
+
+X: 4
+T: Mummer's Dance (3:24) - Basic Clarinet
+%%part-name Basic Clarinet
+%%made-for Basic Clarinet
+%%user-pan auto
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ffff+ [D,4-F,4-] |
+[D,8-F,8-] |
+[D,4F,4] D,4- |
+D,4 [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,4 D,4- |
+D,4 [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,8- |
+D,4 [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,8 |
+D,4- [D,4-G,4-] |
+[D,4-G,4] [D,4-G,4-] |
+[D,4-G,4] [D,3/2^F,3/2-] [D,5/2-F,5/2-] |
+[D,4-^F,4] D,4- |
+D,4- [D,4G,4-] |
+[D,8-G,8-] |
+[D,4-G,4] [D,4-^F,4-] |
+[D,4-^F,4] D,3/2 D,5/2- |
+D,4- [D,4-F,4] |
+[D,4-E,4] D,4 |
+D,8- |
+D,8- |
+D,4 [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4-F,4] [D,4E,4-G,4-] |
+[D,4-E,4G,4] D,4- |
+D,8- |
+D,4- [D,3/2-A,3/2-] [D,5/2-A,5/2-] |
+[D,4A,4] [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,8 |
+D,4- [D,4-G,4-] |
+[D,8-G,8-] |
+[D,4-G,4] [D,3/2^F,3/2-] [D,5/2-F,5/2-] |
+[D,4-^F,4] [D,4-A,4-] |
+[D,4-A,4] [D,4G,4-] |
+[D,8-G,8-] |
+[D,4-G,4] [D,4-^F,4-] |
+[D,4-^F,4] D,3/2- D,5/2- |
+D,4 [D,4F,4] |
+[D,4E,4] D,4- |
+D,8- |
+D,8 |
+D,4- [D,4-F,4] |
+[D,4-E,4] D,4- |
+D,4- D,3/2 D,5/2- |
+D,8- |
+D,4 [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,8- |
+D,4 [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,4- [D,4-A,4-] |
+[D,4A,4] [C,4-E,4-] |
+[C,4E,4-] E,4- |
+E,4 D,4- |
+D,4- [D,4-F,4-] |
+[D,4F,4] [E,4-G,4-] |
+[E,4G,4] D,4- |
+D,8- |
+D,8 |
+D,4- [D,4-G,4-] |
+[D,8-G,8-] |
+[D,4-G,4] [D,3/2^F,3/2-] [D,5/2-F,5/2-] |
+[D,4-^F,4] D,4- |
+D,4- [D,4G,4-] |
+[D,8-G,8-] |
+[D,4-G,4] [D,4-^F,4-] |
+[D,4-^F,4] D,3/2 D,5/2- |
+D,4- [D,4-F,4] |
+[D,4-E,4] D,4 |
+D,8- |
+D,8- |
+D,4- [D,3/2F,3/2-] [D,5/2-F,5/2] |
+[D,4-E,4] D,4- |
+D,8- |
+D,4 |]
+
+
+X: 8
+T: Mummer's Dance (3:24) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+%%user-pan auto
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ffff+ z4 |
+z8 |
+z4 ^C,3 C, |
+z2 C D ^C,3 C, |
+G,4 D3 D |
+z2 C D ^C,3 D |
+F, F, G, A, ^C,3 C, |
+z2 C D ^C,3 C, |
+z2 A, z ^C,3 D |
+z2 C D D3 D |
+z4 ^C,3 C, |
+z2 C D ^C,3 C, |
+G,4 D3 D |
+z2 C D ^C,3 D |
+F, F, G, A, ^C,3 C, |
+z2 C D ^C,3 C, |
+z2 A, z ^C,3 D |
+z2 C D ^C,3 C, |
+z4 ^C,3 C, |
+z2 C D ^C,3 C, |
+G,4 D3 D |
+z2 C D ^C,3 D |
+F, F, G, A, ^C,3 C, |
+z2 C D ^C,3 C, |
+z2 A, z ^C,2 z2 |
+z8 |
+z4 ^C,4 |
+^C,4 C,3 C,- |
+^C, C,2 A, G,2 G,2- |
+G,4 ^C,4 |
+^C,4 C,2 C,2- |
+^C, C, C,2 C,4 |
+^C,4 G,4 |
+G,2 G, A, ^C, C,2 C,- |
+^C,3 C,4 C, |
+z4 ^C,3 C,- |
+^C, z3 C,3 C,- |
+^C, z G, A, C, C,2 C,- |
+^C, z3 C,3 C, |
+z2 C D ^C,3 C, |
+z4 ^C,3 C, |
+z2 C D ^C,3 C, |
+z4 ^C,3 C, |
+z2 C D ^C,3 C, |
+z2 A, C ^C,3 C, |
+z2 C D ^C,3 C, |
+z4 ^C,3 C, |
+z2 C D ^C,3 C, |
+G,4 D3 D |
+z2 C D ^C,3 D |
+F, F, G, A, ^C,3 C, |
+z2 C D ^C,3 C, |
+z2 A, z ^C,2 z2 |
+z8 |
+z4 ^C,4 |
+^C,2 C,2 C,3 C,- |
+^C, C,2 A, G,2 G,2- |
+G,4 ^C,4 |
+^C,4 C,2 C,2- |
+^C, C, C,2 C,4 |
+^C,4 G,4 |
+G,2 G, A, ^C, C,2 C,- |
+^C,3 C,4 C, |
+z4 ^C,3 C,- |
+^C, z3 C,3 C,- |
+^C, z G, A, C, C,2 C,- |
+^C, z3 C,3 C, |
+z4 ^C,3 C,- |
+^C, z3 C,3 C,- |
+^C, z3 C, C,2 C,- |
+^C, z3 C,3 C, |
+z2 C D ^C,3 C, |
+G,4 D3 D |
+z2 C D ^C,3 D |
+F, F, G, A, ^C,3 C, |
+z2 C D ^C,3 C, |
+z2 F, A, ^C,3 C, |
+z2 C D ^C,3 C, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 ^C,4 |
+^C,4 C,4 |
+^C,4 z4 |
+z4 ^C,4 |
+^C,4 C,4 |
+^C,4 C,4 |
+^C,4 z4 |
+z4 ^C, C,2 C,- |
+^C,3 C,4 C, |
+z4 ^C,3 C,- |
+^C, z3 C,3 C,- |
+^C, z3 C, C,2 C,- |
+^C, z3 C,3 C, |
+z4 ^C,3 C, |
+z8 |
+z8 |
+z4 |]
+

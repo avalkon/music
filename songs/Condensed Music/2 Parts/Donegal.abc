@@ -1,0 +1,42 @@
+N: TS  2,   3   8
+X: 3
+%%Orig filename was DonegalClarFluteHorn.abc
+T:The Donegal Jig part 1 (1:23)
+%%part-name Basic Horn
+C:Arranged by Meldowen
+Q:1/4=150
+M:3/4
+L:1/8
+K:C
+z4 z [B,/B/][C/c/] |[dD][^c^C] [Dd] [B2b2] [^f^F] |[aA][gG] [^F^f][Gg] [eE][Dd] |[B,B][cC] [Dd][eE] [Dd][BB,] |[C3c3] [C2c2] [B,/B/][B,/B/] |[A,A][B,B] [A,A][DD,] [^F,^F][A,A] |[^F^f][gG] [Ff] [F2f2] [e/E/][E/e/] |
+[dD][^C^c] [Dd][Ee] [Dd][=c=C] |[B3B,3] [B,2B2] [B,/B/][C/c/] |[Dd][^C^c] [Dd] [B2b2] [^F^f] |[Aa][Gg] [^F^f][Gg] [Ff][Ee] |[B,B][Cc] [Dd][Ee] [Dd][B,B] |[c3C3] [C2c2] [B,/B/][B,/B/] |[A,A][B,B] [A,A] [^F2^f2] [Ee] |
+[Dd][^C^c] [Dd] [G2g2] [Ee] |[Dd][Ee] [Dd][Cc] [B,B][A,A] |[G3G,3] [G,2G2] [B/B,/][c/C/] |[Dd][^C^c] [Dd] [B2b2] [^F^f] |[Aa][Gg] [^F^f][Gg] [Ee][Dd] |[B,B][Cc] [Dd][Ee] [Dd][B,B] |[C3c3] [C2c2] [B,/B/][B,/B/] |
+[A,A][B,B] [A,A][D,D] [^F,^F][A,A] |[^F^f][Gg] [Ff] [F2f2] [E/e/][E/e/] |[Dd][^C^c] [Dd][Ee] [Dd][=C=c] |[B,3B3] [B2B,2] [B,/B/][C/c/] |[Dd][^C^c] [Dd] [B2b2] [^F^f] |[Aa][Gg] [^F^f][Gg] [Ff][Ee] |[B,B][Cc] [Dd][Ee] [Dd][B,B] |
+[C3c3] [C2c2] [B,/B/][B,/B/] |[A,A][B,B] [A,A] [^F2^f2] [Ee] |[Dd][^C^c] [Dd] [G2g2] [Ee] |[Dd][Ee] [Dd][Cc] [B,B][A,A] |[G,3G3] [G,2G2] [D,D] |[G,G][B,B] [Dd][Ee] [Dd][B,B] |[D4d4] z [D,D] |[G,G][B,B] [Dd][Ee] [Dd][B,B] |
+[C3c3] [C2c2] [B,/B/][B,/B/] |[A,A][B,B] [A,A][D,D] [^F,^F][A,A] |[^F^f][Gg] [Ff] [F2f2] [E/e/][E/e/] |[Dd][^C^c] [Dd][Ee] [Dd][=C=c] |[B,3B3] [B,2B2] [D,D] |[G,G][B,B] [Dd][Ee] [Dd][B,B] |[D4d4] z [D,D] |
+[G,G][B,B] [Dd][Ee] [Dd][B,B] |[C4c4] z [B,/B/][B,/B/] |[A,A][B,B] [A,A] [^F2^f2] [Ee] |[Dd][^C^c] [Dd] [G2g2] [Ee] |[Dd][Ee] [Dd][Cc] [B,B][A,A] |[G,3G3] [G,2G2] [D,D] |[G,G][B,B] [Dd][Ee] [Dd][B,B] |
+[D4d4] z [D,D] |[GG,][B,B] [Dd][Ee] [Dd][B,B] |[C3c3] [C2c2] [B,/B/][B,/B/] |[A,A][B,B] [A,A][D,D] [^F,^F][A,A] |[^F^f][Gg] [Ff] [F2f2] [E/e/][E/e/] |[Dd][^C^c] [Dd][Ee] [Dd][=C=c] |[B,3B3] [B,2B2] [D,D] |
+[G,G][B,B] [Dd][Ee] [Dd][B,B] |[D4d4] z [D,D] |[G,G][B,B] [Dd][Ee] [Dd][B,B] |[C4c4] z [B,/B/][B,/B/] |[A,A][B,B] [A,A] [^F2^f2] [Ee] |[Dd][^C^c] [Dd] [G2g2] [Ee] |[Dd][Ee] [Dd][Cc] [B,B][A,A] |[G,3G3] [G,2G2] [B,/B/][B,/B/] |
+[A,A][B,B] [A,A] [^F2^f2] [E/e/][E/e/] |[Dd][^C^c] [Dd] [G2B2g2] [EGe] |[D^Fd][EGe] [DFd][CEc] [B,DB][A,CA] |[G,3B,3G3] [G,3B,3G3] |]
+     %End of file
+
+X: 8
+%%Orig filename was DonegalLute.abc
+T:The Donegal Jig part 2 (1:26)
+%%part-name Basic Lute
+C:Arranged by Meldowen
+Q:1/4=150
+M:3/4
+L:1/8
+K:C
+z6 |[zG,3] G [GB] [zD3] G[GB] |[G,3z] G B [zD3] GB |[G,3z] G [GB] [zD3] G[GB] |[zA,3] A [cA] [zD3] A[Ac] |[A,3z] c [Ad] [zD3] c[dA] |[A,3z] c [Ad] [zD3] c[Ad] |[zA,3] c [dA] [zD3] c[Ad] |[G,3z] G [GB] [zD3] G[BG] |
+[G,3z] G [GB] [zD3] G[BG] |[zG,3] G [BG] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[BG] |[zA,3] A [cA] [zD3] A[cA] |[zA,3] B [Ac] [zD3] ^F[AF] |[zG,3] B [dB] [zE3] B[Bd] |[zA,3] c [dA] [zD3] B[Ad] |[zG,2] G [BG] [zG,2] G[GB] |
+[G,3z] G [BG] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zA,3] A [Ac] [zD3] A[Ac] |[zA,3] c [Ad] [zD3] c[Ad] |[zA,3] c [Ad] [zD3] c[Ad] |[zA,3] c [Ad] [zD3] c[Ad] |[zG,3] G [GB] [zD3] G[GB] |
+[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [D3z] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zA,3] A [Ac] [zD3] A[Ac] |[zA,3] B [Ac] [zD3] ^F[FA] |[zG,3] B [Bd] [zE3] B[Bd] |[zA,3] c [Ad] [zD3] B[Ad] |[zG,3] G [GB] [zG,3] G[GB] |
+[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zA,3] A [Ac] [zD3] A[Ac] |[zA,3] c [Ad] [zD3] c[Ad] |[zA,3] c [Ad] [zD3] c[Ad] |[zA,3] c [Ad] [zD3] c[Ad] |[zG,3] G [GB] [zD3] G[GB] |
+[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zA,3] A [Ac] [zD3] A[Ac] |[zA,3] B [Ac] [zD3] ^F[FA] |[zG,3] B [Bd] [zE3] B[Bd] |[zA,3] c [Bd] [zD3] B[Bd] |[zG,3] G [GB] [zG,3] G[GB] |
+[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zA,3] A [Ac] [zD3] A[Ac] |[zA,3] c [Ad] [zD3] c[Ad] |[zA,3] c [Ad] [zD3] c[Ad] |[zA,3] c [Ad] [zD3] c[Ad] |[zG,3] G [GB] [zD3] G[GB] |
+[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zG,3] G [GB] [zD3] G[GB] |[zA,3] A [Ac] [zD3] A[Ac] |[zA,3] B [Ac] [zD3] ^F[FA] |[zG,3] B [Bd] [zE3] B[Bd] |[zA,3] c [Ad] [zD3] B[Ad] |[zG,3] G [GB] [zD3] GB |
+[zA,3] B [Ac] [zD3] ^F[FA] |[zG,3] B [Bd] [zE3] B[Bd] |[zA,3] c [Ad] [zD3] B[Ad] |[zG,3] G [GB] [D3B3d3g3] |]
+     %End of file
+

@@ -1,0 +1,74 @@
+N: TS  3,   1   5   8
+X: 1
+%%Orig filename was FinalFantasyVIIInterruptedbyFireworks__Flute1.abc
+T:Final Fantasy 7 Interrupted by Fireworks (Basic Flute) 2:36 (2:35)
+%%part-name Basic Flute
+Z:Transcribed by Esrah of Elendilmir      
+N:Nobuo Uematsu   
+Q:1/4=87     
+M:4/4    
+L:1/8    
+K:C
+z8 |z8 |z8 |z2 ^F G2 F FE |
+^F G3 z4 |z8 |z3 ^F2 E DE |^F4 z4 |z8 |
+z6 AG |B E6 z |z8 |E4 G2 ^F2- |^F4 z4 |
+z8 |z6 [B2-C,2-] |[BC,8-] C4 G3-|[GC,2] C [B4A,6-] C2 |[A4A,6] GA [B2-G,2-] |
+[B8-G,8-] |[B2G,8-] z6 |[G,6] [D2-D,2-] |[D,4D4] [E4^C4-] |[^F2^C2] [B,4C6-] A2 |
+[^G,4C6] A,2 [D2-B,2-] |[D4B,8-] G,4-|[B,2G,8] _B,6- |_B,6 ^F,2- |^F,4 z4 |
+z8 |z2 ^F G2 F FE |^F G3 z4 |z8 |z3 ^F2 E DE |
+^F4 z4 |z8 |z6 AG |B E6 z |z8 |
+E4 G2 ^F2- |^F4 z4 |z8 |z6 [B2-C,2-] |[BC,8-] C4 G3-|[GC,2] C [B4A,6-] C2 |[A4A,6] GA [B2-G,2-] |
+[B8-G,8-] |[B2G,8-] z6 |[G,6] [D2-D,2-] |[D,4D4] [E4^C4-] |[^F2^C2] [B,4^C6-] A2 |[^G,4^C6] A,2 [D2-B,2-] |
+[D4B,8-] G,4-|[B,2G,8] _B,6- |_B,6 ^F,2- |^F,4 z4 |]
+     %End of file
+
+X: 5
+%%Orig filename was FinalFantasyVIIInterruptedbyFireworks__Harp2.abc
+T:Final Fantasy 7 Interrupted by Fireworks (Basic Harp) 2:36 (2:35)
+%%part-name Basic Harp
+Z:Transcribed by Esrah of Elendilmir      
+N:Nobuo Uematsu     
+Q:1/4=87
+M:4/4
+L:1/8
+K:C
++ff+
+z8 |z8 |z8 |z8 |
+z8 |z8 |z6 [d^F][A^f] |[d^F][^fA] [dF][fA] [Fd][fA] [Fd][fA] |[d^F][A^f] [dF][Af] [Fd][Af] [dF][fA] |
+[d^F][A^f] [dF][fA] [Fd][fA] [Ec][eG] |[Ec][Ge] [cE][Ge] [Ec][Ge] [cE][Ge] |[Ec][eG] [Ec][Ge] [Ec][Ge] [Ec][Ge] |[Ec][Ge] [cE][Ge] [cE][Ge] [^Fd][B^f] |[d^F][B^f] [bf][Bf] [fb][df] [fb][fd] |
+[^fB][^Fd] [fb][df] [Bd][DB] [Bg][Bf] |[^FB][DF] [B,D][^F,B,] [FB][B,D] [E2G2c2] |[E8G8c8] |[E2G2c2] [A4c4g4] z [Ace] |[E4A4d4] [z2E4A4c4] [GB][Bd] |
+[dg][gb] [^fa][dg] [df][dg] [ce][dg] |[Bd][dg] [A4^c4] z [Ae] |[B2d2] [G4B4] [A2-d2-^f2-] |[A4d4^f4] [A4^c4e4] |[A^c^f] [=c4e4b4] [c3-e3-a3-]|
+[cea][ce^g] [c4e4a4] [d2-=g2-D2-] |[d4g4D4] [B4-d4-g4-] |[B2d2g2] [z2_B6d6-g6-] [G4B4] |[zG_B4d4g4] [G2c2] [G4_B4] [A,-D-^F-] |[A,4D4^F4] z4 |
+z8 |z8 |z8 |z8 |z6 [^Fd][A^f] |
+[^Fd][A^f] [Fd][Af] [Fd][Af] [Fd][Af] |[^Fd][A^f] [Fd][Af] [Fd][Af] [Fd][Af] |[^Fd][A^f] [Fd][Af] [Fd][Af] [Ec][Ge] |[Ec][Ge] [Ec][Ge] [Ec][Ge] [Ec][Ge] |[Ec][Ge] [Ec][Ge] [Ec][Ge] [Ec][Ge] |
+[Ec][Ge] [Ec][Ge] [Ec][Ge] [^Fd][B^f] |[^Fd][B^f] [fb][Bf] [fb][df] [fb][fd] |
+[B^f][^Fd] [fb][df] [Bd][DB] [Bg][Bf] |[^FB][DF] [B,D][^F,B,] [FB][B,D] [E2G2c2] |[E8G8c8] |
+[E2G2c2] [A4c4g4] z [Ace] |[E4A4d4] [z2E4A4c4] [GB][Bd] |[dg][gb] [^fa][dg] [df][dg] [ce][dg] |[Bd][dg] [A4^c4] z [Ae] |[B2d2] [G4B4] [A2-d2-^f2-] |
+[A4d4^f4] [A2^c2e2] [A2c2^f2] |z2 [c4e4b4] [c2e2a2] |[c4e4^g4] [z2c4e4a4] [d2-=g2-D2-] |[d4g4D4] [d4-g4-B4-] |[d2g2B2] [z2_B6d6-g6-] [G4B4] |
+[G4c4_B4d4g4] [z2G4_B4] [A,2-D2-^F2-] |[A,4D4^F4] z4 |]
+     %End of file
+
+X: 8
+%%Orig filename was FinalFantasyVIIInterruptedbyFireworks__Lute3.abc
+T:Final Fantasy 7 Interrupted by Fireworks (Basic Lute) 2:36 (2:40)
+%%part-name Basic Lute
+Z:Transcribed by Esrah of Elendilmir      
+N:Nobuo Uematsu       
+Q:1/4=87     
+M:4/4    
+L:1/8     
+K:C
+z6 DA |de dA [BG]d [A^F2]d |[EG]d [^FD6]A de dA |DA de dA CG |
+cd cG CG cd |cG CG cd cG |CG cd cG DA |de dA DA de |dA DA de dA |
+DA de dA CG |cd cG CG cd |cG CG cd cG |CG cd cG B,^F |B^c B^F B,F Bc |
+B^F B,F B^c BF |B,^F B^c BF CG |cd cG CG cd |cG A,E AB AE |A,E AB AE G,D |
+GA GD G,D GA |GD G,D GA GD |G,D GA GD DA |d^f dA ^CA ^ce |^cA CA =ce cA |
+CA ce cA B,G |Bd BG B,G Bd |BG _B,G _Bd BG |_B,G _Bd BG DA |de dA [GB]d [A^F2] d |
+[EG]d [^FD6] A de dA |DA de dA CG |cd cG CG cd |cG CG cd cG |CG cd cG DA |
+de dA DA de |dA DA de dA |DA de dA CG |cd cG CG cd |cG CG cd cG |
+CG cd cG B,^F |B^c B^F B,F Bc |B^F B,F B^c BF |B,^F B^c BF CG |cd cG CG cd |
+cG A,E AB AE |A,E AB AE G,D |GA GD G,D GA |GD G,D GA GD |G,D GA GD DA |
+d^f dA ^CA ^ce |^cA CA =ce cA |CA ce cA B,G |Bd BG B,G Bd |BG _B,G _Bd BG |
+_B,G _Bd BG DA |de dA [GB]d [A^F2] d |[EG]d [^FD6] A de dA |D z7 |]
+     %End of file
+

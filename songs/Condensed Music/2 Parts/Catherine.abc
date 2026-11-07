@@ -1,0 +1,145 @@
+N: TS  2,   9   6
+X: 9
+%%Orig filename was CatherineAges.abc
+T: CatherineHowardsFate (1:49) - Lute of Ages
+%%part-name Lute of Ages
+C: Blackmores Night
+Z: Omali
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+[D4A4d4f4] [C4G4c4e4] |
+% Bar 10 (0:18)
+[G4B4d4g4] [C4G4c4e4] |
+[F4A4c4f4] [E4^G4B4e4] |
+[A,4E4A4] [E4^G4B4e4] |
+A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
+% Bar 20 (0:38)
++mp+ ^G, A, B, G, A,4 |
+D//- [D//-A//-d//-] [D7/2A7/2d7/2f7/2] C//- [C//-G//-c//-] [C7/2G7/2c7/2e7/2] |
+G//- [G//-B//-d//-] [G7/2B7/2d7/2g7/2] C//- [C//-G//-c//-] [C7/2G7/2c7/2e7/2] |
+F//- [F//-A//-c//-] [F7/2A7/2c7/2f7/2] E//- [E//-^G//-B//-] [E7/2G7/2B7/2e7/2] |
+A,//- [A,15/4E15/4A15/4] E//- [E//-^G//-B//-] [E7/2G7/2B7/2e7/2] |
+A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+A, B, C D E2 A,2 |
+% Bar 30 (0:58)
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+e d c B c B// +p+ c/ B// +mp+ A2 |
+f e// +p+ f/ e// +mp+ d c d4 |
+d c B A B2 G2 |
+^g a b b/ +p+ c'/ b4 |
++mp+ ^g a b b/ +p+ c'/ b4 |
++mp+ A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+% Bar 40 (1:18)
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G, A,4 |
+D//- [D//-A//-d//-] [D7/2A7/2d7/2f7/2] C//- [C//-G//-c//-] [C7/2G7/2c7/2e7/2] |
+G//- [G//-B//-d//-] [G7/2B7/2d7/2g7/2] C//- [C//-G//-c//-] [C7/2G7/2c7/2e7/2] |
+F//- [F//-A//-c//-] [F7/2A7/2c7/2f7/2] E//- [E//-^G//-B//-] [E7/2G7/2B7/2e7/2] |
+A,//- [A,15/4E15/4A15/4] E//- [E//-^G//-B//-] [E7/2G7/2B7/2e7/2] |
+% Bar 50 (1:38)
+A, B, C D E2 A,2 |
+F2 E// +p+ F/ E// +mp+ D E4 |
+F2 E// +p+ F/ E// +mp+ D C2 B,/ +p+ C/ A, |
++mp+ ^G, A, B, G,- G, A,- A,2- |
+A,8- |
+A,8 |
+z8 |]
+
+X: 6
+%%Orig filename was CatherineMisty.abc
+T: CatherineHowardsFate (1:49) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: Blackmores Night
+Z: Omali
+M: 4/4
+Q: 120
+K: C maj
+
++f+ [A,A] B c d [A,2e2] A2 |
+[D2f2] e// +mp+ f/ e// +f+ d [A,2e2] A2 |
+[D2f2] e// +mp+ f/ e// +f+ d [A,2c2] c/ +mp+ B/ +f+ A |
+[A,^G] A B G [A,4A4] |
+[A,A] B c d [A,2e2] A2 |
+[D2f2] e// +mp+ f/ e// +f+ d [A,2e2] A2 |
+[D2f2] e// +mp+ f/ e// +f+ d [A,2c2] c/ +mp+ B/ +f+ A |
+[A,^G] A B G [A,4A4] |
+F E D F E2 C2 |
+% Bar 10 (0:18)
+D E F G E2 C2 |
+[F,A] B c d [E,2B2] E2 |
+[A,A] B [Cc] d [E,4e4] |
+[A,A] B c d [A,4A4c4] |
+[D4A4d4] [A,4A4c4] |
+[D4A4d4] [F,4A4c4] |
+[E,2^G2] B2 [A,4A4] |
+[A,A] B c d [A,4A4c4] |
+[D4A4d4] [A,4A4c4] |
+[D4A4d4] [F,4A4c4] |
+% Bar 20 (0:38)
+[E,2^G2] B2 [A,4A4] |
+F E D F E2 C2 |
+[G,D] E F G E2 C2 |
+[F,A] B c d [E,2e2] E2 |
+[A,A] B [G,c] d [E,4e4] |
+[A,A] B c d [A,2e2] A2 |
+[D2f2] e d [A,2e2] A2 |
+[D2f2] e d [A,2c2] B A |
+^G A B G [A,4A4] |
+[A,A] B c d [A,2e2] A2 |
+% Bar 30 (0:58)
+[D2f2] e d [A,2e2] A2 |
+[D2f2] e d [A,2c2] B A |
+^G A B G [A,4A4] |
+[A,-e] [A,d] c B c B// +mp+ c/ B// +f+ A2 |
+[D-a] [D//g//] +mp+ a/ g// +f+ f e f4 |
+[G,-d] [G,c] B A B2 G2 |
+[A,-^G] +mp+ [A,A] +f+ B B/ +mp+ c/ B4 |
++f+ [A,-^G] +mp+ [A,A] +f+ B B/ +mp+ c/ B4 |
++f+ [A,A] B c d [A,4A4c4] |
+D//- [D15/4A15/4d15/4] A,//- [A,15/4A15/4c15/4] |
+% Bar 40 (1:18)
+D//- [D15/4A15/4d15/4] F,//- [F,15/4A15/4c15/4] |
+[E,^G] A B G [A,4A4] |
+[A,A] B c d [A,4A4c4] |
+D//- [D15/4A15/4d15/4] A,//- [A,15/4A15/4c15/4] |
+D//- [D15/4A15/4d15/4] F,//- [F,15/4A15/4c15/4] |
+[E,^G] A B G [A,4A4] |
+F E D F E2 C2 |
+[G,D] E F G E2 C2 |
+[F,A] B c d [E,2B2] E2 |
+[A,A] B [Cc] d [E,4e4] |
+% Bar 50 (1:38)
+[A,A] B c d [A,2e2] A2 |
+[D2f2] e d [A,2e2] A2 |
+[D2f2] e d [A,2c2] B A |
+[E,^G] A B G- G [A,a] b c' |
+b a g f e// +mp+ f/ e// +f+ d c2 |
+B2 [A,2-A2-] [A,4A4] |
+z8 |]
+

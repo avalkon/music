@@ -1,0 +1,96 @@
+N: TS  4,   3   1   4  18
+X: 3
+%%Orig filename was xDeckHallsClar.abc
+T: Deck the Hall (2/4:Clarinet[Alto]) (1:27)
+%%part-name Basic Clarinet
+C:Hymn tune
+N: Adapted and Arranged in ABC format for LotRO by Dolory,Elendilmir server(US)
+M: 4/4
+L: 1/8
+Q:1/4=144
+K:A
+A3A A2 G2|F2 G2 A2 E2|AA AA A3B|Az Gz A3z|
+A3A A2 G2|F2 G2 A2 E2|GA BG A3F|Ez Ez E4|
+A3A A2 G2|F2 G2 A2 E2|GA BG A3F|Ez Ez E4|
+G3A B2 G2|A3A A2 B2|A2 A2 c2 c2|Bz Az G4|
+A3A A2 G2|F2 G2 A2 E2|AA AA A3B|Az Gz A4|
+A3A A2 G2|F2 G2 A2 E2|GA BG A3F|Ez Ez E4|
+A3A A2 G2|F2 G2 A2 E2|GA BG A3F|Ez Ez E4|
+G3A B2 G2|A3A A2 B2|A2 A2 c2 c2|Bz Az G4|
+A3A A2 G2|F2 G2 A2 E2|AA AA A3B|Az Gz A4|
+A3A A2 G2|F2 G2 A2 E2|GA BG A3F|Ez Ez E4|
+A3A A2 G2|F2 G2 A2 E2|GA BG A3F|Ez Ez E4|
+G3A B2 G2|A3A A2 B2|A2 A2 c2 c2|Bz Az G4|
+A3A A2 G2|F2 G2 A2 E2|AA AA A3B|Az Gz A4|
+
+X: 1
+%%Orig filename was xDeckHallsFlute.abc
+T: Deck the Hall (1/4:Flute[Soprano]) (1:27)
+%%part-name Basic Flute
+C:Hymn tune
+N: Adapted and Arranged in ABC format for LotRO by Dolory,Elendilmir server(US)
+M: 4/4
+L: 1/8
+Q:1/4=144
+K:A
+e3d c2 B2|A2 B2 c2 A2|ff ff e3d|cz Bz A3z|
+e3d c2 B2|A2 B2 c2 A2|Bc dB c3B|Az Gz A4|
+e3d c2 B2|A2 B2 c2 A2|Bc dB c3B|Az Gz A4|
+B3c d2 B2|c3d e2 B2|cd e2 fg a2|gz fz e4|
+e3d c2 B2|A2 B2 c2 A2|ff ff e3d|cz Bz A4|
+e3d c2 B2|A2 B2 c2 A2|Bc dB c3B|Az Gz A4|
+e3d c2 B2|A2 B2 c2 A2|Bc dB c3B|Az Gz A4|
+B3c d2 B2|c3d e2 B2|cd e2 fg a2|gz fz e4|
+e3d c2 B2|A2 B2 c2 A2|ff ff e3d|cz Bz A4|
+e3d c2 B2|A2 B2 c2 A2|Bc dB c3B|Az Gz A4|
+e3d c2 B2|A2 B2 c2 A2|Bc dB c3B|Az Gz A4|
+B3c d2 B2|c3d e2 B2|cd e2 fg a2|gz fz e4|
+e3d c2 B2|A2 B2 c2 A2|ff ff e3d|cz Bz A4|
+
+X: 4
+%%Orig filename was xDeckHallsHorn.abc
+T: Deck the Hall (4/4:Horn[Bass]) (1:27)
+C:Hymn tune
+N: Adapted and Arranged in ABC format for LotRO by Dolory,Elendilmir server(US)
+M: 4/4
+L: 1/8
+Q:1/4=144
+K:A
+A,3A, A,2 E,2|F,2 E,2 A,4|D4 C3D|Ez E,z A,3z|
+A,3A, A,2 E,2|F,2 E,2 A,4|E,4 A,3D,|E,z E,z A,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|E,4 A,3D,|E,z E,z A,4|
+E,4 E,4|A,4 A,2 G,2|A,B, C2 A,G, F,2|B,z B,z E,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|D,4 C,3D,|E,z E,z A,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|E,4 A,3D,|E,z E,z A,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|E,4 A,3D,|E,z E,z A,4|
+E,4 E,4|A,4 A,2 G,2|A,B, C2 A,G, F,2|B,z B,z E,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|D,4 C,3D,|E,z E,z A,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|E,4 A,3D,|E,z E,z A,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|E,4 A,3D,|E,z E,z A,4|
+E,4 E,4|A,4 A,2 G,2|A,B, C2 A,G, F,2|B,z B,z E,4|
+A,3A, A,2 E,2|F,2 E,2 A,4|D,4 C,3D,|E,z E,z A,4|
+
+X: 18
+%%Orig filename was xDeckHallsPipes.abc
+T: Deck the Hall (3/4:Bagpipe[Tenor]) (1:27)
+%%part-name Basic Bagpipe
+C:Hymn tune
+N: Adapted and Arranged in ABC format for LotRO by Dolory,Elendilmir server(US)
+M: 4/4
+L: 1/8
+Q:1/4=144
+K:A
+C3F E2 D2|C2 E2 E2 C2|D2 D2 E3F|Ez Dz C3z|
+C3F E2 D2|C2 E2 E2 C2|E2 E2 E3D|Cz B,z C4|
+C3F E2 D2|C2 E2 E2 C2|E2 E2 E3D|Cz B,z C4|
+E3E E2 E2|E3B, C2 E2|E2 E2 F2 F2|Ez ^Dz E4|
+C3F E2 =D2|C2 E2 E2 C2|D2 D2 E3F|Ez Dz C4|
+C3F E2 D2|C2 E2 E2 C2|E2 E2 E3D|Cz B,z C4|
+C3F E2 D2|C2 E2 E2 C2|E2 E2 E3D|Cz B,z C4|
+E3E E2 E2|E3B, C2 E2|E2 E2 F2 F2|Ez ^Dz E4|
+C3F E2 =D2|C2 E2 E2 C2|D2 D2 E3F|Ez Dz C4|
+C3F E2 D2|C2 E2 E2 C2|E2 E2 E3D|Cz B,z C4|
+C3F E2 D2|C2 E2 E2 C2|E2 E2 E3D|Cz B,z C4|
+E3E E2 E2|E3B, C2 E2|E2 E2 F2 F2|Ez ^Dz E4|
+C3F E2 =D2|C2 E2 E2 C2|D2 D2 E3F|Ez Dz C4|
+

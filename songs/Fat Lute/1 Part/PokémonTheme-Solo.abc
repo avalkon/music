@@ -1,0 +1,28 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was PokémonTheme-Solo.abc
+T:Pok?mon Theme (2:10)
+C:Billy Crawford
+Z:LD
+M:4/4
+L:1/8
+Q:1/4=144
+%%part-name Unknown Instrument
+K:C
+[G,8G8_B8D8g8]|z4 z DF[G,G]|z d dd d d2 d|cc AF z FD[G,D]|
+d2 dd c_B c2|[FAc][FAc] [FAc][FAc] [FAc][CFAc] [FAc][_EFAc]|[_EG_B_e]_e _e_e _e3 _e|[_B_B,d]d cc _B3 _B|[_B,2_B2d2] d [C2c2] _B [D2d2]|
+[GAd][GAd] [GAd][GAd] [GAd][DGAd] [FGAd][G,G_Bd]|[G_Bd]d dd d3 d|c2 AF z  FD[G,E]|d2 dd c _B c2|[FAc][FAc] [FAc][FAc] [FAc][CFAc] [FAc][_EFAc]|
+[_EG_B_e]e ee e3 e|[_B,_Bd2] cc _B3 _B|[_B,2_B2d2] d[Ccd] c_B [D2d2]|[GAd][GAd] [GAd][GAd] [GAd]d fg|[_E2_e2] d[_E_ed] [_E_ef] [_E2_e2g2] g|
+[_B,_Bf] f2 [_B,_Bc] [_B,_B][_B,3_B3]|[_E3_e3] [_E_eg] [_E_eg][_E_ea] _b a|[Ff]g2 [Ffg] [Ff][Ffd] fg|[G,2G2]g [G,G][G,G][G,G] gg|[A,Af]f d[A,Ac] [A,A_B][A,A] _Bc|
+[_B,2_B2d2] d[Ccd] c_B [D2d2]|z [G3A3d3] [^FAd]d f[_E_eg]|z2 d[_E_ed] [_E_ef] [_E2_e2g2] g|[F,Ff]f2 [F,Fg][F,F] [F,3F3f3]|[G,3G3] [G,Gg][G,Gg][G,Ga]_ba|
+[A,A] g2 [A,Ag][A,Af][A,2A2] _e|[Cc]_b2 [Cc_b][Cc][C2c2_b2]f|[D_Bd] _b2 [Dd_b][Dd][D3d3]|[_B,3_B3d3f3_b3] [C3c3_e3_b3] [Ddc^f_b]a|z2 dd fg2 g|
+[_E2_e2] d[Ffd] f g2 _b|[G,2G2g2] [D2G2_B2][D3F3A3] G,|[D3G3_B3][D2F2A2][D2F2A2] G,|G, G, [D2G2_B2][D3F3A3] G,|[D3G3_B3][D2F2A2][D,DFA][F,DFA][G,G]|
+z2 [D2G2_B2][D3F3A3] G,|[D3G3_B3][D2F2A2][D3F3A3] G,|G, G, [D2G2_B2][D3F3A3] G,-|G,8|[A,2A2] [E2A2c2][E3G3B3] A,|
+[E3A3c3][E2G2B2][E3G3B3] A,|A, A, [E2A2c2][E3G3B3] A,|[E3A3c3][E2G2B2][E,EGB][G,EGB][A,A]|z2 [E2A2c2][E3G3B3] A,|[E3A3c3][E2G2B2][E3G3B3] A,|
+[_E3G3_B3_e3] [F6A5c5f5]|[G,8G8g8]|AF G D2 FD[G,D]|z5 c2 c|_BG3 _Bc/2d/2|
+[_E2_e2] _e3 fed|[_B,_B]_B2 F3 z2|[_B,_B]fd/2e/2[Ccf]e/2f/2[C3c3e3]|[_B,_B]de[Ccf]c[C/2c/2e/2]f/2g/2f/2[D/2d/2g/2]a/2|[Dd][Dd][Dd][Dd][Dd][Dd][Dd][Dd]|
+[D4d4] z df[_E_eg]|z2 d[_E_ed][_E_ef][_E2_e2g2]g|[_B,_Bf]f2 [_B,_Bc][_B,_B][_B,3_B3]|[_E3_e3][_E_eg][_E_eg][_E_ea]_ba|[Ff]g2 [Ffg][Ff][Ffd]fg|
+[G,2G2]g[G,G][G,G][G,G]gg|[A,A_b]gg[A,Ag][A,A][A,A]_Bc|[_B,2_B2d2] d[Ccd]c_B[Dd2]|z [G3A3d3] [^FAd]df[_E3_e3g3]|d[_E_ed][_E_ef][_E2_e2g2] g|
+[F,Ff]f2 [F,Fg][F,F] [F,3F3f3]|[G,3G3][G,Gg][G,Gg][G,Ga]_ba|[A,A]g2 [A,Ag][A,Af][A,2A2]_e|[Cc]_b2 [Cc_b][Cc][C2c2_b2]f|[D_Bd]_b2 [Dd_b][Dd][D3d3]|
+[_B,3_B3d3f3_b3][C3c3_e3_b3][Dcd^f_b]a|z2 ddfg2 g|[_E2_e2]d[Ffd]fg2_b|g2 [G,Gd][G,Gf][G,2G2g2] z2 |
+

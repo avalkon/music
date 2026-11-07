@@ -1,0 +1,37 @@
+N: TS  2,   3   8
+X: 3
+%%Orig filename was MyLoveHasVowed__Clar1.abc
+T:my love hath vowed thomas campion (0:36) Basic Clarinet
+%%part-name Basic Clarinet
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:my love hath vowed thomas campion.mid
+%  Transpose:0
+L:1/4
+Q:108
+K:C
++p+
+e2 g ^f e ^f/2 g/2 a/2 g/2 ^f/2 e/2 d B e ^f g a/2 g/2 ^f3/2 e/2 e4 e2
+g ^f e ^f/2 g/2 a/2 g/2 ^f/2 e/2 d B e ^f g a/2 g/2 ^f3/2 e/2 e4 g a
+b a/2 g/2 a g ^f ^d g a b a/2 g/2 a a b2 b/2 a/2 g/2 ^f/2 e g ^f2 e2
+
+X: 8
+%%Orig filename was MyLoveHasVowed__Lute2.abc
+T:my love hath vowed thomas campion (0:36) strings
+%%part-name Basic Lute
+Z:Transcribed by LotRO MIDI Player:http://lotro.acasylum.com/midi
+%  Original file:my love hath vowed thomas campion.mid
+%  Transpose:0
+L:1/4
+Q:108
+K:C
+[E,2E2G2B2] [BGE,] [Dd/2A/2] c/2 [GB/2] c/4 d/4 [^F/2e] E/2 [D^f/2d/2]
+e/2 [E,eG] [^fBB,] [eGE] [gEz/2] B/2 [^fDz/2] [Az/2] [Ce19/8z/2] G/2
+[A,^F/2] E/2 [B,2Bz/2] ^d/4 ^c/4 [^dz/2] A/2 [e4B4E,4^G4]
+[E,2E2B2=G2] [E,BG] [D=d/2A/2] =c/2 [GB/2] c/4 d/4 [^F/2e] E/2
+[D^f/2d/2] e/2 [E,eG] [B,^fB] [EeG] [gEz/2] B/2 [^fDz/2] [Az/2]
+[Ce19/8z/2] G/2 [A,^F/2] E/2 [B,2Bz/2] ^d/4 ^c/4 [^dz/2] A/2
+[e4B4E,4^G4] [=dBG,] [^fdD] [G,g2d2B2] G, [^fdD] [eBE] [B,B2^d2] B,
+[G,=dB] [D^fd] [G,g2d2B2] G, [D2d/2A3/2] g/2 [^fz/2] =c/2 [D2G,2B2g2]
+[E,2B2=G2e] b/2 a/2 [E,2B2g/2] ^f/2 e [^F2B,2eB] [^dz/2] A/2
+[e2B2E,2^G2]
+

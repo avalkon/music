@@ -1,0 +1,193 @@
+N: TS  5,   3   1   5   8  21
+X: 3
+%%Orig filename was LimerickLasses__Clar2.abc
+T:Limerick Lasses part 1 (1:48)
+%%part-name Basic Clarinet
+C:Arranged by Fafnir
+Q:1/4=100
+M:4/4
+L:1/8
+K:C
+[^f/d/][d/B/][A/^c/][^F/A/] [DF][G/E/][F/A/] [G/B/][A/F/][G/B/][A/c/] [B/d/][E/G/][E/G/][e/c/] |[d/^f/][B/d/][^c/A/][A/^F/] [FD][E/G/][F/A/] [B/G/][B/d/][A/c/][F/A/] [FD][DF] |[^f/d/][B/d/][^c/A/][A/^F/] [FD][E/G/][A/F/] [G/B/][A/F/][G/B/][A/c/] [B/d/][E/G/][E/G/][c/e/] |
+[d/^f/][B/d/][A/^c/][^F/A/] [DF][E/G/][F/A/] [G/B/][B/d/][A/c/][G/B/] [F/A/][A/c/][B/d/][c/e/] |[d/^f/][^c/e/][d/f/][e/g/] [fa][g/e/][d/f/] [c/e/][d/f/][e/g/][f/a/] [g/b/][B/d/][B/d/][c/e/] |[d/^f/][f/a/][g/b/][f/a/] [gb][f/a/][g/b/] [f/a/][f/a/][e/b/][f/a/] [f/a/][d/f/][d/f/][^c/e/] |
+[d/^f/][^c/e/][d/f/][e/g/] [f/a/][d/f/][e/g/][d/f/] [c/e/][d/f/][e/g/][f/a/] [g/b/][f/a/][g/b/][a/f/] |[g/b/][B/d/][g/b/][B/d/] [gb][^f/a/][g/b/] [f/a/][e/a/][e/g/][g/b/] [f/a/][d/f/][df] |[A/^c/][d/^f/][B/d/][d/f/] [A/c/][d/f/][B/d/][d/f/] [A/c/][f/d/][B/d/][d/f/] [c/e/][e/g/][e/g/][c/e/] |
+[A/^c/][d/^f/][B/d/][d/f/] [A/c/][d/f/][B/d/][d/f/] [e/g/][f/a/][g/b/][e/g/] [f/a/][d/f/][d/f/][B/d/] |[A/^c/][d/^f/][B/d/][d/f/] [A/c/][d/f/][B/d/][d/f/] [A/c/][d/f/][f/a/][d/f/] [c/e/][e/g/][e/g/][f/a/] |
+[g/b/][^f/a/][e/g/][^c/e/] [d/f/][c/e/][B/d/][A/c/] [B/d/][d/f/][c/e/][e/g/] [f/a/][d/f/][df] |G/B/d/^f/ g/d/e/d/ c/B/A/G/ ^F/A/D/C/ |B,/D/G/B/ ^F/G/A/B/ c/A/B/G/ F/A/D |G/B/d/^f/ g/d/e/d/ c/B/A/G/ ^F/A/D/C/ |
+B,/D/G/B/ C/D/^F/A/ c/A/F/A/ GD |G/B/d/^f/ g/d/e/d/ c/B/A/G/ ^F/A/D/C/ |B,/D/G/B/ ^F/G/A/B/ c/A/B/G/ F/A/D |G/B/d/^f/ g/d/e/d/ c/B/A/G/ ^F/A/D/C/ |B,/D/G/B/ C/D/^F/A/ c/A/F/A/ GD/C/ |B,/D/G/D/ B/D/G/D/ B,/D/G/D/ B/D/G/D/ |
+C/E/G/E/ c/E/G/E/ C/E/G/E/ c/E/G/E/ |B,/D/G/D/ B/D/G/D/ B,/D/G/D/ B/D/G/D/ |c/^F/A/c/ F/A/c/F/ A/c/F/A/ GD/C/ |B,/D/G/D/ B/D/G/D/ B,/D/G/D/ B/D/G/D/ |C/E/G/E/ c/E/G/E/ C/E/G/E/ c/E/G/E/ |B,/D/G/D/ B/D/G/D/ B,/D/G/D/ B/D/G/D/ |
+c/^F/A/c/ F/A/c/F/ A/c/F/A/ GG, |[C/E/][D/F/][E/G/][F/A/] [G/B/][A/c/][G/B/][E/G/] [G/B/][A/c/][G/B/][E/G/] [G//B//][B//d//][c/e/][G/B/][E/G/] |[F/A/][A/c/][F/A/][D/F/] [E/G/][G/B/][E/G/][C/E/] [D//F//][E//G//][F/A/][D/F/][C/E/] [B,/D/][C/E/][D/F/][B,/D/] |
+[C/E/][D/F/][E/G/][F/A/] [G/B/][A/c/][G/B/][E/G/] [G/B/][A/c/][G/B/][E/G/] [G//B//][B//d//][c/e/][G/B/][E/G/] |[F/A/][A/c/][F/A/][D/F/] [E/G/][G/c/][E/G/][C/E/] [D/F/][C/E/][B,/D/][D/F/] [CE][G,C] |[C/E/][D/F/][E/G/][F/A/] [G/B/][A/c/][G/B/][E/G/] [G/B/][A/c/][G/B/][E/G/] [G//B//][B//d//][c/e/][G/B/][E/G/] |
+[F/A/][A/c/][F/A/][D/F/] [E/G/][G/B/][E/G/][C/E/] [D//F//][E//G//][F/A/][D/F/][C/E/] [B,/D/][C/E/][D/F/][B,/D/] |[C/E/][D/F/][E/G/][F/A/] [G/B/][A/c/][G/B/][E/G/] [G/B/][A/c/][G/B/][E/G/] [G//B//][B//d//][c/e/][G/B/][E/G/] |
+[F/A/][A/c/][F/A/][D/F/] [E/G/][G/c/][E/G/][C/E/] [D/F/][C/E/][B,/D/][D/F/] [CE][G//B//][A//c//][B/d/] |[ce][c/e/][B/d/] [c/e/][G/c/][E/G/][G/c/] [c/e/][C/G/][B/d/][C/G/] [A/c/][C/G/][G/B/][C/G/] |[F/A/][A/c/][F/A/][D/F/] [E/G/][G/c/][E/G/][C/E/] [D//F//][E//G//][F/A/][D/F/][C/E/] [B,/D/][C/E/][A/c/][B/d/] |
+[ce][c/e/][B/d/] [c/e/][G/c/][E/G/][G/c/] [c/e/][C/G/][B/d/][C/G/] [A/c/][C/G/][G/B/][C/G/] |[F/A/][A/c/][F/A/][D/F/] [E/G/][G/c/][E/G/][C/E/] [D/F/][C/E/][B,/D/][D/F/] [CE][G//B//][A//c//][B/d/] |[ce][c/e/][B/d/] [c/e/][G/c/][E/G/][G/c/] [c/e/][C/G/][B/d/][C/G/] [c/A/][C/G/][G/B/][C/G/] |
+[F/A/][A/c/][F/A/][D/F/] [E/G/][G/c/][E/G/][C/E/] [D//F//][E//G//][F/A/][D/F/][C/E/] [B,/D/][C/E/][A/c/][B/d/] |[ce][c/e/][B/d/] [c/e/][G/c/][E/G/][G/c/] [c/e/][C/G/][B/d/][C/G/] [A/c/][C/G/][G/B/][C/G/] |
+[F/A/][A/c/][F/A/][D/F/] [E/G/][G/c/][E/G/][C/E/] [D/F/][C/E/][B,/D/][D/F/] [C2-E2-] |[C4E4] z4 |]
+     %End of file
+
+X: 1
+%%Orig filename was LimerickLasses__Flute3.abc
+T:Irish Traditional (1:49) - Limerick Lasses (Basic Flute) [Dalman of Brandywine]
+%%part-name Basic Flute
+L:1/4
+Q:100
+K:C
+ +ppp+
+z4 d/4 B/4 A/4 ^F/4 D/2 E/4 ^F/4 G/4 ^F/4 G/4 A/4 B/4 E/4 E/4 ^c/4 d/4
+B/4 A/4 ^F/4 D/2 E/4 ^F/4 G/4 B/4 A/4 ^F/4 D/2 D/2 d/4 B/4 A/4 ^F/4
+D/2 E/4 ^F/4 G/4 ^F/4 G/4 A/4 B/4 E/4 E/4 ^c/4 d/4 B/4 A/4 ^F/4 D/2
+E/4 ^F/4 G/4 B/4 A/4 G/4 ^F/4 A/4 B/4 ^c/4 d/4 ^c/4 d/4 e/4 ^f/2 e/4
+d/4 ^c/4 d/4 e/4 ^f/4 g/4 B/4 B/4 ^c/4 d/4 ^f/4 g/4 a/4 b/2 a/4 g/4
+^f/4 a/4 e/4 a/4 ^f/4 d/4 d/4 ^c/4 d/4 ^c/4 d/4 e/4 ^f/4 d/4 e/4 d/4
+^c/4 d/4 e/4 ^f/4 g/4 ^f/4 g/4 a/4 b/4 B/4 b/4 B/4 b/2 a/4 g/4 ^f/4
+a/4 e/4 g/4 ^f/4 d/4 d/2 A/4 d/4 B/4 d/4 A/4 d/4 B/4 d/4 A/4 d/4 B/4
+d/4 ^c/4 e/4 e/4 ^c/4 A/4 d/4 B/4 d/4 A/4 d/4 B/4 d/4 e/4 ^f/4 g/4
+e/4 ^f/4 d/4 d/4 B/4 A/4 d/4 B/4 d/4 A/4 d/4 B/4 d/4 A/4 d/4 ^f/4 d/4
+^c/4 e/4 e/4 ^f/4 g/4 ^f/4 e/4 ^c/4 d/4 ^c/4 B/4 A/4 B/4 d/4 ^c/4 e/4
+^f/4 d/4 d/2 B/4 d/4 g/4 a/4 b/4 ^f/4 g/4 ^f/4 e/4 d/4 =c/4 B/4 A/4
+c/4 ^F/4 E/4 D/4 G/4 B/4 d/4 A/4 B/4 c/4 d/4 e/4 c/4 d/4 B/4 A/4 c/4
+^F/2 B/4 d/4 g/4 a/4 b/4 ^f/4 g/4 ^f/4 e/4 d/4 c/4 B/4 A/4 c/4 ^F/4
+E/4 D/4 ^F/4 B/4 d/4 E/4 ^F/4 A/4 c/4 e/4 c/4 A/4 c/4 B/2 G/2 B/4 d/4
+g/4 a/4 b/4 ^f/4 g/4 ^f/4 e/4 d/4 c/4 B/4 A/4 c/4 ^F/4 E/4 D/4 ^F/4
+B/4 d/4 A/4 B/4 c/4 d/4 e/4 c/4 d/4 B/4 A/4 c/4 ^F/2 B/4 d/4 g/4 a/4
+b/4 ^f/4 g/4 d/4 e/4 d/4 c/4 B/4 A/4 c/4 ^F/4 E/4 D/4 ^F/4 B/4 d/4
+E/4 ^F/4 A/4 c/4 e/4 c/4 A/4 c/4 B/2 B/4 A/4 D/4 G/4 B/4 G/4 d/4 G/4
+B/4 G/4 D/4 G/4 B/4 G/4 d/4 G/4 B/4 G/4 E/4 G/4 B/4 G/4 e/4 G/4 B/4
+G/4 E/4 G/4 B/4 G/4 e/4 G/4 B/4 G/4 D/4 G/4 B/4 G/4 d/4 G/4 B/4 G/4
+D/4 G/4 B/4 G/4 d/4 G/4 B/4 G/4 e/4 A/4 c/4 e/4 A/4 c/4 e/4 A/4 c/4
+e/4 A/4 c/4 B/2 B/4 A/4 D/4 G/4 B/4 G/4 d/4 G/4 B/4 G/4 D/4 G/4 B/4
+G/4 d/4 G/4 B/4 G/4 E/4 G/4 B/4 G/4 e/4 G/4 B/4 G/4 E/4 G/4 B/4 G/4
+e/4 G/4 B/4 G/4 D/4 G/4 B/4 G/4 d/4 G/4 B/4 G/4 D/4 G/4 B/4 G/4 d/4
+G/4 B/4 G/4 e/4 A/4 c/4 e/4 A/4 c/4 e/4 A/4 c/4 e/4 A/4 c/4 B/2 B,/2
+C/4 D/4 E/4 =F/4 G/4 A/4 G/4 E/4 G/4 A/4 G/4 E/4 G/8 B/8 c/4 G/4 E/4
+F/4 A/4 F/4 D/4 E/4 G/4 E/4 C/4 D/8 E/8 F/4 D/4 C/4 B,/4 C/4 D/4 B,/4
+C/4 D/4 E/4 F/4 G/4 A/4 G/4 E/4 G/4 A/4 G/4 E/4 G/8 B/8 c/4 G/4 E/4
+F/4 A/4 F/4 D/4 E/4 G/4 E/4 C/4 D/4 C/4 B,/4 D/4 C/2 G,/2 C/4 D/4 E/4
+F/4 G/4 A/4 G/4 E/4 G/4 A/4 G/4 E/4 G/8 B/8 c/4 G/4 E/4 F/4 A/4 F/4
+D/4 E/4 G/4 E/4 C/4 D/8 E/8 F/4 D/4 C/4 B,/4 C/4 D/4 B,/4 C/4 D/4 E/4
+F/4 G/4 A/4 G/4 E/4 G/4 A/4 G/4 E/4 G/8 B/8 c/4 G/4 E/4 F/4 A/4 F/4
+D/4 E/4 G/4 E/4 C/4 D/4 C/4 B,/4 D/4 C/2 G/8 A/8 B/4 c/2 c/4 B/4 c/4
+G/4 E/4 G/4 c/4 C/4 B/4 C/4 A/4 C/4 G/4 C/4 F/4 A/4 F/4 D/4 E/4 G/4
+E/4 C/4 D/8 E/8 F/4 D/4 C/4 B,/4 C/4 A/4 B/4 c/2 c/4 B/4 c/4 G/4 E/4
+G/4 c/4 C/4 B/4 C/4 A/4 C/4 G/4 C/4 F/4 A/4 F/4 D/4 E/4 G/4 E/4 C/4
+D/4 C/4 B,/4 D/4 C/2 G/8 A/8 B/4 c/2 c/4 B/4 c/4 G/4 E/4 G/4 c/4 C/4
+B/4 C/4 A/4 C/4 G/4 C/4 F/4 A/4 F/4 D/4 E/4 G/4 E/4 C/4 D/8 E/8 F/4
+D/4 C/4 B,/4 C/4 A/4 B/4 c/2 c/4 B/4 c/4 G/4 E/4 G/4 c/4 C/4 B/4 C/4
+A/4 C/4 G/4 C/4 F/4 A/4 F/4 D/4 E/4 G/4 E/4 C/4 D/4 C/4 B,/4 D/4 C3
+
+X: 5
+%%Orig filename was LimerickLasses__Harp4.abc
+T:Irish Traditional (1:55) - Limerick Lasses (Basic Harp) [Dalman of Brandywine]
+%%part-name Basic Harp
+L:1/4
+Q:100
+K:C
+z4 d/4 B/4 A/4 ^F/4 D/2 E/4 ^F/4 G/4 ^F/4 G/4 A/4 B/4 E/4 E/4 ^c/4 d/4
+B/4 A/4 ^F/4 D/2 E/4 ^F/4 G/4 B/4 A/4 ^F/4 D/2 D/2 d/4 B/4
+[A/2^f/2d/2z/4] ^F/4 D/2 [E/4A/2d/2^f/2] ^F/4 G/4 ^F/4 [G/4e/2g/2B/2]
+A/4 B/4 E/4 [E/4g/2B/2e/2] ^c/4 d/4 B/4 [A/2d/2^f/2z/4] ^F/4 D/2
+[E/4A/2d/2^f/2] ^F/4 G/4 B/4 [A/4^c/2a/2e/2] G/4 [^F/4d^fA/4]
+[A3/4z/4] B/4 ^c/4 d/4 ^c/4 [d/2A/2^f/2z/4] e/4 ^f/2 [e/4^f/2d/4A/2]
+d/4 ^c/4 d/4 [e/2^c/2A/2z/4] ^f/4 g/4 B/4 [B/4e/2A/2^c/4] ^c/4 d/4
+^f/4 [g/2d/2B/2z/4] a/4 b/2 [a/4g/4B/2d/2] g/4 ^f/4 a/4 [e/2^c/2a/4]
+a/4 [^fAd/4] d/4 [d/2z/4] ^c/4 d/4 ^c/4 [d/2^f/2A/2z/4] e/4 ^f/4 d/4
+[e/4d/4A/2^f/2] d/4 ^c/4 d/4 [e/2A/2^c/2z/4] ^f/4 g/4 ^f/4
+[g/2A/2^c/2z/4] a/4 b/4 B/4 [b/4d/2g/2B/4] B/4 b/2 [a/4d/2g/4B/2] g/4
+^f/4 a/4 [e/2^c/2a/2z/4] g/4 [^fd/4A] d/4 d/2 A/4 d/4 [B/4^f/2d/4A/2]
+d/4 A/4 d/4 [B/4A/2d/4^f/2] d/4 A/4 d/4 [B/4d/4^f/2A/2] d/4 ^c/4 e/4
+[e/2A/2^c/4] ^c/4 A/4 d/4 [B/4A/2^f/2d/4] d/4 A/4 d/4 [B/4d/4A/2^f/2]
+d/4 e/4 ^f/4 [g/4a/2^c/2e/4] e/4 [^fAd/4] d/4 [d/2z/4] B/4 A/4 d/4
+[B/4A/2d/4^f/2] d/4 A/4 d/4 [B/4A/2^f/2d/4] d/4 A/4 d/4 [^f/2d/4A/2]
+d/4 ^c/4 e/4 [e/2^c/2A/2z/4] ^f/4 g/4 ^f/4 [e/4g/2B/2d/2] ^c/4 d/4
+^c/4 [B/4^f/2d/2A/4] A/4 B/4 d/4 [^c/2g/2e/4] e/4 [^fd/4A] d/4 d/2
+G/4 B/4 [d/2B/2g/2z/4] ^f/4 g/4 d/4 [e/4B/2d/4g/2] d/4 =c/4 B/4
+[A/4d/2^f/2a/2] G/4 ^F/4 A/4 [D/4A/2d/2^f/2] C/4 B,/4 D/4
+[G/4B/4d/2g/2] B/4 ^F/4 G/4 [A/4B/4e/2g/2] B/4 c/4 A/4 [B/4e/2A/2c/2]
+G/4 ^F/4 A/4 [D/2d/2A/2^f/2] G/4 B/4 [d/2g/2B/2z/4] ^f/4 g/4 d/4
+[e/4B/2g/2d/4] d/4 c/4 B/4 [A/4d/2B/2g/2] G/4 ^F/4 A/4
+[D/4^f/2A/2d/2] C/4 B,/4 D/4 [G/4B/4d/2g/2] B/4 C/4 D/4
+[^F/4A/4d/2^f/2] A/4 c/4 A/4 [^F/4A/4^f/2d/2] A/4 [G/2dgB] D/2 G/4
+B/4 [d/2B/2g/2z/4] ^f/4 g/4 d/4 [e/4d/4B/2g/2] d/4 c/4 B/4
+[A/4a/2^f/2d/2] G/4 ^F/4 A/4 [D/4d/2^f/2A/2] C/4 B,/4 D/4
+[G/4g/2B/4d/2] B/4 ^F/4 G/4 [A/4e/2B/4g/2] B/4 c/4 A/4 [B/4A/2e/2c/2]
+G/4 ^F/4 A/4 [D/2^f/2d/2A/2] G/4 B/4 [d/2B/2g/2z/4] ^f/4 g/4 d/4
+[e/4g/2B/2d/4] d/4 c/4 B/4 [A/4d/2g/2B/2] G/4 ^F/4 A/4
+[D/4^f/2d/2A/2] C/4 B,/4 D/4 [G/4d/2B/4g/2] B/4 C/4 D/4
+[^F/4d/2^f/2A/4] A/4 c/4 A/4 [^F/4d/2^f/2A/4] A/4 [G/2gBd] D/4 C/4
+B,/4 D/4 [G/4d/2g/2B/2] D/4 B/4 D/4 [G/4g/2B/2d/2] D/4 B,/4 D/4
+[G/4d/2g/2B/2] D/4 B/4 D/4 [G/4B/2d/2g/2] D/4 C/4 E/4 [G/4e/2c/2g/2]
+E/4 c/4 E/4 [G/4e/2g/2c/2] E/4 C/4 E/4 [G/4e/2c/2g/2] E/4 c/4 E/4
+[G/4c/2e/2g/2] E/4 B,/4 D/4 [G/4d/2B/2g/2] D/4 B/4 D/4 [G/4B/2d/2g/2]
+D/4 B,/4 D/4 [G/4d/2g/2B/2] D/4 B/4 D/4 [G/4d/2B/2g/2] D/4 c/4 ^F/4
+[A/4^f/2a/2d/2] c/4 ^F/4 A/4 [c/4d/2^f/2a/2] ^F/4 A/4 c/4
+[^F/4d/2^f/2A/4] A/4 [G/2dgB] D/4 C/4 B,/4 D/4 [G/4g/2d/2B/2] D/4 B/4
+D/4 [G/4d/2B/2g/2] D/4 B,/4 D/4 [G/4d/2g/2B/2] D/4 B/4 D/4
+[G/4d/2g/2B/2] D/4 C/4 E/4 [G/4g/2c/2e/2] E/4 c/4 E/4 [G/4e/2g/2c/2]
+E/4 C/4 E/4 [G/4g/2c/2e/2] E/4 c/4 E/4 [G/4e/2g/2c/2] E/4 B,/4 D/4
+[G/4B/2d/2g/2] D/4 B/4 D/4 [G/4d/2B/2g/2] D/4 B,/4 D/4 [G/4d/2g/2B/2]
+D/4 B/4 D/4 [G/4d/2g/2B/2] D/4 c/4 ^F/4 [A/4^f/2d/2a/2] c/4 ^F/4 A/4
+[c/4d/2a/2^f/2] ^F/4 A/4 c/4 [^F/4A/4d/2^f/2] A/4 [G/2Bdg] G,/2 C/4
+D/4 [E/4g/2e/2c/2] =F/4 G/4 A/4 [G/4c/2e/2g/2] E/4 G/4 A/4
+[G/4e/2g/2c/2] E/4 G/8 B/8 c/4 [G/4g/2e/2c/2] E/4 F/4 A/4
+[F/4=f/2c/2a/2] D/4 E/4 G/4 [E/4e/2g/2c/2] C/4 D/8 E/8 F/4
+[D/4d/2f/2B/2] C/4 B,/4 C/4 [D/4g/2B/2f/2] B,/4 C/4 D/4
+[E/4e/2c/2g/2] F/4 G/4 A/4 [G/4e/2c/2g/2] E/4 G/4 A/4 [G/4g/2c/2e/2]
+E/4 G/8 B/8 c/4 [G/4c/2e/2g/2] E/4 F/4 A/4 [F/4a/2c/2f/2] D/4 E/4 G/4
+[E/4e/2c/2g/2] C/4 D/4 C/4 [B,/4d/2f/2B/2] D/4 [C/2Gec] G,/2 C/4 D/4
+[E/4c/2e/2g/2] F/4 G/4 A/4 [G/4e/2c/2g/2] E/4 G/4 A/4 [G/4e/2g/2c/2]
+E/4 G/8 B/8 c/4 [G/4e/2g/2c/2] E/4 F/4 A/4 [F/4a/2c/2f/2] D/4 E/4 G/4
+[E/4e/2g/2c/2] C/4 D/8 E/8 F/4 [D/4f/2B/2d/2] C/4 B,/4 C/4
+[D/4f/2g/2B/2] B,/4 C/4 D/4 [E/4c/2e/2g/2] F/4 G/4 A/4 [G/4e/2c/2g/2]
+E/4 G/4 A/4 [G/4e/2g/2c/2] E/4 G/8 B/8 c/4 [G/4e/2g/2c/2] E/4 F/4 A/4
+[F/4a/2c/2f/2] D/4 E/4 G/4 [E/4e/2c/2g/2] C/4 D/4 C/4 [B,/4d/2f/2B/2]
+D/4 [C/2G/2ec] [G/2z/8] A/8 B/4 c/2 [c/4e/2g/2c'/2] B/4 c/4 G/4
+[E/4e/2g/2c'/2] G/4 c/4 C/4 [B/4g/2b/2f/2] C/4 A/4 C/4 [G/4g/2e/2c/2]
+C/4 F/4 A/4 [F/4f/2c/2a/2] D/4 E/4 G/4 [E/4e/2g/2c/2] C/4 D/8 E/8 F/4
+[D/4d/2B/2f/2] C/4 B,/4 C/4 [A/4d/2B/4f/2] B/4 c/2 [c/4g/2e/2c'/2]
+B/4 c/4 G/4 [E/4e/2c'/2g/2] G/4 c/4 C/4 [B/4f/2g/2b/2] C/4 A/4 C/4
+[G/4g/2e/2c/2] C/4 F/4 A/4 [F/4c/2f/2a/2] D/4 E/4 G/4 [E/4e/2g/2c/2]
+C/4 D/4 C/4 [B,/4f/2B/2d/2] D/4 [C/2ecG/2] [G/2z/8] A/8 B/4 c/2
+[c/4g/2c'/2e/2] B/4 c/4 G/4 [E/4e/2c'/2g/2] G/4 c/4 C/4
+[B/4f/2g/2b/2] C/4 A/4 C/4 [G/4e/2c/2g/2] C/4 F/4 A/4 [F/4c/2a/2f/2]
+D/4 E/4 G/4 [E/4c/2e/2g/2] C/4 D/8 E/8 F/4 [D/4f/2B/2d/2] C/4 B,/4
+C/4 [A/4d/2B/4f/2] B/4 c/2 [c/4g/2e/2c'/2] B/4 c/4 G/4
+[E/4e/2g/2c'/2] G/4 c/4 C/4 [B/4g/2b/2f/2] C/4 A/4 C/4 [G/4c/2e/2g/2]
+C/4 F/4 A/4 [F/4a/2f/2c/2] D/4 E/4 G/4 [E/4e/2g/2c/2] C/4 D/4 C/4
+[B,/4f/2B/2d/2] D/4 [C3c3e3G3]
+
+X: 8
+%%Orig filename was LimerickLasses__Lute5.abc
+T:Limerick Lasses part 2 (1:53)
+%%part-name Basic Lute
+C:Aranged by Fafnir
+Q:1/4=100
+M:4/4
+L:1/8
+K:C
+z8 |z8 |[D2z] [Ad^f] [A,2z] [Adf] [zE2] [geB] A,[^CeBg] |[D2z] [d^fA] [A,2z] [dfA] G,[^caA,e] [A2f2D2d2] |[zD2] [A^fd] [zA,2] [dAf] [E2z] [^cAe] [zG,2] [Ace] |[zD2] [dBg] [G2z] [Bdg] A[A,ae^c] [D2d2^f2A2] |
+[D2z] [Ad^f] [A,2z] [dfA] [zE2] [A^ce] [zG,2] [Acg] |[D2z] [dgB] [G,2z] [dBg] A,[^C^cea] [D2A2^f2d2] |[D2z] [^fAd] [zA,2] [fdA] [zD2] [Adf] [E2z] [^cAe] |[zD2] [Ad^f] [A,2z] [dAf] E[^cA,ea] [D2A2d2f2] |
+[zD2] [A^fd] [A,2z] [dfA] [D2z] [Afd] [zE2] [e^cA] |[zD2] [Bgd] [zA,2] [^fAd] E[^cA,eg] [f2D2d2A2] |[zG2] [dgB] [zD2] [Bdg] [zA,2] [d^fa] [zD2] [Adf] |[zG,2] [Bdg] [zD2] [Beg] [zC2] [Ace] D[^FAd^f] |
+[zG2] [Bdg] [zD2] [Bdg] [zA,2] [Bdg] [zD2] [^fAd] |[zG,2] [Bdg] [zD] [Ad^f] D[D,Adf] [G,2B2d2g2] |[zG2] [Bdg] [zD2] [Bdg] [zA,2] [d^fa] [zD2] [Adf] |[zG,2] [Bdg] [zD2] [Beg] [zC2] [Ace] D[^FAd^f] |[zG2] [Bdg] [zD2] [Bdg] [zA,2] [Bdg] [zD2] [Ad^f] |
+[zG,2] [Bdg] [zC2] [Ad^f] D[D,Adf] [G,2B2d2g2] |[zG,2] [Bdg] [zD2] [Bdg] [zG,2] [Bdg] [zD2] [Bdg] |[zG,2] [ceg] [zE2] [ceg] [zG,2] [ceg] [zE2] [ceg] |[zG,2] [Bdg] [zD2] [Bdg] [zG,2] [Bdg] [zD2] [Bdg] |
+[zA,2] [d^fa] [zD] [dfa] D[D,Adf] [G,2B2d2g2] |[zG,2] [Bdg] [zD2] [Bdg] [zG,2] [Bdg] [zD2] [Bdg] |[zG,2] [ceg] [zE2] [ceg] [zG,2] [ceg] [zE2] [ceg] |[zG,2] [Bdg] [zD2] [Bdg] [zG,2] [Bdg] [zD2] [Bdg] |
+[zA,2] [d^fa] [zD2] [dfa] D[D,Adf] [d2g2G,2B2] |[zC2] [ceg] [zG2] [ceg] [zG2] [ceg] [zG2] [ceg] |[zA2] [cfa] [zG2] [ceg] [zF2] [Bdf] G[G,Bfg] |[zC2] [ceg] [zG2] [ceg] [zG2] [ceg] [zG2] [ceg] |[zA2] [cfa] [zG2] [ceg] G,[B,Bdf] [C2G2c2e2] |
+[zC2] [ceg] [zG2] [ceg] [zG2] [ceg] [zG2] [ceg] |[zA2] [cfa] [zG2] [ceg] [zF2] [Bdf] G[G,Bfg] |[zC2] [ceg] [zG2] [ceg] [zG2] [ceg] [zG2] [ceg] |[zA2] [cfa] [zG2] [ceg] G,[B,Bdf] [C2G2c2e2] |[zC2] [egc'] [zc2] [egc'] [zC2] [fgb] c[ceg] |
+[zA2] [cfa] [zG2] [ceg] [zF2] [Bdf] G,[B,Bdf] |[zC2] [egc'] [zc2] [egc'] [zC2] [fgb] c[ceg] |[zA2] [cfa] [zG2] [ceg] G,[B,Bdf] [C2G2c2e2] |[zC2] [egc'] [zc2] [egc'] [zC2] [fgb] c[ceg] |[zA2] [cfa] [zG2] [ceg] [zF2] [Bdf] G,[B,Bdf] |
+[zC2] [egc'] [zc2] [egc'] [zC2] [fgb] c[ceg] |[zA2] [cfa] [zG2] [ceg] G,[B,Bdf] [C2-G2-c2-e2-] |[C4G4c4e4] z4 |]
+     %End of file
+
+X: 21
+%%Orig filename was LimerickLasses__Theorbo1.abc
+T:Irish Traditional (1:49) - Limerick Lasses (Basic Theorbo) [Dalman of Brandywine]
+L:1/4
+Q:100
+%%part-name Basic Theorbo
+K:C
+z12 D A, E A,/2 ^C/2 D A, G,/2 A,/2 D D A, E G, D G A/2 A,/2 D D A, E
+G, D G, A,/2 ^C/2 D D A, D E D A, E/2 A,/2 D D A, D E D A, E/2 A,/2 D
+G D A, D G, D =C D/2 ^F/2 G D A, D G, D D/2 D,/2 G, G D A, D G, D C
+D/2 ^F/2 G D A, D G, C D/2 D,/2 G, G, D G, D G, E G, E G, D G, D A, D
+D/2 D,/2 G, G, D G, D G, E G, E G, D G, D A, D D/2 D,/2 G, C G G G A
+G =F G/2 G,/2 C G G G A G G,/2 B,/2 C C G G G A G F G/2 G,/2 C G G G
+A G G,/2 B,/2 C C c C c A G F G,/2 B,/2 C c C c A G G,/2 B,/2 C C c C
+c A G F G,/2 B,/2 C c C c A G G,/2 B,/2 C3
+

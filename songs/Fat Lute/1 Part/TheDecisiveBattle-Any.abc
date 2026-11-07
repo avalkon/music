@@ -1,0 +1,58 @@
+N: TS  1,  21
+X: 21
+%%Orig filename was TheDecisiveBattle-Any.abc
+T:FFVI, The Decisive Battle (Basic Harp) (1:46)
+C:Nobuo Uematsu
+Z:Charbonneau, Brandywine AIM:The Caviarmy
+Q:1/4=106
+M:4/4
+L:1/16
+%%part-name Basic Harp
+K:C
+|[E,A,e]cA[FAf]cA^fcA[=Fc=f]cAecBd
+|[E,A,e]cA[E,A,Fcf]cA^fcA[=Fc=f]cA[E,e]c[C,B]d
+|[E,A,e]cA[E,A,FAf]cA[E,A,^f]cA[E,A,=Fc=f]cA[E,A,e]c[G,B]d
+|[E,A,e]cA[E,A,FAf]cA[E,A,^f]cA[E,A,=Fc=f]cA[E,A,e]c[G,B]d
+|[F,Ac]z[eg]z[G,df][ce]z[E,Bd]z[Dce][B,df]z[F,Bd]z[G,GB]z
+|[A,Ac]A,A,A,B,B,B,B,[C,4C]CCC[E,4E]EEE
+|[F,A]FeA[G,d]cA[E,B]G[Ec][B,d]G[F,B]E[G,G]E
+|[E,A,EA]zz[E,A,]zz[E,A,]zz[E,A,]zz[E,A,]z[D,G,]z
+|[E,3A,3][E,3A,3][E,3A,3][E,3A,3][E,2A,2][D,2G,2]
+|[A,e]ab[A,c'] ba[A,E]c B[E,A]cA [E,A]c[G,B]c
+|[F,d]ze[F,c]ze[E,d]ef[D,B]cf[E,ea]d[E,e^g]d
+|[E,A,a]ea[E,A,c'] ba[E,A,e]c B[E,A]cA [E,A,]c[=G,B]c
+|[F,d]ze[F,c]ze[E,d]e[Af][D,d][Bg]e[E,ca]f[E,db]^g
+|[C,Fdf]zF,zzz[^F,CAc]z[B,=GB]z=G,[B,Ac]zD,[G,DBd]z
+|[A,Ece]zA,[G,=Fd=f]zz[G,Geg]z[E,CAc]zD,[D,G,][B,GB]D,G,[A,FA]
+|[C,A]zF,[Fdg]zz[^F,CAc]z[G,B,DB]zD,[A,DA]zD,[G,DG]z
+|[D,D^FA]zzA,GzD,z^Fz[C,EB]z[Dc]z[Ee]z
+|[C,=Fd=f]z=F,zzF,[CAc]z[E,B,GB]zG,[E,CAc]zG,[D,DBd]z
+|[C,CEce]zC,[G,Fdf]zG,[E,Geg]z[D,^Fd^f]zC,[A,Geg]zC,[^F,Aa]z
+|[=F,cc']zC,F,zF,[C,C]z[F,F]a[E,Eg][F,Ff][F,c][E,EA][D,DG][C,CF]
+|[^F,^FAc]z^F[^F,^F]z^F[Cc]z[^D^d]z^F^fz^F,^Fz
+|[G,=DGB]zG,[G=D]zG,[^F,B,]z[=F,=D=F=d]z=F,[=F,A,]zA,=Fz
+|[E,Gce]zE,[Eg]zE,[^De]z[=D,=DA=df]f[=D,e][=Dd]c[=D,B][=DA]^G
+|[E,A,e]cA[FAf]cA^fcA[=Fc=f]cAecBd
+|[E,A,e]cA[E,A,Fcf]cA^fcA[=Fc=f]cA[E,e]c[C,B]d
+|[E,A,e]cA[E,A,FAf]cA[E,A,^f]cA[E,A,=Fc=f]cA[E,A,e]c[=G,B]d
+|[E,A,e]cA[E,A,FAf]cA[E,A,^f]cA[E,A,=Fc=f]cA[E,A,e]c[G,B]d
+|[F,Ac]z[eg]z[G,df][ce]z[E,Bd]z[Dce][B,df]z[F,Bd]z[G,GB]z
+|[A,Ac]A,A,A,B,B,B,B,[C,4C]CCC[E,4E]EEE
+|[F,A]FeA[G,d]cA[E,B]G[Ec][B,d]G[F,B]E[G,G]E
+|[E,A,EA]zz[E,A,]zz[E,A,]zz[E,A,]zz[E,A,]z[D,G,]z
+|[E,3A,3][E,3A,3][E,3A,3][E,3A,3][E,2A,2][D,2G,2]
+|[A,e]ab[A,c'] ba[A,E]c B[E,A]cA [E,A]c[G,B]c
+|[F,d]ze[F,c]ze[E,d]ef[D,B]cf[E,ea]d[E,e^g]d
+|[E,A,a]ea[E,A,c'] ba[E,A,e]c B[E,A]cA [E,A,]c[=G,B]c
+|[F,d]ze[F,c]ze[E,d]e[Af][D,d][Bg]e[E,ca]f[E,db]^g
+|[C,Fdf]zF,zzz[^F,CAc]z[B,=GB]z=G,[B,Ac]zD,[G,DBd]z
+|[A,Ece]zA,[G,=Fd=f]zz[G,Geg]z[E,CAc]zD,[D,G,][B,GB]D,G,[A,FA]
+|[C,A]zF,[Fdg]zz[^F,CAc]z[G,B,DB]zD,[A,DA]zD,[G,DG]z
+|[D,D^FA]zzA,GzD,z^Fz[C,EB]z[Dc]z[Ee]z
+|[C,=Fd=f]z=F,zzF,[CAc]z[E,B,GB]zG,[E,CAc]zG,[D,DBd]z
+|[C,CEce]zC,[G,Fdf]zG,[E,Geg]z[D,^Fd^f]zC,[A,Geg]zC,[^F,Aa]z
+|[=F,cc']zC,F,zF,[C,C]z[F,F]a[E,Eg][F,Ff][F,c][E,EA][D,DG][C,CF]
+|[^F,^FAc]z^F[^F,^F]z^F[Cc]z[^D^d]z^F^fz^F,^Fz
+|[G,=DGB]zG,[G=D]zG,[^F,B,]z[=F,=D=F=d]z=F,[=F,A,]zA,=Fz
+|[E,Gce]zE,[Eg]zE,[^De]z[=D,=DA=df]f[=D,e][=Dd]c[=D,B][=DA]^G
+

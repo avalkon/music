@@ -1,0 +1,237 @@
+N: TS  2,   5   8
+X: 5
+%%Orig filename was PipeDreamHarp.abc
+T: Animusic-pipe dream (2:49) - Basic Harp
+%%part-name Basic Harp
+M: 4/4
+Q: 141
+K: C maj
+
++mf+ D, z7 |
+z4 D, z3 |
+z8 |
+D, z2 D z4 |
+z8 |
+D, z2 D z3 C |
+z8 |
+D, z2 D z3 C |
+z2 G, G z4 |
+% Bar 10 (0:15)
+D, z2 D z3 F |
+z2 C G, z G D/ C/ G, |
+D, z2 D z2 C G, |
+z G z2 C, C C C/ D/ |
+D, z2 D z2 C G, |
+z G z2 F, C F/ A/ c |
+[A,e] c A e c A c/ e/ c/ A/ |
+e c A e c A c/ e/ c/ A/ |
+e B A e B A B/ e/ B/ A/ |
+e B A e B A B/ e/ B/ A/ |
+% Bar 20 (0:32)
+e c A e c A c/ e/ c/ A/ |
+e c A e c A c/ e/ c/ A/ |
+e B A e B A B/ e/ B/ A/ |
+B/ [B/e/] A G A G/ [G/A/] E D A, |
+D, z2 D z2 C G, |
+z G z2 C, C z2 |
+D, z2 D z2 C G, |
+z G z2 F, F z2 |
+D, z2 D z2 C G, |
+z G z2 C, C C C/ D/ |
+% Bar 30 (0:49)
+D, z2 D z2 C G, |
+z G z2 F, F F, F |
+D, z2 D z2 C G, |
+z G z2 C, C z2 |
+D, z2 D z2 C G, |
+z G z2 F, F z2 |
+D, z2 D z2 C G, |
+z G z2 C, C C C/ D/ |
+D, z2 D z2 C G, |
+z G z2 F, F G, G |
+% Bar 40 (1:06)
+A, z2 A, z2 A, z |
+A, A c [A,A-] A e [A,c] [EA] |
+A, z2 A, z2 A, z |
+A, A c [A,A-] A e [A,c] [EAg-] |
+[D,g-] g g [DA^f-] f d [D,e] z |
+D, z2 [DA] z2 A, [Gc] |
+D, z2 [DA] z A [D,B] c |
+[D,d] g ^f [DAc'-] c'2- [A,c'-] [Gcc'] |
+A, z2 A, C E [A,A] c |
+[A,A] e c [A,a] e c' [A,a] [EAe] |
+% Bar 50 (1:23)
+[A,c'] a e [A,c'] a2- [A,a] A/ c/ |
+[A,e] a c' [A,a] e c' [A,a] [EAg-] |
+[D,g] g ^f [DAd] a g [D,e] g |
+[D,^f] d f [DAe] c' e [A,d-] [Ade] |
+[D,/-^f/] [D,/g/] f/ e/ d/ e/ [D/-A/-d/] [D/A/c'/] b/ c'/ a/ b/ [D,/-c'/] [D,/d/] c'/ b/ |
+[D,/-a/] [D,/g/] a/ b/ a/ g/ [D/-A/-^f/] [D/A/e/] f/ g/ f/ e/ [A,c] [Gc] |
+A, A, [E/-A/-a/] [E/A/c'/] [A,/-a/] [A,/e/] [A,/-d/] [A,/a/] [E/-A/-e/] [E/A/c'/] a/ e/ e- |
+[A,e-] [A,e] [E/-A/-a/] [E/A/c'/] [A,/-a/] [A,/e/] [A,d] [Gcd] z2 |
+A, A, [EA] A, A, [EA] z2 |
+[A,/-^f/] [A,/g/] [A,f] [EAd] [A,c'] [A,a] [Aeg] f d |
+% Bar 60 (1:40)
+D, A, [D/-A/-a/] [D/A/c'/] [D,/-a/] [D,/^f/] [A,/-d/] [A,/a/] [D/-A/-f/] [D/A/c'/] a/ f/ e- |
+[D,e-] [A,e] [D/-A/-a/] [D/A/c'/] [D,/-a/] [D,/^f/] [A,g] [Gcf] e z |
+D, A, [DA] D, A, [DA] z2 |
+[D,/-d/] [D,/e/] [A,/-d/] [A,/c'/] [D/-A/-e/] [D/A/^f/] [D,/-e/] [D,/d/] [A,/-c'/] [A,/b/] [A/-e/-a/] [A/e/g/] f/ e/ c- |
+[A,c-] [A,c] [E/-A/-] [E/A/B/] [A,/-c/] [A,/d/] [A,/-e/] [A,/g/] [E/-A/-e/] [E/A/d/] c a- |
+[A,a-] [A,a] [E/-A/-] [E/A/B/] [A,/-c/] [A,/d/] [A,e] [Gcc'] b a |
+A, A, [E/-A/-] [E/A/B/] [A,/-c/] [A,/d/] [A,/-B/] [A,/c/] [E/-A/-d/] [E/A/e/] g/ a/ c'/ d/ |
+[A,/-e/] [A,/g/] [A,/-e/] [A,/d/] [E/-A/-c'/] [E/A/b/] [A,/-a/] [A,/g/] [A,/-^f/] [A,/g/] [A/-e/f/] [A/e/] c2 |
+[D,/-a/] [D,/c'/] [A,/-a/] [A,/^f/] [D/-A/-d/] [D/A/a/] [D,/-f/] [D,/c'/] [A,/-a/] [A,/f/] [D/-A/-e/] [D/A/a/] f/ c'/ a/ f/ |
+[D,/-d/] [D,/a/] [A,/-^f/] [A,/c'/] [D/-A/-a/] [D/A/f/] [D,/-e/] [D,/a/] [A,/-f/] [A,/c'/] [G/-c/-a/] [G/c/f/] d/ f/ e/ f/ |
+% Bar 70 (1:57)
+[D,/-a/] [D,/c'/] [A,/-a/] [A,/^f/] [D/-A/-d/] [D/A/a/] [D,/-f/] [D,/c'/] [A,/-a/] [A,/f/] [D/-A/-e/] [D/A/a/] f/ c'/ a/ f/ |
+[D,/-c'/] [D,/a/] [A,/-g/] [A,/e/] [D/-A/-d/] [D/A/a/] [D,/-g/] [D,/e/] [A,/-e/] [A,/a/] [A/-e/g/] [A/e/] g/ a/ g/ e/ |
+[A,e] c A e c A c/ e/ c/ A/ |
+[A,e] c A e c A [c/c'/-] [e/c'/-] [c/c'/-] [A/c'/] |
+[E,e] B A e B A B/ e/ B/ A/ |
+[E,e] B A e B A B/ e/ B/ A/ |
+[A,e] c A e c A c/ e/ c/ A/ |
+[A,e] c A e [cd-] [Ad-] [c/d/-] [d/-e/] [c/d/-] [A/d/] |
+[E,e] B A e B A B/ e/ B/ A/ |
+[E,e] B A G [Aa-] [Ga] [Db-] [A,b] |
+% Bar 80 (2:14)
+[D,D-] D A [DF-] F d- [Cd] [G,A-] |
+A [Gf] d2 [C,a] [Cf-] f d- |
+[D,d] d c'- [Dc'-] c'2- [Cc'-] [G,c'] |
+z G z f- [F,f] [Ff] e d |
+[D,c'] d g- [Dg] c'2 [Cc'] [G,a-] |
+a- [Ga-] a d [C,f] [Ce] [Cd-] [C/d/-] [D/d/] |
+D, z2 D z2 C G, |
+z G z2 C, C z2 |
+D, A,/ D/ C [DF] D/ G/ F [CA] [G,/-G/] [G,/c/] |
+A [Gd] c/ f/ d [C,g] [C/-f/] [C/a/] g c'- |
+% Bar 90 (2:31)
+[D,/-c'/] [D,/c'/-] c'/ c' c'/- [D/-c'/] [D/c'/-] c'/ c' c'/- [Cc'] [G,c'] |
+z [Gd-] d2 F, F f/ g/ a |
+D, z/ D3/2 [Dd-] d/ d3/2 [Cc'-] [G,/-c'/] [G,/c/-] |
+c [C-G] C/ G,3/2 [C,G-] [C/-G/] [C/g/-] [Cg] [C/d/-] [D/d/] |
+D, z2 D z2 C G, |
+z G z f/ d/ [C,c] [CA] G/ F/ D |
+[D,D] [A,/-G/] [A,/F/] [DA] [D,G] [A,/-c/] [A,/A/] [DAd] c f/ d/ |
+[D,g] [A,f] [D/-A/-a/] [D/A/g/] [D,c'] [A,a] [G/-c/-d/] [G/c/c'/] f d |
+[D,g] [A,/-a/] [A,/f/-] [D/-A/-f/] [D/A/g/] [D,d] [A,/-f/] [A,/c'/-] [D/-A/-c'/] [D/A/d/] a c'/ g/- |
+[D,/-g/] [D,/a/] [A,f] [DAg] [D,d] [A,c'] [Gcc'] a/ g/ f |
+z8 |]
+
+X: 8
+%%Orig filename was PipeDreamLute.abc
+T: Animusic-pipe dream (2:49) - Basic Lute
+%%part-name Basic Lute
+M: 4/4
+Q: 141
+K: C maj
+
++mf+ D, z7 |
+z4 D, z3 |
+z8 |
+D, z2 D z4 |
+z8 |
+D, z2 D z3 C |
+z8 |
+D, z2 D z3 C |
+z2 G, G z4 |
+% Bar 10 (0:15)
+D, z2 D z3 F |
+z2 C G, z G D/ C/ G, |
+D, z2 D z2 C G, |
+z G z2 C, C C C/ D/ |
+D, z2 D z2 C G, |
+z G z2 F, C F/ A/ c |
+[A,e] c A e c A c/ e/ c/ A/ |
+e c A e c A c/ e/ c/ A/ |
+e B A e B A B/ e/ B/ A/ |
+e B A e B A B/ e/ B/ A/ |
+% Bar 20 (0:32)
+e c A e c A c/ e/ c/ A/ |
+e c A e c A c/ e/ c/ A/ |
+e B A e B A B/ e/ B/ A/ |
+B/ [B/e/] A G A G/ [G/A/] E D A, |
+D, z2 D z2 C G, |
+z G z2 C, C z2 |
+D, z2 D z2 C G, |
+z G z2 F, F z2 |
+D, z2 D z2 C G, |
+z G z2 C, C C C/ D/ |
+% Bar 30 (0:49)
+D, z2 D z2 C G, |
+z G z2 F, F F, F |
+D, z2 D z2 C G, |
+z G z2 C, C z2 |
+D, z2 D z2 C G, |
+z G z2 F, F z2 |
+D, z2 D z2 C G, |
+z G z2 C, C C C/ D/ |
+D, z2 D z2 C G, |
+z G z2 F, F G, G |
+% Bar 40 (1:06)
+A, z2 A, z2 A, z |
+A, A c [A,A-] A e [A,c] [EA] |
+A, z2 A, z2 A, z |
+A, A c [A,A-] A e [A,c] [EAg-] |
+[D,g-] g g [DA^f-] f d [D,e] z |
+D, z2 [DA] z2 A, [Gc] |
+D, z2 [DA] z A [D,B] c |
+[D,d] g ^f [DAc'-] c'2- [A,c'-] [Gcc'] |
+A, z2 A, C E [A,A] c |
+[A,A] e c [A,a] e c' [A,a] [EAe] |
+% Bar 50 (1:23)
+[A,c'] a e [A,c'] a2- [A,a] A/ c/ |
+[A,e] a c' [A,a] e c' [A,a] [EAg-] |
+[D,g] g ^f [DAd] a g [D,e] g |
+[D,^f] d f [DAe] c' e [A,d-] [Ade] |
+[D,/-^f/] [D,/g/] f/ e/ d/ e/ [D/-A/-d/] [D/A/c'/] b/ c'/ a/ b/ [D,/-c'/] [D,/d/] c'/ b/ |
+[D,/-a/] [D,/g/] a/ b/ a/ g/ [D/-A/-^f/] [D/A/e/] f/ g/ f/ e/ [A,c] [Gc] |
+A, A, [E/-A/-a/] [E/A/c'/] [A,/-a/] [A,/e/] [A,/-d/] [A,/a/] [E/-A/-e/] [E/A/c'/] a/ e/ e- |
+[A,e-] [A,e] [E/-A/-a/] [E/A/c'/] [A,/-a/] [A,/e/] [A,d] [Gcd] z2 |
+A, A, [EA] A, A, [EA] z2 |
+[A,/-^f/] [A,/g/] [A,f] [EAd] [A,c'] [A,a] [Aeg] f d |
+% Bar 60 (1:40)
+D, A, [D/-A/-a/] [D/A/c'/] [D,/-a/] [D,/^f/] [A,/-d/] [A,/a/] [D/-A/-f/] [D/A/c'/] a/ f/ e- |
+[D,e-] [A,e] [D/-A/-a/] [D/A/c'/] [D,/-a/] [D,/^f/] [A,g] [Gcf] e z |
+D, A, [DA] D, A, [DA] z2 |
+[D,/-d/] [D,/e/] [A,/-d/] [A,/c'/] [D/-A/-e/] [D/A/^f/] [D,/-e/] [D,/d/] [A,/-c'/] [A,/b/] [A/-e/-a/] [A/e/g/] f/ e/ c- |
+[A,c-] [A,c] [E/-A/-] [E/A/B/] [A,/-c/] [A,/d/] [A,/-e/] [A,/g/] [E/-A/-e/] [E/A/d/] c a- |
+[A,a-] [A,a] [E/-A/-] [E/A/B/] [A,/-c/] [A,/d/] [A,e] [Gcc'] b a |
+A, A, [E/-A/-] [E/A/B/] [A,/-c/] [A,/d/] [A,/-B/] [A,/c/] [E/-A/-d/] [E/A/e/] g/ a/ c'/ d/ |
+[A,/-e/] [A,/g/] [A,/-e/] [A,/d/] [E/-A/-c'/] [E/A/b/] [A,/-a/] [A,/g/] [A,/-^f/] [A,/g/] [A/-e/f/] [A/e/] c2 |
+[D,/-a/] [D,/c'/] [A,/-a/] [A,/^f/] [D/-A/-d/] [D/A/a/] [D,/-f/] [D,/c'/] [A,/-a/] [A,/f/] [D/-A/-e/] [D/A/a/] f/ c'/ a/ f/ |
+[D,/-d/] [D,/a/] [A,/-^f/] [A,/c'/] [D/-A/-a/] [D/A/f/] [D,/-e/] [D,/a/] [A,/-f/] [A,/c'/] [G/-c/-a/] [G/c/f/] d/ f/ e/ f/ |
+% Bar 70 (1:57)
+[D,/-a/] [D,/c'/] [A,/-a/] [A,/^f/] [D/-A/-d/] [D/A/a/] [D,/-f/] [D,/c'/] [A,/-a/] [A,/f/] [D/-A/-e/] [D/A/a/] f/ c'/ a/ f/ |
+[D,/-c'/] [D,/a/] [A,/-g/] [A,/e/] [D/-A/-d/] [D/A/a/] [D,/-g/] [D,/e/] [A,/-e/] [A,/a/] [A/-e/g/] [A/e/] g/ a/ g/ e/ |
+[A,e] c A e c A c/ e/ c/ A/ |
+[A,e] c A e c A [c/c'/-] [e/c'/-] [c/c'/-] [A/c'/] |
+[E,e] B A e B A B/ e/ B/ A/ |
+[E,e] B A e B A B/ e/ B/ A/ |
+[A,e] c A e c A c/ e/ c/ A/ |
+[A,e] c A e [cd-] [Ad-] [c/d/-] [d/-e/] [c/d/-] [A/d/] |
+[E,e] B A e B A B/ e/ B/ A/ |
+[E,e] B A G [Aa-] [Ga] [Db-] [A,b] |
+% Bar 80 (2:14)
+[D,D-] D A [DF-] F d- [Cd] [G,A-] |
+A [Gf] d2 [C,a] [Cf-] f d- |
+[D,d] d c'- [Dc'-] c'2- [Cc'-] [G,c'] |
+z G z f- [F,f] [Ff] e d |
+[D,c'] d g- [Dg] c'2 [Cc'] [G,a-] |
+a- [Ga-] a d [C,f] [Ce] [Cd-] [C/d/-] [D/d/] |
+D, z2 D z2 C G, |
+z G z2 C, C z2 |
+D, A,/ D/ C [DF] D/ G/ F [CA] [G,/-G/] [G,/c/] |
+A [Gd] c/ f/ d [C,g] [C/-f/] [C/a/] g c'- |
+% Bar 90 (2:31)
+[D,/-c'/] [D,/c'/-] c'/ c' c'/- [D/-c'/] [D/c'/-] c'/ c' c'/- [Cc'] [G,c'] |
+z [Gd-] d2 F, F f/ g/ a |
+D, z/ D3/2 [Dd-] d/ d3/2 [Cc'-] [G,/-c'/] [G,/c/-] |
+c [C-G] C/ G,3/2 [C,G-] [C/-G/] [C/g/-] [Cg] [C/d/-] [D/d/] |
+D, z2 D z2 C G, |
+z G z f/ d/ [C,c] [CA] G/ F/ D |
+[D,D] [A,/-G/] [A,/F/] [DA] [D,G] [A,/-c/] [A,/A/] [DAd] c f/ d/ |
+[D,g] [A,f] [D/-A/-a/] [D/A/g/] [D,c'] [A,a] [G/-c/-d/] [G/c/c'/] f d |
+[D,g] [A,/-a/] [A,/f/-] [D/-A/-f/] [D/A/g/] [D,d] [A,/-f/] [A,/c'/-] [D/-A/-c'/] [D/A/d/] a c'/ g/- |
+[D,/-g/] [D,/a/] [A,f] [DAg] [D,d] [A,c'] [Gcc'] a/ g/ f |
+z8 |]
+

@@ -1,0 +1,141 @@
+N: TS  4,   3   1  21   4
+X: 3
+%%Orig filename was LullyClar.abc
+T:Long Live the Nine (Basic Clarinet) (0:00)
+%%part-name Basic Clarinet
+M:4/4
+L:1/8
+Q:1/4=140
+K:Cmaj% 2 flats
+
+A2- A/2x3/2 _A3x| \
+=A4- Ax3| \
+x2 E3/2x/2 E3-E/2x/2| \
+x2 D3/2x/2 C3-[C/2B,/2-]B,/2|
+A,2- A,/2x/2B,2<B,2E| \
+E4- E3/2x2x/2| \
+A2- A/2x3/2 _A3x| \
+=A4- Ax3|
+x2 E3/2x/2 E3-E/2x/2| \
+x2 D3/2x/2 C3-[C/2B,/2-]B,/2| \
+A,2- A,/2x/2B,2<B,2E| \
+E4- E3/2x2x/2|
+E3x D3-D/2x/2| \
+C3x3 C3/2x/2| \
+B,4 C3/2x/2 C3/2x/2| \
+E3x _E3x|
+=E3-E/2x/2 cx cx| \
+c2- c/2x/2B A3/2x/2 _A3/2x/2| \
+=A3x A3x| \
+F4 E3/2x/2 E3/2x/2|
+C2 E2 cx cx| \
+c3B A2 _A2| \
+=A3x3/2A3-A/2| \
+F3-F/2x/2 Ex Ex|
+C6- C/2
+
+X: 1
+%%Orig filename was LullyFlute1.abc
+T:Long Live the Nine (1st Basic Flute 1) (0:00)
+%%part-name Basic Flute 1
+M:4/4
+L:1/8
+Q:1/4=140
+K:Cmaj
+
+e3-e/2x/2 e2- e/2x/2d| \
+c2- c/2x/2B/2x/2 A2 a3/2x/2| \
+e2- e/2x/2^f g3/2x/2 g3/2x/2| \
+g3-g/2x/2 e2- e/2x/2d/2e/2|
+=f2- f/2x/2e2<d2c| \
+c4- cx3| \
+e3-e/2x/2 e2- e/2x/2d| \
+c2- c/2x/2B/2x/2 A2 a3/2x/2|
+e2- e/2x/2^f g3/2x/2 g3/2x/2| \
+g3-g/2x/2 e2- e/2x/2d/2e/2| \
+=f2- f/2x/2e2<d2c| \
+c6- c/2x3/2|
+g4 _a2- _a/2x/2^f/2_a/2| \
+=a2- a/2x/2b c'3/2x/2 ba| \
+b3x e3/2x/2 e3/2x/2| \
+e2- e/2x/2a/2g/2 ^f2- ^f/2x/2b/2a/2|
+_a^f e2 =a/2x3/2 ax| \
+a2>b2 b2- b/2x/2c'| \
+c'2- c'/2x/2b ag =fe| \
+de Bc2<B2A|
+A2- A/2x/2e x/2axax/2| \
+a2>b2 b2>c'2| \
+c'3-[c'/2b/2-]b/2 ag fe| \
+de B-[c/2B/2]x/2 B2>A2|
+A6- A/2
+
+X: 21
+%%Orig filename was LullyFlute2.abc
+T:Long Live the Nine (2nd Basic Flute 2) (0:00)
+%%part-name Basic Flute 2
+M:4/4
+L:1/8
+Q:1/4=140
+K:Cmaj% 2 flats
+
+c3x B3x| \
+A4- Ax AB| \
+c3x B3x| \
+B3-B/2x/2 c3-c/2x/2|
+c3x B2- B/2x/2E| \
+E4- E3/2x2x/2| \
+c3x B3x| \
+A4- Ax AB|
+c3x B3x| \
+B3-B/2x/2 c3-c/2x/2| \
+c3x B2- B/2x/2E| \
+E4- E3/2x2x/2|
+e3-e/2x/2 d3-d/2x/2| \
+c3x3 c3/2x/2| \
+B4 cx cx| \
+c2- c/2x/2c2<B2B|
+B3x4x| \
+x2 f4 e3/2x/2| \
+e2- e/2x/2d x/2c2-c/2x/2B/2| \
+A4 A_A _A=A|
+A4 x4| \
+x2 f4 e3/2x/2| \
+e2- e/2x/2d c3B/2x/2| \
+A3-A/2x/2 _A2>=A2|
+A6- A/2
+
+X: 4
+%%Orig filename was LullyHorn.abc
+T:Long Live the Nine (Basic Horn) (0:00)
+%%part-name Basic Horn
+M:4/4
+L:1/8
+Q:1/4=140
+K:Cmaj% 2 flats
+
+A,3-A,/2x/2 E,3-E,/2x/2| \
+F,4- F,x F,G,| \
+A,3/2x/2 A,3/2x/2 E,3x| \
+B,3/2x/2 G,3/2x/2 C3x|
+F,3x G,3/2x/2 G,3/2x/2| \
+C,4- C,x3| \
+A,3-A,/2x/2 E,3-E,/2x/2| \
+F,4- F,x F,G,|
+A,3/2x/2 A,3/2x/2 E,3x| \
+B,3/2x/2 G,3/2x/2 C3x| \
+F,3x G,3/2x/2 G,3/2x/2| \
+C,3x C2- C/2x/2B,|
+C3x B,3x| \
+A,3x3 A,3/2x/2| \
+_A,3x =A,3/2x/2 A,B,| \
+C3/2x/2 A,3/2x/2 B,3/2x/2 B,3/2x/2|
+E,3x F,3/2x/2 F,3/2x/2| \
+F,3x D,3/2x/2 E,3/2x/2| \
+A,2- A,/2x/2B, C,3x| \
+D,3x E,3/2x/2 E,3/2x/2|
+A,3/2x/2 A,3/2x/2 A,3/2x/2 F,3/2x/2| \
+F,3x D,3/2x/2 E,3/2x/2| \
+A,2- A,/2x/2B, C,3x| \
+D,3x E,3/2x/2 E,3/2x/2|
+A,6- A,/2|
+
