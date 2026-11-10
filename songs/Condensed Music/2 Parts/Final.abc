@@ -1,71 +1,105 @@
-N: TS  2,   1  21
+%abc-2.1
+%%song-title       FFIX Ceremony
+%%song-composer    Nobuo Uematsu
+%%song-duration    1:06
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-10 14:22:49
+%%swing-rhythm false
+%%mix-timings false
+%%reduced-file-size false
+%%organic             true
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+I:decoration +
+
 X: 1
-%%Orig filename was FinalFlute1.abc
-% Information fields 
-T:FFIX Ceremony (1st part) % Song title  (0:08)
+T: FFIX Ceremony (1:06) - Basic Flute 1
 %%part-name Basic Flute 1
-C:Composer: Nobuo Uematsu % Composer 
-N:Remarks: % Notes 
-Q:1/4=180 % Tempo 
-M:12/8 % Meter 
-L:1/8 % Default note length 
-K:Bb % Key 
-%ABC Tune Notation 
-f1 d1 f1 g1 e1 g1 f1 d1 f1 f1 z2| 
-f1 d1 f1 b1 g1 b1 a1 f1 a1 a1 z2| 
-e1 c1 e1 f1 d1 f1 e1 c1 e1 e1 z2| 
-e1 c1 e1 g2 f1 e1 d1 c1 d1 z2| 
+%%made-for Basic Flute
+%%user-pan auto
+C: Nobuo Uematsu
+M: 12/8
+Q: 180
+L: 1/2666666
+K: C maj
++mf+ f333333 d333333 f333333 g333333 ^d333333 g333333 f333333 |
+%  (0:03) bar 1.2
+d333333 f333333 f333333 z666666 f333333 d333333 f333333 ^a333333 |
+%  (0:06) bar 2.7
+g333333 ^a333333 =a333333 f333333 a333333 a333333 z666666 ^d333333 |
+%  (0:09) bar 4.2
+c333333 ^d333333 f333333 =d333333 f333333 ^d333333 c333333 d333333 |
+%  (0:11) bar 5.5
+^d333333 z666666 d333333 c333333 d333333 g666666 f333333 d333333 |
+%  (0:15) bar 7.2
+d333333 c333333 d333333 z666666 f333333 d333333 f333333 g333333 |
+%  (0:18) bar 8.7
+^d333333 g333333 f333333 =d333333 f333333 f333333 z666666 f333333 |
+%  (0:21) bar 10.2
+d333333 f333333 ^a333333 g333333 a333333 =a333333 f333333 a333333 |
+%  (0:23) bar 11.5
+a333333 z666666 ^d333333 c333333 d333333 f333333 =d333333 f333333 |
+%  (0:26) bar 13.0
+^d333333 c333333 d333333 d333333 z666666 d333333 c333333 d333333 |
+%  (0:29) bar 14.5
+g666666 f333333 ^d333333 =d333333 c333333 ^A333333 z666666 g333333 |
+%  (0:33) bar 16.2
+^d333333 g333333 ^a333333 g333333 a333333 =a333333 f333333 a333333 |
+%  (0:35) bar 17.5
+^a333333 z666666 g333333 =a333333 ^a333333 ^d333333 =d333333 c333333 |
+%  (0:38) bar 19.0
+f333333 ^d333333 c333333 =d333333 z666666 g333333 ^d333333 g333333 |
+%  (0:41) bar 20.5
+^a333333 g333333 a333333 =a333333 g333333 a333333 ^a333333 z666666 |
+%  (0:44) bar 22.0
+g333333 a333333 ^a333333 a333333 =a333333 g333333 c'3999996 f333333 |
+%  (0:51) bar 25.2
+d333333 f333333 g333333 ^d333333 g333333 f333333 =d333333 f333333 |
+%  (0:53) bar 26.5
+f333333 z666666 f333333 d333333 f333333 ^a333333 g333333 a333333 |
+%  (0:56) bar 28.0
+a333333 f333333 a333333 a333333 z666666 ^d333333 c333333 d333333 |
+%  (0:59) bar 29.5
+f333333 d333333 f333333 ^d333333 c333333 d333333 d333333 z666666 |
+%  (1:02) bar 31.0
+^d333333 c333333 d333333 g666666 f333333 d333333 =d333333 c333333 |
+%  (1:05) bar 32.5
+^A999999 |]
 
-f1 d1 f1 g1 e1 g1 f1 d1 f1 f1 z2| 
-f1 d1 f1 b1 g1 b1 a1 f1 a1 a1 z2| 
-e1 c1 e1 f1 d1 f1 e1 c1 e1 e1 z2| 
-e1 c1 e1 g2 f1 e1 d1 c1 B1 z2| 
-
-g1 e1 g1 b1 g1 b1 a1 f1 a1 b1 z2| 
-g1 a1 b1 e1 d1 c1 f1 e1 c1 d1 z2| 
-g1 e1 g1 b1 g1 b1 a1 g1 a1 b1 z2| 
-M:18/8 % Meter 
-g1 a1 b1 b1 a1 g1 c'12| 
-
-M:12/8 % Meter 
-f1 d1 f1 g1 e1 g1 f1 d1 f1 f1 z2| 
-f1 d1 f1 b1 g1 b1 a1 f1 a1 a1 z2| 
-e1 c1 e1 f1 d1 f1 e1 c1 e1 e1 z2| 
-e1 c1 e1 g2 f1 e1 d1 c1 B3|] 
-%End of file
 
 X: 21
-%%Orig filename was FinalFlute2.abc
-% Information fields 
-T:FFIX Ceremony (2nd Part)% Song title  (0:08)
+T: FFIX Ceremony (1:06) - Basic Flute 2
 %%part-name Basic Flute 2
-C:Composer: Nobuo Uematsu % Composer 
-N:Remarks: % Notes 
-Q:1/4=180 % Tempo 
-M:12/8 % Meter 
-L:1/8 % Default note length 
-K:Bb % Key 
-%ABC Tune Notation 
-B,3 E3 B,3 B,1 z2| 
-B,3 G,3 D3 D1 z2| 
-C3 D3 C3 C1 z2| 
-C3 F,3 B,3 B,1 z2| 
-
-B,3 E3 B,3 B,1 z2| 
-B,3 G,3 D3 D1 z2| 
-C3 D3 C3 C1 z2| 
-C3 F,3 B,3 B,1 z2| 
-
-E3 C3 F3 B,1 z2| 
-E3 C3 F3 B,1 z2| 
-E3 C3 F3 B,1 z2| 
-M:18/8 % Meter 
-G,3 C3 F3 E3 D3 C3| 
-
-M:12/8 % Meter 
-B,3 E3 B,3 B,1 z2| 
-B,3 G,3 D3 D1 z2| 
-C3 D3 C3 C1 z2| 
-C3 F,3 B,3 B,3|] 
-%End of file
+%%made-for Basic Flute
+%%user-pan auto
+C: Nobuo Uematsu
+M: 12/8
+Q: 180
+L: 1/2666666
+K: C maj
++mf+ ^A,999999 ^D999999 A,999999 A,333333 z666666 A,999999 G,999999 |
+%  (0:06) bar 3.0
+D999999 D333333 z666666 C999999 D999999 C999999 C333333 z666666 |
+%  (0:12) bar 6.0
+C999999 F,999999 ^A,999999 A,333333 z666666 A,999999 ^D999999 A,999999 |
+%  (0:19) bar 9.5
+^A,333333 z666666 A,999999 G,999999 D999999 D333333 z666666 C999999 |
+%  (0:25) bar 12.5
+D999999 C999999 C333333 z666666 C999999 F,999999 ^A,999999 A,333333 |
+%  (0:32) bar 15.7
+z666666 ^D999999 C999999 F999999 ^A,333333 z666666 D999999 C999999 |
+%  (0:38) bar 19.0
+F999999 ^A,333333 z666666 ^D999999 C999999 F999999 A,333333 z666666 |
+%  (0:44) bar 22.0
+G,999999 C999999 F999999 ^D999999 =D999999 C999999 ^A,999999 ^D999999 |
+%  (0:52) bar 26.0
+^A,999999 A,333333 z666666 A,999999 G,999999 D999999 D333333 z666666 |
+%  (0:58) bar 29.0
+C999999 D999999 C999999 C333333 z666666 C999999 F,999999 ^A,999999 |
+%  (1:05) bar 32.5
+^A,999999 |]
 

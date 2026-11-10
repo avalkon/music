@@ -1,427 +1,1490 @@
-N: TS  3,  10   5   8
-X: 10
-%%Orig filename was DiseaseDrums.abc
-T: Shake The Disease (Basic Drum) [v.2 by Cranberry] (4:22)
-%%part-name Basic Drum
-N: �Shake the Disease� by Depeche Mode, from the album "The Singles 81-85."
-N: Song adapted to LotRO by Cranberry of Landroval, Mighty Mighty Bree Tones.
-M: 4/4
-L: 1/8
-Q:1/4=120
-K:C 
-x8| 
-x8| 
-x8| 
-x8|
-x8| 
-x8| 
-x8| 
-x8|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 [D/2E,/2]x/2[^f/2D/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 [D/2E,/2]x/2[^f/2D/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 E,/2x/2[D/2^G,/2E,/2]^G,/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2^G,/2E,/2][D/2^G,/2][^G,/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 [D/2E,/2]x/2[^f/2D/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2|
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2|
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2|
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 [D/2E,/2]x/2[^f/2D/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 [D/2E,/2]x/2[^f/2D/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 E,/2x/2[D/2^G,/2E,/2]^G,/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2^G,/2E,/2][D/2^G,/2][^G,/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[^f/2D/2E,/2]x/2[^f/2E,/2]x/2 [D/2E,/2]x/2[^f/2D/2E,/2]x/2 E,/2x/2[^f/2D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2|
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2|
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2|
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2|
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[^f/2D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2|
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2|
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2|
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-E,/2x3/2 E,/2x3/2 E,/2x3/2 E,/2x3/2| 
-E,/2x3/2 E,/2x3/2 E,/2x/2E,/2x/2 E,/2x/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2|
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]x/2[D/2E,/2]E,/2| 
-[D/2E,/2]x/2E,/2x/2 [^f/2E,/2]x/2[D/2E,/2]x/2 E,/2x/2[D/2E,/2]x/2 [^f/2E,/2]D/2E,/2
-
-X: 5
-%%Orig filename was DiseaseHarp.abc
-T: Shake The Disease (Basic Harp) [v.2 by Cranberry] (4:22)
-%%part-name Basic Harp
-N: �Shake the Disease� by Depeche Mode, from the album "The Singles 81-85."
-N: Song adapted to LotRO by Cranberry of Landroval, Mighty Mighty Bree Tones.
-M: 4/4
-L: 1/8
-Q:1/4=120
-K:C 
-DD DD DD DD| 
-DD DD DD DD| 
-^C^C ^C^C ^C^C ^C^C| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,|
-DD DD DD DD| 
-DD DD DD DD| 
-^C^C ^C^C ^C^C ^C^C| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,|
-DD DD DD DD| 
-DD DD DD DD| 
-DD DD DD DD| 
-DD DD DD DD|
-DD D=C CC CF,| 
-F,F, F,^A, ^A,^A, ^A,D| 
-DD DD DD DD| 
-DD DD DD DD|
-DD DC CC CF,| 
-F,F, F,^A, ^A,^A, ^A,D| 
-DD DD DD DD| 
-DD DD DD DD|
-F,F, F,F, F,F, F,F,| 
-CC CC ^A,2 G,2| 
-F,F, F,F, F,F, F,F,| 
-CC CC CC CC|
-^A,^A, ^A,^A, ^A,^A, ^A,^A,| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,| 
-^A,^A, ^A,^A,4-^A,|
-DD DD DD DF| 
-FF FF FF F^C| 
-^C^C ^C^C ^C^C ^C^A,| 
-^A,^A, ^A,^A, ^A,^A, ^A,^C|
-DD DD DD DF| 
-FF FF FF F^C| 
-^D^D ^D^D ^D^D ^D^D| 
-^A,2 ^A,2 ^A,2 ^A,2|
-^A,2 ^A,2 ^A,2 ^A,2| 
-=DD D=C C2 FF-| 
-FG GG GG x2| 
-DD DC C2 FF-|
-FG GG GG x2| 
-DD DC C2 FF-| 
-FG GG GG x2| 
-DD DC C2 FF-|
-FG GG GG x2| 
-DD DC C2 DD-| 
-D8| 
-DD DC C2 CC|
-C8| 
-DD DD DD DD| 
-DD DD DD DD| 
-DD DD DD DD|
-DD DD DD DD| 
-DD DC CC CF,| 
-F,F, F,^A, ^A,^A, ^A,D| 
-DD DD DD DD|
-DD DD DD DD| 
-DD DC CC CF,| 
-F,F, F,^A, ^A,^A, ^A,D| 
-DD DD DD DD|
-DD DD DD DD| 
-F,F, F,F, F,F, F,F,| 
-CC CC ^A,2 G,2| 
-F,F, F,F, F,F, F,F,|
-CC CC CC CC| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,| 
-^A,^A, ^A,^A, ^A,^A, ^A,^A,|
-^A,^A, ^A,^A,4-^A,| 
-DD DD DD DF| 
-FF FF FF F^C| 
-^C^C ^C^C ^C^C ^C^A,|
-^A,^A, ^A,^A, ^A,^A, ^A,^C| 
-DD DD DD DF| 
-FF FF FF F^C| 
-^D^D ^D^D ^D^D ^D^D|
-^A,2 ^A,2 ^A,2 ^A,2| 
-^A,2 ^A,2 ^A,2 ^A,2| 
-=DD D=C C2 FF-| 
-FG GG GG x2|
-DD DC C2 FF-| 
-FG GG GG x2| 
-DD DC C2 FF-| 
-FG GG GG x2|
-DD DC C2 FF-| 
-FG GG GG x2| 
-DD DC C2 DD-| 
-D8|
-DD DC C2 CC| 
-C8| 
-DD DC CC CF| 
-FF F^A, ^A,^A, ^A,D|
-DD DD DD DD| 
-DD DD DD DD| 
-DD DC CC CF| 
-FF F^A, ^A,^A, ^A,D|
-DD DD DD DD| 
-DD DD DD DD| 
-D8| 
-E8|
-^C8| 
-^A,8| 
-DD DD DD DF| 
-FF FF FF F^C|
-^C^C ^C^C ^C^C ^C^A,| 
-^A,^A, ^A,^A, ^A,^A, ^A,^C| 
-DD DD DD DF| 
-FF FF FF F^C|
-^D^D ^D^D ^D^D ^D^D| 
-^A,2 ^A,2 ^A,2 ^A,2| 
-^A,2 ^A,2 ^A,2 ^A,2| 
-=DD D=C C2 FF-|
-FG GG GG x2| 
-DD DC C2 FF-| 
-FG GG GG x2| 
-DD DC C2 FF-|
-FG GG GG x2| 
-DD DC C2 FF-| 
-FG GG GG x2| 
-DD DC C2 DD-|
-D8| 
-DD DC C2 CC| 
-C8| 
-DD DC CC CF|
-FF F^A, ^A,^A, ^A,D| 
-DD DD DD DD| 
-DD DD DD DD| 
-DD DC CC CF|
-FF F^A, ^A,^A, ^A,D| 
-DD DD DD DD| 
-DD DD DD DD|
+%abc-2.1
+%%song-title       Shake The Disease
+%%song-composer    Depeche Mode
+%%song-duration    4:23
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-10 12:53:02
+%%swing-rhythm false
+%%mix-timings false
+%%reduced-file-size false
+%%organic             true
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+I:decoration +
 
 X: 8
-%%Orig filename was DiseaseLute.abc
-T: Shake The Disease (Basic Lute) [v.2 by Cranberry] (4:22)
+T: Shake The Disease (4:23) - Basic Lute
 %%part-name Basic Lute
-N: �Shake the Disease� by Depeche Mode, from the album "The Singles 81-85."
-N: Song adapted to LotRO by Cranberry of Landroval, Mighty Mighty Bree Tones.
+%%made-for Basic Lute
+%%user-pan auto
+C: Depeche Mode
 M: 4/4
-L: 1/8
-Q:1/4=120
-K:F 
-[f-d-D,][f-d-D,] [f-d-D,][f-d-D,] [f-d-D,][fd-D,] [a-d-D,][adD,]| 
-[f-d-D,][f-d-D,] [f-d-D,][f-d-D,] [f-d-D,][fd-D,] [b-d-D,][b-dD,]| 
-[b-_D,][b_D,] [f-_d-_D,][f-_d-_D,] [f-_d-_D,][f_d-_D,] [b-_d-_D,][b-_d_D,]| 
-[b-B,][bB,] [f-=d-B,][f-d-B,] [f-d-B,][f-d-B,] [f-d-B,][fdB,]|
-[f-d-D,][f-d-D,] [f-d-D,][f-d-D,] [f-d-D,][fd-D,] [a-d-D,][adD,]| 
-[f-d-D,][f-d-D,] [f-d-D,][f-d-D,] [f-d-D,][fd-D,] [b-d-D,][b-dD,]| 
-[b-_D,][b_D,] [f-_d-_D,][f-_d-_D,] [f-_d-_D,][f_d-_D,] [b-_d-_D,][b-_d_D,]| 
-[b-B,][bB,] [f-=d-B,][f-d-B,] [f-d-B,][f-d-B,] [f-d-B,][fdB,]|
-D,D, [afdD,][afdD,] [b-f-d-D,][bf-d-D,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [af-d-D,][bf-d-D,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [b-f-d-D,][bf-d-D,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [af-d-DD,][bf-d-F-D,] [a-f-d-FD,][afdDD,]|
-[a-f-d-D,][afdD,] [a-f-d-D,][afdC,] [gf-c-C,][gf-c-C,] [gfcC,][f-c-A-F,]| 
-[f-c-A-F,][fc-A-F,] [gc-A-F,][fcAB,] [gf-d-B,][gf-d-B,] [c'fdB,][a-f-d-D,]| 
-[afd-D,][fdD,] [afdD,][afdD,] [b-f-d-D,][bfdD,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [af-d-D,][bfdD,] [dD,][fD,]|
-[a-f-d-D,][afdD,] [a-f-d-D,][afdC,] [gecGC,][g-e-c-GC,] [gecDC,][f-c-A-F,]| 
-[f-c-A-F,][fc-A-F,] [gcAF,][g-f-d-AB,] [gf-d-GB,][c'fdFB,] [a-f-d-DB,][a-f-d-D-D,]| 
-[afd-DD,][fdD,] [afdD,][afdD,] [b-f-d-D,][bfdD,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [b-f-d-D,][bfdD,] [fD,][gD,]|
-[a-f-c-F,][a/2f/2-c/2-F,/2-][b/2-f/2-c/2-F,/2] [b/2-f/2-c/2-F,/2-][b/2a/2-f/2-c/2-F,/2][afcF,] [a-f-c-F,][a-f-c-F,] [a-f-c-F,][afcF,]| 
-[e-c-C,][e-c-C,] [e-c-C,][e-c-C,] [e2c2B,2] [c'g-e-G,-][c'geG,]| 
-[c'a-F,][a-fF,] [a-fF,][a-f-F,] [a-fF,][c'aF,] [c'a-f-F,][c'afF,]| 
-[c'g-e-C,][ag-e-C,] [bgeC,][b-g-e-C,] [b-g-e-C,][bge-C,] [geC,][g-d-B-C,]|
-[gd-B-B,][f-d-B-B,] [fdBB,][f-d-B-B,] [f-d-B-B,][f-d-B-B,] [f-d-B-B,][fdBB,]| 
-B,B, [dB-B,][dBB,] [fd-B,][gd-B,] [fdB,][a-f-d-B,]| 
-[afd-B,][fdB,] [f-d-B-B,][f-d-B-B,] [f-d-B-B,][f-d-B-B,] [f-d-B-B,][f-d-B-B,]| 
-[f-d-B-B,][f-d-B-B,] [f-d-B-B,][fdBB,-] [dB,-][dB,-] [aB,-][a-f-d-B,]|
-[a-f-d-D,][a-f-d-D,] [af-dD,][f-dD,] [f-dD,][f-dD,] [afD,][_a-f-c-F,]| 
-[_a-f-c-F,][_a-f-c-F,] [_a-f-c-F,][_af-c-F,] [_af-c-F,][bf-c-F,] [c'fcF,][b-f-_d-_D,]| 
-[bf-_d-_D,][_a-f-_d-_D,] [_af-_d-_D,][_af-_d-_D,] [_af-_d-_D,][bf-_d-_D,] [c'f_d_D,][b-f-=d-B,]| 
-[b-f-d-B,][b-f-d-B,] [bfd-B,][fd-B,] [f-d-B,][fd-B,] [fdB,][=a-f-d-_D,]|
-[a-f=d-D,][a-edD,] [a-dD,][c'a-D,] [a-d-D,][a-dD,] [afD,][f-c-_A-F,]| 
-[fc-_A-F,][gc-_A-F,] [_ac-_A-F,][g-c-_A-F,] [gc-_A-F,][fc-_A-F,] [fc_AF,][f-_d-_A-_D,]| 
-[f_d-_A-_E,][g_d-_A-_E,] [_a_d-_A-_E,][b-_d-_A-_E,] [b_d-_A-_E,][_a_d-_A-_E,] [_a_d-_A-_E,][g_d_A_E,]| 
-[_a3/2f3/2-=d3/2-B,3/2-][g/2-f/2-d/2-B,/2] [g/2-f/2d/2-B,/2-][g/2f/2-d/2-B,/2-][fdB,] [=a2-f2-d2-B,2] [a2-f2-d2-B,2]|
-[a2-f2-d2-B,2] [a2f2-d2-B,2] [f2-d2-B,2] [f2d2B,2]| 
-[fdAD,][fdAD,] [fdAD,][=ecGC,] [e2c2G2C,2] [fcGF,][f-c-G-F,-]| 
-[f-c-G-F,][fcGG,] [GG,][GG,] [G-G,][GG,] AB| 
-[fdAD,][fdAD,] [fdAD,][ecGC,] [e2c2G2C,2] [fcGF,][f-c-G-F,-]|
-[f-c-G-F,][fcGG,] [FG,][GG,] [A-G,][AG,] F2-| 
-[fdAF-D,][fdAF-D,] [fdAF-D,][ecGF-C,] [e2c2G2F2-C,2] [fcGF-F,][f-c-G-F-F,-]| 
-[f-c-G-F-F,][fcGFG,] G,G, G,G, xB| 
-[fdAD,][fdAD,] [fdAD,][ecGC,] [e2c2G2C,2] [fcGF,][f-c-G-F,-]|
-[f-c-G-F,][fcGG,] [FG,][GG,] [A-G,][AG,] F2| 
-[dBFD,][dBFD,] [dBFD,][cGEC,] [c2G2E2C,2] [dBFD,][dBFD,-]| 
-D,-[afD,-] [afD,-][afD,-] [afD,-][bgD,-] [a-fD,-][afD,]| 
-[dBFD,][dBFD,] [dBFD,][cGEC,] [c2G2E2C,2] [dBFC,][dBFC,]|
-C,-[afC,-] [afC,-][afC,-] [afC,-][bgC,-] [a-fC,-][afC,]| 
-D,D, [afdD,][afdD,] [b-f-d-D,][bf-d-D,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [af-d-D,][bf-d-D,] [a-f-d-D,][afdD,]| 
-D,D, [afdD,][afdD,] [b-f-d-D,][bf-d-D,] [a-f-d-D,][afdD,]|
-D,D, [afdD,][afdD,] [af-d-DD,][bf-d-F-D,] [a-f-d-FD,][afdDD,]| 
-[a-f-d-D,][afdD,] [a-f-d-D,][afdC,] [gf-c-C,][gf-c-C,] [gfcC,][f-c-A-F,]| 
-[f-c-A-F,][fc-A-F,] [gc-A-F,][fcAB,] [gf-d-B,][gf-d-B,] [c'fdB,][a-f-d-D,]| 
-[afd-D,][fdD,] [afdD,][afdD,] [b-f-d-D,][bfdD,] [a-f-d-D,][afdD,]|
-D,D, [afdD,][afdD,] [af-d-D,][bfdD,] [dD,][fD,]| 
-[a-f-d-D,][afdD,] [a-f-d-D,][afdC,] [gecGGC,][g-e-c-G-GC,] [gecG-D-DC,][f-c-A-G-D-F,]| 
-[f-c-A-G-D-F,][fc-A-G-D-F,] [gcAG-D-F,][g-f-d-A-AGD] [gf-d-A-G-GD][c'fdA-G-F] [a-f-d-A-G-F][a-f-d-A-G-F]| 
-[afd-A-G-F][fdA-G-F-D] [afdA-G-F][afdA-G-F] [b-f-d-A-G-F][bfdA-G-F] [a-f-d-A-G-F][afdA-G-F]|
-[A-G-F-D-D,][A-G-F-D-D,] [afdA-G-F][afdA-G-F] [b-f-d-A-G-F][bfdA-G-F] [fA-G-F-D-D,][gA-G-F-D-D,]| 
-[a-f-c-A-G-F][a/2f/2-c/2-A/2-G/2-F/2-][b/2-f/2-c/2-A/2-G/2-F/2] [b/2-f/2-c/2-A/2-G/2-F/2-][b/2a/2-f/2-c/2-A/2-G/2][afcA-G-F] [a-f-c-A-G-F][a-f-c-A-G-F] [a-f-c-A-G-F][afcA-G-F]| 
-[e-c-A-G-F-D][e-c-A-G-F-D] [e-c-A-G-F-D][e-c-A-G-F-D] [e2c2A2-G2-F2-D2] [c'g-e-A-G-F-][c'geA-G-F]| 
-[c'a-A-G-F-D][a-fA-G-F-D] [a-fA-G-F-D][a-f-A-G-F-D] [a-fA-G-F-D][c'aA-G-F-D] [c'a-f-A-G-F][c'afA-G-F]|
-[c'g-e-A-G-F][ag-e-A-G-F] [bgeA-G-F][b-g-e-A-G-F] [b-g-e-A-G-F][bge-A-G-F] [geA-G-F-D][g-d-B-A-G-F]| 
-[gd-B-A-G-F][f-d-B-A-G-F] [fdBA-G-F][f-d-B-A-G-F] [f-d-B-A-G-F][f-d-B-A-G-F] [f-d-B-A-G-F][fdBA-G-F]| 
-[A-G-F-D-B,][A-G-F-D-B,] [dB-A-G-F-D][dBA-G-F-D] [fd-A-G-F-D][gd-A-G-F-D] [fdA-G-F-D][a-f-d-A-G-F]| 
-[afd-A-G-F][fdA-G-F-D] [f-d-B-A-G-F][f-d-B-A-G-F] [f-d-B-A-G-F][f-d-B-A-G-F] [f-d-B-A-G-F][f-d-B-A-G-F]|
-[f-d-B-A-G-F][f-d-B-A-G-F] [f-d-B-A-G-F][fdBA-G-F-] [dA-G-F-D-B,-][dA-G-F-D-B,-] [aA-G-F-D-B,-][a-f-d-A-G-F]| 
-[a-f-d-A-G-F][a-f-d-A-G-F] [af-dA-G-F][f-dA-G-F-D] [f-dA-G-F-D][f-dA-G-F-D] [afA-G-F-D][_a-f-c-=A-G-F]| 
-[_a-f-c-=A-G-F][_a-f-c-=A-G-F] [_a-f-c-=A-G-F][_af-c-=A-G-F] [_af-c-=A-G-F][bf-c-A-G-F] [c'fcA-G-F][b-f-_d-A-G-F]| 
-[bf-_d-A-G-F][_a-f-_d-=A-G-F] [_af-_d-=A-G-F][_af-_d-=A-G-F] [_af-_d-=A-G-F][bf-_d-A-G-F] [c'f_dA-G-F][b-f-=d-A-G-F]|
-[b-f-d-A-G-F][b-f-d-A-G-F] [bfd-A-G-F][fd-A-G-F-D] [f-d-A-G-F-D][fd-A-G-F-D] [fdA-G-F-D][a-f-d-A-G-F]| 
-[a-f=d-A-G-F][a-edA-G-F] [a-dA-G-F-D][c'a-A-G-F-D] [a-d-A-G-F-D][a-dA-G-F-D] [afA-G-F-D][f-c-A-_A-G-F]| 
-[fc-=A-_A-G-F][gc-=A-_A-G-F] [_ac-=A-_A-G-F][g-c-=A-_A-G-F] [gc-=A-_A-G-F][fc-=A-_A-G-F] [fc=A-_AG-F][f-_d-=A-_A-G-F]| 
-[f_d-=A-_A-G-F][g_d-=A-_A-G-F] [_a_d-=A-_A-G-F][b-_d-=A-_A-G-F] [b_d-=A-_A-G-F][_a_d-=A-_A-G-F] [_a_d-=A-_A-G-F][g_d=A-_AG-F]|
-[_a3/2f3/2-d3/2-=A3/2-G3/2-F3/2-][g/2-f/2-d/2-A/2-G/2-F/2] [g/2-f/2d/2-A/2-G/2-F/2-][g/2f/2-d/2-A/2-G/2-F/2-][fdA-G-F-D] [a2-f2-d2-A2-G2-F2] [a2-f2-d2-A2-G2-F2]| 
-[a2-f2-d2-A2-G2-F2] [a2f2-d2-A2-G2-F2] [f2-d2-A2-G2-F2-D2] [f2d2A2-G2-F2-D2]| 
-[fdA-AG-F-D][fdA-AG-F-D] [fdA-AG-F-D][=ecA-G-GF-D] [e2c2A2-G2-G2F2-D2] [fcA-G-GF-D][f-c-A-G-G-F-D-]| 
-[f-c-A-G-G-F-D][fcA-G-GF-D] [A-G-GF-D-G,][A-G-GF-D-G,] [A-G-G-F-D-G,][A-G-GF-D-G,] [A-AG-F-D-][BA-G-F-D-]|
-[fdA-AG-F-D][fdA-AG-F-D] [fdA-AG-F-D][ecA-G-GF-D] [e2c2A2-G2-G2F2-D2] [fcA-G-GF-D][f-c-A-G-G-F-D-]| 
-[f-c-A-G-G-F-D][fcA-G-GF-D] [A-G-F-FD-G,][A-G-GF-D-G,] [A-A-G-F-D-G,][A-AG-F-D-G,] [A2-G2-F2-F2-D2-]| 
-[fdA-AG-F-F-D][fdA-AG-F-F-D] [fdA-AG-F-F-D][ecA-G-GF-F-D] [e2c2A2-G2-G2F2-F2-D2] [fcA-G-GF-F-D][f-c-A-G-G-F-F-D-]| 
-[f-c-A-G-G-F-F-D][fcA-G-GF-FD] [A-G-F-D-G,][A-G-F-D-G,] [A-G-F-D-G,][A-G-F-D-G,] [A-G-F-D-][BA-G-F-D-]|
-[fdA-AG-F-D][fdA-AG-F-D] [fdA-AG-F-D][ecA-G-GF-D] [e2c2A2-G2-G2F2-D2] [fcA-G-GF-D][f-c-A-G-G-F-D-]| 
-[f-c-A-G-G-F-D][fcA-G-GF-D] [A-G-F-FD-G,][A-G-GF-D-G,] [A-A-G-F-D-G,][A-AG-F-D-G,] [A2-G2-F2-F2D2-]| 
-[dBA-G-F-FD][dBA-G-F-FD] [dBA-G-F-FD][cA-G-GF-ED] [c2A2-G2-G2F2-E2D2] [dBA-G-F-FD][dBA-G-F-FD-]| 
-[A-G-F-D-D,-][afA-G-F-D-] [afA-G-F-D-][afA-G-F-D-] [afA-G-F-D-][bgA-G-F-D-] [a-fA-G-F-D-][afA-G-F-D]|
-[dBA-G-F-FD][dBA-G-F-FD] [dBA-G-F-FD][cA-G-GF-ED] [c2A2-G2-G2F2-E2D2] [dBA-G-F-FD][dBA-G-F-FD]| 
-[A-G-F-D-C,-][afA-G-F-D-] [afA-G-F-D-][afA-G-F-D-] [afA-G-F-D-][bgA-G-F-D-] [a-fA-G-F-D-][afA-G-F-D]| 
-[f/2-d/2-A/2-G/2-F/2-D/2-][f/2d/2-A/2-A/2-G/2-F/2-D/2][edA-A-G-F-D] [dA-AGF-D-D,][c-A-G-G-F-D-C,] [cA-G-G-F-D-C,][d-A-G-G-F-D-C,] [dA-G-GF-D-C,][f-c-A-A-G-F-D]| 
-[fc-A-A-G-F-D][g-c-A-A-G-F-D] [gc-A-A-G-F-D][acA-AG-F-D] [g-d-B-A-G-F][gd-B-A-G-F] [fd-B-A-G-F][dBA-AG-F-D]|
-[c-A-A-G-F-D-D,][dc-A-A-G-F-D] [gc-A-A-G-F-D][f-c-A-A-G-F-D] [f-c-A-A-G-F-D][f-c-A-A-G-F-D] [f-c-A-A-G-F-D][fc-A-AG-F-D]| 
-[c-A-G-F-D-D,][c-A-G-F-D-D,] [afdc-A-G][afdc-A-G] [af-d-c-A-G][bfdc-A-G] [a-f-d-c-A-G][afdc-A-G]| 
-[fd-c-A-A-G-F][edc-A-A-G-F] [dc-A-AGF-D][c-A-G-G-F-D-C,] [c-A-G-G-F-D-C,][d-c-A-G-G-F-D] [dc-A-G-GF-D][f-c-A-A-G-F-D]| 
-[fc-A-A-G-F-D][g-c-A-A-G-F-D] [gc-A-A-G-F-D][ac-A-A-G-F-D] [g-c-A-A-G-F-D][gc-A-A-G-F-D] [fc-A-AG-F-D][c-A-AG-F-D-D,]|
-[c-A-A-G-F-D-D,][dc-A-A-G-F-D] [gc-A-A-G-F-D][f-c-A-A-G-F-D] [f-c-A-A-G-F-D][f-c-A-A-G-F-D] [f-c-A-A-G-F-D][fc-A-AG-F-D]| 
-[c-A-G-F-D-D,][c-A-G-F-D-D,] [afdc-A-G][afdc-A-G] [af-d-c-A-G][bfdc-A-G] [a-f-d-c-A-G][afdc-A-G]| 
-[f4-d4-c4-A4-G4-F4-F4-] [f-d-c-A-G-F-][fd-c-A-G-GF-] [a2d2c2-A2-A2G2-F2]| 
-[f6c6-A6-G6-F6-F6D6-] [_a2-c2-=A2-_A2-G2-F2]|
-[_a2c2-=A2-_A2G2-F2-] [f4_d4-c4-=A4-G4-F4-F4-] [_a2-_d2c2-=A2-_A2-G2]| 
-[_a2c2-=A2-_A2G2-F2-] [f2d2c2-=A2-G2-F2-F2-] [dc-A-G-F-D-][dc-A-G-F-D-] [ac-A-G-F-D-][a-f-d-c-A-G]| 
-[a-f-d-c-A-G][a-f-d-c-A-G] [af-dc-A-G][f-dc-A-G-F] [f-dc-A-G-F][f-dc-A-G-F] [afc-A-G-F][_a-f-c-=A-G-F]| 
-[_a-f-c-=A-G-F][_a-f-c-=A-G-F] [_a-f-c-=A-G-F][_af-c-=A-G-F] [_af-c-=A-G-F][bf-c-A-G-F] [c'fc-A-G-F][b-f-_d-c-A-G]|
-[bf-_d-c-A-G][_a-f-_d-c-=A-G] [_af-_d-c-=A-G][_af-_d-c-=A-G] [_af-_d-c-=A-G][bf-_d-c-A-G] [c'f_dc-A-G][b-f-=d-c-A-G]| 
-[b-f-d-c-A-G][b-f-d-c-A-G] [bfd-c-A-G][fd-c-A-G-F] [f-d-c-A-G-F][fd-c-A-G-F] [fdc-A-G-F][a-f-d-c-A-G]| 
-[a-f=d-c-A-G][a-edc-A-G] [a-dc-A-G-F][c'a-c-A-G-F] [a-d-c-A-G-F][a-dc-A-G-F] [afc-A-G-F][f-c-A-_A-G-F]| 
-[fc-=A-_A-G-F][gc-=A-_A-G-F] [_ac-=A-_A-G-F][g-c-=A-_A-G-F] [gc-=A-_A-G-F][fc-=A-_A-G-F] [fc-=A-_AG-F][f-_d-c-=A-_A-G]|
-[f_d-c-=A-_A-G][g_d-c-=A-_A-G] [_a_d-c-=A-_A-G][b-_d-c-=A-_A-G] [b_d-c-=A-_A-G][_a_d-c-=A-_A-G] [_a_d-c-=A-_A-G][g_dc-=A-_AG]| 
-[_a3/2f3/2-d3/2-c3/2-=A3/2-G3/2-][g/2-f/2-d/2-c/2-A/2-G/2] [g/2-f/2d/2-c/2-A/2-G/2-][g/2f/2-d/2-c/2-A/2-G/2-][fdc-A-G-F] [a2f2-d2-c2-A2-G2] [a2f2-d2-c2-A2-G2]| 
-[a2-f2-d2-c2-A2-G2] [a2f2-d2-c2-A2-G2] [f2-d2-c2-A2-G2-F2] [f2d2c2-A2-G2-F2]| 
-[fdc-A-AG-F][fdc-A-AG-F] [fdc-A-AG-F][=ec-A-G-GF-D] [e2c2-A2-G2-G2F2-D2] [fc-A-G-GF-D][f-c-A-G-G-F-D-]|
-[f-c-A-G-G-F-D][fc-A-G-GF-D] [c-A-G-GF-D-G,][c-A-G-GF-D-G,] [c-A-G-G-F-D-G,][c-A-G-GF-D-G,] [c-A-AG-F-D-][c-BA-G-F-D-]| 
-[fdc-A-AG-F][fdc-A-AG-F] [fdc-A-AG-F][ec-A-G-GF-D] [e2c2-A2-G2-G2F2-D2] [fc-A-G-GF-D][f-c-A-G-G-F-D-]| 
-[f-c-A-G-G-F-D][fc-A-G-GF-D] [c-A-G-F-FD-G,][c-A-G-GF-D-G,] [c-A-A-G-F-D-G,][c-A-AG-F-D-G,] [c2-A2-G2-F2-F2-D2-]| 
-[fdc-A-AG-F-F][fdc-A-AG-F-F] [fdc-A-AG-F-F][ec-A-G-GF-F-D] [e2c2-A2-G2-G2F2-F2-D2] [fc-A-G-GF-F-D][f-c-A-G-G-F-F-D-]|
-[f-c-A-G-G-F-F-D][fc-A-G-GF-FD] [c-A-G-F-D-G,][c-A-G-F-D-G,] [c-A-G-F-D-G,][c-A-G-F-D-G,] [c-A-G-F-D-][c-BA-G-F-D-]| 
-[fdc-A-AG-F][fdc-A-AG-F] [fdc-A-AG-F][ec-A-G-GF-D] [e2c2-A2-G2-G2F2-D2] [fc-A-G-GF-F,][f-c-A-G-G-F-F,-]| 
-[f-c-A-G-G-F-F,][fc-A-G-GF-G,] [c-A-G-F-FG,][c-A-G-GF-G,] [c-A-A-G-F-G,][c-A-AG-F-G,] [c2-A2-G2-F2-F2]| 
-[dc-BA-G-F-F][dc-BA-G-F-F] [dc-BA-G-F-F][c-A-G-GF-EC,] [c2-A2-G2-G2F2-E2C,2] [dc-BA-G-F-F][dc-BA-G-F-F-]|
-[c-A-G-F-D,-][afc-A-G-F-] [afc-A-G-F-][afc-A-G-F-] [afc-A-G-F-][bgc-A-G-F-] [a-fc-A-G-F-][afc-A-G-F]| 
-[dc-BA-G-F-F][dc-BA-G-F-F] [dc-BA-G-F-F][c-A-G-GF-EC,] [c2-A2-G2-G2F2-E2C,2] [dc-BA-G-F-F][dc-BA-G-F-F]| 
-[c-A-G-F-C,-][afc-A-G-F-] [afc-A-G-F-][afc-A-G-F-] [afc-A-G-F-][bgc-A-G-F-] [a-fc-A-G-F-][afc-A-G-F]| 
-[f/2-d/2-c/2-A/2-G/2-F/2-][f/2d/2-c/2-A/2-A/2-G/2-F/2][edc-A-A-G-F] [dc-A-AGF-D,][c-A-G-G-F-C,] [c-A-G-G-F-C,][d-c-A-G-G-F-C,] [dc-A-G-GF-C,][f-c-A-A-G-F-F,]|
-[fc-A-A-G-F-F,][g-c-A-A-G-F-F,] [gc-A-A-G-F-F,][ac-A-AG-F-B,] [g-d-c-B-A-G][gd-c-B-A-G] [fd-c-B-A-G][dc-BA-AG-F]| 
-[c-A-A-G-F-D,][dc-A-A-G-F-D,] [gc-A-A-G-F-D,][f-c-A-A-G-F-D,] [f-c-A-A-G-F-D,][f-c-A-A-G-F-D,] [f-c-A-A-G-F-D,][fc-A-AG-F-D,]| 
-[c-A-G-F-D,][c-A-G-F-D,] [afdc-A-G][afdc-A-G] [af-d-c-A-G][bfdc-A-G] [a-f-d-c-A-G][afdc-A-G]| 
-[fd-c-A-A-G-F][edc-A-A-G-F] [dc-A-AGF-D,][c-A-G-G-F-C,] [c-A-G-G-F-C,][d-c-A-G-G-F-C,] [dc-A-G-GF-C,][f-c-A-A-G-F-F,]|
-[fc-A-A-G-F-F,][g-c-A-A-G-F-F,] [gc-A-A-G-F-F,][ac-A-A-G-F-B,] [g-c-A-A-G-F-B,][gc-A-A-G-F-B,] [fc-A-AG-F-B,][c-A-AG-F-D,]| 
-[c-A-A-G-F-D,][dc-A-A-G-F-D,] [gc-A-A-G-F-D,][f-c-A-A-G-F-D,] [f-c-A-A-G-F-D,][f-c-A-A-G-F-D,] [f-c-A-A-G-F-D,][fc-A-AG-F-D,]| 
-[cAGFD,][cAGFD,] [afdcAG][afdcAG] [afdcAG][bfdcAG] [afdcAG][afdcAG]|
+Q: 120
+L: 1/2000000
+K: C maj
++mf+ [D,60001d60001f60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (0:01) bar 0.4
+z189999 D,60001 z189999 D,60001 z189999 [D,60001a60001] z189999 D,60001 |
+%  (0:02) bar 0.9
+z189999 [D,60001d60001f60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (0:03) bar 1.4
+z189999 D,60001 z189999 D,60001 z189999 [D,60001^a60001] z189999 D,60001 |
+%  (0:04) bar 1.9
+z189999 ^C,60001 z189999 C,60001 z189999 [C,60001^c60001f60001] z189999 C,60001 |
+%  (0:05) bar 2.4
+z189999 ^C,60001 z189999 C,60001 z189999 [C,60001^a60001] z189999 C,60001 |
+%  (0:06) bar 2.9
+z189999 ^A,60001 z189999 A,60001 z189999 [A,60001d60001f60001] z189999 A,60001 |
+%  (0:07) bar 3.4
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:08) bar 3.9
+z189999 [D,60001d60001f60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (0:09) bar 4.4
+z189999 D,60001 z189999 D,60001 z189999 [D,60001a60001] z189999 D,60001 |
+%  (0:10) bar 4.9
+z189999 [D,60001d60001f60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (0:11) bar 5.4
+z189999 D,60001 z189999 D,60001 z189999 [D,60001^a60001] z189999 D,60001 |
+%  (0:12) bar 5.9
+z189999 ^C,60001 z189999 C,60001 z189999 [C,60001^c60001f60001] z189999 C,60001 |
+%  (0:13) bar 6.4
+z189999 ^C,60001 z189999 C,60001 z189999 [C,60001^a60001] z189999 C,60001 |
+%  (0:14) bar 6.9
+z189999 ^A,60001 z189999 A,60001 z189999 [A,60001d60001f60001] z189999 A,60001 |
+%  (0:15) bar 7.4
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:16) bar 7.9
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:17) bar 8.4
+z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001=a60001] z189999 D,60001 |
+%  (0:18) bar 8.9
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:19) bar 9.4
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001^a60001] z189999 [D,60001=a60001] z189999 D,60001 |
+%  (0:20) bar 9.9
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:21) bar 10.4
+z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001=a60001] z189999 D,60001 |
+%  (0:22) bar 10.9
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:23) bar 11.4
+z189999 [D,60001D60001d60001f60001a60001] z189999 [D,60001F60001^a60001] z189999 [D,60001=a60001] z189999 [D,60001D60001] |
+%  (0:24) bar 11.9
+z189999 [D,60001d60001f60001a60001] z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 C,60001 |
+%  (0:25) bar 12.4
+z189999 [C,60001c60001f60001g60001] z189999 [C,60001g60001] z189999 [C,60001g60001] z189999 [F,60001A60001c60001f60001] |
+%  (0:26) bar 12.9
+z189999 F,60001 z189999 F,60001 z189999 [F,60001g60001] z189999 [^A,60001f60001] |
+%  (0:27) bar 13.4
+z189999 [^A,60001d60001f60001g60001] z189999 [A,60001g60001] z189999 [A,60001c'60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:28) bar 13.9
+z189999 D,60001 z189999 [D,60001f60001] z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:29) bar 14.4
+z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001d60001f60001=a60001] z189999 D,60001 |
+%  (0:30) bar 14.9
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:31) bar 15.4
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001^a60001] z189999 [D,60001d60001] z189999 [D,60001f60001] |
+%  (0:32) bar 15.9
+z189999 [D,60001d60001f60001a60001] z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 C,60001 |
+%  (0:33) bar 16.4
+z189999 [C,60001G60001c60001e60001g60001] z189999 [C,60001G60001c60001e60001g60001] z189999 [C,60001D60001] z189999 [F,60001A60001c60001f60001] |
+%  (0:34) bar 16.9
+z189999 F,60001 z189999 F,60001 z189999 [F,60001g60001] z189999 [^A,60001A60001d60001f60001g60001] |
+%  (0:35) bar 17.4
+z189999 [^A,60001G60001] z189999 [A,60001F60001c'60001] z189999 [A,60001D60001d60001f60001a60001] z189999 [D,60001D60001] |
+%  (0:36) bar 17.9
+z189999 D,60001 z189999 [D,60001f60001] z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:37) bar 18.4
+z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001d60001f60001=a60001] z189999 D,60001 |
+%  (0:38) bar 18.9
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] |
+%  (0:39) bar 19.4
+z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001f60001] z189999 [D,60001g60001] |
+%  (0:40) bar 19.9
+z189999 [F,60001c60001f60001a60001] z189999 F,60001 z64999 ^a60001 z64999 F,60001 |
+%  (0:41) bar 20.3
+z64999 a60001 z64999 F,60001 z189999 [F,60001c60001f60001a60001] z189999 F,60001 |
+%  (0:42) bar 20.7
+z189999 F,60001 z189999 F,60001 z189999 [C,60001c60001e60001] z189999 C,60001 |
+%  (0:43) bar 21.2
+z189999 C,60001 z189999 C,60001 z189999 ^A,60001 z439999 [G,60001e60001g60001c'60001] |
+%  (0:44) bar 21.8
+z189999 c'60001 z189999 [F,60001a60001c'60001] z189999 [F,60001f60001] z189999 [F,60001f60001] |
+%  (0:45) bar 22.3
+z189999 [F,60001f60001] z189999 F,60001 z189999 [F,60001c'60001] z189999 [F,60001f60001a60001c'60001] |
+%  (0:46) bar 22.8
+z189999 [F,60001c'60001] z189999 [C,60001e60001g60001c'60001] z189999 [C,60001a60001] z189999 [C,60001^a60001] |
+%  (0:47) bar 23.3
+z189999 [C,60001e60001g60001^a60001] z189999 C,60001 z189999 C,60001 z189999 [C,60001g60001] |
+%  (0:48) bar 23.8
+z189999 [C,60001^A60001d60001g60001] z189999 ^A,60001 z189999 [A,60001f60001] z189999 A,60001 |
+%  (0:49) bar 24.3
+z189999 [^A,60001^A60001d60001f60001] z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:50) bar 24.8
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 [A,60001^A60001d60001] |
+%  (0:51) bar 25.3
+z189999 [^A,60001d60001] z189999 [A,60001d60001f60001] z189999 [A,60001g60001] z189999 [A,60001f60001] |
+%  (0:52) bar 25.8
+z189999 [^A,60001d60001f60001a60001] z189999 A,60001 z189999 [A,60001f60001] z189999 [A,60001^A60001d60001f60001] |
+%  (0:53) bar 26.3
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:54) bar 26.8
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:55) bar 27.3
+z189999 ^A,60001 z189999 d60001 z189999 d60001 z189999 a60001 |
+%  (0:56) bar 27.8
+z189999 [d60001f60001a60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (0:57) bar 28.3
+z189999 [D,60001d60001] z189999 [D,60001d60001] z189999 [D,60001d60001] z189999 [D,60001a60001] |
+%  (0:58) bar 28.8
+z189999 [F,60001c60001f60001^g60001] z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (0:59) bar 29.3
+z189999 F,60001 z189999 [F,60001^g60001] z189999 [F,60001^a60001] z189999 [F,60001c'60001] |
+%  (1:00) bar 29.8
+z189999 [^C,60001^c60001f60001^a60001] z189999 C,60001 z189999 [C,60001^g60001] z189999 C,60001 |
+%  (1:01) bar 30.3
+z189999 [^C,60001^g60001] z189999 [C,60001g60001] z189999 [C,60001^a60001] z189999 [C,60001c'60001] |
+%  (1:02) bar 30.8
+z189999 [^A,60001d60001f60001^a60001] z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (1:03) bar 31.3
+z189999 [^A,60001f60001] z189999 [A,60001f60001] z189999 A,60001 z189999 [A,60001f60001] |
+%  (1:04) bar 31.8
+z189999 [^C,60001d60001f60001a60001] z189999 D,60001 z189999 [D,60001e60001] z189999 [D,60001d60001] |
+%  (1:05) bar 32.3
+z189999 [D,60001c'60001] z189999 [D,60001d60001] z189999 D,60001 z189999 [D,60001f60001] |
+%  (1:06) bar 32.8
+z189999 [F,60001^G60001c60001f60001] z189999 F,60001 z189999 [F,60001g60001] z189999 [F,60001^g60001] |
+%  (1:07) bar 33.3
+z189999 [F,60001g60001] z189999 F,60001 z189999 [F,60001f60001] z189999 [F,60001f60001] |
+%  (1:08) bar 33.8
+z189999 [^C,60001^G60001^c60001f60001] z189999 ^D,60001 z189999 [D,60001g60001] z189999 [D,60001^g60001] |
+%  (1:09) bar 34.3
+z189999 [^D,60001^a60001] z189999 D,60001 z189999 [D,60001^g60001] z189999 [D,60001g60001] |
+%  (1:10) bar 34.8
+z189999 [^D,60001g60001] z189999 [^A,60001d60001f60001^g60001] z314999 =g60001 z64999 A,60001 |
+%  (1:11) bar 35.3
+z64999 f60001 z314999 [^A,60001d60001f60001a60001] z439999 A,60001 z439999 A,60001 |
+%  (1:13) bar 36.0
+z439999 ^A,60001 z439999 A,60001 z439999 A,60001 z439999 [D,60001A60001d60001f60001] |
+%  (1:15) bar 37.0
+z189999 [D,60001A60001d60001f60001] z189999 [D,60001A60001d60001f60001] z189999 [C,60001G60001c60001e60001] z189999 [C,60001G60001c60001e60001] |
+%  (1:16) bar 37.5
+z439999 [F,60001G60001c60001f60001] z189999 [F,60001G60001c60001f60001] z439999 G,60001 z189999 [G,60001G60001] |
+%  (1:17) bar 38.3
+z189999 [G,60001G60001] z189999 [G,60001G60001] z189999 G,60001 z189999 A60001 |
+%  (1:18) bar 38.8
+z189999 ^A60001 z189999 [D,60001=A60001d60001f60001] z189999 [D,60001A60001d60001f60001] z189999 [D,60001A60001d60001f60001] |
+%  (1:19) bar 39.3
+z189999 [C,60001G60001c60001e60001] z189999 [C,60001G60001c60001e60001] z439999 [F,60001G60001c60001f60001] z189999 [F,60001G60001c60001f60001] |
+%  (1:20) bar 39.9
+z439999 G,60001 z189999 [G,60001F60001] z189999 [G,60001G60001] z189999 [G,60001A60001] |
+%  (1:22) bar 40.5
+z189999 G,60001 z189999 F60001 z439999 [D,60001A60001d60001f60001] z189999 [D,60001A60001d60001f60001] |
+%  (1:23) bar 41.2
+z189999 [D,60001A60001d60001f60001] z189999 [C,60001G60001c60001e60001] z189999 [C,60001G60001c60001e60001] z439999 [F,60001G60001c60001f60001] |
+%  (1:24) bar 41.8
+z189999 [F,60001G60001c60001f60001] z439999 G,60001 z189999 G,60001 z189999 G,60001 |
+%  (1:25) bar 42.4
+z189999 G,60001 z189999 G,60001 z439999 ^A60001 z189999 [D,60001=A60001d60001f60001] |
+%  (1:27) bar 43.0
+z189999 [D,60001A60001d60001f60001] z189999 [D,60001A60001d60001f60001] z189999 [C,60001G60001c60001e60001] z189999 [C,60001G60001c60001e60001] |
+%  (1:28) bar 43.5
+z439999 [F,60001G60001c60001f60001] z189999 [F,60001G60001c60001f60001] z439999 G,60001 z189999 [G,60001F60001] |
+%  (1:29) bar 44.3
+z189999 [G,60001G60001] z189999 [G,60001A60001] z189999 G,60001 z189999 F60001 |
+%  (1:30) bar 44.8
+z439999 [D,60001F60001^A60001d60001] z189999 [D,60001F60001A60001d60001] z189999 [D,60001F60001A60001d60001] z189999 [C,60001E60001G60001c60001] |
+%  (1:31) bar 45.4
+z189999 [C,60001E60001G60001c60001] z439999 [D,60001F60001^A60001d60001] z189999 [D,60001F60001A60001d60001] z439999 [f60001a60001] |
+%  (1:33) bar 46.2
+z189999 [f60001a60001] z189999 [f60001a60001] z189999 [f60001a60001] z189999 [g60001^a60001] |
+%  (1:34) bar 46.7
+z189999 [f60001a60001] z189999 f60001 z189999 [D,60001F60001^A60001d60001] z189999 [D,60001F60001A60001d60001] |
+%  (1:35) bar 47.2
+z189999 [D,60001F60001^A60001d60001] z189999 [C,60001E60001G60001c60001] z189999 [C,60001E60001G60001c60001] z439999 [C,60001F60001A60001d60001] |
+%  (1:36) bar 47.8
+z189999 [C,60001F60001^A60001d60001] z189999 C,60001 z189999 [f60001a60001] z189999 [f60001a60001] |
+%  (1:37) bar 48.3
+z189999 [f60001a60001] z189999 [f60001a60001] z189999 [g60001^a60001] z189999 [f60001=a60001] |
+%  (1:38) bar 48.8
+z189999 f60001 z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:39) bar 49.3
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001=a60001] |
+%  (1:40) bar 49.8
+z189999 D,60001 z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:41) bar 50.3
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] z189999 [D,60001^a60001] z189999 [D,60001=a60001] |
+%  (1:42) bar 50.8
+z189999 D,60001 z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:43) bar 51.3
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001=a60001] |
+%  (1:44) bar 51.8
+z189999 D,60001 z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:45) bar 52.3
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001D60001d60001f60001a60001] z189999 [D,60001F60001^a60001] z189999 [D,60001=a60001] |
+%  (1:46) bar 52.8
+z189999 [D,60001D60001] z189999 [D,60001d60001f60001a60001] z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:47) bar 53.3
+z189999 C,60001 z189999 [C,60001c60001f60001g60001] z189999 [C,60001g60001] z189999 [C,60001g60001] |
+%  (1:48) bar 53.8
+z189999 [F,60001A60001c60001f60001] z189999 F,60001 z189999 F,60001 z189999 [F,60001g60001] |
+%  (1:49) bar 54.3
+z189999 [^A,60001f60001] z189999 [A,60001d60001f60001g60001] z189999 [A,60001g60001] z189999 [A,60001c'60001] |
+%  (1:50) bar 54.8
+z189999 [D,60001d60001f60001a60001] z189999 D,60001 z189999 [D,60001f60001] z189999 [D,60001d60001f60001a60001] |
+%  (1:51) bar 55.3
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001^a60001] z189999 D,60001 z189999 [D,60001d60001f60001=a60001] |
+%  (1:52) bar 55.8
+z189999 D,60001 z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:53) bar 56.3
+z189999 [D,60001d60001f60001a60001] z189999 [D,60001d60001f60001a60001] z189999 [D,60001^a60001] z189999 [D,60001d60001] |
+%  (1:54) bar 56.8
+z189999 [D,60001f60001] z189999 [D,60001d60001f60001a60001] z189999 D,60001 z189999 [D,60001d60001f60001a60001] |
+%  (1:55) bar 57.3
+z189999 C,60001 z189999 [C,60001G60001c60001e60001g60001] z189999 [C,60001G60001c60001e60001g60001] z189999 [C,60001D60001] |
+%  (1:56) bar 57.8
+z189999 [F,60001A60001c60001f60001] z189999 F,60001 z189999 F,60001 z189999 [F,60001g60001] |
+%  (1:57) bar 58.3
+z189999 [A60001d60001f60001g60001] z189999 [D60001G60001] z189999 [F60001c'60001] z189999 [F60001d60001f60001a60001] |
+%  (1:58) bar 58.8
+z189999 F60001 z189999 F60001 z189999 [D60001F60001f60001] z189999 [d60001f60001a60001] |
+%  (1:59) bar 59.3
+z189999 [F60001d60001f60001a60001] z189999 [F60001d60001f60001^a60001] z189999 F60001 z189999 [F60001d60001f60001=a60001] |
+%  (2:00) bar 59.8
+z189999 F60001 z189999 [D,60001D60001F60001] z189999 D,60001 z189999 [d60001f60001a60001] |
+%  (2:01) bar 60.3
+z189999 [F60001d60001f60001a60001] z189999 [F60001d60001f60001^a60001] z189999 F60001 z189999 [D,60001F60001f60001] |
+%  (2:02) bar 60.8
+z189999 [D,60001g60001] z189999 [c60001f60001a60001] z189999 F60001 z64999 ^a60001 |
+%  (2:03) bar 61.2
+z64999 F60001 z64999 a60001 z64999 G60001 z189999 [F60001c60001f60001a60001] |
+%  (2:04) bar 61.5
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 [F60001c60001e60001] |
+%  (2:05) bar 62.0
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:06) bar 62.5
+z439999 [e60001g60001c'60001] z189999 c'60001 z189999 [D60001F60001a60001c'60001] z189999 [D60001f60001] |
+%  (2:07) bar 63.2
+z189999 [D60001f60001] z189999 [D60001f60001] z189999 D60001 z189999 [D60001c'60001] |
+%  (2:08) bar 63.7
+z189999 [f60001a60001c'60001] z189999 [F60001c'60001] z189999 [F60001e60001g60001c'60001] z189999 [F60001a60001] |
+%  (2:09) bar 64.2
+z189999 [F60001^a60001] z189999 [F60001e60001g60001a60001] z189999 F60001 z189999 F60001 |
+%  (2:10) bar 64.7
+z189999 [D60001F60001g60001] z189999 [^A60001d60001g60001] z189999 F60001 z189999 [F60001f60001] |
+%  (2:11) bar 65.2
+z189999 F60001 z189999 [F60001^A60001d60001f60001] z189999 F60001 z189999 F60001 |
+%  (2:12) bar 65.7
+z189999 F60001 z189999 F60001 z189999 [^A,60001D60001F60001] z189999 A,60001 |
+%  (2:13) bar 66.2
+z189999 [^A60001d60001] z189999 [D60001d60001] z189999 [D60001d60001f60001] z189999 [D60001g60001] |
+%  (2:14) bar 66.7
+z189999 [D60001f60001] z189999 [d60001f60001a60001] z189999 F60001 z189999 [D60001F60001f60001] |
+%  (2:15) bar 67.2
+z189999 [^A60001d60001f60001] z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (2:16) bar 67.7
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (2:17) bar 68.2
+z189999 F60001 z189999 F60001 z189999 [^A,60001D60001d60001] z189999 d60001 |
+%  (2:18) bar 68.7
+z189999 a60001 z189999 [d60001f60001a60001] z189999 F60001 z189999 F60001 |
+%  (2:19) bar 69.2
+z189999 F60001 z189999 [F60001d60001] z189999 [D60001d60001] z189999 [D60001d60001] |
+%  (2:20) bar 69.7
+z189999 [D60001a60001] z189999 [c60001f60001^g60001] z189999 F60001 z189999 F60001 |
+%  (2:21) bar 70.2
+z189999 F60001 z189999 F60001 z189999 [F60001^g60001] z189999 [F60001^a60001] |
+%  (2:22) bar 70.7
+z189999 [F60001c'60001] z189999 [F60001^c60001f60001^a60001] z189999 F60001 z189999 [F60001^g60001] |
+%  (2:23) bar 71.2
+z189999 F60001 z189999 [F60001^g60001] z189999 [F60001g60001] z189999 [F60001^a60001] |
+%  (2:24) bar 71.7
+z189999 [F60001c'60001] z189999 [F60001d60001f60001^a60001] z189999 F60001 z189999 F60001 |
+%  (2:25) bar 72.2
+z189999 F60001 z189999 [D60001F60001f60001] z189999 [D60001f60001] z189999 D60001 |
+%  (2:26) bar 72.7
+z189999 [D60001f60001] z189999 [d60001f60001a60001] z189999 F60001 z189999 [F60001e60001] |
+%  (2:27) bar 73.2
+z189999 [D60001F60001d60001] z189999 [D60001c'60001] z189999 [D60001d60001] z189999 D60001 |
+%  (2:28) bar 73.7
+z189999 [D60001f60001] z189999 [^G60001c60001f60001] z189999 F60001 z189999 [F60001g60001] |
+%  (2:29) bar 74.2
+z189999 [F60001^g60001] z189999 [F60001=g60001] z189999 F60001 z189999 [F60001f60001] |
+%  (2:30) bar 74.7
+z189999 [F60001f60001] z189999 [F60001^G60001^c60001f60001] z189999 F60001 z189999 [F60001g60001] |
+%  (2:31) bar 75.2
+z189999 [F60001^g60001] z189999 [F60001^a60001] z189999 F60001 z189999 [F60001g60001] |
+%  (2:32) bar 75.7
+z189999 [F60001^g60001] z189999 [F60001=g60001] z189999 [F60001d60001f60001^g60001] z314999 =g60001 |
+%  (2:33) bar 76.2
+z64999 F60001 z64999 f60001 z64999 D60001 z189999 [d60001f60001^g60001] |
+%  (2:34) bar 76.5
+z439999 F60001 z439999 [F60001a60001] z439999 F60001 z439999 [D60001F60001] |
+%  (2:36) bar 77.5
+z439999 D60001 z439999 [D60001d60001f60001] z189999 [D60001d60001f60001] z189999 [D60001d60001f60001] |
+%  (2:37) bar 78.3
+z189999 [D60001c60001e60001] z189999 [D60001c60001e60001] z439999 [D60001c60001f60001] z189999 [D60001c60001f60001] |
+%  (2:38) bar 78.9
+z439999 D60001 z189999 [G,60001D60001] z189999 G,60001 z189999 G,60001 |
+%  (2:40) bar 79.5
+z189999 G,60001 z439999 ^A60001 z189999 [d60001f60001] z189999 [D60001d60001f60001] |
+%  (2:41) bar 80.2
+z189999 [D60001d60001f60001] z189999 [D60001c60001e60001] z189999 [D60001c60001e60001] z439999 [D60001c60001f60001] |
+%  (2:42) bar 80.8
+z189999 [D60001c60001f60001] z439999 D60001 z189999 [G,60001D60001] z189999 G,60001 |
+%  (2:43) bar 81.4
+z189999 G,60001 z189999 G,60001 z689999 [d60001f60001] z189999 [D60001d60001f60001] |
+%  (2:45) bar 82.2
+z189999 [D60001d60001f60001] z189999 [D60001c60001e60001] z189999 [D60001c60001e60001] z439999 [D60001c60001f60001] |
+%  (2:46) bar 82.8
+z189999 [D60001c60001f60001] z439999 D60001 z189999 [G,60001D60001] z189999 G,60001 |
+%  (2:47) bar 83.4
+z189999 G,60001 z189999 G,60001 z439999 ^A60001 z189999 [d60001f60001] |
+%  (2:49) bar 84.0
+z189999 [D60001d60001f60001] z189999 [D60001d60001f60001] z189999 [D60001c60001e60001] z189999 [D60001c60001e60001] |
+%  (2:50) bar 84.5
+z439999 [D60001c60001f60001] z189999 [D60001c60001f60001] z439999 D60001 z189999 [G,60001D60001] |
+%  (2:51) bar 85.3
+z189999 G,60001 z189999 G,60001 z189999 G,60001 z689999 [^A60001d60001] |
+%  (2:53) bar 86.0
+z189999 [D60001^A60001d60001] z189999 [D60001A60001d60001] z189999 [D60001E60001c60001] z189999 [D60001E60001c60001] |
+%  (2:54) bar 86.5
+z439999 [D60001^A60001d60001] z189999 [D60001A60001d60001] z189999 D,60001 z189999 [f60001a60001] |
+%  (2:55) bar 87.2
+z189999 [f60001a60001] z189999 [f60001a60001] z189999 [f60001a60001] z189999 [g60001^a60001] |
+%  (2:56) bar 87.7
+z189999 [f60001a60001] z189999 f60001 z189999 [D60001^A60001d60001] z189999 [D60001A60001d60001] |
+%  (2:57) bar 88.2
+z189999 [D60001^A60001d60001] z189999 [D60001E60001c60001] z189999 [D60001E60001c60001] z439999 [D60001A60001d60001] |
+%  (2:58) bar 88.8
+z189999 [D60001^A60001d60001] z189999 [C,60001D60001] z189999 [f60001a60001] z189999 [f60001a60001] |
+%  (2:59) bar 89.3
+z189999 [f60001a60001] z189999 [f60001a60001] z189999 [g60001^a60001] z189999 [f60001=a60001] |
+%  (3:00) bar 89.8
+z189999 f60001 z189999 [D60001d60001f60001] z189999 [D60001e60001] z189999 [D60001d60001] |
+%  (3:01) bar 90.3
+z189999 [G60001c60001] z189999 C,60001 z189999 [C,60001d60001] z189999 C,60001 |
+%  (3:02) bar 90.8
+z189999 [c60001f60001] z189999 D60001 z189999 [D60001g60001] z189999 D60001 |
+%  (3:03) bar 91.3
+z189999 [D60001a60001] z189999 [^A60001d60001g60001] z189999 F60001 z189999 [F60001f60001] |
+%  (3:04) bar 91.8
+z189999 [D60001F60001] z189999 [D,60001D60001c60001] z189999 d60001 z189999 [D60001g60001] |
+%  (3:05) bar 92.3
+z189999 [D60001f60001] z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:06) bar 92.8
+z189999 D60001 z189999 [D,60001D60001] z189999 D,60001 z189999 [d60001f60001a60001] |
+%  (3:07) bar 93.3
+z189999 [G60001d60001f60001a60001] z189999 [G60001d60001f60001a60001] z189999 [G60001^a60001] z189999 [G60001d60001f60001=a60001] |
+%  (3:08) bar 93.8
+z189999 G60001 z189999 [G60001d60001f60001] z189999 [F60001e60001] z189999 [F60001d60001] |
+%  (3:09) bar 94.3
+z189999 [C,60001D60001G60001] z189999 C,60001 z189999 d60001 z189999 D60001 |
+%  (3:10) bar 94.8
+z189999 [D60001f60001] z189999 D60001 z189999 [D60001g60001] z189999 D60001 |
+%  (3:11) bar 95.3
+z189999 [D60001a60001] z189999 [D60001g60001] z189999 D60001 z189999 [D60001f60001] |
+%  (3:12) bar 95.8
+z189999 [D,60001D60001] z189999 D,60001 z189999 d60001 z189999 [D60001g60001] |
+%  (3:13) bar 96.3
+z189999 [D60001f60001] z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:14) bar 96.8
+z189999 D60001 z189999 [D,60001D60001] z189999 D,60001 z189999 [d60001f60001a60001] |
+%  (3:15) bar 97.3
+z189999 [G60001d60001f60001a60001] z189999 [G60001d60001f60001a60001] z189999 [G60001^a60001] z189999 [G60001d60001f60001=a60001] |
+%  (3:16) bar 97.8
+z189999 G60001 z189999 [G60001d60001f60001] z1439999 a60001 z439999 [F60001f60001] |
+%  (3:19) bar 99.0
+z1439999 ^G60001 z439999 F60001 z439999 [^c60001f60001] z939999 [G60001^g60001] |
+%  (3:22) bar 100.8
+z439999 G60001 z439999 [d60001f60001] z439999 d60001 z189999 d60001 |
+%  (3:24) bar 101.7
+z189999 ^g60001 z189999 [d60001f60001g60001] z189999 [G60001a60001] z189999 G60001 |
+%  (3:25) bar 102.2
+z189999 G60001 z189999 [G60001d60001] z189999 [F60001d60001] z189999 [F60001d60001] |
+%  (3:26) bar 102.7
+z189999 [F60001a60001] z189999 [F60001f60001] z189999 F60001 z189999 F60001 |
+%  (3:27) bar 103.2
+z189999 F60001 z189999 F60001 z189999 [F60001^g60001] z189999 [F60001^a60001] |
+%  (3:28) bar 103.7
+z189999 [F60001c'60001] z189999 [^c60001f60001^a60001] z189999 G60001 z189999 [G60001^g60001] |
+%  (3:29) bar 104.2
+z189999 G60001 z189999 [G60001^g60001] z189999 [G60001g60001] z189999 [G60001^a60001] |
+%  (3:30) bar 104.7
+z189999 [G60001c'60001] z189999 [G60001d60001f60001^a60001] z189999 G60001 z189999 G60001 |
+%  (3:31) bar 105.2
+z189999 G60001 z189999 [F60001G60001f60001] z189999 [F60001f60001] z189999 F60001 |
+%  (3:32) bar 105.7
+z189999 [F60001f60001] z189999 [d60001f60001a60001] z189999 G60001 z189999 [G60001e60001] |
+%  (3:33) bar 106.2
+z189999 [F60001G60001d60001] z189999 [F60001c'60001] z189999 [F60001d60001] z189999 F60001 |
+%  (3:34) bar 106.7
+z189999 [F60001f60001] z189999 [F60001^G60001f60001] z189999 F60001 z189999 [F60001g60001] |
+%  (3:35) bar 107.2
+z189999 [F60001^g60001] z189999 [F60001=g60001] z189999 F60001 z189999 [F60001f60001] |
+%  (3:36) bar 107.7
+z189999 [F60001f60001] z189999 [^G60001^c60001f60001] z189999 =G60001 z189999 [G60001g60001] |
+%  (3:37) bar 108.2
+z189999 [G60001^g60001] z189999 [G60001^a60001] z189999 G60001 z189999 [G60001g60001] |
+%  (3:38) bar 108.7
+z189999 [G60001^g60001] z189999 [G60001=g60001] z189999 [G60001d60001f60001^g60001] z314999 =g60001 |
+%  (3:39) bar 109.2
+z64999 G60001 z64999 f60001 z64999 F60001 z189999 [d60001f60001^g60001] |
+%  (3:40) bar 109.5
+z439999 [G60001^g60001] z439999 [G60001a60001] z439999 G60001 z439999 [F60001G60001] |
+%  (3:42) bar 110.5
+z439999 F60001 z439999 [F60001d60001f60001] z189999 [F60001d60001f60001] z189999 [F60001d60001f60001] |
+%  (3:43) bar 111.3
+z189999 [F60001e60001] z189999 [D60001e60001] z439999 [D60001f60001] z189999 [D60001f60001] |
+%  (3:44) bar 111.9
+z439999 D60001 z189999 [G,60001D60001] z189999 G,60001 z189999 G,60001 |
+%  (3:46) bar 112.5
+z189999 G,60001 z439999 ^A60001 z189999 [d60001f60001] z189999 [F60001d60001f60001] |
+%  (3:47) bar 113.2
+z189999 [F60001d60001f60001] z189999 [F60001e60001] z189999 [D60001e60001] z439999 [D60001f60001] |
+%  (3:48) bar 113.8
+z189999 [D60001f60001] z439999 D60001 z189999 [G,60001D60001] z189999 G,60001 |
+%  (3:49) bar 114.4
+z189999 G,60001 z189999 G,60001 z689999 [d60001f60001] z189999 [d60001f60001] |
+%  (3:51) bar 115.2
+z189999 [d60001f60001] z189999 e60001 z189999 [D60001e60001] z439999 [D60001f60001] |
+%  (3:52) bar 115.8
+z189999 [D60001f60001] z439999 D60001 z189999 [G,60001D60001] z189999 G,60001 |
+%  (3:53) bar 116.4
+z189999 G,60001 z189999 G,60001 z439999 ^A60001 z189999 [d60001f60001] |
+%  (3:55) bar 117.0
+z189999 [F60001d60001f60001] z189999 [F60001d60001f60001] z189999 [F60001e60001] z189999 [D60001e60001] |
+%  (3:56) bar 117.5
+z439999 [F,60001f60001] z189999 [F,60001f60001] z439999 G,60001 z189999 G,60001 |
+%  (3:57) bar 118.3
+z189999 G,60001 z189999 G,60001 z189999 G,60001 z689999 [^A60001d60001] |
+%  (3:59) bar 119.0
+z189999 [^A60001d60001] z189999 [A60001d60001] z189999 [C,60001E60001] z189999 [C,60001E60001] |
+%  (4:00) bar 119.5
+z439999 [^A60001d60001] z189999 [A60001d60001] z189999 D,60001 z189999 [f60001a60001] |
+%  (4:01) bar 120.2
+z189999 [f60001a60001] z189999 [f60001a60001] z189999 [f60001a60001] z189999 [g60001^a60001] |
+%  (4:02) bar 120.7
+z189999 [f60001a60001] z189999 f60001 z189999 [F60001^A60001d60001] z189999 [A60001d60001] |
+%  (4:03) bar 121.2
+z189999 [^A60001d60001] z189999 [C,60001E60001] z189999 [C,60001E60001] z439999 [A60001d60001] |
+%  (4:04) bar 121.8
+z189999 [^A60001d60001] z189999 C,60001 z189999 [f60001a60001] z189999 [f60001a60001] |
+%  (4:05) bar 122.3
+z189999 [f60001a60001] z189999 [f60001a60001] z189999 [g60001^a60001] z189999 [f60001=a60001] |
+%  (4:06) bar 122.8
+z189999 f60001 z189999 [F60001d60001f60001] z189999 [F60001e60001] z189999 [F60001d60001] |
+%  (4:07) bar 123.3
+z189999 G60001 z189999 C,60001 z189999 [C,60001d60001] z189999 C,60001 |
+%  (4:08) bar 123.8
+z189999 [F,60001f60001] z189999 F,60001 z189999 [F,60001g60001] z189999 F,60001 |
+%  (4:09) bar 124.3
+z189999 a60001 z189999 [^A60001d60001g60001] z189999 G60001 z189999 [G60001f60001] |
+%  (4:10) bar 124.8
+z189999 G60001 z189999 [D,60001F60001] z189999 [D,60001d60001] z189999 [D,60001g60001] |
+%  (4:11) bar 125.3
+z189999 [D,60001f60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (4:12) bar 125.8
+z189999 D,60001 z189999 D,60001 z189999 D,60001 z189999 [d60001f60001a60001] |
+%  (4:13) bar 126.3
+z189999 [G60001d60001f60001a60001] z189999 [G60001d60001f60001a60001] z189999 [G60001^a60001] z189999 [G60001d60001f60001=a60001] |
+%  (4:14) bar 126.8
+z189999 G60001 z189999 [G60001d60001f60001] z189999 [F60001e60001] z189999 [D,60001F60001d60001] |
+%  (4:15) bar 127.3
+z189999 [C,60001G60001] z189999 C,60001 z189999 [C,60001d60001] z189999 C,60001 |
+%  (4:16) bar 127.8
+z189999 [F,60001f60001] z189999 F,60001 z189999 [F,60001g60001] z189999 F,60001 |
+%  (4:17) bar 128.3
+z189999 [^A,60001a60001] z189999 [A,60001g60001] z189999 A,60001 z189999 [A,60001f60001] |
+%  (4:18) bar 128.8
+z189999 D,60001 z189999 D,60001 z189999 [D,60001d60001] z189999 [D,60001g60001] |
+%  (4:19) bar 129.3
+z189999 [D,60001f60001] z189999 D,60001 z189999 D,60001 z189999 D,60001 |
+%  (4:20) bar 129.8
+z189999 D,60001 z189999 D,60001 z189999 [D,60001F60001G60001A60001c60001] z189999 [G60001A60001c60001d60001f60001a60001] |
+%  (4:21) bar 130.3
+z189999 [G60001A60001c60001d60001f60001a60001] z189999 [G60001A60001c60001d60001f60001a60001] z189999 [G60001A60001c60001d60001f60001^a60001] z189999 [G60001A60001c60001d60001f60001=a60001] |
+%  (4:22) bar 130.8
+z189999 [G250000A250000c250000d250000f250000a250000] |]
+
+
+X: 5
+T: Shake The Disease (4:23) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+%%user-pan auto
+C: Depeche Mode
+M: 4/4
+Q: 120
+L: 1/2000000
+K: C maj
++mf+ D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:01) bar 0.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:02) bar 0.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:03) bar 1.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:04) bar 1.9
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (0:05) bar 2.4
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (0:06) bar 2.9
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:07) bar 3.4
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:08) bar 3.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:09) bar 4.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:10) bar 4.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:11) bar 5.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:12) bar 5.9
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (0:13) bar 6.4
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (0:14) bar 6.9
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:15) bar 7.4
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:16) bar 7.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:17) bar 8.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:18) bar 8.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:19) bar 9.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:20) bar 9.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:21) bar 10.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:22) bar 10.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:23) bar 11.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:24) bar 11.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 C60001 |
+%  (0:25) bar 12.4
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 F,60001 |
+%  (0:26) bar 12.9
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 ^A,60001 |
+%  (0:27) bar 13.4
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 D60001 |
+%  (0:28) bar 13.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:29) bar 14.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:30) bar 14.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:31) bar 15.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:32) bar 15.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 C60001 |
+%  (0:33) bar 16.4
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 F,60001 |
+%  (0:34) bar 16.9
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 ^A,60001 |
+%  (0:35) bar 17.4
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 D60001 |
+%  (0:36) bar 17.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:37) bar 18.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:38) bar 18.9
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:39) bar 19.4
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:40) bar 19.9
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (0:41) bar 20.4
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (0:42) bar 20.9
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (0:43) bar 21.4
+z189999 ^A,60001 z439999 G,60001 z439999 F,60001 z189999 F,60001 |
+%  (0:45) bar 22.2
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (0:46) bar 22.7
+z189999 F,60001 z189999 F,60001 z189999 C60001 z189999 C60001 |
+%  (0:47) bar 23.2
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (0:48) bar 23.7
+z189999 C60001 z189999 C60001 z189999 ^A,60001 z189999 A,60001 |
+%  (0:49) bar 24.2
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:50) bar 24.7
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:51) bar 25.2
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:52) bar 25.7
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:53) bar 26.2
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:54) bar 26.7
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (0:55) bar 27.2
+z189999 ^A,60001 z189999 A,60001 z1189999 D60001 z189999 D60001 |
+%  (0:57) bar 28.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (0:58) bar 28.7
+z189999 D60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (0:59) bar 29.2
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (1:00) bar 29.7
+z189999 F60001 z189999 ^C60001 z189999 C60001 z189999 C60001 |
+%  (1:01) bar 30.2
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (1:02) bar 30.7
+z189999 ^C60001 z189999 ^A,60001 z189999 A,60001 z189999 A,60001 |
+%  (1:03) bar 31.2
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (1:04) bar 31.7
+z189999 ^A,60001 z189999 ^C60001 z189999 D60001 z189999 D60001 |
+%  (1:05) bar 32.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:06) bar 32.7
+z189999 D60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (1:07) bar 33.2
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (1:08) bar 33.7
+z189999 F60001 z189999 ^C60001 z189999 ^D60001 z189999 D60001 |
+%  (1:09) bar 34.2
+z189999 ^D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:10) bar 34.7
+z189999 ^D60001 z189999 D60001 z189999 ^A,60001 z439999 A,60001 |
+%  (1:11) bar 35.3
+z439999 ^A,60001 z439999 A,60001 z439999 A,60001 z439999 A,60001 |
+%  (1:13) bar 36.3
+z439999 ^A,60001 z439999 A,60001 z439999 D60001 z189999 D60001 |
+%  (1:15) bar 37.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (1:16) bar 37.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (1:17) bar 38.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (1:19) bar 39.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (1:20) bar 39.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (1:21) bar 40.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (1:23) bar 41.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (1:24) bar 41.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (1:25) bar 42.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (1:27) bar 43.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (1:28) bar 43.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (1:29) bar 44.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (1:31) bar 45.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 D60001 |
+%  (1:32) bar 45.8
+z189999 D60001 z2189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:35) bar 47.3
+z189999 C60001 z189999 C60001 z439999 C60001 z189999 C60001 |
+%  (1:36) bar 47.9
+z189999 C60001 z1939999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:39) bar 49.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:40) bar 49.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:41) bar 50.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:42) bar 50.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:43) bar 51.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:44) bar 51.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:45) bar 52.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:46) bar 52.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:47) bar 53.3
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (1:48) bar 53.8
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (1:49) bar 54.3
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (1:50) bar 54.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:51) bar 55.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:52) bar 55.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:53) bar 56.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:54) bar 56.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:55) bar 57.3
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (1:56) bar 57.8
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (1:57) bar 58.3
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (1:58) bar 58.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (1:59) bar 59.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:00) bar 59.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:01) bar 60.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:02) bar 60.8
+z189999 D60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (2:03) bar 61.3
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (2:04) bar 61.8
+z189999 F,60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (2:05) bar 62.3
+z189999 C60001 z189999 ^A,60001 z439999 G,60001 z439999 F,60001 |
+%  (2:07) bar 63.0
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 F,60001 |
+%  (2:08) bar 63.5
+z189999 F,60001 z189999 F,60001 z189999 F,60001 z189999 C60001 |
+%  (2:09) bar 64.0
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (2:10) bar 64.5
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 ^A,60001 |
+%  (2:11) bar 65.0
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:12) bar 65.5
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:13) bar 66.0
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:14) bar 66.5
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:15) bar 67.0
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:16) bar 67.5
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:17) bar 68.0
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z1189999 D60001 |
+%  (2:19) bar 69.0
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:20) bar 69.5
+z189999 D60001 z189999 D60001 z189999 F60001 z189999 F60001 |
+%  (2:21) bar 70.0
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (2:22) bar 70.5
+z189999 F60001 z189999 F60001 z189999 ^C60001 z189999 C60001 |
+%  (2:23) bar 71.0
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (2:24) bar 71.5
+z189999 ^C60001 z189999 C60001 z189999 ^A,60001 z189999 A,60001 |
+%  (2:25) bar 72.0
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (2:26) bar 72.5
+z189999 ^A,60001 z189999 A,60001 z189999 ^C60001 z189999 D60001 |
+%  (2:27) bar 73.0
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:28) bar 73.5
+z189999 D60001 z189999 D60001 z189999 F60001 z189999 F60001 |
+%  (2:29) bar 74.0
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (2:30) bar 74.5
+z189999 F60001 z189999 F60001 z189999 ^C60001 z189999 ^D60001 |
+%  (2:31) bar 75.0
+z189999 ^D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (2:32) bar 75.5
+z189999 ^D60001 z189999 D60001 z189999 D60001 z189999 ^A,60001 |
+%  (2:33) bar 76.0
+z439999 ^A,60001 z439999 A,60001 z439999 A,60001 z439999 A,60001 |
+%  (2:35) bar 77.0
+z439999 ^A,60001 z439999 A,60001 z439999 A,60001 z439999 D60001 |
+%  (2:37) bar 78.0
+z189999 D60001 z189999 D60001 z189999 C60001 z189999 C60001 |
+%  (2:38) bar 78.5
+z439999 F60001 z189999 F60001 z439999 G60001 z189999 G60001 |
+%  (2:39) bar 79.3
+z189999 G60001 z189999 G60001 z189999 G60001 z689999 D60001 |
+%  (2:41) bar 80.0
+z189999 D60001 z189999 D60001 z189999 C60001 z189999 C60001 |
+%  (2:42) bar 80.5
+z439999 F60001 z189999 F60001 z439999 G60001 z189999 G60001 |
+%  (2:43) bar 81.3
+z189999 G60001 z189999 G60001 z189999 G60001 z689999 D60001 |
+%  (2:45) bar 82.0
+z189999 D60001 z189999 D60001 z189999 C60001 z189999 C60001 |
+%  (2:46) bar 82.5
+z439999 F60001 z189999 F60001 z439999 G60001 z189999 G60001 |
+%  (2:47) bar 83.3
+z189999 G60001 z189999 G60001 z189999 G60001 z689999 D60001 |
+%  (2:49) bar 84.0
+z189999 D60001 z189999 D60001 z189999 C60001 z189999 C60001 |
+%  (2:50) bar 84.5
+z439999 F60001 z189999 F60001 z439999 G60001 z189999 G60001 |
+%  (2:51) bar 85.3
+z189999 G60001 z189999 G60001 z189999 G60001 z689999 D60001 |
+%  (2:53) bar 86.0
+z189999 D60001 z189999 D60001 z189999 C60001 z189999 C60001 |
+%  (2:54) bar 86.5
+z439999 D60001 z189999 D60001 z2189999 D60001 z189999 D60001 |
+%  (2:57) bar 88.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 C60001 |
+%  (2:58) bar 88.8
+z189999 C60001 z189999 C60001 z1939999 D60001 z189999 D60001 |
+%  (3:01) bar 90.2
+z189999 D60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (3:02) bar 90.7
+z189999 C60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (3:03) bar 91.2
+z189999 F60001 z189999 ^A,60001 z189999 A,60001 z189999 A,60001 |
+%  (3:04) bar 91.7
+z189999 ^A,60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:05) bar 92.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:06) bar 92.7
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:07) bar 93.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:08) bar 93.7
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:09) bar 94.2
+z189999 D60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (3:10) bar 94.7
+z189999 C60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (3:11) bar 95.2
+z189999 F60001 z189999 ^A,60001 z189999 A,60001 z189999 A,60001 |
+%  (3:12) bar 95.7
+z189999 ^A,60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:13) bar 96.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:14) bar 96.7
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:15) bar 97.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:16) bar 97.7
+z189999 D60001 z189999 D60001 z189999 D60001 z1939999 E60001 |
+%  (3:19) bar 99.0
+z1939999 ^C60001 z1939999 ^A,60001 z1939999 D60001 z189999 D60001 |
+%  (3:25) bar 102.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:26) bar 102.7
+z189999 D60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (3:27) bar 103.2
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (3:28) bar 103.7
+z189999 F60001 z189999 ^C60001 z189999 C60001 z189999 C60001 |
+%  (3:29) bar 104.2
+z189999 ^C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (3:30) bar 104.7
+z189999 ^C60001 z189999 ^A,60001 z189999 A,60001 z189999 A,60001 |
+%  (3:31) bar 105.2
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (3:32) bar 105.7
+z189999 ^A,60001 z189999 ^C60001 z189999 D60001 z189999 D60001 |
+%  (3:33) bar 106.2
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:34) bar 106.7
+z189999 D60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (3:35) bar 107.2
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (3:36) bar 107.7
+z189999 F60001 z189999 ^C60001 z189999 ^D60001 z189999 D60001 |
+%  (3:37) bar 108.2
+z189999 ^D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (3:38) bar 108.7
+z189999 ^D60001 z189999 D60001 z189999 ^A,60001 z439999 A,60001 |
+%  (3:39) bar 109.3
+z439999 ^A,60001 z439999 A,60001 z439999 A,60001 z439999 A,60001 |
+%  (3:41) bar 110.3
+z439999 ^A,60001 z439999 A,60001 z439999 D60001 z189999 D60001 |
+%  (3:43) bar 111.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (3:44) bar 111.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (3:45) bar 112.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (3:47) bar 113.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (3:48) bar 113.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (3:49) bar 114.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (3:51) bar 115.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (3:52) bar 115.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (3:53) bar 116.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (3:55) bar 117.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 F60001 |
+%  (3:56) bar 117.8
+z189999 F60001 z439999 G60001 z189999 G60001 z189999 G60001 |
+%  (3:57) bar 118.4
+z189999 G60001 z189999 G60001 z689999 D60001 z189999 D60001 |
+%  (3:59) bar 119.2
+z189999 D60001 z189999 C60001 z189999 C60001 z439999 D60001 |
+%  (4:00) bar 119.8
+z189999 D60001 z2189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:03) bar 121.3
+z189999 C60001 z189999 C60001 z439999 C60001 z189999 C60001 |
+%  (4:04) bar 121.9
+z189999 C60001 z1939999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:07) bar 123.3
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (4:08) bar 123.8
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (4:09) bar 124.3
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (4:10) bar 124.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:11) bar 125.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:12) bar 125.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:13) bar 126.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:14) bar 126.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:15) bar 127.3
+z189999 C60001 z189999 C60001 z189999 C60001 z189999 C60001 |
+%  (4:16) bar 127.8
+z189999 F60001 z189999 F60001 z189999 F60001 z189999 F60001 |
+%  (4:17) bar 128.3
+z189999 ^A,60001 z189999 A,60001 z189999 A,60001 z189999 A,60001 |
+%  (4:18) bar 128.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:19) bar 129.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:20) bar 129.8
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:21) bar 130.3
+z189999 D60001 z189999 D60001 z189999 D60001 z189999 D60001 |
+%  (4:22) bar 130.8
+z189999 D250000 |]
+
+
+X: 10
+T: Shake The Disease (4:23) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+%%user-pan auto
+C: Depeche Mode
+M: 4/4
+Q: 120
+L: 1/2000000
+K: C maj
++mf+ z60001 z3939999 z60001 z3939999 z60001 z3939999 z60001 |
+%  (0:13) bar 6.0
+z3939999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (0:17) bar 8.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (0:18) bar 8.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (0:19) bar 9.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (0:20) bar 9.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (0:21) bar 10.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (0:22) bar 10.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (0:22) bar 11.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (0:23) bar 11.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (0:24) bar 11.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 E,60001 |
+%  (0:25) bar 12.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:26) bar 12.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001f60001] |
+%  (0:27) bar 13.0
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001D60001f60001] z189999 E,60001 |
+%  (0:28) bar 13.5
+z189999 [E,60001D60001^f60001] z189999 [E,60001f60001] z64999 D60001 z64999 E,60001 |
+%  (0:28) bar 13.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (0:29) bar 14.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (0:30) bar 14.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (0:31) bar 15.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (0:32) bar 15.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 z64999 E,60001 |
+%  (0:32) bar 16.0
+z64999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:33) bar 16.4
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:34) bar 16.9
+z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:35) bar 17.3
+z189999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001D60001f60001] z189999 [E,60001f60001] |
+%  (0:36) bar 17.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (0:37) bar 18.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (0:38) bar 18.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (0:38) bar 19.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (0:39) bar 19.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (0:40) bar 19.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 [E,60001f60001] |
+%  (0:41) bar 20.2
+z189999 E,60001 z189999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001^G,60001D60001] |
+%  (0:42) bar 20.7
+z64999 ^G,60001 z64999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (0:42) bar 20.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (0:43) bar 21.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (0:44) bar 21.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (0:45) bar 22.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (0:46) bar 22.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (0:46) bar 23.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (0:47) bar 23.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (0:48) bar 23.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (0:49) bar 24.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (0:50) bar 24.7
+z189999 [E,60001^G,60001^f60001] z64999 [G,60001D60001] z64999 [E,60001G,60001] z64999 E,60001 |
+%  (0:50) bar 25.0
+z64999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:51) bar 25.4
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:52) bar 25.9
+z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (0:53) bar 26.3
+z189999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001D60001f60001] z189999 [E,60001f60001] |
+%  (0:54) bar 26.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (0:55) bar 27.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (0:56) bar 27.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (0:56) bar 28.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (0:57) bar 28.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (0:58) bar 28.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (0:59) bar 29.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (1:00) bar 29.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] |
+%  (1:01) bar 30.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (1:02) bar 30.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (1:02) bar 30.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (1:03) bar 31.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (1:04) bar 31.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (1:05) bar 32.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (1:06) bar 32.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 z64999 E,60001 |
+%  (1:06) bar 33.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (1:07) bar 33.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (1:08) bar 33.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (1:09) bar 34.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (1:10) bar 34.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] |
+%  (1:11) bar 35.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] |
+%  (1:12) bar 35.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (1:12) bar 36.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (1:13) bar 36.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (1:14) bar 36.8
+z64999 E,60001 z64999 E,60001 z64999 E,60001 z439999 E,60001 |
+%  (1:15) bar 37.3
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:17) bar 38.3
+z439999 E,60001 z189999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (1:18) bar 38.9
+z64999 E,60001 z64999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:20) bar 39.5
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:22) bar 40.5
+z189999 E,60001 z189999 E,60001 z189999 E,60001 z64999 E,60001 |
+%  (1:22) bar 41.0
+z64999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:24) bar 41.8
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z189999 E,60001 |
+%  (1:26) bar 42.7
+z189999 E,60001 z189999 E,60001 z64999 E,60001 z64999 E,60001 |
+%  (1:27) bar 43.0
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:29) bar 44.0
+z439999 E,60001 z439999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (1:30) bar 44.8
+z189999 E,60001 z64999 E,60001 z64999 E,60001 z439999 E,60001 |
+%  (1:31) bar 45.3
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:33) bar 46.3
+z439999 E,60001 z189999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (1:34) bar 46.9
+z64999 E,60001 z64999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:36) bar 47.5
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (1:38) bar 48.5
+z189999 E,60001 z189999 E,60001 z189999 E,60001 z64999 E,60001 |
+%  (1:38) bar 49.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (1:39) bar 49.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (1:40) bar 49.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (1:41) bar 50.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (1:42) bar 50.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (1:43) bar 51.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (1:44) bar 51.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (1:44) bar 52.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (1:45) bar 52.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (1:46) bar 52.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 E,60001 |
+%  (1:47) bar 53.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (1:48) bar 53.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001f60001] |
+%  (1:49) bar 54.0
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001D60001f60001] z189999 E,60001 |
+%  (1:50) bar 54.5
+z189999 [E,60001D60001^f60001] z189999 [E,60001f60001] z64999 D60001 z64999 E,60001 |
+%  (1:50) bar 54.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (1:51) bar 55.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (1:52) bar 55.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (1:53) bar 56.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (1:54) bar 56.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 z64999 E,60001 |
+%  (1:54) bar 57.0
+z64999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (1:55) bar 57.4
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (1:56) bar 57.9
+z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (1:57) bar 58.3
+z189999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001D60001f60001] z189999 [E,60001f60001] |
+%  (1:58) bar 58.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (1:59) bar 59.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (2:00) bar 59.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (2:00) bar 60.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (2:01) bar 60.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (2:02) bar 60.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 [E,60001f60001] |
+%  (2:03) bar 61.2
+z189999 E,60001 z189999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001^G,60001D60001] |
+%  (2:04) bar 61.7
+z64999 ^G,60001 z64999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (2:04) bar 61.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (2:05) bar 62.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (2:06) bar 62.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (2:07) bar 63.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (2:08) bar 63.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (2:08) bar 64.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (2:09) bar 64.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (2:10) bar 64.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (2:11) bar 65.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (2:12) bar 65.7
+z189999 [E,60001^G,60001^f60001] z64999 [G,60001D60001] z64999 [E,60001G,60001] z64999 E,60001 |
+%  (2:12) bar 66.0
+z64999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (2:13) bar 66.4
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (2:14) bar 66.9
+z64999 E,60001 z64999 [E,60001D60001^f60001] z189999 [E,60001f60001] z189999 [E,60001D60001] |
+%  (2:15) bar 67.3
+z189999 [E,60001D60001^f60001] z189999 E,60001 z189999 [E,60001D60001f60001] z189999 [E,60001f60001] |
+%  (2:16) bar 67.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (2:17) bar 68.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (2:18) bar 68.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (2:18) bar 69.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (2:19) bar 69.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (2:20) bar 69.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (2:21) bar 70.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (2:22) bar 70.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] |
+%  (2:23) bar 71.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (2:24) bar 71.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (2:24) bar 71.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (2:25) bar 72.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (2:26) bar 72.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (2:27) bar 73.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (2:28) bar 73.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 z64999 E,60001 |
+%  (2:28) bar 74.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (2:29) bar 74.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (2:30) bar 74.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (2:31) bar 75.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (2:32) bar 75.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] |
+%  (2:33) bar 76.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] |
+%  (2:34) bar 76.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (2:34) bar 77.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (2:35) bar 77.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (2:36) bar 77.8
+z64999 E,60001 z64999 E,60001 z64999 E,60001 z439999 E,60001 |
+%  (2:37) bar 78.3
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:39) bar 79.3
+z439999 E,60001 z189999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (2:40) bar 79.9
+z64999 E,60001 z64999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:42) bar 80.5
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:44) bar 81.5
+z189999 E,60001 z189999 E,60001 z189999 E,60001 z64999 E,60001 |
+%  (2:44) bar 82.0
+z64999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:46) bar 82.8
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z189999 E,60001 |
+%  (2:48) bar 83.7
+z189999 E,60001 z189999 E,60001 z64999 E,60001 z64999 E,60001 |
+%  (2:49) bar 84.0
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:51) bar 85.0
+z439999 E,60001 z439999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (2:52) bar 85.8
+z189999 E,60001 z64999 E,60001 z64999 E,60001 z439999 E,60001 |
+%  (2:53) bar 86.3
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:55) bar 87.3
+z439999 E,60001 z189999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (2:56) bar 87.9
+z64999 E,60001 z64999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (2:58) bar 88.5
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:00) bar 89.5
+z189999 E,60001 z189999 E,60001 z189999 E,60001 z64999 E,60001 |
+%  (3:00) bar 90.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:01) bar 90.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:02) bar 90.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (3:03) bar 91.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (3:04) bar 91.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (3:05) bar 92.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (3:06) bar 92.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (3:06) bar 93.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:07) bar 93.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (3:08) bar 93.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (3:09) bar 94.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (3:10) bar 94.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] |
+%  (3:11) bar 95.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (3:12) bar 95.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (3:12) bar 95.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (3:13) bar 96.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (3:14) bar 96.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (3:15) bar 97.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (3:16) bar 97.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 z64999 E,60001 |
+%  (3:16) bar 98.0
+z64999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:18) bar 98.8
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z189999 E,60001 |
+%  (3:20) bar 99.7
+z189999 E,60001 z189999 E,60001 z64999 E,60001 z64999 E,60001 |
+%  (3:21) bar 100.0
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 [E,60001D60001] |
+%  (3:23) bar 101.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (3:24) bar 101.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (3:24) bar 102.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:25) bar 102.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (3:26) bar 102.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (3:27) bar 103.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (3:28) bar 103.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] |
+%  (3:29) bar 104.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (3:30) bar 104.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (3:30) bar 104.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (3:31) bar 105.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (3:32) bar 105.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (3:33) bar 106.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (3:34) bar 106.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 z64999 E,60001 |
+%  (3:34) bar 107.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:35) bar 107.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:36) bar 107.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (3:37) bar 108.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (3:38) bar 108.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001^f60001] |
+%  (3:39) bar 109.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 [E,60001f60001] |
+%  (3:40) bar 109.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (3:40) bar 110.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (3:41) bar 110.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (3:42) bar 110.8
+z64999 E,60001 z64999 E,60001 z64999 E,60001 z439999 E,60001 |
+%  (3:43) bar 111.3
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:45) bar 112.3
+z439999 E,60001 z189999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (3:46) bar 112.9
+z64999 E,60001 z64999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:48) bar 113.5
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:50) bar 114.5
+z189999 E,60001 z189999 E,60001 z189999 E,60001 z64999 E,60001 |
+%  (3:50) bar 115.0
+z64999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:52) bar 115.8
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z189999 E,60001 |
+%  (3:54) bar 116.7
+z189999 E,60001 z189999 E,60001 z64999 E,60001 z64999 E,60001 |
+%  (3:55) bar 117.0
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (3:57) bar 118.0
+z439999 E,60001 z439999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (3:58) bar 118.8
+z189999 E,60001 z64999 E,60001 z64999 E,60001 z439999 E,60001 |
+%  (3:59) bar 119.3
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (4:01) bar 120.3
+z439999 E,60001 z189999 E,60001 z189999 E,60001 z189999 E,60001 |
+%  (4:02) bar 120.9
+z64999 E,60001 z64999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (4:04) bar 121.5
+z439999 E,60001 z439999 E,60001 z439999 E,60001 z439999 E,60001 |
+%  (4:06) bar 122.5
+z189999 E,60001 z189999 E,60001 z189999 E,60001 z64999 E,60001 |
+%  (4:06) bar 123.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (4:07) bar 123.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (4:08) bar 123.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (4:09) bar 124.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (4:10) bar 124.8
+z64999 D60001 z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] |
+%  (4:11) bar 125.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (4:12) bar 125.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 |
+%  (4:12) bar 126.0
+z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] |
+%  (4:13) bar 126.4
+z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 |
+%  (4:14) bar 126.8
+z64999 E,60001 z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (4:15) bar 127.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (4:16) bar 127.7
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] |
+%  (4:17) bar 128.0
+z189999 E,60001 z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 |
+%  (4:18) bar 128.5
+z189999 [E,60001D60001] z189999 [E,60001^f60001] z64999 D60001 z64999 E,60001 |
+%  (4:18) bar 128.9
+z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 z189999 [E,60001^f60001] |
+%  (4:19) bar 129.3
+z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] z189999 [E,60001^f60001] |
+%  (4:20) bar 129.8
+z189999 [E,60001D60001] z64999 E,60001 z64999 [E,60001D60001] z189999 E,60001 |
+%  (4:21) bar 130.2
+z189999 [E,60001^f60001] z189999 [E,60001D60001] z189999 E,60001 z189999 [E,60001D60001] |
+%  (4:22) bar 130.7
+z189999 [E,60001^f60001] z64999 D60001 z64999 E,125000 |]
 

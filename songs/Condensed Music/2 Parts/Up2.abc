@@ -1,230 +1,33 @@
-N: TS  2,   1   5
-X: 1
-%%Orig filename was Up2Flute.abc
 %abc-2.1
-%%song-title       Married Life (from Up) [RE]
+%%song-title       Married Life
 %%song-composer    Michael Giacchino
 %%song-duration    2:50
 %%song-transcriber Celeiriel of Gladden
-%%abc-creator Maestro v4.4.6
-%%export-timestamp 2026-09-12 18:56:40
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-10 15:01:32
 %%swing-rhythm false
 %%mix-timings false
+%%reduced-file-size false
 %%organic             false
 %%organic-multi-stage false
-%%organic-poly-6-plus false
-%%skip-silence-at-start false
-%%delete-minimal-notes false
-%%abc-version 2.1
-
-T: Married Life (from Up) [RE] (2:50) - Basic Flute
-%%part-name Basic Flute
-%%made-for Basic Flute
-C: Michael Giacchino
-Z: Celeiriel of Gladden
-M: 3/4
-Q: 175
-K: C maj
-L: 1/8
-
-+fff+ z6 |
-z6 |
-z6 |
-z3 F A F |
-E6- |
-E2 z F A E |
-D2 z D F D |
-C4 z D |
-A2 G2 z D |
-% Bar 10 (0:10)
-A2 G3/2- [E/G/] F2 |
-D6- |
-D2 z F G F |
-E6- |
-E2 z E G E |
-C2 z C E C |
-^A,2 z A, C A, |
-z2 A,2 ^A,2 |
-C3 D E2 |
-z2 C2 D2 |
-% Bar 20 (0:20)
-E3 F A F |
-E6- |
-E2 z F A E |
-D2 z D F D |
-C4 z D |
-A2 G2 z D |
-A2 G3/2- [E/G/] F2 |
-D6- |
-D2 z F G F |
-E6- |
-% Bar 30 (0:30)
-E2 z E G E |
-C2 z C E C |
-^A,2 z A, C A, |
-z2 A,2 ^A,2 |
-C3 D E2 |
-z2 C2 D2 |
-E3 F A F |
-E6- |
-E2 z F A E |
-D2 z F A d |
-% Bar 40 (0:41)
-e4 z d |
-f2 e2 z d |
-A2 B2 d/ d/ z/ e/ |
-f4- f3/2 f/ |
-[d/-e/] d3/2 z f g f |
-e6- |
-e2 z e g e |
-c2 z c e c |
-^A c d e g a |
-^a/ [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] c'/ z/ |
-% Bar 50 (0:51)
-^a4 z2 |
-^a2 =a2 z G |
-d2 A2 G2 |
-A6 |
-F6 |
-A2 G2 z F |
-A2 ^F2 D2 |
-+ff+ B,2 ^c d ^d e |
-f ^f g ^g a ^a |
-^a =a ^g =g ^f =f |
-% Bar 60 (1:01)
-e ^d =d ^c =c B, |
-E2 G2 z D |
-E2 ^A,2 B,2 |
-C6 |
-c d e f [g/a/-] a/ f |
-e6- |
-e2 z f a e |
-d2 z d f a |
-c'4 z f |
-a2 g2 z d |
-% Bar 70 (1:11)
-a2 g3/2- [e/g/] f2 |
-d6- |
-d2 z f g f |
-e6- |
-e2 z e g e |
-c2
-	%%Q: 140
-	z5/4 c5/4 e5/4 c5/4 |
-^A,15/2 |
-%%Q: 120
-z35/16 +fff+ A,35/48- [A,35/16A35/16-] [^A,35/48-A35/48] [A,35/16^A35/16-] [C35/48-A35/48] |
-[C35/16c35/16-] c35/48 z35/48 D35/48- [D35/48d35/48-] [E35/48-d35/48] [E35/16e35/16-] e35/48 |
-z35/16 C35/48- [C35/16c35/16-] [D35/48-c35/48] [D35/16d35/16-] [E35/48-d35/48] |
-% Bar 80 (1:24)
-[E35/16e35/16-] e35/48 z35/24
-	%%Q: 175
-	F A F |
-+ff+ E6- |
-%%Q: 170
-E35/17-
-	%%Q: 165
-	E70/33-
-	%%Q: 160
-	E35/16-
-	%%Q: 155
-	E70/31- |
-%%Q: 150
-E7/3-
-	%%Q: 145
-	E70/29-
-	%%Q: 140
-	E5/2 |
-%%Q: 135
-z35/27 F35/27
-	%%Q: 130
-	A35/26 F35/26
-	%%Q: 125
-	E28/5- |
-%%Q: 120
-E35/12-
-	%%Q: 115
-	E210/23- |
-%%Q: 110
-E105/11- |
-%%Q: 105
-E10/3 |
-z5/3 F5/3 A5/3 F5/3
-	%%Q: 100
-	E21/2- |
-E7/2 |
-% Bar 90 (1:38)
-z7/4 F7/4 A7/4 E7/4 D7/2 |
-z7/4 D7/4 F7/4 D7/4 C7 |
-z7/4 B,7/4 A7/2 |
-G7/2 z7/4 D7/4 A7/2 |
-G7/2 F7/2 D21/2- |
-D7/2 |
-z7/4 F7/4 G7/4 F7/4 E21/2- |
-E7/2 |
-z7/4 E7/4 G7/4 E7/4 C7/2 |
-z7/4 C7/4 E7/4 C7/4 ^A,21/2 |
-% Bar 100 (1:56)
-z7/2 |
-A,7/2 ^A,7/2 C21/4 |
-D7/4 E7/2 z7/2 |
-C7/2 D7/2 E21/2 |
-z21/2 |
-z21/2 |
-z21/2 |
-z21/4 |
-+f+ f7/4 a7/4 f7/4 e21/2- |
-e7/2 |
-% Bar 110 (2:14)
-z7/4 f7/4 a7/4 e7/4 d7/2 |
-z7/4 d7/4 f7/4 d7/4 c7 |
-z7/4 d7/4 a7/2 |
-g7/2 z7/4 d7/4 a7/2 |
-g7/2 f7/2 d21/2- |
-d7/2 |
-z7/4 f7/4 g7/4 f7/4 e21/2- |
-e7/2 |
-z7/4 e7/4 g7/4 e7/4 c7/2 |
-z7/4 c7/4 e7/4 c7/4 ^A21/2 |
-% Bar 120 (2:32)
-z7/2 |
-A7/2 ^A7/2 c21/4 |
-d7/4 e7/2 z7/2 |
-c7/2 d7/2 e21/4 |
-f7/4 a7/4 f7/4 c'21/2- |
-c'21/2- |
-c'7- |
-c'21/16 c'35/16- c'21/2 |
-[C,21/2F,21/2A,21/2] |]
-
-X: 5
-%%Orig filename was Up2Harp.abc
-%abc-2.1
-%%song-title       Married Life (from Up) [RE]
-%%song-composer    Michael Giacchino
-%%song-duration    2:49
-%%song-transcriber Celeiriel of Gladden
-%%abc-creator Maestro v4.4.6
-%%export-timestamp 2026-09-12 18:54:21
-%%swing-rhythm false
-%%mix-timings false
-%%organic             false
-%%organic-multi-stage false
+%%organic-version     1
 %%organic-poly-6-plus false
 %%skip-silence-at-start true
 %%delete-minimal-notes false
 %%abc-version 2.1
+I:decoration +
 
-T: Married Life (from Up) [RE] (2:49) - Basic Harp
+X: 5
+T: Married Life (2:50) - Basic Harp
 %%part-name Basic Harp
 %%made-for Basic Harp
+%%user-pan auto
 C: Michael Giacchino
 Z: Celeiriel of Gladden
 M: 3/4
 Q: 175
-K: C maj
 L: 1/8
-
+K: C maj
 +ff+ F2 [A2c2] [A2c2] |
 C2 [A2c2] [A2c2] |
 D2 [A2c2] [A2c2] |
@@ -394,5 +197,188 @@ c'21/2 |
 [F21/2A21/2c21/2e21/2] |
 [F21/2A21/2c21/2] |
 [F21/2A21/2c21/2e21/2] |
-[C21/4F21/4] |]
+[C21/4F21/4] |
+z7/4 z7/2 |]
+
+
+X: 1
+T: Married Life (2:50) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+%%user-pan auto
+C: Michael Giacchino
+Z: Celeiriel of Gladden
+M: 3/4
+Q: 175
+L: 1/8
+K: C maj
++fff+ z6 |
+z6 |
+z6 |
+z3 F A F |
+E6- |
+E2 z F A E |
+D2 z D F D |
+C4 z D |
+A2 G2 z D |
+% Bar 10 (0:10)
+A2 G3/2- [E/G/] F2 |
+D6- |
+D2 z F G F |
+E6- |
+E2 z E G E |
+C2 z C E C |
+^A,2 z A, C A, |
+z2 A,2 ^A,2 |
+C3 D E2 |
+z2 C2 D2 |
+% Bar 20 (0:20)
+E3 F A F |
+E6- |
+E2 z F A E |
+D2 z D F D |
+C4 z D |
+A2 G2 z D |
+A2 G3/2- [E/G/] F2 |
+D6- |
+D2 z F G F |
+E6- |
+% Bar 30 (0:30)
+E2 z E G E |
+C2 z C E C |
+^A,2 z A, C A, |
+z2 A,2 ^A,2 |
+C3 D E2 |
+z2 C2 D2 |
+E3 F A F |
+E6- |
+E2 z F A E |
+D2 z F A d |
+% Bar 40 (0:41)
+e4 z d |
+f2 e2 z d |
+A2 B2 d/ d/ z/ e/ |
+f4- f3/2 f/ |
+[d/-e/] d3/2 z f g f |
+e6- |
+e2 z e g e |
+c2 z c e c |
+^A c d e g a |
+^a/ [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] [a/c'/] c'/ z/ |
+% Bar 50 (0:51)
+^a4 z2 |
+^a2 =a2 z G |
+d2 A2 G2 |
+A6 |
+F6 |
+A2 G2 z F |
+A2 ^F2 D2 |
++ff+ B,2 ^c d ^d e |
+f ^f g ^g a ^a |
+^a =a ^g =g ^f =f |
+% Bar 60 (1:01)
+e ^d =d ^c =c B, |
+E2 G2 z D |
+E2 ^A,2 B,2 |
+C6 |
+c d e f [g/a/-] a/ f |
+e6- |
+e2 z f a e |
+d2 z d f a |
+c'4 z f |
+a2 g2 z d |
+% Bar 70 (1:11)
+a2 g3/2- [e/g/] f2 |
+d6- |
+d2 z f g f |
+e6- |
+e2 z e g e |
+c2
+	%%Q: 140
+	z5/4 c5/4 e5/4 c5/4 |
+^A,15/2 |
+%%Q: 120
+z35/16 +fff+ A,35/48- [A,35/16A35/16-] [^A,35/48-A35/48] [A,35/16^A35/16-] [C35/48-A35/48] |
+[C35/16c35/16-] c35/48 z35/48 D35/48- [D35/48d35/48-] [E35/48-d35/48] [E35/16e35/16-] e35/48 |
+z35/16 C35/48- [C35/16c35/16-] [D35/48-c35/48] [D35/16d35/16-] [E35/48-d35/48] |
+% Bar 80 (1:24)
+[E35/16e35/16-] e35/48 z35/24
+	%%Q: 175
+	F A F |
++ff+ E6- |
+%%Q: 170
+E35/17-
+	%%Q: 165
+	E70/33-
+	%%Q: 160
+	E35/16-
+	%%Q: 155
+	E70/31- |
+%%Q: 150
+E7/3-
+	%%Q: 145
+	E70/29-
+	%%Q: 140
+	E5/2 |
+%%Q: 135
+z35/27 F35/27
+	%%Q: 130
+	A35/26 F35/26
+	%%Q: 125
+	E28/5- |
+%%Q: 120
+E35/12-
+	%%Q: 115
+	E210/23- |
+%%Q: 110
+E105/11- |
+%%Q: 105
+E10/3 |
+z5/3 F5/3 A5/3 F5/3
+	%%Q: 100
+	E21/2- |
+E7/2 |
+% Bar 90 (1:38)
+z7/4 F7/4 A7/4 E7/4 D7/2 |
+z7/4 D7/4 F7/4 D7/4 C7 |
+z7/4 B,7/4 A7/2 |
+G7/2 z7/4 D7/4 A7/2 |
+G7/2 F7/2 D21/2- |
+D7/2 |
+z7/4 F7/4 G7/4 F7/4 E21/2- |
+E7/2 |
+z7/4 E7/4 G7/4 E7/4 C7/2 |
+z7/4 C7/4 E7/4 C7/4 ^A,21/2 |
+% Bar 100 (1:56)
+z7/2 |
+A,7/2 ^A,7/2 C21/4 |
+D7/4 E7/2 z7/2 |
+C7/2 D7/2 E21/2 |
+z21/2 |
+z21/2 |
+z21/2 |
+z21/4 |
++f+ f7/4 a7/4 f7/4 e21/2- |
+e7/2 |
+% Bar 110 (2:14)
+z7/4 f7/4 a7/4 e7/4 d7/2 |
+z7/4 d7/4 f7/4 d7/4 c7 |
+z7/4 d7/4 a7/2 |
+g7/2 z7/4 d7/4 a7/2 |
+g7/2 f7/2 d21/2- |
+d7/2 |
+z7/4 f7/4 g7/4 f7/4 e21/2- |
+e7/2 |
+z7/4 e7/4 g7/4 e7/4 c7/2 |
+z7/4 c7/4 e7/4 c7/4 ^A21/2 |
+% Bar 120 (2:32)
+z7/2 |
+A7/2 ^A7/2 c21/4 |
+d7/4 e7/2 z7/2 |
+c7/2 d7/2 e21/4 |
+f7/4 a7/4 f7/4 c'21/2- |
+c'21/2- |
+c'7- |
+c'21/16 c'35/16- c'21/2 |
+[C,21/2F,21/2A,21/2] |]
 

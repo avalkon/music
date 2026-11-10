@@ -1,514 +1,1322 @@
-N: TS  3,  10   4  18
-X: 10
-%%Orig filename was RubberbandDrums.abc
-T: Rubberband Man Basic Drum (3:26)
-%%part-name Basic Drum
-C: The Spinners
-Z: Dallofin Bolderbrook of Crickhollow
-M: 4/4
-Q: 100
-K: C maj
-
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-% Bar 10 (0:21)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-% Bar 20 (0:45)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-% Bar 30 (1:09)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-% Bar 40 (1:33)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-% Bar 50 (1:57)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-% Bar 60 (2:21)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] z4 |
-% Bar 70 (2:45)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-% Bar 80 (3:09)
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/=A,/^A,/G/A/] +fff+ [D,/=A,/^A,/G/A/] +f+ [D,/=A,/^A,/A/] +ff+ [D,/=A,/^A,/A/] +f+ [D,/=A,/^A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] +fff+
-	[D,/=A,/^A,/G/A/] +ff+ [D,/=A,/^A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] [D,/=A,/^A,/G/A/]
-	+fff+ [D,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +ff+ [D,/A,/G/A/] +fff+ [D,/A,/G/A/] +ff+ [D,/A,/G/A/] |
-+fff+ [^D,/A,/^A,/^G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/] +mp+ [D,/A,/A/] +fff+ [D,/F,/=A,/^A,/G/A/] +mp+ [D,/A,/A/] +ff+ [D,/=A,/^A,/A/]
-	[D,/F,/=A,/^A,/G/A/] z4 |]
+%abc-2.1
+%%song-title       Rubberband Man
+%%song-composer    The Spinners
+%%song-duration    3:26
+%%song-transcriber Dallofin Bolderbrook of Crickhollow
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-10 13:38:16
+%%swing-rhythm false
+%%mix-timings false
+%%reduced-file-size false
+%%organic             true
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+I:decoration +
 
 X: 4
-%%Orig filename was RubberbandHorn.abc
-T: Rubberband Man Basic Horn (3:26)
+T: Rubberband Man (3:26) - Basic Horn
 %%part-name Basic Horn
+%%made-for Basic Horn
+%%user-pan auto
 C: The Spinners
 Z: Dallofin Bolderbrook of Crickhollow
 M: 4/4
 Q: 100
+L: 1/2400000
 K: C maj
++fff+ F,225000 z75000 F,225000 z75000 F,225000 z75000 +ff+ F,225000 |
+%  (0:02) bar 0.5
+z75000 +fff+ F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 z75000 +ff+ F,225000 |
+%  (0:03) bar 1.0
+z75000 +fff+ F,225000 z75000 F,225000 z75000 +ff+ F,225000 z75000 F,225000 |
+%  (0:04) bar 1.5
+z75000 +fff+ F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 |
+%  (0:05) bar 2.0
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 +ff+ F,225000 |
+%  (0:06) bar 2.5
+z75000 F,225000 z75000 +fff+ F,225000 z75000 F,225000 z75000 F,225000 |
+%  (0:08) bar 3.0
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 |
+%  (0:09) bar 3.5
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 |
+%  (0:10) bar 4.0
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 +ff+ F,225000 |
+%  (0:11) bar 4.5
+z75000 +fff+ F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 z75000 +ff+ F,225000 |
+%  (0:12) bar 5.0
+z75000 +fff+ F,225000 z75000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 |
+%  (0:14) bar 5.5
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 |
+%  (0:15) bar 6.0
+z75000 F,300000 z1800000 F,150000 F,150000 z900000 F,150000 F,150000 |
+%  (0:18) bar 7.5
+z150000 +ff+ C150000 +fff+ [D,225000D225000] z75000 [F,300000F300000] z300000 F,225000 z75000 |
+%  (0:20) bar 8.1
++ff+ F,225000 z75000 +fff+ F,225000 z75000 F,150000 +ff+ F,150000 z1200000 +fff+ [F,225000c'225000] |
+%  (0:22) bar 9.1
+z75000 [F,150000-a150000] [F,75000f75000-] f75000- [F,225000f225000] z75000 [F,150000-d150000] [F,75000^d75000-] |
+%  (0:23) bar 9.5
+^d75000- [F,75000-d75000] F,75000- [F,75000=d75000-] d75000- [F,75000-d75000] F,75000- [F,75000d75000-] |
+%  (0:24) bar 9.7
+d75000 [F,225000c225000-] c75000- [F,150000-c150000] F,75000 z75000 [F,225000^d225000] z75000 |
+%  (0:25) bar 10.1
+[F,150000-d150000] [F,75000^d75000-] d75000- +ff+ [F,75000-d75000] F,75000- +fff+ [F,75000c75000-] c75000- [F,225000c225000] |
+%  (0:26) bar 10.5
+z75000 [F,225000A225000-] A75000- +ff+ [F,225000A225000-] A75000 +fff+ F,225000 z75000 +ff+ F,225000 |
+%  (0:27) bar 11.0
+z75000 +fff+ [F,225000^d225000] z75000 [F,150000-c150000] [F,75000f75000-] f75000- [F,225000f225000] z75000 |
+%  (0:28) bar 11.4
+[F,225000f225000] z75000 [F,150000-a150000] [F,75000f75000-] f75000- [F,75000-f75000] F,75000- [F,75000f75000-] |
+%  (0:29) bar 11.7
+f75000- [F,75000-f75000] F,75000- [F,75000c75000-] c75000 [F,150000-d150000] [F,75000^d75000-] d75000- |
+%  (0:29) bar 12.0
+[F,75000-^d75000] F,75000- [F,75000=d75000-] d75000- [F,75000-d75000] F,75000- [F,75000c75000-] c75000- |
+%  (0:30) bar 12.3
+[F,225000c225000] z75000 [F,225000A225000-] A75000 [F,225000F225000-] F75000- +ff+ [F,225000F225000-] F75000 |
+%  (0:31) bar 12.8
++fff+ F,225000 z75000 F,225000 z75000 [F,150000-^d150000] [F,75000=d75000-] d75000- [F,75000-d75000] |
+%  (0:32) bar 13.2
+F,75000- [F,75000^d75000-] d75000 [F,225000c225000] z75000 [F,225000c225000] z75000 [F,225000f225000] |
+%  (0:33) bar 13.6
+z75000 [F,150000-d150000] [F,75000f75000-] f75000- [F,225000f225000-] f75000 F,150000- [F,75000d75000-] |
+%  (0:34) bar 14.0
+d75000 [F,225000f225000] z75000 [F,150000-d150000] [F,75000f75000-] f75000- [F,75000-f75000] F,75000- |
+%  (0:35) bar 14.3
+[F,75000d75000-] d75000 [F,225000a225000-] a75000 [F,225000g225000-] g75000- [F,225000g225000-] g75000 |
+%  (0:36) bar 14.8
+F,225000 z75000 F,225000 z75000 [F,225000^d225000] z75000 [F,150000-c150000] [F,75000f75000-] |
+%  (0:37) bar 15.2
+f75000- [F,225000f225000] z75000 [F,150000-d150000] [F,75000f75000-] f75000- [F,75000-f75000] F,75000- |
+%  (0:38) bar 15.6
+[F,75000f75000-] f75000- +ff+ [F,75000-f75000] F,75000- +fff+ [F,75000f75000-] f75000- [F,225000f225000] z75000 |
+%  (0:39) bar 15.9
+[F,150000-d150000] [F,75000^d75000-] d75000- +ff+ [F,225000d225000] z75000 +fff+ [F,150000-=d150000] [F,75000d75000-] d75000- |
+%  (0:39) bar 16.3
++ff+ [F,225000d225000] z75000 +fff+ [F,225000c225000] z75000 [F,225000F225000-] F75000- [F,225000F225000-] F75000 |
+%  (0:41) bar 16.8
+^G,225000 z75000 +ff+ G,225000 z75000 +fff+ ^C,225000 z75000 [C,225000^G225000] z75000 |
+%  (0:42) bar 17.3
+[^C,225000^G225000-] G75000- [C,75000-G75000] C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] z75000 |
+%  (0:43) bar 17.6
+[^G,150000-^G150000] [G,75000G75000-] G75000- [G,225000G225000] z75000 [G,150000-F150000] [G,75000^D75000-] D75000 |
+%  (0:44) bar 18.0
+[^D,225000^D225000] z75000 [D,225000^A225000] z75000 [D,225000A225000-] A75000- +ff+ [D,225000A225000-] A75000 |
+%  (0:45) bar 18.5
+^D,225000 z75000 +fff+ D,225000 z75000 [C,225000c225000-] c75000 [C,150000-^A150000] [C,75000^G75000-] |
+%  (0:46) bar 19.0
+^G75000 ^C,225000 z75000 [C,225000G225000] z75000 [C,225000G225000-] G75000- [C,75000-G75000] |
+%  (0:47) bar 19.4
+^C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] z75000 [G,150000-A150000] [G,75000^G75000-] G75000- |
+%  (0:48) bar 19.8
+[^G,225000^G225000] z75000 [G,150000-F150000] [G,75000F75000-] F75000 [^D,225000^D225000] z75000 [D,225000^A225000] |
+%  (0:49) bar 20.2
+z75000 [^D,225000^A225000-] A75000- [D,225000A225000-] A75000 D,225000 z75000 D,150000- |
+%  (0:50) bar 20.7
+[^D,75000f75000-] f75000- [C,225000f225000-] f75000 [C,225000^d225000-] d75000 ^C,225000 z75000 |
+%  (0:51) bar 21.1
+[^C,225000c225000] z75000 [C,225000^G225000-] G75000- +ff+ [C,75000-G75000] C,75000- +fff+ [C,75000^A75000-] A75000 |
+%  (0:52) bar 21.5
+[^G,225000c225000] z75000 [G,150000-^G150000] [G,75000G75000-] G75000- [G,225000G225000] z75000 [G,150000-F150000] |
+%  (0:53) bar 21.9
+[^G,75000F75000-] F75000 [^D,225000^D225000] z75000 [D,225000^A225000] z75000 [D,225000A225000-] A75000- |
+%  (0:54) bar 22.4
+[^D,150000-^A150000] D,75000 z75000 [D,225000A225000] z75000 [D,150000A150000] [F,375000c375000-] c75000- |
+%  (0:55) bar 22.9
+[^D,150000c150000-] +ff+ [D,150000c150000] +fff+ D,150000 F,150000 F,225000 z75000 F,1200000 z300000 |
+%  (0:58) bar 23.9
+^D,150000 D,150000 D,150000 F,150000 F,225000 z75000 F,1425000 z375000 |
+%  (1:00) bar 25.0
+^D,150000 F,150000 +ff+ F,225000 z75000 +fff+ F,1200000 z300000 D,150000 +ff+ D,150000 |
+%  (1:03) bar 26.0
++fff+ ^D,150000 +ff+ F,150000 +fff+ F,225000 z75000 F,1425000 z375000 [F,225000^d225000] z75000 |
+%  (1:06) bar 27.1
+[F,225000d225000] z75000 [F,225000d225000] z75000 [F,150000-c150000] [F,75000c75000-] c75000- +ff+ [F,75000-c75000] |
+%  (1:07) bar 27.5
+F,75000- +fff+ [F,75000c75000-] c75000- +ff+ [F,75000-c75000] F,75000- +fff+ [F,75000c75000-] c75000- [F,75000-c75000] |
+%  (1:07) bar 27.8
+F,75000- [F,75000c75000-] c75000 [F,150000-d150000] [F,75000^d75000-] d75000- [F,225000d225000] z75000 |
+%  (1:08) bar 28.1
+[F,225000d225000] z75000 [F,225000c225000] z75000 [F,225000^A225000] z75000 [F,225000=A225000-] A75000- |
+%  (1:09) bar 28.6
+[F,225000A225000-] A75000 F,150000- [F,75000c75000-] c75000 [F,150000-d150000] [F,75000^d75000-] d75000- |
+%  (1:10) bar 29.0
++ff+ [F,225000^d225000] z75000 +fff+ [F,150000-=d150000] [F,75000d75000-] d75000 [F,150000-c150000] [F,75000c75000-] c75000 |
+%  (1:11) bar 29.4
+[F,150000-d150000] [F,75000f75000-] f75000- +ff+ [F,225000f225000] z75000 +fff+ [F,150000-d150000] [F,75000d75000-] d75000 |
+%  (1:12) bar 29.8
+[F,150000-c150000] [F,75000c75000-] c75000 [F,150000-d150000] [F,75000^d75000-] d75000- +ff+ [F,225000d225000] z75000 |
+%  (1:13) bar 30.1
++fff+ [F,225000d225000] z75000 [F,225000c225000] z75000 [F,225000^G225000] z75000 [F,225000F225000-] F75000- |
+%  (1:14) bar 30.6
+[F,225000F225000-] F75000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ [F,150000-^d150000] [F,75000=d75000-] |
+%  (1:15) bar 31.1
+d75000- [F,75000-d75000] F,75000- [F,75000d75000-] d75000- [F,75000-d75000] F,75000- [F,75000c75000-] |
+%  (1:16) bar 31.3
+c75000- [F,75000-c75000] F,75000- [F,75000c75000-] c75000- +ff+ [F,75000-c75000] F,75000- +fff+ [F,75000c75000-] |
+%  (1:16) bar 31.6
+c75000- [F,75000-c75000] F,75000- [F,75000c75000-] c75000- [F,75000-c75000] F,75000- [F,75000c75000-] |
+%  (1:17) bar 31.8
+c75000 [F,150000-d150000] [F,75000^d75000-] d75000- [F,225000d225000] z75000 [F,225000=d225000] z75000 |
+%  (1:18) bar 32.3
+[F,225000c225000] z75000 [F,225000c225000] z75000 [F,225000A225000-] A75000- [F,225000A225000-] A75000 |
+%  (1:19) bar 32.8
+F,150000- [F,75000c75000-] c75000 [F,150000-d150000] [F,75000^g75000-] g75000- [F,75000-g75000] F,75000- |
+%  (1:20) bar 33.1
+[F,75000f75000-] f75000- [F,75000-f75000] F,75000- [F,75000f75000-] f75000- +ff+ [F,75000-f75000] F,75000- |
+%  (1:20) bar 33.3
++fff+ [F,75000f75000-] f75000 [F,150000-f150000] [F,75000^g75000-] g75000- [F,75000-g75000] F,75000- [F,75000a75000-] |
+%  (1:21) bar 33.6
+a75000- [F,75000-a75000] F,75000- [F,75000f75000-] f75000- [F,75000-f75000] F,75000- [F,75000f75000-] |
+%  (1:22) bar 33.8
+f75000 [F,225000f225000] z75000 [F,225000c'225000] z75000 [F,225000^a225000] z75000 [F,225000c'225000] |
+%  (1:23) bar 34.3
+z75000 [F,225000a225000] z75000 [F,225000f225000-] f75000- [F,225000f225000-] f75000 ^G,225000 |
+%  (1:24) bar 34.8
+z75000 +ff+ ^G,225000 z75000 +fff+ ^C,225000 z75000 [C,225000^G225000] z75000 [C,225000G225000-] |
+%  (1:25) bar 35.3
+^G75000- [^C,75000-G75000] C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] z75000 [G,150000-G150000] |
+%  (1:26) bar 35.7
+[^G,75000^G75000-] G75000- +ff+ [G,225000G225000] z75000 +fff+ [G,150000-F150000] [G,75000^D75000-] D75000 [^D,225000D225000] |
+%  (1:27) bar 36.1
+z75000 [^D,225000^A225000] z75000 [D,225000A225000-] A75000- [D,225000A225000-] A75000 D,225000 |
+%  (1:28) bar 36.6
+z75000 +ff+ ^D,225000 z75000 +fff+ [C,225000c225000-] c75000 [C,150000-^A150000] [C,75000^G75000-] G75000 |
+%  (1:29) bar 37.0
+^C,225000 z75000 [C,225000^G225000] z75000 [C,225000G225000-] G75000- [C,75000-G75000] C,75000- |
+%  (1:30) bar 37.4
+[^C,75000^A75000-] A75000 [^G,225000c225000] z75000 [G,150000-A150000] [G,75000^G75000-] G75000- +ff+ [G,225000G225000] |
+%  (1:31) bar 37.8
+z75000 +fff+ [^G,150000-F150000] [G,75000F75000-] F75000 [^D,225000^D225000] z75000 [D,225000^A225000] z75000 |
+%  (1:32) bar 38.3
+[^D,225000^A225000-] A75000- [D,225000A225000-] A75000 D,225000 z75000 D,150000- [D,75000f75000-] |
+%  (1:33) bar 38.7
+f75000- +ff+ [C,225000f225000-] f75000 +fff+ [C,225000^d225000-] d75000 +ff+ ^C,225000 z75000 +fff+ [C,225000c225000] |
+%  (1:35) bar 39.2
+z75000 [^C,225000^G225000-] G75000- [C,75000-G75000] C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] |
+%  (1:36) bar 39.6
+z75000 [^G,150000-^G150000] [G,75000G75000-] G75000- +ff+ [G,225000G225000] z75000 +fff+ [G,150000-F150000] [G,75000F75000-] |
+%  (1:36) bar 40.0
+F75000 [^D,225000^D225000] z75000 [D,225000^A225000] z75000 [D,225000A225000-] A75000- [D,150000-A150000] |
+%  (1:38) bar 40.4
+^D,75000 z75000 [D,225000^A225000] z75000 [D,150000A150000] [F,375000c375000-] c75000- [D,150000c150000-] |
+%  (1:39) bar 40.9
++ff+ [^D,150000c150000] +fff+ D,150000 F,150000 F,225000 z75000 F,1200000 z300000 D,150000 |
+%  (1:41) bar 41.9
+^D,150000 D,150000 F,150000 F,225000 z75000 +ff+ F,1425000 z375000 +fff+ D,150000 |
+%  (1:44) bar 43.1
++ff+ F,150000 F,225000 z75000 +fff+ F,1200000 z300000 ^D,150000 D,150000 D,150000 |
+%  (1:46) bar 44.1
+F,150000 F,225000 z75000 F,1425000 z375000 F,300000 z2100000 F,225000 |
+%  (1:51) bar 46.1
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 |
+%  (1:52) bar 46.6
+z75000 F,225000 z75000 F,225000 z75000 +ff+ F,225000 z75000 F,300000 |
+%  (1:54) bar 47.1
+z2100000 +fff+ F,225000 z75000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 |
+%  (1:57) bar 48.5
+z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 |
+%  (1:58) bar 49.0
+z75000 F,300000 z1800000 F,150000 +ff+ F,150000 z900000 +fff+ F,150000 +ff+ F,150000 |
+%  (2:02) bar 50.5
+z150000 +fff+ C150000 [D,225000D225000] z75000 [F,300000F300000] z300000 [F,225000F225000] z75000 |
+%  (2:03) bar 51.1
+[F,225000F225000] z75000 [F,225000F225000] z75000 [F,150000F150000] [F,150000F150000] z1200000 ^C,225000 |
+%  (2:06) bar 52.1
+z75000 [^C,225000^G225000] z75000 [C,225000G225000-] G75000- [C,75000-G75000] C,75000- [C,75000^A75000-] |
+%  (2:06) bar 52.5
+^A75000 [^G,225000c225000] z75000 [G,150000-^G150000] [G,75000G75000-] G75000- [G,225000G225000] z75000 |
+%  (2:07) bar 52.9
+[^G,150000-F150000] [G,75000^D75000-] D75000 [^D,225000D225000] z75000 [D,225000^A225000] z75000 [D,225000A225000-] |
+%  (2:09) bar 53.3
+^A75000- [^D,225000A225000-] A75000 +ff+ D,225000 z75000 +fff+ D,225000 z75000 [C,225000c225000-] |
+%  (2:10) bar 53.8
+c75000 [C,150000-^A150000] [C,75000^G75000-] G75000 +ff+ ^C,225000 z75000 +fff+ [C,225000G225000] z75000 |
+%  (2:11) bar 54.3
+[^C,225000^G225000-] G75000- [C,75000-G75000] C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] z75000 |
+%  (2:12) bar 54.6
+[^G,150000-^A150000] [G,75000^G75000-] G75000- +ff+ [G,225000G225000] z75000 +fff+ [G,150000-F150000] [G,75000F75000-] F75000 |
+%  (2:12) bar 55.0
+[^D,225000^D225000] z75000 [D,225000^A225000] z75000 [D,225000A225000-] A75000- [D,225000A225000-] A75000 |
+%  (2:14) bar 55.5
++ff+ ^D,225000 z75000 D,150000- +fff+ [D,75000f75000-] f75000- [C,225000f225000-] f75000 [C,225000^d225000-] |
+%  (2:15) bar 56.0
+^d75000 +ff+ ^C,225000 z75000 +fff+ [C,225000c225000] z75000 [C,225000^G225000-] G75000- +ff+ [C,75000-G75000] |
+%  (2:16) bar 56.4
+^C,75000- +fff+ [C,75000^A75000-] A75000 [^G,225000c225000] z75000 [G,150000-^G150000] [G,75000G75000-] G75000- |
+%  (2:17) bar 56.8
++ff+ [^G,225000^G225000] z75000 +fff+ [G,150000-F150000] [G,75000F75000-] F75000 [^D,225000^D225000] z75000 [D,225000^A225000] |
+%  (2:18) bar 57.2
+z75000 [^D,225000^A225000-] A75000- [D,150000-A150000] D,75000 z75000 [D,225000A225000] z75000 |
+%  (2:19) bar 57.6
+[^D,150000^A150000] [F,375000c375000-] c75000- [D,150000c150000-] +ff+ [D,150000c150000] +fff+ D,150000 F,150000 F,225000 |
+%  (2:20) bar 58.2
+z75000 +ff+ F,225000 z75000 +fff+ F,900000 z300000 ^D,150000 D,150000 D,150000 |
+%  (2:22) bar 59.1
+F,150000 F,225000 z75000 F,225000 z75000 F,900000 z300000 ^D,150000 |
+%  (2:24) bar 59.9
++ff+ ^D,150000 +fff+ D,150000 F,150000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,900000 |
+%  (2:26) bar 60.8
+z300000 ^D,150000 +ff+ D,150000 +fff+ [D,150000c150000] [F,150000c150000] [F,225000c225000] z75000 [F,225000c225000] |
+%  (2:28) bar 61.3
+z75000 [F,150000-c150000] [F,150000-c150000] [F,225000-c225000] F,75000- [F,300000c300000] z300000 +ff+ F,225000 |
+%  (2:29) bar 62.0
+z75000 F,300000 +fff+ [^A150000^d150000g150000] [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 [A225000d225000g225000] |
+%  (2:31) bar 62.5
+z75000 [^A225000^d225000g225000] z75000 [A150000d150000g150000] [A225000d225000g225000] z75000 [c150000f150000a150000] [c150000f150000a150000] |
+%  (2:32) bar 63.0
+F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 z75000 F,225000 z75000 |
+%  (2:33) bar 63.5
+F,225000 z75000 F,225000 z75000 F,225000 z75000 F,225000 z75000 |
+%  (2:34) bar 64.0
+F,300000 [^A150000^d150000g150000] [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 |
+%  (2:35) bar 64.6
+[^A225000^d225000g225000] z75000 [A150000d150000g150000] [A225000d225000g225000] z75000 [c150000f150000a150000] [c150000f150000a150000] F,225000 |
+%  (2:37) bar 65.1
+z75000 +ff+ F,225000 z75000 F,225000 z75000 +fff+ F,225000 z75000 F,225000 |
+%  (2:38) bar 65.6
+z75000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 z75000 +ff+ F,300000 |
+%  (2:39) bar 66.1
++fff+ [^A150000^d150000g150000] [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 [A225000d225000g225000] |
+%  (2:40) bar 66.7
+z75000 [^A150000^d150000g150000] [A225000d225000g225000] z75000 [F,150000c150000f150000a150000] [F,150000c150000f150000a150000] z900000 [F,150000c150000f150000a150000] |
+%  (2:42) bar 67.4
+[F,150000c150000f150000a150000] z150000 +ff+ C150000 +fff+ [D,225000D225000] z75000 [F,300000F300000] z300000 [F,225000F225000] |
+%  (2:44) bar 68.1
+z75000 [F,225000F225000] z75000 [F,225000F225000] z75000 [F,150000F150000] [F,150000F150000] z1200000 |
+%  (2:46) bar 69.0
+^C,225000 z75000 [C,225000^G225000] z75000 [C,225000G225000-] G75000- +ff+ [C,75000-G75000] C,75000- |
+%  (2:47) bar 69.4
++fff+ [^C,75000^A75000-] A75000 [^G,225000c225000] z75000 [G,150000-^G150000] [G,75000G75000-] G75000- +ff+ [G,225000G225000] |
+%  (2:48) bar 69.8
+z75000 +fff+ [^G,150000-F150000] [G,75000^D75000-] D75000 [^D,225000D225000] z75000 [D,225000^A225000] z75000 |
+%  (2:49) bar 70.3
+[^D,225000^A225000-] A75000- [D,225000A225000-] A75000 +ff+ D,225000 z75000 D,225000 z75000 |
+%  (2:50) bar 70.8
++fff+ [C,225000c225000-] c75000 [C,150000-^A150000] [C,75000^G75000-] G75000 ^C,225000 z75000 [C,225000G225000] |
+%  (2:51) bar 71.2
+z75000 [^C,225000^G225000-] G75000- [C,75000-G75000] C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] |
+%  (2:52) bar 71.6
+z75000 [^G,150000-^A150000] [G,75000^G75000-] G75000- [G,225000G225000] z75000 [G,150000-F150000] [G,75000F75000-] |
+%  (2:53) bar 72.0
+F75000 [^D,225000^D225000] z75000 [D,225000^A225000] z75000 [D,225000A225000-] A75000- [D,225000A225000-] |
+%  (2:54) bar 72.5
+^A75000 +ff+ ^D,225000 z75000 +fff+ D,150000- [D,75000f75000-] f75000- +ff+ [C,225000f225000-] f75000 |
+%  (2:55) bar 72.9
++fff+ [C,225000^d225000-] d75000 +ff+ ^C,225000 z75000 +fff+ [C,225000c225000] z75000 [C,225000^G225000-] G75000- |
+%  (2:57) bar 73.4
+[^C,75000-^G75000] C,75000- [C,75000^A75000-] A75000 [^G,225000c225000] z75000 [G,150000-G150000] [G,75000G75000-] |
+%  (2:57) bar 73.7
+^G75000- +ff+ [^G,225000G225000] z75000 +fff+ [G,150000-F150000] [G,75000F75000-] F75000 [^D,225000^D225000] z75000 |
+%  (2:58) bar 74.1
+[^D,225000^A225000] z75000 [D,225000A225000-] A75000- [D,150000-A150000] D,75000 z75000 [D,225000A225000] |
+%  (3:00) bar 74.6
+z75000 [^D,150000^A150000] [F,375000c375000-] c75000- [D,150000c150000-] +ff+ [D,150000c150000] +fff+ D,150000 +ff+ F,150000 |
+%  (3:01) bar 75.1
++fff+ F,225000 z75000 F,225000 z75000 F,900000 z300000 +ff+ ^D,150000 +fff+ D,150000 |
+%  (3:03) bar 76.0
+^D,150000 F,150000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,900000 z300000 |
+%  (3:05) bar 76.9
+^D,150000 +ff+ D,150000 D,150000 F,150000 +fff+ F,225000 z75000 F,225000 z75000 |
+%  (3:06) bar 77.4
++ff+ F,900000 z300000 +fff+ ^D,150000 D,150000 [D,150000c150000] [F,150000c150000] [F,225000c225000] z75000 |
+%  (3:08) bar 78.3
+[F,225000c225000] z75000 [F,150000-c150000] [F,150000-c150000] [F,225000-c225000] F,75000- [F,300000c300000] z300000 |
+%  (3:10) bar 78.9
+F,225000 z75000 +ff+ F,300000 +fff+ [^A150000^d150000g150000] [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 |
+%  (3:11) bar 79.4
+[^A225000^d225000g225000] z75000 [A225000d225000g225000] z75000 [A150000d150000g150000] [A225000d225000g225000] z75000 [c150000f150000a150000] |
+%  (3:12) bar 79.9
+[c150000f150000a150000] F,225000 z75000 F,225000 z75000 +ff+ F,225000 z75000 +fff+ F,225000 |
+%  (3:14) bar 80.5
+z75000 +ff+ F,225000 z75000 +fff+ F,225000 z75000 +ff+ F,225000 z75000 F,225000 |
+%  (3:15) bar 81.0
+z75000 +fff+ F,300000 [^A150000^d150000g150000] [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 [A225000d225000g225000] |
+%  (3:16) bar 81.5
+z75000 [^A225000^d225000g225000] z75000 [A150000d150000g150000] [A225000d225000g225000] z75000 [c150000f150000a150000] [c150000f150000a150000] |
+%  (3:17) bar 82.0
+F,225000 z75000 F,225000 z75000 F,225000 z75000 +ff+ F,225000 z75000 |
+%  (3:18) bar 82.5
+F,225000 z75000 F,225000 z75000 F,225000 z75000 +fff+ F,225000 z75000 |
+%  (3:20) bar 83.0
+F,300000 [^A150000^d150000g150000] [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 [A225000d225000g225000] z75000 |
+%  (3:21) bar 83.6
+[^A225000^d225000g225000] z75000 [A150000d150000g150000] [A225000d225000g225000] z75000 [F,150000c150000f150000a150000] [F,150000c150000f150000a150000] z900000 |
+%  (3:23) bar 84.4
+[F,150000c150000f150000a150000] [F,150000c150000f150000a150000] z150000 +ff+ C150000 +fff+ [D,225000D225000] z75000 [F,300000F300000] z300000 |
+%  (3:24) bar 85.0
+[F,225000F225000] z75000 [F,225000F225000] z75000 [F,225000F225000] z75000 [F,150000F150000] [F,150000F150000] |]
 
-+fff+ F,3/4 z// F,3/4 z// F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// +ff+ F,3/4 z// |
-+fff+ F,3/4 z// F,3/4 z// +ff+ F,3/4 z// F,3/4 z// +fff+ F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// |
-F,3/4 z// F,3/4 z// F,3/4 z// +ff+ F,3/4 z// F,3/4 z// +fff+ F,3/4 z// F,3/4 z// F,3/4 z// |
-F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// |
-F,3/4 z// F,3/4 z// F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// +ff+ F,3/4 z// |
-+fff+ F,3/4 z// F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// |
-F, z z2 z3 F,/ F,/ |
-z3 F,/ F,/ z/ +ff+ C/ +fff+ [D,3/4D3/4] z// [F,F] z |
-F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// F,/ +ff+ F,/ z4 |
-% Bar 10 (0:21)
-+ffff+ [F,3/4c'3/4] z// [F,/-a/] [F,//f//-] f//- +fff+ [F,3/4f3/4] z// +ffff+ [F,/-d/] [F,//^d//-] d//- +fff+ [F,//-d//] F,//- +ffff+ [F,//=d//-] d//- +fff+
-	[F,//-d//] F,//- +ffff+ [F,//d//-] d// [F,3/4c3/4-] c//- +fff+ [F,/-c/] F,// z// |
-+ffff+ [F,3/4^d3/4] z// [F,/-=d/] [F,//^d//-] d//- +ff+ [F,//-d//] F,//- +ffff+ [F,//c//-] c//- +fff+ [F,3/4c3/4] z// +ffff+ [F,3/4A3/4-] A//- +ff+ [F,3/4A3/4-]
-	A// +fff+ F,3/4 z// +ff+ F,3/4 z// |
-+ffff+ [F,3/4^d3/4] z// [F,/-c/] [F,//f//-] f//- +fff+ [F,3/4f3/4] z// +ffff+ [F,3/4f3/4] z// [F,/-a/] [F,//f//-] f//- +fff+ [F,//-f//] F,//- +ffff+ [F,//f//-]
-	f//- +fff+ [F,//-f//] F,//- +ffff+ [F,//c//-] c// [F,/-=d/] [F,//^d//-] d//- |
-+fff+ [F,//-^d//] F,//- +ffff+ [F,//=d//-] d//- +fff+ [F,//-d//] F,//- +ffff+ [F,//c//-] c//- +fff+ [F,3/4c3/4] z// +ffff+ [F,3/4A3/4-] A// [F,3/4F3/4-] F//-
-	+ff+ [F,3/4F3/4-] F// +fff+ F,3/4 z// F,3/4 z// |
-+ffff+ [F,/-^d/] [F,//=d//-] d//- +fff+ [F,//-d//] F,//- +ffff+ [F,//^d//-] d// [F,3/4c3/4] z// [F,3/4c3/4] z// [F,3/4f3/4] z// [F,/-=d/] [F,//f//-] f//- +fff+
-	[F,3/4f3/4-] f// F,/- +ffff+ [F,//d//-] d// |
-[F,3/4f3/4] z// [F,/-d/] [F,//f//-] f//- +fff+ [F,//-f//] F,//- +ffff+ [F,//d//-] d// [F,3/4a3/4-] a// [F,3/4g3/4-] g//- +fff+ [F,3/4g3/4-] g// F,3/4 z// F,3/4
-	z// |
-+ffff+ [F,3/4^d3/4] z// [F,/-c/] [F,//f//-] f//- +fff+ [F,3/4f3/4] z// +ffff+ [F,/-=d/] [F,//f//-] f//- +fff+ [F,//-f//] F,//- +ffff+ [F,//f//-] f//- +ff+
-	[F,//-f//] F,//- +ffff+ [F,//f//-] f//- +fff+ [F,3/4f3/4] z// +ffff+ [F,/-d/] [F,//^d//-] d//- |
-+ff+ [F,3/4^d3/4] z// +ffff+ [F,/-=d/] [F,//d//-] d//- +ff+ [F,3/4d3/4] z// +ffff+ [F,3/4c3/4] z// [F,3/4F3/4-] F//- +fff+ [F,3/4F3/4-] F// ^G,3/4 z// +ff+
-	G,3/4 z// |
-+fff+ ^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +fff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//^D//-] D// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +ff+ [D,3/4A3/4-] A// D,3/4 z// +fff+ D,3/4 z// +ffff+ [C,3/4c3/4-] c// [C,/-A/] [C,//^G//-] G// |
-% Bar 20 (0:45)
-+fff+ ^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-A/] [G,//G//-] G//- +fff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// D,3/4 z// D,/- +ffff+ [D,//f//-] f//- +fff+ [C,3/4f3/4-] f// +ffff+ [C,3/4^d3/4-]
-	d// |
-+fff+ ^C,3/4 z// +ffff+ [C,3/4c3/4] z// [C,3/4^G3/4-] G//- +ff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +fff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,/-A/] D,// z// +ffff+ [D,3/4A3/4] z// [D,/A/] [F,5/4c5/4-] c//- +fff+ [D,/c/-] +ff+ [D,/c/] |
-+fff+ ^D,/ F,/ F,3/4 z// F,2- F,2 z D,/ D,/ |
-^D,/ F,/ F,3/4 z// F,2- F,2- F,3/4 z5/4 |
-^D,/ F,/ +ff+ F,3/4 z// +fff+ F,2- F,2 z D,/ +ff+ D,/ |
-+fff+ ^D,/ +ff+ F,/ +fff+ F,3/4 z// F,2- F,2- F,3/4 z5/4 |
-+ffff+ [F,3/4^d3/4] z// [F,3/4=d3/4] z// [F,3/4d3/4] z// [F,/-c/] [F,//c//-] c//- +ff+ [F,//-c//] F,//- +ffff+ [F,//c//-] c//- +ff+ [F,//-c//] F,//- +ffff+
-	[F,//c//-] c//- +fff+ [F,//-c//] F,//- +ffff+ [F,//c//-] c// [F,/-d/] [F,//^d//-] d//- |
-+fff+ [F,3/4^d3/4] z// +ffff+ [F,3/4=d3/4] z// [F,3/4c3/4] z// [F,3/4^A3/4] z// [F,3/4=A3/4-] A//- +fff+ [F,3/4A3/4-] A// F,/- +ffff+ [F,//c//-] c// [F,/-d/]
-	[F,//^d//-] d//- |
-% Bar 30 (1:09)
-+ff+ [F,3/4^d3/4] z// +ffff+ [F,/-=d/] [F,//d//-] d// [F,/-c/] [F,//c//-] c// [F,/-d/] [F,//f//-] f//- +ff+ [F,3/4f3/4] z// +ffff+ [F,/-d/] [F,//d//-] d//
-	[F,/-c/] [F,//c//-] c// [F,/-d/] [F,//^d//-] d//- |
-+ff+ [F,3/4^d3/4] z// +ffff+ [F,3/4=d3/4] z// [F,3/4c3/4] z// [F,3/4^G3/4] z// [F,3/4F3/4-] F//- +fff+ [F,3/4F3/4-] F// F,3/4 z// +ff+ F,3/4 z// |
-+ffff+ [F,/-^d/] [F,//=d//-] d//- +fff+ [F,//-d//] F,//- +ffff+ [F,//d//-] d//- +fff+ [F,//-d//] F,//- +ffff+ [F,//c//-] c//- +fff+ [F,//-c//] F,//- +ffff+
-	[F,//c//-] c//- +ff+ [F,//-c//] F,//- +ffff+ [F,//c//-] c//- +fff+ [F,//-c//] F,//- +ffff+ [F,//c//-] c//- +fff+ [F,//-c//] F,//- +ffff+ [F,//c//-] c//
-	[F,/-d/] [F,//^d//-] d//- |
-+fff+ [F,3/4^d3/4] z// +ffff+ [F,3/4=d3/4] z// [F,3/4c3/4] z// [F,3/4c3/4] z// [F,3/4A3/4-] A//- +fff+ [F,3/4A3/4-] A// F,/- +ffff+ [F,//c//-] c// [F,/-d/]
-	[F,//^g//-] g//- |
-+fff+ [F,//-^g//] F,//- +ffff+ [F,//f//-] f//- +fff+ [F,//-f//] F,//- +ffff+ [F,//f//-] f//- +ff+ [F,//-f//] F,//- +ffff+ [F,//f//-] f// [F,/-f/] [F,//g//-]
-	g//- +fff+ [F,//-g//] F,//- +ffff+ [F,//a//-] a//- +fff+ [F,//-a//] F,//- +ffff+ [F,//f//-] f//- +fff+ [F,//-f//] F,//- +ffff+ [F,//f//-] f// [F,3/4f3/4] z// |
-[F,3/4c'3/4] z// [F,3/4^a3/4] z// [F,3/4c'3/4] z// [F,3/4=a3/4] z// [F,3/4f3/4-] f//- +fff+ [F,3/4f3/4-] f// ^G,3/4 z// +ff+ G,3/4 z// |
-+fff+ ^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +ff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//^D//-] D// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// D,3/4 z// +ff+ D,3/4 z// +ffff+ [C,3/4c3/4-] c// [C,/-A/] [C,//^G//-] G// |
-+fff+ ^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-A/] [G,//G//-] G//- +ff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// D,3/4 z// D,/- +ffff+ [D,//f//-] f//- +ff+ [C,3/4f3/4-] f// +ffff+ [C,3/4^d3/4-] d// |
-% Bar 40 (1:33)
-+ff+ ^C,3/4 z// +ffff+ [C,3/4c3/4] z// [C,3/4^G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +ff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,/-A/] D,// z// +ffff+ [D,3/4A3/4] z// [D,/A/] [F,5/4c5/4-] c//- +fff+ [D,/c/-] +ff+ [D,/c/] |
-+fff+ ^D,/ F,/ F,3/4 z// F,2- F,2 z D,/ D,/ |
-^D,/ F,/ F,3/4 z// +ff+ F,2- F,2- F,3/4 z5/4 |
-+fff+ ^D,/ +ff+ F,/ F,3/4 z// +fff+ F,2- F,2 z D,/ D,/ |
-^D,/ F,/ F,3/4 z// F,2- F,2- F,3/4 z5/4 |
-F, z z2 z4 |
-F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// +ff+ F,3/4 z// |
-F, z z2 z4 |
-+fff+ F,3/4 z// F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// |
-% Bar 50 (1:57)
-F, z z2 z3 F,/ +ff+ F,/ |
-z3 +fff+ F,/ +ff+ F,/ z/ +fff+ C/ [D,3/4D3/4] z// [F,F] z |
-[F,3/4F3/4] z// [F,3/4F3/4] z// [F,3/4F3/4] z// [F,/F/] [F,/F/] z4 |
-^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +fff+ [G,3/4G3/4]
-	z// +ffff+ [G,/-F/] [G,//^D//-] D// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// +ff+ D,3/4 z// +fff+ D,3/4 z// +ffff+ [C,3/4c3/4-] c// [C,/-A/] [C,//^G//-] G// |
-+ff+ ^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-A/] [G,//G//-] G//- +ff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// +ff+ D,3/4 z// D,/- +ffff+ [D,//f//-] f//- +fff+ [C,3/4f3/4-] f// +ffff+
-	[C,3/4^d3/4-] d// |
-+ff+ ^C,3/4 z// +ffff+ [C,3/4c3/4] z// [C,3/4^G3/4-] G//- +ff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +ff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,/-A/] D,// z// +ffff+ [D,3/4A3/4] z// [D,/A/] [F,5/4c5/4-] c//- +fff+ [D,/c/-] +ff+ [D,/c/] |
-+fff+ ^D,/ F,/ F,3/4 z// +ff+ F,3/4 z// +fff+ F,- F,2 z D,/ D,/ |
-% Bar 60 (2:21)
-^D,/ F,/ F,3/4 z// F,3/4 z// F,- F,2 z D,/ +ff+ D,/ |
-+fff+ ^D,/ F,/ F,3/4 z// +ff+ F,3/4 z// +fff+ F,- F,2 z D,/ +ff+ D,/ |
-+ffff+ [^D,/c/] [F,/c/] [F,3/4c3/4] z// [F,3/4c3/4] z// [F,/-c/] [F,/-c/] [F,3/4-c3/4] F,//- [F,c] z +ff+ F,3/4 z// |
-F, +ffff+ [^A/^d/g/] [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A/d/g/] [A3/4d3/4g3/4] z// [c/f/a/] [c/f/a/] |
-+fff+ F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// |
-F, +ffff+ [^A/^d/g/] [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A/d/g/] [A3/4d3/4g3/4] z// [c/f/a/] [c/f/a/] |
-+fff+ F,3/4 z// +ff+ F,3/4 z// F,3/4 z// +fff+ F,3/4 z// F,3/4 z// F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// |
-+ff+ F, +ffff+ [^A/^d/g/] [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A/d/g/] [A3/4d3/4g3/4] z// [F,/c/f/a/] [F,/c/f/a/] |
-z3 [F,/c/f/a/] [F,/c/f/a/] z/ +ff+ C/ +fff+ [D,3/4D3/4] z// [F,F] z |
-[F,3/4F3/4] z// [F,3/4F3/4] z// [F,3/4F3/4] z// [F,/F/] [F,/F/] z4 |
-% Bar 70 (2:45)
-^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +ff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +ff+ [G,3/4G3/4] z//
-	+ffff+ [G,/-F/] [G,//^D//-] D// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// +ff+ D,3/4 z// D,3/4 z// +ffff+ [C,3/4c3/4-] c// [C,/-A/] [C,//^G//-] G// |
-+fff+ ^C,3/4 z// +ffff+ [C,3/4^G3/4] z// [C,3/4G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-A/] [G,//G//-] G//- +fff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,3/4A3/4-] A// +ff+ D,3/4 z// +fff+ D,/- +ffff+ [D,//f//-] f//- +ff+ [C,3/4f3/4-] f// +ffff+
-	[C,3/4^d3/4-] d// |
-+ff+ ^C,3/4 z// +ffff+ [C,3/4c3/4] z// [C,3/4^G3/4-] G//- +fff+ [C,//-G//] C,//- +ffff+ [C,//^A//-] A// [^G,3/4c3/4] z// [G,/-G/] [G,//G//-] G//- +ff+
-	[G,3/4G3/4] z// +ffff+ [G,/-F/] [G,//F//-] F// |
-[^D,3/4^D3/4] z// [D,3/4^A3/4] z// [D,3/4A3/4-] A//- +fff+ [D,/-A/] D,// z// +ffff+ [D,3/4A3/4] z// [D,/A/] [F,5/4c5/4-] c//- +fff+ [D,/c/-] +ff+ [D,/c/] |
-+fff+ ^D,/ +ff+ F,/ +fff+ F,3/4 z// F,3/4 z// F,- F,2 z +ff+ D,/ +fff+ D,/ |
-^D,/ F,/ F,3/4 z// +ff+ F,3/4 z// +fff+ F,- F,2 z D,/ +ff+ D,/ |
-^D,/ F,/ +fff+ F,3/4 z// F,3/4 z// +ff+ F,- F,2 z +fff+ D,/ D,/ |
-+ffff+ [^D,/c/] [F,/c/] [F,3/4c3/4] z// [F,3/4c3/4] z// [F,/-c/] [F,/-c/] [F,3/4-c3/4] F,//- [F,c] z +fff+ F,3/4 z// |
-% Bar 80 (3:09)
-+ff+ F, +ffff+ [^A/^d/g/] [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A/d/g/] [A3/4d3/4g3/4] z// [c/f/a/] [c/f/a/] |
-+fff+ F,3/4 z// F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// +ff+ F,3/4 z// +fff+ F,3/4 z// +ff+ F,3/4 z// F,3/4 z// |
-+fff+ F, +ffff+ [^A/^d/g/] [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A/d/g/] [A3/4d3/4g3/4] z// [c/f/a/] [c/f/a/] |
-+fff+ F,3/4 z// F,3/4 z// F,3/4 z// +ff+ F,3/4 z// F,3/4 z// F,3/4 z// F,3/4 z// +fff+ F,3/4 z// |
-F, +ffff+ [^A/^d/g/] [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A3/4d3/4g3/4] z// [A/d/g/] [A3/4d3/4g3/4] z// [F,/c/f/a/] [F,/c/f/a/] |
-z3 [F,/c/f/a/] [F,/c/f/a/] z/ +ff+ C/ +fff+ [D,3/4D3/4] z// [F,F] z |
-[F,3/4F3/4] z// [F,3/4F3/4] z// [F,3/4F3/4] z// [F,/F/] [F,/F/] z4 |]
 
 X: 18
-%%Orig filename was RubberbandPipes.abc
-T: Rubberband Man Basic Bagpipe (3:26)
+T: Rubberband Man (3:26) - Basic Bagpipe
 %%part-name Basic Bagpipe
+%%made-for Basic Bagpipe
+%%user-pan auto
 C: The Spinners
 Z: Dallofin Bolderbrook of Crickhollow
 M: 4/4
 Q: 100
+L: 1/2400000
 K: C maj
++mf+ z4800000 [G1650000^A1650000^d1650000] z450000 [G150000A150000d150000] [F1800000A1800000=d1800000] z450000 [F150000A150000d150000] |
+%  (0:10) bar 3.9
+[F3450000A3450000c3450000] z150000 ^G150000 A150000 +mp+ [D150000^A150000] G150000 +mf+ =A150000 F150000 |
+%  (0:14) bar 5.8
+C150000 D225000 z75000 [G300000^A300000^d300000] z1800000 [G150000A150000d150000] [G150000A150000d150000] z900000 |
+%  (0:18) bar 7.4
+[G150000^A150000^d150000] [G150000A150000d150000] z150000 c150000 =d150000 z150000 [F450000f450000] z150000 |
+%  (0:20) bar 8.0
+[F225000f225000] z75000 [F225000f225000] z75000 [F225000f225000] z75000 [F150000f150000] [F150000f150000] |
+%  (0:21) bar 8.5
+z150000 ^G150000 +mp+ A150000 +mf+ [D150000^A150000] G150000 =A150000 F150000 D150000 |
+%  (0:22) bar 9.0
+[C,3450000-F,3450000-A,3450000-C3450000F3450000A3450000] [C,900000-F,900000-A,900000-] [C,150000-F,150000-A,150000-^D150000] +mp+ [C,150000-F,150000-A,150000E150000] +mf+ [C,75000F,75000A,75000-C75000-F75000-] [A,75000C75000F75000-] +mp+ [F,3375000A,3375000-C3375000-F3375000-] [A,225000-C225000-F225000] |
+%  (0:30) bar 12.5
++mf+ [F,75000A,75000-C75000-] [A,75000-C75000-] [A,75000C75000-G75000-^A75000-^d75000-] [C75000-G75000-A75000-d75000-] [F,75000-C75000-G75000A75000d75000] [F,75000-C75000-] [F,150000-C150000-G150000A150000d150000] [F,75000-A,75000-C75000F75000-A75000-=d75000-] |
+%  (0:31) bar 12.8
+[F,150000-A,150000-F150000^A150000d150000] [F,75000-A,75000-] [F,150000-A,150000-C150000F150000A150000d150000] [F,75000A,75000F75000-=A75000-c75000-] [F75000-A75000-c75000-] +mp+ [C,4725000F,4725000A,4725000F4725000-A4725000-c4725000-] [F75000A75000c75000] +mf+ [C,1500000-F,1500000A,1500000-C1500000-F1500000-A1500000-] |
+%  (0:38) bar 15.6
++p+ [C,150000F,150000-A,150000C150000-F150000-A150000-] [F,150000C150000-F150000-A150000-] +mf+ [C,300000F,300000A,300000C300000-F300000-A300000-] [C300000F300000-A300000-] +mp+ [F,975000-A,975000-C975000-F975000A975000] [F,150000A,150000C150000] z675000 +mf+ [C75000-^D75000-^G75000-] |
+%  (0:41) bar 16.8
+[C,375000-^D,375000-^G,375000-C375000^D375000^G375000] [C,150000D,150000G,150000] +mp+ [G,75000^C75000-F75000-G75000] [C75000F75000] +p+ [G,75000C75000-F75000-G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] |
+%  (0:42) bar 17.2
++mf+ [^G,150000^C150000F150000^G150000] +mp+ [C150000F150000] [G,150000C150000-F150000-G150000] [C150000F150000] +p+ [G,75000C75000F75000G75000] z75000 +mf+ [^D75000-G75000-c75000^d75000^g75000] [D75000-G75000] |
+%  (0:43) bar 17.6
++p+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 +mf+ [C150000-D150000-G150000c150000d150000g150000] [C150000-D150000-] +mp+ [C150000-D150000-G150000c150000d150000g150000] [C150000D150000] |
+%  (0:44) bar 17.9
++pp+ ^G,75000 z75000 +mf+ [^D75000-G75000^A75000^d75000] D75000 +p+ [D75000G75000A75000d75000] z75000 [D75000G75000-A75000d75000] G75000 |
+%  (0:44) bar 18.2
+[^D150000G150000^A150000^d150000] +mp+ [D150000G150000] [D150000-G150000-A150000d150000] [D150000-G150000-] +pp+ [^D,75000D75000-G75000-] [D75000G75000] +mp+ [D75000-G75000-A75000d75000] [D75000G75000] |
+%  (0:45) bar 18.6
++p+ [^D75000-G75000-^A75000^d75000] [D75000G75000] [D75000G75000A75000d75000] z75000 +mf+ [D150000G150000A150000d150000] +p+ [G,75000C75000D75000-G75000-] [D75000G75000] +pp+ [G,75000C75000D75000-G75000-] |
+%  (0:46) bar 18.8
+[^D75000G75000] [G,75000C75000D75000-G75000-] [D75000G75000] +p+ [G,75000C75000D75000G75000-] G75000 +mp+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] +p+ [G,75000C75000-F75000-G75000] |
+%  (0:46) bar 19.1
+[^C75000F75000] [^G,75000C75000-F75000-^G75000] [C75000F75000] +mf+ [G,150000C150000F150000G150000] [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] [C150000F150000] +p+ [G,75000C75000F75000G75000] |
+%  (0:47) bar 19.5
+z75000 +mf+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 +mf+ [C150000-D150000-G150000c150000d150000g150000] |
+%  (0:48) bar 19.8
+[C150000-^D150000-] +mp+ [C150000-D150000-^G150000c150000^d150000^g150000] [C150000D150000] +pp+ ^G,75000 z75000 +mp+ [D75000-=G75000^A75000d75000] D75000 +p+ [D75000G75000A75000d75000] |
+%  (0:49) bar 20.1
+z75000 [^D75000G75000-^A75000^d75000] G75000 +mf+ [D150000G150000A150000d150000] [D150000G150000] +mp+ [D150000-G150000-A150000d150000] [D150000G150000] +p+ [D75000-G75000-A75000d75000] |
+%  (0:50) bar 20.5
+[^D75000G75000] +mp+ [D75000G75000^A75000^d75000] z75000 +p+ [D75000G75000A75000d75000] z75000 [D75000G75000A75000d75000] z75000 +mf+ [D150000G150000A150000-d150000] |
+%  (0:50) bar 20.8
++mp+ [G,75000C75000^D75000G75000-^A75000-] [G75000A75000-] +p+ [G,75000C75000D75000G75000-A75000-] [G75000A75000-] [G,75000C75000D75000G75000-A75000-] [G75000A75000] +mp+ [G,150000C150000D150000G150000] [^G,75000^C75000-F75000-^G75000] |
+%  (0:51) bar 21.0
+[^C75000F75000] +p+ [^G,75000C75000-F75000-^G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] +mf+ [G,150000C150000F150000G150000] [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] |
+%  (0:52) bar 21.4
+[^C150000F150000] +p+ [^G,75000C75000F75000^G75000] z75000 +mp+ [^D75000-G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] |
+%  (0:52) bar 21.7
+z75000 +mf+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000-D150000-] +mp+ [C75000-D75000-G75000-c75000d75000-g75000-] [C75000-D75000-G75000d75000g75000] [C150000D150000] +p+ ^G,150000 [D75000-=G75000^A75000d75000] |
+%  (0:53) bar 22.0
+^D75000 +pp+ [D75000G75000^A75000^d75000] z75000 [D75000G75000-A75000d75000] G75000 +p+ [D75000G75000A75000d75000-] d75000 +mf+ G150000- |
+%  (0:54) bar 22.3
++ppp+ [^D,75000G75000-] G75000 +p+ [^D75000G75000-^A75000^d75000] G75000 [D75000G75000A75000d75000] z75000 +mf+ [D75000-F75000G75000-=A75000c75000f75000] [D75000-G75000-] |
+%  (0:55) bar 22.6
++p+ [^D75000F75000G75000A75000c75000f75000] z75000 +mf+ [D75000-F75000G75000-A75000c75000f75000] [D75000G75000] [F150000-A150000-c150000f150000] [F150000A150000] +mp+ [F150000-A150000-c150000f150000] [F150000A150000] |
+%  (0:56) bar 22.9
++p+ [F75000-A75000-c75000f75000] [F75000A75000] z1200000 +mf+ [D300000F300000^A300000] z150000 [C750000^D750000^G750000] z1050000 [C375000D375000G375000] |
+%  (1:00) bar 24.6
+z75000 [A,900000C900000F900000] z1200000 [D300000F300000^A300000] z150000 [C750000^D750000^G750000] z1050000 [C375000D375000G375000] |
+%  (1:04) bar 26.6
+z75000 [A,750000C750000F750000] z150000 [F,3000000-A,3000000-C3000000-F3000000A3000000] [F,450000A,450000C450000] z300000 +f+ ^G,150000 A,150000 |
+%  (1:09) bar 28.7
+[D,150000^A,150000] =A,150000 F,150000 D,150000 C,150000 +mf+ [F,1050000A,1050000-C1050000-F1050000-A1050000-] [A,150000-C150000-F150000-A150000-] +mp+ [F,75000A,75000-C75000-F75000-A75000-] |
+%  (1:11) bar 29.5
+[A,225000-C225000-F225000-A225000-] +p+ [F,75000-A,75000C75000-F75000-A75000-] [F,225000-C225000-F225000-A225000-] +mp+ [F,150000A,150000-C150000-F150000-A150000-] [A,150000-C150000F150000-A150000-] +p+ [F,300000-A,300000-F300000-A300000-] [F,600000-A,600000-C600000-F600000A600000] [F,750000-A,750000-C750000-] |
+%  (1:14) bar 30.6
++mf+ [F,150000-A,150000-C150000-G150000-^A150000-^d150000] +p+ [F,75000-A,75000-C75000-F75000-G75000A75000] [F,75000-A,75000-C75000-F75000-] +mf+ [F,150000-A,150000-C150000-F150000G150000A150000] [F,225000-A,225000-C225000-F225000-A225000=d225000] [F,75000-A,75000-C75000-F75000] [F,75000A,75000C75000F75000-A75000-d75000-] [F75000A75000d75000] |
+%  (1:15) bar 30.9
+[F150000-A150000-c150000-] +mp+ [C,4725000F,4725000A,4725000F4725000-A4725000-c4725000-] [F75000A75000c75000] +mf+ [F,1200000-A,1200000C1200000F1200000-A1200000-c1200000-] [F,150000F150000-A150000-c150000-] [F450000-A450000c450000-] +mp+ [F150000-A150000-c150000] +p+ [F150000-A150000-c150000-] |
+%  (1:22) bar 33.9
++mp+ [F150000-A150000-c150000-f150000] [F150000-A150000-c150000-] [F,975000-A,975000-C975000-F975000A975000c975000] [F,150000A,150000C150000] z375000 ^G,300000 +mf+ [C,450000-^D,450000-G,450000-C450000^D450000^G450000] [C,150000D,150000G,150000] |
+%  (1:24) bar 35.0
++mp+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] +p+ [G,75000C75000-F75000-G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] +mf+ [G,150000C150000F150000G150000] +mp+ [C150000F150000] |
+%  (1:25) bar 35.3
+[^G,150000^C150000-F150000-^G150000] [C150000F150000] +p+ [G,75000C75000F75000G75000] z75000 +mp+ [^D75000-G75000-c75000^d75000^g75000] [D75000-G75000] +pp+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] |
+%  (1:26) bar 35.6
+[^D75000^G75000c75000^d75000^g75000] z75000 +mf+ [C75000-D75000-G75000c75000d75000g75000-] [C75000-D75000-g75000] [C150000-D150000-] +ppp+ [^G,75000C75000-D75000-] [C75000-D75000-] +p+ [C75000-D75000-G75000c75000d75000g75000] |
+%  (1:27) bar 35.9
+[C75000^D75000] [^G75000c75000^d75000^g75000] z75000 +mp+ [D75000-=G75000^A75000d75000] D75000 +p+ [D75000G75000A75000d75000] z75000 [D75000G75000-A75000d75000] |
+%  (1:27) bar 36.2
+G75000 +mf+ [^D150000G150000^A150000^d150000] +mp+ [D150000G150000] [D150000-G150000-A150000d150000] [D150000G150000] +p+ [D75000-G75000-A75000d75000] [D75000G75000] +mp+ [D75000-G75000-A75000d75000] |
+%  (1:28) bar 36.5
+[^D75000G75000] +p+ [D75000-G75000-^A75000^d75000] [D75000G75000] [D75000G75000A75000d75000] z75000 +mf+ [D150000G150000A150000d150000] +p+ [G,75000C75000D75000-G75000-] [D75000G75000] |
+%  (1:29) bar 36.8
++pp+ [G,75000C75000^D75000-G75000-] [D75000G75000] [G,75000C75000D75000-G75000-] [D75000G75000] +p+ [G,75000C75000D75000G75000-] G75000 +mf+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] |
+%  (1:29) bar 37.1
++p+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] [G,150000C150000F150000G150000] +mf+ [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] [C150000F150000] |
+%  (1:30) bar 37.4
++pp+ ^C,75000 z75000 +mp+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 |
+%  (1:31) bar 37.7
++mf+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000-D150000-] +mp+ [C75000-D75000-G75000-c75000d75000-g75000-] [C75000-D75000-G75000d75000g75000] [C150000D150000] +p+ ^G,150000 +mp+ [D75000-=G75000^A75000d75000] D75000 |
+%  (1:32) bar 38.1
++p+ [^D75000G75000^A75000^d75000] z75000 [D75000G75000-A75000d75000] G75000 +mp+ [D150000G150000A150000d150000] +mf+ [D150000G150000] +mp+ [D150000-G150000-A150000d150000] [D150000-G150000-] |
+%  (1:33) bar 38.4
++p+ [^D,150000^D150000G150000] +mp+ [D75000G75000^A75000^d75000] z75000 +p+ [D75000G75000A75000d75000] z75000 +pp+ [D75000G75000A75000d75000] z75000 +mp+ [D150000G150000A150000-d150000] |
+%  (1:33) bar 38.8
+[G,75000C75000^D75000G75000-^A75000-] [G75000A75000-] +p+ [G,75000C75000D75000G75000-A75000-] [G75000A75000-] [G,75000C75000D75000G75000-A75000-] [G75000A75000] [G,150000C150000D150000G150000] +mp+ [^G,75000^C75000-F75000-^G75000] |
+%  (1:34) bar 39.0
+[^C75000F75000] +p+ [^G,75000C75000-F75000-^G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] [G,150000C150000F150000G150000] +mf+ [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] |
+%  (1:35) bar 39.4
+[^C150000F150000] +pp+ ^C,75000 z75000 +mf+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] |
+%  (1:36) bar 39.7
+z75000 +mf+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000-D150000-] +mp+ [C150000-D150000-G150000c150000d150000g150000] [C150000D150000] +p+ [G75000c75000d75000g75000] z75000 +mp+ [D75000-=G75000^A75000d75000] |
+%  (1:37) bar 40.0
+^D75000 +p+ [D75000G75000^A75000^d75000] z75000 +pp+ [D75000G75000-A75000d75000] G75000 +mp+ [D150000G150000A150000d150000] G150000- +pp+ [^D,150000G150000] |
+%  (1:37) bar 40.4
++p+ [^D75000G75000-^A75000^d75000] G75000 [D75000G75000A75000d75000] z75000 +mf+ [D75000-F75000G75000-=A75000c75000f75000] [D75000-G75000-] +p+ [D75000F75000G75000A75000c75000f75000] z75000 |
+%  (1:38) bar 40.6
++mf+ [^D75000-F75000G75000-A75000c75000f75000] [D75000G75000] [F150000-A150000-c150000f150000] [F150000A150000] +mp+ [F150000-A150000-c150000f150000] [F150000-A150000-] +pp+ [F,75000F75000-A75000-] [F75000A75000] |
+%  (1:39) bar 41.0
+z1200000 +mf+ [D300000F300000^A300000] z150000 [C750000^D750000^G750000] z1050000 [C375000D375000G375000] z75000 [A,900000C900000F900000] |
+%  (1:44) bar 43.0
+z1200000 [D300000F300000^A300000] z150000 [C750000^D750000^G750000] z1050000 [C375000D375000G375000] z75000 [A,825000C825000F825000] |
+%  (1:48) bar 45.0
+z75000 [^D,300000-G,300000-^A,300000] [D,150000-G,150000-A,150000^D150000G150000] [D,225000-G,225000-A,225000-D225000G225000] [D,75000-G,75000-A,75000] [D,225000-G,225000-A,225000-D225000G225000] [D,75000G,75000-A,75000] [G,150000-A,150000-D150000-G150000-] |
+%  (1:50) bar 45.5
++mp+ [^D,75000-G,75000-^A,75000-^D75000G75000] [D,75000-G,75000-A,75000] +mf+ [D,150000-G,150000A,150000-D150000-G150000-] [D,75000-A,75000-D75000G75000] [D,75000-A,75000] [D,150000-A,150000D150000G150000] [D,225000G,225000A,225000D225000G225000] z75000 |
+%  (1:51) bar 45.9
+[F,150000-A,150000-C150000F150000A150000] [F,150000-A,150000-C150000-F150000A150000] [F,1500000A,1500000-C1500000-] +mp+ [F,150000-A,150000C150000] F,150000 [F,300000A,300000C300000] z300000 [^D,300000-G,300000-^A,300000] |
+%  (1:54) bar 47.1
++mf+ [^D,150000-G,150000-^A,150000^D150000G150000] [D,225000-G,225000-A,225000-D225000G225000] [D,75000-G,75000-A,75000] [D,225000-G,225000-A,225000-D225000G225000] [D,75000-G,75000-A,75000] [D,225000-G,225000-A,225000-D225000G225000] [D,75000-G,75000-A,75000] [D,150000G,150000-A,150000-D150000-G150000-] |
+%  (1:55) bar 47.6
++ppp+ [F,75000-G,75000-^A,75000-^D75000G75000] [F,75000-G,75000-A,75000] +mf+ [F,150000-G,150000-A,150000D150000G150000] [^D,75000F,75000-G,75000-A,75000-D75000-G75000-] [F,150000G,150000A,150000D150000G150000] z75000 [F,150000-=A,150000-C150000F150000A150000] [F,150000-A,150000-C150000-F150000A150000] |
+%  (1:56) bar 48.0
+[F,1500000A,1500000-C1500000-] +mp+ [F,150000-A,150000C150000] F,150000 [F,300000A,300000C300000] z300000 [^D,300000-G,300000-^A,300000] +mf+ [D,150000-G,150000-A,150000^D150000G150000] [D,225000-G,225000-A,225000-D225000G225000] |
+%  (1:59) bar 49.3
+[^D,75000-G,75000-^A,75000] [D,225000-G,225000-A,225000-^D225000G225000] [D,75000-G,75000-A,75000] [D,225000-G,225000-A,225000-D225000G225000] [D,75000-G,75000-A,75000] [D,150000G,150000-A,150000-D150000-G150000-] +ppp+ [F,75000-G,75000-A,75000-D75000G75000] [F,75000-G,75000-A,75000] |
+%  (2:00) bar 49.7
++mf+ [F,150000-G,150000-^A,150000^D150000G150000] [^D,75000F,75000-G,75000-A,75000-D75000-G75000-] [F,150000G,150000A,150000D150000G150000] z75000 [F,150000-=A,150000-C150000F150000A150000] [F,150000-A,150000-C150000-F150000A150000] [F,900000-A,900000-C900000] [F,150000-A,150000-C150000F150000A150000] |
+%  (2:02) bar 50.4
+[F,150000-A,150000-C150000-F150000A150000] [F,150000-A,150000-C150000] [F,150000A,150000-C150000-] [F,150000-A,150000-C150000-D150000] [F,150000A,150000-C150000-] [F,300000A,300000-C300000-F300000] [F,225000A,225000C225000] z75000 |
+%  (2:03) bar 51.0
+[F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,150000-A,150000-C150000F150000A150000] [F,150000-A,150000-C150000-F150000A150000] |
+%  (2:04) bar 51.5
+[F,150000-A,150000-C150000-] [F,150000A,150000-C150000-^G150000] [F,150000-A,150000-C150000-A150000] [F,150000A,150000-C150000-D150000^A150000] [F,150000-A,150000-C150000-=A150000] [F,150000A,150000-C150000-F150000] [F,150000-A,150000-C150000D150000] [F,75000A,75000C75000-] |
+%  (2:05) bar 52.0
+C75000 +p+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] +pp+ [G,75000C75000-F75000-G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] +p+ [G,75000C75000F75000G75000-] |
+%  (2:06) bar 52.2
+^G75000 +mf+ [^C150000-F150000-] +ppp+ [^C,75000C75000-F75000-] [C75000F75000] +p+ [^G,75000C75000-F75000-G75000] [C75000F75000] [G,75000C75000F75000G75000] z75000 |
+%  (2:06) bar 52.5
++mf+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 +mf+ [C150000-D150000-G150000c150000d150000g150000] [C150000-D150000-] |
+%  (2:07) bar 52.8
++mp+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000D150000] +p+ [G75000c75000d75000g75000] z75000 +mp+ [D75000-=G75000^A75000d75000] D75000 +p+ [D75000G75000A75000d75000] z75000 |
+%  (2:08) bar 53.1
+[^D75000G75000-^A75000^d75000] G75000 +mp+ [D150000G150000A150000d150000] +mf+ [D150000G150000] +mp+ [D150000-G150000-A150000d150000] [D150000-G150000-] +p+ [^D,150000D150000G150000] [G,75000C75000D75000-G75000-] |
+%  (2:09) bar 53.5
+[^D75000G75000] +pp+ [G,75000C75000D75000-G75000-] [D75000G75000] [G,75000C75000D75000G75000] z75000 +p+ [G,75000C75000D75000G75000-] G75000 +mf+ [D150000-G150000-] |
+%  (2:10) bar 53.8
++ppp+ [C,75000^D75000-G75000-] [D75000G75000] +p+ [G,75000C75000D75000-G75000-] [D75000G75000] [G,75000C75000D75000G75000] z75000 +mf+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] |
+%  (2:10) bar 54.1
++p+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] [G,150000C150000F150000G150000] +mf+ [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] [C150000F150000] |
+%  (2:11) bar 54.4
++pp+ ^C,75000 z75000 +mf+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 |
+%  (2:12) bar 54.7
++mf+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000-D150000-] +mp+ [C150000-D150000-G150000c150000d150000g150000] [C150000D150000] +pp+ ^G,75000 z75000 +mf+ [D75000-=G75000^A75000d75000] D75000 |
+%  (2:13) bar 55.1
++p+ [^D75000G75000^A75000^d75000] z75000 [D75000G75000-A75000d75000] G75000 [D150000G150000A150000d150000] +mf+ [D150000G150000] +mp+ [D150000-G150000-A150000d150000] [D150000-G150000-] |
+%  (2:14) bar 55.4
++pp+ [^D,75000^D75000-G75000-] [D75000G75000] +mp+ [G,75000C75000D75000G75000] z75000 +p+ [G,75000C75000D75000G75000] z75000 [G,75000C75000D75000G75000] z75000 |
+%  (2:14) bar 55.7
++mf+ [G,150000C150000^D150000G150000-^A150000-] [G150000A150000-] +mp+ [G,75000-C75000D75000-G75000-A75000-] [G,75000D75000G75000-A75000-] [G150000A150000] +p+ C,150000 +mp+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] |
+%  (2:15) bar 56.1
++p+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] +mf+ [G,150000C150000F150000G150000] [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] [C150000F150000] |
+%  (2:16) bar 56.4
++p+ [^G,75000^C75000F75000^G75000] z75000 +mp+ [^D75000-G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 |
+%  (2:17) bar 56.7
++mf+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000-D150000-] +mp+ [C150000-D150000-G150000c150000d150000g150000] [C150000D150000] +p+ [G75000c75000d75000g75000] z75000 +mp+ [D75000-=G75000^A75000d75000] D75000 |
+%  (2:17) bar 57.1
++p+ [^D75000G75000^A75000^d75000] z75000 +pp+ [D75000G75000-A75000d75000] G75000 +mp+ [D150000G150000A150000d150000] +mf+ G150000- +pp+ [^D,150000G150000] +p+ [D75000G75000-A75000d75000] |
+%  (2:18) bar 57.4
+G75000 [^D75000G75000^A75000^d75000] z75000 [D75000-G75000-A75000d75000] [D75000G75000] +pp+ [D75000G75000A75000d75000] z75000 +mf+ [D150000G150000] |
+%  (2:19) bar 57.7
++p+ [F225000-A225000-c225000f225000] [F75000A75000] +pp+ [F75000-A75000-c75000f75000] [F75000A75000] [F75000-A75000-c75000f75000] [F75000A75000] +p+ [F75000-A75000-c75000f75000-] [F75000A75000f75000] |
+%  (2:20) bar 58.0
+z300000 +mp+ [C150000c150000] z150000 +mf+ [C150000c150000] z150000 [D150000d150000] z150000 [^D150000^d150000] |
+%  (2:21) bar 58.6
+z150000 [D150000d150000] z150000 [C150000c150000] [D150000d150000] z600000 [C150000c150000] z150000 |
+%  (2:23) bar 59.3
+[C150000c150000] z150000 [D150000d150000] z150000 [^D150000^d150000] z150000 [F150000f150000] z150000 |
+%  (2:24) bar 59.8
+[G150000g150000] [^G150000^g150000] z600000 [C150000c150000] z150000 [C150000c150000] z150000 [D150000d150000] |
+%  (2:26) bar 60.4
+z150000 [^D225000^d225000] z75000 [=D150000=d150000] [C225000c225000] z75000 [D150000d150000] z2400000 |
+%  (2:29) bar 61.9
+[F225000f225000] z75000 [^D,225000-G,225000-^A,225000-^D225000^d225000] [D,1275000-G,1275000-A,1275000-] +mp+ [D,75000F,75000-G,75000-A,75000-] [F,75000-G,75000A,75000] F,150000 [D,225000G,225000A,225000] |
+%  (2:31) bar 62.8
+z75000 [F,600000-A,600000-C600000-F600000-] +mf+ [F,150000-A,150000-C150000-F150000-G150000] +mp+ [F,150000-A,150000-C150000-F150000-^G150000] +mf+ [F,150000-A,150000-C150000-F150000A150000] [F,375000-A,375000-C375000-F375000-f375000] [F,75000-A,75000-C75000-F75000-] [F,150000-A,150000-C150000-F150000-=G150000] |
+%  (2:33) bar 63.6
+[F,150000-A,150000-C150000-F150000-^G150000] [F,150000-A,150000-C150000-F150000A150000] [F,150000A,150000-C150000-F150000-f150000-] +mp+ [F,525000-A,525000C525000F525000-f525000-] [F,75000F75000f75000] +mf+ [^D,1500000-G,1500000-^A,1500000-] +p+ [D,150000F,150000-G,150000A,150000] F,150000 |
+%  (2:36) bar 64.8
++mf+ [^D,225000G,225000^A,225000] z75000 +mp+ [F,600000-=A,600000-C600000-] +mf+ [F,150000-A,150000-C150000-G150000] +mp+ [F,150000-A,150000-C150000-^G150000] [F,150000-A,150000-C150000-A150000] +mf+ [F,375000-A,375000-C375000-F375000f375000] [F,75000-A,75000-C75000-] |
+%  (2:38) bar 65.5
+[F,150000-A,150000-C150000-G150000] [F,150000A,150000-C150000-^G150000] +mp+ [F,150000-A,150000-C150000-A150000] +mf+ [F,150000A,150000-C150000-F150000-f150000-] +pp+ [F,300000A,300000-C300000-F300000-f300000-] +mf+ [F,225000A,225000C225000F225000-f225000-] [F75000f75000] +mp+ [^D,1200000F,1200000-G,1200000^A,1200000] |
+%  (2:40) bar 66.5
+F,150000 z450000 G150000 z150000 +mf+ [F,1350000A,1350000-C1350000-] [A,150000-C150000-] +mp+ [F,150000-A,150000-C150000] +mf+ [F,75000-A,75000C75000-] |
+%  (2:43) bar 67.6
+[F,75000-C75000-] +mp+ [F,150000-C150000-D150000] [F,150000-C150000-] +mf+ [F,75000-A,75000-C75000F75000-] [F,225000-A,225000-F225000] +mp+ [F,150000-A,150000C150000] F,75000 z75000 |
+%  (2:44) bar 68.0
++mf+ [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,150000-A,150000-C150000F150000A150000] [F,75000A,75000C75000-F75000-A75000-] |
+%  (2:45) bar 68.5
+[C75000F75000A75000] z150000 ^G150000 A150000 [D150000^A150000] =A150000 F150000 D150000 |
+%  (2:46) bar 68.9
+C150000 +p+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] +pp+ [G,75000C75000-F75000-G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] +p+ [G,75000C75000F75000G75000-] |
+%  (2:47) bar 69.2
+^G75000 +mf+ [^C150000-F150000-] +ppp+ [^C,75000C75000-F75000-] [C75000F75000] +p+ [^G,75000C75000-F75000-G75000] [C75000F75000] [G,75000C75000F75000G75000] z75000 |
+%  (2:47) bar 69.5
++mf+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 +mf+ [C150000-D150000-G150000c150000d150000g150000] [C150000-D150000-] |
+%  (2:48) bar 69.8
++mp+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000D150000] +p+ [G75000c75000d75000g75000] z75000 +mp+ [D75000-=G75000^A75000d75000] D75000 +p+ [D75000G75000A75000d75000] z75000 |
+%  (2:49) bar 70.1
++pp+ [^D75000G75000-^A75000^d75000] G75000 +mp+ [D150000G150000A150000d150000] +mf+ [D150000-G150000-] +pp+ [^D,150000D150000G150000] +p+ [D75000-G75000-A75000d75000] [D75000G75000] [D75000-G75000-A75000d75000] |
+%  (2:50) bar 70.5
+[^D75000G75000] +mp+ [G,75000C75000D75000-G75000-] [D75000G75000] +p+ [G,75000C75000D75000-G75000-] [D75000G75000] [G,75000C75000D75000G75000] z75000 +mp+ [G,150000C150000D150000G150000] |
+%  (2:50) bar 70.8
++mf+ [^D150000G150000] +mp+ [G,75000-C75000D75000-G75000-] [G,75000D75000-G75000-] [D150000G150000] +p+ C,150000 +mf+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] +p+ [G,75000C75000-F75000-G75000] |
+%  (2:51) bar 71.1
+[^C75000F75000] [^G,75000C75000-F75000-^G75000] [C75000F75000] [G,150000C150000F150000G150000] +mf+ [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] [C150000F150000] +pp+ ^C,75000 |
+%  (2:52) bar 71.5
+z75000 +mf+ [^D75000-^G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 +mf+ [C150000-D150000-G150000c150000d150000g150000] |
+%  (2:53) bar 71.8
+[C150000-^D150000-] +mp+ [C150000-D150000-^G150000c150000^d150000^g150000] [C150000D150000] +pp+ ^G,75000 z75000 +mp+ [D75000-=G75000^A75000d75000] D75000 +p+ [D75000G75000A75000d75000] |
+%  (2:54) bar 72.1
+z75000 +pp+ [^D75000G75000-^A75000^d75000] G75000 +mp+ [D150000G150000A150000d150000] +mf+ [D150000-G150000-] +pp+ [^D,150000D150000G150000] +p+ [D75000-G75000-A75000d75000] [D75000G75000] |
+%  (2:54) bar 72.4
+[^D75000-G75000-^A75000^d75000] [D75000G75000] +mp+ [G,75000C75000D75000G75000] z75000 +p+ [G,75000C75000D75000G75000] z75000 [G,75000C75000D75000G75000] z75000 |
+%  (2:55) bar 72.7
++mf+ [G,150000C150000^D150000G150000-^A150000-] [G150000A150000-] +mp+ [G,75000-C75000D75000-G75000-A75000-] [G,75000D75000G75000-A75000-] [G150000A150000] +p+ C,150000 +mp+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] |
+%  (2:56) bar 73.1
++p+ [^G,75000^C75000-F75000-^G75000] [C75000F75000] [G,75000C75000-F75000-G75000] [C75000F75000] +mf+ [G,150000C150000F150000G150000] [C150000F150000] +mp+ [G,150000C150000-F150000-G150000] [C150000F150000] |
+%  (2:57) bar 73.4
++p+ [^G,75000^C75000F75000^G75000] z75000 +mf+ [^D75000-G75000-c75000^d75000^g75000] [D75000-G75000] +p+ [D75000-G75000-c75000d75000g75000] [D75000-G75000] [D75000G75000c75000d75000g75000] z75000 |
+%  (2:57) bar 73.7
++mf+ [C150000-^D150000-^G150000c150000^d150000^g150000] [C150000-D150000-] +mp+ [C75000-D75000-G75000-c75000d75000-g75000-] [C75000-D75000-G75000d75000g75000] [C150000D150000] +p+ ^G,150000 +mp+ [D75000-=G75000^A75000d75000] D75000 |
+%  (2:58) bar 74.1
++p+ [^D75000G75000^A75000^d75000] z75000 [D75000G75000-A75000d75000] G75000 +mp+ [D150000G150000A150000d150000] +mf+ G150000 +mp+ [D150000G150000-A150000d150000] G150000 |
+%  (2:59) bar 74.4
++p+ ^D,150000 [^D75000-G75000-^A75000^d75000] [D75000G75000] +pp+ [D75000G75000A75000d75000] z75000 +mf+ [D150000G150000] +mp+ [F225000-=A225000-c225000f225000] [F75000A75000] |
+%  (3:00) bar 74.8
++p+ [F75000-A75000-c75000f75000] [F75000A75000] [F75000-A75000-c75000f75000] [F75000A75000] +mf+ [F150000A150000c150000f150000] z300000 [C150000c150000] z150000 |
+%  (3:01) bar 75.3
+[C150000c150000] z150000 [D150000d150000] z150000 +mp+ [^D150000^d150000] z150000 +mf+ [=D150000=d150000] z150000 |
+%  (3:02) bar 75.8
+[C150000c150000] [D150000d150000] z600000 [C150000c150000] z150000 [C150000c150000] z150000 [D150000d150000] |
+%  (3:04) bar 76.4
+z150000 [^D150000^d150000] z150000 [F150000f150000] z150000 [G150000g150000] [^G150000^g150000] z600000 |
+%  (3:06) bar 77.1
+[C150000c150000] z150000 [C150000c150000] z150000 [D150000d150000] z150000 [^D225000^d225000] z75000 |
+%  (3:07) bar 77.6
+[D150000d150000] [C225000c225000] z75000 [D150000d150000] z2400000 [F225000f225000] z75000 [^D,225000-G,225000-^A,225000-^D225000^d225000] |
+%  (3:10) bar 79.1
+[^D,1800000G,1800000^A,1800000] z75000 +mp+ [F,600000-=A,600000-C600000-] +mf+ [F,150000-A,150000-C150000-G150000] [F,150000-A,150000-C150000-^G150000] [F,150000-A,150000-C150000-A150000] [F,375000-A,375000-C375000-F375000f375000] [F,75000-A,75000-C75000-] |
+%  (3:14) bar 80.5
+[F,150000-A,150000-C150000-G150000] [F,150000A,150000-C150000-^G150000] [F,150000-A,150000-C150000-A150000] [F,150000A,150000-C150000-F150000-f150000-] +pp+ [F,300000A,300000-C300000-F300000-f300000-] +mf+ [F,225000A,225000C225000F225000-f225000-] [F75000f75000] +mp+ [^D,1650000G,1650000-^A,1650000-^D1650000-] |
+%  (3:17) bar 81.7
+[G,150000-^A,150000-^D150000-] +mf+ [^D,225000G,225000A,225000D225000] z75000 [C,600000-F,600000-=A,600000-] [C,150000-F,150000-A,150000-G150000] [C,150000-F,150000-A,150000-^G150000] [C,150000-F,150000-A,150000-A150000] [C,375000-F,375000-A,375000-F375000f375000] |
+%  (3:18) bar 82.5
+[C,75000-F,75000-A,75000-] [C,150000-F,150000-A,150000-G150000] +mp+ [C,150000-F,150000A,150000-^G150000] +mf+ [C,150000F,150000-A,150000A150000] [F,150000F150000-f150000-] [C,300000F,300000A,300000F300000-f300000-] [F300000f300000] +mp+ [^D,1200000F,1200000-G,1200000^A,1200000] |
+%  (3:21) bar 83.5
+F,150000 z450000 G150000 z150000 +mf+ [C,1650000-F,1650000-A,1650000-] +mp+ [C,150000-F,150000A,150000-C150000] [C,150000F,150000-A,150000D150000] F,150000 |
+%  (3:24) bar 84.8
++mf+ [C,300000F,300000A,300000F300000] z300000 [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] [F,225000-A,225000-C225000-F225000A225000] [F,75000-A,75000-C75000] |
+%  (3:25) bar 85.4
+[F,75000A,75000C75000-F75000-A75000-] [C75000F75000A75000] [C,150000F,150000A,150000C150000F150000A150000] x500000 |]
 
-+mf+ z8 |
-z8 |
-[G4-^A4-^d4-] [G3/2A3/2d3/2] z3/2 [G/A/d/] [F/-A/-=d/-] |
-[F4-^A4-d4-] [F3/2A3/2d3/2] z3/2 [F/A/d/] [F/-=A/-c/-] |
-[F8-A8-c8-] |
-[F3A3c3] z/ ^G/ A/ +mp+ [D/^A/] G/ +mf+ =A/ F/ C/ D3/4 z// |
-[G^A^d] z z2 z3 [G/A/d/] [G/A/d/] |
-z3 [G/^A/^d/] [G/A/d/] z/ c/ =d/ z/ [F3/2f3/2] z/ |
-[F3/4f3/4] z// [F3/4f3/4] z// [F3/4f3/4] z// [F/f/] [F/f/] z/ ^G/ +mp+ A/ +mf+ [D/^A/] G/ =A/ F/ D/ |
-% Bar 10 (0:21)
-[C,8-F,8-A,8-C8-F8-A8-] |
-[C,2-F,2-A,2-C2-F2-A2-] [C,3/2-F,3/2-A,3/2-C3/2F3/2A3/2] [C,/-F,/-A,/-] [C,2-F,2-A,2-] [C,/-F,/-A,/-] [C,/-F,/-A,/-^D/] +mp+ [C,/-F,/-A,/E/] +mf+
-	[C,//F,//A,//-C//-F//-] [A,//C//F//-] |
-+mp+ [F,8-A,8-C8-F8-] |
-[F,2-A,2-C2-F2-] [F,-A,-C-F-] [F,//A,//-C//-F//-] [A,3/4-C3/4-F3/4] +mf+ [F,//A,//-C//-] [A,//-C//-] [A,//C//-G//-^A//-^d//-] [C//-G//-A//-d//-]
-	[F,//-C//-G//A//d//] [F,//-C//-] [F,/-C/-G/A/d/] [F,//-A,//-C//F//-A//-=d//-] [F,/-A,/-F/A/d/] [F,//-A,//-] [F,/-A,/-C/F/A/d/] [F,//A,//F//-=A//-c//-]
-	[F//-A//-c//-] |
-+mp+ [C,8-F,8-A,8-F8-A8-c8-] |
-[C,4-F,4-A,4-F4-A4-c4-] [C,2-F,2-A,2-F2-A2-c2-] [C,-F,-A,-F-A-c-] [C,3/4F,3/4A,3/4F3/4-A3/4-c3/4-] [F//A//c//] |
-+mf+ [C,4-F,4-A,4-C4-F4-A4-] [C,-F,A,-C-F-A-] +p+ [C,/F,/-A,/C/-F/-A/-] [F,/C/-F/-A/-] +mf+ [C,F,A,C-F-A-] [CF-A-] |
-+mp+ [F,2-A,2-C2-F2-A2-] [F,-A,-C-F-A-] [F,//-A,//-C//-F//A//] [F,/A,/C/] z9/4 +mf+ [C//-^D//-^G//-] [C,5/4-^D,5/4-^G,5/4-C5/4D5/4G5/4] [C,/D,/G,/] |
-+mp+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +mf+ [G,/C/F/G/] +mp+ [C/F/] [G,/C/-F/-G/] [C/F/] +p+
-	[G,//C//F//G//] z// +mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+
-	[C/-D/-G/c/d/g/] [C/D/] +pp+ G,// z// |
-+mf+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// [D/G/A/d/] +mp+ [D/G/] [D/-G/-A/d/] [D/-G/-] +pp+ [^D,//D//-G//-] [D//G//] +mp+
-	[D//-G//-A//d//] [D//G//] +p+ [D//-G//-A//d//] [D//G//] [D//G//A//d//] z// +mf+ [D/G/A/d/] +p+ [G,//C//D//-G//-] [D//G//] +pp+ [G,//C//D//-G//-] [D//G//]
-	[G,//C//D//-G//-] [D//G//] +p+ [G,//C//D//G//-] G// |
-% Bar 20 (0:45)
-+mp+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +mf+ [G,/C/F/G/] [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +p+
-	[G,//C//F//G//] z// +mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+
-	[C/-D/-G/c/d/g/] [C/D/] +pp+ G,// z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// +mf+ [D/G/A/d/] [D/G/] +mp+ [D/-G/-A/d/] [D/G/] +p+ [D//-G//-A//d//] [D//G//] +mp+
-	[D//G//A//d//] z// +p+ [D//G//A//d//] z// [D//G//A//d//] z// +mf+ [D/G/A/-d/] +mp+ [G,//C//D//G//-A//-] [G//A//-] +p+ [G,//C//D//G//-A//-] [G//A//-]
-	[G,//C//D//G//-A//-] [G//A//] +mp+ [G,/C/D/G/] |
-[^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +mf+ [G,/C/F/G/] [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +p+ [G,//C//F//G//]
-	z// +mp+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+
-	[C//-D//-G//-c//d//-g//-] [C//-D//-G//d//g//] [C/D/] +p+ G,/ |
-[^D//-G//^A//^d//] D// +pp+ [D//G//A//d//] z// [D//G//-A//d//] G// +p+ [D//G//A//d//-] d// +mf+ G/- +ppp+ [^D,//G//-] G// +p+ [D//G//-A//d//] G// [D//G//A//d//]
-	z// +mf+ [D//-F//G//-=A//c//f//] [D//-G//-] +p+ [D//F//G//A//c//f//] z// +mf+ [D//-F//G//-A//c//f//] [D//G//] [F/-A/-c/f/] [F/A/] +mp+ [F/-A/-c/f/] [F/A/] +p+
-	[F//-A//-c//f//] [F//A//] |
-z4 +mf+ [DF^A] z/ [C5/2^D5/2^G5/2] |
-z2 z3/2 [C5/4^D5/4^G5/4] z// [A,-C-F-] [A,2C2F2] |
-z4 [DF^A] z/ [C5/2^D5/2^G5/2] |
-z2 z3/2 [C5/4^D5/4^G5/4] z// [A,-C-F-] [A,3/2C3/2F3/2] z/ |
-[F,8-A,8-C8-F8-A8-] |
-[F,2-A,2-C2-F2A2] [F,3/2A,3/2C3/2] z +f+ ^G,/ A,/ [D,/^A,/] =A,/ F,/ D,/ C,/ |
-% Bar 30 (1:09)
-+mf+ [F,2-A,2-C2-F2-A2-] [F,3/2A,3/2-C3/2-F3/2-A3/2-] [A,/-C/-F/-A/-] +mp+ [F,//A,//-C//-F//-A//-] [A,3/4-C3/4-F3/4-A3/4-] +p+ [F,//-A,//C//-F//-A//-]
-	[F,3/4-C3/4-F3/4-A3/4-] +mp+ [F,/A,/-C/-F/-A/-] [A,/-C/F/-A/-] +p+ [F,-A,-F-A-] |
-[F,2-A,2-C2-F2A2] [F,2-A,2-C2-] [F,/-A,/-C/-] +mf+ [F,/-A,/-C/-G/-^A/-^d/] +p+ [F,//-A,//-C//-F//-G//A//] [F,//-A,//-C//-F//-] +mf+ [F,/-A,/-C/-F/G/A/]
-	[F,3/4-A,3/4-C3/4-F3/4-A3/4=d3/4] [F,//-A,//-C//-F//] [F,//A,//C//F//-A//-d//-] [F//A//d//] [F/-=A/-c/-] |
-+mp+ [C,8-F,8-A,8-F8-A8-c8-] |
-[C,4-F,4-A,4-F4-A4-c4-] [C,2-F,2-A,2-F2-A2-c2-] [C,-F,-A,-F-A-c-] [C,3/4F,3/4A,3/4F3/4-A3/4-c3/4-] [F//A//c//] |
-+mf+ [F,4-A,4C4F4-A4-c4-] [F,/F/-A/-c/-] [F3/2-A3/2c3/2-] +mp+ [F/-A/-c/] +p+ [F/-A/-c/-] +mp+ [F/-A/-c/-f/] [F/-A/-c/-] |
-[F,2-A,2-C2-F2-A2-c2-] [F,-A,-C-F-A-c-] [F,//-A,//-C//-F//A//c//] [F,/A,/C/] z5/4 ^G, +mf+ [C,3/2-^D,3/2-G,3/2-C3/2^D3/2^G3/2] [C,/D,/G,/] |
-+mp+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +mf+ [G,/C/F/G/] +mp+ [C/F/] [G,/C/-F/-G/] [C/F/] +p+
-	[G,//C//F//G//] z// +mp+ [^D//-G//-c//^d//^g//] [D//-G//] +pp+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C//-D//-G//c//d//g//-] [C//-D//-g//]
-	[C/-D/-] +ppp+ [G,//C//-D//-] [C//-D//-] +p+ [C//-D//-G//c//d//g//] [C//D//] [G//c//d//g//] z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// +mf+ [D/G/A/d/] +mp+ [D/G/] [D/-G/-A/d/] [D/G/] +p+ [D//-G//-A//d//] [D//G//] +mp+
-	[D//-G//-A//d//] [D//G//] +p+ [D//-G//-A//d//] [D//G//] [D//G//A//d//] z// +mf+ [D/G/A/d/] +p+ [G,//C//D//-G//-] [D//G//] +pp+ [G,//C//D//-G//-] [D//G//]
-	[G,//C//D//-G//-] [D//G//] +p+ [G,//C//D//G//-] G// |
-+mf+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] [G,/C/F/G/] +mf+ [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +pp+ ^C,// z//
-	+mp+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+ [C//-D//-G//-c//d//-g//-]
-	[C//-D//-G//d//g//] [C/D/] +p+ G,/ |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// +mp+ [D/G/A/d/] +mf+ [D/G/] +mp+ [D/-G/-A/d/] [D/-G/-] +p+ [^D,/D/G/] +mp+ [D//G//A//d//]
-	z// +p+ [D//G//A//d//] z// +pp+ [D//G//A//d//] z// +mp+ [D/G/A/-d/] [G,//C//D//G//-A//-] [G//A//-] +p+ [G,//C//D//G//-A//-] [G//A//-] [G,//C//D//G//-A//-]
-	[G//A//] [G,/C/D/G/] |
-% Bar 40 (1:33)
-+mp+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] [G,/C/F/G/] +mf+ [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +pp+ ^C,// z//
-	+mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+ [C/-D/-G/c/d/g/] [C/D/] +p+
-	[G//c//d//g//] z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// +pp+ [D//G//-A//d//] G// +mp+ [D/G/A/d/] G/- +pp+ [^D,/G/] +p+ [D//G//-A//d//] G// [D//G//A//d//] z// +mf+
-	[D//-F//G//-=A//c//f//] [D//-G//-] +p+ [D//F//G//A//c//f//] z// +mf+ [D//-F//G//-A//c//f//] [D//G//] [F/-A/-c/f/] [F/A/] +mp+ [F/-A/-c/f/] [F/-A/-] +pp+
-	[F,//F//-A//-] [F//A//] |
-z4 +mf+ [DF^A] z/ [C5/2^D5/2^G5/2] |
-z2 z3/2 [C5/4^D5/4^G5/4] z// [A,-C-F-] [A,2C2F2] |
-z4 [DF^A] z/ [C5/2^D5/2^G5/2] |
-z2 z3/2 [C5/4^D5/4^G5/4] z// [A,-C-F-] [A,-C-F-] [A,3/4C3/4F3/4] z// |
-[^D,-G,-^A,] [D,/-G,/-A,/^D/G/] [D,/-G,/-A,/-D/-G/-] [D,//-G,//-A,//-D//G//] [D,//-G,//-A,//] [D,3/4-G,3/4-A,3/4-D3/4G3/4] [D,//G,//-A,//] [G,/-A,/-D/-G/-] +mp+
-	[D,//-G,//-A,//-D//G//] [D,//-G,//-A,//] +mf+ [D,/-G,/A,/-D/-G/-] [D,//-A,//-D//G//] [D,//-A,//] [D,/-A,/D/G/] [D,3/4G,3/4A,3/4D3/4G3/4] z// [F,/-=A,/-C/F/A/]
-	[F,/-A,/-C/-F/A/] |
-[F,4-A,4-C4-] [F,A,-C-] +mp+ [F,/-A,/C/] F,/ [F,A,C] z |
-[^D,-G,-^A,] +mf+ [D,/-G,/-A,/^D/G/] [D,3/4-G,3/4-A,3/4-D3/4G3/4] [D,//-G,//-A,//] [D,3/4-G,3/4-A,3/4-D3/4G3/4] [D,//-G,//-A,//] [D,/-G,/-A,/-D/-G/-]
-	[D,//-G,//-A,//-D//G//] [D,//-G,//-A,//] [D,/G,/-A,/-D/-G/-] +ppp+ [F,//-G,//-A,//-D//G//] [F,//-G,//-A,//] +mf+ [F,/-G,/-A,/D/G/]
-	[D,//F,//-G,//-A,//-D//-G//-] [F,/G,/A,/D/G/] z// [F,/-=A,/-C/F/A/] [F,/-A,/-C/-F/A/] |
-[F,4-A,4-C4-] [F,A,-C-] +mp+ [F,/-A,/C/] F,/ [F,A,C] z |
-% Bar 50 (1:57)
-[^D,-G,-^A,] +mf+ [D,/-G,/-A,/^D/G/] [D,3/4-G,3/4-A,3/4-D3/4G3/4] [D,//-G,//-A,//] [D,3/4-G,3/4-A,3/4-D3/4G3/4] [D,//-G,//-A,//] [D,/-G,/-A,/-D/-G/-]
-	[D,//-G,//-A,//-D//G//] [D,//-G,//-A,//] [D,/G,/-A,/-D/-G/-] +ppp+ [F,//-G,//-A,//-D//G//] [F,//-G,//-A,//] +mf+ [F,/-G,/-A,/D/G/]
-	[D,//F,//-G,//-A,//-D//-G//-] [F,/G,/A,/D/G/] z// [F,/-=A,/-C/F/A/] [F,/-A,/-C/-F/A/] |
-[F,3-A,3-C3] [F,/-A,/-C/F/A/] [F,/-A,/-C/-F/A/] [F,/-A,/-C/] [F,/A,/-C/-] [F,/-A,/-C/-D/] [F,/A,/-C/-] [F,A,-C-F] [F,3/4A,3/4C3/4] z// |
-[F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,/-A,/-C/F/A/]
-	[F,/-A,/-C/-F/A/] [F,/-A,/-C/-] [F,/A,/-C/-^G/] [F,/-A,/-C/-A/] [F,/A,/-C/-D/^A/] [F,/-A,/-C/-=A/] [F,/A,/-C/-F/] [F,/-A,/-C/D/] [F,//A,//C//-] C// |
-+p+ [^G,//^C//-F//-^G//] [C//F//] +pp+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +p+ [G,//C//F//G//-] G// +mf+ [C/-F/-] +ppp+ [^C,//C//-F//-]
-	[C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//F//G//] z// +mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+
-	[=C/-D/-G/c/d/g/] [C/-D/-] +mp+ [C/-D/-G/c/d/g/] [C/D/] +p+ [G//c//d//g//] z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// +mp+ [D/G/A/d/] +mf+ [D/G/] +mp+ [D/-G/-A/d/] [D/-G/-] +p+ [^D,/D/G/] [G,//C//D//-G//-]
-	[D//G//] +pp+ [G,//C//D//-G//-] [D//G//] [G,//C//D//G//] z// +p+ [G,//C//D//G//-] G// +mf+ [D/-G/-] +ppp+ [C,//D//-G//-] [D//G//] +p+ [G,//C//D//-G//-]
-	[D//G//] [G,//C//D//G//] z// |
-+mf+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] [G,/C/F/G/] +mf+ [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +pp+ ^C,// z//
-	+mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+ [C/-D/-G/c/d/g/] [C/D/] +pp+
-	G,// z// |
-+mf+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// [D/G/A/d/] +mf+ [D/G/] +mp+ [D/-G/-A/d/] [D/-G/-] +pp+ [^D,//D//-G//-] [D//G//] +mp+
-	[G,//C//D//G//] z// +p+ [G,//C//D//G//] z// [G,//C//D//G//] z// +mf+ [G,/C/D/G/-A/-] [G/A/-] +mp+ [G,//-C//D//-G//-A//-] [G,//D//G//-A//-] [G/A/] +p+ C,/ |
-+mp+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +mf+ [G,/C/F/G/] [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +p+
-	[G,//C//F//G//] z// +mp+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+
-	[C/-D/-G/c/d/g/] [C/D/] +p+ [G//c//d//g//] z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// +pp+ [D//G//-A//d//] G// +mp+ [D/G/A/d/] +mf+ G/- +pp+ [^D,/G/] +p+ [D//G//-A//d//] G// [D//G//A//d//] z//
-	[D//-G//-A//d//] [D//G//] +pp+ [D//G//A//d//] z// +mf+ [D/G/] +p+ [F3/4-=A3/4-c3/4f3/4] [F//A//] +pp+ [F//-A//-c//f//] [F//A//] [F//-A//-c//f//] [F//A//] +p+
-	[F//-A//-c//f//-] [F//A//f//] |
-z +mp+ [C/c/] z/ +mf+ [C/c/] z/ [D/d/] z/ [^D/^d/] z/ [=D/=d/] z/ [C/c/] [D/d/] z |
-% Bar 60 (2:21)
-z [C/c/] z/ [C/c/] z/ [D/d/] z/ [^D/^d/] z/ [F/f/] z/ [G/g/] [^G/^g/] z |
-z [C/c/] z/ [C/c/] z/ [D/d/] z/ [^D3/4^d3/4] z// [=D/=d/] [C3/4c3/4] z// [D/d/] z |
-z4 z3 [F3/4f3/4] z// |
-[^D,3/4-G,3/4-^A,3/4-^D3/4^d3/4] [D,13/4-G,13/4-A,13/4-] [D,-G,-A,-] +mp+ [D,//F,//-G,//-A,//-] [F,//-G,//A,//] F,/ [D,3/4G,3/4A,3/4] z// [F,-=A,-C-F-] |
-[F,-A,-C-F-] +mf+ [F,/-A,/-C/-F/-G/] +mp+ [F,/-A,/-C/-F/-^G/] +mf+ [F,/-A,/-C/-F/A/] [F,5/4-A,5/4-C5/4-F5/4-f5/4] [F,//-A,//-C//-F//-] [F,/-A,/-C/-F/-=G/]
-	[F,/-A,/-C/-F/-^G/] [F,/-A,/-C/-F/A/] [F,/A,/-C/-F/-f/-] +mp+ [F,-A,-C-F-f-] [F,3/4-A,3/4C3/4F3/4-f3/4-] [F,//F//f//] |
-+mf+ [^D,4-G,4-^A,4-] [D,-G,-A,-] +p+ [D,/F,/-G,/A,/] F,/ +mf+ [D,3/4G,3/4A,3/4] z// +mp+ [F,-=A,-C-] |
-[F,-A,-C-] +mf+ [F,/-A,/-C/-G/] +mp+ [F,/-A,/-C/-^G/] [F,/-A,/-C/-A/] +mf+ [F,5/4-A,5/4-C5/4-F5/4f5/4] [F,//-A,//-C//-] [F,/-A,/-C/-=G/] [F,/A,/-C/-^G/] +mp+
-	[F,/-A,/-C/-A/] +mf+ [F,/A,/-C/-F/-f/-] +pp+ [F,A,-C-F-f-] +mf+ [F,3/4A,3/4C3/4F3/4-f3/4-] [F//f//] |
-+mp+ [^D,4F,4-G,4^A,4] F,/ z3/2 G/ z/ +mf+ [F,-=A,-C-] |
-[F,2-A,2-C2-] [F,3/2A,3/2-C3/2-] [A,/-C/-] +mp+ [F,/-A,/-C/] +mf+ [F,//-A,//C//-] [F,//-C//-] +mp+ [F,/-C/-D/] [F,/-C/-] +mf+ [F,//-A,//-C//F//-]
-	[F,3/4-A,3/4-F3/4] +mp+ [F,/-A,/C/] F,// z// |
-+mf+ [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,/-A,/-C/F/A/]
-	[F,//A,//C//-F//-A//-] [C//F//A//] z/ ^G/ A/ [D/^A/] =A/ F/ D/ C/ |
-% Bar 70 (2:45)
-+p+ [^G,//^C//-F//-^G//] [C//F//] +pp+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +p+ [G,//C//F//G//-] G// +mf+ [C/-F/-] +ppp+ [^C,//C//-F//-]
-	[C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//F//G//] z// +mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+
-	[=C/-D/-G/c/d/g/] [C/-D/-] +mp+ [C/-D/-G/c/d/g/] [C/D/] +p+ [G//c//d//g//] z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// +pp+ [D//G//-A//d//] G// +mp+ [D/G/A/d/] +mf+ [D/-G/-] +pp+ [^D,/D/G/] +p+ [D//-G//-A//d//] [D//G//]
-	[D//-G//-A//d//] [D//G//] +mp+ [G,//C//D//-G//-] [D//G//] +p+ [G,//C//D//-G//-] [D//G//] [G,//C//D//G//] z// +mp+ [G,/C/D/G/] +mf+ [D/G/] +mp+
-	[G,//-C//D//-G//-] [G,//D//-G//-] [D/G/] +p+ C,/ |
-+mf+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] [G,/C/F/G/] +mf+ [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +pp+ ^C,// z//
-	+mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+ [C/-D/-G/c/d/g/] [C/D/] +pp+
-	G,// z// |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// +pp+ [D//G//-A//d//] G// +mp+ [D/G/A/d/] +mf+ [D/-G/-] +pp+ [^D,/D/G/] +p+ [D//-G//-A//d//] [D//G//]
-	[D//-G//-A//d//] [D//G//] +mp+ [G,//C//D//G//] z// +p+ [G,//C//D//G//] z// [G,//C//D//G//] z// +mf+ [G,/C/D/G/-A/-] [G/A/-] +mp+ [G,//-C//D//-G//-A//-]
-	[G,//D//G//-A//-] [G/A/] +p+ C,/ |
-+mp+ [^G,//^C//-F//-^G//] [C//F//] +p+ [G,//C//-F//-G//] [C//F//] [G,//C//-F//-G//] [C//F//] +mf+ [G,/C/F/G/] [C/F/] +mp+ [G,/C/-F/-G/] [C/F/] +p+
-	[G,//C//F//G//] z// +mf+ [^D//-G//-c//^d//^g//] [D//-G//] +p+ [D//-G//-c//d//g//] [D//-G//] [D//G//c//d//g//] z// +mf+ [=C/-D/-G/c/d/g/] [C/-D/-] +mp+
-	[C//-D//-G//-c//d//-g//-] [C//-D//-G//d//g//] [C/D/] +p+ G,/ |
-+mp+ [^D//-G//^A//^d//] D// +p+ [D//G//A//d//] z// [D//G//-A//d//] G// +mp+ [D/G/A/d/] +mf+ G/ +mp+ [D/G/-A/d/] G/ +p+ ^D,/ [D//-G//-A//d//] [D//G//] +pp+
-	[D//G//A//d//] z// +mf+ [D/G/] +mp+ [F3/4-=A3/4-c3/4f3/4] [F//A//] +p+ [F//-A//-c//f//] [F//A//] [F//-A//-c//f//] [F//A//] +mf+ [F/A/c/f/] |
-z [C/c/] z/ [C/c/] z/ [D/d/] z/ +mp+ [^D/^d/] z/ +mf+ [=D/=d/] z/ [C/c/] [D/d/] z |
-z [C/c/] z/ [C/c/] z/ [D/d/] z/ [^D/^d/] z/ [F/f/] z/ [G/g/] [^G/^g/] z |
-z [C/c/] z/ [C/c/] z/ [D/d/] z/ [^D3/4^d3/4] z// [=D/=d/] [C3/4c3/4] z// [D/d/] z |
-z4 z3 [F3/4f3/4] z// |
-% Bar 80 (3:09)
-[^D,3/4-G,3/4-^A,3/4-^D3/4^d3/4] [D,13/4-G,13/4-A,13/4-] [D,2-G,2-A,2-] [D,3/4G,3/4A,3/4] z// +mp+ [F,-=A,-C-] |
-[F,-A,-C-] +mf+ [F,/-A,/-C/-G/] [F,/-A,/-C/-^G/] [F,/-A,/-C/-A/] [F,5/4-A,5/4-C5/4-F5/4f5/4] [F,//-A,//-C//-] [F,/-A,/-C/-=G/] [F,/A,/-C/-^G/] [F,/-A,/-C/-A/]
-	[F,/A,/-C/-F/-f/-] +pp+ [F,A,-C-F-f-] +mf+ [F,3/4A,3/4C3/4F3/4-f3/4-] [F//f//] |
-+mp+ [^D,4-G,4-^A,4-^D4-] [D,3/2G,3/2-A,3/2-D3/2-] [G,/-A,/-D/-] +mf+ [D,3/4G,3/4A,3/4D3/4] z// [C,-F,-=A,-] |
-[C,-F,-A,-] [C,/-F,/-A,/-G/] [C,/-F,/-A,/-^G/] [C,/-F,/-A,/-A/] [C,5/4-F,5/4-A,5/4-F5/4f5/4] [C,//-F,//-A,//-] [C,/-F,/-A,/-=G/] +mp+ [C,/-F,/A,/-^G/] +mf+
-	[C,/F,/-A,/A/] [F,/F/-f/-] [C,F,A,F-f-] [Ff] |
-+mp+ [^D,4F,4-G,4^A,4] F,/ z3/2 G/ z/ +mf+ [C,-F,-=A,-] |
-[C,4-F,4-A,4-] [C,/-F,/-A,/-] +mp+ [C,/-F,/A,/-C/] [C,/F,/-A,/D/] F,/ +mf+ [C,F,A,F] z |
-[F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,3/4-A,3/4-C3/4-F3/4A3/4] [F,//-A,//-C//] [F,//A,//C//-F//-A//-]
-	[C//F//A//] [C,/F,/A,/C/F/A/] z4 |]
+
+X: 10
+T: Rubberband Man (3:26) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+%%user-pan auto
+C: The Spinners
+Z: Dallofin Bolderbrook of Crickhollow
+M: 4/4
+Q: 100
+L: 1/2400000
+K: C maj
++fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:01) bar 0.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:02) bar 0.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:02) bar 0.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:03) bar 1.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:03) bar 1.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:04) bar 1.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:05) bar 1.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:05) bar 2.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:06) bar 2.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:06) bar 2.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:07) bar 2.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:08) bar 3.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:08) bar 3.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:09) bar 3.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:09) bar 3.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:10) bar 4.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:11) bar 4.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:11) bar 4.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:12) bar 4.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:12) bar 5.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:13) bar 5.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:14) bar 5.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:14) bar 5.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:15) bar 6.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:15) bar 6.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:16) bar 6.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:17) bar 6.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:17) bar 7.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:18) bar 7.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:18) bar 7.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:19) bar 7.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:20) bar 8.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:20) bar 8.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:21) bar 8.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:21) bar 8.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:22) bar 9.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:23) bar 9.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:23) bar 9.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:24) bar 9.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:24) bar 10.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:25) bar 10.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:26) bar 10.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:26) bar 10.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:27) bar 11.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:27) bar 11.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:28) bar 11.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:29) bar 11.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:29) bar 12.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:30) bar 12.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:30) bar 12.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:31) bar 12.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:32) bar 13.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:32) bar 13.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:33) bar 13.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:33) bar 13.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:34) bar 14.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:35) bar 14.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:35) bar 14.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:36) bar 14.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:36) bar 15.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:37) bar 15.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:38) bar 15.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:38) bar 15.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:39) bar 16.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:39) bar 16.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:40) bar 16.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:41) bar 16.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:41) bar 17.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:42) bar 17.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:42) bar 17.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:43) bar 17.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:44) bar 18.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:44) bar 18.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:45) bar 18.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:45) bar 18.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:46) bar 19.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:47) bar 19.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:47) bar 19.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:48) bar 19.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:48) bar 20.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:49) bar 20.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:50) bar 20.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (0:50) bar 20.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:51) bar 21.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:51) bar 21.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:52) bar 21.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:53) bar 21.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:53) bar 22.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:54) bar 22.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:54) bar 22.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:55) bar 22.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:56) bar 23.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:56) bar 23.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:57) bar 23.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:57) bar 23.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (0:58) bar 24.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (0:59) bar 24.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (0:59) bar 24.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:00) bar 24.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:00) bar 25.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:01) bar 25.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:02) bar 25.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:02) bar 25.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:03) bar 26.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:03) bar 26.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:04) bar 26.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:05) bar 26.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:05) bar 27.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:06) bar 27.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:06) bar 27.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:07) bar 27.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:08) bar 28.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:08) bar 28.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:09) bar 28.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:09) bar 28.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:10) bar 29.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:11) bar 29.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:11) bar 29.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:12) bar 29.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:12) bar 30.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:13) bar 30.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:14) bar 30.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:14) bar 30.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:15) bar 31.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:15) bar 31.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:16) bar 31.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:17) bar 31.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:17) bar 32.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:18) bar 32.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:18) bar 32.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:19) bar 32.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:20) bar 33.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:20) bar 33.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:21) bar 33.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:21) bar 33.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:22) bar 34.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:23) bar 34.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:23) bar 34.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:24) bar 34.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:24) bar 35.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:25) bar 35.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:26) bar 35.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:26) bar 35.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:27) bar 36.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:27) bar 36.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:28) bar 36.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:29) bar 36.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:29) bar 37.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:30) bar 37.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:30) bar 37.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:31) bar 37.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:32) bar 38.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:32) bar 38.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:33) bar 38.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:33) bar 38.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:34) bar 39.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:35) bar 39.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:35) bar 39.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:36) bar 39.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:36) bar 40.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:37) bar 40.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:38) bar 40.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:38) bar 40.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:39) bar 41.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:39) bar 41.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:40) bar 41.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:41) bar 41.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:41) bar 42.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:42) bar 42.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:42) bar 42.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:43) bar 42.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:44) bar 43.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:44) bar 43.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:45) bar 43.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:45) bar 43.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:46) bar 44.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:47) bar 44.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:47) bar 44.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:48) bar 44.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:48) bar 45.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:49) bar 45.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:50) bar 45.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:50) bar 45.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:51) bar 46.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:51) bar 46.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:52) bar 46.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:53) bar 46.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:53) bar 47.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:54) bar 47.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:54) bar 47.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:55) bar 47.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (1:56) bar 48.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:56) bar 48.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:57) bar 48.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (1:57) bar 48.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:58) bar 49.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (1:59) bar 49.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (1:59) bar 49.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:00) bar 49.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:00) bar 50.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:01) bar 50.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:02) bar 50.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:02) bar 50.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:03) bar 51.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:03) bar 51.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:04) bar 51.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:05) bar 51.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:05) bar 52.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:06) bar 52.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:06) bar 52.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:07) bar 52.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:08) bar 53.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:08) bar 53.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:09) bar 53.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:09) bar 53.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:10) bar 54.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:11) bar 54.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:11) bar 54.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:12) bar 54.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:12) bar 55.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:13) bar 55.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:14) bar 55.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:14) bar 55.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:15) bar 56.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:15) bar 56.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:16) bar 56.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:17) bar 56.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:17) bar 57.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:18) bar 57.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:18) bar 57.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000A,60000A60000] |
+%  (2:19) bar 57.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:20) bar 58.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:20) bar 58.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:21) bar 58.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:21) bar 58.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:22) bar 59.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:23) bar 59.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:23) bar 59.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:24) bar 59.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:24) bar 60.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:25) bar 60.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:26) bar 60.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:26) bar 60.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:27) bar 61.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:27) bar 61.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:28) bar 61.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:29) bar 61.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:29) bar 62.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:30) bar 62.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:30) bar 62.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:31) bar 62.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:32) bar 63.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:32) bar 63.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:33) bar 63.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:33) bar 63.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:34) bar 64.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:35) bar 64.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:35) bar 64.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:36) bar 64.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:36) bar 65.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:37) bar 65.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:38) bar 65.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:38) bar 65.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:39) bar 66.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:39) bar 66.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:40) bar 66.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:41) bar 66.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:41) bar 67.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:42) bar 67.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:42) bar 67.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:43) bar 67.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:44) bar 68.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:44) bar 68.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:45) bar 68.5
+z1290000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:47) bar 69.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:47) bar 69.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:48) bar 69.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:48) bar 70.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:49) bar 70.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:50) bar 70.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:50) bar 70.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:51) bar 71.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:51) bar 71.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:52) bar 71.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:53) bar 71.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:53) bar 72.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:54) bar 72.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:54) bar 72.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (2:55) bar 72.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:56) bar 73.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:56) bar 73.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:57) bar 73.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:57) bar 73.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (2:58) bar 74.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (2:59) bar 74.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (2:59) bar 74.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000A,60000A60000] |
+%  (3:00) bar 74.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:00) bar 75.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:01) bar 75.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:02) bar 75.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:02) bar 75.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:03) bar 76.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:03) bar 76.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:04) bar 76.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:05) bar 76.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:05) bar 77.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:06) bar 77.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:06) bar 77.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:07) bar 77.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:08) bar 78.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (3:08) bar 78.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:09) bar 78.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (3:09) bar 78.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:10) bar 79.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:11) bar 79.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:11) bar 79.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:12) bar 79.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:12) bar 80.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:13) bar 80.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:14) bar 80.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:14) bar 80.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:15) bar 81.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:15) bar 81.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:16) bar 81.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:17) bar 81.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:17) bar 82.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (3:18) bar 82.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:18) bar 82.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +f+ [D,60000=A,60000^A,60000A60000] |
+%  (3:19) bar 82.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +fff+ [D,60000=A,60000^A,60000G60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:20) bar 83.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:20) bar 83.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:21) bar 83.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:21) bar 83.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:22) bar 84.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:23) bar 84.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,60000=A,60000^A,60000G60000A60000] |
+%  (3:23) bar 84.5
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:24) bar 84.7
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] z90000 +fff+ [D,60000A,60000G60000A60000] z90000 +ff+ [D,60000A,60000G60000A60000] |
+%  (3:24) bar 85.0
+z90000 +fff+ [^D,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 +mp+ [D,60000A,60000A60000] |
+%  (3:25) bar 85.2
+z90000 +fff+ [^D,60000F,60000A,60000^A,60000^G60000A60000] z90000 +mp+ [D,60000A,60000A60000] z90000 +ff+ [D,60000=A,60000^A,60000A60000] z90000 [D,150000F,150000=A,150000^A,150000G150000A150000] |]
 
