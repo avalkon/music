@@ -1,0 +1,54 @@
+%abc-2.1
+%%song-title       Davy Jones
+%%song-composer    Hans Zimmer
+%%song-duration    0:36
+%%song-transcriber Malithael
+%%abc-creator Maestro v4.7.6
+%%export-timestamp 2026-11-13 07:14:07
+%%swing-rhythm false
+%%mix-timings false
+%%reduced-file-size false
+%%organic             true
+%%organic-multi-stage false
+%%organic-version     1
+%%organic-poly-6-plus false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+I:decoration +
+
+X: 1
+T: Davy Jones (0:36) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+%%user-pan auto
+C: Hans Zimmer
+Z: Malithael
+M: 4/4
+Q: 80
+L: 1/3000000
+K: C maj
++ffff+ [D60000F60000d60000f60000] z690000 A60000 z690000 [E60000G60000e60000g60000] z690000 [D60000d60000f60000a60000] |
+%  (0:03) bar 0.8
+z690000 A60000 z690000 [E60000e60000g60000^a60000] z690000 [D60000d60000f60000=a60000] z690000 A60000 |
+%  (0:06) bar 1.8
+z690000 +mf+ [E60000g60000] z315000 +ffff+ ^a60000 z315000 [D60000d60000f60000=a60000] z690000 A60000 |
+%  (0:08) bar 2.5
+z1440000 [D60000A60000d60000f60000a60000] z690000 A60000 z690000 [g60000^a60000] z690000 +mf+ [C60000c60000e60000] |
+%  (0:12) bar 3.8
+z690000 +ffff+ G60000 z690000 +mf+ ^a60000 z315000 +ffff+ [g60000a60000] z315000 [D60000F60000f60000=a60000] |
+%  (0:14) bar 4.5
+z690000 A60000 z690000 [e60000g60000] z690000 [D60000d60000f60000a60000] z690000 A60000 |
+%  (0:17) bar 5.5
+z1440000 [E60000G60000^A60000g60000^a60000] z690000 d60000 z690000 +mf+ =a60000 z690000 +ffff+ [D60000=A60000f60000a60000] |
+%  (0:21) bar 6.8
+z690000 A60000 z690000 [d60000f60000] z690000 [^C60000G60000^A60000e60000g60000] z690000 E60000 |
+%  (0:24) bar 7.8
+z690000 [^C60000G60000g60000^a60000] z315000 =a60000 z315000 [D60000d60000f60000] z690000 A60000 |
+%  (0:26) bar 8.5
+z690000 d60000 z690000 [A,60000C60000c60000e60000] z690000 E60000 z690000 [C60000c60000] |
+%  (0:29) bar 9.5
+z690000 [A,60000C60000A60000] z690000 E60000 z690000 e60000 z690000 [D60000A60000d60000f60000] |
+%  (0:32) bar 10.5
+z690000 F60000 z1440000 [D60000A60000d60000f60000] z690000 F179687 |]
+
