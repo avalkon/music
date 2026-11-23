@@ -1,0 +1,129 @@
+N: TS  2,   9   5
+X: 9
+%%Orig filename was MusicFoundAges.abc
+T: Music For A Found Harmonium (Duet) (1:05) - Lute of Ages
+%%part-name Lute of Ages
+C: Simon Jeffes
+Z: Raymiond of Gladden
+M: 4/4
+Q: 180
+K: C maj
+
++fff+ D +mp+ E +fff+ ^F +mp+ D +fff+ G +mp+ D +fff+ F +mp+ D |
++fff+ D +mp+ D +fff+ ^F +mp+ D +fff+ G +mp+ D +fff+ F +mp+ D |
++fff+ D +mp+ D +fff+ ^F +mp+ D +fff+ G +mp+ D +fff+ F +mp+ D |
++fff+ D +mp+ D +fff+ E +mp+ D +fff+ ^C +mp+ D +fff+ ^F +mp+ D |
++fff+ D +mp+ D +fff+ ^F +mp+ D +fff+ G +mp+ D +fff+ F +mp+ D |
++fff+ D +mp+ D +fff+ ^F +mp+ D +fff+ G +mp+ D +fff+ F +mp+ D |
++fff+ D +mp+ D +fff+ ^F +mp+ D +fff+ G +mp+ D +fff+ F +mp+ D |
++fff+ D +mp+ D +fff+ E +mp+ D +fff+ ^C +mp+ D +fff+ ^F +mp+ D |
++fff+ D +mp+ D +fff+ E +mp+ D +fff+ ^C +mp+ D +fff+ E +mp+ D |
+% Bar 10 (0:18)
++fff+ ^C +mp+ D +fff+ ^F +mp+ D +fff+ C +mp+ D +fff+ F +mp+ D |
++fff+ ^C +mp+ D +fff+ G +mp+ D +fff+ E +mp+ D +fff+ C +mp+ D |
++fff+ G +mp+ D +fff+ ^F +mp+ D +fff+ D +mp+ D +fff+ D2 |
+D +mp+ D +fff+ E +mp+ D +fff+ ^C +mp+ D +fff+ E +mp+ D |
++fff+ ^C +mp+ D +fff+ ^F +mp+ D +fff+ C +mp+ D +fff+ F +mp+ D |
++fff+ ^C +mp+ D +fff+ G +mp+ D +fff+ E +mp+ D +fff+ C +mp+ D |
++fff+ G +mp+ D +fff+ ^F +mp+ D +fff+ D +mp+ D +fff+ D2 |
+D +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ G +mp+ F |
++fff+ E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ E2 |
+E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ G +mp+ F |
+% Bar 20 (0:38)
++fff+ E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ E2 |
+E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ G +mp+ F |
++fff+ E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ E2 |
+E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ G +mp+ F |
++fff+ E +mp+ F +fff+ c +mp+ F +fff+ E +mp+ F +fff+ E2 |
+E +mp+ F +fff+ ^A +mp+ F +fff+ D +mp+ F +fff+ G +mp+ F |
++fff+ D +mp+ F +fff+ ^A +mp+ F +fff+ D +mp+ F +fff+ G +mp+ F |
++fff+ D +mp+ F +fff+ ^A +mp+ F +fff+ E +mp+ F +fff+ G +mp+ E |
++fff+ E +mp+ G +fff+ ^A +mp+ F +fff+ E +mp+ F +fff+ G +mp+ E |
++fff+ E +mp+ G +fff+ ^c +mp+ G +fff+ E +mp+ G +fff+ c +mp+ G |
+% Bar 30 (0:58)
++fff+ G +mp+ G +fff+ ^c +mp+ G +fff+ E +mp+ G +fff+ c +mp+ G |
++fff+ G +mp+ G +fff+ ^c +mp+ G +fff+ E +mp+ G +fff+ c +mp+ G |
++fff+ G +mp+ G +fff+ e +mp+ G +fff+ G +mp+ G +fff+ e +mp+ ^c |
++fff+ g +mp+ e +fff+ ^f +mp+ d +fff+ g +mp+ d +fff+ f +mp+ d |
++fff+ d +mp+ d +fff+ ^f +mp+ d +fff+ g +mp+ d +fff+ f +mp+ d |
++fff+ d +mp+ d +fff+ ^f +mp+ d +fff+ g +mp+ d +fff+ f +mp+ d |
++fff+ d +mp+ d +fff+ e +mp+ d +fff+ ^c +mp+ d +fff+ ^f +mp+ d |
++fff+ d +mp+ d +fff+ ^f +mp+ d +fff+ g +mp+ d +fff+ f +mp+ d |
++fff+ d +mp+ d +fff+ ^f +mp+ d +fff+ g +mp+ d +fff+ f +mp+ d |
++fff+ d +mp+ d +fff+ ^f +mp+ d +fff+ g +mp+ d +fff+ f +mp+ d |
+% Bar 40 (1:18)
++fff+ d +mp+ d +fff+ e +mp+ d +fff+ ^c +mp+ d +fff+ ^f +mp+ d |
++fff+ d +mp+ d +fff+ e +mp+ d +fff+ ^c +mp+ d +fff+ e +mp+ d |
++fff+ ^c +mp+ d +fff+ ^f +mp+ d +fff+ =c +mp+ d +fff+ f +mp+ d |
++fff+ c +mp+ d +fff+ g +mp+ d +fff+ e +mp+ d +fff+ ^c +mp+ d |
++fff+ e +mp+ d +fff+ ^f +mp+ d +fff+ d +mp+ d +f+ d2- |
+d2 +fff+ e +mp+ d +fff+ ^c +mp+ d +fff+ e +mp+ d |
++fff+ ^c +mp+ d +fff+ ^f +mp+ d +fff+ =c +mp+ d +fff+ f +mp+ d |
++fff+ c +mp+ d +fff+ g +mp+ d +fff+ e +mp+ d +fff+ ^c +mp+ d |
++fff+ e +mp+ d +fff+ ^f +mp+ d +fff+ d +mp+ d +f+ d2- |
+d2 z2 z4 |]
+
+X: 5
+%%Orig filename was MusicFoundHarp.abc
+T: Music For A Found Harmonium (Duet) (1:05) - Basic Harp
+%%part-name Basic Harp
+C: Simon Jeffes
+Z: Raymiond of Gladden
+M: 4/4
+Q: 180
+K: C maj
+
++mf+ z2 D, z [D^FA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z A, z [A^ce] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z A, z [A^ce] z D, z |
+[D^FA] z A, z [A^ce] z A, z |
+% Bar 10 (0:18)
+[A^ce] z D, z [D^FA] z D, z |
+[D^FA] z G, z [GBd] z G, z |
+[GBd] z D, z [D^FA] z D, z |
+[D^FA] z A, z [A^ce] z A, z |
+[A^ce] z D, z [D^FA] z D, z |
+[D^FA] z G, z [GBd] z G, z |
+[GBd] z D, z [D^FA] z D, z |
+[D^FA] z F, z [=FAc] z F, z |
+[FAc] z F, z [FAc] z A, z |
+[A^ce] z F, z [FA=c] z F, z |
+% Bar 20 (0:38)
+[FAc] z F, z [FAc] z A, z |
+[A^ce] z F, z [FA=c] z F, z |
+[FAc] z F, z [FAc] z A, z |
+[A^ce] z F, z [FA=c] z F, z |
+[FAc] z F, z [FAc] z A, z |
+[A^ce] z ^A, z [^Adf] z A, z |
+[^Adf] z ^A, z [Adf] z A, z |
+[^Adf] z E, z [EGA] z E, z |
+[EG^A] z E, z [EGA] z E, z |
+[EG^A] z A, z [=A^ceg] z A, z |
+% Bar 30 (0:58)
+[A^ceg] z A, z [Aceg] z A, z |
+[A^ceg] z A, z [Aceg] z A, z |
+[A^ceg] z A, z [Aceg] z A, z |
+[A^ceg] z D, z [D^FA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z A, z [A^ce] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+[D^FA] z D, z [DFA] z D, z |
+% Bar 40 (1:18)
+[D^FA] z A, z [A^ce] z D, z |
+[D^FA] z A, z [A^ce] z A, z |
+[A^ce] z D, z [D^FA=c] z D, z |
+[D^FAc] z G, z [GBd] z A, z |
+[A^ce] z D, z [D^FA] z D, z |
+[D^FA] z A, z [A^ce] z A, z |
+[A^ce] z D, z [D^FA=c] z D, z |
+[D^FAc] z G, z [GBd] z A, z |
+[A^ce] z D, z [D^FA] z D, z |
+[D^FA] z7 |]
+

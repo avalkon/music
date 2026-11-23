@@ -1,0 +1,409 @@
+N: TS  3,   9  10   1
+X: 9
+%%Orig filename was SleepyMaggie2Ages.abc
+%abc-2.1
+%%song-title       Sleepy Maggie
+%%song-composer    Barry Taylor
+%%song-duration    1:56
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:57:27
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Sleepy Maggie (1:56) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 4/4
+Q: 204
+K: C maj
+L: 1/8
+
++f+ ^f2 d e f b d e |
+^f2 d f e a ^c e |
+^f2 d e f b d e |
+^f ^g a f e a ^c e |
+[^F2-B2-d2^f2] [F-B-d] [F-B-e] [F-B-f] [F-B-b] [F-B-d] [FBe] |
+[^F2-B2-d2^f2] [F-B-d] [FBf] [E-A-^c-e] [E-A-ca] [E-A-c] [EAe] |
+[^F2-B2-d2^f2] [F-B-d] [F-B-e] [F-B-f] [F-B-b] [F-B-d] [FBe] |
+[E-A-^c-^f] [E-A-c-^g] [E-A-c-a] [E-A-c-f] [E-A-c-e] [E-A-ca] [E-A-c] [EAe] |
+[B,-^F-B-d-^f] [B,-F-B-db] [B,-F-B-d] [B,-F-B-b] [B,-F-B-f] [B,-F-B-b] [B,-F-B-d] [B,-FBe] |
+% Bar 10 (0:11)
+[B,-^F-B-d-^f] [B,-F-B-db] [B,-F-B-d] [B,FBb] [A,-E-A-^c-e] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-db] [B,-F-B-d] [B,-F-B-b] [B,-F-B-f] [B,-F-B-b] [B,-F-B-d] [B,FBe] |
+[A,-E-A-^c-^f] [A,-E-A-c-^g] [A,-E-A-c-a] [A,-E-A-c-f] [A,-E-A-c-e] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-db] [B,-F-B-d] [B,-F-B-b] [B,-F-B-f] [B,-F-B-b] [B,-F-B-d] [B,-FBe] |
+[B,-^F-B-d-^f] [B,-F-B-db] [B,-F-B-d] [B,FBb] [A,-E-A-^c-e] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-db] [B,-F-B-d] [B,-F-B-b] [B,-F-B-f] [B,-F-B-b] [B,-F-B-d] [B,FBe] |
+[A,-E-A-^c-^f] [A,-E-A-c-^g] [A,-E-A-c-a] [A,-E-A-c-f] [A,-E-A-c-e] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-d] [B,-F-B-b] [B,-F-B-b] [B,-F-B-f] [B,-F-B-d] [B,-FBe] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-d] [B,FBb] [A,-E-A-^c-a] [A,-E-A-ce] [A,-E-A-c] [A,EAe] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-d] [B,-F-B-b] [B,-F-B-b] [B,-F-B-f] [B,-F-B-d] [B,FBe] |
+% Bar 20 (0:23)
+[B,-^F-B-d-] [B,-F-B-d-b] [B,-F-B-d-a] [B,FBd^f] [A,-E-A-^c-e] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-d] [B,-F-B-b] [B,-F-B-b] [B,-F-B-f] [B,-F-B-d] [B,-FBe] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-d] [B,FBb] [A,-E-A-^c-a] [A,-E-A-ce] [A,-E-A-c] [A,EAe] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-d] [B,-F-B-b] [B,-F-B-b] [B,-F-B-f] [B,-F-B-d] [B,FBe] |
+[B,-^F-B-d-] [B,-F-B-d-b] [B,-F-B-d-a] [B,FBd^f] [A,-E-A-^c-e] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-f] [B,-F-B-db] [B,-F-B-d] [B,-FBe] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-b] [B,FBdb] [A,-E-A-^c-a] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-a] [B,-F-B-d-b] [B,-F-B-d-^g] [B,FBdb] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-^g] [B,FBdb] [A,-E-A-^c-a] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-f] [B,-F-B-db] [B,-F-B-d] [B,-FBe] |
+% Bar 30 (0:35)
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-b] [B,FBdb] [A,-E-A-^c-a] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-b] [B,-F-B-d-a] [B,-F-B-d-b] [B,-F-B-d-^g] [B,FBdb] |
+[B,-^F-B-d-^f] [B,-F-B-d-b] [B,-F-B-d-^g] [B,FBdb] [A,-E-A-^c-a] [A,-E-A-ca] [A,-E-A-c] [A,EAe] |
++mf+ [B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,-Fce] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdf] [A,-E-A^c-e] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,Fce] |
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,-Fce] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdf] [A,-E-A^c-e] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,Fce] |
+% Bar 40 (0:46)
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,FBfb] [A,-E-A^c-ea] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,F^ce] |
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,FBfb] [A,-E-A^c-ea] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,F^ce] |
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,-F^ce] |
+% Bar 50 (0:58)
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdb] [A,-E-A-^c-ea] [A,-E-A-cea] [A,-E-A-ce] [A,EAea] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,F^ce] |
+[A,-E-A-^c-db] [A,-E-A-c-gb] [A,-E-A-c-^fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,-F^ce] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdb] [A,-E-A-^c-ea] [A,-E-A-cea] [A,-E-A-ce] [A,EAea] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,F^ce] |
+[B,-^F-B-d-b] [B,-F-B-d-gb] [B,-F-B-d^fa] [B,FBdf] [A,-E-A^c-e] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bdfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,FBdfb] [A,-E-A^c-a] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bd-fb] [B,-F-d-fa] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] |
+% Bar 60 (1:10)
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] [A,-E-A^c-fa] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bdfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,FBdfb] [A,-E-A^c-a] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bd-fb] [B,-F-d-fa] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] [A,-E-A^c-fa] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,-Fce] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdf] [A,-E-A^c-e] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,Fce] |
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,-Fce] |
+% Bar 70 (1:22)
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdf] [A,-E-A^c-e] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-B-^ce] [B,-F-Bdf] [B,-F-Bfb] [B,-F-db] [B,Fce] |
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,FBfb] [A,-E-A^c-ea] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,F^ce] |
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,FBfb] [A,-E-A^c-ea] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bdfb] [B,-F-db] [B,-F-Bfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,F^ce] |
+% Bar 80 (1:33)
+[A,-E-A-^c-d^f] [A,-E-A-c-e^g] [A,-E-A-c-fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,-F^ce] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdb] [A,-E-A-^c-ea] [A,-E-A-cea] [A,-E-A-ce] [A,EAea] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,F^ce] |
+[A,-E-A-^c-db] [A,-E-A-c-gb] [A,-E-A-c-^fa] [A,-E-A-cdf] [A,-E-Ace] [A,-E-Aea] [A,-E-ca] [A,Ece] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,-F^ce] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,FBdb] [A,-E-A-^c-ea] [A,-E-A-cea] [A,-E-A-ce] [A,EAea] |
+[B,2-^F2-B2-d2^f2] [B,-F-B-db] [B,-F-Bdb] [B,-F-Bfb] [B,-F-df] [B,-F-db] [B,F^ce] |
+[B,-^F-B-d-b] [B,-F-B-d-gb] [B,-F-B-d^fa] [B,FBdf] [A,-E-A^c-e] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bdfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+% Bar 90 (1:45)
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,FBdfb] [A,-E-A^c-a] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bd-fb] [B,-F-d-fa] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] [A,-E-A^c-fa] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bdfb] [B,-F-df] [B,-F-Bfb] [B,-F-db] [B,-F^ce] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,FBdfb] [A,-E-A^c-a] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-fb] [B,-F-Bd-fb] [B,-F-d-fa] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] |
+[B,-^F-Bd-^f] [B,-F-Bd-fb] [B,-F-d-e^g] [B,FBdfb] [A,-E-A^c-fa] [A,-E-Acea] [A,-E-ca] [A,Ece] |
+[B,8-B8-d8-^f8-] |
+[B,8B8d8^f8] |
+z4 |]
+
+X: 10
+%%Orig filename was SleepyMaggie2Drums.abc
+%abc-2.1
+%%song-title       Sleepy Maggie
+%%song-composer    Barry Taylor
+%%song-duration    1:56
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:57:27
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Sleepy Maggie (1:56) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 4/4
+Q: 204
+K: C maj
+L: 1/8
+
++p+ [B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 10 (0:11)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 20 (0:23)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 30 (0:35)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 40 (0:46)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 50 (0:58)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 60 (1:10)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 70 (1:22)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 80 (1:33)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+% Bar 90 (1:45)
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+[B,2a2] z ^d B,2 z2 |
+[B,2a2] z ^d B, d B, d |
+B,/ ^d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ |
+B,/ ^d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ B,/ d/ |
+z4 |]
+
+X: 1
+%%Orig filename was SleepyMaggie2Flute.abc
+%abc-2.1
+%%song-title       Sleepy Maggie
+%%song-composer    Barry Taylor
+%%song-duration    1:56
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:57:27
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Sleepy Maggie (1:56) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 4/4
+Q: 204
+K: C maj
+L: 1/8
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:35)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:46)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^F2 D E F B, D E |
+^F2 D F E A, ^C E |
+^F2 D E F B, D E |
+^F ^G A F E A, ^C E |
+^F2 D E F B, D E |
+% Bar 70 (1:22)
+^F2 D F E A, ^C E |
+^F2 D E F B, D E |
+^F ^G A F E A, ^C E |
+^F B, D B, F B, D E |
+^F B, D B, E A, ^C E |
+^F B, D B, F B, D E |
+^F ^G A F E A, ^C E |
+^F B, D B, F B, D E |
+^F B, D B, E A, ^C E |
+^F B, D B, F B, D E |
+% Bar 80 (1:33)
+^F ^G A F E A, ^C E |
+^F2 D B B, F D E |
+^F2 D B A, E ^C E |
+^F2 D B B, F D E |
+D B A ^F E A, ^C E |
+^F2 D B B, F D E |
+^F2 D B A, E ^C E |
+^F2 D B B, F D E |
+D B A ^F E A, ^C E |
+^F B, B B, F B, D E |
+% Bar 90 (1:45)
+^F B, B B, A A, ^C E |
+^F B, B B, A B, ^G B, |
+^F B, ^G B, A A, ^C E |
+^F B, B B, F B, D E |
+^F B, B B, A A, ^C E |
+^F B, B B, A B, ^G B, |
+^F B, ^G B, A A, ^C E |
+B8- |
+B8 |
+z4 |]
+

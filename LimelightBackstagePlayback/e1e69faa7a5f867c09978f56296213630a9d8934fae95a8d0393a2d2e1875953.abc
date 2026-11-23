@@ -1,0 +1,559 @@
+N: TS  3,   9  10   1
+X: 9
+%%Orig filename was MoreThanWords3Ages.abc
+%abc-2.1
+%%song-title       More Than Words
+%%song-composer    Extreme
+%%song-duration    5:19
+%%song-transcriber Trystan Laryssa
+%%abc-creator Maestro v3.1.5
+%%export-timestamp 2024-04-11 01:17:34
+%%swing-rhythm false
+%%mix-timings true
+%%abc-version 2.1
+
+T: More Than Words (5:21) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Extreme
+Z: Trystan Laryssa
+M: 4/4
+Q: 93
+K: C maj
+L: 1/8
+
++p+ G,- +mp+ [G,Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGdg] z C [C/G/d/g/] z/ [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGd] z C [C/G/d/g/] z/ [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+% Bar 10 (0:23)
+[CGdg] [CGd] z C [C/G/d/g/] z/ [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGd] z C [CGdg] [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [E,-G-B-e-] |
+[E,GBe] [GB] z [B,2G2B2] [GB] z [A,-G-c-] |
+[A,Gc] [A,Gc] z A, [A,/G/c/g/] z/ [Gc] z A, |
+[D2c2^f2] z [D2d2f2] [A2d2f2] [G,-d-g-] |
+% Bar 20 (0:49)
+[G,dg] [G,2G2d2] [^F,2A2d2] [F,2d2e2] [E,-B-e-] |
+[E,Be] [GB] z [B,2E2G2] [B,EG] z [A,-G-c-] |
+[A,Gc] [A,Gc] z A, [A,/c/g/] z/ [A,Gc] z A, |
+[D2d2^f2] z [D2d2f2] [A2d2f2] [G,-G-B-=f-] |
+[G,GBf] [G,GBf] z B,2 [Gdf] z [C-c-e-] |
+[Cce] [Ec] z C [CGc] [CGc] z [C-^d-g-] |
+[C^dg] [Cdg] z C [Cdg] [Cdg] z G,- |
+G, [G,Gdg] z G, [G,Gd] G, ^F, [E,-G-B-] |
+[E,GB] [B,dg] z [D2d2g2] [B,dg] z2 |
+[A,/3-E/3-] [A,/3-E/3-G/3-] [A,/3-E/3-G/3-c/3-] [A,3E3G3-c3-] [G/3c/3-] c/3 z/3 z3 |
+% Bar 30 (1:14)
+D//- [D//-A//-] [D//-A//-c//-] [D13/4A13/4-c13/4-^f13/4-] [A//c//-f//-] [c//f//-] f// z13/4 |
+G, [Gdg] z [B,2G2d2g2] [B,Gdg] z [G,-G-d-g-] |
+[G,Gdg] [G,Gdg] z [B,2G2d2g2] [B,Gdg] z E, |
+[^F,2A2d2] [F,Ade] z [F,Ad] [F,Ade] z [E,-B-e-] |
+[E,Be] [B,GB] z [B,Bd] ^F [d^f] z [C-G-c-] |
+[CGc] [Cce] z C [CGc] [CGc] z [C-G-c-] |
+[CGc] [CGc] z [C2G2c2] [B,Gd] z [A,-G-c-] |
+[A,Gc] [A,Gc] z A, [A,Gc] [A,2G2c2] [D-c-^f-] |
+[Dc^f] [Acf] z [Dcf] z [Acf] z [G,-d-g-] |
+[G,dg] [Ddg] z [B,2G2d2] [dg] z [G,-D-d-] |
+% Bar 40 (1:40)
+[G,Dd] [dg] z [B,2G2d2] [dg] z E, |
+[^F,2A2d2] [Ade] z [F,Ad] [F,de] z [E,-B-e-] |
+[E,Be] [B,GB] z [B,Bd] ^F [d^f] z [C-G-c-] |
+[CGc] [ce] z C [CGc] [CGc] z [C-G-c-] |
+[CGc] [CGc] z [C2G2c2] [B,Gd] z [A,-G-c-] |
+[A,Gc] [EA] z A, [A,cg] [A,3G3c3] |
+D//- [D//-A//-] [D//-A//-c//-] [D13/4A13/4-c13/4-^f13/4-] [A//c//-f//-] [c//f//-] f// z13/4 |
+G, [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGdg] z C [CGdg] [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,Gcg] [A,Gcg] z [C-G-c-] |
+% Bar 50 (2:06)
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-EG-d-] |
+[CGd] [CGd] z C [CGdg] [CGd] z2 |
+[A,//-E//-] [A,31/4E31/4G31/4-c31/4-e31/4] |
+[D/3-G/3A/3-c/3] [D2/3-A2/3-c2/3-^f2/3-] [D3-A3c3-f3-] [D/3-c/3f/3] D2/3 z3 |
+G, [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGd] z C [C/G/d/g/] z/ [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+% Bar 60 (2:32)
+[CGdg] [CGd] z C [CGdg] [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [E,-G-B-e-] |
+[E,GBe] [GB] z [B,2G2B2] [GB] z [A,-G-c-] |
+[A,Gc] [A,Gc] z A, [A,/G/c/g/] z/ [Gc] z A, |
+[D2c2^f2] z [D2d2f2] [A2d2f2] +f+ [G,dg] |
++mp+ G,// z3/4 +f+ [G,Gd] z [^F,Ad] z [F,2d2e2] [E,-B-e-] |
+[E,2B2e2] [E,/B/e/] z9/2 +mp+ [A,-G-c-] |
+[A,Gc] [A,Gc] z A, [A,/c/g/] z/ [A,Gc] z A, |
+[D2d2^f2] z [D2d2f2] [A2d2f2] [G,-G-B-=f-] |
+% Bar 70 (2:58)
+[G,GBf] [G,GBf] z B,2 [Gdf] z [C-c-e-] |
+[Cce] [Ec] z C [CGc] [CGc] z [C-^d-g-] |
+[C^dg] [Cdg] z C [Cdg] [Cdg] z G,- |
+G, [G,Gdg] z G, [G,Gd] G, ^F, [E,-G-B-] |
+[E,GB] [B,dg] z [D2d2g2] [B,dg] z2 |
+[A,/3-E/3-] [A,/3-E/3-G/3-] [A,/3-E/3-G/3-c/3-] [A,3E3G3-c3-] [G/3c/3-] c/3 z/3 z3 |
+[D//-A//-] [D7/4-A7/4-c7/4-^f7/4-] [D2/3-A2/3-c2/3f2/3-] [D/3-A/3f/3-] [D/3-f/3] D2/3 [D//c//-] [c9/4^d9/4-a9/4-] [d//-a//] d/ z3/4 |
+G, [Gdg] z [B,2G2d2g2] [B,Gdg] z [G,-G-d-g-] |
+[G,Gdg] [G,Gdg] z [B,2G2d2g2] [B,Gdg] z E, |
+[^F,2A2d2] [F,Ade] z [F,Ad] [F,Ade] z [E,-B-e-] |
+% Bar 80 (3:23)
+[E,Be] [B,GB] z [B,Bd] ^F [d^f] z [C-G-c-] |
+[CGc] [Cce] z C [CGc] [CGc] z [C-G-c-] |
+[CGc] [CGc] z [C2G2c2] [B,Gd] z [A,-G-c-] |
+[A,Gc] [A,Gc] z A, [A,Gc] [A,2G2c2] [D-c-^f-] |
+[Dc^f] [Acf] z [Dcf] z [Acf] z [G,-d-g-] |
+[G,dg] [Ddg] z [B,2G2d2] [dg] z [G,-D-d-] |
+[G,Dd] [dg] z [B,2G2d2] [dg] z E, |
+[^F,2A2d2] [Ade] z [F,Ad] [F,de] z [E,-B-e-] |
+[E,Be] [B,GB] z [B,Bd] ^F [d^f] z [C-G-c-] |
+[CGc] [ce] z C [CGc] [CGc] z [C-G-c-] |
+% Bar 90 (3:49)
+[CGc] [CGc] z [C2G2c2] [B,Gd] z [A,-G-c-] |
+[A,Gc] [EA] z A, [A,cg] [A,3G3c3] |
+D//- [D//-A//-] [D//-A//-c//-] [D13/4A13/4-c13/4-^f13/4-] [A//c//-f//-] [c//f//-] f// z13/4 |
+G, [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGdg] z C [CGdg] [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-g-] |
+[CGdg] [CGd] z C [CGdg] [CGd] z [A,-G-c-] |
+[A,Gc] [Gce] z A, [A,/G/c/g/] z/ [A,Gc] z [C-G-c-] |
+% Bar 100 (4:15)
+[CGc] [Gce] z [Dd-^f-] [A-df] [Adg] z [G,-G-d-g-] |
+[G,Gdg] [Gdg] z [B,2G2d2g2] [Gdg] z [C-G-d-] |
+[CGd] [CGd] +f+ [C/G/d/] z5/2 +mp+ [CGd] z [A,-G-c-e-] |
+[A,2G2c2e2] +f+ [A,Gce] z +mp+ [A,Ac^f] [A,Ac] z2 |
+z [CGce] z +f+ [D2A2d2^f2] +mp+ [DAdg] z +p+ [G,-G-d-] |
+[G,Gd] +mp+ [G,Gd] z [B,2d2g2] [B,Gd] z [C-G-d-] |
+[CGd] [EGd] z C [C/G/d/g/] z/ [CGd] z [A,-E-G-c-] |
+[A,EGc] [EGc] z A, [G/c/g/] z/ [Gc] z [C-G-c-] |
+[CGc] [CGc] z [Dd-^f-] [A2d2f2] +p+ e/ f/ e |
++mp+ G, G d G g d G G, |
+% Bar 110 (4:41)
+^F, A d A e d A F, |
+F, A d A e d A F, |
+%%Q: 90
+E,31/30 B,31/30 E31/30 A31/30
+	%%Q: 85
+	B93/85 e93/85 B93/85 A93/85 |
+%%Q: 80
+A,93/80 E93/80 G93/80 c93/80
+	%%Q: 70
+	e93/70 c93/70 G93/70 E93/70 |
+%%Q: 50
+D93/50 ^f93/50
+	%%Q: 60
+	g31/20 a31/20
+	%%Q: 20
+	a93/80 a93/80 g93/80
+	%%Q: 25
+	f93/100 g93/100 a93/200-
+	%%Q: 35
+	a93/280
+	%%Q: 36
+	g31/48 a31/48 g31/48
+	%%Q: 50
+	f93/200
+	%%Q: 35
+	g93/140 a93/140
+	%%Q: 55
+	f93/220
+	%%Q: 60
+	a31/80 g31/80 f31/80 |
+g31/80 a31/80 g31/80
+	%%Q: 70
+	a93/280 g93/280 ^f93/280 g93/280 a93/280
+	%%Q: 80
+	f93/320 a93/320 g93/320 f93/320
+	%%Q: 90
+	g31/120 a31/120 e31/120 a31/120 g31/120 f31/120
+	%%Q: 100
+	g93/400 a93/400 d93/400 a93/400
+	%%Q: 110
+	g93/440 f93/440 g93/440 a93/440 b93/440 a93/440 g93/440 f93/440 g93/440 a93/440 |
+%%Q: 120
+b31/160 a31/160 g31/160 ^f31/160 e31/160 f31/160 e31/160 d31/160 d31/160 B31/160 d31/160 B31/160 G31/160 ^F31/160 E31/160 D31/160
+	%%Q: 160
+	F93/320 G93/320 A93/320 G93/320 F93/320 E93/320 D93/320 ^C93/320 |
+%%Q: 60
+[A217/20-d217/20-^f217/20-b217/20-]
+	%%Q: 20
+	[A93/20d93/20f93/20b93/20] |
+%%Q: 85
+G,93/85 D93/85 G93/85 d93/85 g93/85 d93/85 G93/85 B,93/85 |
++f+ [C93/85-d93/85] +mp+ [C93/85-G93/85] [C93/85-g93/85] [C93/85d93/85] +f+ [B,93/85-d93/85] +mp+ [B,93/85-G93/85] [B,93/85-g93/85] [B,93/85d93/85] |
+% Bar 120 (5:13)
++f+ [^A,93/85-d93/85] +mp+ [A,93/85-G93/85] [A,93/85-g93/85] [A,93/85d93/85]
+	%%Q: 25
+	=A,93/100- A,31/50 C31/100- C93/100- [C31/100E31/100-] E31/50-
+	%%Q: 55
+	E93/440 z93/440 c93/220- c31/110 e31/55- [e93/440a93/440-] a651/440
+	%%Q: 105
+	g31/140 a31/140
+	%%Q: 15
+	g31/10 |
+%%Q: 95
+[G,744/95B,744/95D744/95B744/95d744/95g744/95] |]
+
+X: 10
+%%Orig filename was MoreThanWords3Drums.abc
+%abc-2.1
+%%song-title       More Than Words
+%%song-composer    Extreme
+%%song-duration    4:36
+%%song-transcriber Trystan Laryssa
+%%abc-creator Maestro v3.1.5
+%%export-timestamp 2024-04-11 01:18:30
+%%swing-rhythm false
+%%mix-timings true
+%%abc-version 2.1
+
+T: More Than Words (5:21) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+C: Extreme
+Z: Trystan Laryssa
+M: 4/4
+Q: 93
+K: C maj
+L: 1/8
+
++mp+ z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 10 (0:23)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+% Bar 20 (0:49)
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+z2 [^C,^D,] z3 [C,D,] z |
+z8 |
+% Bar 30 (1:14)
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z6 [^C,^D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+z2 [^C,^D,] z [C,D,] z [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 40 (1:40)
+z2 [^C,^D,] z3 [C,D,] z |
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 50 (2:06)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,2D,2] |
+z8 |
+z5 [C^C] [=C2^C2] |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 60 (2:32)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+[^C,^D,^D] z [C,D,] z [C,D,] z [C,D,] z |
+z4 ^D, D, [C/-^D/] C/ z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 70 (2:58)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+z2 [^C,^D,] z3 [C,D,] z |
+z8 |
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z6 [^C,^D,] z |
+% Bar 80 (3:23)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z [C,D,] z [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 90 (3:49)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z5 |
+z8 |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+% Bar 100 (4:15)
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z4 [^C,^D,] z [C,D,] z |
+z6 [^C,^D,] z |
+[^C,^D,] z [C,D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z2 [^C,^D,] z3 [C,D,] z |
+z8 |]
+
+X: 1
+%%Orig filename was MoreThanWords3Flute.abc
+%abc-2.1
+%%song-title       More Than Words
+%%song-composer    Extreme
+%%song-duration    5:18
+%%song-transcriber Trystan Laryssa
+%%abc-creator Maestro v3.1.5
+%%export-timestamp 2024-04-11 01:18:04
+%%swing-rhythm false
+%%mix-timings true
+%%abc-version 2.1
+
+T: More Than Words (5:21) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Extreme
+Z: Trystan Laryssa
+M: 4/4
+Q: 93
+K: C maj
+L: 1/8
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 B, D D B, |
+% Bar 10 (0:23)
+D/ ^D// E9/4 =D D2 z D |
+D2 D/3 E2/3 D2 D z D- |
+D D E D C C2 C |
+D2 z B, B, D D B, |
+D/3 E2/3- E2 D D3 z |
+D2 D// E3/4 D2 D z D- |
+D D E D C C B, B,- |
+B,2 z2 A, B,3 |
+B,/3 C2/3- C2 C/ B,/ A,4 |
+D2 D// E3/4 D C C B, B,- |
+% Bar 20 (0:49)
+B, B,2 B,2 D2 G2/3 ^F/3- |
+^F// G7/4 z2 [CE] [C2E2] [C/3-D/3] [C2/3-E2/3-] |
+[C7/2E7/2] [B,//-^D//] [B,//-=D//] [B,//^C//] [^A,//=C//-] [=A,5/2C5/2] [A,C] |
+[D2^F2] [DF] [D2E2] [D-F] [DG] [D-=F-] |
+[DF] [D2F2] [D2F2] [EG] [DF] [DF] |
+[C2E2] z2 D C2 [C/3-F/3] [C/3-^F/3] [C/3-G/3-] |
+[C/-G/] [C//-^F//] [C//=F//] [G,2^D2] [G,2=D2] [A,2C2] [B,C] |
+C// [B,//-D//] [B,/C/] [G,2B,2] z B, B,2 [B,-D-] |
+[B,D] [B,D] [C4E4] z [CE] |
+[B,//D//] [C7/4-E7/4-] [C2/3E2/3-] [B,/3-E/3] [B,//^D//-] [^A,//-D//] [A,//=D//] [=A,//^C//] [G,//^A,//] [=A,15/4=C15/4] |
+% Bar 30 (1:14)
+[D/3-E/3] [D2/3-^F2/3-] [D9/4F9/4] [C3/4D3/4] [B,3D3] [G,B,] |
+[G,4B,4] B,4 |
+G/3 A2/3- A3 G3 E3/4 F// |
+^F4 D D2 G |
+A G2 A2 A B G- |
+G2 z2 [CE] [C2E2] [C-E-] |
+[C2E2] [CE] [B,/3D/3] [C2/3-E2/3] [C//^D//] [B,3/4=D3/4] [A,2C2] [C/-E/] [C//^D//] [B,//-=D//] |
+[B,//E//-] [C7/4E7/4] z2 [CE] [C2E2] [D-^F-] |
+[D^F] [C/3=F/3] [^C/3^F/3-] [D/3-F/3-] [DF] [=C/3F/3-] [D2/3-F2/3-] [DF] [CE-] [B,E] [B,-D-] |
+[B,4D4] +p+ B,4 |
+% Bar 40 (1:40)
++f+ A4 G3 E |
+^F4 D D2 G |
+A G2 A2 A B G- |
+G2 z2 [B,/3E/3-] +mf+ [C2/3E2/3] +f+ [C2E2] [C-E-] |
+[CE] [C2E2] [C/3-D/3] [C2/3E2/3-] +mf+ [B,//-E//] +f+ [B,3/4D3/4] [A,2C2] [C3/4E3/4] [B,//D//] |
+[C2E2] z2 [CE] [C2E2] [CE] |
+[D3^F3] [D2F2] [D-F] [DG] [D/-F/] [D/-G/-] |
+[D8-G8] |
+[C2D2-] [B,D-] [A,-D] A, [B,C] [B,C] C//- [C3/4D3/4] |
+[B,2D2] [A,E] D C C B, B,- |
+% Bar 50 (2:06)
+B,2 z D2 [C^F] [B,G] [B,/-F/] [B,/-G/-] |
+[B,8G8] |
+C2 B, A,2 B, C C3/4 ^C// |
+D8 |
+z8 |
+z4 B, D D B, |
+D E2 D D2 z2 |
+[B,2D2] [B,//-D//] [B,//E//-] +mf+ [C/E/] +f+ [B,2D2] [B,D] z [B,-D-] |
+[B,D] [B,D] [CE] [B,D] [A,C] [A,2C2] [A,3/4-C3/4] [A,//^C//] |
+[B,2D2] z2 B, D D2 |
+% Bar 60 (2:32)
+E2 D// E3/4 D- D D z [B,-D-] |
+[B,D] [D2G2] [D3^F3] [CE] [B,-D-] |
+[B,D] [B,/3-C/3] [B,2/3-D2/3-] [B,D] [A,/3C/3] [^A,/3D/3-] +mf+ [B,/3D/3] +f+ [=A,C] [A,C] [G,B,] [G,-B,-] |
+[G,4B,4] [G,//-A,//] [G,15/4B,15/4] |
+[A,3C3] C/ B,/ [^F,4A,4] |
+[B,2D2] [C//-D//] [C3/4E3/4] [B,D] [A,C] [A,C] [G,B,] [G,-B,-] |
+[G,B,] [G,3/2-B,3/2] [G,//-^A,//] [G,//=A,//] [G,2B,2] [B,2D2] [E3/4-G3/4] [E//-^F//] |
+[E2G2] z2 [CE] [C2E2] [B,/-D/] [B,//E//-] +mf+ [C//-E//-] |
+[C3-E3-] [C/3E/3] +f+ [B,2/3-^D2/3] [B,//=D//] [^A,//C//-] +mf+ [=A,5/2C5/2] +f+ [A,//-^A,//] [=A,3/4C3/4] |
+[D2^F2] [DF] [D2E2] [D-F] [DG] [D//-F//] [D3/4-=F3/4-] |
+% Bar 70 (2:58)
+[DF] [D2F2] [D2F2] [EG] [DF] [C//^D//] [=D3/4F3/4] |
+[C2E2] z2 D C2 [C/-F/] [C//-^F//] [C//-G//-] |
+[C/-G/] [C//-^F//] [C//=F//] [G,2^D2] [G,2=D2] [A,2C2] [B,-C-] |
+[B,//C//] [C//D//] C/ [G,2B,2] z [G,B,] [G,2B,2] [B,-D-] |
+[B,D] [B,D] [C4E4] z [C//-^F//] [C3/4E3/4] |
+[C//-D//] [C//-^D//] [C5/2-E5/2] [C/-D/] [C//-=D//] [C//^C//] [A,//-^A,//] [=A,15/4=C15/4] |
+[D/3-E/3] [D2/3-^F2/3-] [D3F3] [C4^D4] |
+[CG-] +mf+ [B,3G3-] +f+ [B,2-G2] B,2 |
+G// A15/4 G3 E |
+^F4 D D2 [GB] |
+% Bar 80 (3:23)
+[Ac] [G//-c//] +mf+ [G7/4B7/4] +f+ [A2c2] [Ac] [Bd] [G3/4-B3/4] +mf+ [G//-c//-] |
+[G2c2] z2 +f+ [CE] [C2E2] [B,/3E/3-] +mf+ [C2/3-E2/3-] |
+[C2E2] +f+ [CE] [B,/3D/3] [C2/3-E2/3] [C/3^D/3] [B,2/3=D2/3] [A,2C2] [C/-E/] [C//^D//] [B,//=D//] |
+[C2E2] z2 [CE] [C2E2] [D-^F-] |
+[D^F] [D//-=F//] [D7/4^F7/4] [D2F2] [CE-] +mf+ [B,E] +f+ [B,-D-] |
+[B,4D4] B,4 |
+A4 A B2 C3/4 ^C// |
+D4 D D2 G |
+A G2 [^F2A2] [D-A] [DB] [E-G-] |
+[E2G2] z2 [CE] [C2E2] [C-E-] |
+% Bar 90 (3:49)
+[CE] [C2E2] [B,/3D/3] [C/3-^D/3] [C/3-E/3-] [C//E//] [B,3/4=D3/4] [A,2C2] [C/-E/] [C//D//] [B,//E//-] |
++mf+ [C2E2] z2 +f+ [CE] [C2E2] [C/E/] [^C//F//] [D//-^F//-] |
+[D3^F3] [D2F2] [D-F] [D2G2] |
+z2 [D6-G6-] |
+[C-DG-] +mf+ [C//-^D//G//-] [C3/4E3/4-G3/4-] +f+ [B,E-G-] [A,2E2-G2] [B,E-] [CE-] [=D-E] |
+D2 E D C C B, B,- |
+B,2 z D2 [C^F] [B,G] [B,-G-] |
+[B,8G8] |
+C2 B, A,2 B, C C |
+D2 E D C C B, B,- |
+% Bar 100 (4:15)
+B,2 z D2 [C^F] [B,G] [B,-G-] |
+[B,8G8] |
+z2 B, A,2 [G,-B,] [G,C] [E,-D-] |
+[E,2D2] E D C C B, C- |
+C2 B,2 [A,D] [^F,^F] [G,G] [G,-G-] |
+[G,8G8] |
+C2 B, A,2 [G,-B,] [G,C] [E,-D-] |
+[E,4D4] z3 C- |
+C C B,- [B,D-] D [A,^F] [B,G-] +mf+ [G,-G] |
++f+ [G,8G8] |
+% Bar 110 (4:41)
+A8 |
+[B2-d2-] [B2/3d2/3] [c/3-^d/3] [c/3e/3] [B2/3=d2/3] [A2c2] [^G2-B2-] |
+%%Q: 90
+[^G31/10B31/10] [A31/30-c31/30-]
+	%%Q: 85
+	[A186/85c186/85] [B93/85d93/85-] +mf+ [A93/340-d93/340] +f+ [A279/340-c279/340-] |
+%%Q: 80
+[A93/40c93/40] z93/40
+	%%Q: 70
+	z93/70 [E93/70G93/70] [G93/35B93/35] |
+%%Q: 50
+[^F93/25-A93/25-]
+	%%Q: 60
+	[F31/10A31/10]
+	%%Q: 20
+	z279/80
+	%%Q: 25
+	z93/100 z279/200
+	%%Q: 35
+	z93/280
+	%%Q: 36
+	z31/16
+	%%Q: 50
+	z93/200
+	%%Q: 35
+	z93/70
+	%%Q: 55
+	z93/220
+	%%Q: 60
+	z93/80 |
+z93/80
+	%%Q: 70
+	z93/56
+	%%Q: 80
+	z93/80
+	%%Q: 90
+	z31/20
+	%%Q: 100
+	z93/100
+	%%Q: 110
+	z93/44 |
+%%Q: 120
+z31/10
+	%%Q: 160
+	z93/40 |
+%%Q: 60
+z31/5 E31/10 ^F31/20
+	%%Q: 20
+	G93/20 |
+%%Q: 85
+[G744/85B744/85] |
+[G372/85c372/85] [G372/85B372/85] |
+% Bar 120 (5:13)
+[G372/85^A372/85]
+	%%Q: 25
+	[G93/25-=A93/25-]
+	%%Q: 55
+	[G186/55-A186/55-]
+	%%Q: 105
+	[G31/70-A31/70-]
+	%%Q: 15
+	[G31/10A31/10] |
+%%Q: 95
+z744/95 |]
+

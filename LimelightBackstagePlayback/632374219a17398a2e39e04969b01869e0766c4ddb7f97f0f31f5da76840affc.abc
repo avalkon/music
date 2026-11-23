@@ -1,0 +1,25 @@
+X:1
+T: Rainbow Connection (solo Harp)
+C: by Paul Williams and Kenneth Ascher   
+N: arranged by Nihhal   
+Q:1/4=110     
+M:3/4     
+L:1/8     
+K:G
+%%MIDI program 1 46
+G4/3d2/3 [b4/3g4/3]d2/3 [b4/3g4/3]d2/3 |G4/3e2/3 g//c'7 |G4/3d2/3 [g4/3b4/3]d2/3 [b4/3g4/3]d2/3 |G4/3e2/3 g//c'6 |[B2G,2] [d2D2G2B2] [g2D2G2B2] |[E4/3a4/3]b2/3 [B2e2G2b4] [d2B2G2] |[A,2c2] [c2E2G2d2] [G2E2g2c2] |[D2g2e2] [d2f2a2A2] [AF2z] A |
+[G,2B2] [D2B2G2d2] [d2A2F2f2] |[g2E2] [G2d2B2] [G2D2d2B2] |[C2e6-] [d2G2E2] [G2E2d2] |[D2e2] [G2E2c2] [D2A2G2] |[B2G,2] [D2B2G2d2] [D2G2B2g2] |[a4/3f4/3E4/3][g2/3b2/3] [G2B2d2b2] [zBG2d2] B |[A,2c2] [d2c2E2G2] [E2G2g2c2] |
+[D2e2g2] [A2a2d2f2] [F2Az] A |[G,2B2] [B2G2D2d2] [A2F2g2d2] |[E2g2] [G2B2d2g2] [G2d2B2D2] |[C2e6-] [E2G2d2] [E2G2d2] |[G,2e2] [G2E2d2] [E2G2d2] |[C6e]B [Gb]E [e2G]E |[bC6] B [Ge]E [Gb2] E |[eC6] B [Gb]E [e2G]E |
+[bC6] B [Ge4] E GE |[B,6f]^c [Af]F [Af2] F |[B,6a]^c [Af]F [Ad2] F |[zB,6f6-] ^c AF AF |[B,6zf2] ^c AF AF |[A,2c2] [E2G2c2e2] [g2c2A2F2] |[D2f2] [E2G2g2c2] [zE2G2c2] d |[B,2d2] [F2A2d2f2] [F2A2d2a2] |
+[E2d2f2] [B2d2e2^g2] [zBd2] [G,B] |[A,c]e [E2G2c2] [E2G2c2g2] |[bD6] b [G2c2d2] [A2c2d2a2] |[G4/3g4/3]d2/3 [b4/3g4/3] d2/3 [g4/3b4/3]d2/3 |G4/3e/ g//c'4 |G4/3d/ [g4/3b4/3]d2/3 [g4/3b4/3]d2/3 |G4/3e2/3 g//c'4 |[G,2B2] [D2G2B2d2] [D2G2B2g2] |
+[E4/3a4/3]b2/3 [G2B2e2b4] [G2B2d2] |[A,2c2] [E2G2c2d2] [E2G2c2g2] |[D2e2g2] [A2d2f2a2] [zF2A] A |[G,2B2] [D2G2B2d2] [F2A2d2f2] |[E2g2] [G2B2d2] [D2G2B2d2] |[C2e6-] [E2G2d2] [E2G2d2] |[D2e2] [E2G2c2] [D2G2A2] |
+[G,2B2] [D2G2B2d2] [D2G2B2g2] |[E4/3f4/3a4/3][g2/3b2/3] [G2B2d2b2] [zG2Bd2] B |[A,2c2] [E2G2c2d2] [E2G2c2g2] |[D2e2g2] [A2d2f2a2] [zF2A] A |[G,2B2] [D2G2B2d2] [F2A2d2g2] |[E2g2] [G2B2d2g2] [D2G2B2d2] |[C2e6-] [E2G2d2] [E2G2d2] |
+[G,2e2] [E2G2d2] [E2G2d2] |[eC6] B [Gb]E [Ge2] E |[bC6] B [Ge]E [Gb2] E |[eC6] B [Gb]E [Ge2] E |[bC6] B [Ge4] E GE |[fB,6] ^c [Af]F [Af2] F |[aB,6] ^c [Af]F [Ad2] F |[zB,6f6-] ^c AF AF |[zB,6f2] ^c AF AF |
+[A,2c2] [E2G2c2e2] [F2A2c2g2] |[D2f2] [E2G2c2g2] [zE2G2c2] d |[B,2d2] [F2A2d2f2] [F2A2d2a2] |[E2d2f2] [B2d2e2^g2] [zBd2] [G,B] |[A,c]e [E2G2c2] [E2G2c2g2] |[bD6] b [G2c2d2] [A2c2d2a2] |[G2g2] [B2d2] [B2d2] |
+[F2a2] [Ad]g [A2d2a2] |[E2b2] [GBd]a [G2B2d2g2] |[D2d2] [G2B2] [G2B2d2] |[C2e2] [EGd]f [E2G2d2g2] |[B,2d2] [DGB]e [D2G2B2g2] |[D,2c2e2g2a2] [c2e2g2] [c2e2g2] |[_E,2^c2=f2^g2_b2] [c2f2g2] [c2f2g2] |[_E2_B2=f2g2] [B2f2g2] [B2e2g2] |
+[_A,2c2] [_E2_A2c2_e2] [_E2_A2c2_a2] |[=F4/3g4/3_b4/3]c'2/3 [_A2c2_e2_a2c'2] [z_A2c_e2] c |[_B,2_d2] [=F2_A2_d2_e2] [=F2_A2_d2_a2] |[_E2=f2_a2] [_B2_e2g4_b4] [G2_B2] |[_A,2c2] [_E2_A2c2_e2] [G2_B2_e2g2] |[=F2_a2] [_A2c2_e2_a2] [_E2_A2c2_e2] |[_D2=f6-] [=F2_A2_e2] [=F2_A2_e2] |
+[_E2=f2] [=F2_A2_d2] [_E2_A2_B2] |[_A,2c2] [_E2_A2c2_e2] [_E2_A2c2_a2] |[=F4/3g4/3_b4/3][_a2/3c'2/3] [_A2c2_e2c'2] [z_A2c_e2] c |[_B,2_d2] [=F2_A2_d2_e2] [=F2_A2_d2_a2] |[_E2_a2] [_B2_e2_b2] [zG2_B] _B |[_A,2c2] [_E2_A2c2_e2] [G2_B2_e2g2] |[=F2_a2] [_A2c2_e2_a2] [_A2c2_e2] |
+[_D2=f6-] [=F2_A2_e2] [=F2_A2_e2] |[_D2=f2] [=F2_A2_d2] [=F2_A2_d2] |[=f_D6] c [_Ac']=F [_A=f2] =F |[c'_D6] c [_A=f]=F [_Ac'2] =F |[=f_D6] c [_Ac']=F [_A=f2] =F |[c'_D6] c [_A=f] =F _A[=F=f] |[gC6] =d [_Bg]G [_Bg2] G |[_bC6] =d [_Bg]G [_B_e2] G |[zC6g6-] =d _BG _BG |
+[zC6g2] =d _BG _BG |[_B,2_d2] [=F2_A2_d2=f2] [=F2_A2_d2_a2] |[_E2g2] [=F2_A2_d2_a2] [z=F2_A2_d2] _e |[C2_e2] [G2_B2_e2g2] [G2_B2_e2_b2] |[=F2_e2g2] [c2_e2=f2=a2] [zc2_e2] =A, |[_B,_d]=f [=F2_A2_d2] [z=F2_A2_d2] _a |[c'_E6] c' [_A2_d2_e2] [G2_d2_e2_b2] |
+[_A2_a2] [c2_e2] [c2_e2] |[G2_b2] [_B_e]_a [_B2_e2_b2] |[=F2c'2] [_Ac_e]_b [_A2c2_e2_a2] |[_E2_e2] [_A2c2] [_A2c2_e2] |[_D2=f2] [=F_A_e]g [=F2_A2_e2_a2] |[_E2_e2] [_A5/2_B5/2_d5/2_a5/2] [G5/2_B5/2_d5/2g5/2] |_A,/C/_E/_a/c' z8 |]
+   

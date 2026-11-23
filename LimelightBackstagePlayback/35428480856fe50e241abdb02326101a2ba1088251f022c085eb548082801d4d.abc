@@ -1,0 +1,235 @@
+N: TS  2,   9   5
+X: 9
+%%Orig filename was MyLieAges.abc
+T: My Lie (duet) (3:01) - Lute of Ages
+%%part-name Lute of Ages
+C: Masaru Yokoyama
+Z: Raymiond of Gladden
+M: 3/4
+Q: 86
+K: C maj
+
++mf+ [c//-e//-] [c23/4-e23/4-a23/4-] |
+[c2-e2-a2-] [c-e-a-] [c3/4e3/4a3/4] z// e2 |
+[B6-d6-] |
+[B2-d2-] [B3/2d3/2] z/ e/ d/ ^c/ d/ |
+[B6-g6-] |
+[B2-g2-] [B3/2g3/2] z/ b2 |
+%%Q: 18
+[e86/9-c'86/9-] [e43/12c'43/12]
+	%%Q: 86
+	z// +f+ C D E |
+C2- C3/4 z// F, A, C |
+G,2- G,3/4 z// C D E |
+% Bar 10 (0:22)
+F E C G, z2 |
+z2 f2- f- f3/4 z// |
+e2 d2- d2- |
+d- d3/4 z// g2- g2- |
+g- [Fg-] [Eg-] [Cg-] g3/2 z/ |
+e4- e- e3/4 z// |
+d4- d- d3/4 z// |
+g4- g- g3/4 z// |
+D4- D- D3/4 z// |
+D2 G2 g2 |
+% Bar 20 (0:43)
+g2 b2-
+	%%Q: 18
+	b43/9- b43/12
+	%%Q: 86
+	z// |
+z4 +ff+ [G,2C2] |
+[A,2-D2-] [A,-D-] [A,3/4D3/4] z// C2 |
+B,4- B,- B,3/4 z// |
+z2 G2- G- G3/4 z// |
+C4- C- C3/4 z// |
+A,4- A,- A,3/4 z// |
+B,4- B,- B,3/4 z// |
+C4- C- C3/4 z// |
+z3 G d c |
+% Bar 30 (1:06)
+G2- G3/4 z// G d c |
+[G2e2] d2 [A2f2] |
+[G2e2] [G2c2] d2 |
+[G2e2] [E2B2] G2 |
+z4 +f+ G2 |
+z6 |
+z4 +mf+ G2 |
+d2 +f+ g2 b2 |
+A//- [A//-c//-] [A11/2c11/2e11/2a11/2] |
+[A4-e4-] [A-e-] [A3/4e3/4] z// |
+% Bar 40 (1:27)
+[G6-d6-] |
+[G2-d2-] [G3/2d3/2] z/ e/ d/ ^c/ d/ |
+[B4-g4-] [B-g-] [B3/4g3/4] z// |
+[D4-B4-] [D-B-] [D3/4B3/4] z// |
+[E4-c4-] [E-c-] [E3/4c3/4] z// |
+z2 +ff+ d2 e2 |
+[Af] e c f e c |
+f e c f e c |
+f e c f e c |
+[D2F2^G2B2] [E2c2] [F2d2] |
+% Bar 50 (1:48)
+[A4-c4-e4-] [A-c-e-] [A3/4c3/4e3/4] z// |
+[C4-E4-A4-] [C-E-A-] [C3/4E3/4A3/4] z// |
+[G4-B4-] [G-B-] [G3/4B3/4] z// |
++fff+ [E2c2] [F2d2] [G2e2] |
+A//- [A//-c//-] [A11/2c11/2e11/2a11/2] |
++ffff+ e//- [e//a//-] [e11/2a11/2c'11/2] |
+[d//g//-] [d23/4-g23/4-b23/4-] |
+[d2-g2-b2-] [d-g-b-] [d3/4g3/4b3/4] z// e/ d/ ^c/ d/ |
+[g4-b4-] [g-b-] [g3/4b3/4] z// |
+[d4-b4-] [d-b-] [d3/4b3/4] z// |
+% Bar 60 (2:09)
+[e//-c'//] [e23/4-c'23/4-] |
+[e2-c'2-] [e-c'-] [e3/4c'3/4] z// +ff+ c2 |
+%%Q: 54
++f+ g172/27- g43/27- g43/36
+	%%Q: 86
+	z// |
+e2 [Af] [Ge] c G |
+F E C2- C- C3/4 z// |
+z2 G2- G2- |
+G- G3/4 z// B2- B2- |
+B- B3/4 z//
+	%%Q: 14
+	c43/7-
+	%%Q: 86
+	c7/4 z |
+D z E G e2 |
+d G d +ff+ g d2 |
+% Bar 70 (2:33)
+c'2 d2 e2 |
+c'3 G, C G |
+[C2-G2-] [C-G-] [C3/4G3/4] z// g2 |
+g2- g- g3/4 z// d2 |
+C2 +fff+ D2 E2 |
+F +ffff+ E C F E C |
+F E C F E C |
+F +fff+ E C F E C |
+F E +ff+ C F E C |
+C6- |
+% Bar 80 (2:54)
+C4- C3/2 z/ |
++f+ C4- C- C3/4 z// |
+[D4-G4-] [D-G-] [D3/4G3/4] z// |
+[F6-c6-] |
+[F4-c4-] [F-c-] [F3/4c3/4] z// |]
+
+X: 5
+%%Orig filename was MyLieHarp.abc
+T: My Lie (duet) (3:01) - Basic Harp
+%%part-name Basic Harp
+C: Masaru Yokoyama
+Z: Raymiond of Gladden
+M: 3/4
+Q: 86
+K: C maj
+
++mp+ f6- |
+f2- f3/2 z5/2 |
+f6- |
+f2- f3/2 z5/2 |
+e6- |
+e2- e3/2 z5/2 |
+%%Q: 18
+a86/9- a43/12
+	%%Q: 86
+	z13/4 |
++mf+ D, A, D2- D- D3/4 z// |
+E, C D2- D- D3/4 z// |
+% Bar 10 (0:22)
+F,2 C2 f e |
+c G f e c G |
+F,2 c G f c |
+g c f c- c e- |
+e- e3/4 z// F,2 G c |
+f e c G e c |
+f e c G f e |
+c G f e c G |
+F,4- F,- F,3/4 z// |
+z6 |
+% Bar 20 (0:43)
+z4
+	%%Q: 18
+	z43/9 z43/12
+	%%Q: 86
+	z// |
+z4 +f+ [E,2E2] |
+[F,4-F4-] [F,-F-] [F,3/4F3/4] z// |
+[G,4-D4-G4-] [G,-D-G-] [G,3/4D3/4G3/4] z// |
+[A,2-G2-] [A,-G-] [A,3/4G3/4] z// G2 |
+E,2- E,- E,3/4 z// C2 |
+[F,4-C4-] [F,-C-] [F,3/4C3/4] z// |
+[G,2-D2-] [G,-D-] [G,3/4D3/4] z// G2 |
+[A,4-G4-] [A,-G-] [A,3/4G3/4] z// |
+G d e z z2 |
+% Bar 30 (1:06)
+F d e z z2 |
+E d- d2- d- d3/4 z// |
+A, e- e2- e- e3/4 z// |
+G, B- B2- B- B3/4 z// |
+E,4- E,- E,3/4 z// |
++mf+ E,4- E,- E,3/4 z// |
++mp+ G2 d2 G2- |
+G- G3/4 z// +mf+ G2- G- G3/4 z// |
+F,2 C2 F2 |
+F,2 C2 F2 |
+% Bar 40 (1:27)
+F,2 D2 G2 |
+F,2 D2 G2 |
+E,2 D2 G2 |
+E,2 D2 G2 |
+A,2 G2 c2 |
++f+ A,2 G2 c2 |
+D,2 A,2 F2 |
+c2 A2 F2 |
+G,2 F2 c2 |
+^G,2 E,2 G,2 |
+% Bar 50 (1:48)
+A,2 E2 c2 |
+B2 A2 A,2 |
+G,2 D2 B2 |
++ff+ G,2 D2 B2 |
+F,2 C2 [A2c2] |
++fff+ F,2 C2 [A2c2] |
+F,2 D2 [B2d2] |
+G2 D2 [B2d2g2] |
+E,2 G2 [B2d2] |
+[d2g2] [B2d2] G2 |
+% Bar 60 (2:09)
+[A,2G2] G2 [c2g2] |
+d2 +ff+ g2 +f+ e2- |
+%%Q: 54
+e172/27- e43/27- e43/54- e43/216 z43/216
+	%%Q: 86
+	z// |
+z2 +mf+ D,2- D,2- |
+D,- D,3/4 z// D2- D- D3/4 z// |
+G2 F,2- F,2- |
+F,4- F,3/2 z/ |
+z2
+	%%Q: 14
+	z43/7
+	%%Q: 86
+	G, E G |
+z G z2 c2 |
+G4- G- G3/4 z// |
+% Bar 70 (2:33)
++f+ [A,4-G4-c4-] [A,-G-c-] [A,3/4G3/4c3/4] z// |
+E,4- E,- E,3/4 z// |
+F,2- F,- F,3/4 z// c2 |
+[G,4-D4-B4-] [G,-D-B-] [G,3/4D3/4B3/4] z// |
+[A,4-G4-] [A,-G-] [A,3/4G3/4] z// |
++ff+ [^A,6-F6-G6-] |
+[^A,4-F4-G4-] [A,3/2F3/2G3/2] z/ |
++fff+ c'6- |
+c'4- c'3/2 z/ |
++f+ [^A,4-F4-G4-] [A,-F-G-] [A,3/4-F3/4G3/4] A,//- |
+% Bar 80 (2:54)
++mf+ [^A,6G6-] |
+G6 |
+z6 |
+z6 |
+z4 z z |]
+

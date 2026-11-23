@@ -1,0 +1,641 @@
+N: TS  7,   8  20  10   4  21  18  22
+X: 8
+%%Orig filename was ChickenDanceBass.abc
+T: Chicken Dance [Theorbo] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+%%part-name Basic Theorbo
+K: C
+
+%intro
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+
+%1
+Cz3 G,z3 Cz3 G,zE,2 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+Cz3 G,z3 CzG,z A,zB,z |
+Cz3 G,z3 Cz3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z C,zG,z A,zB,z |
+
+Cz3 G,z3 Cz3 G,z3 |
+Cz3 G,z3 Cz3 G,z3 |
+Cz3 G,z3 Cz3 E,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z C,zG,z A,zB,z |
+
+%2
+Cz3 G,z3 Cz3 G,zE,2 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z C,zG,z A,zB,z |
+Cz3 G,z3 Cz2G, G,zE,2
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z C,zG,z A,zB,z |
+
+Cz3 G,z3 E,z3 C,z3 |
+G,z3 G,z3 Cz3 G,z3 |
+Cz3 G,z3 Cz3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z C,zG,z A,zB,z |
+
+%3
+Cz3 G,z3 Cz3 G,zE,z |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,zB,z |
+CzA,z G,zE,z C,zG,z A,zB,z |
+Cz3 G,z3 Cz2G, G,zE,2
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,zB,2 |
+CzA,z G,zE,z C,zG,z A,zB,z |
+
+Cz3 G,z3 CzB,zA,zG,z |
+Cz2C G,z3 Cz3 G,z3 |
+CzB,zA,zG,z E,zG,z CzA,z |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,zB,z |
+CzA,z G,zE,z C,zz2z4 z8 |
+
+%accelerando
+C2z6 G,2z6 C2z6 G,2z2E,2z2 |
+D,7/4z21/4 G,7/4z21/4 D,7/4z21/4 G,7/4z7/4G,7/4z7/4 |
+D,7/4z21/4 G,7/4z21/4 D,6/4z6/4G,6/4z6/4 A,6/4z6/4B,6/4z6/4 |
+C6/4z18/4 G,6/4z18/4 C6/4z6/4G,6/4z6/4 A,6/4z6/4B,6/4z6/4 |
+C5/4z15/4 G,5/4z15/4 C5/4z5/4A,5/4z5/4 G,5/4z5/4E,5/4z5/4 |
+D,5/4z15/4 G,5/4z15/4 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z C,zG,7/8z7/8 A,7/8z7/8B,7/8z7/8 |
+
+C7/8z21/8 G,7/8z21/8 C7/8z21/8 G,7/8z7/8E,7/8z7/8 |
+D,7/8z21/8 G,7/8z21/8 D,7/8z21/8 G,7/8z21/8 |
+D,7/8z21/8 G,7/8z21/8 D,7/8zG,7/8z7/8 A,7/8z7/8B,7/8z7/8 |
+C3/4z9/4 G,3/4z9/4 C3/4z3/4G,3/4z3/4 A,3/4z3/4B,3/4z3/4 |
+C3/4z9/4 G,3/4z9/4 C3/4z9/4 G,3/4z9/4 |
+D,3/4z9/4 G,3/4z9/4 D,3/4z9/4 G,3/4z9/4 |
+D,3/4z9/4 G,3/4z9/4 D,3/4z9/4 G,3/4z9/4 |
+C3/4z3/4A,3/4z3/4 G,3/4z3/4E,3/4z3/4 C,3/4z9/4 C,3/4z9/4 |
+
+X: 20
+%%Orig filename was ChickenDanceCowbell.abc
+T: Chicken Dance [Cowbell] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+K: C
+
+%intro
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+
+%1
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+
+%2
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+z4 z4 z4 z4 |
+z2C2 C2C2 C2z2 z4 |
+z4 z4 z4 z4 |
+z2C2 C2C2 C2C2 C2C2 |
+
+z2C2 z2C2 z2C2 z2C2 |
+z2CC z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2CC z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2CC z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2CC CCCC |
+
+%3
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 C2C2 C2CC z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 C2C2 C2CC z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 C2C2 C2CC z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 C2C2 C2C2 C2C2 |
+
+z2C2 z2C2 z2C2 z2C2 |
+z2CC z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2CC z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2CC z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2C2 z2C2 |
+z2C2 z2C2 z2z2z4 z8 |
+
+%accelerando
+z4C2C2 z4C4 z4C2C2 z4C4 |
+z14/4C14/4 C14/4C14/4 C14/4C7/4C7/4 z14/4C14/4 |
+z14/4C7/4C7/4 z14/4C14/4 z12/4C6/4C6/4 z12/4C12/4 |
+z12/4C12/4 C12/4C12/4 C12/4C6/4C6/4 z12/4C12/4 |
+z10/4C5/4C5/4 z10/4C10/4 z10/4C5/4C5/4 z10/4C10/4 |
+z10/4C10/4 C10/4C10/4 C2CC z2C2 |
+z2CC z2C2 z2CC z2C2 |
+z2C2 C2C2 C2C7/8C7/8 C7/8C7/8C7/8C7/8 |
+
+z14/8C14/8 z14/8C14/8 z14/8C14/8 z14/8C14/8 |
+z14/8C14/8 C14/8C14/8 C14/8C14/8 z14/8C14/8 |
+z14/8C14/8 z14/8C14/8 z14/8C14/8 z14/8C14/8 |
+z6/4C6/4 C6/4C6/4 C6/4C6/4 z6/4C6/4 |
+z6/4C6/4 z6/4C6/4 z6/4C6/4 z6/4C6/4 |
+z6/4C6/4 C6/4C6/4 C6/4C6/4 C6/4C6/4 |
+C6/4C6/4 C6/4C6/4 C6/4C6/4 C6/4C6/4 |
+C6/4C6/4 C6/4C6/4 C6/4z6/4 C6/4z6/4 |
+
+X: 10
+%%Orig filename was ChickenDanceDrums.abc
+T: Chicken Dance [Drum] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+K: C
+
+%intro
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z2EE EEEE |
+
+%1
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z |
+[B^G]z[^C,^E]z [B^G]z[^C,^E]z [B^G]z[^C,^E]z ^E^E^Ez |
+
+[B^G^F,]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, ^G^E^E^E [^G^E]^C,^E[^C,^E] ^E^E^E^E |
+
+%2
+[B^G^F,]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^E][^C,^E][B^E]^C, |
+
+[B^G^F,]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, ^E^E^E^E |
+
+%3
+[B^G^F,]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E][^E^C,] [^G^E][^E^C,][B^E]^C, [B^G]^C,[B^E][^E^C,] [B^G^E][^C,^E][B^E]^C, |
+
+[B^G^F,]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, |
+[B^G]^C,[B^E]^C, [B^G]^C,[B^E]^C, [B2^G2]z2z4 z8 |
+
+%accelando
+[B2^G2]z2^E2z2 [B2^G2]z2^E2z2 [B2^G2]z2^E2z2 [B2^G2]z2^E2z2 |
+[B7/4^G7/4]z7/4^E7/4z7/4 [B7/4^G7/4]z7/4^E7/4z7/4 [B7/4^G7/4]z7/4^E7/4z7/4 [B7/4^G7/4]z7/4^E7/4z7/4 |
+[B7/4^G7/4]z7/4^E7/4z7/4 [B7/4^G7/4]z7/4^E7/4z7/4 [B6/4^G6/4]z6/4^E6/4z6/4 [B6/4^G6/4]z6/4^E6/4z6/4 |
+[B6/4^G6/4]z6/4^E6/4z6/4 [B6/4^G6/4]z6/4^E6/4z6/4 [B6/4^G6/4]z6/4^E6/4z6/4 [B6/4^G6/4]z6/4^E6/4z6/4 |
+[B5/4^G5/4]z5/4[B5/4^E5/4]z5/4 [B5/4^G5/4]z5/4[B5/4^E5/4]z5/4 [B5/4^G5/4]z5/4[B5/4^E5/4]z5/4 [B5/4^G5/4]z5/4[B5/4^E5/4]z5/4 |
+[B5/4^G5/4]z5/4[B5/4^E5/4]z5/4 [B5/4^G5/4]z5/4[B5/4^E5/4]z5/4 [B^G]z[B^E]z [B^G]z[B^E]z |
+[B^G]z[B^E]z [B^G]z[B^E]z [B^G]z[B^E]z [B^G]z[B^E]z |
+[B^G]z[B^E]z [B^G]z[B^E]z [B^G]z[B7/8^E7/8]z7/8 [B7/8^G7/8]z7/8[B7/8^E7/8]z7/8 |
+
+[B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 |
+[B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 |
+[B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 [B7/8^G7/8]^C,7/8[B7/8^E7/8]^C,7/8 |
+[B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 |
+[B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 |
+[B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 |
+[B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 |
+[B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B3/4^G3/4]^C,3/4[B3/4^E3/4]^C,3/4 [B6/4^G6/4^E6/4]z6/4 [B6/4^G6/4^E6/4B6/4]z6/4 |
+
+X: 4
+%%Orig filename was ChickenDanceHorn1.abc
+T: Chicken Dance [Horn 1] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+K: C
+
++p+
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z2G2 A2E2 |
+
+%1
+G4 A2E2 G4 A2c2 |
+B8 z2F2 G2D2 |
+F4 G2D2 F4 G2B2 |
+A8 z2G2 A2E2 |
+G4 A2E2 G4 A2c2 |
+B8 z2F2 G2D2 |
+F4 G2D2 F2G2A2B2 |
+c8 z2[E2G2] [_E2_G2][D2F2] |
+
+[C6E6][E2G2] [G6c6e6][F2B2d2] |
+[F4B4d4] [E4A4c4] z2[E2G2] [_E2_G2][D2F2] |
+[C6E6][E2G2] [F6B6d6][E2A2c2] |
+[D8G8B8] z2[F2A2] [E2G2][_E2_G2] |
+[D6F6][E2G2] [F6B6d6][E2A2c2] |
+[E4A4c4] [D4G4B4] z2[F2B2d2] [F2B2d2][E2A2c2] |
+[E4A4c4] [D4G4B4] z2[D2B2][E2c2][F2d2] |
+[E8c8] z2G2 A2E2 |
+
+%2
+G4 A2E2 G4 A2c2 |
+B8 z2F2 G2D2 |
+F4 G2D2 F4 G2B2 |
+A8 z2G2 A2E2 |
+G4 A2E2 G4 A2c2 |
+B8 z2F2 G2D2 |
+F4 G2D2 F2G2A2B2 |
+c8 z2[E2G2] [_E2_G2][D2F2] |
+
+[C6E6][E2G2] [G6c6e6][F2B2d2] |
+[F4B4d4] [E4A4c4] z2[E2G2] [_E2_G2][D2F2] |
+[C6E6][E2G2] [F6B6d6][E2A2c2] |
+[D8G8B8] z2[F2A2] [E2G2][_E2_G2] |
+[D6F6][E2G2] [F6B6d6][E2A2c2] |
+[E4A4c4] [D4G4B4] z2[F2B2d2] [F2B2d2][E2A2c2] |
+[E4A4c4] [D4G4B4] z2[D2B2][E2c2][F2d2] |
+[E8c8] z2G2 A2E2 |
+
+%3
+G4 A2E2 G4 A2c2 |
+B8 z2F2 G2D2 |
+F4 G2D2 F4 G2B2 |
+A8 z2G2 A2E2 |
+G4 A2E2 G4 A2c2 |
+B8 z2F2 G2D2 |
+F4 G2D2 F2G2A2B2 |
+c8 z2[E2G2] [_E2_G2][D2F2] |
+
+[C6E6][E2G2] [G6c6e6][F2B2d2] |
+[F4B4d4] [E4A4c4] z2[E2G2] [_E2_G2][D2F2] |
+[C6E6][E2G2] [F6B6d6][E2A2c2] |
+[D8G8B8] z2[F2A2] [E2G2][_E2_G2] |
+[D6F6][E2G2] [F6B6d6][E2A2c2] |
+[E4A4c4] [D4G4B4] z2[F2B2d2] [F2B2d2][E2A2c2] |
+[E4A4c4] [D4G4B4] z2[D2B2][E2c2][F2d2] |
+[E8c8] z2z2G4 A4E4 |
+
+%accelerando
+G8 A4E4 G8 A4c4 |
+B56/4 z14/4F14/4 G14/4D14/4 |
+F28/4 G14/4D14/4 F24/4 G12/4B12/4 |
+A48/4 z12/4G12/4 A12/4E12/4 |
+G20/4 A10/4E10/4 G20/4 A10/4c10/4 |
+B40/4 z2F2 G2D2 |
+F4 G2D2 F2G2A2B2 |
+c8 z2G14/8 A14/8E14/8 |
+
+G28/8 A14/8E14/8 G28/8 A14/8c14/8 |
+B56/8 z14/8F14/8 G14/8D14/8 |
+F28/8 G14/8D14/8 F28/8 G14/8B14/8 |
+A24/4 z6/4G6/4 A6/4E6/4 |
+G12/4 A6/4E6/4 G12/4 A6/4c6/4 |
+B24/4 z6/4F6/4 G6/4D6/4 |
+F12/4 G6/4D6/4 F6/4G6/4A6/4B6/4 |
+c24/4 z12/4 [C6/4E6/4G6/4c6/4]z6/4 |
+
+X: 21
+%%Orig filename was ChickenDanceHorn2.abc
+T: Chicken Dance [Horn 2] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+K: C
+
++f+
+%intro
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+
+%1
+Cz3 G,z3 Cz3 G,zE,2 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+Cz3 G,z3 CzG,z A,zB,z |
+Cz3 G,z3 Cz3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z zzG,z A,zB,z |
+
+Cz3 G,z3 Cz3 G,z3 |
+Cz3 G,z3 Cz3 G,z3 |
+Cz3 G,z3 Cz3 E,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z zzG,z A,zB,z |
+
+%2
+Cz3 G,z3 Cz3 G,zE,2 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z zzG,z A,zB,z |
+Cz3 G,z3 Cz2G, G,zE,2
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z zzG,z A,zB,z |
+
+Cz3 G,z3 E,z3 zz3 |
+G,z3 G,z3 Cz3 G,z3 |
+Cz3 G,z3 Cz3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z zzG,z A,zB,z |
+
+%3
+Cz3 G,z3 Cz3 G,zE,z |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,zB,z |
+CzA,z G,zE,z zzG,z A,zB,z |
+Cz3 G,z3 Cz2G, G,zE,2
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,zB,2 |
+CzA,z G,zE,z zzG,z A,zB,z |
+
+Cz3 G,z3 CzB,zA,zG,z |
+Cz2C G,z3 Cz3 G,z3 |
+CzB,zA,zG,z E,zG,z CzA,z |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,z3 |
+D,z3 G,z3 D,z3 G,zB,z |
+CzA,z G,zE,z z2z2z4 z8 |
+
+%accelerando
+C2z6 G,2z6 C2z6 G,2z2E,2z2 |
+D,7/4z21/4 G,7/4z21/4 D,7/4z21/4 G,7/4z7/4G,7/4z7/4 |
+D,7/4z21/4 G,7/4z21/4 D,6/4z6/4G,6/4z6/4 A,6/4z6/4B,6/4z6/4 |
+C6/4z18/4 G,6/4z18/4 C6/4z6/4G,6/4z6/4 A,6/4z6/4B,6/4z6/4 |
+C5/4z15/4 G,5/4z15/4 C5/4z5/4A,5/4z5/4 G,5/4z5/4E,5/4z5/4 |
+D,5/4z15/4 G,5/4z15/4 D,z3 G,z3 |
+D,z3 G,z3 D,zG,z A,zB,z |
+CzA,z G,zE,z zzG,7/8z7/8 A,7/8z7/8B,7/8z7/8 |
+
+C7/8z21/8 G,7/8z21/8 C7/8z21/8 G,7/8z7/8E,7/8z7/8 |
+D,7/8z21/8 G,7/8z21/8 D,7/8z21/8 G,7/8z21/8 |
+D,7/8z21/8 G,7/8z21/8 D,7/8zG,7/8z7/8 A,7/8z7/8B,7/8z7/8 |
+C3/4z9/4 G,3/4z9/4 C3/4z3/4G,3/4z3/4 A,3/4z3/4B,3/4z3/4 |
+C3/4z9/4 G,3/4z9/4 C3/4z9/4 G,3/4z9/4 |
+D,3/4z9/4 G,3/4z9/4 D,3/4z9/4 G,3/4z9/4 |
+D,3/4z9/4 G,3/4z9/4 D,3/4z9/4 G,3/4z9/4 |
+C3/4z3/4A,3/4z3/4 G,3/4z3/4E,3/4z3/4 z3/4z9/4 C3/4z9/4 |
+
+X: 18
+%%Orig filename was ChickenDancePipes1.abc
+T: Chicken Dance [Bagpipes 1] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+K: C
+
++ff+
+%intro
+[F/A/][GB]z/z2[f/a/][gb]z/z2 [F/A/][GB]z/z2[f/a/][gb]z/z2 |
+[GB]z[gb]z [GB]z[gb]z [GB][gb][GB][gb] [GB][gb][GB][gb] |
+[Bg][Bg][Bg][Bg] [Bg][Bg][Bg][Bg] [Bg]z[EG][EG] [EA][EA][CE][CE] |
+
+%1
+[EG]z[EG][EG] [EA][EA][CE][CE] [EG]z[EG][EG] [EA][EA][Ec][Ec] |
+[GB]z[GB]z [FA]z[EG]z [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[DF][DF] [EG][EG][GB][GB] |
+[FA]z[FA]z [EG]z[DF]z [CE]z[EG][EG] [EA][EA][CE][CE] |
+[EG]z[EG][EG] [EA][EA][CE][CE] [EG]z[EG][EG] [EA][EA][Ec][Ec] |
+[GB]z[GB]z [FA]z[EG]z [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[EG][EG] [FA][FA][DB][DB] |
+[Ec]z[FA2/3]B2/3A2/3 [EG]z[DF]z [CE]z[E2G2] [_E2_G2][D2F2] |
+
+[C6E6][E2G2] [c6e6][B2d2] |
+[B4d4] [A4c4] z2[E2G2] [_E2_G2][D2F2] |
+[C6E6][E2G2] [B6d6][A2c2] |
+[G8B8] z2[F2A2] [E2G2][_E2_G2] |
+[D6F6][E2G2] [B6d6][A2c2] |
+[A4c4] [G4B4] z2[B2d2] [B2d2][A2c2] |
+[A4c4] [G4B4] z2[G2B2] [_G2c2][F2d2] |
+[E8c8] z2[EG][EG] [EA][EA][CE][CE] |
+
+%2
+[EG]z[EG][EG] [EA][EA][CE][CE] [EG]z[EG][EG] [EA][EA][Ec][Ec] |
+[GB]z[GB]z [FA]z[EG]z [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[DF][DF] [EG][EG][GB][GB] |
+[FA]z[FA]z [EG]z[DF]z [CE]z[EG][EG] [EA][EA][CE][CE] |
+[EG]z[EG][EG] [EA][EA][CE][CE] [EG]z[EG][EG] [EA][EA][Ec][Ec] |
+[GB]z[GB]z [FA]z[EG]z [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[EG][EG] [FA][FA][DB][DB] |
+[Ec]z[FA2/3]B2/3A2/3 [EG]z[DF]z [CE]z[E2G2] [_E2_G2][D2F2] |
+
+[C6E6][E2G2] [c6e6][B2d2] |
+[B4d4] [A4c4] z2[E2G2] [_E2_G2][D2F2] |
+[C6E6][E2G2] [B6d6][A2c2] |
+[G8B8] z2[F2A2] [E2G2][_E2_G2] |
+[D6F6][E2G2] [B6d6][A2c2] |
+[A4c4] [G4B4] z2[B2d2] [B2d2][A2c2] |
+[A4c4] [G4B4] z2[G2B2] [_G2c2][F2d2] |
+[E8c8] z2[EG][EG] [EA][EA][CE][CE] |
+
+%3
+[EG]z[EG][EG] [EA][EA][CE][CE] [EG]z[EG][EG] [EA][EA][Ec][Ec] |
+[GB]z[GB]z [FA]z[EG]z [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[DF][DF] [EG][EG][GB][GB] |
+[FA]z[FA]z [EG]z[DF]z [CE]z[EG][EG] [EA][EA][CE][CE] |
+[EG]z[EG][EG] [EA][EA][CE][CE] [EG]z[EG][EG] [EA][EA][Ec][Ec] |
+[GB]z[GB]z [FA]z[EG]z [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[EG][EG] [FA][FA][DB][DB] |
+[Ec]z[FA2/3]B2/3A2/3 [EG]z[DF]z [CE]z[E2G2] [_E2_G2][D2F2] |
+
+[C6E6][E2G2] [c6e6][B2d2] |
+[B4d4] [A4c4] z2[E2G2] [_E2_G2][D2F2] |
+[C6E6][E2G2] [B6d6][A2c2] |
+[G8B8] z2[F2A2] [E2G2][_E2_G2] |
+[D6F6][E2G2] [B6d6][A2c2] |
+[A4c4] [G4B4] z2[B2d2] [B2d2][A2c2] |
+[A4c4] [G4B4] z2[G2B2] [_G2c2][F2d2] |
+[E8c8] z2z2[E2G2][E2G2] [E2A2][E2A2][C2E2][C2E2] |
+
+%accelerando
+[E2G2]z2[E2G2][E2G2] [E2A2][E2A2][C2E2][C2E2] [E2G2]z2[E2G2][E2G2] [E2A2][E2A2][E2c2][E2c2] |
+[G7/4B7/4]z7/4[G7/4B7/4]z7/4 [F7/4A7/4]z7/4[E7/4G7/4]z7/4 [D7/4F7/4]z7/4[D7/4F7/4][D7/4F7/4] [E7/4G7/4][E7/4G7/4][B,7/4D7/4][B,7/4D7/4] |
+[D7/4F7/4]z7/4[D7/4F7/4][D7/4F7/4] [E7/4G7/4][E7/4G7/4][B,7/4D7/4][B,7/4D7/4] [D6/4F6/4]z6/4[D6/4F6/4][D6/4F6/4] [E6/4G6/4][E6/4G6/4][G6/4B6/4][G6/4B6/4] |
+[F6/4A6/4]z6/4[F6/4A6/4]z6/4 [E6/4G6/4]z6/4[D6/4F6/4]z6/4 [C6/4E6/4]z6/4[E6/4G6/4][E6/4G6/4] [E6/4A6/4][E6/4A6/4][C6/4E6/4][C6/4E6/4] |
+[E5/4G5/4]z5/4[E5/4G5/4][E5/4G5/4] [E5/4A5/4][E5/4A5/4][C5/4E5/4][C5/4E5/4] [E5/4G5/4]z5/4[E5/4G5/4][E5/4G5/4] [E5/4A5/4][E5/4A5/4][E5/4c5/4][E5/4c5/4] |
+[G5/4B5/4]z5/4[G5/4B5/4]z5/4 [F5/4A5/4]z5/4[E5/4G5/4]z5/4 [DF]z[DF][DF] [EG][EG][B,D][B,D] |
+[DF]z[DF][DF] [EG][EG][B,D][B,D] [DF]z[EG][EG] [FA][FA][DB][DB] |
+[Ec]z[FA2/3]B2/3A2/3 [EG]z[DF]z [CE]z[E7/8G7/8][E7/8G7/8] [E7/8A7/8][E7/8A7/8][C7/8E7/8][C7/8E7/8] |
+
+[E7/8G7/8]z7/8[E7/8G7/8][E7/8G7/8] [E7/8A7/8][E7/8A7/8][C7/8E7/8][C7/8E7/8] [E7/8G7/8]z7/8[E7/8G7/8][E7/8G7/8] [E7/8A7/8][E7/8A7/8][E7/8c7/8][E7/8c7/8] |
+[G7/8B7/8]z7/8[G7/8B7/8]z7/8 [F7/8A7/8]z7/8[E7/8G7/8]z7/8 [D7/8F7/8]z7/8[D7/8F7/8][D7/8F7/8] [E7/8G7/8][E7/8G7/8][B,7/8D7/8][B,7/8D7/8] |
+[D7/8F7/8]z7/8[D7/8F7/8][D7/8F7/8] [E7/8G7/8][E7/8G7/8][B,7/8D7/8][B,7/8D7/8] [D7/8F7/8]z7/8[D7/8F7/8][D7/8F7/8] [E7/8G7/8][E7/8G7/8][G7/8B7/8][G7/8B7/8] |
+[F3/4A3/4]z3/4[F3/4A3/4]z3/4 [E3/4G3/4]z3/4[D3/4F3/4]z3/4 [C3/4E3/4]z3/4[E3/4G3/4][E3/4G3/4] [E3/4A3/4][E3/4A3/4][C3/4E3/4][C3/4E3/4] |
+[E3/4G3/4]z3/4[E3/4G3/4][E3/4G3/4] [E3/4A3/4][E3/4A3/4][C3/4E3/4][C3/4E3/4] [E3/4G3/4]z3/4[E3/4G3/4][E3/4G3/4] [E3/4A3/4][E3/4A3/4][E3/4c3/4][E3/4c3/4] |
+[G3/4B3/4]z3/4[G3/4B3/4]z3/4 [F3/4A3/4]z3/4[E3/4G3/4]z3/4 [D3/4F3/4]z3/4[D3/4F3/4][D3/4F3/4] [E3/4G3/4][E3/4G3/4][B,3/4D3/4][B,3/4D3/4] |
+[D3/4F3/4]z3/4[D3/4F3/4][D3/4F3/4] [E3/4G3/4][E3/4G3/4][B,3/4D3/4][B,3/4D3/4] [D3/4F3/4]z3/4[E3/4G3/4][E3/4G3/4] [F3/4A3/4][F3/4A3/4][D3/4B3/4][D3/4B3/4] |
+[E3/4c3/4]z3/4[F3/4A3/4]z3/4 [E3/4G3/4]z3/4[D3/4F3/4]z3/4 [C3/2E3/2]z3/2 [E3/2G3/2A3/2c3/2]z3/2 |
+
+X: 22
+%%Orig filename was ChickenDancePipes2.abc
+T: Chicken Dance [Bagpipes 2] (0:00)
+C: Werner Thomas
+Z: Carica Berrywine
+M: 4/4
+L: 1/16
+Q: 100
+K: C
+
++pp+
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+z4 z4 z4 z4 |
+
+%1
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z [CEGc]z3 z4 |
+
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z [CEGc]z3 z4 |
+
+%2
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z [CEGc]z3 z4 |
+
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z [CEGc]z3 z4 |
+
+%3
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z [CEGc]z3 z4 |
+
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[CEGc]z z2[CEGc]z z2[CEGc]z z2[CEGc]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z [C2E2G2c2]z2z4 z8 |
+
+%accelerando
+z4[C2E2G2c2]z2 z4[C2E2G2c2]z2 z4[C2E2G2c2]z2 z4[C2E2G2c2]z2 |
+z14/4[B,7/4D7/4G7/4B7/4]z7/4 z14/4[B,7/4D7/4B7/4]z7/4 z14/4[B,7/4D7/4G7/4B7/4]z7/4 z14/4[B,7/4D7/4B7/4]z7/4 |
+z14/4[B,7/4D7/4G7/4B7/4]z7/4 z14/4[B,7/4D7/4B7/4]z7/4 z12/4[B,6/4D6/4G6/4B6/4]z6/4 z12/4[B,6/4D6/4B6/4]z6/4 |
+z12/4[C6/4E6/4G6/4c6/4]z6/4 z12/4[C6/4E6/4G6/4c6/4]z6/4 z12/4[C6/4E6/4G6/4c6/4]z6/4 z12/4[C6/4E6/4G6/4c6/4]z6/4 |
+z10/4[C5/4E5/4G5/4c5/4]z5/4 z10/4[C5/4E5/4G5/4c5/4]z5/4 z10/4[C5/4E5/4G5/4c5/4]z5/4 z10/4[C5/4E5/4G5/4c5/4]z5/4 |
+z10/4[B,5/4D5/4G5/4B5/4]z5/4 z10/4[B,5/4D5/4B5/4]z5/4 z2[B,DGB]z z2[B,DB]z |
+z2[B,DGB]z z2[B,DB]z z2[B,DGB]z z2[B,DB]z |
+z2[CEGc]z z2[CEGc]z z2[C7/8E7/8G7/8c7/8]z7/8 z14/8[E7/8G7/8c7/8]z7/8 |
+
+z14/8[C7/8E7/8G7/8c7/8]z7/8 z14/8[C7/8E7/8G7/8c7/8]z7/8 z14/8[C7/8E7/8G7/8c7/8]z7/8 z14/8[C7/8E7/8G7/8c7/8]z7/8 |
+z14/8[B,7/8D7/8G7/8B7/8]z7/8 z14/8[B,7/8D7/8B7/8]z7/8 z14/8[B,7/8D7/8G7/8B7/8]z7/8 z14/8[B,7/8D7/8B7/8]z7/8 |
+z14/8[B,7/8D7/8G7/8B7/8]z7/8 z14/8[B,7/8D7/8B7/8]z7/8 z14/8[B,7/8D7/8G7/8B7/8]z7/8 z14/8[B,7/8D7/8B7/8]z7/8 |
+z6/4[C3/4E3/4G3/4c3/4]z3/4 z6/4[C3/4E3/4G3/4c3/4]z3/4 z6/4[C3/4E3/4G3/4c3/4]z3/4 z6/4[C3/4E3/4G3/4c3/4]z3/4 |
+z6/4[C3/4E3/4G3/4c3/4]z3/4 z6/4[C3/4E3/4G3/4c3/4]z3/4 z6/4[C3/4E3/4G3/4c3/4]z3/4 z6/4[C3/4E3/4G3/4c3/4]z3/4 |
+z6/4[B,3/4D3/4G3/4B3/4]z3/4 z6/4[B,3/4D3/4B3/4]z3/4 z6/4[B,3/4D3/4G3/4B3/4]z3/4 z6/4[B,3/4D3/4B3/4]z3/4 |
+z6/4[B,3/4D3/4G3/4B3/4]z3/4 z6/4[B,3/4D3/4B3/4]z3/4 z6/4[B,3/4D3/4G3/4B3/4]z3/4 z6/4[B,3/4D3/4B3/4]z3/4 |
+z6/4[C3/4E3/4G3/4c3/4]z z6/4[C3/4E3/4G3/4c3/4]z3/4 [C3/4E3/4G3/4c3/4]z9/4 [C6/4E6/4G6/4c6/4]z6/4 |
+

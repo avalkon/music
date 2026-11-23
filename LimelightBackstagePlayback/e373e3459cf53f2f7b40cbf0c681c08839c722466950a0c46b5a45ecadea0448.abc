@@ -1,0 +1,1804 @@
+N: TS 10,   9  21   8   3   1   5  22   4  23   6
+X: 9
+%%Orig filename was GhostRoseAges1.abc
+T: GhostOf Rose2_Multi10 (5:21) - Lute of Ages 1
+%%part-name Lute of Ages 1
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++f+ z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z/ f// g// +mf+ a// b// c'/ g |
+% Bar 10 (0:18)
+z/ +mp+ a// b// +mf+ c'// d// e// b// g |
+z/ +p+ f// +mp+ g// a// +mf+ b// c'/ g |
+d// c'/8 [d/8c'/8] a// b// g// d// B// G// B// d// g/ |
+z/ f// g// a// b// c'/ g |
+z/ a// b// c'// d// e// b// g |
+z/ g// a// b// c'// c'// g// e |
+a// g/8 [g/8a/8] [e/8-^f/8] e/8 f// d// A// ^F// D// F// A// d/ |
++mp+ ^d// e// ^f// e// d// ^c// d// b// f// d// f/ |
++mf+ b// ^f// ^d// B// d// f// b/- b |
++p+ B/ B/ B/ B/- B/ B/ |
+% Bar 20 (0:39)
+A// G3/4 A/ B/- B |
+B B/ B/- B/ e/ |
+g/ ^f/ e/ d/ A/ c/ |
+c3/2 B/- B |
+z3 |
+B/ B/ B/ B/- B |
+e B/ c// B z// |
+B B/ B/- B/ e/ |
+g/ ^f/ e/ d/ A/ c/ |
+c3/2 B/- B |
+% Bar 30 (1:00)
+z3 |
+B3/2 ^d/- d |
+^f3/2 z/ z |
+z/ e/ g/ ^f/- f |
+z/ e/ g/ ^f/- f |
+z/ e/ g/ a/- a/ g/ |
+^f/ e/ d/ e/- e |
+a/ b/ c'/ b/- b/ z/ |
+a// g3/4 f/ g/- g/ z/ |
+z/ e/ g/ ^f/- f- |
+% Bar 40 (1:21)
+^f3/2 z/ z/ d/ |
+d/ e// ^f3/4 e/- e |
+z3 |
+z3 |
+z3 |
+z3/2 b// b3/4 b/ |
+b b/ a/- a/ c'/ |
+b3/2 b/- b/ b/ |
+b e/ g/ ^f/ e/ |
+d/ a/ c'/ c'/- c' |
+% Bar 50 (1:42)
+b3/2 z/ z |
+z3/2 b/ b// b/ ^a/8 b/8- |
+b3/4 z3/4 a/ b// c'/ b//- |
+b3/4 z// c'/ a/8 b7/8 b/ |
+b e/ g/ ^f/8 g/8 f// e/ |
+d/ a/ c'/ c'/- c' |
+b3/2 z/ z |
+z a/ b/- b |
+^d3/2 ^f/- f |
+z z// +mf+ [E,/8B,/8E/8G/8B/8e/8] [E,/8B,/8E/8G/8B/8e/8] [E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mf+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+% Bar 60 (2:03)
+[A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] [E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mf+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[A,/-D/-A/-d/-^f/] +p+ [A,//D//A//d//f//] +mf+ [A,//D//A//d//f//] [A,/D/A/d/f/] [E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mf+ [E,//B,//E//G//B//e//]
+	[E,/B,/E/G/B/e/] |
+[E,3/4C3/4E3/4G3/4c3/4e3/4] [E,//C//E//G//c//e//] [E,/C/E/G/c/e/] [A,/-D/-A/-d/-^f/-] +p+ [A,//D//A//d//e//-f//] +mf+ [A,//D//A//d//e//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [F,3/4C3/4F3/4A3/4c3/4f3/4] [F,//C//F//A//c//f//] [F,/C/F/A/c/f/] |
+[C3/4E3/4G3/4c3/4e3/4g3/4-] [C//E//G//c//e//g//] [C/E/G/c/e/] [E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mf+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/-] [C/-D/-G/-c/-d/-f/-] [C//D//G//c//d//f//-] [C//D//G//c//d//f//-] [C/D/G/c/d/f/] |
+[B,-^F-B-d^f-] +p+ [B,/F/B/d/f/] d/ e// f3/4 |
++mf+ [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+% Bar 70 (2:24)
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,/-D/-A/-d/-^f/-] +p+ [A,//D//A//d//e//f//] +mf+ [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[E,3/4B,3/4E3/4^G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4D3/4G3/4B3/4e3/4] [E,3/4B,3/4D3/4G3/4B3/4e3/4] |
+[E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] [E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] |
+[F,3/4C3/4F3/4A3/4c3/4f3/4] [F,//C//F//A//c//f//] [F,/C/F/A/c/f/] [G,3/4B,3/4D3/4G3/4B3/4g3/4] [G,//B,//D//G//B//g//] [G,/B,/D/G/B/g/] |
+[E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] [E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] |
+[F,3/4C3/4F3/4A3/4c3/4f3/4] [F,//C//F//A//c//f//] [F,/C/F/A/c/f/] [G,3/4B,3/4D3/4G3/4B3/4g3/4] [G,//B,//D//G//B//g//] [G,/B,/D/G/B/g/] |
+% Bar 80 (2:45)
+[E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] [E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] |
+[F,3/4C3/4F3/4A3/4c3/4f3/4] [F,//C//F//A//c//f//] [F,/C/F/A/c/f/] [G,3/4B,3/4D3/4G3/4B3/4g3/4] [G,//B,//D//G//B//g//] [G,/B,/D/G/B/g/] |
+[E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] [E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] |
+[A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] [A,3/4D3/4A3/4d3/4f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] [D3/4A3/4c3/4f3/4] [D//A//c//f//] [D/A/c/f/] |
+z/ f// g// a// b// c'/ g |
+z/ a// b// c'// d// e// b// g |
+z/ f// g// a// b// c'/ g |
+d// c'/8 [d/8c'/8] a// b// g// d// B// G// B// d// g/ |
+z/ f// g// a// b// c'/ g |
+% Bar 90 (3:06)
+z/ a// b// c'// d// e// b// g |
+z/ g// a// b// c'// c'// g// e |
+a// g/8 [g/8a/8] [e/8-^f/8] e/8 f// d// A// ^F// D// F// A// d/ |
+^d// e// ^f// e// d// ^c// d// b// f// d// f/ |
+b// ^f// ^d// B// d// f// b/- b |
++p+ b// b3/4 b/ b/- b/ b/ |
+e a/ b/- b |
+b b/ b/- b/ e/ |
+g/ ^f/ e/ d/ a/ c'/ |
+c'3/2 b/- b |
+% Bar 100 (3:27)
+z3 |
+B/ B/ B/ B/- B/ B/ |
+e B/ c// B B// |
+A/8 B7/8 B/ B/- B/ e/ |
+g/ ^f/8 g/8 f// e/ d/ A/ c/ |
+c3/2 B/- B |
+z2 z/ a/ |
+b3/2 ^d/- d |
+^f3/2 z/ z3/4 +mf+ [E,/8B,/8E/8G/8B/8e/8] [E,/8B,/8E/8G/8B/8e/8] |
+[E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mp+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+% Bar 110 (3:48)
+[E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mp+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mp+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4C3/4E3/4G3/4c3/4e3/4] [E,//C//E//G//c//e//] [E,/C/E/G/c/e/] |
+[A,/-D/-A/-d/-^f/-] +p+ [A,//D//A//d//e//-f//] +mp+ [A,//D//A//d//e//f//] [A,/D/A/d/f/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[F,3/4C3/4F3/4A3/4c3/4f3/4] [F,//C//F//A//c//f//] [F,/C/F/A/c/f/] [C/-E/-G/-c/-e/-g/-] [C//E//G//c//e//g//-] [C//E//G//c//e//g//] [C/E/G/c/e/] |
+[E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mp+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/-] |
+[C3/4D3/4G3/4c3/4d3/4^f3/4-] [C//D//G//c//d//f//-] [C/D/G/c/d/f/] [B,/-^F/-B/-d/-f/-] [B,/-F/-B/-d/f/-] +p+ [B,/F/B/d/f/] |
+d/ e// ^f3/4 +mf+ [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] [E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mp+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[A,/-D/-A/-d/-^f/] +p+ [A,//D//A//d//f//] +mp+ [A,//D//A//d//f//] [A,/D/A/d/f/] [E,/-B,/-E/-G/-B/-e/] +p+ [E,//B,//E//G//B//e//] +mf+ [E,//B,//E//G//B//e//]
+	[E,/B,/E/G/B/e/] |
+% Bar 120 (4:09)
+[E,3/4C3/4E3/4G3/4c3/4e3/4] [E,//C//E//G//c//e//] [E,/C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//g//-] [A,/D/A/d/f/g/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4A,3/4E3/4A3/4c3/4e3/4] [E,//A,//E//A//c//e//] [E,/A,/E/A/c/e/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [F,3/4C3/4F3/4A3/4c3/4f3/4] [F,//C//F//A//c//f//] [F,/C/F/A/c/f/] |
+[C//-E//-G//-c//-e//-g//] +p+ [C//-E//-G//-c//-e//-a//] [C//E//G//c//e//g//-] +mp+ [C//E//G//c//e//g//-] [C/E/G/c/e/g/] [E,/-B,/-E/-G/-B/-e/] +p+
+	[E,//B,//E//G//B//e//] +mp+ [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/-] [C/-D/-G/-c/-d/-f/-] [C//D//G//c//d//f//-] [C//D//G//c//d//f//-] [C/D/G/c/d/f/] |
+[B,-^F-B-d^f-] +p+ [B,/F/B/d/f/] d/ e// f3/4 |
++mf+ [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+% Bar 130 (4:29)
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
++f+ [C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+E3/4 B,// E// ^F// G// B// e// ^f// g// a// |
+a// a// b// c'// b// c'// d// c'// d// e// d// c'// |
+b// a// g// ^f// g// f/8 [f/8g/8] e// B// G// B// e// B// |
+c// B// A// D// ^F// D// d// A// F// A// d// A// |
++mf+ [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+% Bar 140 (4:50)
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
++mp+ [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
++p+ [C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
+[C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
++pp+ [C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+% Bar 150 (5:11)
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
++ppp+ [C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+[E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] [E,3/4B,3/4E3/4G3/4B3/4e3/4] [E,//B,//E//G//B//e//] [E,/B,/E/G/B/e/] |
++pppp+ [C3/4E3/4G3/4c3/4e3/4] [C//E//G//c//e//] [C/E/G/c/e/] [A,3/4D3/4A3/4d3/4^f3/4] [A,//D//A//d//f//] [A,/D/A/d/f/] |
+z3 |]
+
+X: 21
+%%Orig filename was GhostRoseAges2.abc
+T: GhostOf Rose2_Multi10 (5:21) - Lute of Ages 2
+%%part-name Lute of Ages 2
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mp+ [E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+A3/2 A/- A |
+A3/2 A/- A/ z/ |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z3 |
+z3/2 c3/4 d// e/ |
+z3/2 E3/4 F// G/ |
+z3/2 c3/4 d// e/ |
+^f/ a/ f/ d/ A/ d/ |
+b/ ^f/ ^d/ B/ ^F/ ^D/ |
+^F/ B/ ^d e/ ^f/ |
+z3 |
+% Bar 20 (0:39)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (1:00)
+z3 |
+z3 |
+z3 |
+z/ e/ g/ ^f/- f |
+z/ e/ g/ ^f/- f |
+z/ e/ g/ a/- a/ g/ |
+^f/ e/ d/ e/- e |
+c3/2 B/- B |
+A3/2 G/- G |
+z/ E/ G/ ^F/- F- |
+% Bar 40 (1:21)
+^F2- F/ z/ |
+z3/2 [E/-B/-] [EB] |
+[E3/2B3/2] [C/-A/-] [CA] |
+[D3/2A3/2] [E/-B/-] [EB] |
+[E3/2B3/2] [C/-A/-] [CA] |
+[D3/2A3/2] B/- B- |
+B3 |
+A3/2 B/- B- |
+B3/2 G/- G |
+A3/2 G/- G- |
+% Bar 50 (1:42)
+G3/2 B/- B- |
+B3/2 B/- B |
+A3/2 G/- G |
+A3/2 B/- B- |
+B3/2 G/- G |
+A3/2 G/- G- |
+G3- |
+G3/2 ^F/- F- |
+[^F3-B3-] |
+[^F/B/] z/ z e/ g/ |
+% Bar 60 (2:03)
+^f3/2 z/ e/ g/ |
+^f3/2 z/ e/ g/ |
+a g/ ^f/ e/ d/ |
+e3/2 c/- c |
+B3/2 A/- A |
+G3/2 z/ E/ G/ |
+^F3- |
+^F3/2 z/ z |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+% Bar 70 (2:24)
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3B3] |
+[E3B3] |
+[E3/2A3/2] [E/-A/-] [EA] |
+[F3/2A3/2] [D/-G/-] [DG] |
+[E3/2A3/2] [E/-A/-] [EA] |
+[F3/2A3/2] [D/-G/-] [DG] |
+% Bar 80 (2:45)
+[E3/2A3/2] [E/-A/-] [EA] |
+[F3/2A3/2] [D/-G/-] [DG] |
+[E3A3] |
+[D3-^F3-] |
+[D3^F3] |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 c3/4 d// e/ |
+% Bar 90 (3:06)
+z3/2 E3/4 F// G/ |
+z3/2 c3/4 d// e/ |
+^f/ a/ f/ d/ A/ d/ |
+b/ ^f/ ^d/ B/ ^F/ ^D/ |
+^F/ B/ ^d e/ ^f/ |
+B3- |
+B3/2 A/- A |
+B3 |
+G3/2 A/- A |
+G3 |
+% Bar 100 (3:27)
+B3 |
+B3/2 A/- A |
+G3/2 A/- A |
+B3 |
+G3/2 A/- A |
+G3- |
+G3 |
+^F3/2- [F/-B/-] [F-B-] |
+[^F2B2] z |
+z/ e/ g/ ^f/- f |
+% Bar 110 (3:48)
+z/ e/ g/ ^f/- f |
+z/ e/ g/ a/- a/ g/ |
+^f/ e/ d/ e/- e |
+c3/2 B/- B |
+A3/2 G/- G |
+z/ E/ G/ ^F/- F- |
+^F2- F/ z/ |
+z2 e/ g/ |
+^f3/2 z/ e/ g/ |
+^f3/2 z/ e/ g/ |
+% Bar 120 (4:09)
+a g/ ^f/ e/ d/ |
+e3/2 c/- c |
+B3/2 A/- A |
+G3/2 z/ E/ G/ |
+^F3- |
+^F z z |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+% Bar 130 (4:29)
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
++p+ [C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+% Bar 140 (4:50)
+[E3/2B3/2] [E/-B/-] [EB] |
++pp+ [C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
++ppp+ [C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
++pppp+ [C3/2A3/2] [D/-A/-] [DA] |
+% Bar 150 (5:11)
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+[E3/2B3/2] [E/-B/-] [EB] |
+[C3/2A3/2] [D/-A/-] [DA] |
+z3 |]
+
+X: 8
+%%Orig filename was GhostRoseBass.abc
+T: GhostOf Rose2_Multi10 (5:21) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mf+ z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z/ G,/ D/ G/ B/ d/ |
+f3/2 c/- c |
+A3/2 E/- E |
+F3/2 C/- C |
+D/ ^F/ A/ d/ ^f/ a/ |
+^f// ^d// B// ^F// B// F// ^D/- D |
+^f// ^d// B// ^F// ^D// F// B,/- B, |
+z3 |
+% Bar 20 (0:39)
+z3 |
+z3 |
+z3 |
+G3- |
+G3/2 B,/- B, |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (1:00)
+z3 |
+B,3 |
+B,3/2 B,/ z |
+z/ E/ G/ ^F/ A/ D/ |
+z/ E/ G/ B/ ^F/ B,/ |
+z3/2 G/- G |
+A3/2 B/ G/ E/ |
+A3/2 E/- E |
+F3/2 C/- C |
+E3/2 D/- D |
+% Bar 40 (1:21)
+C3/2 B,/- B,/ z/ |
+z3/2 E,/- E, |
+E,3/2 C,/- C, |
+D,3/2 E,/- E, |
+E,3/2 C,/- C, |
+D,3/2 z/ z |
+z3 |
+z3 |
+z3 |
+z3/2 G,/- G,- |
+% Bar 50 (1:42)
+G,3 |
+B,3/2 E/- E |
+D3/2 C/- C |
+B,3/2 E/- E |
+D3/2 C/- C |
+D3/2 G,/- G,- |
+G,3- |
+G,3/2 B,/- B,- |
+B,3/2 B,/- B, |
+B,/ z/ z E/ G/ |
+% Bar 60 (2:03)
+^F/ A/ D/ z/ E/ G/ |
+B/ ^F/ B,/ z/ z |
+G3/2 A/- A |
+B/ G/ E/ A/- A |
+E3/2 F/- F |
+C3/2 E/- E |
+D3/2 C/- C |
+B, z z |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+% Bar 70 (2:24)
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3 |
+z3 |
+A,3 |
+F,3/2 G,/- G, |
+A,3 |
+F,3/2 G,/- G, |
+% Bar 80 (2:45)
+A,3 |
+F,3/2 G,/- G, |
+A,3 |
+D3- |
+D3 |
+z3 |
+z3 |
+z3 |
+z/ G,/ D/ G/ B/ d/ |
+f3/2 c/- c |
+% Bar 90 (3:06)
+A3/2 E/- E |
+F3/2 C/- C |
+D/ ^F/ A/ d/ ^f/ a/ |
+^f// ^d// B// ^F// B// F// ^D/- D |
+^f// ^d// B// ^F// ^D// F// B,/- B, |
+z3 |
+z3 |
+z3 |
+z3 |
+G,3- |
+% Bar 100 (3:27)
+G,3/2 B,/- B, |
+E3/2 D/- D |
+C3/2 B,/- B, |
+E3/2 D/- D |
+C3/2 D/- D |
+G,3- |
+G,3 |
+B,3 |
+B,3/2 B,/ z |
+z/ E/ G/ ^F/ A/ D/ |
+% Bar 110 (3:48)
+z/ E/ G/ B/ ^F/ B,/ |
+z3/2 G/- G |
+A3/2 B/ G/ E/ |
+A3/2 E/- E |
+F3/2 C/- C |
+E3/2 D/- D |
+C3/2 B,/- B,/ z/ |
+z2 E/ G/ |
+^F/ A/ D/ z/ E/ G/ |
+B/ ^F/ B,/ z/ z |
+% Bar 120 (4:09)
+G3/2 A/- A |
+B/ G/ E/ A/- A |
+E3/2 F/- F |
+C3/2 E/- E |
+D3/2 C/- C |
+B, z z |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+% Bar 130 (4:29)
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++mp+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++p+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+% Bar 140 (4:50)
+E,3/2 E,/- E, |
++pp+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++ppp+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++pppp+ C,3/2 D,/- D, |
+% Bar 150 (5:11)
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+z3 |]
+
+X: 3
+%%Orig filename was GhostRoseClar.abc
+T: GhostOf Rose2_Multi10 (5:21) - Clarinet
+%%part-name Clarinet
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++p+ E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,3/4 E,// D,/ |
+E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,/- F, |
+E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,/- F, |
+z3 |
+z3 |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z3/2 D,/ G,/ B,/ |
+C3/2 C/- C |
+C/ B,/ A,/ B,/- B, |
+F/ E/ D/ C/ D/ E/ |
+[^F,3D3] |
+[^F,3/2^D3/2] [B,/-^F/-] [B,-F-] |
+[B,3/2^F3/2] z/ z |
+z3 |
+% Bar 20 (0:39)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (1:00)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z/ G,/ B,/ A,/- A,- |
+% Bar 40 (1:21)
+A,2- A,/ z/ |
+z3/2 E,/- E,/ G,/ |
+E, G,/ A,/- A,/ G,/ |
+^F,3/2 E,/- E,/ G,/ |
+E, G,/ A,/- A,/ G,/ |
+^F,3/2 B,/- B,- |
+B,3/2 C/- C |
+B,3- |
+B,3/2 G,/- G, |
+A,3/2 G,/- G,- |
+% Bar 50 (1:42)
+G,3 |
+^F,3/2 z/ z |
+z3/2 B,/- B,- |
+[B,3/2E3/2-] E3/2 |
+^F3/2 G/- G |
+A3/2 d/- d- |
+d3- |
+d3/2 [^D/-^d/-] [D-d-] |
+[^D3/2^d3/2-] d3/2- |
+^d/ z/ z z |
+% Bar 60 (2:03)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z2 G,/ B,/ |
+A,3- |
+A, z z |
+E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,/- F, |
+% Bar 70 (2:24)
+E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,/- F, |
+E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,/- F, |
+E,3/2- [E,/-E/-] [E,E] |
+E/ ^F/ ^G/ G/ A/ B/ |
+A c/ A/- A/ c/ |
+d c/ B3/4 A// G/ |
+A c/ A/- A/ c/ |
+d c/ B/- B |
+% Bar 80 (2:45)
+A c/ A/- A/ c/ |
+d c/ B3/4 A// G/ |
+A3 |
+d3- |
+d3 |
+z3 |
+z3 |
+z3 |
+z3/2 D,/ G,/ B,/ |
+C3/2 C/- C |
+% Bar 90 (3:06)
+C/ B,/ A,/ B,/- B, |
+F/ E/ D/ C/ D/ E/ |
+[^F,3D3] |
+[^F,3/2^D3/2] [B,/-^F/-] [B,-F-] |
+[B,3/2^F3/2] z/ z |
+B,3 |
+C3/2 B,/- B,- |
+B,3 |
+G,3/2 A,/- A, |
+G,3- |
+% Bar 100 (3:27)
+G,3/2 ^F,/- F, |
+z3 |
+B,3/2- [B,/-E/-] [B,E-] |
+E3/2 ^F/- F |
+G3/2 A/- A |
+d3- |
+d3 |
+[^D3^d3-] |
+^d2 z |
+z3 |
+% Bar 110 (3:48)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z/ G,/ B,/ A,/- A,- |
+A,2- A,/ z/ |
+z3 |
+z3 |
+z3 |
+% Bar 120 (4:09)
+z3 |
+z3 |
+z3 |
+z2 G,/ B,/ |
+A,3- |
+A, z z |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 130 (4:29)
+z3 |
+z3 |
+z3 |
+g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+e3/2 z/ z |
+z3 |
+z3 |
++pp+ g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+e3/2 z/ z |
+z3 |
+% Bar 140 (4:50)
+z3 |
++ppp+ g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+e3/2 z/ z |
+z3 |
+z3 |
++pppp+ g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+e3/2 z/ z |
+z3 |
+z3 |
+g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+% Bar 150 (5:11)
+e3/2 z/ z |
+z3 |
+z3 |
+g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+z3 |]
+
+X: 1
+%%Orig filename was GhostRoseFlute.abc
+T: GhostOf Rose2_Multi10 (5:21) - Flute
+%%part-name Flute
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mp+ E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
+A G/ ^F/- F |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E3- |
+E2- E/ z/ |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z3 |
++p+ F3/2 E/- E |
+E3/4 D// C/ B,/- B, |
+A,3/2 C/- C |
+D3 |
+B,3/2 ^D/- D |
+B,// ^C// ^D// B,// ^F,// ^D,// B,/- B, |
++mp+ E3/2 D/- D |
+% Bar 20 (0:39)
+C3/2 B,/- B, |
+E3/2 ^F/- F |
+G3/2 ^F/- F |
+D3/2 D/- D |
+D3/2 ^D/- D |
+E3/2 ^F/- F |
+G3/2 ^F/- F |
+E3/2 D/- D |
+C3/2 D/- D |
+D3 |
+% Bar 30 (1:00)
+D3 |
+^D3 |
+^F3/2 z/ z |
+z/ E/ G/ ^F/- F |
+z/ E/ G/ ^F/- F |
+z/ E/ G/ A/- A/ G/ |
+^F/ E/ D/ E/- E |
+A/ B/ c/ B/- B/ z/ |
+A3/4 G// F/ G/- G/ z/ |
+z/ E/ G/ ^F/- F- |
+% Bar 40 (1:21)
+^F3/2 z/ z |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 E/- E |
+^F3/2 G/- G |
+^F3/2 D/- D |
+% Bar 50 (1:42)
+D3/2 D/- D |
+^D3/2 E/- E |
+^F3/2 G/- G |
+^F3/2 E/- E |
+D3/2 C/- C |
+D3/2 D/- D- |
+D3/2 D/- D- |
+D3/2 ^D/- D- |
+^D3/2 ^F/- F- |
+^F/ z/ z E/ G/ |
+% Bar 60 (2:03)
+^F/- +p+ [B,//F//-] [A,//F//-] [G,//F//-] [^F,//F//] E,/- +mp+ [E,/E/] G/ |
+^F/- +p+ [^F,//F//-] [G,//F//-] [F,//F//-] [D,//F//] E,/- +mp+ [E,/E/] [B,/G/] |
+[C-A] [C/G/] [D/-^F/] [D/E/] D/ |
+E//- [E//-^F//] [E//-G//] [E//F//] E/ [C/-A/] [C/-B/] [C/c/] |
+[B,-B] B,/ [A,/-A/] [A,/-G/] [A,/F/] |
+[G,-G] G,/ z/ +p+ G,/ B,/ |
+A,3/2 D/- D- |
+D z z |
++pp+ E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,3/4 E,// D,/ |
+% Bar 70 (2:24)
+E, G,/ E,/- E,/ G,/ |
+A, G,/ ^F,/- F, |
++p+ E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E3 |
+E/ ^F/ ^G/ G/ A/ B/ |
+A c/ A/- A/ c/ |
+d c/ B3/4 A// G/ |
+A c/ A/- A/ c/ |
+d c/ B/- B |
+% Bar 80 (2:45)
+A c/ A/- A/ c/ |
+d c/ B3/4 A// G/ |
+A3 |
+d3 |
+A/ B/ c/ d/ e/ ^f/ |
+f3/2 e/- e |
+e3/4 d// c/ B/- B |
+c3/4 B// A/ G/ F/ E/ |
+D3/2 [B,/-G/-] [B,G] |
+[A,3/2F3/2] [G,/-E/-] [G,E] |
+% Bar 90 (3:06)
+E3/4 D// C/ [G,/-B,/-] [G,B,] |
+C3/4 B,// A,/ G,/- G, |
+^F,3/2 A,/- A, |
+B,3/2 ^D/- D |
+B,// ^C// ^D// B,// ^F,// ^D,// B,/- B, |
+z3 |
+z3 |
++mp+ E3/2 ^F/- F |
+G3/2 ^F/- F |
+D3/2 D/- D |
+% Bar 100 (3:27)
+D3/2 ^D/- D |
+E3/2 ^F/- F |
+G3/2 ^F/- F |
+E3/2 D/- D |
+C3/2 D/- D |
+D3 |
+D3 |
+^D3 |
+^F2 z |
+z/ E/ G/ ^F/- +p+ [D,//F//-] [^F,//F//-] [A,//F//-] [D//F//] |
+% Bar 110 (3:48)
+B,/- +mp+ [B,/-E/] [B,/G/] ^F/ +p+ F//- [F//G//] F//- [D//F//] |
+E/ +mp+ E/- [E/G/] [^F/-A/-] [F/A/] [E/G/] |
+[D/-^F/] [D/E/] [D/F/] [E/-G/] +p+ [E/-F/] [B,/E/] |
++mp+ [C/-A/] [C/-B/] [C/c/] [B,/-B/-] [B,/-B/] B,/ |
+[A,/-A/] [A,/-G/] [A,/F/] [G,/-G/-] [G,/-G/] G,/ |
+z/ +p+ G,/ B,/ A,/- A, |
+D2- D/ z/ |
+z2 +mp+ E/ G/ |
+^F/- +p+ [F//-B//] [F//-A//] [F//G//] F// E/ +mp+ E/ G/ |
+^F/ +p+ F//- [F//G//] F//- [D//F//] E/ +mp+ E/ [G/B/] |
+% Bar 120 (4:09)
+[Ac] [G/B/] [^F/A/-] [E//-A//] +p+ [E//F//-] +mp+ [D/F/] |
+[E//-B//] +p+ [E//-A//] [E//-G//] [E//^F//] E/ +mp+ [C/-A/] [C/-B/] [C/c/] |
+[B,-B] B,/ [A,/-A/] [A,/-G/] [A,/F/] |
+[G,-G] G,/ z/ +p+ B,/ E/ |
+^F3/2 d/- d- |
+d z z |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 130 (4:29)
+z3 |
+z3 |
+z3 |
+g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+e3/2 z/ z |
+z3 |
+z3 |
++mp+ g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+B// G// E// B,// E// z// B// z// E// z// G// z// |
+E/ ^F// G// F// E// F// E// D// C// B,// A,// |
+% Bar 140 (4:50)
+E E// ^F// G/ A/ B/ |
+c z/ B/ c/ d/ |
++ppp+ e2 z |
+z3 |
+z3 |
++pppp+ g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+e3/2 z/ z |
+z3 |
+z3 |
+g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+% Bar 150 (5:11)
+z3 |
+z3 |
+z3 |
+g// ^f// d// G// ^F// z// g// f// d// A// d// f// |
+z3 |]
+
+X: 5
+%%Orig filename was GhostRoseHarp1.abc
+T: GhostOf Rose2_Multi10 (5:21) - Harp 1
+%%part-name Harp 1
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++ff+ E G/ E/- E/ G/ |
+A G/8 A/8 G// ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
+A G/ ^F/- F |
+E G/ E/- E/ G/ |
+A G/ ^F/8 G/8 F/8 G/8 F/8 G/8 E// D/ |
+E3- |
+E3 |
+A/ G/ F/ G/ E |
+% Bar 10 (0:18)
+c/ B/ A/ G/- G |
+A F/ G3/4 F// E/ |
+D3/2 G/- G |
+A/ G/ F/ G/ E |
+c/ B/ A/ G/- G |
+f3/4 e// d/ c3/4 d// e/ |
+d/8 [d/8e/8] +mf+ e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] |
++ff+ ^d// e// d// ^c// d// e// ^f/- f |
++f+ e// ^d// ^c// d// B// ^F// ^D/- D |
+z3 |
+% Bar 20 (0:39)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (1:00)
+z3 |
+z3 |
+z2 z3/4 B,/8 [E,/8G,/8] |
+[B,/8G/8-] G3/8 E/ G/ ^F/ D/ F3/8 G,/8 |
+[B,/8G/8-] G3/8 E/ G/ ^F/ D/ F3/8 G,/8 |
+[B,/8G/8-] G3/8 E/ G/ A/- A/ G/ |
+^F3/4 E// D/ E/- E |
+A/ B/ c/ B/- B/ z/ |
+A3/4 G// F/ G/- G/ z/ |
+z/ E/ G/ ^F/- F- |
+% Bar 40 (1:21)
+^F3/2 z/ z |
+z3/2 +ff+ [E/-e/-] [E/e/] [G/g/] |
+[Ee] [G/g/] [A/-a/-] [A/a/] [G/g/] |
+[^F3/4^f3/4-] +f+ [E//f//] +ff+ [D/g/] [E/-e/-] [E/e/-] +f+ [G/e/-] |
+[E/-e/] +ff+ [E/^f/] [G/g/] [A/-a/-] [A//-a//] [A//g//] [G/f/] |
+[^F3/4-e3/4] [F//-^f//] [F/d/] e/- e/ z/ |
+z3 |
+z3 |
+z +f+ e/ g/ +ff+ ^f/ g/ |
+a3/2 g/- g- |
+% Bar 50 (1:42)
+g2 d/ g/ |
++f+ ^f3/4 g// a/ b/- b- |
+b2 a/ g/ |
+^f3/2 e/- e- |
+e3/2 z/ z |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 60 (2:03)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+% Bar 70 (2:24)
+E G/ E/- E/ G/ |
+A G/ ^F/- F |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 80 (2:45)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+A/ G/ F/ G/ E |
+c/ B/ A/ G/- G |
+A F/ G3/4 F// E/ |
+D3/2 G/- G |
+A/ G/ F/ G/ E |
+% Bar 90 (3:06)
+c/ B/ A/ G/- G |
+f3/4 e// d/ c3/4 d// e/ |
+d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] d/8 [d/8e/8] e/8 [d/8e/8] |
+^d3/2 ^f/- f |
+e// ^d// ^c// d// B// ^F// ^D/- D |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 100 (3:27)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 110 (3:48)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 120 (4:09)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
+A G/ ^F/- F |
+% Bar 130 (4:29)
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
++mf+ A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
++mp+ A G/ ^F/- F |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+% Bar 140 (4:50)
+E G/ E/- E/ G/ |
++p+ A G/ ^F3/4 E// D/ |
+[E3/2e3/2] [E/-e/-] [Ee] |
+[E3/2e3/2] [D/d/] [E/e/] [^F/^f/] |
+[E3/2e3/2] z/ z |
++pp+ A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+E G/ E/- E/ G/ |
++ppp+ A G/ ^F/- F |
+% Bar 150 (5:11)
+E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
++pppp+ E G/ E/- E/ G/ |
+A G/ ^F3/4 E// D/ |
+z3 |]
+
+X: 22
+%%Orig filename was GhostRoseHarp2.abc
+T: GhostOf Rose2_Multi10 (5:21) - Harp 2
+%%part-name Harp 2
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mp+ z3 |
+z3 |
+z3 |
+z3 |
+E,3 |
+C,3/2 D,/- D, |
+A,3- |
+A,2- A,/ z/ |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+^F3/2 B/- B |
+z3 |
+% Bar 20 (0:39)
+z3 |
+E3/2 D/- D |
+C/ B,/ C/ D/- D |
+G,3/2 +mf+ G,/ B,/ D/ |
+G3/2 ^F/- F |
++mp+ E3/2 D/- D |
+C3/2 B,/- B, |
+E3/2 D/- D |
+C/ B,/ C/ D/ A,/ C/ |
+G,3 |
+% Bar 30 (1:00)
++mf+ G/ D/ G/ G// D// B,// D// B,// G,// |
++mp+ ^F3/2 ^D/- D |
++mf+ ^F// ^D// B,// ^F,// B,// F,// z/ z |
+z/ B,/ E/ D/- D |
+z/ E// z// E/ D/- D |
+z/ E// z// E// z// C/- C |
+D3/2 E/- E |
+A3/2 B/- B |
+c3/4 B// A/ G/- G |
+z/ B,/ E/ D/- D |
+% Bar 40 (1:21)
+C3/2 B,/- B,/ z/ |
+z3/2 E,/- E, |
+E,3/2 C,/- C, |
+D,3/2 E,/- E, |
+E,3/2 C,/- C, |
+D,3/2 E/- E |
+D3/2 C/- C |
+B,3/2 E/- E |
+D3/2 C/ B,/ C/ |
+D3/2 G,/- G,- |
+% Bar 50 (1:42)
+G,3/2 G,/ D,/ G,/ |
+^F,/ B,/ ^D/ E/- E- |
+E2 ^F/ G/ |
+^F3/2 E/- E |
+D3/2 C/ B,/ C/ |
+D/ A,/ C/ G,/- G, |
+G3/2 G// D// B,// G,// B,// D// |
+G,3/2 B,/- B, |
+^F,3/2 ^D/ B,/ F,/ |
+^D,/ z/ z B,/ E/ |
+% Bar 60 (2:03)
+D3/2 z/ E// z// E/ |
+D3/2 z/ E// z// E// z// |
+C3/2 D/- D |
+E/ B,/ E,/ A/- A |
+B3/2 c3/4 B// A/ |
+G3/2 z/ z |
+D3/2 C/- C |
+B, z z |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+% Bar 70 (2:24)
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3 |
+E/ ^F/ ^G/ G/ A/ B/ |
+A2 z |
++f+ A// F// C// A,// F,// A,// B// G// D// B,// G,// B,// |
++mf+ A3/2 z/ z |
++f+ F,// C,// F,// C// F// A// G,// D,// G,// D// G// B// |
+% Bar 80 (2:45)
++mf+ A3/2 z/ z |
++f+ A// F// C// A,// F,// A,// B// G// D// B,// G,// B,// |
++mf+ A3 |
+D, E,/ ^F,/ G,/ A,/ |
+C/ D/ E/ ^F/ G/ A/ |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 90 (3:06)
+z3 |
+z3 |
+z3 |
+z3 |
+^F3/2 B/- B |
+E3/2 D/- D |
+C3/2 B,/- B, |
+E3/2 D/- D |
+C/ B,/ C/ D/- D |
+G,3 |
+% Bar 100 (3:27)
+G,/ D,/ G,/ ^F,/ B,/ ^D/ |
++mp+ E3- |
+E/ ^F/ G/ F/- F |
+E3/2 D/- D |
+C/ B,/ C/ D/ A,/ C/ |
+G,3/2 G/- G |
+G// D// B,// G,// B,// D// G,/- G, |
+B,3/2 ^F,/- F, |
+^D/ B,/ ^F,/ ^D,/ z |
+z/ B,/ E/ D/- D |
+% Bar 110 (3:48)
+z/ E// z// E/ D/- D |
+z/ E// z// E// z// C/- C |
+D3/2 E/ B,/ E,/ |
+A3/2 B/- B |
+c3/4 B// A/ G/- G |
+z3/2 D/- D |
+C3/2 B,/- B,/ z/ |
+z2 B,/ E/ |
+D3/2 z/ E// z// E/ |
+D3/2 z/ E// z// E// z// |
+% Bar 120 (4:09)
+C3/2 D/- D |
+E/ B,/ E,/ A/- A |
+B3/2 c3/4 B// A/ |
+G3/2 z/ z |
+D3/2 C/- C |
+B, z z |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+% Bar 130 (4:29)
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++mf+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++mp+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+% Bar 140 (4:50)
+E,3/2 E,/- E, |
++p+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++pp+ C,3/2 D,/- D, |
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+E,3/2 E,/- E, |
++ppp+ C,3/2 D,/- D, |
+% Bar 150 (5:11)
+E,3/2 E,/- E, |
+C,3/2 D,/- D, |
++pppp+ E,3/2 E,/- E, |
+C,3/2 D,/- D, |
+z3 |]
+
+X: 4
+%%Orig filename was GhostRoseHorn.abc
+T: GhostOf Rose2_Multi10 (5:21) - Horn
+%%part-name Horn
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mp+ z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 20 (0:39)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (1:00)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z/ [e/g/] [g/b/] [^f/-a/-] [f-a-] |
+% Bar 40 (1:21)
+[^f2-a2-] [f/a/] [d/f/] |
+[d/^f/] [e//g//] [f3/4a3/4] [e/-g/-] [eg] |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 [c/-e/-] [ce] |
+% Bar 50 (1:42)
+[B3/2d3/2] z/ z |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 [c/-e/-] [ce] |
+[B3/2d3/2] z/ z |
+z3/2 [B/-^d/-] [Bd] |
+[^d3/2^f3/2] [f/-b/-] [fb] |
+z2 [B/e/g/] [e/g/b/] |
+% Bar 60 (2:03)
+[d3/2^f3/2a3/2] z/ [B/e/g/] [e/-g/-b/-] |
+[e/g/b/] [d/-^f/-a/-] [d/f/a/] z/ [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[e3/2g3/2] [e/-a/-c'/-] [eac'] |
+[e3/2g3/2b3/2] [c/-f/-a/-] [cfa] |
+[c3/2e3/2g3/2] z/ [e/g/] [g/b/] |
+[^f3a3] |
+z [d/^f/] [d/f/] [e//g//] [f3/4a3/4] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 70 (2:24)
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[e3g3] |
+z3 |
+[ac'] [e/c'/] [a/-c'/-] [a/c'/] [e/c'/] |
+[df] [e/c'/] [d/-b/-] [db] |
+[ac'] [e/c'/] [a/-c'/-] [a/c'/] [e/c'/] |
+[df] [e/c'/] [d/-b/-] [db] |
+% Bar 80 (2:45)
+[ac'] [e/c'/] [a/-c'/-] [a/c'/] [e/c'/] |
+[df] [e/c'/] [d/-b/-] [db] |
+[a3c'3] |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 90 (3:06)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+[c3/2e3/2] [B/-d/-] [Bd] |
+% Bar 100 (3:27)
+z3 |
+z3 |
+z3 |
+z3 |
+z2 z/ [c/e/] |
+[c3/2e3/2] [B/-d/-] [Bd] |
+z3 |
+[B3/2^d3/2] [d/-^f/-] [df] |
+[^f3/2b3/2] z/ z |
+z3 |
+% Bar 110 (3:48)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z2 [B/e/g/] [e/g/b/] |
+[d3/2^f3/2a3/2] z/ [B/e/g/] [e/g/b/] |
+[d3/2^f3/2a3/2] z/ [e/g/] [g/b/] |
+% Bar 120 (4:09)
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[e3/2g3/2] [e/-a/-c'/-] [eac'] |
+[e3/2g3/2b3/2] [c/-f/-a/-] [cfa] |
+[c3/2e3/2g3/2] z/ [e/g/] [g/b/] |
+[^f3a3] |
+z [d/^f/] [d/f/] [e//g//] [f3/4a3/4] |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 130 (4:29)
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
++p+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
++pp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 140 (4:50)
+[g3/2b3/2] [^f/-a/-] [fa] |
++ppp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
++pppp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 150 (5:11)
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[g3/2b3/2] [^f/-a/-] [fa] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+z3 |]
+
+X: 23
+%%Orig filename was GhostRoseLute.abc
+T: GhostOf Rose2_Multi10 (5:21) - Basic Lute
+%%part-name Basic Lute
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mp+ z3 |
+z3 |
+z3 |
+z3 |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[e3-a3-] |
+[e2-a2-] [e/a/] z/ |
+z3 |
+% Bar 10 (0:18)
+z3 |
+z3 |
+z3 |
+z3/2 [e3/4g3/4] [d//f//] [e/c'/] |
+z3/2 [g3/4b3/4] [^f//a//] [e/g/] |
+z3/2 [e/-c'/-] [ec'] |
+[d3^f3] |
+[^d3/2^f3/2] [f/-b/-] [fb] |
+[^d3/2b3/2] z/ z |
+z3 |
+% Bar 20 (0:39)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (1:00)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 [d/-a/-] [d-a] |
+% Bar 40 (1:21)
+[d3/2-g3/2] [d/-^f/-] [d/f/] z/ |
+z3/2 [e/-g/-] [e/g/] [g/b/] |
+[eg] [g/b/] [a/-c'/-] [a/c'/] [g/b/] |
+[^f3/2a3/2] [e/-g/-] [e/g/] [g/b/] |
+[eg] [g/b/] [a/-c'/-] [a/c'/] [g/b/] |
+[^f3/2a3/2] [e/-g/-] [e-g-] |
+[e3g3] |
+[^d3/2^f3/2] [e/-g/-] [e-g-] |
+[e3/2g3/2] [c/-e/-] [ce] |
+[d3/2^f3/2] [B/-d/-] [B-d-] |
+% Bar 50 (1:42)
+[B3d3] |
+[A3/2^d3/2] e/- e- |
+[e3/2a3/2] [c/-g/-] [cg] |
+[B3/2^f3/2] [e/-b/-] [eb] |
+e3/2- [c/-e/-] [ce] |
+d3/2 [g/-c'/-] [g-c'] |
+[g3-b3-] |
+[g3/2b3/2] [^f/-b/-] [f-b-] |
+[^f3-b3-] |
+[^f/b/] z/ z z |
+% Bar 60 (2:03)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+[d3/2-a3/2] [d/-g/-] [d-g] |
+[d^f] z z |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 70 (2:24)
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[e3g3] |
+e/ ^f/ ^g/ g/ a/ b/ |
+[c3/2a3/2] [c/-a/-] [ca] |
+[A3/2f3/2] [B/-g/-] [Bg] |
+[c3/2a3/2] [c/-a/-] [ca] |
+[A3/2f3/2] [B/-g/-] [Bg] |
+% Bar 80 (2:45)
+[c3/2a3/2] [c/-a/-] [ca] |
+[A3/2f3/2] [B/-g/-] [Bg] |
+[c3a3] |
+[^f3-a3-] |
+[^f3a3] |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 [e3/4g3/4] [d//f//] [e/c'/] |
+% Bar 90 (3:06)
+z3/2 [g3/4b3/4] [^f//a//] [e/g/] |
+z3/2 [e/-c'/-] [ec'] |
+[d3^f3] |
+[^d3/2^f3/2] [f/-b/-] [fb] |
+[^d3/2b3/2] z/ z |
+[e3-g3-] |
+[e3/2g3/2] [^d/-^f/-] [df] |
+[e3g3] |
+[c3/2e3/2] [d/-^f/-] [df] |
+[B3-d3-] |
+% Bar 100 (3:27)
+[B3/2d3/2] [A/-^d/-] [Ad] |
+e3/2- [e/-a/-] [ea] |
+[c3/2g3/2] [B/-^f/-] [Bf] |
+[e3/2b3/2] e/- e- |
+[c3/2e3/2] d/- d |
+[g3/2-c'3/2] [g/-b/-] [g-b-] |
+[g3b3] |
+[^f3-b3-] |
+[^f2b2] z |
+z3 |
+% Bar 110 (3:48)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/2 [d/-a/-] [d-a] |
+[d3/2-g3/2] [d/-^f/-] [d/f/] z/ |
+z3 |
+z3 |
+z3 |
+% Bar 120 (4:09)
+z3 |
+z3 |
+z3 |
+z3 |
+[d3/2-a3/2] [d/-g/-] [d-g] |
+[d^f] z z |
++mf+ [eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 130 (4:29)
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
++mp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
++p+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 140 (4:50)
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
++pp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
++ppp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
++pppp+ [ac'] [g/b/] [^f/-a/-] [fa] |
+% Bar 150 (5:11)
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+[eg] [g/b/] [e/-g/-] [e/g/] [g/b/] |
+[ac'] [g/b/] [^f/-a/-] [fa] |
+z3 |]
+
+X: 6
+%%Orig filename was GhostRoseMisty.abc
+T: GhostOf Rose2_Multi10 (5:21) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: Blackmores Night
+Z: Tolpo of Imladris
+M: 6/8
+Q: 86
+K: C maj
+
++mf+ E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+C/- [C//-A//] [C//-c//] [C//-g//] [C//c//] D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] |
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+C/- [C//-A//] [C//-c//] [C//-g//] [C//c//] D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-A//] [E//e//] b/ E/- [E//-A//] [E//e//] b/ |
+E/- [E//-A//] [E//e//] b/ E/- [E//-A//] [E//e//] b/ |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C//-g//] C// |
+% Bar 10 (0:18)
+A,/- [A,//-A//] [A,//-e//] [A,//-a//] A,// E,/- [E,//-B//] [E,//-e//] [E,//-g//] E,// |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C//-g//] C// |
+G,/- [G,//-B//] [G,//-d//] [G,/g/] G,/- [G,//-G//] [G,//-B//] [G,//-d//] [G,//g//] |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C/g/] |
+A,/- [A,//-A//] [A,//-e//] [A,/a/] E,/- [E,//-B//] [E,//-e//] [E,/g/] |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C/g/] |
+D/- [D//-A//] [D//-d//] [D/^f/] D/- [D//-A//] [D//-d//] [D/f/] |
+B,/ ^F// B// ^d// ^f// B,/ A// B// f// a// |
+B,/ ^F// B// ^d// ^f// b/- b |
+E/ B// e// g// e// D/ B// d// g// d// |
+% Bar 20 (0:39)
+C/ c// e// g// e// B,/ B// ^d// ^f// b// |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// D/ A// d// g// d// |
+G/ c// d// g// d// G/ B// d// g// d// |
+G/ B// d// g// d// B,/ ^F// B// ^d// ^f// |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// B,/ B// ^d// ^f// b// |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// D/ A// d// g// d// |
+G/ c// d// g// d// G/ B// d// g// d// |
+% Bar 30 (1:00)
+G/ B// d// g// d// G/ B// d// g// d// |
+B,/ ^D// ^F// B// ^d// B,/ A// B// d// ^f// |
+B,/ ^F// B// ^d// ^f// b/- b |
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] D/- [D//-A//] [D//-d//] [D//-^f//] [D//a//] |
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] B,/- [B,//-^F//] [B,//-B//] [B,//-d//] [B,//^f//] |
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] C/ c// e// g// e// |
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] E/- [E//-G//] [E//-B//] [E//-e//] [E//g//] |
+A/- [A//-e//] [A//-a//] [A/c'/] E/- [E//-B//] [E//-e//] [E/g/] |
+F/- [F//-c//] [F//-f//] [F/a/] C/- [C//-c//] [C//-e//] [C/g/] |
+E/- [E//-G//] [E//-B//] [E//-e//] [E//g//] D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] |
+% Bar 40 (1:21)
+C/ c// e// g// e// B,/- B, |
+z3/2 E/- [E//-B//] [E//e//] g/- |
+[E/-g/] [E//-B//] [E//e//] g/ C/- [C//-c//] [C//e//] g/- |
+[D/-g/] [D//-A//] [D//d//] ^f/ E/- [E//-B//] [E//e//] g/- |
+[E/-g/] [E//-B//] [E//e//] g/ C/- [C//-c//] [C//e//] g/- |
+[D/-g/] [D//-A//] [D//d//] ^f/ E/ B// e// g// e// |
+D/ B// d// g// d// C/ c// e// g// e// |
+B,/ B// ^d// ^f// b// E/ B// e// g// e// |
+D/ B// d// g// d// C/ c// e// g// e// |
+D/ A// d// g// d// G/ c// d// g// d// |
+% Bar 50 (1:42)
+G/ B// d// g// d// G/ B// d// g// d// |
+B,/ ^F// B// ^d// ^f// E/ B// e// g// e// |
+D/ B// d// g// d// C/ c// e// g// e// |
+B,/ B// ^d// ^f// b// E/ B// e// g// e// |
+D/ B// d// g// d// C/ c// e// g// e// |
+D/ A// d// g// d// G/ c// d// g// d// |
+G/ B// d// g// d// G/ B// d// g// d// |
+G/ B// d// g// d// B,/ ^D// ^F// B// ^d// |
+B,/ A// B// ^d// ^f// B,/ ^F// B// d// f// |
+b3/2 E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+% Bar 60 (2:03)
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//a//] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+B,/- [B,//-^F//] [B,//-B//] [B,//-d//] [B,//^f//] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+C/ c// e// g// e// D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] |
+E/- [E//-G//] [E//-B//] [E//-e//] [E//g//] A/- [A//-e//] [A//-a//] [A/c'/] |
+E/- [E//-B//] [E//-e//] [E/g/] F/- [F//-c//] [F//-f//] [F/a/] |
+C/- [C//-c//] [C//-e//] [C/g/] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] C/- C |
+B,3/2 z/ z |
+z/ B// e// g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+% Bar 70 (2:24)
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+E/- [E//-B//] [E//e//] ^g/- [E/-g/] [E//-B//] [E//e//] g/ |
+A/- [A//-e//] [A//-a//] [A/c'/] A/- [A//-e//] [A//-a//] [A/c'/] |
+F/- [F//-c//] [F//-f//] [F//-a//] F// G/- [G//-d//] [G//-g//] [G/b/] |
+A/- [A//-e//] [A//-a//] [A/c'/] A/- [A//-e//] [A//-a//] [A/c'/] |
+F/- [F//-c//] [F//-f//] [F//-a//] F// G/- [G//-d//] [G//-g//] [G/b/] |
+% Bar 80 (2:45)
+A/- [A//-e//] [A//-a//] [A/c'/] A/- [A//-e//] [A//-a//] [A/c'/] |
+F/- [F//-c//] [F//-f//] [F//-a//] F// G/- [G//-d//] [G//-g//] [G/b/] |
+A/- [A//-e//] [A//-a//] [A/c'/] A/- [A//-e//] [A//-a//] [A/c'/] |
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] D/- [D//-A//] [D//-d//] [D/f/] |
+D/- [D//-A//] [D//-d//] [D/^f/] D/- [D//-A//] [D//-d//] [D/f/] |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C//-g//] C// |
+A,/- [A,//-A//] [A,//-e//] [A,//-a//] A,// E,/- [E,//-B//] [E,//-e//] [E,//-g//] E,// |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C//-g//] C// |
+G,/- [G,//-B//] [G,//-d//] [G,/g/] G,/- [G,//-B//] [G,//-d//] [G,/g/] |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C//-g//] C// |
+% Bar 90 (3:06)
+A,/- [A,//-A//] [A,//-e//] [A,//-a//] A,// E,/- [E,//-B//] [E,//-e//] [E,//-g//] E,// |
+F,/- [F,//-c//] [F,//-f//] [F,/a/] C/- [C//-c//] [C//-e//] [C//-g//] C// |
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] D/ A// d// f// d// |
+B,/ ^F// B// ^d// ^f// B,/ F// B// d// f// |
+B,/ ^F// B// ^d// ^f// b/- b/ z/ |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// B,/ B// ^d// ^f// b// |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// D/ A// d// g// d// |
+G/ c// d// g// d// G/ B// d// g// d// |
+% Bar 100 (3:27)
+G/ B// d// g// d// B,/ ^F// B// ^d// ^f// |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// B,/ B// ^d// ^f// b// |
+E/ B// e// g// e// D/ B// d// g// d// |
+C/ c// e// g// e// D/ A// d// g// d// |
+G/ c// d// g// d// G/ B// d// g// d// |
+G/ B// d// g// d// G/ B// d// g// d// |
+B,/ ^D// ^F// B// ^d// B,/ A// B// d// ^f// |
+B,/ ^F// B// ^d// ^f// b/- b |
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] D/- [D//-A//] [D//-d//] [D//-^f//] [D//a//] |
+% Bar 110 (3:48)
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] B,/- [B,//-^F//] [B,//-B//] [B,//-d//] [B,//^f//] |
+E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] C/ c// e// g// e// |
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] E/- [E//-G//] [E//-B//] [E//-e//] [E//g//] |
+A/- [A//-e//] [A//-a//] [A/c'/] E/- [E//-B//] [E//-e//] [E/g/] |
+F/- [F//-c//] [F//-f//] [F/a/] C/- [C//-c//] [C//-e//] [C/g/] |
+E3/2 D/- D |
+C3/2 B,/- B, |
+z3/2 E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+D/- [D//-A//] [D//-d//] [D//-^f//] [D//a//] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+B,/- [B,//-^F//] [B,//-B//] [B,//-d//] [B,//^f//] E/- [E//-B//] [E//-e//] [E//-g//] [E//e//] |
+% Bar 120 (4:09)
+C/ c// e// g// e// D/- [D//-A//] [D//-d//] [D//-^f//] [D//d//] |
+E/- [E//-G//] [E//-B//] [E//-e//] [E//g//] A/- [A//-e//] [A//-a//] [A/c'/] |
+E/- [E//-B//] [E//-e//] [E/g/] F/- [F//-c//] [F//-f//] [F/a/] |
+C/- [C//-c//] [C//-e//] [C/g/] E/- E |
+D3/2 C/- C |
+B,3/2 z/ z |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+% Bar 130 (4:29)
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
++mp+ C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
++p+ C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+% Bar 140 (4:50)
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
++pp+ C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
++ppp+ C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
++pppp+ C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+% Bar 150 (5:11)
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+E/- [E//-B//] [E//e//] g/- [E/-g/] [E//-B//] [E//e//] g/ |
+C/- [C//-c//] [C//e//] g/- [D/-g/] [D//-A//] [D//d//] ^f/ |
+z3 |]
+

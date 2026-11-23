@@ -1,0 +1,333 @@
+N: TS  2,   9   1
+X: 9
+%%Orig filename was BretonAges.abc
+%abc-2.1
+%%song-title       Breton Dance
+%%song-composer    Blackmore's Night
+%%song-duration    2:40
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Breton Dance (2:40) - Lute of Ages
+%%part-name Lute of Ages
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 200
+K: C maj
+
++fff+ [G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [F,3c3] c |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,3G3] G |
+[G,2G2] d2 [G2d2] c ^A |
+% Bar 10 (0:10)
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [F,3c3] c |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,3G3] G |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+% Bar 20 (0:22)
+^A G =A ^A [F,2c2] =A2 |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+^A G =A ^A [G,2G2] D2 |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+^A G =A ^A [F,2c2] =A2 |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+% Bar 30 (0:34)
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+^A G =A ^A [G,2G2] [G,d] c |
+d2 G2 [F,2F2] G2 |
+[G,^A] =A2 G [F,2A2] [F,2A2] |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G2 F [F,2A2] F2 |
+[G,2G2] d2 [G2d2] c ^A |
+[G,^A] =A2 G [F,2A2] c2 |
+[G,3^A3] =A G2 F2 |
+% Bar 40 (0:46)
+G2 D2 G,2 d c |
+d2 G2 [F,2F2] G2 |
+[G,^A] =A2 G [F,2A2] [F,2A2] |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G2 F [F,2A2] F2 |
+[G,2G2] d2 [G2d2] c ^A |
+[G,^A] =A2 G [F,2A2] c2 |
+[G,3^A3] =A G2 F2 |
+G2 D2 G,4 |
+[d2g2] [d2g2] [c2f2] [B2e2] |
+% Bar 50 (0:58)
+[A2d2] G2 d c ^A c |
+d2 G2 [C^d] =d c ^A |
+A2 G2 [G,2^A2] c2 |
+d2 G2 [d2g2] [d2g2] |
+[c2f2] [B2e2] [A2d2] G2 |
+d c ^A c d2 G2 |
+[C^d] =d c ^A [F,=A] G2 F |
+G2 D2 G,2 D2 |
+[d2g2] [d2g2] [c2f2] [B2e2] |
+[A2d2] G2 d c ^A c |
+% Bar 60 (1:10)
+d2 G2 [C^d] =d c ^A |
+A2 G2 [G,2^A2] c2 |
+d2 G2 [d2g2] [d2g2] |
+[c2f2] [B2e2] [A2d2] G2 |
+d c ^A c d2 G2 |
+[C^d] =d c ^A [F,=A] G2 F |
+G2 D2 G,4 |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+% Bar 70 (1:22)
+[F,A] G F2 [F,3c3] c |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,3G3] G |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [F,3c3] c |
+[G,2G2] d2 [G2d2] c ^A |
+% Bar 80 (1:34)
+[F,A] G F2 [G,G] ^A c d |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G F2 [G,3G3] G |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+^A G =A ^A [F,2c2] F2 |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+% Bar 90 (1:46)
+^A G =A ^A [G,2G2] D2 |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+^A G =A ^A [F,2c2] F2 |
+[G,2G2] d2 [^A2g2] f/ [f/g/] e |
+[^A2d2] g2 [=A2f2] d2 |
+[G,2g2] f/ [f/g/] e [G2d2] c2 |
+^A G =A ^A [G,2G2] [G,d] c |
+d2 G2 [F,2F2] G2 |
+% Bar 100 (1:58)
+[G,^A] =A2 G [F,2A2] [F,2A2] |
+[G,2G2] d2 [G2d2] c ^A |
+[F,A] G2 F [F,2A2] F2 |
+[G,2G2] d2 [G2d2] c ^A |
+[G,^A] =A2 G [F,2A2] c2 |
+[G,3^A3] =A G2 F2 |
+G2 D2 G,2 d c |
+d2 G2 [F,2F2] G2 |
+[G,^A] =A2 G [F,2A2] [F,2A2] |
+[G,2G2] d2 [G2d2] c ^A |
+% Bar 110 (2:10)
+[F,A] G2 F [F,2A2] F2 |
+[G,2G2] d2 [G2d2] c ^A |
+[G,^A] =A2 G [F,2A2] c2 |
+[G,3^A3] =A G2 F2 |
+G2 D2 G,4 |
+[d2g2] [d2g2] [c2f2] [B2e2] |
+[A2d2] G2 d c ^A c |
+d2 G2 [C^d] =d c ^A |
+A2 G2 [G,2^A2] c2 |
+d2 G2 [d2g2] [d2g2] |
+% Bar 120 (2:22)
+[c2f2] [B2e2] [A2d2] G2 |
+d c ^A c d2 G2 |
+[C^d] =d c ^A [F,=A] G2 F |
+G2 D2 G,2 D2 |
+[d2g2] [d2g2] [c2f2] [B2e2] |
+[A2d2] G2 d c ^A c |
+d2 G2 [C^d] =d c ^A |
+A2 G2 [G,2^A2] c2 |
+d2 G2 [d2g2] [d2g2] |
+[c2f2] [B2e2] [A2d2] G2 |
+% Bar 130 (2:34)
+d c ^A c d2 G2 |
+[C^d] =d c ^A [F,=A] G2 F |
+G2 D2 G,4 |
+[G4g4] +mp+ d4 |
+g4 z4 |]
+
+X: 1
+%%Orig filename was BretonFlute.abc
+%abc-2.1
+%%song-title       Breton Dance
+%%song-composer    Blackmore's Night
+%%song-duration    2:40
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Breton Dance (2:40) - Basic Flute
+%%part-name Basic Flute
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 200
+K: C maj
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:22)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:34)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:46)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,2 D2 D2 C ^A, |
+A, G, F,2 G, ^A, C D |
+G,2 D2 D2 C ^A, |
+% Bar 70 (1:22)
+A, G, F,2 C3 C |
+G,2 D2 D2 C ^A, |
+A, G, F,2 G, ^A, C D |
+G,2 D2 D2 C ^A, |
+A, G, F,2 G,4 |
+G,2 D2 D2 C ^A, |
+A, G, F,2 G, ^A, C D |
+G,2 D2 D2 C ^A, |
+A, G, F,2 C3 C |
+G,2 D2 D2 C ^A, |
+% Bar 80 (1:34)
+A, G, F,2 G, ^A, C D |
+G,2 D2 D2 C ^A, |
+A, G, F,2 G,4 |
+G,2 D2 G2 F/ [F/G/] E |
+D2 G2 F2 D2 |
+G2 F/ [F/G/] E D2 C2 |
+^A, G, =A, ^A, C2 =A,2 |
+G,2 D2 G2 F/ [F/G/] E |
+D2 G2 F2 D2 |
+G2 F/ [F/G/] E D2 C2 |
+% Bar 90 (1:46)
+^A, G, =A, ^A, G,4 |
+G,2 D2 G2 F/ [F/G/] E |
+D2 G2 F2 D2 |
+G2 F/ [F/G/] E D2 C2 |
+^A, G, =A, ^A, C2 =A,2 |
+G,2 D2 G2 F/ [F/G/] E |
+D2 G2 F2 D2 |
+G2 F/ [F/G/] E D2 C2 |
+^A, G, =A, ^A, G,2 D C |
+D2 G,2 F,2 G,2 |
+% Bar 100 (1:58)
+^A, =A,2 G, A,2 A,2 |
+G,2 D2 D2 C ^A, |
+A, G,2 F, A,2 A,2 |
+G,2 D2 D2 C ^A, |
+^A, =A,2 G, A,2 C2 |
+^A,3 =A, G,2 F,2 |
+G,6 D C |
+D2 G,2 F,2 G,2 |
+^A, =A,2 G, A,2 A,2 |
+G,2 D2 D2 C ^A, |
+% Bar 110 (2:10)
+A, G,2 F, A,2 A,2 |
+G,2 D2 D2 C ^A, |
+^A, =A,2 G, A,2 C2 |
+^A,3 =A, G,2 F,2 |
+G,4 z4 |
+G2 G2 F2 E2 |
+D4 D C ^A, C |
+D4 ^D =D C ^A, |
+A,2 G,2 ^A,2 C2 |
+D4 G2 G2 |
+% Bar 120 (2:22)
+F2 E2 D4 |
+D C ^A, C D4 |
+^D =D C ^A, =A, G,2 F, |
+G,8 |
+G2 G2 F2 E2 |
+D4 D C ^A, C |
+D4 ^D =D C ^A, |
+A,2 G,2 ^A,2 C2 |
+D2 z2 G2 G2 |
+F2 E2 D4 |
+% Bar 130 (2:34)
+D C ^A, C D4 |
+^D =D C ^A, =A, G,2 F, |
+G,8 |
+z8 |
+z8 |]
+

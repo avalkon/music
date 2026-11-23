@@ -1,0 +1,229 @@
+N: TS  2,   9   1
+X: 9
+%%Orig filename was ThroughFair4Ages.abc
+%abc-2.1
+%%song-title       She Moved Through the Fair
+%%song-composer    Barry Taylor
+%%song-duration    2:22
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:30:38
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: She Moved Through the Fair (2:22) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++mp+ z6 |
+[C,-C-] [C,-C-c-] [C,-C-G-c-] [C,-C-E-Gc] [C,-C-Ec] [C,CG-] |
+[D,-D-G] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fc-] [D,DA-c] |
+[C,-C-A] [C,-C-d-] [C,-C-A-d] [C,-C-^F-A] [C,-C-Fd-] [C,CA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+% Bar 10 (0:17)
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+% Bar 20 (0:35)
+[D,-D-A] [D,-D-c-] [D,-D-G-c-] [D,-D-E-Gc] [D,-D-Ec] [D,DG-] |
+[D,-D-G] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fc-] [D,DA-c] |
+[C,-C-A] [C,-C-d-] [C,-C-A-d] [C,-C-^F-A] [C,-C-Fd-] [C,CA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[C,-C-A] [C,-C-c-] [C,-C-G-c-] [C,-C-E-Gc] [C,-C-Ec] [C,CG-] |
+[D,-D-G] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+% Bar 30 (0:53)
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fc-] [D,DA-c] |
+[C,-C-A] [C,-C-d-] [C,-C-A-d] [C,-C-^F-A] [C,-C-Fd-] [C,CA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+% Bar 40 (1:11)
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-c-] [D,-D-G-c-] [D,-D-E-Gc] [D,-D-Ec] [D,DG-] |
+[D,-D-G] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fc-] [D,DA-c] |
+[C,-C-A] [C,-C-d-] [C,-C-A-d] [C,-C-^F-A] [C,-C-Fd-] [C,CA-d] |
+% Bar 50 (1:29)
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[C,-C-A] [C,-C-c-] [C,-C-G-c-] [C,-C-E-Gc] [C,-C-Ec] [C,CG-] |
+[D,-D-G] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fc-] [D,DA-c] |
+[C,-C-A] [C,-C-d-] [C,-C-A-d] [C,-C-^F-A] [C,-C-Fd-] [C,CA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+% Bar 60 (1:47)
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+% Bar 70 (2:05)
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-c-] [D,-D-G-c-] [D,-D-E-Gc] [D,-D-Ec] [D,DG-] |
+[D,-D-G] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fc-] [D,DA-c] |
+[C,-C-A] [C,-C-d-] [C,-C-A-d] [C,-C-^F-A] [C,-C-Fd-] [C,CA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,D-Fd-] [A,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,-D-A] [D,-D-d-] [D,-D-A-d] [D,-D-^F-A] [D,-D-Fd-] [D,DA-d] |
+[D,4D4A4] |]
+
+X: 1
+%%Orig filename was ThroughFair4Flute.abc
+%abc-2.1
+%%song-title       She Moved Through the Fair
+%%song-composer    Barry Taylor
+%%song-duration    2:22
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:30:38
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: She Moved Through the Fair (2:22) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++f+ z4 D, E,/ ^F,/ |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//] [E,//B,//] |
+[D,6-A,6-] |
+[D,4A,4] [^F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,4D4] [^F,2A,2] |
+% Bar 10 (0:17)
+[^F,2B,2] [F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6-A,6-] |
+[^F,4A,4] [F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,2D2] [E,4A,4] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6A,6] |
+[D,4A,4] [C,E,] [D,^F,] |
+% Bar 20 (0:35)
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//] [E,//B,//] |
+[D,6-A,6-] |
+[D,6-A,6-] |
+[D,19/4-A,19/4-] [D,5/4A,5/4] |
+z4 D, E,/ ^F,/ |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+% Bar 30 (0:53)
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,2A,2] |
+[D,6-A,6-] |
+[D,4A,4] [^F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,4D4] [E,2A,2] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6-A,6-] |
+[^F,4A,4] [F,A,] [G,B,] |
+% Bar 40 (1:11)
+[G,2C2] [A,4-D4-] |
+[A,2D2] [E,4A,4] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6A,6] |
+[D,4A,4] [C,E,] [D,^F,] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,2A,2] |
+% Bar 50 (1:29)
+[D,6-A,6-] |
+[D,4A,4] z2 |
+z6 |
+z4 D, E,/ ^F,/ |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//] [E,//B,//] |
+[D,6-A,6-] |
+[D,4A,4] [^F,A,] [G,B,] |
+% Bar 60 (1:47)
+[G,2C2] [A,4-D4-] |
+[A,4D4] [^F,2A,2] |
+[^F,2B,2] [F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6-A,6-] |
+[^F,4A,4] [F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,2D2] [E,4A,4] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+% Bar 70 (2:05)
+[^F,6A,6] |
+[D,4A,4] [C,E,] [D,^F,] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//] [E,//B,//] |
+[D,6-A,6-] |
+[D,4A,4] z2 |
+z6 |
+z4 |]
+

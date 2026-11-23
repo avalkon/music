@@ -1,0 +1,329 @@
+N: TS  2,   9   1
+X: 9
+%%Orig filename was MyVisionAges.abc
+%abc-2.1
+%%song-title       Slane (Be Thou My Vision)
+%%song-composer    Barry Taylor
+%%song-duration    2:06
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:53:08
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Slane (Be Thou My Vision) (2:06) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 3/4
+Q: 93
+K: C maj
+L: 1/8
+
++mf+ z6 |
+z6 |
+z6 |
+z6 |
+G2 G2 ^G2 |
+^G2 =G2 G2 |
+G2 G2 ^A2 |
+^d6 |
+^A2 A2 A2 |
+% Bar 10 (0:18)
+^A2 ^d2 g2 |
+^g2 =g2 ^d2 |
+f2 ^d2 =d2 |
+^d3 f g2 |
+^g3 =g ^A2 |
+^d2 c2 ^A2 |
+^G6 |
+G2 ^A2 ^d2 |
+^g2 ^d2 ^A2 |
+^G4 G2 |
+% Bar 20 (0:37)
+G6- |
+G4 z2 |
+z6 |
+z6 |
+z6 |
+[^D,2G2] [G,2G2] [^G,2^G2] |
+[^G,2^G2] [^A,2-=G2] [A,2G2] |
+[^D,2G2] [C2G2] [^A,2^A2] |
+[^D,2^d2-] +mp+ [^A,2d2-] [^D2d2] |
++mf+ [D2^A2] [C2A2] [^A,2A2] |
+% Bar 30 (0:57)
+[F2^A2] [^D2^d2] [=D2g2] |
+[C2^g2] [^D2=g2] [D2^d2] |
+[D2f2] [C2^d2] [^A,2=d2] |
+[^G2^d2-] +mp+ [=G-d] +mf+ [Gf] [F2g2] |
+[F2^g2-] +mp+ [^D-g] +mf+ [D=g] [^A,2^A2] |
+[C2-^d2] [C2c2] [^A,2^A2] |
+[F4^G4-] +mp+ [CG-] [DG] |
++mf+ [^D2G2] [^A,2^A2] [^G,^d-] +mp+ [=G,d] |
++mf+ [F,2^g2] [G,2-^d2] [G,2^A2] |
+[^G,4^G4] [^A,2G2] |
+% Bar 40 (1:16)
+[^D,6-G6-] |
+[^D,4G4] z2 |
+z6 |
+z6 |
+z6 |
+[^D,2G2] [G,2G2] [^G,2^G2] |
+[^G,2^G2] [^A,2-=G2] [A,2G2] |
+[^D,2G2] [C2G2] [^A,2^A2] |
+[^D,2^d2-] +mp+ [^A,2d2-] [^D2d2] |
++mf+ [D2^A2] [C2A2] [^A,2A2] |
+% Bar 50 (1:35)
+[F2^A2] [^D2^d2] [=D2g2] |
+[C2^g2] [^D2=g2] [D2^d2] |
+[D2f2] [C2^d2] [^A,2=d2] |
+[^G2^d2-] +mp+ [=G-d] +mf+ [Gf] [F2g2] |
+[F2^g2-] +mp+ [^D-g] +mf+ [D=g] [^A,2^A2] |
+[C2-^d2] [C2c2] [^A,2^A2] |
+[F4^G4-] +mp+ [CG-] [DG] |
++mf+ [^D2G2] [^A,2^A2] [^G,^d-] +mp+ [=G,d] |
++mf+ [F,2^g2] [G,2-^d2] [G,2^A2] |
+[^G,4^G4] [^A,2G2] |
+% Bar 60 (1:55)
+[^D,6-G6-] |
+[^D,/-G/-]
+	%%Q: 92
+	[D,279/368-G279/368-]
+	%%Q: 91
+	[D,279/364-G279/364-]
+	%%Q: 90
+	[D,31/40-G31/40-]
+	%%Q: 89
+	[D,279/356-G279/356-]
+	%%Q: 88
+	[D,93/176G93/176] z93/352
+	%%Q: 87
+	z93/116
+	%%Q: 86
+	z279/344
+	%%Q: 85
+	z93/340 |
+z93/170
+	%%Q: 84
+	z93/112
+	%%Q: 83
+	z279/332
+	%%Q: 82
+	z93/164
+	%%Q: 81
+	z31/36
+	%%Q: 80
+	z279/320
+	%%Q: 79
+	z279/316
+	%%Q: 78
+	z93/104
+	%%Q: 77
+	z93/154 |
+z93/308
+	%%Q: 76
+	z279/304
+	%%Q: 75
+	z93/100
+	%%Q: 74
+	z279/296
+	%%Q: 73
+	z279/292
+	%%Q: 72
+	z31/32
+	%%Q: 71
+	z93/142
+	%%Q: 70
+	z279/280
+	%%Q: 69
+	z93/92 |
+%%Q: 68
+z279/272
+	%%Q: 67
+	z279/268
+	%%Q: 66
+	z93/88
+	%%Q: 65
+	z279/260
+	%%Q: 64
+	z279/256
+	%%Q: 63
+	z31/28
+	%%Q: 62
+	z9/8
+	%%Q: 61
+	z465/488
+	%%Q: 60
+	z31/160 |
+z93/160 |]
+
+X: 1
+%%Orig filename was MyVisionFlute.abc
+%abc-2.1
+%%song-title       Slane (Be Thou My Vision)
+%%song-composer    Barry Taylor
+%%song-duration    2:06
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 22:53:08
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Slane (Be Thou My Vision) (2:06) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 3/4
+Q: 93
+K: C maj
+L: 1/8
+
++mf+ ^D,2 G,2 ^A,2 |
+C ^A, G,2 ^D, G, |
+F,2 ^D,2 D,2 |
+^D,6 |
++f+ ^D,2 +mf+ D,2- +f+ [D,F,] D, |
+C,2 ^A,2 A, C, |
+^D,2 D,2 F,2 |
+G,6 |
+F,2 F,2 F,2 |
+% Bar 10 (0:18)
+F,2 G,2 ^A,2 |
+C2 ^A,2 G,2 |
+^A,6 |
+C2 C D ^D =D |
+C2 ^A,2 G,2 |
+^A,2 ^D,2 =D,2 |
+C,6 |
+^D,2 G,2 ^A,2 |
+C ^A, G,2 ^D, G, |
+F,2 ^D,2 D,2 |
+% Bar 20 (0:37)
+^D,6 |
+^D,2 [D,2G,2] +mf+ ^A,2 |
+C ^A, G,2 ^D, G, |
+F,2 ^D,2 D,2 |
+^D,6 |
++f+ ^D,2 +mf+ D,2- +f+ [D,F,] D, |
+C,2 ^A,2 A, C, |
+^D,2 D,2 F,2 |
+G,6 |
+F,2 F,2 F,2 |
+% Bar 30 (0:57)
+F,2 G,2 ^A,2 |
+C2 ^A,2 G,2 |
+^A,6 |
+C2 C D ^D =D |
+C2 ^A,2 G,2 |
+^A,2 ^D,2 =D,2 |
+C,6 |
+^D,2 G,2 ^A,2 |
+C ^A, G,2 ^D, G, |
+F,2 ^D,2 D,2 |
+% Bar 40 (1:16)
+^D,6 |
+^D,2 [D,2G,2] +mf+ ^A,2 |
+C ^A, G,2 ^D, G, |
+F,2 ^D,2 D,2 |
+^D,6 |
++f+ [^D,2G,2-] [D,2G,2] [F,^G,-] [D,G,] |
+[C,2^G,2] [=G,2-^A,2] [G,-A,] [C,G,] |
+[^D,2G,2-] [D,2G,2] [F,2^A,2] |
+[G,6^A,6] |
+[F,2^A,2-] [F,2A,2-] [F,2A,2] |
+% Bar 50 (1:35)
+[F,2^A,2] [G,2^D2] [A,2G2] |
+[C2^G2] [^A,2=G2] [G,2^D2] |
+[^A,6F6] |
+[C2^D2-] [CD] [=DF] [^DG-] [=DG] |
+[C2^G2] [^A,2=G2-] [G,2G2] |
+[^A,2G2] [^D,2^D2] [=D,2=D2] |
+[C,6^D6] |
+[^D,2^A,2] [G,2^D2] [A,2G2] |
+[C^G] [^A,=G] [G,2^D2] [^D,A,-] [G,A,] |
+[F,2^G,2-] [^D,2G,2] [D,2^A,2] |
+% Bar 60 (1:55)
+[^D,6^A,6] |
+[^D,/-G,/-]
+	%%Q: 92
+	[D,279/368-G,279/368-]
+	%%Q: 91
+	[D,279/364G,279/364]
+	%%Q: 90
+	[D,31/40-G,31/40-^A,31/40-]
+	%%Q: 89
+	[D,279/356-G,279/356-A,279/356-]
+	%%Q: 88
+	[D,93/176G,93/176A,93/176] +mf+ [A,93/352-G93/352-]
+	%%Q: 87
+	[A,93/116-G93/116-]
+	%%Q: 86
+	[A,279/344-G279/344-]
+	%%Q: 85
+	[A,93/340G93/340] |
+[C93/170-^G93/170-]
+	%%Q: 84
+	[C31/56G31/56] [^A,31/112-=G31/112-]
+	%%Q: 83
+	[A,279/332G279/332]
+	%%Q: 82
+	[G,93/164-^D93/164-]
+	%%Q: 81
+	[G,31/36-D31/36-]
+	%%Q: 80
+	[G,279/320D279/320]
+	%%Q: 79
+	[^D,279/316-A,279/316-]
+	%%Q: 78
+	[D,31/104A,31/104-] [G,31/52-A,31/52-]
+	%%Q: 77
+	[G,93/154A,93/154] |
+[F,93/308-^G,93/308-]
+	%%Q: 76
+	[F,279/304-G,279/304-]
+	%%Q: 75
+	[F,93/100-G,93/100-]
+	%%Q: 74
+	[F,93/296G,93/296-] [^D,93/148-G,93/148-]
+	%%Q: 73
+	[D,279/292-G,279/292-]
+	%%Q: 72
+	[D,31/32G,31/32]
+	%%Q: 71
+	[D,93/142-G,93/142-]
+	%%Q: 70
+	[D,279/280-G,279/280-]
+	%%Q: 69
+	[D,93/92G,93/92] |
+%%Q: 68
+[^D,279/272-G,279/272-]
+	%%Q: 67
+	[D,279/268-G,279/268-]
+	%%Q: 66
+	[D,93/88-G,93/88-]
+	%%Q: 65
+	[D,279/260-G,279/260-]
+	%%Q: 64
+	[D,279/256-G,279/256-]
+	%%Q: 63
+	[D,31/28-G,31/28-]
+	%%Q: 62
+	[D,9/8-G,9/8-]
+	%%Q: 61
+	[D,465/488-G,465/488-]
+	%%Q: 60
+	[D,31/160G,31/160] |
+z93/160 |]
+

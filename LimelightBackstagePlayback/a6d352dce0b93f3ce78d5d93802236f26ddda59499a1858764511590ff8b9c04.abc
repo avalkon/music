@@ -1,0 +1,857 @@
+N: TS  4,   8   3   2  21
+X: 8
+%%Orig filename was VioletMoon2Bass.abc
+%abc-2.1
+%%song-title       Under A Violet Moon
+%%song-composer    Blackmore's Night
+%%song-duration    4:19
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Under A Violet Moon (4:19) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 165
+K: C maj
+
++f+ z6 G, ^A, |
+C8- |
+C8- |
+C8- |
+C6 G ^A |
+c8- |
+c8- |
+c8- |
+c6 G, ^A, |
+% Bar 10 (0:13)
+C8 |
+^A,8 |
+C8 |
+^A,8 |
+C8 |
+^A,4 G,4 |
+^G,4 ^A,4 |
+C8- |
+C8 |
+c8- |
+% Bar 20 (0:27)
+c6 G, ^A, |
+C8 |
+^A,8 |
+C8 |
+^A,8 |
+C8 |
+^A,4 G,4 |
+^G,4 ^A,4 |
+C8- |
+C8 |
+% Bar 30 (0:42)
+c8- |
+c6 G,2 |
+C8 |
+F,4 ^A,4 |
+^A,8 |
+C8 |
+^G,4 =G,4 |
+F,4 C4 |
+C4 G,4 |
+C8- |
+% Bar 40 (0:56)
+C6 G ^A |
+c8- |
+c6 G, ^A, |
+C8 |
+^A,8 |
+C8 |
+^A,8 |
+C8 |
+^A,4 G,4 |
+^G,4 ^A,4 |
+% Bar 50 (1:11)
+C8- |
+C6 G, ^A, |
+C8 |
+^A,8 |
+C8 |
+^A,8 |
+C8 |
+^A,4 G,4 |
+^G,4 ^A,4 |
+C8- |
+% Bar 60 (1:25)
+C6 G2 |
+c8- |
+c8 |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+% Bar 70 (1:40)
+C3 C C4 |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C2 C D |
+^D3 D D3 D |
+% Bar 80 (1:54)
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^A,3 A, G,3 G, |
+^D3 D D3 D |
+^A,3 A, A,3 A, |
+C3 C ^A,3 A, |
+C3 C C4 |
+F,3 F, F,3 F, |
+^D3 D D3 D |
+^A,3 A, G,3 G, |
+% Bar 90 (2:09)
+C3 C C4 |
+F,3 F, F,3 F, |
+^D3 D D3 D |
+^A,3 A, G,3 G, |
+C3 C C2 G, ^A, |
+C8- |
+C6 G2 |
+c8- |
+c6 G, ^A, |
+C8 |
+% Bar 100 (2:23)
+^A,8 |
+C8 |
+^A,8 |
+C8 |
+^A,4 G,4 |
+^G,4 ^A,4 |
+C8- |
+C6 G, ^A, |
+C8 |
+^A,8 |
+% Bar 110 (2:38)
+C8 |
+^A,8 |
+C8 |
+^A,4 G,4 |
+^G,4 ^A,4 |
+C8- |
+C6 G2 |
+c8- |
+c8 |
+C3 C C3 C |
+% Bar 120 (2:53)
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C4 |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+% Bar 130 (3:07)
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C4 |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+% Bar 140 (3:22)
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C4 |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+% Bar 150 (3:36)
+C3 C C4 |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C3 C |
+C3 C C3 C |
+% Bar 160 (3:51)
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C3 C |
+C3 C C3 C |
+F,3 F, ^A,4 |
+^A,3 A, A,3 A, |
+% Bar 170 (4:05)
+C3 C C3 C |
+^G,3 G, =G,3 G, |
+F,3 F, C3 C |
+C3 C G,3 G, |
+C3 C C3 C |
+F3 F ^D4 |
+^G,3 G, =G,3 G, |
+C3 C C3 C |
+C2 G,2 C2 z2 |]
+
+X: 3
+%%Orig filename was VioletMoon2Clar.abc
+%abc-2.1
+%%song-title       Under A Violet Moon
+%%song-composer    Blackmore's Night
+%%song-duration    4:16
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Under A Violet Moon (4:16) - Basic Clarinet
+%%part-name Basic Clarinet
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 165
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:13)
+c2 c2 c3 ^d |
+f2 d c ^A4 |
+c2 c2 d2 ^d2 |
+d2 c ^A3 z2 |
+c2 c c c2 z ^d |
+f2 d c ^A2 z2 |
+^d2 =d c ^A2 A2 |
+c8 |
+z8 |
+z8 |
+% Bar 20 (0:27)
+z8 |
+c2 c2 c3 ^d |
+f2 d c ^A4 |
+c2 c2 d2 ^d2 |
+d2 c ^A3 z2 |
+c2 c c c2 z ^d |
+f2 d c ^A2 z2 |
+^d2 =d c ^A2 A2 |
+c8 |
+z8 |
+% Bar 30 (0:42)
+z8 |
+z8 |
+g2 g2 g2 f g |
+^g2 =g2 f4 |
+f2 f2 f3 f |
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c8 |
+% Bar 40 (0:56)
+z8 |
+z8 |
+z8 |
+c2 c c c3 ^d |
+f2 d c ^A4 |
+g2 g2 f2 ^d2 |
+f4 z4 |
+c2 c2 c2 d ^d |
+f2 d c ^A4 |
+^d2 =d c ^A2 A2 |
+% Bar 50 (1:11)
+c8 |
+z8 |
+c2 c2 c2 ^d2 |
+f2 d c ^A4 |
+c2 c2 z2 d ^d |
+f4 z4 |
+c2 c2 c2 ^d2 |
+f2 d c ^A4 |
+^d2 =d c ^A2 A2 |
+d3 ^d/ =d/ c4- |
+% Bar 60 (1:25)
+c6 ^A c- |
+c8 |
+z8 |
+g2 g2 g2 f g |
+^g2 =g2 f4 |
+f2 f2 f3 f |
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+% Bar 70 (1:40)
+c8 |
+g2 g2 g2 f g |
+^g2 =g2 f4 |
+f2 f2 f3 f |
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c8 |
+z8 |
+% Bar 80 (1:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+c2 c c c3 ^d |
+% Bar 100 (2:23)
+f2 d c ^A4 |
+g2 g2 f2 ^d2 |
+f4 z4 |
+c2 c2 c2 d ^d |
+f2 d c ^A4 |
+^d2 =d c ^A2 A2 |
+c8 |
+z8 |
+c2 c2 c2 ^d2 |
+f2 d c ^A4 |
+% Bar 110 (2:38)
+c2 c2 z2 d ^d |
+f4 z4 |
+c2 c2 c2 ^d2 |
+f2 d c ^A4 |
+^d2 =d c ^A2 A2 |
+d3 ^d/ =d/ c4- |
+c6 ^A c- |
+c8 |
+z8 |
+g2 g2 g2 f g |
+% Bar 120 (2:53)
+^g2 =g2 f4 |
+f2 f2 f3 f |
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c8 |
+g2 g2 g2 f g |
+^g2 =g2 f4 |
+f2 f2 f3 f |
+% Bar 130 (3:07)
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c'8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (3:22)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (3:36)
+z8 |
+g2 g2 g2 f g |
+^g2 =g2 f4 |
+f2 f2 f3 f |
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c'8 |
+g2 g2 g2 f g |
+% Bar 160 (3:51)
+^g2 =g2 f4 |
+f2 f2 f3 f |
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c'8 |
+g2 g2 g2 f g |
+^g2 =g2 f4 |
+f2 f2 f3 f |
+% Bar 170 (4:05)
+g2 f2 ^d4 |
+c2 d ^d ^A2 =d ^d |
+^G2 ^d2 d4 |
+g2 f ^d =d2 ^d2 |
+c'8 |
+^g2 =g f ^d2 d2 |
+^g2 =g ^g b2 b2 |
+c'8- |
+c'4 z4 |]
+
+X: 2
+%%Orig filename was VioletMoon2Fiddle.abc
+%abc-2.1
+%%song-title       Under A Violet Moon
+%%song-composer    Blackmore's Night
+%%song-duration    4:18
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Under A Violet Moon (4:18) - Basic Fiddle
+%%part-name Basic Fiddle
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 165
+K: C maj
+
++mp+ z6 G, ^A, |
+C8- |
+C8- |
+C8- |
+C6 G, ^A, |
+C8- |
+C8- |
+C8- |
+C8 |
+% Bar 10 (0:13)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 [Gc] [F^A] |
+[G8-c8-] |
+% Bar 20 (0:27)
+[G8c8] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 [Gc] [F^A] |
+% Bar 30 (0:42)
+[G8-c8-] |
+[G8c8] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:56)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:25)
+z8 |
+z8 |
+z8 |
+[^D8G8c8] |
+[F4^G4c4] [D4F4^A4] |
+[D8F8^A8] |
+[^D8G8c8] |
+[^D4^G4c4] [D4=G4^A4] |
+[C4F4^G4] [C4^D4=G4] |
+[^D4G4c4] [=D4G4B4] |
+% Bar 70 (1:40)
+[^D8G8c8] |
+[^D8G8c8] |
+[F4^G4c4] [D4F4^A4] |
+[D8F8^A8] |
+[^D8G8c8] |
+[^D4^G4c4] [D4=G4^A4] |
+[C4F4^G4] [C4^D4=G4] |
+[^D4G4c4] [=D4G4B4] |
+[^D8G8c8] |
+[^A,^DG] z [A,DG] z [A,DG] z [A,DG] z |
+% Bar 80 (1:54)
+[^A,DF] z [A,DF] z [A,DF] z [A,DF] z |
+[C^DG] z [CDG] z [CDG] z [CDG] z |
+[^A,DF] z [A,DF] z [G,B,D] z [G,B,D] z |
+[^A,^DG] z [A,DG] z [A,DG] z [A,DG] z |
+[^A,DF] z [A,DF] z [A,DF] z [A,DF] z |
+[C^DG] z [CDG] z [^A,=DF] z [A,DF] z |
+[C^DG] z [CDG] z [CDG] z [CDG] z |
+^G2 F =G ^G =G F ^G |
+G2 ^D F G F D G |
+F2 D F G2 D F |
+% Bar 90 (2:09)
+^D F =D ^D C =D ^D C |
+^G2 F =G ^G/ ^A/ G/ =G/ F ^G |
+G ^A, ^D F G F D G |
+F2 D F G2 D F |
+^D2 =D ^D C2 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (2:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+c8 |
+^A8 |
+% Bar 110 (2:38)
+c8 |
+^A8 |
+c4 ^d4 |
+d4 ^A4 |
+^d4 =d4 |
+c8- |
+c8- |
+c6 ^A2 |
+c8 |
+[^D8G8c8] |
+% Bar 120 (2:53)
+[F4^G4c4] [D4F4^A4] |
+[D8F8^A8] |
+[^D8G8c8] |
+[^D4^G4c4] [D4=G4^A4] |
+[C4F4^G4] [C4^D4=G4] |
+[^D4G4c4] [=D4G4B4] |
+[^D8G8c8] |
+[^D8G8c8] |
+[F4^G4c4] [D4F4^A4] |
+[D8F8^A8] |
+% Bar 130 (3:07)
+[^D8G8c8] |
+[^D4^G4c4] [D4=G4^A4] |
+[C4F4^G4] [C4^D4=G4] |
+[^D4G4c4] [=D4G4B4] |
+[^D8G8c8] |
+[^D8G8c8] |
+[F4^G4c4] [F4^A4d4] |
+[^Ad] [c^d] [=df] [^dg] [=df] [c^d] [A=d] [^Gc] |
+^A/ c A/ ^G/ =G F/ ^D4 |
+[^G2c2] d ^d [=G2^A2] d2 |
+% Bar 140 (3:22)
+F/ G ^G/ ^A/ c d/ ^d4 |
+c/ G ^D/ G/ D C/ G/ =D B,/ D/ B, G,/ |
+G/ ^D C/ G/ D =D/ C4 |
+C/ ^D G/ C/ D G/ c/ G D/ c/ G D/ |
+C/ F ^G/ C/ F G/ ^A4 |
+D/ ^D ^A,/ F/ D A,/ G/ F A,/ F/ D A,/ |
+G/ F ^D/ G/ F D/ C4 |
+^G/ c D/ G/ F G/ =G/ ^A ^D/ G/ D G/ |
+F/ G ^G/ F/ G D/ ^D4 |
+^D/ F G/ F/ D =D/ c/ B ^G/ =G/ F ^D/ |
+% Bar 150 (3:36)
+D/ C B,/ ^G/ =G F/ ^D4 |
+[C8^D8G8c8] |
+[F4^G4c4f4] [^A,4D4F4^A4] |
+[^A,8D8F8^A8] |
+[C8^D8G8c8] |
+[^G,4^D4^G4c4^g4] [=G,4D4=G4^A4=g4] |
+[F,4C4F4^G4f4] [^D,4C4^D4=G4^d4] |
+[C,4C4^D4G4c4] [G,4=D4G4B4g4] |
+[C,8C8^D8G8c8] |
+[C8^D8G8c8] |
+% Bar 160 (3:51)
+[F4^G4c4f4] [^A,4D4F4^A4] |
+[^A,8D8F8^A8] |
+[C8^D8G8c8] |
+[^G,4^D4^G4c4^g4] [=G,4D4=G4^A4=g4] |
+[F,4C4F4^G4f4] [^D,4C4^D4=G4^d4] |
+[C,4C4^D4G4c4] [G,4=D4G4B4g4] |
+[C,8C8^D8G8c8] |
+[C8^D8G8c8] |
+[F4^G4c4f4] [^A,4D4F4^A4] |
+[^A,8D8F8^A8] |
+% Bar 170 (4:05)
+[C8^D8G8c8] |
+[^G,4^D4^G4c4^g4] [=G,4D4=G4^A4=g4] |
+[F,4C4F4^G4f4] [^D,4C4^D4=G4^d4] |
+[C,4C4^D4G4c4] [G,4=D4G4B4g4] |
+[C,8C8^D8G8c8] |
+[C4F4^G4c4] [^A,4^D4=G4^A4] |
+[^G,4^D4^G4c4] [=G,4=D4=G4B4] |
+[^D2-G2-^A2c2-^a2] [D2-G2^G2c2-^g2] [D2-=G2-c2-=g2] [D2F2G2-c2-f2] |
+[^D2G2c2^d2] [=D2G2B2=d2] [C2^D2G2c2] z2 |]
+
+X: 21
+%%Orig filename was VioletMoon2Lute.abc
+%abc-2.1
+%%song-title       Under A Violet Moon
+%%song-composer    Blackmore's Night
+%%song-duration    4:19
+%%song-transcriber Converted by Kellinore of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Under A Violet Moon (4:19) - Lute of Ages
+%%part-name Lute of Ages
+C: Blackmore's Night
+Z: Converted by Kellinore of Gladden
+M: 4/4
+Q: 165
+K: C maj
+
++mf+ z6 G, ^A, |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+C c ^d c g +mp+ ^g =g +mf+ f |
+^d/ +mp+ f/ d/ +mf+ [=d/^d/] c ^A c2 G, ^A, |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C c ^d c g +mp+ ^g =g +mf+ d |
+c ^d g c' =d +mp+ ^d =d c' |
++mf+ g ^d =d +mp+ ^d +mf+ c2 G, ^A, |
+% Bar 10 (0:13)
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A G, D F A |
+^G, ^D ^G c ^A, =D F ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+% Bar 20 (0:27)
+C G c G d2 G, ^A, |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A G, D F A |
+^G, ^D ^G c ^A, =D F ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+% Bar 30 (0:42)
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G d +mp+ ^d/ =d/ +mf+ G c |
+[Cg-] [Gg] [cg-] [Gg] [^dg-] [cg] [Gf] [cg] |
+[F,^g-] [Fg] [^G=g-] [cg] [^A,f-] [Ff-] [^Af-] [df] |
+[^A,f-] [Ff] [^Af-] [Ff] [df-] [Af] [F^d] [Af] |
+[Cg-] [Gg] [cf-] [Gf] ^d- [cd-] [Gd-] [cd] |
+[^G,c-] [^Gc] c- [c^d] [=G,^A-] [=GA] A- [Ad] |
+[F,^G-] [FG] G- [Gc] [C=G] G- [G-c] [G^d] |
+[CG] G [Fc] [^D^d] [G,=D-] [DG] [^D-B] [D=d] |
+C- [C-G] [C-c] [C-G] [C/-d/] +mp+ [C-^d] [C/-=d/] +mf+ [C-c] [CG] |
+% Bar 40 (0:56)
++p+ C G c G f/ +pp+ ^d/ f/ d/ +p+ =d ^A |
+C +mf+ [Gc] [c^d] [Gc] [=d/g/-] +mp+ [^d/-g/] +pp+ [d/^g/-] +mp+ [=d/g/] +mf+ [c=g] [Gf] |
+[C/-^d/] +pp+ [C/-f/] [C/-d/] +p+ [C/-=d/^d/] [C-c] [C-^A] [C2c2-] +mf+ [G,c-] [^A,c] |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A G, D F A |
+^G, ^D ^G c ^A, =D F ^A |
+% Bar 50 (1:11)
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A G, D F A |
+^G, ^D ^G c ^A, =D F ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+% Bar 60 (1:25)
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+[C-Gc-^d-g-] [CGcdg] +p+ [CGcdg] +mf+ [C-G-c-d-g-] [CGc=d-^dg] +p+ [CGc=d^dg] +mf+ [G,CGcdg] [^A,/-C/G/c/d/g/] +p+ [A,/C/G/c/d/g/] |
++mf+ [C-Gc-^d-g-] [CGcdg] +p+ [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+% Bar 70 (1:40)
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
++mf+ [C-Gc-^d-g-] [CGcdg] +p+ [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] +mf+ [C-G-cd-g-] [CGcdg] |
+[^DG^A^dg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg^a] [DGAdg=a] [DGAdg] |
+% Bar 80 (1:54)
+[^A,DF^Adf] [A,DFAd] [A,DFAd] [A,DFAd] [A,DFAdf] [A,DFAd^g] [A,DFAd=g] [A,DFAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [C/-G/-c/-d/-g/-^g/] +p+ [C/G/c/d/=g/b/] +mf+ [CGcdgc'] [CGcdgb] [CGcdgc'] |
+[^A,DF^Ad] [A,DFAd^d] [A,DFA=d] [A,DFAdc'] [G,/-D/-G/-B/-d/-g/-] [G,/D/G/B/d/g/] [G,/-D/-G/-B/-d/-b/] +pp+ [G,/D/G/B/d/b/] +mf+ [G,DGBdg] [G,DGBdg] |
+[^DG^A^dg^a] [DGAdg] [DGAdg] [DGAdg] [DGAdga] [DGAdg] [DGA=d^dg] [DGAdgc'] |
+[^A,DF^Ad] [A,DFAd^a] [A,DFAdf] [A,DFAda] [A,DFAd] [A,DFAdf] [A,DFAd^d] [A,DFA=d] |
+[CGc^dgc'] [CGcdg] [CGc=d^dg] [CGcdgc'] [^A,DF^A=dg] [A,DFAd^g] [A,DFAd=g] [A,DFAdf] |
+[CGc^dg] [CGcdgc'] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,G,CFGc] [F,^G,CFGc] [F,CFGcf] [F,CFGcf] [F,CF=G^Gc] [F,CFGcf] [F,CFGcf] |
+[^DG^A^dg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg^a] |
+[C/-G/-c/-^d/-g/-^g/] +pp+ [C/G/c/d/=g/^a/] +mf+ [C/-G/-c/-d/-g/^g/] +p+ [C/G/c/d/=g/^g/] +mf+ [CGcdf=g] [CGcdg] [G,DGB=dg] [G,DGBcd] [G,DG^ABd] [G,DG^GBd] |
+% Bar 90 (2:09)
+[CGc^dg] [CFGcdg] [C^DGcdg] [C=DGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,G,CFGc] [F,^G,CFGc] [F,CFGcf] [F,CFGcf] [F,CF=G^Gc] [F,CFGcf] [F,CFGcf] |
+[^DG^A^dg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg] [DGAdg^a] |
+[CGcd^dg] [C/-G/-c/-d/-g/-c'/] +pp+ [C/G/c/=d/^d/g/] +mf+ [CGcdg^a] [CGcdfg] [G,DGB=dg] [G,DGBdf] [G,DGBdg] [G,DG^ABd] |
+[CGc^dg] [C/-G/-c/-=d/^d/g/-] +pp+ [C/G/c/=d/^d/g/] +mf+ [C/-G/-c/-=d/^d/-g/-] [C/G/c/d/g/] [CG^Acdg] [CGcdg] [CGcdg] [G,CGcdg] [^A,CGcdg] |
++p+ C G c G d/ +pp+ ^d =d/ +p+ c G |
+C +mf+ [Gc] [c^d] [Gc] [f/g/-] +pp+ [d/g/] +mp+ [f/^g/-] +pp+ [d/g/] +mp+ [=d=g] +mf+ [^Af] |
++p+ C +mf+ [c^d] [=d/^d/] +mp+ d/ [c=d] +mf+ [cg] [^A^g] [c=g] [Af] |
+[^G/-^d/] +pp+ [G/f/] +mf+ [=G/-d/] +p+ [G/=d/^d/] +mf+ [Gc] [F^A] [G2c2] +p+ G, ^A, |
++mf+ C G c G d/ +mp+ ^d =d/ +mf+ c G |
+% Bar 100 (2:23)
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A G, D F A |
+^G, ^D ^G c ^A, =D F ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+% Bar 110 (2:38)
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A f +mp+ d +mf+ A F |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+^A, D F ^A G, D F A |
+^G, ^D ^G c ^A, =D F ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+C G c G f/ +mp+ ^d/ f/ d/ +mf+ =d ^A |
+C G c G d/ +mp+ ^d =d/ +mf+ c G |
+[C-Gc-^d-g-] [CGcdg] +p+ [CGcdg] +mf+ [C-G-c-d-g-] [CGc=d-^dg] +p+ [CGc=d^dg] +mf+ [G,CGcdg] [^A,/-C/G/c/d/g/] +p+ [A,/C/G/c/d/g/] |
++mf+ [C-Gc-^d-g-] [CGcdg] +p+ [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+% Bar 120 (2:53)
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
++mf+ [C-Gc-^d-g-] [CGcdg] +p+ [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+% Bar 130 (3:07)
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+% Bar 140 (3:22)
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+% Bar 150 (3:36)
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+% Bar 160 (3:51)
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^A,F^Adf] [A,FAdf] [A,FAdf] [A,/F/A/d/f/] [A,/F/A/d/f/] |
++mf+ [^A,-F^A-d-f-] [A,FAdf] +p+ [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] [A,FAdf] |
+% Bar 170 (4:05)
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,D=G^Ad=g] [G,DGAdg] [G,DGAdg] [G,DGAdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [C=Gc^dg] [CGcdg] [CGcdg] [CGcdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [G,DGB=dg] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] [CGcdg] |
+[F,CF^Gcf] [F,CFGcf] [F,CFGcf] [F,CFGcf] [^D=G^A^dg] [DGAdg] [DGAdg] [DGAdg] |
+[^G,^D^Gc^d^g] [G,DGcdg] [G,DGcdg] [G,DGcdg] [=G,=D=GB=d=g] [G,DGBdg] [G,DGBdg] [G,DGBdg] |
+[CGc^dg] [CGcdg] [CGcdg] [C/G/c/d/g/] [C/G/c/d/g/] +mf+ [C-G-cd-g-] [C-Gc-d-g-] [C-G-cd-g-] [CGcdg] |
++p+ [C2G2c2^d2g2] [G,2D2G2B2=d2g2] [C2G2c2^d2g2] z2 |]
+

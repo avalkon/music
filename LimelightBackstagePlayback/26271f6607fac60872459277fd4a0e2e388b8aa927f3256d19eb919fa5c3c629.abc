@@ -1,0 +1,316 @@
+N: TS  7,   9   8   1  21  22   4   6
+X: 9
+%%Orig filename was ForeverRachelAges.abc
+T: FF6 - Forever Rachel [Lute of Ages] (2:39)
+%%part-name Lute of Ages
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++ff+ g/ b/ e/ g/ ^f/ e/ d/ f/ e4 |
+c'3/2 c'/ b/ a/ g/ b/ a4 |
+f/ a/ d/ f/ e/ d/ c'/ e/ d2 ^a c' |
+d6 ^a c' |
+d8 |
+g/ a/ ^a/ g/ d/ =a/ ^a/ g/ f/ g/ =a/ f/ c/ g/ a/ f/ |
+^d/ f/ g/ d/ ^A/ f/ g/ d/ A/ =d/ f/ d/ ^a/ d/ f/ d/ |
+c/ d/ ^d/ g/ c'2 c'/ =d/ ^d/ g/ c'2 |
+G/ ^A/ d/ g/ ^a2 d/ g/ a/ d/ f2 |
+% Bar 10 (0:47)
+A/ e/ a/ e/ ^c/ e/ a/ e/ A/ e/ g/ e/ c/ e/ g/ e/ |
+d/ ^f/ a/ f/ d/ f/ a/ f/ d/ d/ c'/ d/ ^a/ d/ =a/ d/ |
+g/ a/ ^a/ g/ d/ =a/ ^a/ g/ f/ g/ =a/ f/ c/ g/ a/ f/ |
+^d/ f/ g/ d/ ^A/ f/ g/ d/ A/ =d/ f/ d/ ^a/ d/ f/ d/ |
+^G/ c/ ^d/ g/ ^a2 D/ A/ =d/ e/ ^f/ e/ d/ A/ |
+G/ d/ g/ c'/ d/ c'/ g/ d/ G4 |
+g/ b/ e/ g/ ^f/ e/ d/ f/ e4 |
+c'3/2 c'/ b/ a/ g/ b/ a4 |
+f/ a/ d/ f/ e/ d/ c'/ e/ d2 ^a c' |
+d6 ^a c' |
+% Bar 20 (1:41)
+d8 |
+g/ a/ ^a/ g/ d/ =a/ ^a/ g/ f/ g/ =a/ f/ c/ g/ a/ f/ |
+^d/ f/ g/ d/ ^A/ f/ g/ d/ A/ =d/ f/ d/ ^a/ d/ f/ d/ |
+c/ d/ ^d/ g/ c'2 c'/ =d/ ^d/ g/ c'2 |
+G/ ^A/ d/ g/ ^a2 d/ g/ a/ d/ f2 |
+A/ e/ a/ e/ ^c/ e/ a/ e/ A/ e/ g/ e/ c/ e/ g/ e/ |
+d/ ^f/ a/ f/ d/ f/ a/ f/ d/ d/ c'/ d/ ^a/ d/ =a/ d/ |
+g/ a/ ^a/ g/ d/ =a/ ^a/ g/ f/ g/ =a/ f/ c/ g/ a/ f/ |
+^d/ f/ g/ d/ ^A/ f/ g/ d/ A/ =d/ f/ d/ ^a/ d/ f/ d/ |
+^G/ c/ ^d/ g/ ^a2 D/ A/ =d/ e/ ^f/ e/ d/ A/ |
+% Bar 30 (2:34)
+G/ d/ g/ c'/ d/ c'/ g/ d/ G4 |
+z8 |]
+
+X: 8
+%%Orig filename was ForeverRachelBass.abc
+T: FF6 - Forever Rachel [Theorbo] (2:39)
+%%part-name Basic Theorbo
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G3 G F4 |
+^D3 D ^A4 |
+c3 G3/8 A// ^A/8 B17/4 |
+G3 d G4 |
+% Bar 10 (0:47)
+A3 A ^c3 c |
+d3 A d2 ^F2 |
+G3 G F4 |
+^D3 D ^A4 |
+^G3 G d2 A2 |
+G8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (1:41)
+z8 |
+G3 G F4 |
+^D3 D ^A4 |
+c3 G3/8 A// ^A/8 B17/4 |
+G3 d G4 |
+A3 A ^c3 c |
+d3 A d2 ^F2 |
+G3 G F4 |
+^D3 D ^A4 |
+^G3 G d2 A2 |
+% Bar 30 (2:34)
+G8 |
+z8 |]
+
+X: 1
+%%Orig filename was ForeverRachelFlute1.abc
+T: FF6 - Forever Rachel [Flute 1 (melody)] (2:39)
+%%part-name Flute 1 (melody)
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++fff+ G,3/2 G,/ ^F,/ E,/ D,/ F,/ E,4 |
+C3/2 C/ B,/ A,/ G,/ B,/ A,4 |
+F3/2 F/ E/ D/ C/ E/ D2 ^A, C |
+D6 ^A, C |
+D8 |
+G2 D G A3 d |
+c ^A =A G F D3/2 z/ D |
+D C G2- G4 |
+C ^A, G2- G/ z/ G A ^A |
+% Bar 10 (0:47)
+A2 E2- E/ z/ E G ^F |
+A8 |
+G2 D G A3 d |
+c ^A =A G F D- D3/2 z/ |
+D C G ^A =A2 ^F2 |
+G8 |
+G,3/2 G,/ ^F,/ E,/ D,/ F,/ E,4 |
+C3/2 C/ B,/ A,/ G,/ B,/ A,4 |
+F3/2 F/ E/ D/ C/ E/ D2 ^A, C |
+D6 ^A, C |
+% Bar 20 (1:41)
+D8 |
+G2 D G A3 d |
+c ^A =A G F D3/2 z/ D |
+D C G2- G4 |
+C ^A, G2- G/ z/ G A ^A |
+A2 E2- E/ z/ E G ^F |
+A8 |
+G2 D G A3 d |
+c ^A =A G F D- D3/2 z/ |
+D C G ^A =A2 ^F2 |
+% Bar 30 (2:34)
+G8 |
+z8 |]
+
+X: 21
+%%Orig filename was ForeverRachelFlute2.abc
+T: FF6 - Forever Rachel [Flute 2] (2:39)
+%%part-name Flute 2
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+G,8 |
+G,4 ^F,4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:47)
+z8 |
+z8 |
+^A,4 C4 |
+D8 |
+^A,4 =A,4 |
+G,8 |
+z8 |
+z8 |
+z8 |
+G,8 |
+% Bar 20 (1:41)
+G,4 ^F,4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^A,4 C4 |
+D8 |
+^A,4 =A,4 |
+% Bar 30 (2:34)
+G,8 |
+z8 |]
+
+X: 22
+%%Orig filename was ForeverRachelFlute3.abc
+T: FF6 - Forever Rachel [Flute 3] (2:39)
+%%part-name Flute 3
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+[^A,8D8] |
+[A,8D8] |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:47)
+z8 |
+z8 |
+[D,4-G4] +mp+ [D,4A4] |
++ff+ [F,4-G4] +mp+ [F,4^A4] |
++ff+ [C,4-G4] +mp+ [C,4^F4] |
++ff+ [C,4D4-] [B,4D4] |
+z8 |
+z8 |
+z8 |
+[^A,8D8] |
+% Bar 20 (1:41)
+[A,8D8] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[D,4-G4] +mp+ [D,4A4] |
++ff+ [F,4-G4] +mp+ [F,4^A4] |
++ff+ [C,4-G4] +mp+ [C,4^F4] |
+% Bar 30 (2:34)
++ff+ [C,4D4-] [B,4D4] |
+z8 |]
+
+X: 4
+%%Orig filename was ForeverRachelHorn.abc
+T: FF6 - Forever Rachel [Horn] (2:39)
+%%part-name Horn
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+G,8 |
+D,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:47)
+z8 |
+z8 |
+G,4 F,4 |
+^D,4 ^A,4 |
+^G,4 D4 |
+G,8 |
+z8 |
+z8 |
+z8 |
+G,8 |
+% Bar 20 (1:41)
+D,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,4 F,4 |
+^D,4 ^A,4 |
+^G,4 D4 |
+% Bar 30 (2:34)
+G,8 |
+z8 |]
+
+X: 6
+%%Orig filename was ForeverRachelMisty.abc
+T: FF6 - Forever Rachel [Misty Mountain Harp] (2:39)
+%%part-name Misty Mountain Harp
+C: Nobuo Uematsu
+Z: Corulin
+M: 4/4
+Q: 45
+K: C maj
+
++ffff+ e2 d2 c4 |
+A/ c/ e/ c/ G/ B/ e/ B/ F/ A/ c/ e/ g2 |
+d2 c2 ^A4 |
+G/ d/ ^a/ d/ =a/ d/ g/ d/ G/ d/ g/ d/ f/ d/ e/ c/ |
+D/ A/ d/ g/ a/ g/ d/ A/ D4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:47)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+e2 d2 c4 |
+A/ c/ e/ c/ G/ B/ e/ B/ F/ A/ c/ e/ g2 |
+d2 c2 ^A4 |
+G/ d/ ^a/ d/ =a/ d/ g/ d/ G/ d/ g/ d/ f/ d/ e/ c/ |
+% Bar 20 (1:41)
+D/ A/ d/ g/ a/ g/ d/ A/ D4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (2:34)
+z8 |
+z8 |]
+

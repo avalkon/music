@@ -1,0 +1,1193 @@
+N: TS  8,   9  11   3   1   5  12  18  15
+X: 9
+%%Orig filename was MoransReturnAges.abc
+T: Moran's Return (4:27) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++ff+ z8 |
+F,// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+F// z3/4 ^G// z3/4 c// z3/4 f// z/ F// [G//c//f//] z15/4 |
+F// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+%%Q: 80
+F89/320 z267/320 ^G89/320 z267/320 ^d89/320 z267/320 f89/320 z267/320 [^D89/320d89/320] z623/320
+	%%Q: 89
+	z2 |
+% Bar 10 (0:25)
+F,// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+F// z3/4 ^G// z3/4 c// z3/4 f// z/ F// [G//c//f//] z15/4 |
+F// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+F// z3/4 ^G// z3/4 ^d// z3/4 f// z3/4
+	%%Q: 80
+	[^D89/320d89/320] z623/320
+	%%Q: 89
+	z2 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 C// z15/4 |
+^D// z15/4 C// z15/4 |
+% Bar 20 (0:52)
+F// z3/4 ^G// z3/4 c// z7/4 F// z15/4 |
+F// z15/4 ^A,// ^D// F// z13/4 |
+^D// z// G// z// ^A// z11/4 ^A,// z// =D// z// F// z11/4 |
+C// F// G// z13/4 G,// F// G// z5/4 ^D// F// G// z5/4 |
+^D// G// ^A// z13/4 C// F// G// z13/4 |
+F// z7/4 ^D// z7/4
+	%%Q: 80
+	D89/320 z267/64 |
+%%Q: 89
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 C// z15/4 |
+^D// z15/4 C// z15/4 |
+F// z3/4 ^G// z3/4 c// z7/4 F// z15/4 |
+F// z15/4 ^A,// ^D// F// z13/4 |
+% Bar 30 (1:19)
+^D// z3/4 G// z3/4 ^A// z7/4 ^A,// z3/4 =D// z3/4 F// z7/4 |
+C// F// G// z13/4 G,// F// G// z5/4 ^D// F// G// z5/4 |
+^D// G// ^A// z13/4 C// F// G// z13/4 |
+F// z7/4 ^D// z7/4 D// z15/4 |
+F,// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+F// z3/4 ^G// z3/4 c// z3/4 f// z3/4 [F//G//c//f//] z15/4 |
+F// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+% Bar 40 (1:46)
+^D// z15/4 G// z15/4 |
+%%Q: 80
+F89/320 z267/320 ^G89/320 z267/320 ^d89/320 z267/320 f89/320 z267/320 [^D89/320d89/320] z623/320
+	%%Q: 89
+	z2 |
+F,// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+F// z3/4 ^G// z3/4 c// z3/4 f// z3/4 [F//G//c//f//] z15/4 |
+F// z3/4 C// z3/4 F// z3/2 F,// [C//F//] z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 D// z15/4 |
+^D// z15/4 G// z15/4 |
+%%Q: 80
+F89/320 z267/320 ^G89/320 z267/320 ^d89/320 z267/320 f89/320 z267/320 [^D89/320d89/320] z267/64 |
+% Bar 50 (2:14)
+%%Q: 89
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 C// z15/4 |
+^D// z15/4 C// z15/4 |
+F// z3/4 ^G// z3/4 c// z7/4 F// z15/4 |
+F// z15/4 ^A,// ^D// F// z13/4 |
+G// z3/4 ^A// z3/4 ^d// z3/4 g// z3/4 ^A,// z// D// z// F// z11/4 |
+C// F// G// z13/4 G,// F// G// z5/4 ^D// F// G// z5/4 |
+^D// G// ^A// z13/4 C// F// G// z13/4 |
+F// z7/4 ^D// z7/4 D// z15/4 |
+^D,// z3/4 ^A,// z3/4 ^D// z7/4 C// z15/4 |
+^D// z15/4 C// D// G// z13/4 |
+% Bar 60 (2:41)
+F// z3/4 ^G// z3/4 c// z7/4 F// z15/4 |
+F// z15/4 ^A,// ^D// F// z13/4 |
+^D// z3/4 G// z3/4 ^A// z7/4 ^A,// z3/4 =D// z3/4 F// z7/4 |
+C// F// G// z13/4 G,// F// G// z5/4 ^D// F// G// z5/4 |
+^D// G// ^A// z13/4 C// F// G// z13/4 |
+F// z7/4 ^D// z7/4
+	%%Q: 80
+	D89/320 z267/64 |
+%%Q: 89
+^G// z3/4 C// z3/4 F// z23/4 |
+G// z3/4 ^A,// z3/4 ^D// z7/4 ^d// z15/4 |
+^d// z3/4 f// z11/4 c// z3/4 d// z11/4 |
+F// z3/4 ^G// z11/4 F// z15/4 |
+% Bar 70 (3:08)
+z C// z3/4 ^G// z3/4 c// z3/4 G// z3/4 c// z11/4 |
+G// z3/4 ^D// z3/4 G// z3/4 ^A// z19/4 |
+^D// z15/4 C// z15/4 |
+F// z3/4 C// z3/4 F// z7/4 ^D// z15/4 |
+^G// z3/4 C// z3/4 F// z23/4 |
+G// z3/4 ^D// z11/4 ^d// z15/4 |
+^d// z3/4 f// z11/4 c// z3/4 d// z11/4 |
+F// z3/4 ^G// z11/4 F// z15/4 |
+z C// z3/4 ^G// z3/4 c// z11/4 G// z3/4 c// z3/4 |
+G// z3/4 ^D// z3/4 G// z3/4 ^A// z3/4 ^d// z15/4 |
+% Bar 80 (3:35)
+^D// z15/4 C// z15/4 |
+F// z3/4 C// z3/4 F// z7/4 ^D// z15/4 |
+^D// z3/4 F// z3/4 G// z3/4 ^A// z3/4 C// z3/4 D// z3/4 G// z3/4 c// z3/4 |
+^D// z3/4 F// z3/4 G// z3/4 ^d// z3/4 C// z3/4 G// z3/4 d// z3/4 g// z3/4 |
+F// z3/4 c// z3/4 ^g// z3/4 c'// z3/4 F// z3/4 ^G// z3/4 c// z3/4 f// z3/4 |
+F// z// ^G// z// c// z// f// z// f// z3/4 c'// z3/4 ^A// z3/4 d// z3/4 f// z3/4 ^a// z3/4 |
+^D// z// G// z// ^A// z// ^d// z// d// z3/4 g// z3/4 ^A,// z// =D// z// A// z// =d// z// d// z3/4 f// z3/4 |
+C// z3/4 ^D// z3/4 G// z3/4 c// z3/4 G,// z7/4 C// z7/4 |
+^D// z3/4 F// z3/4 G// z3/4 ^A// z3/4 C// z15/4 |
+F// z3/4 C// z3/4 F// z7/4 ^D// z15/4 |
+% Bar 90 (4:02)
+^D// z3/4 F// z3/4 G// z3/4 ^A// z3/4 C// z3/4 D// z3/4 G// z3/4 c// z3/4 |
+^D// z3/4 F// z3/4 G// z3/4 ^d// z3/4 C// z3/4 G// z3/4 d// z3/4 g// z3/4 |
+F// z3/4 c// z3/4 ^g// z3/4 c'// z3/4 F// z3/4 ^G// z3/4 c// z3/4 f// z3/4 |
+F// z// ^G// z// c// z// f// z// f// z3/4 c'// z3/4 ^A// z// d// z// f// z3/4 f// z3/4 ^a// z3/4 |
+^D// z// G// z// ^A// z// ^d// z// d// z3/4 g// z3/4 ^A,// z3/4 =D// z3/4 F// z3/4 A// z3/4 |
+C// z3/4 ^D// z3/4 G// z3/4 c// z3/4 G,// z7/4 C// z7/4 |
+^D// z3/4 F// z3/4 G// z3/4 ^A// z3/4
+	%%Q: 80
+	C89/320 z267/320 D89/320 z267/320 G89/320 z267/320 c89/320 z267/320 |
+%%Q: 69
+F89/276 z89/92
+	%%Q: 50
+	C89/200 z267/200 F89/200 z623/200
+	%%Q: 80
+	z89/160 ^D,89/320 z89/320 G,89/320 z89/320 ^A,89/320 z89/320 ^D89/320 z267/320
+	%%Q: 40
+	z89/80
+	%%Q: 30
+	z89/60 |
+z89/15 |]
+
+X: 11
+%%Orig filename was MoransReturnBardic.abc
+T: Moran's Return (4:27) - Bardic Fiddle (6)
+%%part-name Bardic Fiddle (6)
+%%made-for Bardic Fiddle
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/40
+	%%Q: 89
+	z2 |
+z8 |
+z8 |
+% Bar 20 (0:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/20 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:46)
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z89/10 |
+% Bar 50 (2:14)
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^A4 A2 G, F, |
+^D,2 ^D =D ^D3 F |
+G F ^D =D C2 ^A, G, |
+% Bar 60 (2:41)
+F,2 C2 C3 z |
+^A G F ^D ^A,4 |
+^A2 z2 A2 z2 |
+^D4 ^A4 |
+^d c ^A G ^D C ^A, G, |
+F,2 ^D,2
+	%%Q: 80
+	D,267/80 z89/80 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:08)
+z8 |
+z8 |
+z8 |
+z6 G,/ ^G,/ ^A, |
+C2 F,2 F,2 C F |
+G,2 ^D,2 D,2 ^D F |
+^d f g ^a g d ^A2 |
+^A2 F, G, ^G,3/2 =G,/ ^G, ^A, |
+C2 F,2 F,2 C F |
+^D,2 ^d2 d2 d f |
+% Bar 80 (3:35)
+^d f g ^a g d ^A2 |
+^A4 A2 G, F, |
+G,2 G F3/4 F// G2 G ^G |
+G F ^D =D C2 ^A, G, |
+F,2 C2 C3 z |
+^A G F ^D =D4 |
+^A2 z2 A2 z2 |
+^D4 ^A4 |
+G F ^D =D ^D C C2 |
+^A4 A2 G, F, |
+% Bar 90 (4:02)
+G,2 G F G2 G ^G |
+G F ^D =D C2 ^A, G, |
+F,2 C2 C3 z |
+^A G F ^D =D4 |
+^A2 z2 A2 z2 |
+^D4 ^A4 |
+G F ^D =D
+	%%Q: 80
+	^D89/80 C89/80 C89/40 |
+%%Q: 69
+^A89/69-
+	%%Q: 50
+	A267/50
+	%%Q: 80
+	+pp+ ^D267/80-
+	%%Q: 40
+	D89/80-
+	%%Q: 30
+	D89/60- |
+^D89/15 |]
+
+X: 3
+%%Orig filename was MoransReturnClar.abc
+T: Moran's Return (4:27) - Basic Clarinet (7)
+%%part-name Basic Clarinet (7)
+%%made-for Basic Clarinet
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/40
+	%%Q: 89
+	z2 |
+z8 |
+z8 |
+% Bar 20 (0:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/20 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:46)
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z89/10 |
+% Bar 50 (2:14)
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/20 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:08)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (3:35)
+z8 |
+z6 g f |
+[^d//-g//] d7/4 d =d [d//^d//] d7/4 d f |
+^A// g3/4 f ^d =d [c//-g//] c7/4 A g |
+[F//c//-] c7/4 f2 [F//f//-] f7/4 ^d// f3/4 g |
+f// ^g3/4 =g f ^d [f//-g//] f7/4 g// d3/4 f |
+[f//g//] g7/4 ^g =g [^d//f//] f7/4 g f |
+G// ^d3/4 f g// d3/4 c [F//^A//-] A7/4 d f |
+^A// g3/4 f g// ^d3/4 =d ^d// [=d//^d//-] d/ c A g |
+[f//g//] f7/4 ^d2 [d//-g//] d7/4 g f |
+% Bar 90 (4:02)
+[^d//-g//] d7/4 d =d [d//^d//] d7/4 d f |
+^A// g3/4 f ^d =d [c//-g//] c7/4 A g |
+[F//c//-] c7/4 f2 [F//f//-] f7/4 ^d// f3/4 g |
+f// ^g3/4 =g f ^d [f//-g//] f7/4 g// d3/4 f |
+[f//g//] g7/4 ^g =g [^d//f//] f7/4 g f |
+G// ^d3/4 f g// d3/4 c [F//^A//-] A7/4 d f |
+^A// g3/4 f g// ^d3/4 =d
+	%%Q: 80
+	^d89/320 [=d89/320^d89/320-] d89/160 c89/80 A89/80 g89/80 |
+%%Q: 69
+[f89/276g89/276] f89/92-
+	%%Q: 50
+	f89/50 ^d89/25
+	%%Q: 80
+	z267/80
+	%%Q: 40
+	z89/80
+	%%Q: 30
+	z89/60 |
+z89/15 |]
+
+X: 1
+%%Orig filename was MoransReturnFlute.abc
+T: Moran's Return (4:27) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	G,/ ^G,/ ^A, |
+% Bar 10 (0:25)
+C2 F,4 ^A, ^G, |
+G,2 ^D,3 z ^D F |
+G F ^D =D ^D C ^A, G, |
+F,2 F, G, ^G,3/2 =G,/ ^G, ^A, |
+C2 F,2 F,2 ^A, ^G, |
+G,2 ^D,3 z ^D F |
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,3/2 F,// =D,//
+	%%Q: 80
+	^D,89/40
+	%%Q: 89
+	G, F, |
+^D,2 ^D =D ^D3 F |
+G F ^D =D C2 ^A, G, |
+% Bar 20 (0:52)
+C2 F2 [^D//F//-] F11/4 G |
+^G =G F ^D F2 D F |
+G2 ^G =G F2 G F |
+^D F D C ^A,3/2 z/ D F |
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,3/2 F,// =D,//
+	%%Q: 80
+	^D,89/40 G,89/80 F,89/80 |
+%%Q: 89
+^D,2 ^D =D ^D3 F |
+G F ^D =D C2 ^A, G, |
+C2 F2 F3 G |
+^G =G F ^D F2 D F |
+% Bar 30 (1:19)
+G2 ^G =G F2 G F |
+^D F D C ^A,2 D F |
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,3/2 F,// =D,// ^D,2 G, ^A, |
+C2 F,7/4 ^D,// F,2 ^A, ^G, |
+G,2 ^D,3 z ^D F |
+G F ^D =D ^D C ^A, G, |
+F,2 F, G, ^G,3/2 =G,/ ^G, ^A, |
+C2 F,2 F,3/2 z/ ^A, ^G, |
+G,2 ^D,3 z ^D F |
+% Bar 40 (1:46)
+G F ^D =D ^D C ^A, G, |
+%%Q: 80
+F,89/40 ^D,267/160 F,89/320 =D,89/320 ^D,89/40
+	%%Q: 89
+	G,/ ^G,/ ^A, |
+C2 F,2 [^D,//F,//-] F,7/4 ^A, ^G, |
+G,2 ^D,2 D, z ^D F |
+G F ^D =D ^D C ^A, G, |
+F,2 F, G, ^G,3/2 =G,/ ^G, ^A, |
+C2 F,2 F,2 ^A, ^G, |
+G,2 ^D,3 z ^D F |
+G F ^D =D ^D C ^A, G, |
+%%Q: 80
+F,89/40 ^D,267/160 F,89/320 =D,89/320 ^D,89/40 G,89/80 F,89/80 |
+% Bar 50 (2:14)
+%%Q: 89
+^D,2 ^D =D ^D3 F |
+G F ^D =D C2 ^A, G, |
+C3/2 z/ F7/4 G// [^D//F//-] F9/4 z/ G |
+[^G//-c//] G3/4 =G F ^D F2 D F |
+G2 ^G =G F2 G F |
+^D F D C ^A,2 D F |
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,3/2 F,// =D,// ^D,2 G, F, |
+^D,2 ^D =D ^D3 F |
+G F ^D =D C2 ^A, G, |
+% Bar 60 (2:41)
+C3/2 z/ F2 F5/2 z/ G |
+[^G//-c//] G3/4 =G F ^D F2 D F |
+G2 ^G =G F2 G F |
+^D F D C ^A,2 D F |
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,2
+	%%Q: 80
+	D,89/40 G,89/80 ^A,89/80 |
+%%Q: 89
+C2 F,2 [F,//-G,//] F,7/4 ^A, ^G, |
+G,2 ^D,2 D,// z7/4 ^D F |
+[G//-^A//] G3/4 F ^D =D ^D C ^A, G, |
+F,2 F,// z3/4 G, ^G, z/ =G,/ ^G, ^A, |
+% Bar 70 (3:08)
+C2 F,2 [F,//-G,//] F,7/4 ^A, ^G, |
+G,2 ^D,2 D,2 ^D F |
+G F ^D =D ^D C [^A,//-D//] A,3/4 G, |
+F,2 ^D,3/2 F,// =D,// ^D,3/2 z/ G,/ ^G,/ ^A, |
+C2 F,2 [F,//-G,//] F,7/4 ^A, ^G, |
+G,2 ^D,2 D,// z7/4 ^D F3/4 z// |
+[G//-^A//] G3/4 F ^D =D ^D C ^A, G, |
+F, z F, G, ^G,3/2 =G,/ ^G, ^A, |
+C2 F,7/4 G,// F,2 ^A, ^G, |
+G,2 ^D,2 D,2 ^D F3/4- [F//^A//] |
+% Bar 80 (3:35)
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,3/2 F,// =D,// ^D, z3 |
+G2 G// z3/4 F3/4 F// G2 G// z3/4 ^G |
+[G//^A//-] A3/4 ^G =G F ^D2 =D C |
+C2 F7/4 G// [^D//F//-] F7/4 F// z3/4 G3/4 G// |
+c ^A ^G =G F2 ^D G |
+^A2 [G//c//-] c3/4 A ^G2 A G |
+G ^G =G C ^A,2 ^D F |
+G F ^D =D ^D C ^A, G, |
+F,2 ^D,3/2 F,// =D,// ^D,2 G, F, |
+% Bar 90 (4:02)
+^D,2 G F [F//G//-] G3/2 z// G ^G |
+[G//^A//-] A3/4 ^G =G F ^D2 =D C |
+C2 ^G7/4 [=G//A//] ^G2 G// z3/4 ^A3/4 z// |
+[G//c//-] c3/4 ^A ^G =G F2 ^D F |
+G3/2 G/ ^G =G F2 G F |
+G ^G =G C ^A,3/2 z/ ^D F |
+G F ^D =D
+	%%Q: 80
+	^D89/80 C89/80 ^A,89/80 G,89/80 |
+%%Q: 69
+F,89/69-
+	%%Q: 50
+	F,89/50 ^D,267/80 F,89/400
+	%%Q: 80
+	[=D,89/320^D,89/320-] D,979/320-
+	%%Q: 40
+	D,89/80-
+	%%Q: 30
+	D,89/60- |
+^D,89/15 |]
+
+X: 5
+%%Orig filename was MoransReturnHarp.abc
+T: Moran's Return (4:27) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++ff+ z6 G// z3/4 ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// [^A,/3D/3] z2/3 z ^d// z3/4 f// z/ D// |
+[G//^A//] g// z/ f// z3/4 ^d// z3/4 =d// z/ C// [^D//G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+F// z7/4 F// z3/4 G// z3/4 ^G// z5/4 =G// z// ^G// z3/4 ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z/ [C//D//] [G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+%%Q: 80
+F89/320 z623/320 ^D89/320 z267/320 F89/320 z267/320 D89/320 z623/320
+	%%Q: 89
+	G// z// ^G// z// ^A// z3/4 |
+% Bar 10 (0:25)
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z/ [C//D//] [G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+F// z7/4 F// z3/4 G// z3/4 ^G// z5/4 =G// z// ^G// z3/4 ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z/ [C//D//] [G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+F// z7/4 ^D// z7/4
+	%%Q: 80
+	^D,89/480- [D,89/480G,89/480-] [G,89/480^A,89/480-] [A,89/480D89/480-] D89/480 z89/480 z89/80
+	%%Q: 89
+	G// z3/4 F// z3/4 |
+^D// z7/4 ^d// z3/4 =d// z3/4 D// G// [c//^d//] z9/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z3/4 C// D// [G//c//] z5/4 A// z3/4 G// z3/4 |
+% Bar 20 (0:52)
+c// z7/4 f// z7/4 F// ^G// [c//f//] z9/4 g// z3/4 |
+c// f// ^g// z// =g// z3/4 f// z3/4 ^d// z3/4 f// z7/4 d// z3/4 f// z3/4 |
+g// z7/4 ^g// z3/4 =g// z3/4 f// z7/4 g// z3/4 f// z3/4 |
+^d// z3/4 f// z3/4 d// z3/4 c// z3/4 ^A// z7/4 d// z3/4 f// z3/4 |
+g// z3/4 f// z3/4 ^d// z3/4 =d// z3/4 ^d// z3/4 c// z3/4 ^A// z3/4 G// z3/4 |
+F// z7/4 ^D// z7/4
+	%%Q: 80
+	^D,89/480- [D,89/480G,89/480-] [G,89/480^A,89/480-] [A,89/480D89/480-] D89/480 z89/480 z89/80 G89/320 z267/320 F89/320 z267/320 |
+%%Q: 89
+^D// z7/4 ^d// z3/4 =d// z3/4 D// G// [c//^d//] z9/4 f// z3/4 |
+^A// g// z/ f// z3/4 ^d// z3/4 =d// z3/4 c// z7/4 A// z3/4 G// z3/4 |
+c// z7/4 f// z7/4 F// ^G// [c//f//] z9/4 g// z3/4 |
+c// f// ^g// z// =g// z3/4 f// z3/4 ^d// z3/4 f// z7/4 d// z3/4 f// z3/4 |
+% Bar 30 (1:19)
+g// z7/4 ^g// z3/4 =g// z3/4 f// z7/4 g// z3/4 f// z3/4 |
+^d// z3/4 f// z3/4 d// z3/4 c// z3/4 ^A// z7/4 d// z3/4 f// z3/4 |
+g// z3/4 f// z3/4 ^d// z3/4 =d// z3/4 ^d// z3/4 c// z3/4 ^A// z3/4 G// z3/4 |
+F// z7/4 ^D// z7/4 ^D,// G,// [^A,//D//] z5/4 G// z3/4 ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z/ C// [D//G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+F// z7/4 F// z3/4 G// z3/4 ^G// z5/4 =G// z// ^G// z3/4 ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+% Bar 40 (1:46)
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z3/4 [C//D//G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+%%Q: 80
+F89/320 z623/320 ^D89/320 z267/320 F89/320 z267/320 D89/320 z623/320
+	%%Q: 89
+	G// z// ^G// z// ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z/ C// [D//G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+F// z7/4 F// z3/4 G// z3/4 ^G// z5/4 =G// z// ^G// z3/4 ^A// z3/4 |
+c// z7/4 F// z7/4 F// z7/4 ^A// z3/4 ^G// z3/4 |
+G// z7/4 ^D// z3/2 ^D,// ^A,// D// z3/2 ^d// z3/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z3/4 [C//D//G//^d//] z3/4 c// z3/4 A// z3/4 G// z3/4 |
+%%Q: 80
+F89/320 z623/320 ^D89/320 z267/320 F89/320 z267/320 D89/320 z623/320 G89/320 z267/320 F89/320 z267/320 |
+% Bar 50 (2:14)
+%%Q: 89
+^D// z7/4 ^d// z3/4 =d// z3/4 D// G// [c//^d//] z9/4 f// z3/4 |
+^D// [G//^A//] g// z// f// z3/4 ^d// z3/4 =d// z3/4 C// D// [G//c//] z5/4 A// z3/4 G// z3/4 |
+c// z7/4 f// z7/4 F// ^G// [c//f//] z9/4 g// z3/4 |
+c// f// ^g// z// =g// z3/4 f// z3/4 ^d// z3/4 f// z7/4 d// z3/4 f// z3/4 |
+g// z7/4 ^g// z3/4 =g// z3/4 f// z7/4 g// z3/4 f// z3/4 |
+^d// z3/4 f// z3/4 d// z3/4 c// z3/4 ^A// z7/4 d// z3/4 f// z3/4 |
+g// z3/4 f// z3/4 ^d// z3/4 =d// z3/4 ^d// z3/4 c// z3/4 ^A// z3/4 G// z3/4 |
+F// z7/4 ^D// z7/4 ^D,// G,// [^A,//D//] z5/4 G// z3/4 F// z3/4 |
+^D// z7/4 ^d// z3/4 =d// z3/4 D// G// [c//^d//] z9/4 f// z3/4 |
+^A// g// z/ f// z3/4 ^d// z3/4 =d// z3/4 c// z7/4 A// z3/4 G// z3/4 |
+% Bar 60 (2:41)
+c// z7/4 f// z7/4 F// ^G// [c//f//] z9/4 g// z3/4 |
+c// f// ^g// z// =g// z3/4 f// z3/4 ^d// z3/4 f// z7/4 d// z3/4 f// z3/4 |
+g// z7/4 ^g// z3/4 =g// z3/4 f// z7/4 g// z3/4 f// z3/4 |
+^d// z3/4 f// z3/4 d// z3/4 c// z3/4 ^A// z7/4 d// z3/4 f// z3/4 |
+g// z3/4 f// z3/4 ^d// z3/4 =d// z3/4 ^d// z3/4 c// z3/4 ^A// z3/4 G// z3/4 |
+F// z7/4 ^D// z7/4
+	%%Q: 80
+	^D,89/480- [D,89/480G,89/480-] [G,89/480^A,89/480-] [A,89/480D89/480-] D89/480 z89/480 z267/80 |
+%%Q: 89
+C// F// ^G// z5/4 ^G,// z3/4 C// z3/4 F// z15/4 |
+^A,// ^D// G// z5/4 G,// z3/4 A,// z3/4 G// z15/4 |
+^d// g// ^a// z// d// z3/4 g// z3/4 a// z3/4 g// z3/4 ^D// z3/4 ^A// z3/4 [c//d//] z3/4 |
+F// c// f// z5/4 ^G// z3/4 c// z3/4 F,// z// C// z// F// z// =G// z// ^G// z3/4 c// z3/4 |
+% Bar 70 (3:08)
+C// F// z/ C// z3/4 ^G,// z3/4 C// z3/4 G// ^G// z/ c// z11/4 |
+G,// ^A,// ^D// z// ^D,// z3/4 G,// z3/4 A,// z3/4 G// z3/4 ^A// z3/4 [D//G//] z7/4 |
+^D// z// G// z// ^A// z// ^d// z// g// z3/4 ^a// z3/4 C// d// g// z// D// z3/4 [G//c//] z3/4 [d//g//] z3/4 |
+^G// c// f// z// C// z3/4 G// z3/4 c// z3/4 ^D,// z3/4 ^A,// z3/4 [^D//=G//] z7/4 |
+C// F// ^G// z// ^G,// z3/4 C// z3/4 F// z3/4 G// z3/4 c// z3/4 C// z3/4 F// z3/4 |
+^A,// ^D// G// z5/4 G,// z3/4 A,// z3/4 G// z3/4 ^A// z3/4 ^d// z7/4 |
+^D// z// G// z// ^A// z// ^d// z// g// z3/4 ^a// z3/4 C// d// g// z// D// z3/4 [G//c//g//] z3/4 d// z3/4 |
+F// c// f// z5/4 ^G// z3/4 c// z3/4 F,// z// C// z// F// z// =G// z// ^G// z3/4 c// z3/4 |
+C// F// z/ C// z3/4 ^G,// z3/4 C// z3/4 G// ^G// z/ c// z3/4 C// z3/4 F// z3/4 |
+G,// ^A,// ^D// z// ^D,// z3/4 G,// z3/4 A,// z3/4 G// z3/4 ^A// z3/4 D// z3/4 G// z3/4 |
+% Bar 80 (3:35)
+^D// z// G// z// ^A// z// ^d// z// g// z3/4 ^a// z3/4 C// d// g// z// D// z3/4 [G//c//] z3/4 [d//g//] z3/4 |
+^G// c// f// z// C// z3/4 G// z3/4 c// z3/4 ^D,// z3/4 ^A,// z3/4 ^D// =G// z/ ^d// z3/4 |
+^D// G// ^A// z// F// z3/4 G// z3/4 D// z3/4 D// z3/4 D// z3/4 F// z3/4 G// z3/4 |
+^D// z3/4 F// z3/4 G// z3/4 D// z3/4 D// F// G// z5/4 ^d// z3/4 g// z3/4 |
+F// [^G//c//] f// z// G// z3/4 c// z3/4 f// z3/4 F,// z3/4 F,// z3/4 C// z3/4 F// z3/4 |
+F,// z// F// z// C// z// F// z// ^G// z3/4 c// z3/4 ^A// d// f// z5/4 ^d// z3/4 f// z3/4 |
+f// z// G// z// ^A// z// ^d// f// d// z3/4 g// z3/4 D// z// D// z// A// z// =d// ^d// =d// z3/4 f// z3/4 |
+c// f// g// z// ^d// z3/4 d// z3/4 g// z3/4 G,// D// [G//g//] z5/4 C// ^D// [G//c//] g// z |
+^d// g// ^a// z// f// z3/4 g// z3/4 a// z3/4 C// z// ^D// z// G// z// c// z// d// z3/4 g// z3/4 |
+^G// c// f// z// C// z3/4 G// z3/4 c// z3/4 ^D,// z3/4 ^A,// z3/4 ^D// =G// z/ ^d// z3/4 |
+% Bar 90 (4:02)
+^D// G// ^A// z// F// z3/4 D// z3/4 G// z3/4 D// z3/4 D// z3/4 F// z3/4 G// z3/4 |
+^D// z3/4 F// z3/4 G// z3/4 D// z3/4 D// F// G// z5/4 ^d// z3/4 g// z3/4 |
+F// [^G//c//] f// z// G// z3/4 c// z3/4 f// z3/4 F,// z3/4 F,// z3/4 C// z3/4 F// z3/4 |
+F,// z// F// z// C// z// F// z// ^G// z3/4 c// z3/4 ^A// d// f// z5/4 ^d// z3/4 f// z3/4 |
+f// z// G// z// ^A// z// ^d// f// d// z3/4 g// z3/4 ^A,// z3/4 F// z3/4 =d// z3/4 f// z3/4 |
+c// f// g// z// ^d// z3/4 d// z3/4 g// z3/4 G,// D// [G//g//] z5/4 C// ^D// [G//c//] g// z |
+^d// g// ^a// z// f// z3/4 g// z3/4 a// z3/4
+	%%Q: 80
+	c89/480- [c89/480d89/480-] [d89/480g89/480-] g89/480 z89/240 ^D89/320 z267/320 d89/320 z267/320 g89/320 z267/320 |
+%%Q: 69
+^G89/414- [G89/414c89/414] f89/414 z89/138
+	%%Q: 50
+	F89/200 z267/200 c89/200 z267/200 f89/200 z267/200
+	%%Q: 80
+	z89/32 =G89/320 z89/320
+	%%Q: 40
+	^A89/160 z89/160
+	%%Q: 30
+	^d89/120 z89/120 |
+g89/120 z623/120 |]
+
+X: 12
+%%Orig filename was MoransReturnLonely.abc
+T: Moran's Return (4:27) - Lonely Mountain Fiddle (5)
+%%part-name Lonely Mountain Fiddle (5)
+%%made-for Lonely Mountain Fiddle
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/40
+	%%Q: 89
+	G F |
+^D2 ^d =d ^d3 f |
+g f ^d =d c2 ^A G |
+% Bar 20 (0:52)
+c2 f2 f3 g |
+^g =g f ^d f2 d f |
+g2 ^g =g f2 g f |
+^d f d c ^A2 d f |
+g f ^d =d ^d c ^A G |
+F2 ^D2
+	%%Q: 80
+	D89/40 G89/80 F89/80 |
+%%Q: 89
+^D2 ^d =d ^d3 f |
+g f ^d =d c2 ^A G |
+c2 f2 f3 g |
+^g =g f ^d f2 d f |
+% Bar 30 (1:19)
+g2 ^g =g f2 g f |
+^d f d c ^A2 d f |
+g f ^d =d ^d c ^A G |
+F2 ^D2 D2 G, ^A, |
+C2 F,2 F,2 ^A, ^G, |
+G,2 ^D,2 D,2 ^D F |
+G F ^D =D ^D C ^A, G, |
+F,2 F, G, ^G,3/2 =G,/ ^G, ^A, |
+C2 F,2 F,2 ^A, ^G, |
+G,2 ^D,2 D,2 ^D F |
+% Bar 40 (1:46)
+G F ^D =D ^D C ^A, G, |
+%%Q: 80
+F,89/40 ^D,267/160 F,89/160 D,89/40
+	%%Q: 89
+	G/ ^G/ ^A |
+c2 F2 F2 ^A ^G |
+G2 ^D2 D2 ^d f |
+g f ^d =d ^d c ^A G |
+F2 F G ^G3/2 =G/ ^G ^A |
+c2 F2 F2 ^A ^G |
+G2 ^D3 z ^d f |
+g f ^d =d ^d c ^A G |
+%%Q: 80
+F89/40 ^D267/160 D89/160 D89/40 G89/80 F89/80 |
+% Bar 50 (2:14)
+%%Q: 89
+^D2 ^d =d ^d3 f |
+g f ^d =d c2 ^A G |
+c2 f2 f3 g |
+^g =g f ^d f2 d f |
+g2 ^g =g f2 g f |
+^d f d c ^A2 d f |
+g f ^d =d ^d c ^A G |
+F2 ^D2 D2 G F |
+^D2 ^d =d ^d3 f |
+g f ^d =d c2 ^A G |
+% Bar 60 (2:41)
+c2 f2 f3 g |
+^g =g f ^d f2 d f |
+g2 ^g =g f2 g f |
+^d f d c ^A2 d f |
+g f ^d =d ^d c ^A G |
+F2 ^D2
+	%%Q: 80
+	D267/80 z89/80 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:08)
+z8 |
+z8 |
+z8 |
+z6 G/ ^G/ ^A |
+c2 F2 F2 ^A ^G |
+G2 ^D2 D2 ^d f |
+g f ^d =d ^d c ^A G |
+F2 F G ^G3/2 =G/ ^G ^A |
+c2 F2 F2 ^A ^G |
+G2 ^D3 z ^d f |
+% Bar 80 (3:35)
+g f ^d =d ^d c ^A G |
+F2 ^D3/2 D/ D2 G F |
+^D2 ^d =d ^d3 f |
+g f ^d =d c2 ^A G |
+c2 f2 f3 g |
+^g =g f ^d f2 d f |
+g2 ^g =g f2 g f |
+^d f d c ^A2 d f |
+g f ^d =d ^d c ^A G |
+F2 ^D2 D2 G F |
+% Bar 90 (4:02)
+^D2 ^d =d ^d3 f |
+g f ^d =d c2 ^A G |
+c2 f2 f3 g |
+^g =g f ^d f2 d f |
+g2 ^g =g f2 g f |
+^d f d c ^A2 d f |
+g f ^d =d
+	%%Q: 80
+	^d89/80 c89/80 ^A89/80 G89/80 |
+%%Q: 69
+F89/69-
+	%%Q: 50
+	F89/50 ^D89/25
+	%%Q: 80
+	+pp+ D267/80-
+	%%Q: 40
+	D89/80-
+	%%Q: 30
+	D89/60- |
+^D89/15 |]
+
+X: 18
+%%Orig filename was MoransReturnPipes.abc
+T: Moran's Return (4:27) - Basic Bagpipe (8)
+%%part-name Basic Bagpipe (8)
+%%made-for Basic Bagpipe
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/40
+	%%Q: 89
+	z2 |
+z8 |
+z8 |
+% Bar 20 (0:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/20 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:46)
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z89/10 |
+% Bar 50 (2:14)
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/20 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:08)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (3:35)
+z8 |
+z6 G F |
+[^D//-G//] D7/4 D =D [D//^D//] D7/4 D F |
+^A,// G3/4 F ^D =D [C//-G//] C7/4 A, G |
+[F,//C//-] C7/4 F2 [F,//F//-] F7/4 ^D// F3/4 G |
+F// ^G3/4 =G F ^D [F//-G//] F7/4 G// D3/4 F |
+[F//G//] G7/4 ^G =G [^D//F//] F7/4 G F |
+G,// ^D3/4 F G// D3/4 C [F,//^A,//-] A,7/4 D F |
+^A,// G3/4 F G// ^D3/4 =D ^D// [=D//^D//-] D/ C A, G |
+[F//G//] F7/4 ^D2 [D//-G//] D7/4 G F |
+% Bar 90 (4:02)
+[^D//-G//] D7/4 D =D [D//^D//] D7/4 D F |
+^A,// G3/4 F ^D =D [C//-G//] C7/4 A, G |
+[F,//C//-] C7/4 F2 [F,//F//-] F7/4 ^D// F3/4 G |
+F// ^G3/4 =G F ^D [F//-G//] F7/4 G// D3/4 F |
+[F//G//] G7/4 ^G =G [^D//F//] F7/4 G F |
+G,// ^D3/4 F G// D3/4 C [F,//^A,//-] A,7/4 D F |
+^A,// G3/4 F G// ^D3/4 =D
+	%%Q: 80
+	^D89/320 [=D89/320^D89/320-] D89/160 C89/80 A,89/80 G89/80 |
+%%Q: 69
+[F89/276G89/276] F89/92-
+	%%Q: 50
+	F89/50 ^D89/25
+	%%Q: 80
+	z267/80
+	%%Q: 40
+	z89/80
+	%%Q: 30
+	z89/60 |
+z89/15 |]
+
+X: 15
+%%Orig filename was MoransReturnSoon.abc
+T: Moran's Return (4:27) - Basic Bassoon
+%%part-name Basic Bassoon
+%%made-for Basic Bassoon
+C: The Whistlebinkies (MIDI by Valorye MacSiolesean)
+Z: Raymiond of Sting
+M: 4/4
+Q: 89
+K: C maj
+L: 1/8
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 80
+z267/40
+	%%Q: 89
+	z2 |
+% Bar 10 (0:25)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4
+	%%Q: 80
+	z89/40
+	%%Q: 89
+	z2 |
+^D4 C4 |
+^D4 C4 |
+% Bar 20 (0:52)
+F4 F4 |
+F4 ^A,4 |
+^D4 ^A,4 |
+C4 G,4 |
+^D4 C4 |
+F4
+	%%Q: 80
+	^D89/20 |
+%%Q: 89
+^D4 C4 |
+^D4 C4 |
+F4 F4 |
+F4 ^A,4 |
+% Bar 30 (1:19)
+^D4 ^A,4 |
+C4 G,4 |
+^D4 C4 |
+F4 ^D3 z |
+F8 |
+^D8 |
+^D4 C4 |
+F8 |
+F8 |
+^D8 |
+% Bar 40 (1:46)
+^D4 C4 |
+%%Q: 80
+F89/20 ^D89/40-
+	%%Q: 89
+	D z |
+F4 F4 |
+^D4 D4 |
+^D4 C4 |
+F8 |
+F4 F4 |
+^D4 D4 |
+^D4 C4 |
+%%Q: 80
+F89/20 ^D267/80 z89/80 |
+% Bar 50 (2:14)
+%%Q: 89
+^D4 C4 |
+^D4 C4 |
+F4 F4 |
+F4 ^A,4 |
+^D4 ^A,4 |
+C4 G,4 |
+^D4 C4 |
+F4 ^D4 |
+^D4 C4 |
+^D4 C4 |
+% Bar 60 (2:41)
+F4 F4 |
+F4 ^A,4 |
+^D4 ^A,4 |
+C4 G,4 |
+^D4 C4 |
+F4
+	%%Q: 80
+	^D267/80 z89/80 |
+%%Q: 89
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:08)
+z8 |
+z8 |
+z8 |
+z6 G,/ ^G,/ ^A, |
+F4 F4 |
+^D4 D4 |
+^D4 C4 |
+F8 |
+F4 F4 |
+^D4 D4 |
+% Bar 80 (3:35)
+^D4 C4 |
+F4 ^D3 z |
+^D4 C4 |
+^D4 C4 |
+F4 F4 |
+F4 ^A,4 |
+^D4 ^A,4 |
+C4 G,4 |
+^D4 C4 |
+F4 ^D4 |
+% Bar 90 (4:02)
+^D4 C4 |
+^D4 C4 |
+F4 F4 |
+F4 ^A,4 |
+^D4 ^A,4 |
+C4 G,4 |
+^D4
+	%%Q: 80
+	C89/20 |
+%%Q: 69
+F89/69-
+	%%Q: 50
+	F267/50
+	%%Q: 80
+	^D267/80-
+	%%Q: 40
+	D89/80-
+	%%Q: 30
+	D89/60- |
+^D89/15 |]
+

@@ -1,0 +1,357 @@
+N: TS  4,  11   3   5  17
+X: 11
+%%Orig filename was Eleanor2Bardic.abc
+T: Eleanor Rigby v2 (2:03) - Bardic Fiddle
+%%part-name Bardic Fiddle
+C: The Beatles
+Z: Raymiond of Gladden
+M: 4/4
+Q: 137
+K: C maj
+
++p+ G8- |
+G8- |
+G4- G3/2 z/ A/ z/ B/ z/ |
+G/ z/ B/ z/ ^F/ z/ B/ z/ G/ z/ B/ z/ G/ z/ B/ z/ |
+G8- |
+G8- |
+G4- G3/2 z/ A/ z/ B/ z/ |
+G/ z/ B/ z/ ^F/ z/ B/ z/ G/ z/ B/ z/ G/ z/ B/ z/ |
+z8 |
+% Bar 10 (0:15)
+z8 |
+z8 |
+z8 |
+z8 |
+[E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ |
+[E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ |
+[E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ |
+[E/G/] z/ [G/c/] z/ [E/G/] z/ [G/c/] z/ [E/G/] z/ [G/c/] z/ [E/G/] z/ [G/c/] z/ |
+[E/G/] z/ [G/c/] z/ [E/G/] z/ [G/c/] z/ [E/G/] z/ [G/B/] z/ [E/G/] z/ [G/B/] z/ |
+D8 |
+% Bar 20 (0:33)
+^C8 |
+C8 |
+B,8 |
+D8 |
+^C8 |
+C8 |
+[B,3/2-g3/2] B,/- [B,-e] [B,-B-] [B,/-B/] B,/- [B,2A2] G- |
+G8 |
+z8 |
+z8 |
+% Bar 30 (0:50)
+z8 |
+z8 |
+z4 z B,/ z/ E/ z/ ^F/ z/ |
+G2- G/ z/ ^F7/2 z/ E- |
+E2- E/ z/ D7/2 z/ E- |
+E8- |
+E6 z2 |
+D8 |
+^C8 |
+C8 |
+% Bar 40 (1:07)
+[B,2-e2] [B,2-^f2] [B,2-g2] [B,2a2] |
+[D8b8-] |
+[^C4-b4-] [C3-b3] C |
+C8 |
+[B,3/2-g3/2] B,/- [B,-e] [B,-B-] [B,/-B/] B,/- [B,2A2] z |
+G8- |
+G8- |
+G4- G3/2 z/ A/ z/ B/ z/ |
+G/ z/ B/ z/ ^F/ z/ B/ z/ G/ z/ B/ z/ G/ z/ B/ z/ |
+G8- |
+% Bar 50 (1:25)
+G8- |
+G4- G3/2 z/ A/ z/ B/ z/ |
+G/ z/ B/ z/ ^F/ z/ B/ z/ G/ z/ B/ z/ G/ z/ B/ z/ |
+e8- |
+e3- [B3e3-] e- [A-e-] |
+[A2-e2-] [A/e/-] e/- [G7/2e7/2-] e/- [A-e] |
+[A8-e8-] |
+[A2-e2-] [A/e/-] e/- [B-e-] [B3e3] z |
+[G/B/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 |
+[G/B/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 |
+% Bar 60 (1:42)
+[G/B/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 |
+[G/c/e/] z3/2 [G/c/e/] z3/2 [G/c/e/] z3/2 [G/c/e/] z3/2 |
+[G/c/e/] z3/2 [G/c/e/] z3/2 [G/B/e/] z3/2 [G/B/e/] z3/2 |
+D8 |
+^C8 |
+C8 |
+B,8 |
+D8 |
+^C8 |
+C8 |
+% Bar 70 (2:00)
+g2 e2 B2 A2 |
+G6 z2 |]
+
+X: 3
+%%Orig filename was Eleanor2Clar.abc
+T: Eleanor Rigby v2 (2:03) - Basic Clarinet
+%%part-name Basic Clarinet
+C: The Beatles
+Z: Raymiond of Gladden
+M: 4/4
+Q: 137
+K: C maj
+
++ffff+ [G4-c4-e4-] [G/c/-e/-] [c/e/] [Ad^f] [B/-e/-g/] [B/e/] [c-f-a-] |
+[c^fa] [B3/2e3/2-g3/2] e/ [A3/2d3/2-f3/2] d/ [G3/2c3/2e3/2] z/ [EGB] |
+A [B,3/2E3/2-G3/2-] [E-G] E z7/2 |
+z8 |
+[G4-c4-e4-] [G/-c/-e/] [G/c/] [Ad^f] [B/-e/-g/] [B/e/] [c-f-a-] |
+[c^fa] [B3/2e3/2-g3/2-] [e/g/] [A3/2d3/2-f3/2-] [d/f/] [G-ce-] [Ge] [E-GB] |
+[E/^F/A/-] A/ [B,2E2-G2-] [E/G/-] G z7/2 |
+z8 |
+A/ z/ A/ z/ B/ z/ G2 E/ z5/2 |
+% Bar 10 (0:15)
+G/ z/ A/ z/ B/ z/ d2 ^c/ z/ B/ z/ c- |
+^c B/ z/ A/ z/ B2 A/ z/ G/ z/ A- |
+A4 z4 |
+G/ z/ A/ z/ B/ z/ c2 B/ z5/2 |
+A/ z/ A/ z/ B/ z/ G/ z3/2 E/ z5/2 |
+G/ z/ A/ z/ B/ z/ d2 ^c/ z/ B/ z/ c- |
+^c B/ z/ A/ z/ B2 A/ z/ G/ z/ A- |
+A2 z2 z4 |
+G/ z/ A/ z/ B/ z/ c2 B/ z5/2 |
+A2 G/ z/ A3 B G- |
+% Bar 20 (0:33)
+G/ z/ E3/2 z7/2 E/ z/ e- |
+e2 B A2 G2 E- |
+E2 z2 z4 |
+A2 G A3 B G- |
+G/ z/ E z2 z2 E/ z/ g- |
+g2 e B2 A2 G- |
+G z7 |
+A/ z/ A/ z/ B/ z/ G/ z3/2 E/ z5/2 |
+G/ z/ A/ z/ B/ z/ d2 ^c/ z/ B/ z/ c- |
+^c B/ z/ A/ z/ B2 A/ z/ G/ z/ A- |
+% Bar 30 (0:50)
+A2- A/ z11/2 |
+G/ z/ A/ z/ B/ z/ c2 B/ z5/2 |
+A/ z/ A/ z/ B/ z/ G/ z3/2 E/ z5/2 |
+G/ z/ A/ z/ B/ z/ d2 ^c/ z/ B/ z/ c- |
+^c B/ z/ A/ z/ B2 A/ z/ G/ z/ A- |
+A z7 |
+G/ z/ A/ z/ B/ z/ c2 B/ z5/2 |
+A2 G/ z/ A3 B G- |
+G/ z/ E3/2 z7/2 E/ z/ e- |
+e2 B A2 G2 E- |
+% Bar 40 (1:07)
+E2 z2 z4 |
+A2 G A3 B G- |
+G/ z/ E z2 z2 E/ z/ g- |
+g2 e B2 A2 G- |
+G z7 |
+[G4-c4-e4-] [G/c/-e/-] [c/e/] [Ad^f] [Beg] [c-f-a-] |
+[c^fa] [B2e2g2] [A2d2f2] [G2c2e2] [EGB] |
+A [B,3/2E3/2-G3/2-] [E-G] E z7/2 |
+z8 |
+[G4-c4-e4-] [Gce] [Ad^f] [B/-e/-g/] [B/e/] [c-f-a-] |
+% Bar 50 (1:25)
+[c^fa] [B2e2g2] [A2d2f2] [G2c2e2] [E-GB] |
+[E^FA] [B,2E2-G2-] [E/G/-] G z7/2 |
+z8 |
+A/ z/ A/ z/ B/ z/ G/ z3/2 E/ z5/2 |
+G/ z/ A/ z/ B/ z/ d2 ^c/ z/ B/ z/ c- |
+^c B/ z/ A/ z/ B2 A/ z/ G/ z/ A- |
+A z7 |
+G/ z/ A/ z/ B/ z/ c2 B/ z5/2 |
+A/ z/ A/ z/ B/ z/ G/ z3/2 E/ z5/2 |
+G/ z/ A/ z/ B/ z/ d z ^c/ z/ B/ z/ c/ z/ |
+% Bar 60 (1:42)
+z B/ z/ A/ z/ B/ z3/2 A/ z/ G/ z/ A- |
+A/ z15/2 |
+G/ z/ A/ z/ B/ z/ c2 B/ z5/2 |
+A3/2 z/ G/ z/ A3 B/ z/ G- |
+G/ z/ E3/2 z7/2 E/ z/ e- |
+e3/2 z/ B +fff+ A2 +ffff+ G3/2 z/ E- |
+E2 z2 z4 |
+[A2e2-] [G/e/-] e/- [A-e-] [A/-e/] A/- [A/^f/-] f/ [B/-g/] B/ [G-a-] |
+[G/a/-] a/ [Eg-] g ^f2 e- [E/e/-] e/ [Bg-] |
+[Ag] [G2-e2] [G3/2-B3/2] G/- [G3/2A3/2] z/ G- |
+% Bar 70 (2:00)
+G3/2 z13/2 |
+z8 |]
+
+X: 5
+%%Orig filename was Eleanor2Harp.abc
+T: Eleanor Rigby v2 (2:03) - Basic Harp
+%%part-name Basic Harp
+C: The Beatles
+Z: Raymiond of Gladden
+M: 4/4
+Q: 137
+K: C maj
+
++ff+ [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+% Bar 10 (0:15)
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+% Bar 20 (0:33)
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+% Bar 30 (0:50)
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+% Bar 40 (1:07)
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+% Bar 50 (1:25)
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[G,/B,/] z3/2 [G,/B,/] z3/2 [G,/B,/] z3/2 [G,/B,/] z3/2 |
+[G,/B,/] z3/2 [G,/B,/] z3/2 [G,/B,/] z3/2 [G,/B,/] z3/2 |
+[G,/B,/] z3/2 [G,/B,/] z3/2 [G,/B,/] z3/2 [G,/B,/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/C/E/] z3/2 |
+[G,/C/E/] z3/2 [G,/C/E/] z3/2 [G,/B,/E/] z3/2 [G,/B,/E/] z3/2 |
+[B,/E/G/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 |
+[B,/E/G/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 |
+% Bar 60 (1:42)
+[B,/E/G/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 |
+[C/E/A/] z3/2 [C/E/A/] z3/2 [C/E/A/] z3/2 [C/E/A/] z3/2 |
+[C/E/A/] z3/2 [C/E/A/] z3/2 [B,/E/G/] z3/2 [B,/E/G/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+[E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
+% Bar 70 (2:00)
++fff+ [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 [E/G/B/] z3/2 |
++f+ [E,/G,/-B,/-E/-] [G,7/2-B,7/2-E7/2-] [G,2-B,2-E2-] [G,/B,/E/] z3/2 |]
+
+X: 17
+%%Orig filename was Eleanor2SoonLM.abc
+T: Eleanor Rigby v2 (2:03) - Lonely Mountain Bassoon
+%%part-name Lonely Mountain Bassoon
+C: The Beatles
+Z: Raymiond of Gladden
+M: 4/4
+Q: 137
+K: C maj
+
++f+ z G,/ z/ B,/ z/ C5- |
+C4- C3 B,- |
+B,/ z/ B,/ z/ G,/ z/ E,5- |
+E,4- E,2- E,/ z3/2 |
+z G,/ z/ E,/ z/ C,5- |
+C,4- C,2- C,/ z3/2 |
+z B,/ z/ G,/ z/ E,5- |
+E,6 z2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+% Bar 10 (0:15)
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+C/ z3/2 G,/ z3/2 C/ z3/2 G,/ z3/2 |
+C/ z3/2 C/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 D,/ z3/2 D,/ z3/2 |
+C,/ z3/2 G/ z3/2 c/ z3/2 G/ z3/2 |
+C,/ z3/2 C,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,8- |
+% Bar 20 (0:33)
+E,8 |
+E,8- |
+E,8 |
+E,8- |
+E,8 |
+E,8- |
+E,6 z2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+% Bar 30 (0:50)
+C,/ z/ D,/ z/ E,/ z/ ^F,/ z/ G,/ z/ A,/ z/ B,/ z/ C- |
+C2- C/ z/ E4 z |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 E,/ z3/2 E,/ z3/2 |
+E,/ z3/2 E,/ z3/2 D,/ z3/2 D,/ z3/2 |
+C,/ z/ D,/ z/ E,/ z/ ^F,/ z/ G,/ z/ A,/ z/ B,/ z/ C- |
+C2- C/ z/ E4 z |
+E,8- |
+E,4- E,2- E,3/2 z/ |
+E,8- |
+% Bar 40 (1:07)
+E,4- E,2- E,3/2 z/ |
+E,8- |
+E,4- E,2- E,3/2 z/ |
+E,8- |
+E,6 z2 |
+z G,/ z/ B,/ z/ C5- |
+C4- C3 B,- |
+B,/ z/ B,/ z/ G,/ z/ E,5- |
+E,4- E,2- E,/ z3/2 |
+z G,/ z/ E,/ z/ C,5- |
+% Bar 50 (1:25)
+C,4- C,2- C,/ z3/2 |
+z B,/ z/ G,/ z/ E,5- |
+E,6 z2 |
+E/ z/ B/ z/ [E/e/] z/ B/ z/ E/ z/ B/ z/ [E/e/] z/ B/ z/ |
+E/ z/ B/ z/ [E/e/] z/ B/ z/ E/ z/ B/ z/ [E/e/] z/ B/ z/ |
+E/ z/ B/ z/ [E/e/] z/ B/ z/ D/ z/ B/ z/ [D/d/] z/ B/ z/ |
+[C/A/] z/ e/ z/ [C/A/] z/ e/ z/ [C/A/] z/ e/ z/ [C/A/] z/ e/ z/ |
+[C/A/] z/ e/ z/ [C/A/] z/ e/ z/ [E,/B/] z/ e/ z/ [E,/B/] z/ e/ z/ |
+E,/ z9/2 B,/ z/ E/ z/ ^F/ z/ |
+G A/ z/ B/ z/ d3/2 z/ ^c/ z/ B/ z/ c- |
+% Bar 60 (1:42)
+^c B/ z/ A/ z/ B3/2 z/ A/ z/ G/ z/ A- |
+A4- A- [E/A/-] A/- [A,/A/] z/ E/ z/ |
+A,2- A,/ z3/2 E,3 z |
+E,8- |
+E,8 |
+E,8- |
+E,8 |
+E,8- |
+E,4- E,2- E,3/2 z/ |
+E,4- E,2- E,3/2 z/ |
+% Bar 70 (2:00)
+E2 B,2 G,2 ^F,2 |
++mf+ E,4- E,2- E,/ z3/2 |]
+

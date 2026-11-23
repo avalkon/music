@@ -1,0 +1,441 @@
+N: TS  4,   9   2   5  12
+X: 9
+%%Orig filename was AveMariaAges.abc
+T: Ave Maria (2:44) - Lute of Ages
+%%part-name Lute of Ages
+Z: Turinthi of Gladden
+M: 4/4
+Q: 118
+K: C maj
+
++mp+ C +mf+ E- [E//G//-] G3/4 c e- [G//-e//] G3/4 c e |
+C E3/4- [E//G//-] G c e G c e |
+C D A +mp+ d +mf+ f A d f |
+C D A d f A d f |
+B, D G d f G +mp+ d +mf+ f |
+B, D G- [G//d//-] d3/4 f G d f |
++mp+ C3/4- +mf+ [C//E//-] E3/4- [E//G//-] G c e +mp+ G +mf+ c e |
+C E G c e G c e |
+C E G c e G c e |
+% Bar 10 (0:18)
++mp+ C3/4- +mf+ [C//E//-] E3/4 G- [G//c//-] c e G c e |
+C +mp+ D +mf+ A d f A d f |
+C D A d f A d f |
+B,3/4 z// D3/4 G- [G//d//-] d f G- [G//d//-] d3/4 f |
+B, D G d f +mp+ G +mf+ d f |
+C E G3/4- [G//c//-] c e G c3/4 e5/4 |
+C E3/4- [E//G//-] G c e G c e |
+C E A +mp+ e +mf+ a A e a |
+C E A e +mp+ a +mf+ A3/4 z// e a |
+C D ^F A d F3/4 A5/4 d |
+% Bar 20 (0:38)
+C3/4 z// D ^F3/4 A5/4 d F A +mp+ d |
++mf+ B, D G d g G d g |
+B, D3/4 z// G d g G d g |
++mp+ B, +mf+ C- [C//E//-] E3/4 G c- [E//-c//] E3/4 G c |
+B, C3/4- [C//E//-] E G c E G c |
+A, C E +mp+ G +mf+ c E G c |
+A, C E G c E G c |
+D A d ^f +mp+ c' +mf+ d +mp+ f +mf+ c' |
+D A d- [d//^f//-] f3/4 c' d f +mp+ c' |
+G3/4- +mf+ [G//B//-] B3/4- [B//d//-] d g b +mp+ d +mf+ g +mp+ b |
+% Bar 30 (0:58)
++mf+ G B d g +mp+ b +mf+ d g b |
+G ^A e g +mp+ ^c +mf+ e g +mp+ c |
+G3/4- +mf+ [G//^A//-] A3/4 e- [e//g//-] g +mp+ ^c +mf+ e g +mp+ c |
++mf+ F +mp+ A +mf+ d a d d a +mp+ d |
++mf+ F A d a d d a d |
+F3/4 z// ^G3/4 d- [d//f//-] f b d- [d//f//-] f3/4 b |
+F ^G d f b +mp+ d +mf+ f +mp+ b |
++mf+ E G c3/4- [c//g//-] g +mp+ c' +mf+ c g3/4 +mp+ c'5/4 |
++mf+ E G3/4- [G//c//-] c g c' c g +mp+ c' |
++mf+ E F A +mp+ c +mf+ f A c f |
+% Bar 40 (1:19)
+E F A c f A c f |
+D F A c f A3/4 c5/4 f |
+D F A3/4 c5/4 f A c +mp+ f |
++mf+ G, D G B f G B f |
+G, D G B f3/4 z// G B f |
++mp+ C +mf+ E- [E//G//-] G3/4 c e- [G//-e//] G3/4 c e |
+C E3/4- [E//G//-] G c e G c e |
+C G ^A +mp+ c +mf+ e A c e |
+C G ^A c e A c e |
+F, F A c e A +mp+ c +mf+ e |
+% Bar 50 (1:39)
+F, F A c e A c e |
++mp+ ^F,3/4- +mf+ [F,//C//-] C3/4- [C//A//-] A c ^d +mp+ A +mf+ c d |
+^F, C A c ^d A c d |
+G, G B c ^d B c d |
++mp+ G,3/4- +mf+ [G,//G//-] G3/4 B- [B//c//-] c ^d B c d |
+^G, F B c d B c d |
++mp+ ^G,3/4- +mf+ [G,//F//-] F3/4 B- [B//c//-] c d B c d |
+G, +mp+ F +mf+ G B d G B d |
+G, F G B d G B d |
+G,3/4 z// E3/4 G- [G//c//-] c e G c e |
+% Bar 60 (2:00)
+G, E G c e +mp+ G +mf+ c e |
+G, D G3/4- [G//c//-] c f G c3/4 f5/4 |
+G, D3/4- [D//G//-] G c f G c f |
+G, D G +mp+ B +mf+ f G B f |
+G, D G B f G B f |
+G, ^D A c ^f A3/4 c5/4 f |
+G, ^D A3/4 c5/4 ^f A3/4 z// c +mp+ f |
++mf+ G, E G c g G c g |
+G, E G c g G c g |
++mp+ G, +mf+ D- [D//G//-] G3/4 c f- [G//-f//] G3/4 c f |
+% Bar 70 (2:20)
+G, D3/4- [D//G//-] G c f G c f |
+G, D G +mp+ B +mf+ f G B f |
+G, D G B f G B f |
++mp+ C,- [C,-C-] +mf+ [C,-C-G] [C,-C-^A] [C,-C-e] [C,-C-G] +mp+ [C,-C-A] +mf+ [C,//C//e//-] e3/4 |
+C,- +mp+ [C,-C-] +mf+ [C,-C-G-] [C,//-C//-G//^A//-] [C,3/4-C3/4-A3/4] [C,-C-e] [C,-C-G] [C,-C-A] [C,/C/e/-] e/ |
++mp+ C,- [C,-C-] +f+ [C,-C-F-] [C,//-C//-F//A//-] [C,3/4-C3/4-A3/4-] +mf+ [C,//-C//-A//c//-] [C,3/4-C3/4-c3/4] +f+ [C,-C-f-] +mf+ [C,//-C//-c//-f//]
+	[C,3/4-C3/4-c3/4] [C,-C-A-] |
+[C,//-C//-A//c//-] [C,3/4-C3/4-c3/4-] +f+ [C,/-C/-A/-c/] [C,/-C/-A/] [C,-C-F] [C,-C-A] +mf+ [C,-C-F-] +f+ [C,//-C//-D//-F//] [C,3/4-C3/4-D3/4-] +mf+
+	[C,//-C//-D//F//-] [C,3/4-C3/4-F3/4-] [C,//-C//-D//-F//] [C,/C/D/-] D//- |
++mp+ [B,//-D//] B,- [C,11/4-B,11/4-]
+	%%Q: 112
+	[C,59/14-B,59/14-] |
+%%Q: 108
+[C,59/27-B,59/27-]
+	%%Q: 104
+	[C,59/26-B,59/26-]
+	%%Q: 86
+	[C,118/43-B,118/43-]
+	%%Q: 74
+	[C,118/37-B,118/37-] |
+%%Q: 110
+[C,59/55-B,59/55-] [C,177/220B,177/220] z59/220 +p+ C,118/55- C,236/55- |
+% Bar 80 (2:41)
+C,472/55- |
+C,118/55 z118/55 z236/55 |]
+
+X: 2
+%%Orig filename was AveMariaFiddle.abc
+T: Ave Maria (2:44) - Basic Fiddle
+%%part-name Basic Fiddle
+Z: Turinthi of Gladden
+M: 4/4
+Q: 118
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z// [E31/4-e31/4-] |
+% Bar 10 (0:18)
+[E8e8] |
+z// [F31/4-f31/4-] |
+[F4-f4-] [F3/2f3/2] z/ [F2-f2-] |
+[F//f//] [G31/4-g31/4-] |
+[G//g//] [D31/4d31/4] |
++mf+ [E8-e8-] |
+[E4-e4-] [E2-e2-] [E3/2e3/2] z/ |
+z// +f+ [A31/4-a31/4-] |
+[A-a-] [A3/4a3/4-] a// [A,2A2] +ff+ [B,7/4-B7/4-] +f+ [B,//C//-B//c//-] [C2c2] |
+[D4-d4-] [D2-d2-] [D5/4-d5/4-] [D//E//-d//e//-] [E/-e/-] |
+% Bar 20 (0:38)
+[E//-e//-] [D//-E//d//-e//] [D15/2d15/2] |
+[G8-g8-] |
+[G-g-] [G/g/-] g// [G,9/4G9/4] +ff+ [A,2A2] +f+ [B,2B2] |
+[C4-c4-] [C2-c2-] [C-c-] [C//D//-c//d//-] [D3/4-d3/4-] |
+[D//d//] [C15/2c15/2] z// |
++ff+ [c8-c'8-] |
+[c-c'-] [c3/4c'3/4] [C2-c2-] [C//D//-c//d//-] [D7/4d7/4] +f+ [E9/4e9/4] |
++ff+ [^F6^f6] +fff+ [E2e2] |
++ff+ [D4d4] [A,4A4] |
++fff+ [B,8-B8-] |
+% Bar 30 (0:58)
+[B,2-B2-] [B,3/4B3/4] z5/4 +f+ [D4d4] |
+[E8-e8-] |
+[E3/2e3/2] z/ [E-e-] [E3/4e3/4] [F2f2] [G2g2] [A//-a//-] |
+[A4-a4-] [A2-a2-] [A-a-] [A3/4a3/4] z// |
++ff+ [A,4-A4-] [A,2-A2-] [A,-A-] [A,3/4A3/4] z// |
+[D8-d8-] |
+[D3/2d3/2] z// +f+ [D2-d2-] [D//E//-d//e//-] [E7/4e7/4] +ff+ [F2-f2-] [F//G//-f//g//-] |
+[G4-g4-] [G2-g2-] [G-g-] [G3/4g3/4] z// |
++f+ [G,4-G4-] [G,2-G2-] [G,/G/] z3/2 |
++fff+ [C8-c8-] |
+% Bar 40 (1:19)
+[C-c-] [C3/4c3/4] z// +ff+ [C7/4-c7/4-] +f+ [C//D//-c//d//-] [D7/4-d7/4-] [D//E//-d//e//-] [E7/4e7/4] +ff+ [F//-f//-] |
+[F8-f8-] |
+[F3/2f3/2] z// [F2f2] [G7/4-g7/4-] +f+ [G//A//-g//a//-] [A2a2] +ff+ [B//-b//-] |
+[B4-b4-] [B2-b2-] [B//b//] +f+ [A7/4-a7/4-] |
+[A//-a//-] +ff+ [G//-A//g//-a//] [G15/4g15/4] [D15/4d15/4] |
++f+ [E8-e8-] |
+[E4-e4-] [E3/4e3/4] z9/4 [E-e-] |
+[E//e//] [G15/2g15/2] z// |
+[E4-e4-] [E2-e2-] [E//e//] z/ +ff+ [E5/4-e5/4-] |
+[E//e//] +fff+ [A15/2a15/2] z// |
+% Bar 50 (1:39)
+[A,4-A4-] [A,2-A2-] [A,//A//] z3/4 [Aa] |
+z// [A31/4a31/4] |
+[C4-c4-] [C2-c2-] [C//c//] z/ [A5/4-a5/4-] |
+[A/a/] [c15/2c'15/2] |
+z// [^D6^d6] z/ +ff+ [c5/4-c'5/4-] |
+[c//c'//] z// [c15/2c'15/2] |
++f+ [D6d6] z3/4 +ff+ [D5/4d5/4] |
+z/ [D15/2-d15/2-] |
+[D-d-] [D3/4d3/4] z// [D7/4-d7/4-] +fff+ [C//-D//c//-d//] [C2c2] [B,2B2] |
++ff+ [G4-g4-] [G2-g2-] [E//-G//e//-g//] [E7/4-e7/4-] |
+% Bar 60 (2:00)
+[E//e//] +fff+ [C29/4c29/4] z/ |
+z// [F31/4-f31/4-] |
+[F3/2f3/2] z// [F2-f2-] [E//-F//e//-f//] [E7/4e7/4] [D2-d2] [D//d//-] |
+d4- d2- [B//-d//b//-] [B7/4b7/4] |
+[G4-g4-] [G-g-] [G3/4g3/4] z/ [G7/4-g7/4-] |
+[G//g//] [A31/4-a31/4-] |
+[A3/2a3/2] z// [A2a2] [B2b2] [c9/4c'9/4] |
+e8- |
+e- e/- +ff+ [c//-e//c'//-] [c9/4-c'9/4-] [G//-c//g//-c'//] [G7/4g7/4] [E2-e2-] |
+[E//-e//-] [D//-E//d//-e//] [D15/2-d15/2-] |
+% Bar 70 (2:20)
+[D-d-] [D3/4d3/4] [A9/4a9/4] +fff+ [B2-b2-] [B//b//] [A7/4a7/4] |
+z// [A7/4-a7/4-] +ff+ [G//-A//g//-a//] [G7/4g7/4] [F2f2] [D2d2] |
+[B,2B2] +fff+ [G,2G2] [F,2-F2-] +ff+ [D,//-F,//D//-F//] [D,7/4-D7/4-] |
+[D,/-D/-] +f+ [C,//-D,//C//-D//] [C,29/4-C29/4-] |
+[C,4-C4-] [C,2-C2-] [C,-C-] [C,3/4C3/4] z// |
+z// +mf+ C31/4- |
+C8- |
+C3/2 z3/4 +f+ [G,G] +ff+ [B,3/4-B3/4-]
+	%%Q: 112
+	[B,59/224B59/224] [D59/56d59/56] [F59/56f59/56] [D59/56d59/56] [B,177/224-B177/224-] |
+%%Q: 108
+[B,59/216B59/216] +f+ [D59/54-d59/54-] +ff+ [B,59/216-D59/216B59/216-d59/216] [B,59/108-B59/108-]
+	%%Q: 104
+	[B,59/208B59/208] [G,295/208G295/208] [B,59/104-B59/104-]
+	%%Q: 86
+	[B,59/172B59/172] +f+ [D,295/172D295/172] +ff+ [F,59/86-F59/86-]
+	%%Q: 74
+	[F,59/74F59/74] [E,177/74E177/74] |
+%%Q: 110
++f+ [D,118/55D118/55] +p+ C,59/220- +mf+ [C,413/220-E,413/220-G,413/220-C413/220-E413/220-] [C,236/55-E,236/55-G,236/55-C236/55-E236/55-] |
+% Bar 80 (2:41)
+[C,472/55-E,472/55-G,472/55-C472/55-E472/55-] |
+[C,118/55E,118/55G,118/55C118/55E118/55] z118/55 z236/55 |]
+
+X: 5
+%%Orig filename was AveMariaHarp.abc
+T: Ave Maria (2:44) - Basic Harp
+%%part-name Basic Harp
+Z: Turinthi of Gladden
+M: 4/4
+Q: 118
+K: C maj
+
++mp+ C +mf+ E- [E//G//-] G3/4 c e- [G//-e//] G3/4 c e |
+C E3/4- [E//G//-] G c e G c e |
+C D A +mp+ d +mf+ f A d f |
+C D A d f A d f |
+B, D G d f G +mp+ d +mf+ f |
+B, D G- [G//d//-] d3/4 f G d f |
++mp+ C3/4- +mf+ [C//E//-] E3/4- [E//G//-] G c e +mp+ G +mf+ c e |
+C E G c e G c e |
+C E G c e G c e |
+% Bar 10 (0:18)
++mp+ C3/4- +mf+ [C//E//-] E3/4 G- [G//c//-] c e G c e |
+C +mp+ D +mf+ A d f A d f |
+C D A d f A d f |
+B,3/4 z// D3/4 G- [G//d//-] d f G- [G//d//-] d3/4 f |
+B, D G d f +mp+ G +mf+ d f |
+C E G3/4- [G//c//-] c e G c3/4 e5/4 |
+C E3/4- [E//G//-] G c e G c e |
+C E A +mp+ e +mf+ a A e a |
+C E A e +mp+ a +mf+ A3/4 z// e a |
+C D ^F A d F3/4 A5/4 d |
+% Bar 20 (0:38)
+C3/4 z// D ^F3/4 A5/4 d F A +mp+ d |
++mf+ B, D G d g G d g |
+B, D3/4 z// G d g G d g |
++mp+ B, +mf+ C- [C//E//-] E3/4 G c- [E//-c//] E3/4 G c |
+B, C3/4- [C//E//-] E G c E G c |
+A, C E +mp+ G +mf+ c E G c |
+A, C E G c E G c |
+D A d ^f +mp+ c' +mf+ d +mp+ f +mf+ c' |
+D A d- [d//^f//-] f3/4 c' d f +mp+ c' |
+G3/4- +mf+ [G//B//-] B3/4- [B//d//-] d g b +mp+ d +mf+ g +mp+ b |
+% Bar 30 (0:58)
++mf+ G B d g +mp+ b +mf+ d g b |
+G ^A e g +mp+ ^c +mf+ e g +mp+ c |
+G3/4- +mf+ [G//^A//-] A3/4 e- [e//g//-] g +mp+ ^c +mf+ e g +mp+ c |
++mf+ F +mp+ A +mf+ d a d d a +mp+ d |
++mf+ F A d a d d a d |
+F3/4 z// ^G3/4 d- [d//f//-] f b d- [d//f//-] f3/4 b |
+F ^G d f b +mp+ d +mf+ f +mp+ b |
++mf+ E G c3/4- [c//g//-] g +mp+ c' +mf+ c g3/4 +mp+ c'5/4 |
++mf+ E G3/4- [G//c//-] c g c' c g +mp+ c' |
++mf+ E F A +mp+ c +mf+ f A c f |
+% Bar 40 (1:19)
+E F A c f A c f |
+D F A c f A3/4 c5/4 f |
+D F A3/4 c5/4 f A c +mp+ f |
++mf+ G, D G B f G B f |
+G, D G B f3/4 z// G B f |
++mp+ C +mf+ E- [E//G//-] G3/4 c e- [G//-e//] G3/4 c e |
+C E3/4- [E//G//-] G c e G c e |
+C G ^A +mp+ c +mf+ e A c e |
+C G ^A c e A c e |
+F, F A c e A +mp+ c +mf+ e |
+% Bar 50 (1:39)
+F, F A c e A c e |
++mp+ ^F,3/4- +mf+ [F,//C//-] C3/4- [C//A//-] A c ^d +mp+ A +mf+ c d |
+^F, C A c ^d A c d |
+G, G B c ^d B c d |
++mp+ G,3/4- +mf+ [G,//G//-] G3/4 B- [B//c//-] c ^d B c d |
+^G, F B c d B c d |
++mp+ ^G,3/4- +mf+ [G,//F//-] F3/4 B- [B//c//-] c d B c d |
+G, +mp+ F +mf+ G B d G B d |
+G, F G B d G B d |
+G,3/4 z// E3/4 G- [G//c//-] c e G c e |
+% Bar 60 (2:00)
+G, E G c e +mp+ G +mf+ c e |
+G, D G3/4- [G//c//-] c f G c3/4 f5/4 |
+G, D3/4- [D//G//-] G c f G c f |
+G, D G +mp+ B +mf+ f G B f |
+G, D G B f G B f |
+G, ^D A c ^f A3/4 c5/4 f |
+G, ^D A3/4 c5/4 ^f A3/4 z// c +mp+ f |
++mf+ G, E G c g G c g |
+G, E G c g G c g |
++mp+ G, +mf+ D- [D//G//-] G3/4 c f- [G//-f//] G3/4 c f |
+% Bar 70 (2:20)
+G, D3/4- [D//G//-] G c f G c f |
+G, D G +mp+ B +mf+ f G B f |
+G, D G B f G B f |
++mp+ C,- [C,-C-] +mf+ [C,-C-G] [C,-C-^A] [C,-C-e] [C,-C-G] +mp+ [C,-C-A] +mf+ [C,//C//e//-] e3/4 |
+C,- +mp+ [C,-C-] +mf+ [C,-C-G-] [C,//-C//-G//^A//-] [C,3/4-C3/4-A3/4] [C,-C-e] [C,-C-G] [C,-C-A] [C,/C/e/-] e/ |
++mp+ C,- [C,-C-] +f+ [C,-C-F-] [C,//-C//-F//A//-] [C,3/4-C3/4-A3/4-] +mf+ [C,//-C//-A//c//-] [C,3/4-C3/4-c3/4] +f+ [C,-C-f-] +mf+ [C,//-C//-c//-f//]
+	[C,3/4-C3/4-c3/4] [C,-C-A-] |
+[C,//-C//-A//c//-] [C,3/4-C3/4-c3/4-] +f+ [C,/-C/-A/-c/] [C,/-C/-A/] [C,-C-F] [C,-C-A] +mf+ [C,-C-F-] +f+ [C,//-C//-D//-F//] [C,3/4-C3/4-D3/4-] +mf+
+	[C,//-C//-D//F//-] [C,3/4-C3/4-F3/4-] [C,//-C//-D//-F//] [C,/C/D/-] D//- |
++mp+ [B,//-D//] B,- [C,11/4-B,11/4-]
+	%%Q: 112
+	[C,59/14-B,59/14-] |
+%%Q: 108
+[C,59/27-B,59/27-]
+	%%Q: 104
+	[C,59/26-B,59/26-]
+	%%Q: 86
+	[C,118/43-B,118/43-]
+	%%Q: 74
+	[C,118/37-B,118/37-] |
+%%Q: 110
+[C,59/55-B,59/55-] [C,177/220B,177/220] z59/220 +p+ C,118/55- C,236/55- |
+% Bar 80 (2:41)
+C,472/55- |
+C,118/55 z118/55 z236/55 |]
+
+X: 12
+%%Orig filename was AveMariaLonely.abc
+T: Ave Maria (2:44) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+Z: Turinthi of Gladden
+M: 4/4
+Q: 118
+K: C maj
+
++pp+ [C,8-G,8-C8-E8-] |
+[C,8G,8C8E8] |
+[C,8-A,8-D8-F8-] |
+[C,4-A,4-D4-F4-] [C,2-A,2-D2-F2-] [C,-A,-D-F-] [C,3/4A,3/4D3/4F3/4] z// |
+[G,8-B,8-D8-F8-] |
+[G,4-B,4-D4-F4-] [G,2-B,2-D2-F2-] [G,-B,-D-F-] [G,3/4B,3/4D3/4F3/4] z// |
+[C,8-G,8-C8-E8-] |
+[C,4-G,4-C4-E4-] [C,2-G,2-C2-E2-] [C,-G,-C-E-] [C,3/4G,3/4C3/4E3/4] z// |
++p+ [C,8-G,8-C8-] |
+% Bar 10 (0:18)
+[C,4-G,4-C4-] [C,2-G,2-C2-] [C,-G,-C-] [C,3/4G,3/4C3/4] z// |
+[C,8-A,8-D8-] |
+[C,4-A,4-D4-] [C,2-A,2-D2-] [C,-A,-D-] [C,3/4A,3/4D3/4] z// |
+[G,8-B,8-D8F8-] |
+[G,4-B,4-F4-] [G,2-B,2-F2-] [G,-B,-F-] [G,3/4B,3/4F3/4] z// |
+[C,8-G,8-C8-] |
+[C,4-G,4-C4-] [C,2-G,2-C2-] [C,-G,-C-] [C,3/4G,3/4C3/4] z// |
+[C,8-A,8-E8-] |
+[C,2-A,2-E2-] [C,2-A,2-E2-A2-] [C,2-A,2-E2-A2-] [C,-A,-E-A-] [C,3/4A,3/4E3/4A3/4] z// |
+[C,8-^F,8-A,8-] |
+% Bar 20 (0:38)
+[C,4-^F,4-A,4-] [C,2-F,2-A,2-] [C,-F,-A,-] [C,3/4F,3/4A,3/4] z// |
+[G,8-B,8-D8-] |
+[G,4-B,4-D4-] [G,2-B,2-D2-] [G,-B,-D-] [G,3/4B,3/4D3/4] z// |
+[C,8-E,8-G,8-] |
+[C,4-E,4-G,4-] [C,2-E,2-G,2-] [C,-E,-G,-] [C,3/4E,3/4G,3/4] z// |
+[E,8-G,8-A,8-C8-] |
+[E,4-G,4-A,4-C4-] [E,2-G,2-A,2-C2-] [E,-G,-A,-C-] [E,3/4G,3/4A,3/4C3/4] z// |
+[D,8-A,8-c8-] |
+[D,4-A,4-^F4-c4-] [D,2-A,2-F2-c2-] [D,-A,-F-c-] [D,3/4A,3/4F3/4-c3/4] F// |
+[G,8-G8-B8-] |
+% Bar 30 (0:58)
+[G,4-G4-B4-] [G,2-G2-B2-] [G,-G-B-] [G,3/4G3/4B3/4] z// |
+[G,8-^A,8-G8-] |
+[G,4-^A,4-G4-] [G,2-A,2-G2-] [G,-A,-G-] [G,3/4A,3/4G3/4] z// |
+[F,4-A,4-D4-] [F,2-A,2-D2-] [F,-A,-D-] [F,3/4-A,3/4D3/4-] [F,//-D//-] |
+[F,4-D4-] [F,2-D2-] [F,-D-] [F,3/4D3/4] z// |
+[F,8-^G,8-F8-] |
+[F,4-^G,4-F4-] [F,2-G,2-F2-] [F,-G,-F-] [F,3/4G,3/4F3/4] z// |
+[E,4-G,4-C4-] [E,2-G,2-C2-] [E,-G,-C-] [E,3/4-G,3/4C3/4-] [E,//-C//-] |
+[E,4-C4-] [E,2-C2-] [E,-C-] [E,3/4C3/4] z// |
+[F,8-A,8-F8-] |
+% Bar 40 (1:19)
+[F,4-A,4-F4-] [F,2-A,2-F2-] [F,-A,-F-] [F,3/4A,3/4F3/4] z// |
+[D,8-A,8-C8-] |
+[D,4-A,4-C4-] [D,2-A,2-C2-] [D,-A,-C-] [D,3/4A,3/4C3/4] z// |
+[G,8-B,8-F8-] |
+[G,4-B,4-F4-] [G,2-B,2-F2-] [G,-B,-F-] [G,3/4B,3/4F3/4] z// |
+[C,8-G,8-C8-] |
+[C,4-G,4-C4-] [C,2-G,2-C2-] [C,-G,-C-] [C,3/4G,3/4C3/4] z// |
+[C,8-G,8-^A,8-E8] |
+[C,4-G,4-^A,4-] [C,2-G,2-A,2-] [C,-G,-A,-] [C,3/4G,3/4A,3/4] z// |
+[F,4-A,4-C4-E4-] [F,2-A,2-C2-E2-] [F,-A,-C-E-] [F,3/4-A,3/4C3/4-E3/4-] [F,//-C//-E//-] |
+% Bar 50 (1:39)
+[F,4-C4-E4-] [F,2-C2-E2-] [F,-C-E-] [F,3/4C3/4E3/4] z// |
+[^F,8-A,8-C8^D8-] |
+[^F,4-A,4-^D4-] [F,2-A,2-D2-] [F,-A,-D-] [F,3/4A,3/4D3/4] z// |
+[G,8-C8-^D8] |
+[G,4-C4-] [G,2-C2-] [G,-C-] [G,3/4C3/4] z// |
+[F,8-^G,8-C8-D8] |
+[F,4-^G,4-C4-] [F,2-G,2-C2-] [F,-G,-C-] [F,3/4G,3/4C3/4] z// |
+[F,8-G,8-B,8-] |
+[F,4-G,4-B,4-] [F,2-G,2-B,2-] [F,-G,-B,-] [F,3/4G,3/4B,3/4] z// |
+[E,8-G,8-C8E8-] |
+% Bar 60 (2:00)
+[E,4-G,4-E4-] [E,2-G,2-E2-] [E,-G,-E-] [E,3/4G,3/4E3/4] z// |
+[D,8-G,8-C8-] |
+[D,4-G,4-C4-] [D,2-G,2-C2-] [D,-G,-C-] [D,3/4G,3/4C3/4] z// |
+[D,8-G,8-B,8-F8-] |
+[D,4-G,4-B,4-F4-] [D,2-G,2-B,2-F2-] [D,-G,-B,-F-] [D,3/4G,3/4B,3/4F3/4] z// |
+[^D,8-G,8-C8-^F8-] |
+[^D,4-G,4-C4-^F4-] [D,2-G,2-C2-F2-] [D,-G,-C-F-] [D,3/4G,3/4C3/4F3/4] z// |
+[E,8-G,8-C8-G8-] |
+[E,2-G,2-C2-G2-] [E,-G,-C-G-] [E,3/4-G,3/4-C3/4-G3/4] [E,//-G,//-C//-] [E,2-G,2-C2-] [E,-G,-C-] [E,3/4G,3/4C3/4] z// |
+[D,8-G,8-C8-F8-] |
+% Bar 70 (2:20)
+[D,4-G,4-C4-F4-] [D,2-G,2-C2-F2-] [D,-G,-C-F-] [D,3/4G,3/4C3/4F3/4] z// |
+[D,8-G,8-B,8-F8-] |
+[D,4-G,4-B,4-F4-] [D,-G,-B,-F-] [D,3/4G,3/4-B,3/4-F3/4-] [G,//-B,//-F//-] [G,-B,-F-] [G,3/4B,3/4F3/4] z// |
+[C,8-^A,8-E8-] |
+[C,4-^A,4-E4-] [C,2-A,2-E2-] [C,-A,-E-] [C,3/4A,3/4E3/4] z// |
+[F,8-A,8-F8-] |
+[F,4-A,4-F4-] [F,2-A,2-F2-] [F,-A,-F-] [F,3/4A,3/4F3/4] z// |
+[G,4-B,4-G4-]
+	%%Q: 112
+	[G,59/14-B,59/14-G59/14-] |
+%%Q: 108
+[G,59/27-B,59/27-G59/27-]
+	%%Q: 104
+	[G,59/26-B,59/26-G59/26-]
+	%%Q: 86
+	[G,118/43-B,118/43-G118/43-]
+	%%Q: 74
+	[G,118/37-B,118/37-G118/37-] |
+%%Q: 110
+[G,59/55-B,59/55-G59/55-] [G,177/220B,177/220G177/220] z295/44 |
+% Bar 80 (2:41)
+z472/55 |
+z472/55 |]
+

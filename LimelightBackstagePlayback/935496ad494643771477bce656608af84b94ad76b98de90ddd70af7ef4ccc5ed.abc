@@ -1,0 +1,172 @@
+%abc-2.1
+%%song-title       Pascal's Village
+%%song-composer    NieR: Automata (MIDI by Debra Vanhouten)
+%%song-duration    3:53
+%%song-transcriber Raymiond of Gladden
+%%abc-creator Maestro v3.1.9
+%%export-timestamp 2025-04-05 16:29:07
+%%swing-rhythm false
+%%mix-timings true
+%%skip-silence-at-start false
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+X: 1
+T: Pascal's Village (3:53) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: NieR: Automata (MIDI by Debra Vanhouten)
+Z: Raymiond of Gladden
+M: 4/4
+Q: 137
+K: C maj
+L: 1/8
+
++ff+ C G c G c d c g |
+f ^d c G C G c G |
+c d c g f ^d c G |
+C G c G c d c g |
+f ^d c G C G c G |
+c d c g f ^d c G |
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F A3 C G |
+F ^A3 C G F A- |
+^A2 A c G A F G |
+% Bar 10 (0:15)
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F A3 C G |
+F ^A3 C G F A- |
+^A2 A c G A F G |
+[C/3-G/3-] [C2/3G2/3c2/3f2/3] G F c3 [Cc] G |
+F ^A3 [Cc] G F c- |
+c2 ^A c G A F G |
+[C/3-G/3-] [C2/3G2/3c2/3f2/3] G F c3 [Cc] G |
+F ^A3 [Cc] G F c- |
+c2 ^A c G A F G |
+[Cg] G F [^A3g3] [Cg] G |
+% Bar 20 (0:33)
+F [^D^a] =D C [C=a] G F [^A-f-] |
+[^A2f2] [CAg] c G A F G |
+[^G,cg] G F c3 G, G |
+F [c3g3] [^G,c] G F c- |
+c2 [^G,d] ^d ^A c F G |
+[Cg] G F [^A3g3] [Cg] G |
+F [^D^a] =D C [C=a] G F [^A-f-] |
+[^A2f2] [CAg] c G A F G |
+^G,/3- [G,2/3^A2/3g2/3] G F [c3c'3] G, G |
+F c/3- [c2/3-g2/3-] [c2g2] [^G,c'] G F c- |
+% Bar 30 (0:50)
+c2 [^G,d] ^d ^A c F G |
+[F,c'] G F [c3^a3] [F,g] G |
+F [c3^a3] [G,g] G F [c-f-] |
+[c2f2] [G,d] ^d ^A f F G |
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F [c3g3] C G |
+F ^A/3 c2/3- c2 [Ccg] G F A- |
+^A2 [CA] c G A F G |
+[F,c] G F [^A3d3] [F,^d] G |
+F [^A3g3] [G,Af] G F [A-^d-] |
+[^A2^d2] [G,=d] ^d A c F G |
+% Bar 40 (1:08)
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F A3 C G |
+F ^A3 C G F A- |
+^A2 [Cd] ^d A c F G |
+[C/3-^A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C [A2c2g2] [c2-g2-] |
+[cg] C d ^d [C/3-^A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C |
+[^A2c2g2] [c3g3] C G A |
+[C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] a C ^a2 =a2 |
+g C f2 [C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] d c |
+^d2 d f d C f2 |
+[^G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, [c2g2] [c2-g2-] |
+% Bar 50 (1:25)
+[cg] ^G, f g [G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, |
+[c2g2] [c3g3] ^g ^a2 |
+^G,/3- [G,2/3-c2/3-g2/3-] [G,cg] a ^G, ^a2 =a2 |
+g ^G, f2 [G,c^g] ^a g2 |
+g ^g f =g =f2 ^d f |
+[C/3-^A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C [A2c2g2] [A2-g2-] |
+[^Ag] C d ^d [C/3-A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C |
+[^A2c2g2] [A3g3] C G A |
+[C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] a C ^a2 =a2 |
+g C f2 [C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] d c |
+% Bar 60 (1:43)
+^d2 d f d C f2 |
+[^G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, [c2g2] [c2-g2-] |
+[cg] ^G, f g [G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, |
+[c2g2] [c3g3] ^g ^a2 |
+^G,/3- [G,2/3-c2/3-g2/3-] [G,cg] a G, ^a2 =a2 |
+g ^G, f2 [G,c^g] ^a g2 |
+g ^g f =g =f2 ^d f |
+C G c G c d c g |
+f ^d c G C G c G |
+c d c g f ^d c G |
+% Bar 70 (2:00)
+C G c G c d c g |
+f ^d c G C G c G |
+c d c g f ^d c G |
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F A3 C G |
+F ^A3 C G F A- |
+^A2 A c G A F G |
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F A3 C G |
+F ^A3 C G F A- |
+^A2 A c G A F G |
+[C/3-G/3-] [C2/3G2/3c2/3f2/3] G F c3 [Cc] G |
+% Bar 80 (2:18)
+F ^A3 [Cc] G F c- |
+c2 ^A c G A F G |
+[C/3-G/3-] [C2/3G2/3c2/3f2/3] G F c3 [Cc] G |
+F ^A3 [Cc] G F c- |
+c2 ^A c G A F G |
+[Cg] G F [^A3g3] [Cg] G |
+F [^D^a] =D C [C=a] G F [^A-f-] |
+[^A2f2] [CAg] c G A F G |
+[^G,cg] G F c3 G, G |
+F [c3g3] [^G,c] G F c- |
+% Bar 90 (2:35)
+c2 [^G,d] ^d ^A c F G |
+[Cg] G F [^A3g3] [Cg] G |
+F [^D^a] =D C [C=a] G F [^A-f-] |
+[^A2f2] [CAg] c G A F G |
+^G,/3- [G,2/3^A2/3g2/3] G F [c3c'3] G, G |
+F c/3- [c2/3-g2/3-] [c2g2] [^G,c'] G F c- |
+c2 [^G,d] ^d ^A c F G |
+[F,c'] G F [c3^a3] [F,g] G |
+F [c3^a3] [G,g] G F [c-f-] |
+[c2f2] [G,d] ^d ^A f F G |
+% Bar 100 (2:53)
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F [c3g3] C G |
+F ^A/3 c2/3- c2 [Ccg] G F A- |
+^A2 [CA] c G A F G |
+[F,c] G F [^A3d3] [F,^d] G |
+F [^A3g3] [G,Af] G F [A-^d-] |
+[^A2^d2] [G,=d] ^d A c F G |
+[C/3-G/3-] [C2/3G2/3^A2/3f2/3] G F A3 C G |
+F ^A3 C G F A- |
+^A2 [Cd] ^d A c F G |
+[C/3-^A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C [A2c2g2] [A2-g2-] |
+% Bar 110 (3:10)
+[^Ag] C d ^d [C/3-A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C |
+[^A2c2g2] [A3g3] C G A |
+[C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] a C ^a2 =a2 |
+g C f2 [C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] d c |
+^d2 d f d C f2 |
+[^G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, [c2g2] [c2-g2-] |
+[cg] ^G, f g [G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, |
+[c2g2] [c3g3] ^g ^a2 |
+^G,/3- [G,2/3-c2/3-g2/3-] [G,cg] a G, ^a2 =a2 |
+g ^G, f2 [G,c^g] ^a g2 |
+% Bar 120 (3:28)
+g ^g f =g =f2 ^d f |
+[C/3-^A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C [A2c2g2] [A2-g2-] |
+[^Ag] C d ^d [C/3-A/3-] [C2/3-A2/3-c2/3-g2/3-] [CAcg] [Ag] C |
+[^A2c2g2] [A3g3] C G A |
+[C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] a C ^a2 =a2 |
+g C f2 [C/3-c/3-] [C2/3-c2/3-g2/3-] [Ccg] d c |
+^d2 d f d C f2 |
+[^G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, [c2g2] [c2-g2-] |
+[cg] ^G, f g [G,/3-c/3-] [G,2/3-c2/3-g2/3-] [G,cg] g G, |
+[c2g2] [c3g3] ^g ^a2 |
+% Bar 130 (3:45)
+^G,/3- [G,2/3-c2/3-g2/3-] [G,cg] a G, ^a2 =a2 |
+g ^G, f2 [G,^g] ^a g2 |
+g ^g- g/3 ^f2/3- f/ =g/- g2/3 =f/3- f5/2 ^d/- |
+^d f2 z3 [C/3-F/3-] [C2/3-F2/3-G2/3-c2/3-] [C-F-G-c-] |
+[C2F2G2-c2-] [G/3c/3] z2/3 z5 |]
+

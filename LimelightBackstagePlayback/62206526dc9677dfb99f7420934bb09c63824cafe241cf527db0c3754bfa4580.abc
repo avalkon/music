@@ -1,0 +1,458 @@
+N: TS  8,   9   8   3  10  21   1  12  14
+X: 9
+%%Orig filename was RiverFlows2Ages.abc
+T: River Flows in You [7-multi] (2:24) - Lute of Ages
+%%part-name Lute of Ages
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++ff+ z8 |
+^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
+% Bar 10 (0:18)
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ +ff+ E,/ E/ +fff+ ^G/ B/ G/ +ff+ E/ +fff+ B/ G/ |
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ +ff+ E,/ E/ +fff+ ^G/ B/ G/ +ff+ E/ +fff+ B/ G/ |
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ +ff+ E,/ E/ +fff+ ^G/ B/ G/ +ff+ E/ +fff+ B/ G/ |
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ [E,2-^G2-B2-] [E,-G-B-] [E,//G//B//] z3/4 |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
+% Bar 20 (0:38)
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ +ff+ E,/ E/ +fff+ ^G/ B/ G/ +ff+ E/ +fff+ B/ G/ |
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ +ff+ E,/ E/ +fff+ ^G/ B/ G/ +ff+ E/ +fff+ B/ G/ |
+% Bar 30 (0:58)
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ +ff+ E,/ E/ +fff+ ^G/ B/ G/ +ff+ E/ +fff+ B/ G/ |
++ff+ ^F,/ ^F/ +fff+ A/ ^c/ A/ +ff+ F/ +fff+ c/ A/ D/ +ff+ A/ +fff+ d/ ^f/ d/ +ff+ A/ +fff+ f/ d/ |
++ff+ A,/ E/ +fff+ A/ ^c/ A/ +ff+ E/ +fff+ c/ A/ [E,2-^G2-B2-] [E,-G-B-] [E,//G//B//] z3/4 |
++ff+ ^F,//- +fff+ [F,//-^F//-A//-] [F,3/2-F3/2-A3/2-^c3/2-] [F,-F-A-c-] [F,//F//A//c//] z3/4 +ff+ D//- +fff+ [D//-A//-d//-] [D3/2-A3/2-d3/2-^f3/2-] [D-A-d-f-]
+	[D//A//d//f//] z3/4 |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
++ff+ A,3/4 z// +fff+ E3/4 z// ^c3/2 z/ +ff+ E,3/4 z// +fff+ E3/4 z// B3/2 z/ |
+% Bar 40 (1:18)
++ff+ ^F,3/4 z// +fff+ ^F3/4 z// ^c3/2 z/ +ff+ D3/4 z// +fff+ A3/4 z// d3/2 z/ |
+[A,2-E2-A2-^c2-] [A,-E-A-c-] [A,//E//A//c//] z3/4 [E,2-E2-^G2-B2-] [E,-E-G-B-] [E,//E//G//B//] z3/4 |
+[A,4-A4-^c4-e4-] [A,2-A2-c2-e2-] [A,/A/c/e/] z3/2 |]
+
+X: 8
+%%Orig filename was RiverFlows2Bass.abc
+T: River Flows in You [7-multi] (2:24) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+^F,4 D4 |
+A,4 E,4 |
+^F,4 D4 |
+A,4 E,4 |
+^F,4 D4 |
+A,4 E,4 |
+^F,4 D4 |
+A,4 E,4 |
+^F,/ F,/ ^F/ F,/ F,/ F,/ F/ F,/ D/ D/ d/ D/ D/ D/ d/ D/ |
+A,/ A,/ A/ A,/ A,/ A,/ A/ A,/ E,/ E,/ E/ E,/ E,/ E,/ E/ E,/ |
+% Bar 20 (0:38)
+^F,/ F,/ ^F/ F,/ F,/ F,/ F/ F,/ D/ D/ d/ D/ D/ D/ d/ D/ |
+A,/ A,/ A/ A,/ A,/ A,/ A/ A,/ E,/ E,/ E/ E,/ E,/ E,/ E/ E,/ |
+^F,/ F,/ ^F/ F,/ F,/ F,/ F/ F,/ D/ D/ d/ D/ D/ D/ d/ D/ |
+A,/ A,/ A/ A,/ A,/ A,/ A/ A,/ E,/ E,/ E/ E,/ E,/ E,/ E/ E,/ |
+^F,/ F,/ ^F/ F,/ F,/ F,/ F/ F,/ D/ D/ d/ D/ D/ D/ d/ D/ |
+A,/ A,/ A/ A,/ A,/ A,/ A/ A,/ E,/ E,/ E/ E,/ E,/ E,/ E/ E,/ |
+^F,3/4 z// F,3/4 z// ^F/ F,/ F,3/4 z// D3/4 z// D3/4 z// d/ D/ D3/4 z// |
+A,3/4 z// A,3/4 z// A/ A,/ A,3/4 z// E,3/4 z// E,3/4 z// E/ E,/ E,3/4 z// |
+^F,3/4 z// F,3/4 z// ^F/ F,/ F,3/4 z// D3/4 z// D3/4 z// d/ D/ D3/4 z// |
+A,3/4 z// A,3/4 z// A/ A,/ A,3/4 z// E,3/4 z// E,3/4 z// E/ E,/ E,3/4 z// |
+% Bar 30 (0:58)
+^F,3/4 z// F,3/4 z// ^F/ F,/ F,3/4 z// D3/4 z// D3/4 z// d/ D/ D3/4 z// |
+A,3/4 z// A,3/4 z// A/ A,/ A,3/4 z// E,3/4 z// E,3/4 z// E/ E,/ E,3/4 z// |
+^F,3/4 z// F,3/4 z// ^F/ F,/ F,3/4 z// D3/4 z// D3/4 z// d/ D/ D3/4 z// |
+A,3/4 z// A,3/4 z// A/ A,/ A,3/4 z// E,3/4 z// E,3/4 z// E/ E,/ E,3/4 z// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |]
+
+X: 3
+%%Orig filename was RiverFlows2Clar.abc
+T: River Flows in You [7-multi] (2:24) - Basic Clarinet
+%%part-name Basic Clarinet
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++ff+ z8 |
+A ^G/ A3/2 G/ A3/2 E/ A3/2 D |
+^C D E C B,2 z A,/ ^G,/ |
+A,3 A,/ B,/ ^C3 C/ D/ |
+E3 D/ ^C/ B,4 |
+A ^G/ A3/2 G/ A3/2 E/ A3/2 D |
+^C D E ^c B2 z E |
+^F ^C- C A,/ B,/ C3 C/ D/ |
+E E D ^C B,2 A/ B/ A/ ^G/ |
+% Bar 10 (0:18)
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 A/ B/ A/ G/ |
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 A/ B/ A/ G/ |
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 A/ B/ A/ G/ |
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 z2 |
+A ^G/ A3/2 G/ A3/2 E/ A3/2 D |
+^C D E C B,2 z A,/ ^G,/ |
+% Bar 20 (0:38)
+A,3 A,/ B,/ ^C3 C/ D/ |
+E3 D/ ^C/ B,3 z |
+A ^G/ A3/2 G/ A3/2 E/ A3/2 D |
+^C D E ^c B2 z E |
+^F ^C- C A,/ B,/ C3 C/ D/ |
+E E D ^C B,2 A/ B/ A/ ^G/ |
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 A/ B/ A/ G/ |
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 A/ B/ A/ G/ |
+% Bar 30 (0:58)
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 A/ B/ A/ G/ |
+A E A/ B/ A/ ^G/ A E A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |]
+
+X: 10
+%%Orig filename was RiverFlows2Drums1.abc
+T: River Flows in You [7-multi] (2:24) - Basic Drum
+%%part-name Basic Drum
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++ffff+ B3/2 z/ B3/2 z/ B3/2 z/ B3/2 z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z/ ^C/ E3/4 z// E/ B,/ a/ C/ |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+% Bar 20 (0:38)
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F// F// F// F// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F// F// F// F// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z3/4 A/ F/ A/ z/ A/ F// F// F// F// |
+% Bar 30 (0:58)
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z3/4 A/ F/ A/ F// F// F// F// F// F// F// F// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |]
+
+X: 21
+%%Orig filename was RiverFlows2Drums2.abc
+T: River Flows in You [7-multi] (2:24) - Basic Drum
+%%part-name Basic Drum
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++ffff+ B3/2 z/ B3/2 z/ B3/2 z/ B3/2 z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z/ ^C/ E3/4 z// E/ B,/ a/ C/ |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+% Bar 20 (0:38)
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F// F// F// F// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F3/4 z// |
+^A3/4 z// ^F/ A/ z/ A/ F3/4 z// A3/4 z// F/ A/ z/ A/ F// F// F// F// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z3/4 A/ F/ A/ z/ A/ F// F// F// F// |
+% Bar 30 (0:58)
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z// A3/4 z// F3/4 z// A/ A/ F3/4 z// |
+^A3/4 z// ^F3/4 z// A/ A/ F3/4 z3/4 A/ F/ A/ F// F// F// F// F// F// F// F// |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |]
+
+X: 1
+%%Orig filename was RiverFlows2Flute.abc
+T: River Flows in You [7-multi] (2:24) - Basic Flute
+%%part-name Basic Flute
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++ffff+ z8 |
+A3/4 z// ^G/ A/ A3/4 z// G/ A/ A3/4 z// E3/4 z// A3/4 z// D3/4 z// |
+^C3/4 z// D3/4 z// E3/4 z// C3/4 z// B,2- B,3/4 z// A,/ ^G,/ |
+A,3/2 z/ A,/ E,/ A,/ B,/ ^C2- C3/4 z// C/ D/ |
+E3/4 z// ^C/ D/ E3/4 z// D/ C/ B,3/4 z// D/ C/ B,3/4 z// ^G,3/4 z// |
+A3/4 z// ^G/ A/ A3/4 z// G/ A/ A3/4 z// E3/4 z// A3/4 z// D3/4 z// |
+^C3/4 z// D3/4 z// E3/4 z// ^c3/4 z// B3/2 z/ B3/4 z// A/ ^G/ |
+A2- A3/4 z// A,/ B,/ ^C3/4 z// A,/ B,/ C3/4 z// C/ D/ |
+E3/4 z// ^C/ D/ E3/4 z// D/ C/ B,3/4 z// ^G,3/4 z// A/ B/ A/ ^G/ |
+% Bar 10 (0:18)
+A3/4 z// E3/4 z// A/ B/ A/ ^G/ A3/4 z// E3/4 z// A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G3/2 z/ A/ B/ A/ G/ |
+A3/4 z// E3/4 z// A/ B/ A/ ^G/ A3/4 z// E3/4 z// A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G3/2 z/ A/ A// B// A/ G/ |
+A3/4 z// E3/4 z// A/ A// B// A/ ^G/ A3/4 z// E3/4 z// A/ A// B// A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G3/2 z/ A/ A// B// A/ G/ |
+A3/4 z// E3/4 z// A/ A// B// A/ ^G/ A3/4 z// E3/4 z// A/ A// B// A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2- G- G// z3/4 |
+A3/4 z// ^G/ A/ A3/4 z// G/ A/ A3/4 z// E3/4 z// A3/4 z// D3/4 z// |
+^C3/4 z// D3/4 z// E3/4 z// C3/4 z// B,2- B,3/4 z// A,/ ^G,/ |
+% Bar 20 (0:38)
+A,3/2 z/ A,/ E,/ A,/ B,/ ^C2- C3/4 z// C/ D/ |
+E3/4 z// ^C/ D/ E3/4 z// D/ C/ B,3/4 z// D/ C/ B,3/4 z// ^G,3/4 z// |
+A3/4 z// ^G/ A/ A3/4 z// G/ A/ A3/4 z// E3/4 z// A3/4 z// D3/4 z// |
+^C3/4 z// D3/4 z// E3/4 z// ^c3/4 z// B3/2 z/ B3/4 z// A/ ^G/ |
+A2- A3/4 z// A,/ B,/ ^C3/4 z// A,/ B,/ C3/4 z// C/ D/ |
+E3/4 z// ^C/ D/ E3/4 z// D/ C/ B,3/4 z// ^G,3/4 z// A/ B/ A/ ^G/ |
+A3/4 z// E3/4 z// A/ B/ A/ ^G/ A3/4 z// E3/4 z// A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G3/2 z/ A/ B/ A/ G/ |
+A3/4 z// E3/4 z// A/ B/ A/ ^G/ A3/4 z// E3/4 z// A/ B/ A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G3/2 z/ A/ A// B// A/ G/ |
+% Bar 30 (0:58)
+A3/4 z// E3/4 z// A/ A// B// A/ ^G/ A3/4 z// E3/4 z// A/ A// B// A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G3/2 z/ A/ A// B// A/ G/ |
+A3/4 z// E3/4 z// A/ A// B// A/ ^G/ A3/4 z// E3/4 z// A/ A// B// A/ G/ |
+A/ B/ ^c/ d/ e/ c/ B/ A/ ^G2- G- G// z3/4 |
+A3/4 z// ^G/ A/ A3/4 z// G/ A/ A3/4 z// E3/4 z// A3/4 z// D3/4 z// |
+^C3/4 z// D3/4 z// E3/4 z// C3/4 z// B,2- B,3/4 z// A,/ ^G,/ |
+A,3/2 z/ A,/ E,/ A,/ B,/ ^C2- C3/4 z// C/ D/ |
+E3/4 z// ^C/ D/ E3/4 z// D/ C/ B,3/4 z// D/ C/ B,3/4 z// ^G,3/4 z// |
+A3/4 z// ^G/ A/ A3/4 z// G/ A/ A3/4 z// E3/4 z// A3/4 z// D3/4 z// |
+^C3/4 z// D3/4 z// E3/4 z// ^c3/4 z// B3/2 z/ B3/4 z// A/ ^G/ |
+% Bar 40 (1:18)
+A2- A3/4 z// A,/ B,/ ^C3/4 z// A,/ B,/ C3/4 z// C/ D/ |
+E3/4 z// ^C/ D/ E3/4 z// D/ C/ B,3/2 z/ ^G,3/2 z/ |
+A,4- A,2- A,/ z3/2 |]
+
+X: 12
+%%Orig filename was RiverFlows2Lonely.abc
+T: River Flows in You [7-multi] (2:24) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++p+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A,4^C4] [D4^F4] |
+[^C4E4] [E4^G4] |
+% Bar 20 (0:38)
+[A,4^C4] [D4^F4] |
+[^C4E4] [E4^G4] |
+[A,4^C4] [D4^F4] |
+[^C4E4] [E4^G4] |
+[A,4^C4] [D4^F4] |
+[^C4E4] [E4^G4] |
+[A,2^C2] [^F2A2] [D2F2] [F2A2] |
+[^C2E2] [A2^c2] [E2^G2] [G2B2] |
+[A,2^C2] [^F2A2] [D2F2] [F2A2] |
+[^C2E2] [A2^c2] [E2^G2] [G2B2] |
+% Bar 30 (0:58)
+[A,2^C2] [^F2A2] [D2F2] [F2A2] |
+[^C2E2] [A2^c2] [E2^G2] [G2B2] |
+[A,2^C2] [^F2A2] [D2F2] [F2A2] |
+[^C2E2] [A2^c2] [E2^G2] [G2B2] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |]
+
+X: 14
+%%Orig filename was RiverFlows2Travellers.abc
+T: River Flows in You [7-multi] (2:24) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+C: Yiruma
+Z: Raymiond of Gladden
+M: 4/4
+Q: 70
+K: C maj
+
++p+ z8 |
+^F ^c ^f F D A e D |
+A, E ^c A, E B +mp+ e +p+ E |
+^F ^c ^f F D A e D |
+A, E ^c +mp+ A, E B e E |
++p+ ^F, ^C ^F F, +mp+ D A e D |
+A, E ^c A, E, B, ^G E, |
+^F, ^C ^F F, D A e D |
+A, E ^c +p+ A, E, B, ^G2 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+^F ^c ^f F D A e D |
+A, E ^c A, E B +mp+ e +p+ E |
+^F ^c ^f F D A e D |
+A, E ^c +mp+ A, E B e E |
++p+ ^F, ^C ^F F, +mp+ D A e D |
+A, E ^c A, E, B, ^G E, |
+% Bar 40 (1:18)
+^F, ^C ^F F, D A e D |
+A, E ^c +p+ A, E, B, ^G2 |
+z8 |]
+

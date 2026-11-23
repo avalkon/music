@@ -1,0 +1,71 @@
+%abc-2.1
+%%song-title       Grand Escape (solo)
+%%song-composer    Yojiro Noda
+%%song-duration    1:19
+%%song-transcriber Raymiond of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Grand Escape (solo) (1:19) - Lute of Ages
+%%part-name Lute of Ages
+C: Yojiro Noda
+Z: Raymiond of Gladden
+M: 4/4
+Q: 146
+K: C maj
+
++f+ [^G2-B2-e2-] +mf+ [G2-B2-e2b2] [G2-B2-e2] [G-B-e-] [G/B/^d/-e/] d/ |
++f+ [A-^c-e] +mf+ [A-c-e-] [A-c-e-^f] [A-c-e-^g-] [A-c-eg] [A-c-e-] [A-c-e-] [A/B/-c/e/] B/ |
++f+ [B^d-^f-] +mf+ [B-d-f-] [B-d-ef-] [B-d-ef-] [B-d-ef-] [B-d-ef] [B-d-f-] [B/d/e/-f/] e/ |
++f+ [^c2-e2-^g2-] +mf+ [c-e-g-b] [c/-e/g/-b/] [c/-e/-g/-] [c-eg-] [c-e-g-] [c-e^fg-] [c/e/-g/] e/ |
++f+ [^G2-B2-e2-] +mf+ [G2-B2-e2b2] [G2-B2-e2-] [G3/2B3/2^d3/2-e3/2] d/ |
++f+ [A-^c-e] +mf+ [A-c-e-] [A-c-e-^f] [A-c-e-^g-] [A-c-eg] [A-c-e-] [A-c-e-] [A/B/-c/e/] B/ |
++f+ [B-^d-e^f-] +mf+ [B-d-ef-] [B-d-ef-] [B-d-ef-] [B-d-ef-] [B-d-ef] [B-d-f-] [B/d/e/-f/] e/ |
++f+ [^c2-e2-^g2-] +mf+ [c-e-g-b] [c/-e/g/-b/] [c/-e/-g/-] [c-eg-] [c-e-g-] [c-e^fg-] [c/e/-g/] e/- |
++ff+ [^G,e-] [Ee] [^Gb] [Ee] [Be] [E^d] [Ge] [Ed] |
+% Bar 10 (0:14)
+[A,e] [Ee] [A^f] [E^g-] [^cg] [Ee] [Ae] [EB] |
+[B,e] [^Fe] [Be] [^G^f-] [^df] [Fe] [Bf] [Fe-^g-] |
+[^Ce-^g-] [^Geg] [^cb] [G/-b/] +mf+ [G/e/] +ff+ e [Ge] [c^f] [Ge-] |
+[^G,e-] [Ee] [^Gb-] [Eb] [Be-] [Ee] [G^d] [Ed] |
+[A,e] [Ee] [A^f] [E^g-] [^cg] [Ee] [Ae] [EB] |
+[B,e] [^Fe] [Be] [Fe-] [^de] [Be] +mf+ ^f +ff+ [de-] |
+[e2b2] +mf+ b b/- [e3/2b3/2-] [eb-] [^fb-] [e/-b/] e/ |
+B ^d e ^f/ d3/2 b ^c b |
+b/ ^d/ ^f/ b/ d/ f/ b2 e f [e-^g-] |
++ff+ [^C,2^C2e2^g2] [C,B-e-g-b-] [CEBegb] [C,A-a-] [CEAa] [C,^G-g-] [CEGg] |
+% Bar 20 (0:31)
+[A,-A^cea] +mf+ [A,^G^g] +ff+ [A,Acea] [^CGg] [A,E-e-] [CEe] [A,^F^f] [CEG-B-e-] |
+[E,2E2^G2B2e2] [E,B-e-^g-b-] [GBegb] [E,A-a-] [GAa] [E,Gg-] [Gg] |
+[E,Aa] +mf+ [^G^g] +ff+ [E,Aa] +mf+ [Gg] +ff+ [E,E-e-] [EGe] [B,-^F^f] +mf+ [B,E-G-e-] |
++ff+ [^C,2^C2E2^G2e2] [C,B-e-^g-b-] [CEBegb] [C,A-a-] [CEAa] [C,G-g-] [CEGg] |
+[A,-A^cea] +mf+ [A,^G^g] +ff+ [A,Aa] [^CGg] [A,E-e-] [CEe] [A,^F^f] [CE-e-] |
+[B,E-e-] [B,Ee] [B,B-^d-^f-b-] [B,Bdfb] [B,A-a-] [B,Aa] [B,^G-^g-] [B,Gg] |
+[B,Aa] [^G/-B/^g/-] [^F/G/g/] [^D/A/-a/-] [B,/A/a/] [^F,/G/-g/-] [^D,/G/g/] [B,/E/e/] z3/2 +mf+ [F^f] [EGe] |
++ff+ [^C,^CE^Ge] [C^F^f] [G^c^g] [A,2A2e2a2] [A,Gg] [CEFAf] [E,-E-G-e-] |
+[E,E^Ge] [E-Ge-] [EGBe] [B,2A2-^d2-^f2-] [B,A-d-f-] [^D^FA-Bd-f-] [B,/-A/d/f/] B,/ |
+[^C,^CE^Ge] [CEGe] [GB^ceb] [A,2B2e2b2] [A,Aca] [CEGA^g] [E,-E-^F-^f-] |
+% Bar 30 (0:47)
+[E,E^F^f] [E^G^g] [GABea] [EGg] [B,Gg] [B,Aa] [^DFGBg] [B,Ff] |
+[^C,^CE^Ge] [C^F^f] [G^c^g] [A,2A2c2e2a2] [A,Gg] [CEFAf] [E,-E-G-e-] |
+[E,E^Ge] [E-Ge-] [EGBe] [B,2^F2-B2-^d2-^f2-] [B,FBd-f-] [^DF-B-d-f-] [B,/-F/B/d/f/] B,/ |
+[^C,^CE^Ge] [CEGe] [GB^ceb] [A,2B2e2b2] [A,Aca] [CEGA^g] [E,-E-^F-^f-] |
+[E,E^F^f] [E^G^g] [GABea] [EGg] [B,Gg] [B,Aa] [^DFGBg] [B,Ff] |
+[A,2E2-^G2-e2-] [A,EGe] [B,^CB] [A,E-e-] [CEe] [A,^D^d] [CE-e-] |
+[^G,2E2-e2-] [G,E-e-] [G,/-B,/-E/e/] [G,/B,/] [G,E-^G-e-] [G,B,EGe] [G,EGe] [G,B,^F-A-^d-^f-] |
+[B,2^F2A2^d2^f2] [B,FAdf] [^DFAdf] [B,FAdf] [D^G^g] [B,Gg] [DG-B-e-g-] |
+[^C,2^C2^G2-B2-e2-^g2-] [C,G-B-e-g-] [C/-E/-G/B/e/g/] [C/E/] [C,EG-e-] [CEGe] [C,^D^d] [CE-G-e-] |
+[A,2E2-^G2-e2-] [A,EGe] [B,^CB] [A,Ee] [C^F^f] [A,G^g] [CE-G-e-] |
+% Bar 40 (1:04)
+[^G,2E2-^G2-e2-] [G,E-G-e-] [G,/-B,/-E/G/e/] [G,/B,/] [G,E-G-e-] [G,B,EGe] [G,EGe] [G,B,^F-A-^d-^f-] |
+[B,2^F2A2^d2^f2] [B,FAdf] [^DFAdf] [B,FAdf] [D^G^g] [B,Gg] [DG-B-e-g-] |
+[^C,-^C-^GBe^g] +mf+ [C,Cg] +ff+ [C,egb] [CEg] [C,a] [CEg] [C,^f] [CE^c-e-a-] |
+[A,-^cea] +mf+ [A,e] +ff+ [A,cea] [^Ce] [A,a] [C^g] [A,^f] [Ce-g-b-] |
+[^G,-e^gb] +mf+ [G,e] +ff+ [G,egb] [G,B,e] [G,a] [G,B,g] [G,^f] [G,B,e-] |
+[B,e] +mf+ B,/- [B,/E/] +ff+ [B,/-^F/] +mf+ [B,/B/] +ff+ [B,/-e/] +mf+ [B,/^f/] +ff+ [B,/-b/] +mf+ [B,/e/] +ff+ [B,/-b/] +mf+ [B,/e/] +ff+ [B,f] [B,-e-f-b-] |
+[B,e^fb] [B,efb] [B,efb] +mf+ e a ^g f +ff+ [E,-e-g-] |
+[E,2-e2^g2] +mf+ [E,-g] [E,-b] [E,-e] [E,-^f] [E,-g] [E,-b-] |
+[E,2-b2] [E,2-^g2] [E,-a] [E,-g] [E,-e] [E,-b-] |
+[E,4-b4-] [E,2-b2-] [E,/b/-] b z/ |]
+

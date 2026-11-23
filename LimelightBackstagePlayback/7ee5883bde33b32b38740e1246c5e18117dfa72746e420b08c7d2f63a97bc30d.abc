@@ -1,0 +1,847 @@
+N: TS  6,   8   1  18  15  16  13
+X: 8
+%%Orig filename was HappyHalloweenBass.abc
+T: Happy Halloween (quartet+) (3:53) - Basic Theorbo (6)
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Junky (MIDI by Piper)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++pp+ E2 B,2 E2 B,2 |
+^D2 ^F,2 B,2 F,2 |
+E2 B,2 ^D2 ^F,2 |
+B,2 ^F2 E B, B2 |
++p+ [B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 10 (0:18)
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] [EB] [Be] E, |
++ppp+ E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, F, B, |
+E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, F, ^D |
+E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, B, C |
+^F, ^F F, F2/3 +p+ ^c/3 ^d +ppp+ F, +p+ B +ppp+ B, |
+E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, +p+ B +ppp+ B, |
+E, B, E, B,2/3 ^F,/3 +p+ ^d2/3 +ppp+ F,/3 B, F, ^D |
+E, B, E, B,2/3 +p+ B/3 z2/3 +ppp+ ^F,/3 B, F,2/3 B,/3- B, |
+% Bar 20 (0:38)
+z8 |
++p+ [B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [F,B,] [B,^D] |
++pp+ E z E, E,/ G, ^G,/ A, ^A, B, |
+E z E, E,/ G, ^G,/ A, ^A, B, |
+E z E, E,/ G, ^G,/ A, ^A, B, |
+^F, G, A, ^A, B, ^C [^D2B2] |
+E, E, E, E,/ G, ^G,/ A, ^A, B, |
+% Bar 30 (0:58)
+E, E, E, E,/ G, ^G,/ A, ^A, B, |
+E, E, E, E,/ G, ^G,/ A, ^A, B, |
++pppp+ ^F,/ z/ G,/ z/ A,/ z/ ^A,/ z/ B,/ z/ ^C ^D B, |
+z8 |
+z4 +ppp+ C2 C2 |
+B,2 B,2 A,2 A,2 |
+^A,2 A, +pp+ B,2/3 B, B,/3 ^C ^D D |
+E E E ^D2/3 D D/3 D D D |
+D D D ^C2/3 C C/3 C C C |
+C C C/ C/ C/ C/ B,2/3 B,/3 B,2/3 B,/3 B,2/3 B,/3 B,2/3 B,/3 |
+% Bar 40 (1:18)
+E B, ^C ^D +p+ [E,E] [E,B,] [E,2E2] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 50 (1:38)
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
++ppp+ E/ F/ ^F/ G/ F/ G/ ^G/ A/ ^A/ B/ c/ B/ A/ =A/ =G/ F/ |
+E/ ^F/ G/ ^G/ =G2 B/ c/ ^c/ d/ e/ +pp+ d/ g/ a/ |
+b z2 E z2 B, z |
+% Bar 60 (1:58)
+z3 +p+ ^D E z3 |
+[E,E] z3 [^D,^D] z3 |
+[D,D] z3 [E,E] z3 |
+[E,E] z3 [D,D] z3 |
++pp+ [C,C] z3 B, B, [B2e2] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [B,/^D/] [B,/D/] [B,D] z [F,B,] [F,/B,/] [F,/B,/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 70 (2:18)
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:38)
+z2 +p+ ^A, ^D// ^F// ^A// ^c// ^d +pp+ D B B, |
+E, B, E, B,/ E,/ z2/3 E,/3 B, +mp+ B +pp+ B, |
+E, B, E, B,/ +mp+ d/ ^d2/3 +pp+ E,/3 B, ^C ^D |
+E, B, E, B,/ +mp+ B/ z2/3 +pp+ E,/3 B, B,/ +mp+ B3/2 |
+z8 |
++ppp+ F2 C2 ^A,2 ^C2 |
+^G,2 ^D2 C2 C2 |
+F2 C2 F2 C2 |
+G2 C E F G ^G B |
+c ^c C2 F2 ^C2 |
+% Bar 90 (2:58)
+C2 z6 |
++pp+ F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+^G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// C// C// C// C// C// C// C// C// E// E// E// E// E// E// E// E// |
+F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+G// G// G// G// G// G// G// G// C// C// C// C// C// C// C// C// F// F// F// F// C// C// C// C// ^C// C// C// C// E// E// E// E// |
+F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+^G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// C// C// C// C// C// C// C// C// E// E// E// E// E// E// E// E// |
+F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+F +ppp+ C D E +p+ F C F2 |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 100 (3:18)
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [CF] C [^CF] [=C/E/] [C/E/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [CF] z [Fc] [C/E/] [C/E/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 110 (3:38)
+[DG] z [G,D] [D/G/] [D/G/] [CF] C [^CF] [=C/E/] [C/E/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[DG] G C E [CF] C [CF] F |
+[DG] G C E [CF] C [CF] F |
+C z5 [F,F] z |
+z2 |]
+
+X: 1
+%%Orig filename was HappyHalloweenFlute.abc
+T: Happy Halloween (quartet+) (3:53) - Basic Flute (5)
+%%part-name Basic Flute (5)
+%%made-for Basic Flute
+C: Junky (MIDI by Piper)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ E ^F G A ^A/ B/ G E B/ c/ |
+B G E/ ^D/ ^F E B, ^A, B, |
+E/ ^F/ G/ ^G/ A B/ c/ ^d/ e/ d/ d// =d// c// B// c// ^c// B/ =c/ |
+B/ A/ G/ ^F/ ^D F E B, z2 |
+E ^F G A ^A/ B/ G E B/ c/ |
+B G E/ ^D/ ^F E B, ^A, B, |
+E ^F G A ^A/ B/ G E B/ c/ |
+B ^F ^D F E B, z2 |
+E ^F G A ^A/ B/ G E B/ c/ |
+% Bar 10 (0:18)
+B G E/ ^D/ ^F E B, ^A, B, |
+E/ ^F/ G/ ^G/ A B/ c/ ^d/ e/ d/ d// =d// c// B// c// ^c// B/ =c/ |
+B/ A/ G/ ^F/ ^D F E B, z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
++mp+ B3 ^F E2 B2/3 +mf+ c/3 F2/3 G/3 |
+E ^F G A ^A/ B/ G E B/ c/ |
+B G E/ ^D/ ^F E B, ^A, B, |
+E/ ^F/ G/ ^G/ A B/ c/ ^d/ e/ d/ d// =d// c// B// c// ^c// B/ =c/ |
+B/ A/ G/ ^F/ ^D F E B, z2 |
+E z2 ^D E2 z B, |
+C B, ^A, B, C B, ^C ^D |
+E z2 ^F G z2 E |
+^F G F E ^D2 z2 |
+E z2 ^D E z2 B,/ B,/ |
+% Bar 30 (0:58)
+C B, ^A, B, C B, ^C ^D |
+E z2 ^F G2 z A |
+B z2 c B z3 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+B2/3 ^A/3 G2/3 ^F/3 E2/3 F/3 G2/3 =A/3 B2/3 c/3 B2/3 c/3 B2/3 A/3 G2/3 F/3 |
+E z7 |
+z4 G2 ^F2 |
+E z7 |
+z4 E B, B2 |
+z8 |
+z4 G z ^F2 |
+E z7 |
+z2 E2/3 ^F/3 G2/3 A/3 B2/3 c/3 B2/3 c/3 B2/3 A/3 G2/3 F/3 |
+E z7 |
+% Bar 50 (1:38)
+z4 G2 ^F2 |
+E z7 |
+z4 E B, B2 |
+z8 |
+z4 G z ^F F |
+E z7 |
+z4 E B, B2 |
+z8 |
+z8 |
+z4 +mp+ G2 B,2 |
+% Bar 60 (1:58)
+z8 |
++mf+ E/ ^D/ =D/ ^C/ =C B, B, C ^D B |
+D A ^d/ =d/ ^c/ =c/ B ^G E B, |
+^D E/ G/ ^F G F/ =F/ E/ D/ =D C |
+B,/ C/ ^C/ D/ ^D/ E/ F/ ^F/ G/ ^G/ A/ ^A/ B/ ^c/ d/ ^d/ |
+e z7 |
+z4 G2 ^F2 |
+E z7 |
+z2 E/ ^F/ G/ A/ B/ c/ B/ c/ B/ A/ G/ F/ |
+E4 G3 B- |
+% Bar 70 (2:18)
+B2 c2 B2 G2 |
+E3 B ^A3 B |
+^F2 ^A2 B2 B2 |
+E4 B4 |
+c4 B4 |
+E4 B4 |
+^A4 ^F4 |
+E4 B4 |
+c4 B4 |
+E4 B4 |
+% Bar 80 (2:38)
+^A4 ^F4 |
+E4 B4 |
+c4 B4 |
+E4 B4 |
+z8 |
++mp+ ^G,3/2 F/ C3/2 G/ G, ^G C3/2 B/ |
+^G, ^A C A =G,2 F3/2 G/ |
+^G ^A G3/2 =G/ ^G =G F E |
+F G ^G ^c =c2 B2 |
+C F ^G3/2 ^A/ B2 +mf+ c3/2 B// c// |
+% Bar 90 (2:58)
+c c/ c/ d e f e f2 |
+z +mp+ [^G2c2] B z [G2c2] B |
+z [^G2c2] c z B2 ^A |
+z [^G2c2] B z [G2c2] B |
+z [G2B2] [^Gc] c B c ^A |
+z [^G2c2] B z [G2c2] B |
+z [^G2c2] c z B2 +mf+ ^A |
+z [^G2c2] B z [G2c2] B |
+z4 +f+ F E F z |
++mf+ F G ^G- G2/3 ^A/3 c2 c ^c |
+% Bar 100 (3:18)
+c2 c ^c =c ^A ^G =G |
+F2 ^G- G2/3 ^A/3 c2 c ^c |
+c2 F/ G/ ^G/ ^A/ c/ ^c/ =c/ ^c/ =c/ A/ G/ =G/ |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c2 c ^c =c ^A ^G =G |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c ^A ^G =G F C c c |
+c G ^G- G2/3 ^A/3 c2 c ^c |
+c2 c ^c =c ^A ^G =G |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+% Bar 110 (3:38)
+c G F/ G/ ^G/ ^A/ c/ ^c/ =c/ ^c/ =c/ A/ G/ =G/ |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c2 c ^c =c ^A ^G =G |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c ^A ^G =G F C c2 |
+c ^A ^G =G F C c2 |
+c2 z2 +mp+ e2 +f+ f2 |
+z2 |]
+
+X: 18
+%%Orig filename was HappyHalloweenPipes.abc
+T: Happy Halloween (quartet+) (3:53) - Basic Bagpipe
+%%part-name Basic Bagpipe
+%%made-for Basic Bagpipe
+C: Junky (MIDI by Piper)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++ff+ E ^F G A ^A/ B/ G E B/ c/ |
+B G E/ ^D/ ^F E B, ^A, B, |
+E/ ^F/ G/ ^G/ A B/ c/ ^d/ e/ d/ d// =d// c// B// c// ^c// B/ =c/ |
+B/ A/ G/ ^F/ ^D F E B, z2 |
+E ^F G A ^A/ B/ G E B/ c/ |
+B G E/ ^D/ ^F E B, ^A, B, |
+E ^F G A ^A/ B/ G E B/ c/ |
+B ^F ^D F E B, z2 |
+E ^F G A ^A/ B/ G E B/ c/ |
+% Bar 10 (0:18)
+B G E/ ^D/ ^F E B, ^A, B, |
+E/ ^F/ G/ ^G/ A B/ c/ ^d/ e/ d/ d// =d// c// B// c// ^c// B/ =c/ |
+B/ A/ G/ ^F/ ^D F E B, z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
++f+ B3 ^F E2 B2/3 +ff+ c/3 F2/3 G/3 |
+E ^F G A ^A/ B/ G E B/ c/ |
+B G E/ ^D/ ^F E B, ^A, B, |
+E/ ^F/ G/ ^G/ A B/ c/ ^d/ e/ d/ d// =d// c// B// c// ^c// B/ =c/ |
+B/ A/ G/ ^F/ ^D F E B, z2 |
+E z2 ^D E2 z B, |
+C B, ^A, B, C B, ^C ^D |
+E z2 ^F G z2 E |
+^F G F E ^D2 z2 |
+E z2 ^D E z2 B,/ B,/ |
+% Bar 30 (0:58)
+C B, ^A, B, C B, ^C ^D |
+E z2 ^F G2 z A |
+B z2 c B z3 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+B2/3 ^A/3 G2/3 ^F/3 E2/3 F/3 G2/3 =A/3 B2/3 c/3 B2/3 c/3 B2/3 A/3 G2/3 F/3 |
+E z7 |
+z4 G2 ^F2 |
+E z7 |
+z4 E B, B2 |
+z8 |
+z4 G z ^F2 |
+E z7 |
+z2 E2/3 ^F/3 G2/3 A/3 B2/3 c/3 B2/3 c/3 B2/3 A/3 G2/3 F/3 |
+E z7 |
+% Bar 50 (1:38)
+z4 G2 ^F2 |
+E z7 |
+z4 E B, B2 |
+z8 |
+z4 G z ^F F |
+E z7 |
+z4 E B, B2 |
+z8 |
+z8 |
+z4 +f+ G2 B,2 |
+% Bar 60 (1:58)
+z8 |
++ff+ E/ ^D/ =D/ ^C/ =C B, B, C ^D B |
+D A ^d/ =d/ ^c/ =c/ B ^G E B, |
+^D E/ G/ ^F G F/ =F/ E/ D/ =D C |
+B,/ C/ ^C/ D/ ^D/ E/ F/ ^F/ G/ ^G/ A/ ^A/ B/ ^c/ d/ ^d/ |
+e z7 |
+z4 G2 ^F2 |
+E z7 |
+z2 E/ ^F/ G/ A/ B/ c/ B/ c/ B/ A/ G/ F/ |
+E4 G3 B- |
+% Bar 70 (2:18)
+B2 c2 B2 G2 |
+E3 B ^A3 B |
+^F2 ^A2 B2 B2 |
+E4 B4 |
+c4 B4 |
+E4 B4 |
+^A4 ^F4 |
+E4 B4 |
+c4 B4 |
+E4 B4 |
+% Bar 80 (2:38)
+^A4 ^F4 |
+E4 B4 |
+c4 B4 |
+E4 B4 |
+z8 |
++f+ ^G,3/2 F/ C3/2 G/ G, ^G C3/2 B/ |
+^G, ^A C A =G,2 F3/2 G/ |
+^G ^A G3/2 =G/ ^G =G F E |
+F G ^G ^c =c2 B2 |
+C F ^G3/2 ^A/ B2 +ff+ c3/2 B// c// |
+% Bar 90 (2:58)
+c c/ c/ d e f e f2 |
+z +f+ [^G2c2] B z [G2c2] B |
+z [^G2c2] c z B2 ^A |
+z [^G2c2] B z [G2c2] B |
+z [G2B2] [^Gc] c B c ^A |
+z [^G2c2] B z [G2c2] B |
+z [^G2c2] c z B2 +ff+ ^A |
+z [^G2c2] B z [G2c2] B |
+z4 +fff+ F E F z |
++ff+ F G ^G- G2/3 ^A/3 c2 c ^c |
+% Bar 100 (3:18)
+c2 c ^c =c ^A ^G =G |
+F2 ^G- G2/3 ^A/3 c2 c ^c |
+c2 F/ G/ ^G/ ^A/ c/ ^c/ =c/ ^c/ =c/ A/ G/ =G/ |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c2 c ^c =c ^A ^G =G |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c ^A ^G =G F C c c |
+c G ^G- G2/3 ^A/3 c2 c ^c |
+c2 c ^c =c ^A ^G =G |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+% Bar 110 (3:38)
+c G F/ G/ ^G/ ^A/ c/ ^c/ =c/ ^c/ =c/ A/ G/ =G/ |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c2 c ^c =c ^A ^G =G |
+F G ^G- G2/3 ^A/3 c2 c ^c |
+c ^A ^G =G F C c2 |
+c ^A ^G =G F C c2 |
+c2 z2 +f+ e2 +ffff+ f2 |
+z2 |]
+
+X: 15
+%%Orig filename was HappyHalloweenSoon.abc
+T: Happy Halloween (quartet+) (3:53) - Basic Bassoon
+%%part-name Basic Bassoon
+%%made-for Basic Bassoon
+C: Junky (MIDI by Piper)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ E2 B,2 E2 B,2 |
+^D2 ^F,2 B,2 F,2 |
+E2 B,2 ^D2 ^F,2 |
+B,2 ^F2 E B, B2 |
++f+ [B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 10 (0:18)
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] [EB] [Be] E, |
++mp+ E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, F, B, |
+E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, F, ^D |
+E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, B, C |
+^F, ^F F, F2/3 +f+ ^c/3 ^d +mp+ F, +f+ B +mp+ B, |
+E, B, E, B,2/3 ^F,/3 z2/3 F,/3 B, +f+ B +mp+ B, |
+E, B, E, B,2/3 ^F,/3 +f+ ^d2/3 +mp+ F,/3 B, F, ^D |
+E, B, E, B,2/3 +f+ B/3 z2/3 +mp+ ^F,/3 B, F,2/3 B,/3- B, |
+% Bar 20 (0:38)
+z8 |
++f+ [B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [F,B,] [B,^D] |
++mf+ E z E, E,/ G, ^G,/ A, ^A, B, |
+E z E, E,/ G, ^G,/ A, ^A, B, |
+E z E, E,/ G, ^G,/ A, ^A, B, |
+^F, G, A, ^A, B, ^C [^D2B2] |
+E, E, E, E,/ G, ^G,/ A, ^A, B, |
+% Bar 30 (0:58)
+E, E, E, E,/ G, ^G,/ A, ^A, B, |
+E, E, E, E,/ G, ^G,/ A, ^A, B, |
++p+ ^F,/ z/ G,/ z/ A,/ z/ ^A,/ z/ B,/ z/ ^C ^D B, |
+z8 |
+z4 +mp+ C2 C2 |
+B,2 B,2 A,2 A,2 |
+^A,2 A, +mf+ B,2/3 B, B,/3 ^C ^D D |
+E E E ^D2/3 D D/3 D D D |
+D D D ^C2/3 C C/3 C C C |
+C C C/ C/ C/ C/ B,2/3 B,/3 B,2/3 B,/3 B,2/3 B,/3 B,2/3 B,/3 |
+% Bar 40 (1:18)
+E B, ^C ^D +f+ [E,E] [E,B,] [E,2E2] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 50 (1:38)
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
++mp+ E/ F/ ^F/ G/ F/ G/ ^G/ A/ ^A/ B/ c/ B/ A/ =A/ =G/ F/ |
+E/ ^F/ G/ ^G/ =G2 B/ c/ ^c/ d/ e/ +mf+ d/ g/ a/ |
+b z2 E z2 B, z |
+% Bar 60 (1:58)
+z3 +f+ ^D E z3 |
+[E,E] z3 [^D,^D] z3 |
+[D,D] z3 [E,E] z3 |
+[E,E] z3 [D,D] z3 |
++mf+ [C,C] z3 B, B, [B2e2] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [B,/^D/] [B,/D/] [B,D] z [F,B,] [F,/B,/] [F,/B,/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 70 (2:18)
+[DG] z [G,D] [D/G/] [D/G/] [^C^F] z [C/F/] [CF] [C/F/] |
+[B,E] z [B,E] [B,/E/] [B,/E/] [G,C] z [G,C] [G,/C/] [G,/C/] |
+[^C^F] z [^F,C] [C/F/] [C/F/] [B,E] z [EB] [B,/^D/] [B,/D/] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:38)
+z2 +f+ ^A, ^D// ^F// ^A// ^c// ^d +mf+ D B B, |
+E, B, E, B,/ E,/ z2/3 E,/3 B, +ff+ B +mf+ B, |
+E, B, E, B,/ +ff+ d/ ^d2/3 +mf+ E,/3 B, ^C ^D |
+E, B, E, B,/ +ff+ B/ z2/3 +mf+ E,/3 B, B,/ +ff+ B3/2 |
+z8 |
++mp+ F2 C2 ^A,2 ^C2 |
+^G,2 ^D2 C2 C2 |
+F2 C2 F2 C2 |
+G2 C E F G ^G B |
+c ^c C2 F2 ^C2 |
+% Bar 90 (2:58)
+C2 z6 |
++mf+ F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+^G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// C// C// C// C// C// C// C// C// E// E// E// E// E// E// E// E// |
+F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+G// G// G// G// G// G// G// G// C// C// C// C// C// C// C// C// F// F// F// F// C// C// C// C// ^C// C// C// C// E// E// E// E// |
+F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+^G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// G,// C// C// C// C// C// C// C// C// E// E// E// E// E// E// E// E// |
+F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// F// |
+F +mp+ C D E +f+ F C F2 |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 100 (3:18)
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [CF] C [^CF] [=C/E/] [C/E/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[DG] z [G,D] [D/G/] [D/G/] [CF] z [Fc] [C/E/] [C/E/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+% Bar 110 (3:38)
+[DG] z [G,D] [D/G/] [D/G/] [CF] C [^CF] [=C/E/] [C/E/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[^D^G] z [^G,D] [D/G/] [D/G/] [=D=G] z [D/G/] [DG] [D/G/] |
+[CF] z [CF] [C/F/] [C/F/] [^G,^C] z [G,C] [G,/C/] [G,/C/] |
+[DG] G C E [CF] C [CF] F |
+[DG] G C E [CF] C [CF] F |
+C z5 [F,F] z |
+z2 |]
+
+X: 16
+%%Orig filename was HappyHalloweenSoonBR.abc
+T: Happy Halloween (quartet+) (3:53) - Brusque Bassoon
+%%part-name Brusque Bassoon
+%%made-for Brusque Bassoon
+C: Junky (MIDI by Piper)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++ff+ z8 |
+z8 |
+z8 |
+^A4 +mf+ B/ c/ B/ c/ B/ =A/ G/ +f+ ^F/ |
+E z7 |
+z4 +ff+ g2 ^f2 |
+e4 z4 |
+z4 e B b2 |
+z8 |
+% Bar 10 (0:18)
+z4 g z ^f2 |
+e z7 |
+z4 e B E2 |
++mf+ E2 z ^D E2 z B, |
+C B, ^A, B, C B, ^C ^D |
+E2 z ^F G z2 E/ E/ |
+^F G F E ^D2 z2 |
+E z2 ^D E z2 B, |
+C B, ^A, B, C B, ^C ^D |
+E2 z ^F G2 z +f+ A |
+% Bar 20 (0:38)
+B c B A G ^F E ^D |
+E2 z6 |
+z4 +ff+ g z ^f f |
+e z7 |
+z4 e B E2 |
++mp+ [G,2B,2E2] z6 |
+[G,2B,2E2] z6 |
+[G,2B,2E2] z5 +mf+ B |
+B B B ^A B2 z2 |
++mp+ [G,2B,2E2] z6 |
+% Bar 30 (0:58)
+[G,2B,2E2] z6 |
+[G,2B,2E2] z6 |
++f+ b4 +mf+ b/ c'/ b/ c'/ b/ a/ g/ ^f/ |
+e z7 |
+z8 |
+z8 |
+z8 |
+B z2 ^A B z2 A |
+B z2 c B z2 A |
+B2 z +f+ G A z +mf+ ^A2 |
+% Bar 40 (1:18)
+B A A ^F G z3 |
+B ^d e d e d2/3 e B/3 e2/3 e/3 |
+d B B d ^d e2/3 d/3- d2 |
+e ^d2/3 d/3 e d2/3 d/3 e d2/3 e/3- e z |
+z3 +f+ c B c2/3 B B/3 c |
+B2 +mf+ e ^d e d2/3 e B/3 e |
+d B B d ^d e2/3 d/3- d2 |
+e ^d e d e d2/3 e +mp+ B/3 ^c2/3 d/3 |
+e +mf+ B ^c ^d +ff+ e B b2 |
++mf+ B ^d e d e d2/3 e B/3 e2/3 e/3 |
+% Bar 50 (1:38)
+d B2/3 B/3 B d ^d e2/3 d/3- d2 |
+e ^d e d e d2/3 e/3- e z |
+z3 +f+ c B c2/3 B B/3 c |
+B2 +mf+ e ^d e d2/3 e B/3 e2/3 e/3 |
+d B2/3 B/3- B d ^d e2/3 d/3- d2 |
+e ^d e d e d2/3 e +mp+ B/3 ^c2/3 d/3 |
+e +mf+ B ^c ^d +f+ e B b2 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:58)
+z6 +mf+ B,/ ^C/ D/ ^D/ |
++f+ E z7 |
+z8 |
+z8 |
+z5 +mf+ C/ C/ B,/3 C/3 D/3 E// ^F// G// +f+ A// |
+B/ c/ B/ ^A/ B/ c/ B/ A/ B/ c/ B/ A/ B/ c/ B/ A/ |
+B/ c/ B/ ^A/ B/ c/ B/ A/ B B, ^C ^D |
+E/ ^D/ E/ D/ E/ D/ E/ ^F/ G/ F/ G/ F/ G/ F/ G/ A/ |
+^A/ =A/ ^A/ =A/ B/ ^A/ B/ A/ ^c/ =c/ ^c/ =c/ ^d/ =d/ ^d/ B/ |
+e8 |
+% Bar 70 (2:18)
+z4 +ff+ g2 ^f2 |
+e z7 |
+z4 e B b2 |
++mp+ E B, ^F B, G B, A B, |
+E B, ^F B, G B, A B, |
+E B, ^F B, G B, A B, |
+^A B, ^A, B, ^F B, ^D B, |
+E B, ^F B, G B, A B, |
+E B, ^F B, G B, A B, |
+E B, ^F B, G B, A B, |
+% Bar 80 (2:38)
+^A B, ^A, B, ^F B, ^D B, |
+E B, ^F B, G B, A B, |
+E B, ^F B, G B, A B, |
+E B, ^F B, G B, A B, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:58)
+z8 |
+z8 |
+z4 +ff+ ^g2 =g2 |
+f z7 |
+z4 f c c'2 |
+z8 |
+z4 ^g z =g2 |
+f z3 +p+ ^G,// ^G// +mp+ G,// G// G,// G// G,// +mf+ G// G,// G// G,// G// +f+ G,// G// G,// G// |
+[^G,^G] z5/2 C// E// F E F z |
++mf+ C E F E F E2/3 F C/3 F |
+% Bar 100 (3:18)
+^D C C D E F2/3 E/3- E2 |
+F E2/3 E/3 F E2/3 E/3 F E2/3 F/3- F z |
+z2 z2/3 +f+ F,/3 ^C2/3 C/3 =C ^C2/3 =C C/3 ^C |
+C2 +mf+ F E F E2/3 F C/3 F2/3 F/3 |
+^D C C D E F2/3 G/3- G2 |
+F E F E F E2/3 F +mp+ C/3 D2/3 E/3 |
+F +mf+ G, ^G, =G, +f+ [F,F] C c2 |
+F, C B, C ^C2 =C ^C/ C/ |
+C ^A, C ^C =C A, ^G, =G, |
+F, C B, C ^C2 =C ^C/ C/ |
+% Bar 110 (3:38)
+C B, C ^C =C2 C/ ^A,/ ^G,/ =G,/ |
+F, C B, C ^C2 =C ^C/ C/ |
+C ^A, C ^C =C A, ^G, =G, |
+F, C B, C ^C2 =C ^C/ C/ |
+C ^A, ^G, =G, F, z z2/3 C,/3 G,2/3 ^G,/3 |
+G, G, ^G, =G, C2/3 ^C/3 =C2/3 ^C/3 =C2/3 C,/3 G,2/3 ^G,/3 |
+G, G, ^G, =G, F, z3 |
+z2 |]
+
+X: 13
+%%Orig filename was HappyHalloweenSprightly.abc
+T: Happy Halloween (quartet+) (3:53) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+%%made-for Sprightly Fiddle
+C: Junky (MIDI by Piper)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+e ^f g a ^a/ b/ g e b/ c'/ |
+b g e/ ^d/ ^f e B ^A B |
+e ^f g a ^a/ b/ g e b/ c'/ |
+b ^f ^d f e B b2 |
+e ^f g a ^a/ b/ g e b/ c'/ |
+% Bar 10 (0:18)
+b g e/ ^d/ ^f e B ^A B |
+e/ ^f/ g/ ^g/ a b/ c'/ ^d/ e/ d/ d// =d// c'// b// c'// ^c// b/ c'/ |
+b/ a/ g/ ^f/ ^d f e z e// [=d//c'//] b// [g//a//] +mp+ e// [c//d//] [A//B//] [E//G//] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z7 B |
+% Bar 20 (0:38)
+^d e ^c d e B c d |
++mf+ e ^f g a ^a/ b/ g e b/ c'/ |
+b g e/ ^d/ ^f e B ^A B |
+e/ ^f/ g/ ^g/ a b/ c'/ ^d/ e/ d/ d// =d// c'// b// c'// ^c// b/ c'/ |
+b/ a/ g/ ^f/ ^d f e z B/ A/ G/ ^F/ |
+E z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z7 ^A |
+B z2 ^A B z2 A |
+B z2 B c z2 A |
+B z2 G +f+ A z ^F2 |
+G ^F G A G A/3 G2/3 F z |
++mf+ B z2 ^A B z2 A |
+B z2 c B z2 A |
+B2 z +f+ G A z G2 |
+% Bar 40 (1:18)
+^F B ^c ^d e z3 |
+E ^F G A B G2/3 E E/3 c2/3 c/3 |
+B G D B A G2/3 ^F/3- F2 |
+E ^F2/3 F/3 G A2/3 A/3 B G2/3 E/3- E c |
+B c2/3 B B/3 c B4 |
+E ^F G A B G2/3 E E/3 c |
+B G D B A G2/3 ^F/3- F2 |
+E ^F G A B G2/3 E E/3 B2/3 c/3 |
+B B ^c ^d e2 z2 |
+E ^F G A B G2/3 E E/3 c2/3 c/3 |
+% Bar 50 (1:38)
+B G2/3 G/3 D B A G2/3 ^F/3- F2 |
+E ^F G2/3 G/3 A B G2/3 E/3- E c |
+B c2/3 B B/3 c B4 |
+E ^F G A B G2/3 E E/3 c2/3 c/3 |
+B G2/3 D/3- D B A G2/3 ^F/3- F2 |
+E ^F G A B G2/3 E E/3 B2/3 c/3 |
+B B ^c ^d e2 z2 |
+z +mp+ g ^f z2 g f z |
+z g ^f z2 ^a g z |
++mf+ e ^d/ e/ ^f g e/ f/ g f B |
+% Bar 60 (1:58)
+b/ c'/ b/ c'/ b/ c'/ b/ c'/ b/ c'/ b/ c'/ b/ a/ g/ ^f/ |
+e z7 |
+z8 |
+z8 |
+B/ c/ B/ c/ B/ ^c/ d/ ^d/ e/ ^f/ g/ a/ b/ c/ =d/ ^d/ |
+e z7 |
+z8 |
+z8 |
++f+ ^A/ B/ c/ ^c/ d/ ^d/ e/ f/ ^f// f// f// f// f// f// f// f// f// f// f// f// e/ f/ |
+g/ ^f/ g/ f/ g/ f/ e/ f/ g/ f/ g/ f/ g/ f/ e/ f/ |
+% Bar 70 (2:18)
+g B/ ^A/ B g ^f e ^d/ e/ f/ d/ |
+e2 ^D/3 E/3 F/3 G/3 A/3 ^A/3 B/ ^c/ g a g |
+^f/ g/ ^d/ e/ B/ c/ ^F/ G/ E2 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+B z2 ^A B z2 A |
+B z2 c B z3 |
+B z2 ^A B z2 B |
+% Bar 80 (2:38)
+c3 B ^F2 z2 |
+B2 z c B z2 ^A |
+B2 z c B z2 ^A |
+B z2 ^A B z2 B |
+c z3 B z2 E |
++p+ F c' z b z c' z b |
+z ^c z c' z c' z ^a |
+z c' z b z c' z b |
+z ^c z c f e ^d =d |
+c c' z b z c' z b |
+% Bar 90 (2:58)
+z4 [fc'] [eb] [f2c'2] |
+z +mp+ ^G =G ^G z G =G ^G |
+z ^G =G ^G z4 |
+z ^G =G ^G z G =G ^G |
+z G G ^G z C ^C E |
+z ^G =G ^G z G =G ^G |
+z ^G =G ^G z4 |
+z ^G +mf+ =G ^G z +f+ G =G ^c |
+c/ z/ C D E F2 z +ff+ ^G2/3 =G/3 |
+F G ^G ^A c G2/3 F F/3 ^c |
+% Bar 100 (3:18)
+c ^G ^D c ^A G2/3 =G/3- G2 |
+F G2/3 G/3 ^G ^A2/3 A/3 c G2/3 F F/3 ^c2/3 c/3 |
+c ^c2/3 =c c/3 ^c =c4 |
+F G ^G ^A c B2/3 c c/3 ^d2/3 ^c/3 |
+c B c B2/3 B/3 ^A ^G2/3 =G/3- G2 |
+F G ^G ^A c G2/3 F F/3 c2/3 ^c/3 |
+c C D E F2 z2 |
+F G ^G ^A c G2/3 F/3- F2 |
+z8 |
+F G ^G ^A c G2/3 F/3- F2 |
+% Bar 110 (3:38)
+z8 |
+F G ^G ^A c G2/3 F/3- F2 |
+z8 |
+F G ^G ^A c G2/3 F/3- F ^c |
+c C D E F z z2/3 F/3 c2/3 ^c/3 |
+c C D2/3 D/3 E F z z2/3 F/3 c2/3 ^c/3 |
+c c d e f z3 |
+z2 |]
+

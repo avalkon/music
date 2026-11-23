@@ -1,0 +1,921 @@
+N: TS  8,   9   8   3  10   5   4  21  18
+X: 9
+%%Orig filename was ThronesAges.abc
+T: GamesofThrones_Multi8 [Lute of Ages] (1:41)
+%%part-name Lute of Ages
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++f+ z6 |
+z6 |
+[D,6-D6-] |
+[D,4-D4-] [D,3/2D3/2] z/ |
++mf+ [D,6-D6-] |
+[D,4-D4-] [D,3/2D3/2] z/ |
+[D,6-D6-] |
+[D,4-D4-] [D,3/2D3/2] z/ |
++f+ [D,6-D6-] |
+% Bar 10 (0:09)
+[D,4-D4-] [D,3/2D3/2] z/ |
+A4- A3/2 z/ |
+D4- D3/2 z/ |
+F G A2- A2 |
+D4 F G |
++mf+ E6- |
+E6- |
+E6- |
+E4- E z |
++f+ G4- G3/2 z/ |
+% Bar 20 (0:20)
+C4- C3/2 z/ |
+F E G2- G2 |
+C6 |
+F E D2- D2- |
+D6- |
+D6- |
+D4- D z |
+A4- A3/2 z/ |
+D4- D3/2 z/ |
+F G A2- A2 |
+% Bar 30 (0:30)
+D4 F G |
+E6- |
+E6- |
+E6- |
+E4- E z |
+G4- G3/2 z/ |
+C4- C3/2 z/ |
+F E G2- G2 |
+C6 |
+F E D2- D2- |
+% Bar 40 (0:41)
+D6- |
+D6- |
+D2 A, z D/ z3/2 |
++ff+ A4- A3/2 z/ |
+D4- D3/2 z/ |
++f+ F +ff+ G A2- A2 |
+D4 F G |
+E6- |
+E6- |
+E6- |
+% Bar 50 (0:51)
+E4- E z |
+G4- G3/2 z/ |
+C4- C3/2 z/ |
+E2- E/ z/ F5/2 z/ |
+E2- E/ z/ +f+ C5/2 z/ |
+D6- |
+D6- |
+D6- |
+D4- D z |
++ff+ d6- |
+% Bar 60 (1:02)
+d4 c d |
++f+ c6- |
+c6 |
++ff+ ^A D5- |
+D4 A ^A |
+A6- |
+A6 |
+^A,6- |
+^A,6 |
+F6 |
+% Bar 70 (1:13)
++f+ G6 |
++ff+ A6- |
+A6- |
+A6- |
+A4- A3/2 z/ |
+F6- |
+F4- F3/2 z/ |
+F6- |
+F4- F3/2 z/ |
+G6- |
+% Bar 80 (1:23)
+G4- G3/2 z/ |
+A6- |
+A4- A3/2 z/ |
+^A,6- |
+^A,6 |
+F6 |
+E6 |
+D4- D3/2 z/ |
+D4- D3/2 z/ |
+D4- D3/2 z/ |
+% Bar 90 (1:34)
+D4- D3/2 z/ |
++p+ D6- |
+D6- |
+D6- |
+D6- |
+D6 |
+z6 |]
+
+X: 8
+%%Orig filename was ThronesBass.abc
+T: GamesofThrones_Multi8 [Theorbo] (1:41)
+%%part-name Basic Theorbo
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++mf+ z6 |
+z6 |
+D6- |
+D4- D3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+D6- |
+% Bar 10 (0:09)
+D4- D3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+A,6- |
+A,4- A,3/2 z/ |
+A,6- |
+A,4- A,3/2 z/ |
+C6- |
+% Bar 20 (0:20)
+C4- C3/2 z/ |
+C6- |
+C4- C3/2 z/ |
+G,6- |
+G,4- G,3/2 z/ |
+G,6- |
+G,4- G,3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+D6- |
+% Bar 30 (0:30)
+D4- D3/2 z/ |
+A,6- |
+A,4- A,3/2 z/ |
+A,6- |
+A,4- A,3/2 z/ |
+C6- |
+C4- C3/2 z/ |
+C6- |
+C4- C3/2 z/ |
+D6- |
+% Bar 40 (0:41)
+D4- D3/2 z/ |
+D6- |
+D3/2 z/ D z +f+ D z |
+D6- |
+D4- D3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+A,6- |
+A,4- A,3/2 z/ |
+A,6- |
+% Bar 50 (0:51)
+A,4- A,3/2 z/ |
+C6- |
+C4- C3/2 z/ |
+C6- |
+C4- C3/2 z/ |
+D6- |
+D4- D3/2 z/ |
+D4- D3/2 z/ |
+D z D z +ff+ D z |
++mp+ ^A6- |
+% Bar 60 (1:02)
+^A4- A3/2 z/ |
+F4- F3/2 z/ |
+F z F z F z |
+G6- |
+G4- G3/2 z/ |
+D4- D3/2 z/ |
+D z D z +mf+ D z |
++mp+ ^A,6- |
+^A,4- A,3/2 z/ |
+G,3/2 z/ +mf+ G, z G, z |
+% Bar 70 (1:13)
+A,3/2 z/ A, z A, z |
+D6- |
+D4- D3/2 z/ |
++f+ D4- D3/2 z/ |
++mf+ D z +f+ D z D z |
+^A4- A3/2 z/ |
+^A4- A3/2 z/ |
+F4- F3/2 z/ |
+F4- F3/2 z/ |
+G4- G3/2 z/ |
+% Bar 80 (1:23)
+G4- G3/2 z/ |
+D4- D3/2 z/ |
+D4- D3/2 z/ |
+^A,4- A,3/2 z/ |
+^A,4- A,3/2 z/ |
+G,3/2 z/ G, z +ff+ G, z |
++f+ A,3/2 z/ A, z +ff+ A, z |
++f+ D4- D3/2 z/ |
++ff+ D4- D3/2 z/ |
+D4- D3/2 z/ |
+% Bar 90 (1:34)
++f+ D4- D3/2 z/ |
++p+ D6- |
+D6- |
+D6- |
+D6- |
+D6 |
+z6 |]
+
+X: 3
+%%Orig filename was ThronesClar.abc
+T: GamesofThrones_Multi8 [Clarinet] (1:41)
+%%part-name Clarinet
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++f+ z6 |
+z6 |
+A2 D2 F G |
+A2 D2 F G |
+A2 D2 F G |
+A2 D2 F G |
+A2 D2 ^F G |
+A2 D2 ^F G |
+A2 D2 ^F G |
+% Bar 10 (0:09)
+A2 D2 ^F G |
+A6- |
+A4- A3/2 z/ |
+z6 |
+z6 |
+E2 A,2 C D |
+E2 A,2 C D |
+E2 A,2 C D |
+E2 A, z C z |
+z6 |
+% Bar 20 (0:20)
+z6 |
+z6 |
+z6 |
+D2 G,2 ^A, C |
+D2 G,2 ^A, C |
+D2 G,2 ^A, C |
+D2 G, z3 |
+A4- A3/2 z/ |
+D4- D3/2 z/ |
+F +ff+ G +f+ A2- A2 |
+% Bar 30 (0:30)
+D4 +ff+ F G |
++f+ E6- |
+E6- |
+E6- |
+E4- E z |
+G4- G3/2 z/ |
+C4- C3/2 z/ |
+F E +ff+ G2- G2 |
++f+ C6 |
++ff+ F +f+ E D2- D2- |
+% Bar 40 (0:41)
+D6- |
+D6- |
+D2 A z d z |
++ff+ a4- a3/2 z/ |
+d4- d3/2 z/ |
++fff+ f +ff+ g a2- a2 |
+d4 f g |
+e6- |
+e6- |
+e6- |
+% Bar 50 (0:51)
+e4- e z |
+g4- g3/2 z/ |
+c4- c3/2 z/ |
+e2- e/ z/ f5/2 z/ |
+e2- e/ z/ c5/2 z/ |
+d6- |
+d4- +f+ [d-^a] [dc'] |
++ff+ d2- [d2-a2] [d-^a] [dc'] |
++f+ d2- +ff+ [d2-a2] +f+ [d^a] c' |
++mf+ d2 F2 ^A c |
+% Bar 60 (1:02)
+d2 F2 c d |
+c2 F2 A ^A |
+c2 F z A z |
+^A2 D2 G =A |
+^A2 D2 =A ^A |
+A2 D2 F G |
+A2 D2 F G |
+F2 ^A,2 D E |
+F2 ^A,2 E F |
+F2 ^A, z F z |
+% Bar 70 (1:13)
+G2 C/ z3/2 G z |
+D2 A,2 ^A, C |
+D2 A,2 ^A, C |
+D2 A,2 ^A, C |
+D4 z2 |
++f+ d6- |
+d6 |
++ff+ [c6-c'6-] |
+[c6c'6] |
+[^A^a] [D5-d5-] |
+% Bar 80 (1:23)
+[D6d6] |
+[A6-a6-] |
+[A6a6] |
+[^A,6-^A6-] |
+[^A,6^A6] |
+[F6f6] |
+[E6e6] |
+[D4d4] [^A^a] [cc'] |
++fff+ d2 +ff+ [A2a2] [^A^a] [cc'] |
+d2 [A2a2] [^A^a] [cc'] |
+% Bar 90 (1:34)
++f+ d2 +ff+ [A2a2] [^A^a] [cc'] |
+z4 +mp+ ^A c |
+d2 A2 +p+ ^A c |
+d2 A2 ^A c |
+d6- |
+d6- |
+d4- d3/2 z/ |]
+
+X: 10
+%%Orig filename was ThronesDrums.abc
+T: GamesofThrones_Multi8 [Drums] (1:41)
+%%part-name Drums
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++mf+ ^D/ z11/2 |
+^D/ z11/2 |
++mp+ [C/F/^A/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z/ [C/F/c/] z/ |
+[C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
+[C/F/^A/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z/ [C/F/c/] z/ |
+[C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ [C/F/c/] |
++mf+ [C/F/^A/c/] z3/2 +mp+ [C/F/c/] z3/2 [C/F/c/] z/ [C/F/c/] z/ |
++mf+ [C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ c/ |
++mp+ [C/F/^A/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z/ [C/F/c/] z/ |
+% Bar 10 (0:09)
++mf+ [C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ c/ |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ |
++mf+ [C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ [C/F/c/] z +pp+ [C/F/c/] |
++mf+ [C/F/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
++mf+ [C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ [C/F/c/] |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ [C/F/c/] +pp+ F/ |
++mf+ [C/F/c/] z7/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ |
++pp+ [C/F/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ F/ |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z +pp+ [C/F/] |
++mp+ [C/F/^A/c/] z7/2 [C/F/c/] z/ [C/F/c/] z/ |
+% Bar 20 (0:20)
++mf+ [C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ [C/F/c/] z +pp+ [F/c/] |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
+[C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
+[C/F/^A/c/] z7/2 [C/F/c/] z/ [C/F/c/] +pp+ [F/c/] |
++mp+ [C/F/c/] z7/2 [C/F/c/] z/ [C/F/c/] z/ |
+[C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ [C/c/] |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z +pp+ [F/c/] |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ |
++mf+ [C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ [C/F/c/] z3/2 |
+[C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
+% Bar 30 (0:30)
++mf+ [C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ C/ |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ [C/F/c/] +pp+ c/ |
++mp+ [C/F/c/] z7/2 [C/F/c/] z/ [C/F/c/] +pp+ [F/c/] |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ [C/c/] |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z +pp+ c/ |
++mp+ [C/F/^A/c/] z7/2 [C/F/c/] z/ [C/F/c/] z/ |
++mf+ [C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ [C/F/c/] z +pp+ c/ |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
++mf+ [C/F/c/] z3/2 +p+ [C/F/c/] z/ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ c/ |
++mp+ [C/F/^A/c/] z7/2 [C/F/c/] z/ [C/F/c/] +pp+ [C/F/] |
+% Bar 40 (0:41)
++mf+ [C/F/c/] z7/2 +mp+ [C/F/c/] z/ [C/F/c/] +pp+ [C/F/] |
++mp+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ c/ |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z +pp+ c/ |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/^A/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z +pp+ C/ |
++mf+ [C/F/c/] z5/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/c/] z3/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ [F/c/] |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ [C/F/] |
++mf+ [C/F/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ C/ |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ F/ |
+% Bar 50 (0:51)
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z3/2 |
++mp+ [C/F/^A/c/] z7/2 [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z +pp+ [F/c/] |
++mf+ [C/F/^A/c/] z5/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/c/] z3/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ F/ |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ c/ |
++mf+ [C/F/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ C/ |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ C/ |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z3/2 |
++mp+ [C/F/^A/c/] z11/2 |
+% Bar 60 (1:02)
+z4 +p+ [C/F/c/] z/ [C/F/c/] z/ |
++mp+ [C/F/^A/c/] z11/2 |
+z2 +pp+ [C/F/c/] z3/2 +p+ [C/F/c/] z3/2 |
++mp+ [C/F/^A/c/] z11/2 |
+z4 +p+ [C/F/c/] z/ [C/F/c/] z/ |
++mp+ [C/F/^A/c/] z11/2 |
+z2 +pp+ [C/F/c/] z3/2 +p+ [C/F/c/] z3/2 |
++mp+ [C/F/^A/c/] z7/2 +p+ [C/F/c/] z3/2 |
++mp+ [C/F/c/] z7/2 +p+ [C/F/c/] z/ [C/F/c/] +pp+ [C/F/] |
++mp+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ |
+% Bar 70 (1:13)
+[C/F/c/] z3/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ [C/F/c/] +pp+ [C/c/] |
++mp+ [C/F/^A/c/] z7/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] +pp+ C/ |
++mp+ [C/F/c/] z7/2 [C/F/c/] z/ [C/F/c/] +pp+ C/ |
++mf+ [C/F/^A/c/] z5/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ [C/F/c/] +pp+ C/ |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z3/2 |
++mp+ [C/F/^A/c/] z7/2 [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z +pp+ [C/F/c/] |
++mf+ [C/F/c/] z5/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/^A/c/] z3/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ [C/c/] |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ C/ |
+% Bar 80 (1:23)
++mf+ [C/F/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +pp+ c/ |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +pp+ [F/c/] |
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z +pp+ [C/F/] |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z3/2 |
++mp+ [C/F/^A/c/] z5/2 [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z/ |
+[C/F/c/] z3/2 +mp+ [C/F/c/] z/ [C/F/c/] z/ +mf+ [C/F/c/] z/ [C/F/c/] +p+ C/ |
++mf+ [C/F/^A/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +p+ c/ |
++mf+ [C/F/c/] z7/2 +mp+ [C/F/c/] z/ +mf+ [C/F/c/] +p+ F/ |
++mf+ [C/F/^A/c/] z5/2 +p+ [C/F/c/] z/ +mp+ [C/F/c/] z/ [C/F/c/] +p+ F/ |
+% Bar 90 (1:34)
++mf+ [C/F/c/] z3/2 [C/F/c/] z3/2 [C/F/c/] z3/2 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
+X: 5
+%%Orig filename was ThronesHarp.abc
+T: GamesofThrones_Multi8 (1:41) - Harp
+%%part-name Harp
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++mf+ z6 |
+z6 |
+[D,2-a2] +f+ [D,2-d2] +mf+ [D,-f] [D,-g] |
++f+ [D,2-a2] +mf+ [D,2-d2] [D,-f] [D,/g/-] g/ |
+[D,2-a2] +f+ [D,2-d2] +mf+ [D,-f] [D,-g] |
+[D,2-a2] [D,2-d2] [D,-f] [D,/g/-] g/ |
+[D,2-a2] [D,3/2-d3/2] D,/- [D,-^f] [D,-g] |
++f+ [D,2-a2] [D,2-d2] [D,-^f] +mf+ [D,/g/-] g/ |
+[D,2-a2] +f+ [D,2-d2] +mf+ [D,-^f] [D,-g] |
+% Bar 10 (0:09)
+[D,2-a2] [D,2-d2] [D,-^f] [D,/g/-] g/ |
+[D,6-d6-a6-] |
+[D,4-d4-a4-] [D,-da] D,/ z/ |
+D,6- |
+D,4- D,3/2 z/ |
+[A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] [A,2-A2] +f+ [A,-c] [A,/d/-] d/ |
++mf+ [A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] +f+ [A,-A] A,- +mf+ [A,-c] A,/ z/ |
+[C,6-C6-] |
+% Bar 20 (0:20)
+[C,4-C4-] [C,3/2C3/2] z/ |
+[C,6-C6-] |
+[C,4-C4-] [C,3/2C3/2] z/ |
+[G,2-d2] [G,2-G2] [G,-^A] [G,-c] |
+[G,2-d2] [G,2-G2] [G,-^A] [G,/c/-] c/ |
+[G,2-d2] [G,2-G2] [G,-^A] [G,-c] |
+[G,2-d2] [G,/-G/] G,3/2- +f+ [G,/-^A/] G, z/ |
++mf+ [D,6-A6-d6-] |
+[D,4-A4-d4-] [D,-Ad] D,/ z/ |
+D,6- |
+% Bar 30 (0:30)
+D,4- D,3/2 z/ |
+[A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] +f+ [A,2-A2] +mf+ [A,-c] +f+ [A,/d/-] d/ |
+[A,2-e2] +mf+ [A,2-A2] +f+ [A,-c] +mf+ [A,-d] |
+[A,2-e2] [A,/-A/] A,3/2- [A,/-c/] A, z/ |
++f+ [C,6-C6-G6-c6-] |
+[C,4-C4-G4-c4-] [C,-C-Gc] [C,/C/] z/ |
+[C,6-C6-] |
+[C,4-C4-] [C,3/2C3/2] z/ |
++mf+ [D,2-d2] [D,2-A2] [D,-^A] [D,-c] |
+% Bar 40 (0:41)
+[D,2-d2] [D,2-A2] [D,-^A] [D,/c/-] c/ |
+[D,2-d2] [D,2-A2] +f+ [D,-^A] +mf+ [D,-c] |
++f+ [D,2-d2] +mf+ [D,/-A/] D,3/2- [D,/-d/] D, z/ |
++f+ [D,6-A6-d6-] |
+[D,4-A4-d4-] [D,-Ad] D,/ z/ |
+D,6- |
+D,4- D,3/2 z/ |
++mf+ [A,2-e2] +f+ [A,2-A2] +mf+ [A,-c] [A,-d] |
+[A,2-e2] [A,2-A2] [A,-c] [A,/d/-] d/ |
++f+ [A,2-e2] +mf+ [A,2-A2] [A,-c] [A,-d] |
+% Bar 50 (0:51)
+[A,2-e2] +f+ [A,/-A/] A,3/2- +mf+ [A,/-c/] A, z/ |
++f+ [C,6-C6-G6-c6-] |
+[C,4-C4-G4-c4-] [C,-C-Gc] [C,/C/] z/ |
++mf+ [C,6-C6-] |
+[C,4-C4-] [C,3/2C3/2] z/ |
++f+ [D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,-c] |
+[D,2-d2] [D,2-A2] [D,-^A] [D,/c/-] c/ |
++f+ [D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
++f+ [D,/-A/-d/] [D,/A/] z [D,/-A/-d/] [D,/A/] z [D,/-A/d/] D,/ z |
++mf+ [^A,2d2-f2-] [F,2d2-f2-] [A,3/2-d3/2f3/2] A,/- |
+% Bar 60 (1:02)
+[^A,3/2-d3/2] A,/- [A,2-f2] [A,c'] d |
+[F,2c2-f2-c'2-] [C2c2-f2-c'2-] [F3/2-c3/2f3/2c'3/2] F/- |
+[F2-c2] [F/-f/] F3/2- [F/-c'/] F/ z |
+[G,2^A2-d2-^a2-] [D2A2-d2-a2-] [G3/2-A3/2d3/2a3/2] G/- |
+[G2-^A2] [G2-d2] [Ga] ^a |
+[D,2A2-d2-a2-] [A,2A2-d2-a2-] [D3/2-A3/2d3/2a3/2] D/- |
+[D2-A2] [D2-d2] [Da-] a |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,2F2-A2-] |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,-FA] A, |
+[G,2F2-^A2-f2-] [G,/F/-A/-f/-] [F3/2-A3/2-f3/2-] [G,F-A-f-] [F/A/f/] z/ |
+% Bar 70 (1:13)
+[A,2G2-c2-g2-] [A,/G/-c/-g/-] [G3/2-c3/2-g3/2-] [A,/G/-c/-g/-] [Gcg] z/ |
+[D,2A2-d2-a2-] [A,2A2-d2-a2-] [D2A2-d2-a2-] |
+[D,2A2-d2-a2-] [A,2A2-d2-a2-] [D2A2-d2-a2-] |
+[D,2-A2-d2-a2-] [D,3/2A3/2-d3/2-a3/2-] [A/-d/-a/-] [D2A2-d2-a2-] |
++f+ [D,/A/-d/-a/-] [A3/2-d3/2-a3/2-] [D,/A/-d/-a/-] [A3/2-d3/2-a3/2-] [D,/A/-d/-a/-] [Ada] z/ |
++mf+ [^A,2d2-f2-] [F,2d2-f2-] +f+ [A,3/2-d3/2f3/2] A,/- |
++mf+ [^A,2-d2] +f+ [A,2-f2] +mf+ [A,c'] d |
+[F,2c2-f2-c'2-] [C2c2-f2-c'2-] [F3/2-c3/2f3/2c'3/2] F/- |
++f+ [F2-c2] +mf+ [F/-f/] F3/2- +f+ [Fc'] z |
++mf+ [G,2^A2-d2-^a2-] [D2A2-d2-a2-] [G3/2-A3/2d3/2a3/2] G/- |
+% Bar 80 (1:23)
+[G2-^A2] +f+ [G2-d2] [Ga] ^a |
++mf+ [D,2A2-d2-a2-] [A,2A2-d2-a2-] +f+ [D3/2-A3/2d3/2a3/2] D/- |
+[D2-A2] [D2-d2] [Da-] a |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,2F2-A2-] |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,-FA] A, |
+[G,2^A2-f2-] [G,/A/-f/-] [A3/2-f3/2-] [G,/A/-f/-] [Af] z/ |
+[A,2A2-e2-] [A,A-e-] [A-e-] [A,/A/-e/-] [Ae] z/ |
+[D,6-A6-d6-] |
+[D,4-A4-d4-] [D,Ad] z |
+[D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,-c] |
+% Bar 90 (1:34)
+[D,2-d2] [D,2-A2] [D,^A] c |
++mp+ [D,4-A4-d4-e4-] [D,-A-d-e-^a] [D,-A-de-c'] |
++mf+ [D,2-A2-d2-e2-] [D,2-A2-d2-e2-a2] +mp+ [D,-A-d-e-^a] +mf+ [D,-A-de-c'] |
++mp+ [D,2-A2-d2-e2-] [D,2-A2-d2-e2-a2] [D,-A-d-e-^a] [D,-A-de-c'] |
+[D,6-A6-d6-e6-] |
+[D,6A6d6-e6] |
+d4- d3/2 z/ |]
+
+X: 4
+%%Orig filename was ThronesHorn1.abc
+T: GamesofThrones_Multi8 [Horn 1] (1:41)
+%%part-name Horn 1
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++mf+ z6 |
+z6 |
+[D,6-D6-] |
+[D,4-D4-] [D,3/2D3/2] z/ |
+[D,6-D6-] |
+[D,4-D4-] [D,3/2D3/2] z/ |
+[D,6-D6-] |
+[D,4-D4-] [D,3/2D3/2] z/ |
+[D,6-D6-] |
+% Bar 10 (0:09)
+[D,4-D4-] [D,3/2D3/2] z/ |
+[D,4-A4-] [D,3/2-A3/2] D,/- |
+[D,4-D4-] [D,3/2D3/2] z/ |
+[D,-F] [D,-G] [D,2-A2-] [D,2-A2] |
+[D,4-D4] [D,-F] [D,/G/-] G/ |
+[A,6-E6-] |
+[A,4-E4-] [A,3/2E3/2-] E/- |
+[A,6-E6-] |
+[A,4-E4-] [A,-E] A,/ z/ |
+[C,4-G4-] [C,3/2-G3/2] C,/- |
+% Bar 20 (0:20)
+[C,4-C4-] [C,3/2C3/2] z/ |
+[C,-F] [C,-E] [C,2-G2-] [C,2-G2] |
+[C,4-C4-] [C,3/2C3/2-] C/ |
+[G,-F] [G,-E] [G,2-D2-] [G,2-D2-] |
+[G,4-D4-] [G,3/2D3/2-] D/- |
+[G,6-D6-] |
+[G,4-D4-] [G,-D] G,/ z/ |
+D,6- |
+D,4- D,3/2 z/ |
+D,6- |
+% Bar 30 (0:30)
+D,4- D,3/2 z/ |
+[A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] [A,2-A2] [A,-c] [A,/d/-] d/ |
+[A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] [A,-A] A,- [A,-c] A,/ z/ |
+C,6- |
+C,4- C,3/2 z/ |
+C,6- |
+C,4- C,3/2 z/ |
+[D,2-d2] [D,2-A2] [D,-^A] [D,-c] |
+% Bar 40 (0:41)
+[D,2-d2] [D,2-A2] [D,-^A] [D,/c/-] c/ |
+[D,2-d2] [D,2-A2] [D,-^A] [D,-c] |
+[D,3/2d3/2-] d/ [D,A] z +f+ [D,d] z |
+[D,2-a2] +mf+ [D,2-d2] [D,-f] [D,-g] |
+[D,2-a2] [D,2-d2] +f+ [D,-f] +mf+ [D,/g/-] g/ |
++f+ [D,2-a2] +mf+ [D,2-d2] [D,-f] +f+ [D,-g] |
++mf+ [D,2-a2] [D,2-d2] +f+ [D,3/2a3/2-] a/ |
+[A,2-e2] +mf+ [A,2-A2] [A,-c] [A,-d] |
++f+ [A,2-e2] +mf+ [A,2-A2] [A,-c] +f+ [A,/d/-] d/ |
+[A,2-e2] +mf+ [A,2-A2] [A,-c] [A,-d] |
+% Bar 50 (0:51)
+[A,2-e2] [A,-A] A,- +f+ [A,-c] A,/ z/ |
+[C,2-e2] +mf+ [C,2-G2] [C,-c] [C,-d] |
++f+ [C,2-e2] +mf+ [C,2-G2] [C,-c] [C,/d/-] d/ |
++f+ [C,2-e2] +mf+ [C,2-G2] [C,2-c2] |
+[C,2-c2] [C,2-G2] +f+ [C,3/2c3/2-] c/ |
+[D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,-c] |
++f+ [D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
++f+ [D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
++f+ [D,d-] d [D,A-] A [D,^A] c |
+[^A,6-d6-] |
+% Bar 60 (1:02)
+[^A,4-d4] [A,-c] [A,/d/-] d/ |
+[F,4-c4-] [F,3/2c3/2-] c/- |
++mp+ [F,c-] c- [F,c-] c- [F,c-] c |
++f+ [G,-^A] [G,5-D5-] |
+[G,4-D4] [G,-A] [G,/^A/-] A/ |
+[D,4-A4-] [D,3/2A3/2-] A/- |
++mp+ [D,A-] A- [D,A-] A- [D,/A/-] A3/2 |
+^A,6- |
+^A,6 |
++f+ [G,3/2F3/2-] F/- +mp+ [G,F-] F- +mf+ [G,F-] F- |
+% Bar 70 (1:13)
++mp+ [A,3/2F3/2-] F/- [A,F-] F- +mf+ [A,F-] F |
++f+ [D,6-A6-] |
+[D,4-A4-] [D,3/2A3/2-] A/- |
++mf+ [D,4-A4-] [D,3/2A3/2-] A/- |
+[D,A-] A- +f+ [D,A-] A- [D,A-] A/ z/ |
+[^A,2-d2] +mp+ [A,2-f2] +mf+ [A,-^a] +mp+ [A,/c'/-] c'/ |
++f+ [^A,2-d2] +mp+ [A,2-f2] [A,-c'] +mf+ [A,/d/-] d/ |
++f+ [F,2-c'2] +mp+ [F,2-f2] +mf+ [F,-a] [F,/^a/-] a/ |
++f+ [F,2-c'2] +mp+ [F,-f] F,- [F,-a] F,/ z/ |
++f+ [G,2-^a2] +mp+ [G,2-d2] [G,-g] [G,/=a/-] a/ |
+% Bar 80 (1:23)
++f+ [G,2-^a2] +mf+ [G,2-d2] [G,-=a] [G,/^a/-] a/ |
++f+ [D,2-a2] +mp+ [D,2-d2] +mf+ [D,-f] [D,/g/-] g/ |
++f+ [D,2-a2] +mf+ [D,2-d2] +mp+ [D,-f] [D,/g/-] g/ |
++f+ [^A,2-f2] +mp+ [A,2-^A2] [A,-d] [A,/e/-] e/ |
++f+ [^A,2-f2] +mf+ [A,2-^A2] +mp+ [A,-d] +mf+ [A,/e/-] e/ |
++f+ [G,3/2f3/2-] f/ [G,^A] z [G,f] z |
+[A,3/2e3/2-] e/ [A,A] z [A,e] z |
+[D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
++f+ [D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
++f+ [D,2-d2] +mf+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
+% Bar 90 (1:34)
++f+ [D,2-d2] [D,2-A2] [D,-^A] [D,/c/-] c/ |
++p+ [D,6-A6-] |
+[D,6-A6-] |
+[D,6-A6-] |
+[D,6-A6-] |
+[D,6-A6-] |
+[D,4-A4-] [D,3/2A3/2] z/ |]
+
+X: 21
+%%Orig filename was ThronesHorn2.abc
+T: GamesofThrones_Multi8 [Horn 2] (1:41)
+%%part-name Horn 2
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++mf+ z6 |
+z6 |
+A2 D2 F G |
+A2 D2 F G |
+A2 D2 F G |
+A2 D2 F G |
+A2 D2 ^F G |
+A2 D2 ^F G |
+A2 D2 ^F G |
+% Bar 10 (0:09)
+A2 D2 ^F G |
+A6- |
+A4- A3/2 z/ |
+z6 |
+z6 |
+E2 A,2 C D |
+E2 A,2 C D |
+E2 A,2 C D |
+E2 A, z C z |
+z6 |
+% Bar 20 (0:20)
+z6 |
+z6 |
+z6 |
+D2 G,2 ^A, C |
+D2 G,2 ^A, C |
+D2 G,2 ^A, C |
+D2 G, z +f+ ^A, z |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:30)
+z6 |
+E2 A,2 C D |
+E2 A,2 C D |
+E2 A,2 C D |
+E2 A, z C z |
+z6 |
+z6 |
+z6 |
+z6 |
+D2 A,2 ^A, C |
+% Bar 40 (0:41)
+D2 A,2 ^A, C |
+D2 A,2 ^A, C |
+D2 A, z D z |
+A2 +ff+ D2 +f+ F G |
++ff+ A2 +f+ D2 F G |
+A2 D2 F G |
+A2 +ff+ D2 +f+ A2 |
++ff+ e2 +f+ A2 c d |
+e2 +ff+ A2 c d |
++f+ e2 +ff+ A2 +f+ c d |
+% Bar 50 (0:51)
+e2 +ff+ A z c z |
++f+ e2 G2 c d |
+e2 G2 c d |
+e2 G2 +ff+ c2 |
++f+ c2 G2 +ff+ c2 |
++f+ d2 A2 ^A c |
+d2 A2 ^A c |
+d2 A2 +ff+ ^A +f+ c |
+d2 A2 ^A +ff+ c |
++mf+ d2 +mp+ F2 ^A c |
+% Bar 60 (1:02)
+d2 F2 c d |
+c2 F2 A ^A |
+c2 F z A z |
+^A2 D2 G =A |
+^A2 D2 =A ^A |
+A2 D2 F G |
+A2 D2 F G |
+F2 ^A,2 D E |
+F2 ^A,2 E F |
+F2 ^A, z F z |
+% Bar 70 (1:13)
+G2 C z G z |
+D2 A,2 ^A, C |
+D2 A,2 ^A, +mf+ C |
++mp+ D2 A,2 +mf+ ^A, C |
++mp+ D2 A,2 +mf+ ^A, C |
+d2 F2 ^A c |
+d2 F2 c d |
+c2 F2 A ^A |
+c2 F z A z |
+^A2 D2 G =A |
+% Bar 80 (1:23)
+^A2 D2 =A ^A |
+A2 D2 F G |
+A2 D2 F G |
+F2 ^A,2 D E |
+F2 ^A,2 D E |
+F2 ^A, z F z |
+E2 A, z +f+ E z |
+D2 +mf+ A,2 +f+ ^A, C |
++mf+ D2 +f+ A,2 ^A, C |
+D2 A,2 ^A, C |
+% Bar 90 (1:34)
+D2 A,2 +ff+ ^A, +f+ C |
++p+ [D6-E6-] |
+[D6-E6-] |
+[D6-E6-] |
+[D6-E6-] |
+[D6-E6-] |
+[D4-E4-] [D3/2E3/2] z/ |]
+
+X: 18
+%%Orig filename was ThronesPipes.abc
+T: GamesofThrones_Multi8 [Bagpipe] (1:41)
+%%part-name Bagpipe
+Z: Arranged by Finarphin
+M: 3/4
+Q: 170
+K: C maj
+
++pp+ z6 |
+z6 |
+[D,2-a2] +p+ [D,2-d2] +pp+ [D,-f] [D,-g] |
++p+ [D,2-a2] +pp+ [D,2-d2] [D,-f] [D,/g/-] g/ |
+[D,2-a2] +p+ [D,2-d2] +pp+ [D,-f] [D,-g] |
+[D,2-a2] [D,2-d2] [D,-f] [D,/g/-] g/ |
+[D,2-a2] [D,3/2-d3/2] D,/- [D,-^f] [D,-g] |
++p+ [D,2-a2] [D,2-d2] [D,-^f] +pp+ [D,/g/-] g/ |
+[D,2-a2] +p+ [D,2-d2] +pp+ [D,-^f] [D,-g] |
+% Bar 10 (0:09)
+[D,2-a2] [D,2-d2] [D,-^f] [D,/g/-] g/ |
+[D,6-d6-a6-] |
+[D,4-d4-a4-] [D,-da] D,/ z/ |
+D,6- |
+D,4- D,3/2 z/ |
+[A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] [A,2-A2] +p+ [A,-c] [A,/d/-] d/ |
++pp+ [A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] +p+ [A,-A] A,- +pp+ [A,-c] A,/ z/ |
+[C,6-C6-] |
+% Bar 20 (0:20)
+[C,4-C4-] [C,3/2C3/2] z/ |
+[C,6-C6-] |
+[C,4-C4-] [C,3/2C3/2] z/ |
+[G,2-d2] [G,2-G2] [G,-^A] [G,-c] |
+[G,2-d2] [G,2-G2] [G,-^A] [G,/c/-] c/ |
+[G,2-d2] [G,2-G2] [G,-^A] [G,-c] |
+[G,2-d2] [G,/-G/] G,3/2- +p+ [G,/-^A/] G, z/ |
++pp+ [D,6-A6-d6-] |
+[D,4-A4-d4-] [D,-Ad] D,/ z/ |
+D,6- |
+% Bar 30 (0:30)
+D,4- D,3/2 z/ |
+[A,2-e2] [A,2-A2] [A,-c] [A,-d] |
+[A,2-e2] +p+ [A,2-A2] +pp+ [A,-c] +p+ [A,/d/-] d/ |
+[A,2-e2] +pp+ [A,2-A2] +p+ [A,-c] +pp+ [A,-d] |
+[A,2-e2] [A,/-A/] A,3/2- [A,/-c/] A, z/ |
++p+ [C,6-C6-G6-c6-] |
+[C,4-C4-G4-c4-] [C,-C-Gc] [C,/C/] z/ |
+[C,6-C6-] |
+[C,4-C4-] [C,3/2C3/2] z/ |
++pp+ [D,2-d2] [D,2-A2] [D,-^A] [D,-c] |
+% Bar 40 (0:41)
+[D,2-d2] [D,2-A2] [D,-^A] [D,/c/-] c/ |
+[D,2-d2] [D,2-A2] +p+ [D,-^A] +pp+ [D,-c] |
++p+ [D,2-d2] +pp+ [D,/-A/] D,3/2- [D,/-d/] D, z/ |
++p+ [D,6-A6-d6-] |
+[D,4-A4-d4-] [D,-Ad] D,/ z/ |
+D,6- |
+D,4- D,3/2 z/ |
++pp+ [A,2-e2] +p+ [A,2-A2] +pp+ [A,-c] [A,-d] |
+[A,2-e2] [A,2-A2] [A,-c] [A,/d/-] d/ |
++p+ [A,2-e2] +pp+ [A,2-A2] [A,-c] [A,-d] |
+% Bar 50 (0:51)
+[A,2-e2] +p+ [A,/-A/] A,3/2- +pp+ [A,/-c/] A, z/ |
++p+ [C,6-C6-G6-c6-] |
+[C,4-C4-G4-c4-] [C,-C-Gc] [C,/C/] z/ |
++pp+ [C,6-C6-] |
+[C,4-C4-] [C,3/2C3/2] z/ |
++p+ [D,2-d2] +pp+ [D,2-A2] [D,-^A] [D,-c] |
+[D,2-d2] [D,2-A2] [D,-^A] [D,/c/-] c/ |
++p+ [D,2-d2] +pp+ [D,2-A2] [D,-^A] [D,/c/-] c/ |
++p+ [D,/-A/-d/] [D,/A/] z [D,/-A/-d/] [D,/A/] z [D,/-A/d/] D,/ z |
++pp+ [^A,2d2-f2-] [F,2d2-f2-] [A,3/2-d3/2f3/2] A,/- |
+% Bar 60 (1:02)
+[^A,3/2-d3/2] A,/- [A,2-f2] [A,c'] d |
+[F,2c2-f2-c'2-] [C2c2-f2-c'2-] [F3/2-c3/2f3/2c'3/2] F/- |
+[F2-c2] [F/-f/] F3/2- [F/-c'/] F/ z |
+[G,2^A2-d2-^a2-] [D2A2-d2-a2-] [G3/2-A3/2d3/2a3/2] G/- |
+[G2-^A2] [G2-d2] [Ga] ^a |
+[D,2A2-d2-a2-] [A,2A2-d2-a2-] [D3/2-A3/2d3/2a3/2] D/- |
+[D2-A2] [D2-d2] [Da-] a |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,2F2-A2-] |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,-FA] A, |
+[G,2F2-^A2-f2-] [G,/F/-A/-f/-] [F3/2-A3/2-f3/2-] [G,F-A-f-] [F/A/f/] z/ |
+% Bar 70 (1:13)
+[A,2G2-c2-g2-] [A,/G/-c/-g/-] [G3/2-c3/2-g3/2-] [A,/G/-c/-g/-] [Gcg] z/ |
+[D,2A2-d2-a2-] [A,2A2-d2-a2-] [D2A2-d2-a2-] |
+[D,2A2-d2-a2-] [A,2A2-d2-a2-] [D2A2-d2-a2-] |
+[D,2-A2-d2-a2-] [D,3/2A3/2-d3/2-a3/2-] [A/-d/-a/-] [D2A2-d2-a2-] |
++p+ [D,/A/-d/-a/-] [A3/2-d3/2-a3/2-] [D,/A/-d/-a/-] [A3/2-d3/2-a3/2-] [D,/A/-d/-a/-] [Ada] z/ |
++pp+ [^A,2d2-f2-] [F,2d2-f2-] +p+ [A,3/2-d3/2f3/2] A,/- |
++pp+ [^A,2-d2] +p+ [A,2-f2] +pp+ [A,c'] d |
+[F,2c2-f2-c'2-] [C2c2-f2-c'2-] [F3/2-c3/2f3/2c'3/2] F/- |
++p+ [F2-c2] +pp+ [F/-f/] F3/2- +p+ [Fc'] z |
++pp+ [G,2^A2-d2-^a2-] [D2A2-d2-a2-] [G3/2-A3/2d3/2a3/2] G/- |
+% Bar 80 (1:23)
+[G2-^A2] +p+ [G2-d2] [Ga] ^a |
++pp+ [D,2A2-d2-a2-] [A,2A2-d2-a2-] +p+ [D3/2-A3/2d3/2a3/2] D/- |
+[D2-A2] [D2-d2] [Da-] a |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,2F2-A2-] |
+[^A,2-F2-^A2-] [A,3/2F3/2-A3/2-] [F/-A/-] [A,-FA] A, |
+[G,2^A2-f2-] [G,/A/-f/-] [A3/2-f3/2-] [G,/A/-f/-] [Af] z/ |
+[A,2A2-e2-] [A,A-e-] [A-e-] [A,/A/-e/-] [Ae] z/ |
+[D,6-A6-d6-] |
+[D,4-A4-d4-] [D,Ad] z |
+[D,2-d2] +pp+ [D,2-A2] [D,-^A] [D,-c] |
+% Bar 90 (1:34)
+[D,2-d2] [D,2-A2] [D,^A] c |
++ppp+ [D,4-A4-d4-e4-] [D,-A-d-e-^a] [D,-A-de-c'] |
++pp+ [D,2-A2-d2-e2-] [D,2-A2-d2-e2-a2] +ppp+ [D,-A-d-e-^a] +pp+ [D,-A-de-c'] |
++ppp+ [D,2-A2-d2-e2-] [D,2-A2-d2-e2-a2] [D,-A-d-e-^a] [D,-A-de-c'] |
+[D,6-A6-d6-e6-] |
+[D,6-A6-d6-e6-] |
+[D,4-A4-d4-e4-] [D,3/2A3/2d3/2e3/2] z/ |]
+

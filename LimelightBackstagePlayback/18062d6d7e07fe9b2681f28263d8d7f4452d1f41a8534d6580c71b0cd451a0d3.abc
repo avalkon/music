@@ -1,0 +1,236 @@
+N: TS  4,   8   3  20   5
+X: 8
+%%Orig filename was GreatestBass.abc
+T: The Greatest Adventure [theorbo] (1:45)
+C: The Hobbit (animated) - Rankin/Bass, Maury Laws, Glenn Yarbrough
+Z: Astleigh Mondegreen http://my.lotro.com/astleigh
+L: 1/8
+Q: 180
+%%part-name Basic Theorbo
+K: E
+
+| z8 | z8 | z8 | z8 |
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | A,4 E,4 |
+| B,4 F,4 | B,4 F,4 |
+| E,4 B,4 | E,4 B,4 |
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | A,4 E,4 |
+| B,4 F,4 | B,4 F,4 |
+| B,4 F,4 | E,4 B,4 |
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | A,4 E,4 |
+| B,4 F,4 | B,4 F,4 |
+| E,4 B,4 | E,4 B,4 |
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | A,4 E,4 |
+| B,4 F,4 | B,4 F,4 |
+| B,4 F,4 | E,4 B,4 |
+
+K: D
+
+| G,4 D4 | D4 A,4 |
+| G,4 D4 | D4 A,4 |
+| G,4 D4 | D4 A,4 |
+| A,4 E,4 | B,4 F,4 |
+
+| G,4 D4 | D4 A,4 |
+| G,4 D4 | D4 A,4 |
+| G,4 D4 | D4 A,4 |
+| A,4 E,4 | B,4 F,4 |
+
+| B,4 F,4 |
+
+K: E
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | A,4 E,4 |
+| B,4 F,4 | B,4 F,4 |
+| E,4 B,4 | E,4 B,4 |
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | A,4 E,4 |
+| B,4 F,4 | B,4 F,4 |
+| B,4 F,4 | E,4 B,4 |
+
+| E,4 B,4 | C4 G,4 |
+| A,4 E,4 | B,4 B,4 |
+
+| E,4 B,4 | A,4 E,4 |
+| E,4 B,4 | E,4 |
+
+X: 3
+%%Orig filename was GreatestClar.abc
+T: The Greatest Adventure [clarinet] (1:45)
+C: The Hobbit (animated) - Rankin/Bass, Maury Laws, Glenn Yarbrough
+Z: Astleigh Mondegreen http://my.lotro.com/astleigh
+L: 1/8
+Q: 180
+K: E
+
+| z8 | z8 | z8 | z6 B2 |
+
+% The greatest adventure is what lies ahead
+| e4 e2 d2 | e2 g4 e2 | f4 a2 g2 | f6 e2 |
+% Today and tomorrow are yet to be said
+| d4 d2 c2 | d2 f4 d2 | e4 e2 f2 | g6 B2 |
+% The chances the changes are all yours to make
+| e4 e2 d2 | e2 g4 e2 | f4 a2 g2 | f6 e2 |
+% The mold of your life is in your hands to break
+| d4 d2 e2 | f4 f2 a2 | g4 a2 f2 | e6 B2 |
+
+% The greatest adventure is there if you're bold
+| e4 e2 d2 | e2 g4 e2 | f4 a2 g2 | f6 e2 |
+% Let go of the moment that life makes you hold
+| d4 d2 c2 | d2 f4 d2 | e4 e2 f2 | g6 B2 |
+% To measure the meaning can make you delay
+| e4 e2 d2 | e2 g4 e2 | f4 a2 g2 | f6 e2 |
+% Its time you stop thinkin and wastin the day
+| d4 d2 e2 | f2 f4 a2 | g4 a2 f2 | e6 =d2 |
+
+K: D
+
+% A man who's a dreamer and never takes leave
+| b4 b2 b2 | a2 a4 d2 | b2 b4 b2 | a6 d2 |
+% Who thinks of a world that is just make believe
+| b4 b2 b2 | a4 a2 f2 | e2 a4 e2 | f6 d2 |
+% Will never know passion, will never know pain
+| b2 b4 b2 | a2 a4 d2 | b2 b4 b2 | a6 d2 |
+% Who sits by the window will one day see rain
+| b4 b2 b2 | a2 a4 f2 | e2 a4 e2 | f6 z2 |
+
+K: E
+| z6 B2 |
+
+% The greatest adventure is what lies ahead
+| e4 e2 d2 | e2 g4 e2 | f4 a2 g2 | f6 e2 |
+% Today and tomorrow are yet to be said
+| d4 d2 c2 | d2 f4 d2 | e4 e2 f2 | g6 B2 |
+% The chances the changes are all yours to make
+| e4 e2 d2 | e2 g4 e2 | f4 a2 g2 | f6 e2 |
+% The mold of your life is in your hands to break
+| d4 d2 e2 | f4 f2 a2 | g4 a2 f2 | e6 B2 |
+
+% The greatest adventure is what lies ahead
+| e4 e2 d2 | e2 g4 e2 | f8 | e4 d4 | e8 |
+
+X: 20
+%%Orig filename was GreatestCowbell.abc
+T: The Greatest Adventure [cowbell] (1:45)
+C: The Hobbit (animated) - Rankin/Bass, Maury Laws, Glenn Yarbrough
+Z: Astleigh Mondegreen http://my.lotro.com/astleigh
+L: 1/8
+Q: 180
+K: E
+
++ppp+
+
+| z8 | z8 | z8 | z8 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z8 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+| z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 | z2 c2 z2 c2 |
+
+| z2 c2 z2 c2 | z2 c2 z2 c2 | c2 z6 | c2 z2 c2 z2 | c2 z6 |
+
+X: 5
+%%Orig filename was GreatestHarp.abc
+T: The Greatest Adventure [harp] (1:45)
+C: The Hobbit (animated) - Rankin/Bass, Maury Laws, Glenn Yarbrough
+Z: Astleigh Mondegreen http://my.lotro.com/astleigh
+L: 1/8
+Q: 180
+K: E
+
+%E | E, z B G [B,e] B G B | E, e B G [B,e] B G z |
+%C#m | C z e c [G,g] e c e | C g e c [G,g] e c z |
+%A | A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+%B7 | B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+
+%G | G, z d B [Dg] d B d |
+%D | D A d A [A,f] d A z |
+%A | A, A c A [E,e] c A z |
+%Bm | B, B d B [F,f] z z z |
+%B | B, B ^d B [F,f] d B z |
+
+| E, z B G [B,e] B G B | A, A c A [E,e] c A z |
+| E, z B G [B,e] B G B | B, F A d f z z z |
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+| B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+| E, z B G [B,e] B G B | E, e B G [B,e] B G z |
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+| B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+| B, z d A [F,f] d A d | E, e B G [B,e] z B, z |
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+| B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+| E, z B G [B,e] B G B | E, e B G [B,e] B G z |
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+| B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+| B, z d A [F,f] d A d | E, e B G [B,e] z z z |
+
+K: D
+
+| G, z d B [Dg] d B d | D A d A [A,f] d A z |
+| G, z d B [Dg] d B d | D A d A [A,f] z z z |
+| G, z d B [Dg] d B d | D A d A [A,f] d A z |
+| A, A c A [E,e] c A z | B, B d B [F,f] z z z |
+
+| G, z d B [Dg] d B d | D A d A [A,f] d A z |
+| G, z d B [Dg] d B d | D A d A [A,f] z z z |
+| G, z d B [Dg] d B d | D A d A [A,f] d A z |
+| A, A c A [E,e] c A z | B, B ^d B [F,f] d B d |
+
+| B, B ^d B [F,f] d B z |
+
+K: E
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+| B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+| E, z B G [B,e] B G B | E, e B G [B,e] B G z |
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | A, f c A [E,f] c A z |
+| B, z c A [F,f] c A c | B, f c A [F,f] c A z |
+| B, z d A [F,f] d A d | E, e B G [B,e] z B, z |
+
+| E, z B G [B,e] B G B | C z e c [G,g] e c e |
+| A, A c A [E,f] c A c | [B,e] B F B [B,d] B F B |
+
+| E, G B G [B,e] B G B | A, A c A [E,e] c A z |
+| E, G B G [B,e] B G B | E,/B,/E/G/B/e/ |
+

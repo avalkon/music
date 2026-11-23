@@ -1,0 +1,1521 @@
+N: TS  8,   8   3   1   5  12  21  18  15
+X: 8
+%%Orig filename was Victory2Bass.abc
+T: Victory v2 (multi) (5:21) - Basic Theorbo (6)
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mp+ D2 z D D D D D |
+D2 z D D D D D |
+C2 z C C C C C |
+C2 z C C C C C |
+G,2 z G, G, G, G, G, |
+G,2 z G, G, G, G, G, |
+^A,2 z A, A, A, A, A, |
+^A,2 z A, A, A, A, A, |
+D2 z D D D D D |
+% Bar 10 (0:18)
+D2 z D D D D D |
+F2 z F F F F F |
+F2 z F F F F F |
+C2 z C C C C C |
+C2 z C C C C C |
+A,2 z A, A, A, A, A, |
+A,2 z A, A, A, A, A, |
++ff+ ^A,8 |
++f+ ^A, A, A, +ff+ A, A, +f+ A, +ff+ C +f+ C |
++ff+ D8 |
+% Bar 20 (0:38)
++f+ D D D +ff+ D D +f+ D +ff+ F +f+ F |
++ff+ ^A,8 |
++f+ ^A, A, A, +ff+ A, A, +f+ A, +ff+ C +f+ C |
++ff+ D8 |
++f+ D D D +ff+ D D +f+ D +ff+ F +f+ F |
++ff+ ^A,8 |
++f+ ^A, A, A, +ff+ A, A, +f+ A, +ff+ C +f+ C |
++ff+ D8 |
++f+ D D D +ff+ D D +f+ D +ff+ F +f+ F |
++ff+ ^A,8 |
+% Bar 30 (0:58)
+G, +f+ G, G, +ff+ G, G, +f+ G, +ff+ G, +f+ G, |
++ff+ A,8 |
+A, +f+ A, A, A, +ff+ A, +f+ A, +ff+ A, +f+ A, |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+% Bar 40 (1:18)
+G,8 |
+D6 D E |
+F2 F3 F F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+G,2 G,2 G,2 G,2 |
+^A,8- |
+% Bar 50 (1:38)
+^A,4 C4 |
+D8- |
+D4 F4 |
+^A,8- |
+^A,4 C4 |
+D8 |
+A4 G2 F2 |
+^A,8- |
+^A,4 C4 |
+D8- |
+% Bar 60 (1:58)
+D4 F4 |
+^A,8- |
+^A,4 G,4 |
+A,8- |
+A,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+% Bar 70 (2:18)
+F6 F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F2 F3 F F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+% Bar 80 (2:38)
+G,2 G,2 G,2 G,2 |
+^A,8- |
+^A,4 C4 |
+D8- |
+D4 F4 |
+^A,8- |
+^A,4 C4 |
+D8 |
+A4 G2 F2 |
+^A,8- |
+% Bar 90 (2:58)
+^A,4 C4 |
+D8- |
+D4 F4 |
+^A,8- |
+^A,4 G,4 |
+A,8- |
+A,8 |
+D3 D D D D D |
+D3 D D D D D |
+C3 C C C C C |
+% Bar 100 (3:18)
+C3 C C C C C |
++mp+ F3 F F F F F |
+F3 F F F F F |
+^A3 A A A A A |
+^D3 D D D D D |
+F3 F F F F F |
+F3 F F F F F |
+^D3 D D D D D |
+^D3 D D D D D |
+C3 C C C C C |
+% Bar 110 (3:38)
+C3 C C C C C |
+F3 F +mf+ F F F F |
+F3 +f+ F F F F F |
+^D6 D F |
+^F6 F2 |
+^C6 B, ^A, |
+^G,8 |
+^D6 D F |
+^F6 F2 |
+^C6 B, ^A, |
+% Bar 120 (3:58)
+^G,8 |
+^D6 D F |
+^F2 F3 F F2 |
+^C6 B, ^A, |
+^G,8 |
+^D6 D F |
+^F6 F2 |
+^C6 B, ^A, |
+^G,2 G,2 G,2 G,2 |
+B,8- |
+% Bar 130 (4:18)
+B,4 ^C4 |
+^D8- |
+^D4 ^F4 |
+B,8- |
+B,4 ^C4 |
+^D8 |
+^A4 ^G2 ^F2 |
+B,8- |
+B,4 ^C4 |
+^D8- |
+% Bar 140 (4:38)
+^D4 ^F4 |
+B,8- |
+B,4 ^G,4 |
+^A,8- |
+^A,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (5:18)
+z8 |
+z3 |]
+
+X: 3
+%%Orig filename was Victory2Clar.abc
+T: Victory v2 (multi) (5:21) - Basic Clarinet
+%%part-name Basic Clarinet
+%%made-for Basic Clarinet
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mp+ z3 D, F, D, F, D, |
+z3 D, F, D, F, D, |
+z3 C, F, C, F, C, |
+z3 C, E, C, E, C, |
+z3 D, ^A, D, A, D, |
+z3 D, ^A, D, A, D, |
+z3 F, ^A, F, A, F, |
+z3 F, D C ^A, =A, |
+z3 D, A, D, A, D, |
+% Bar 10 (0:18)
+z3 D, A, D, A, D, |
+z3 F, A, F, A, F, |
+z3 A, C ^A, =A, G, |
+z3 C, G, C, G, C, |
+z3 C, G, G, F, E, |
+z3 C, E, C, E, C, |
+z3 C, G, G, F, E, |
+z3 +f+ D, F, D, F, D, |
+z3 D, F, C, F, E, |
+z3 D, F, D, F, D, |
+% Bar 20 (0:38)
+z3 D, F, C, F, E, |
+z3 D, F, D, F, D, |
+z3 D, G, C, F, E, |
+z3 D, A, D, A, D, |
+F, F, F, F, A, F, G, F, |
+z3 D, F, D, F, D, |
+z3 D, F, C, F, E, |
+z3 D, A, D, A, D, |
+F, F, F, F, C F, ^A, =A, |
+z3 D, F, D, F, D, |
+% Bar 30 (0:58)
+z3 G, ^A, G, A, G, |
+z3 D, A, D, A, D, |
+z3 ^C, A, C, C, A, |
+z3 A, F E D C |
+A,2 C2 A,2 A, F, |
+G,2 C,2 C,2 G, C, |
+^A,2 =A,2 G,2 F,2 |
+D,3 A, F E D C |
+A,2 C2 C2 C F |
+G2 C2 C2 F A |
+% Bar 40 (1:18)
+G2 D2 D2 C2 |
+D3 A, F E D C |
+A,2 C2 A,2 A, F, |
+G,2 C,2 C,2 G, C, |
+^A,2 C2 D2 E2 |
+D3 A, F E F G |
+A2 C2 A ^A =A F |
+G3 F E2 C2 |
+^A,4 D2 E2 |
+D3 D F D E D |
+% Bar 50 (1:38)
+z3 C E D F E |
+z3 D F D E D |
+z3 C A C F E |
+z3 D F D E D |
+z3 D G C F E |
+z3 D A C G F/ G/ |
+A4 ^A2 c2 |
+D3 D F D E D |
+z3 C E D F E |
+z3 D F D E D |
+% Bar 60 (1:58)
+z3 F c F ^A =A |
+z3 D F D E D |
+z3 G ^A G A G |
+z3 D A D A D |
+z3 ^C A C C A |
+z3 A f e d c |
+A2 c2 A2 A F |
+G2 C2 C2 G C |
+^A2 =A2 G2 F2 |
+D3 A f e d c |
+% Bar 70 (2:18)
+A2 c2 c2 c f |
+g2 c2 c2 f a |
+g2 d2 d2 c2 |
+d3 A f e d c |
+A2 c2 A2 A F |
+G2 C2 C2 G C |
+^A2 c2 d2 e2 |
+d3 A f e f g |
+a2 c2 a ^a =a f |
+g3 f e2 c2 |
+% Bar 80 (2:38)
+^A4 d2 e2 |
+D3 D F D E D |
+z3 C E D F E |
+z3 D F D E D |
+z3 C A C F E |
+z3 D F D E D |
+z3 D G C F E |
+z3 D A C G F/ G/ |
+A4 ^A2 c2 |
+D3 D F D E D |
+% Bar 90 (2:58)
+z3 C E D F E |
+z3 F A F A F |
+z3 F c F ^A =A |
+z3 D F D E D |
+z3 G ^A G A G |
+z3 D A D A D |
+z3 ^C A C C A |
+z3 +mf+ D,3 E,2 |
+F,2 A,2 D2 F2 |
+G8 |
+% Bar 100 (3:18)
+C8 |
+z3 +f+ F,3 G,2 |
+^G,2 C2 F2 ^G2 |
+^A8 |
+^D6 ^A c |
+^c8 |
+c4 F4 |
+^A8- |
+^A2 A2 A2 ^G ^F |
+F8 |
+% Bar 110 (3:38)
+C8 |
+^D7 =D/ ^D/ |
+D8 |
+z3 ^A ^f =f ^d ^c |
+^A2 ^c2 A2 A ^F |
+^G2 ^C2 C2 G C |
+B2 ^A2 ^G2 ^F2 |
+^D3 ^A ^f =f ^d ^c |
+^A2 ^c2 c2 c ^f |
+^g2 ^c2 c2 ^f ^a |
+% Bar 120 (3:58)
+^g2 ^d2 d2 ^c2 |
+^d3 ^A ^f =f d ^c |
+^A2 ^c2 A2 A ^F |
+^G2 ^C2 C2 G C |
+B2 ^c2 ^d2 f2 |
+^d3 ^A ^f =f ^f ^g |
+^a2 ^c2 a b a ^f |
+^g3 ^f =f2 ^c2 |
+B4 ^f2 =f2 |
+z4 [^D2^d2] [^C^c] [^A,^A-] |
+% Bar 130 (4:18)
+[^A,4^A4] [^G,2^G2] [A,A] [B,B] |
+[^A,8^A8] |
+[^A,2^A2] [^G,^G] [^F,2^F2] [G,G] [F,F] [=F,=F] |
+[^D,4^D4] [^F,2^F2] [=F,=F] [D,D-] |
+[^D,4^D4] [^G,2^G2] [^A,^A] [B,B] |
+[^A,8-^A8-] |
+[^A,8^A8] |
+z4 [^F2^f2] [=F=f] [^D^d-] |
+[^D4^d4] [^C2^c2] [Dd] [Ff] |
+[^F8^f8] |
+% Bar 140 (4:38)
+[^A2^a2] [^G^g] [^F2^f2] [Gg] [Ff] [=F=f] |
+[^D4^d4] [^F2^f2] [=F=f] [Dd-] |
+[^D4^d4] [^G2^g2] [^A^a] [Bb] |
+[^A8-^a8-] |
+[^A8^a8] |
+z3 +p+ ^D, ^F, D, F, D, |
+z3 ^D, ^F, D, F, D, |
+z3 ^C, ^F, C, F, C, |
+z3 ^C, F, C, F, C, |
+z3 ^D, B, D, B, D, |
+% Bar 150 (4:58)
+z3 ^D, B, D, B, D, |
+z3 ^F, B, F, B, F, |
+z3 ^F, ^D ^C B, ^A, |
+z3 ^D, ^F, D, F, D, |
+z3 ^D, ^F, D, F, D, |
+z3 ^F, ^A, F, A, F, |
+z3 ^A, ^C B, A, ^G, |
+z3 ^C, ^G, C, G, C, |
+z3 ^C, ^G, G, ^F, =F, |
+z3 ^C, F, C, F, C, |
+% Bar 160 (5:18)
+z3 ^C, ^G, G, ^F, =F, |
+z3 |]
+
+X: 1
+%%Orig filename was Victory2Flute.abc
+T: Victory v2 (multi) (5:21) - Basic Flute (7)
+%%part-name Basic Flute (7)
+%%made-for Basic Flute
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++p+ D D D D F D F D |
+z3 D F D F D |
+z3 C F C F C |
+z3 C E C E C |
+z3 D ^A D A D |
+z3 D ^A D A D |
+z3 F ^A F A F |
+z3 F d c ^A =A |
+z3 D F D F D |
+% Bar 10 (0:18)
+z3 D F D F D |
+z3 C A C A C |
+z3 A c ^A =A G |
+z3 C G C G C |
+z3 C G G F E |
+z3 C E C E C |
+z3 C G C F E |
+z3 +mf+ D F D F D |
+z3 D F C F E |
+z3 D F D F D |
+% Bar 20 (0:38)
+z3 D F F F E |
+z3 D F D F D |
+z3 D G G F E |
+z3 D F D F D |
+F F F F A F G F |
+z3 D F D F D |
+z3 D F F F E |
+z3 D F D F D |
+F F F F c F ^A =A |
+z3 D F D F D |
+% Bar 30 (0:58)
+z3 G ^A G A G |
+z3 D A D A D |
+z3 ^C A A C A |
+D2 z D D D D/ z/ E/ z/ |
+F2 z F F F F F |
+C2 z C C C ^A,/ z/ =A,/ z/ |
+G,2 z G, G, G, G,/ z/ G,/ z/ |
+D2 z D D D D/ z/ E/ z/ |
+F2 z F F F F F |
+C2 z C C C ^A,/ z/ =A,/ z/ |
+% Bar 40 (1:18)
+G,2 z G, G, G, G,/ z/ G,/ z/ |
+F2 z D D D D/ z/ E/ z/ |
+F2 z F F F F F |
+C2 z C C C ^A,/ z/ =A,/ z/ |
+G,2 z G, G, G, G,/ z/ G,/ z/ |
+D3 D D D D/ z/ E/ z/ |
+F3 F F F F2 |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,2 G,2 G,2 G,2 |
+d3 d f d e d- |
+% Bar 50 (1:38)
+d3 c/ d/ e3 d/ e/ |
+f8- |
+f3 f/ g/ a4 |
+d8- |
+d3 c/ d/ e3 d/ e/ |
+f7 f/ g/ |
+a4 ^a2 c'2 |
+d8- |
+d3 c/ d/ e3 d/ e/ |
+f8- |
+% Bar 60 (1:58)
+f3 f/ f/ c'4 |
+d8- |
+d4 g4 |
+a8 |
+^c8 |
+z3 A f e d c |
+A2 c2 A2 A F |
+G2 C2 C2 G C |
+^A2 =A2 G2 F2 |
+D3 A f e d c |
+% Bar 70 (2:18)
+A2 c2 c2 c f |
+g2 c2 c2 f a |
+g2 d2 d2 c2 |
+d3 A f e d c |
+A2 c2 A2 A F |
+G2 C2 C2 G C |
+^A2 c2 d2 e2 |
+d3 A f e f g |
+a2 c2 a ^a =a f |
+g3 f e2 c2 |
+% Bar 80 (2:38)
+^A4 d2 e2 |
+d3 d f d e d- |
+d3 c/ d/ e3 d/ e/ |
+f8- |
+f3 f/ g/ a4 |
+d8- |
+d3 c/ d/ e3 d/ e/ |
+f7 f/ g/ |
+a4 ^a2 c'2 |
+d8- |
+% Bar 90 (2:58)
+d3 c/ d/ e3 d/ e/ |
+f8- |
+f3 f/ f/ c'4 |
+d8- |
+d4 g4 |
+a8 |
+^c8 |
+D D D D D D D D |
+D D D D D D D D |
+F F F F F F F F |
+% Bar 100 (3:18)
+E E E E E E E E |
++p+ ^G G G G G G G G |
+^G G G G G G G G |
+^D D D D D D D D |
+G G G G G G G G |
+^A, A, A, A, A, A, A, A, |
+^A, A, A, A, A, A, A, A, |
+^D D D D D D D D |
+^D D D D D D D D |
+F F F F F F F F |
+% Bar 110 (3:38)
+F F F F F F F F |
+^D D D +mp+ D D D D D |
+D D +mf+ D D D D D D |
+z3 ^A ^f =f ^d ^c |
+^A2 ^c2 A2 A ^F |
+^G2 ^C2 C2 G C |
+B2 ^A2 ^G2 ^F2 |
+^D3 ^A ^f =f ^d ^c |
+^A2 ^c2 c2 c ^f |
+^g2 ^c2 c2 ^f ^a |
+% Bar 120 (3:58)
+^g2 ^d2 d2 ^c2 |
+^d3 ^A ^f =f d ^c |
+^A2 ^c2 A2 A ^F |
+^G2 ^C2 C2 G C |
+B2 ^c2 ^d2 f2 |
+^d3 ^A ^f =f ^f ^g |
+^a2 ^c2 a b a ^f |
+^g3 ^f =f2 ^c2 |
+B4 ^d2 f2 |
+^d3 d ^f d =f d- |
+% Bar 130 (4:18)
+^d3 ^c/ d/ f3 d/ f/ |
+^f8- |
+^f3 f/ ^g/ ^a4 |
+^d8- |
+^d3 ^c/ d/ f3 d/ f/ |
+^f7 f/ ^g/ |
+^a4 b2 z2 |
+^d8- |
+^d3 ^c/ d/ f3 d/ f/ |
+^f8- |
+% Bar 140 (4:38)
+^f3 f/ f/ z4 |
+^d8- |
+^d4 ^g4 |
+^a8 |
+d8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (5:18)
+z8 |
+z3 |]
+
+X: 5
+%%Orig filename was Victory2Harp.abc
+T: Victory v2 (multi) (5:21) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ d7- d2/3 z/3 |
++mp+ d7- d2/3 z/3 |
+c7- c2/3 z/3 |
+c7- c2/3 z/3 |
+G7- G2/3 z/3 |
+g7- g2/3 z/3 |
+^a8- |
+^a29/4 z3/4 |
+d7- d2/3 z/3 |
+% Bar 10 (0:18)
+d7- d2/3 z/3 |
+f7- f2/3 z/3 |
+a7- a2/3 z/3 |
+c7- c2/3 z/3 |
+c7- c2/3 z/3 |
+A7- A2/3 z/3 |
+A7- A2/3 z/3 |
++f+ [^A,8^A8] |
+z3 +ff+ [^A,^A] [A,A] +f+ [A,A] +ff+ [Cc] +f+ [Cc] |
++ff+ [D8d8] |
+% Bar 20 (0:38)
+z3 [Dd] [Dd] +f+ [Dd] +ff+ [Ff] +f+ [Ff] |
++ff+ [^A,8^A8] |
+z3 [^A,^A] [A,A] +f+ [A,A] +ff+ [Cc] +f+ [Cc] |
++ff+ [D8d8] |
+z3 [Ff] [Ff] +f+ [Ff] +ff+ [Ff] +f+ [Ff] |
++ff+ [^A,8^A8] |
+z3 [^A,^A] [A,A] +f+ [A,A] +ff+ [Cc] +f+ [Cc] |
++ff+ [D8d8] |
+z3 [Dd] [Dd] +f+ [Dd] +ff+ [Ff] +f+ [Ff] |
++ff+ [^A,8^A8] |
+% Bar 30 (0:58)
+[G,G] +f+ [G,G] [G,G] [G,G] +ff+ [G,G] +f+ [G,G] +ff+ [G,G] +f+ [G,G] |
++ff+ [A,8A8] |
+z3 [A,A] [A,A] +f+ [A,A] +ff+ [A,A] +f+ [A,A] |
+[D5-d5-] [D2/3d2/3] z/3 [Dd] [Ee] |
+[F5-f5-] [F2/3f2/3] z/3 [F2f2] |
+[C5-c5-] [C2/3c2/3] z/3 [^A,^A] [=A,=A] |
+[G,7-G7-] [G,2/3G2/3] z/3 |
+[D5-d5-] [D2/3d2/3] z/3 [Dd] [Ee] |
+[F5-f5-] [F2/3f2/3] z/3 [F2f2] |
+[C5-c5-] [C2/3c2/3] z/3 [^A,^A] [=A,=A] |
+% Bar 40 (1:18)
+[G,7-G7-] [G,2/3G2/3] z/3 |
+[D5-d5-] [D2/3d2/3] z/3 [Dd] [Ee] |
+[F2f2] [F11/4f11/4] z// [Ff] [F2f2] |
+[C5-c5-] [C2/3c2/3] z/3 [^A,^A] [=A,=A] |
+[G,7-G7-] [G,2/3G2/3] z/3 |
+[D5-d5-] [D2/3d2/3] z/3 [Dd] [Ee] |
+[F5-f5-] [F2/3f2/3] z/3 [F2f2] |
+[C5-c5-] [C2/3c2/3] z/3 [^A,^A] [=A,=A] |
+[G,2G2] [G,2G2] [G,2G2] [G,2G2] |
+[^A,8-^A8-] |
+% Bar 50 (1:38)
+[^A,3-^A3-] [A,/3A/3] z2/3 [C15/4c15/4] z// |
+[D8-d8-] |
+[D3-d3-] [D/3d/3] z2/3 [F15/4f15/4] z// |
+[^A,8-^A8-] |
+[^A,3-^A3-] [A,/3A/3] z2/3 [C15/4c15/4] z// |
+[D7-d7-] [D2/3d2/3] z/3 |
+[F15/4a15/4] z// [G2g2] [^A2f2] |
+[^A,8-^A8-] |
+[^A,3-^A3-] [A,/3A/3] z2/3 [C15/4c15/4] z// |
+[D8-d8-] |
+% Bar 60 (1:58)
+[D3-d3-] [D/3d/3] z2/3 [F15/4f15/4] z// |
+[^A,8-^A8-] |
+[^A,3-^A3-] [A,/3A/3] z2/3 [G,15/4G15/4] z// |
+[A,8-A8-] |
+[A,29/4A29/4] z3/4 |
+[D11/4d11/4] z// d d d [D/d/] z/ [E/e/] z/ |
+[F11/4f11/4] z// f f f [F2f2] |
+[C11/4c11/4] z// c c c [^A,/^A/] z/ [=A,/=A/] z/ |
+[G,2G2] ^a2/3 =a2/3 f2/3 g2/3 f2/3 ^A2/3 =A2/3 F2/3 D2/3 |
+[D11/4d11/4] z// d d d [D/d/] z/ [E/e/] z/ |
+% Bar 70 (2:18)
+[F11/4f11/4] z// f f f [F2f2] |
+[C11/4c11/4] z// c c c [^A,/^A/] z/ [=A,/=A/] z/ |
+[G,11/4G11/4] z// G G G [G,/G/] z/ [G,/G/] z/ |
+[D11/4d11/4] z// d d d [D/d/] z/ [E/e/] z/ |
+a2 f2 f2 f c |
+c11/4 z// c c c ^A/ z/ =A/ z/ |
+[G,2G2] G2 G G [G,/G/] z/ [G,/G/] z/ |
+[D11/4d11/4] z// d d d [D/d/] z/ [E/e/] z/ |
+[F11/4f11/4] z// f f f [F2f2] |
+[C11/4c11/4] z// c c c [^A,/^A/] z/ [=A,/=A/] z/ |
+% Bar 80 (2:38)
+[G,11/4G11/4] z// G G G [G,/G/] z/ [G,/G/] z/ |
+[^A,8-^A8-] |
+[^A,3-^A3-] [A,/3A/3] z2/3 [C15/4c15/4] z// |
+[D8-d8-] |
+[D3-d3-] [D/3d/3] z2/3 [F15/4f15/4] z// |
+[^A,8-^A8-] |
+[^A,3-^A3-] [A,/3A/3] z2/3 [C15/4c15/4] z// |
+[D7-d7-] [D2/3d2/3] z/3 |
+[F15/4a15/4] z// [G2g2] [^A2f2] |
+[^A,8-^A8-] |
+% Bar 90 (2:58)
+[^A,3-^A3-] [A,/3A/3] z2/3 [C15/4c15/4] z// |
+[D8-d8-] |
+[D3-d3-] [D/3d/3] z2/3 [F15/4f15/4] z// |
+[^A,8-^A8-] |
+[^A,3-^A3-] [A,/3A/3] z2/3 [G,15/4G15/4] z// |
+[A,8-A8-] |
+[A,29/4A29/4] z3/4 |
+d7- d2/3 z/3 |
+d7- d2/3 z/3 |
+c7- c2/3 z/3 |
+% Bar 100 (3:18)
+c7- c2/3 z/3 |
++mf+ c7- c2/3 z/3 |
+c7- c2/3 z/3 |
+^d7- d2/3 z/3 |
+^d7- d2/3 z/3 |
+f7- f2/3 z/3 |
+f7- f2/3 z/3 |
+^d7- d2/3 z/3 |
+^d7- d2/3 z/3 |
+f7- f2/3 z/3 |
+% Bar 110 (3:38)
+f7- f2/3 z/3 |
+^a7- a2/3 z/3 |
++f+ ^a7- a2/3 z/3 |
+[^D11/4^d11/4] z// d d d [D/d/] z/ [F/f/] z/ |
+[^F11/4^f11/4] z// f f f [F2f2] |
+[^C11/4^c11/4] z// c c c [B,/B/] z/ [^A,/^A/] z/ |
+[^G,2^G2] b2/3 ^a2/3 ^f2/3 ^g2/3 f2/3 B2/3 ^A2/3 ^F2/3 ^D2/3 |
+[^D11/4^d11/4] z// d d d [D/d/] z/ [F/f/] z/ |
+[^F11/4^f11/4] z// f f f [F2f2] |
+[^C11/4^c11/4] z// c c c [B,/B/] z/ [^A,/^A/] z/ |
+% Bar 120 (3:58)
+[^G,11/4^G11/4] z// G G G [G,/G/] z/ [G,/G/] z/ |
+[^D11/4^d11/4] z// d d d [D/d/] z/ [F/f/] z/ |
+^a2 ^f2 f2 f ^c |
+^c11/4 z// c c c B/ z/ ^A/ z/ |
+[^G,2^G2] G2 G G [G,/G/] z/ [G,/G/] z/ |
+[^D11/4^d11/4] z// d d d [D/d/] z/ [F/f/] z/ |
+[^F11/4^f11/4] z// f f f [F2f2] |
+[^C11/4^c11/4] z// c c c [B,/B/] z/ [^A,/^A/] z/ |
+[^G,11/4^G11/4] z// G G G [G,/G/] z/ [G,/G/] z/ |
+[B,8-B8-] |
+% Bar 130 (4:18)
+[B,3-B3-] [B,/3B/3] z2/3 [^C15/4^c15/4] z// |
+[^D8-^d8-] |
+[^D3-^d3-] [D/3d/3] z2/3 [^F15/4^f15/4] z// |
+[B,8-B8-] |
+[B,3-B3-] [B,/3B/3] z2/3 [^C15/4^c15/4] z// |
+[^D7-^d7-] [D2/3d2/3] z/3 |
+[^F15/4^a15/4] z// [^G2^g2] [B2^f2] |
+[B,8-B8-] |
+[B,3-B3-] [B,/3B/3] z2/3 [^C15/4^c15/4] z// |
+[^D8-^d8-] |
+% Bar 140 (4:38)
+[^D3-^d3-] [D/3d/3] z2/3 [^F15/4^f15/4] z// |
+[B,8-B8-] |
+[B,3-B3-] [B,/3B/3] z2/3 [^G,15/4^G15/4] z// |
+[^A,8-^A8-] |
+[^A,29/4^A29/4] z3/4 |
+^d7- d2/3 z/3 |
++p+ ^d7- d2/3 z/3 |
+^c7- c2/3 z/3 |
+^c7- c2/3 z/3 |
+^G7- G2/3 z/3 |
+% Bar 150 (4:58)
+^g7- g2/3 z/3 |
+b8- |
+b29/4 z3/4 |
+^d7- d2/3 z/3 |
+^d7- d2/3 z/3 |
+^f7- f2/3 z/3 |
+^f7- f2/3 z/3 |
+^c7- c2/3 z/3 |
+^c7- c2/3 z/3 |
+^A8- |
+% Bar 160 (5:18)
+^A29/4 z3/4 |
+z3 |]
+
+X: 12
+%%Orig filename was Victory2Lonely.abc
+T: Victory v2 (multi) (5:21) - Lonely Mountain Fiddle (5)
+%%part-name Lonely Mountain Fiddle (5)
+%%made-for Lonely Mountain Fiddle
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++pp+ D D D D D D D D |
+D D D D D D D D |
+C C C C C C C C |
+C C C C C C C C |
+G, G, G, G, G, G, G, G, |
+G, G, G, G, G, G, G, G, |
+^A, A, A, A, A, A, A, A, |
+^A, A, A, A, A, A, A, A, |
+D D D D D D D D |
+% Bar 10 (0:18)
+D D D D D D D D |
+F F F F F F F F |
+F F F F F F F F |
+C C C C C C C C |
+C C C C C C C C |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
++mf+ ^A,3 +mp+ A, +mf+ A, +mp+ A, +mf+ A, +mp+ A, |
+z3 +mf+ ^A, A, +mp+ A, +mf+ C +mp+ C |
++mf+ D3 +mp+ D +mf+ D +mp+ D +mf+ D +mp+ D |
+% Bar 20 (0:38)
+z3 +mf+ D D +mp+ D +mf+ F +mp+ F |
++mf+ ^A,3 +mp+ A, +mf+ A, +mp+ A, +mf+ A, +mp+ A, |
+z3 +mf+ ^A, A, +mp+ A, +mf+ C +mp+ C |
++mf+ D3 +mp+ D +mf+ D +mp+ D +mf+ D +mp+ D |
+z3 +mf+ F F +mp+ F +mf+ F +mp+ F |
++mf+ ^A,3 +mp+ A, +mf+ A, +mp+ A, +mf+ A, +mp+ A, |
+z3 +mf+ ^A, A, +mp+ A, +mf+ C +mp+ C |
++mf+ D3 +mp+ D +mf+ D +mp+ D +mf+ D +mp+ D |
+z3 +mf+ F F +mp+ F +mf+ F +mp+ F |
++mf+ ^A,3 +mp+ A, +mf+ A, +mp+ A, +mf+ A, +mp+ A, |
+% Bar 30 (0:58)
++mf+ G, +mp+ G, G, G, +mf+ G, +mp+ G, +mf+ G, +mp+ G, |
++mf+ A,3 +mp+ A, +mf+ A, +mp+ A, +mf+ A, +mp+ A, |
+z3 +mf+ A, A, +mp+ A, +mf+ A, +mp+ A, |
+D3 D D D D/ z/ E/ z/ |
+F3 F F F F2 |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,3 G, G, G, G,/ z/ G,/ z/ |
+D3 D D D D/ z/ E/ z/ |
+F3 F F F F2 |
+C3 C C C ^A,/ z/ =A,/ z/ |
+% Bar 40 (1:18)
+G,3 G, G, G, G,/ z/ G,/ z/ |
+D3 D D D D/ z/ E/ z/ |
+F2 F3 F F F |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,3 G, G, G, G,/ z/ G,/ z/ |
+D3 D D D D/ z/ E/ z/ |
+F3 F F F F2 |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,2 G,2 G,2 G,2 |
+d d d d f d e d- |
+% Bar 50 (1:38)
+d3 c/ d/ e3 d/ e/ |
+f8- |
+f3 f/ g/ a4 |
+d8- |
+d3 c/ d/ e3 d/ e/ |
+f7 f/ g/ |
+a4 ^a2 c'2 |
+d8- |
+d3 c/ d/ e3 d/ e/ |
+f8- |
+% Bar 60 (1:58)
+f3 f/ f/ c'4 |
+d8- |
+d8 |
+a8 |
+^c8 |
+D3 D D D D/ z/ E/ z/ |
+F3 F F F F C |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,3 G, G, G, A,/ z/ E,/ z/ |
+D3 D D D A/ z/ E/ z/ |
+% Bar 70 (2:18)
+F3 F F F A2 |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,3 G, G, G, A,/ z/ C/ z/ |
+D3 D D D D/ z/ E/ z/ |
+A2 F3 F F C |
+C3 C C C ^A,/ z/ =A,/ z/ |
+G,3 E, E, E, G,/ z/ G,/ z/ |
+D3 D D D D/ z/ E/ z/ |
+F3 A A F F2 |
+C3 C C C ^A,/ z/ =A,/ z/ |
+% Bar 80 (2:38)
+G,2 G,2 G,2 G,2 |
+d d d d f d e d- |
+d3 c/ d/ e3 d/ e/ |
+f8- |
+f3 f/ g/ a4 |
+d8- |
+d3 c/ d/ e3 d/ e/ |
+f7 f/ g/ |
+a4 ^a2 c'2 |
+d8- |
+% Bar 90 (2:58)
+d3 c/ d/ e3 d/ e/ |
+f8- |
+f3 f/ f/ c'4 |
+d8- |
+d8 |
+a8 |
+^c8 |
+D D D D D D D D |
+D D D D D D D D |
+C C C C C C C C |
+% Bar 100 (3:18)
+C C C C C C C C |
++pp+ ^G G G G G G G G |
+^G G G G G G G G |
+^D D D D D D D D |
+G G G G G G G G |
+^A, A, A, A, A, A, A, A, |
+^A, A, A, A, A, A, A, A, |
+^D D D D D D D D |
+^D D D D D D D D |
+F F F F F F F F |
+% Bar 110 (3:38)
+F F F F F F F F |
+^D D D +p+ D D D D D |
+D D +mp+ D D D D D D |
+^D3 D D D D/ z/ F/ z/ |
+^F3 F F F F ^C |
+^C3 C C C B,/ z/ ^A,/ z/ |
+^G,3 G, G, G, ^A,/ z/ F,/ z/ |
+^D3 D D D ^A/ z/ F/ z/ |
+^F3 F F F ^A2 |
+^C3 C C C B,/ z/ ^A,/ z/ |
+% Bar 120 (3:58)
+^G,3 G, G, G, ^A,/ z/ ^C/ z/ |
+^D3 D D D D/ z/ F/ z/ |
+^A2 ^F3 F F ^C |
+^C3 C C C B,/ z/ ^A,/ z/ |
+^G,3 F, F, F, G,/ z/ G,/ z/ |
+^D3 D D D D/ z/ F/ z/ |
+^F3 ^A A F F2 |
+^C3 C C C B,/ z/ ^A,/ z/ |
+^G,2 G,2 G,2 G,2 |
+^D D D D ^F D =F D- |
+% Bar 130 (4:18)
+^D3 ^C/ D/ F3 D/ F/ |
+^F8- |
+^F3 F/ ^G/ ^A4 |
+^D8- |
+^D3 ^C/ D/ F3 D/ F/ |
+^F7 F/ ^G/ |
+^A4 B2 ^c2 |
+^D8- |
+^D3 ^C/ D/ F3 D/ F/ |
+^F8- |
+% Bar 140 (4:38)
+^F3 F/ F/ ^c4 |
+^D8- |
+^D8 |
+^A,8 |
+D8 |
++ppp+ ^D D D D D D D D |
+^D D D D D D D D |
+^C C C C C C C C |
+^C C C C C C C C |
+^G, G, G, G, G, G, G, G, |
+% Bar 150 (4:58)
+^G, G, G, G, G, G, G, G, |
+B, B, B, B, B, B, B, B, |
+B, B, B, B, B, B, B, B, |
+^D D D D D D D D |
+^D D D D D D D D |
+^F F F F F F F F |
+^F F F F F F F F |
+^C C C C C C C C |
+^C C C C C C C C |
+^A, A, A, A, A, A, A, A, |
+% Bar 160 (5:18)
+^A, A, A, A, A, A, A, A, |
+z3 |]
+
+X: 21
+%%Orig filename was Victory2Lute.abc
+T: Victory v2 (multi) (5:21) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ z3 D F D F D |
+z3 D F D F D |
+z3 C F C F C |
+z3 C E C E C |
+z3 D ^A D A D |
+z3 D ^A D A D |
+z3 F ^A F A F |
+z3 F d c ^A =A |
+z3 D [FA] D [FA] D |
+% Bar 10 (0:18)
+z3 D [FA] D [FA] D |
+z3 [CF] A [CF] A [CF] |
+z3 [FA] c ^A =A [CG] |
+z3 [CE] G [CE] G [CE] |
+z3 [CE] G G F [A,E] |
+z3 [A,C] E [A,C] E [A,C] |
+z3 [CE] G G F [A,E] |
+z3 +ff+ D [DF] D [DF] D- |
+D11/4 z// D [CF] C [CF] E |
+D11/4 z// D [DF] D [DF] D- |
+% Bar 20 (0:38)
+D11/4 z// D [DF] C [DF] E |
+^A,11/4 z// D [DF] D [DF] D- |
+D11/4 z// D [DG] C [DF] E |
+D11/4 z// D [FA] D [FA] D- |
+D11/4 z// F [CA] C [C^A] [Cc] |
+[D11/4d11/4] z// d [df] d [df] d- |
+[D11/4d11/4] z// d [df] c [df] e |
+[A11/4d11/4] z// f [da] f [da] f- |
+[F11/4f11/4] z// f [cc'] f [g^a] =a |
+[D11/4d11/4] z// d [df] d [df] d |
+% Bar 30 (0:58)
+[^A,11/4^A11/4] z// g [g^a] g [ga] g |
+[A,11/4A11/4] z// d [da] d [da] d |
++fff+ [^C3^c3] +ff+ e [ea] [ea] [ea] [ea] |
+z3 [DFA] [Af] e d [Fc] |
+[C2A2] [A2c2] [C2A2] [FA] F |
+[E2G2] C2 C2 [EG] [G,C] |
+[G2^A2] [D2=A2] [^A,2G2] [D2F2] |
+D11/4 z// A [Af] e d [Fc] |
+A2 c2 c2 c f |
+[G2g2] c2 c2 f a |
+% Bar 40 (1:18)
+[^A2^a2] [=A2=a2] [G2g2] [F2f2] |
+[D11/4F11/4d11/4] z// A [Af] e d [Fc] |
+[C2A2] [A2c2] [C2A2] [FA] F |
+[E2G2] C2 C2 [EG] [G,C] |
+[^A,2D2^A2] [C2c2] [D2d2] [E2e2] |
+d11/4 z// A [Af] e f [cg] |
+[A2a2] [F2c2] [Aa] [^A^a] [=A=a] [Ff] |
+[G11/4g11/4] z// [Ff] [E2e2] [C2c2] |
+[^A,15/4G15/4^A15/4] z// [F2f2] [E2e2] |
+[D11/4^A11/4d11/4] z// [DFAd] [Ff] [Dd] [Ee] [DAd] |
+% Bar 50 (1:38)
+z3 [CAc] [Ee] [^Ad] [Ff] [Ece] |
+z3 [DFd] [Ff] [Dd] [Ee] [Dd] |
+z3 [Fc] [Aa] [Fc] [Ff] [Ee] |
+z3 D//- [D//-F//-^A//-] [D/F/A/d/] [Ff] [Dd] [Ee] [Dd] |
+z3 [^A,Fd] [^Ag] [Fc] [Ff] [Ee] |
+z3 [Dd] [Aa] [Cc] [Gg] f/ g/ |
+[A2a2] [A2f2a2] [^A2^a2] [c2f2] |
+[D11/4F11/4^A11/4d11/4] z// [Dd] [Ff] [Dd] [Ee] [Dd] |
+z3 [Cc] [Ce] [Dd] [Df] [Ee] |
+z3 [Dd] [Ff] [Dd] [Ee] [Dd] |
+% Bar 60 (1:58)
+z3 [Af] c [Af] [^A^a] [f=a] |
+z3 [Dd] [Ff] [Dd] [Ee] [Dd] |
+z3 [^Ag] [A^a] [Gg] [da] [Ag] |
+z3 [Dd] [Aa] [Dd] [Aa] [Dd] |
+z3 [^C^c] [Aa] [Cc] [Aa] [Cc] |
+[D11/4F11/4d11/4] z// D//- [D//-F//-A//-] [D/F/A/d/] f e d c |
+[A2a2] c2 [A2c2f2a2] [Aca] [Fc] |
+[G2c2g2] [C2G2c2] [C2G2c2] [Gg] [Cc] |
+[^A2^a2] [=A2=a2] [G2g2] [F2f2] |
+[D11/4F11/4d11/4] z// D//- [D//-F//-A//-] [D/F/A/d/] f e d c |
+% Bar 70 (2:18)
+[A2a2] c2 c2 c f |
+g2 c2 c2 f a |
+g2 d2 d2 c2 |
+[f11/4a11/4] z// [Aa] [Af] e d c |
+A2/3 G2/3 F2/3 c2/3 A2/3 F2/3 A2/3 G2/3 F2/3 A F |
+[C2G2] C2 C2 G C |
+^A2/3 G2/3 C2/3 c2/3 =A2/3 D2/3 d A [E2G2e2] |
+[D11/4F11/4d11/4] z// A [FAf] [Ee] [FAf] [Gg] |
+[A2a2] [C2F2c2] [Aa] [^A^a] [=A=a] [Ff] |
+[G11/4g11/4] z// [Ff] [E2e2] [C2c2] |
+% Bar 80 (2:38)
+[^A,15/4^A15/4] z// [D2d2] [E2e2] |
+[D11/4^A11/4d11/4] z// [DFAd] [Ff] [Dd] [Ee] [DAd] |
+z3 [CAc] [Ee] [^Ad] [Ff] [Ece] |
+z3 [DFd] [Ff] [Dd] [Ee] [Dd] |
+z3 [Fc] [Aa] [Fc] [Ff] [Ee] |
+z3 D//- [D//-F//-^A//-] [D/F/A/d/] [Ff] [Dd] [Ee] [Dd] |
+z3 [^A,Fd] [^Ag] [Fc] [Ff] [Ee] |
+z3 [Dd] [Aa] [Cc] [Gg] f/ g/ |
+[A2a2] [A2f2a2] [^A2^a2] [c2f2] |
+[D11/4F11/4^A11/4d11/4] z// [Dd] [Ff] [Dd] [Ee] [Dd] |
+% Bar 90 (2:58)
+z3 [Cc] [Ce] [Dd] [Df] [Ee] |
+z3 [Ff] [Aa] [Ff] [Aa] [Ff] |
+z3 [Af] c [Af] [^A^a] [f=a] |
+z3 [Dd] [Ff] [Dd] [Ee] [Dd] |
+z3 [^Ag] [A^a] [Gg] [da] [Ag] |
+z3 [Dd] [Aa] [Dd] [Aa] [Dd] |
+z3 [^C^c] [Aa] [Cc] [Aa] [Cc] |
+D D D D F D F D |
+D D D D F D F D |
+C C C C F C F C |
+% Bar 100 (3:18)
+C C C C E C E C |
++f+ C C C C ^G C G C |
+C C C C ^G C G C |
+^D D D D ^A D A D |
+^D D D D ^A ^G =G F |
+F F F F ^c F c F |
+F F F F c F c F |
+^D D D D ^A D A D |
+^D D D D ^A ^G ^F =F |
+F F F F ^A F A F |
+% Bar 110 (3:38)
+F F F F c F c F |
+^A A A A f A f +ff+ A |
+^A A A A f A f A |
+[^D11/4^F11/4^d11/4] z// D//- [D//-F//-^A//-] [D/F/A/d/] ^f =f d ^c |
+^A2 ^c2 [A2c2^f2] [Ac] [^Fc] |
+[^G2^c2^g2] [^C2G2c2] [C2G2c2] [Gg] [Cc] |
+B2 ^A2 [^G2^g2] [^F2^f2] |
+[^D11/4^F11/4^d11/4] z// D//- [D//-F//-^A//-] [D/F/A/d/] ^f =f d ^c |
+^A2 ^c2 c2 c ^f |
+^g2 ^c2 c2 ^f z |
+% Bar 120 (3:58)
+^g2 ^d2 d2 ^c2 |
+^f11/4 z// ^A [Af] =f ^d ^c |
+^A2/3 ^G2/3 ^F2/3 ^c2/3 A2/3 F2/3 A2/3 G2/3 F2/3 A F |
+[^C2^G2] C2 C2 G C |
+B2/3 ^G2/3 ^C2/3 ^c2/3 ^A2/3 ^D2/3 ^d A [F2G2f2] |
+[^D11/4^F11/4^d11/4] z// ^A [FA^f] [=F=f] [^FA^f] [^G^g] |
+[^A2^a2] [^C2^F2^c2] [Aa] [Bb] [Aa] [F^f] |
+[^G11/4^g11/4] z// [^F^f] [=F2=f2] [^C2^c2] |
+[B,15/4B15/4] z// [^F2^f2] [=F2=f2] |
+[^D11/4B11/4^d11/4] z// [D^FBd] [F^f] [Dd] [=F=f] [DBd] |
+% Bar 130 (4:18)
+z3 [^C^A^c] [Ff] [B^d] [^F^f] [=Fc=f] |
+z3 [^D^F^d] [F^f] [Dd] [=F=f] [Dd] |
+z3 [^F^c] [^A^a] [Fc] [F^f] [=F=f] |
+z3 ^D//- [D//-^F//-B//-] [D/F/B/^d/] [F^f] [Dd] [=F=f] [Dd] |
+z3 [B,^F^d] [B^g] [F^c] [F^f] [=F=f] |
+z3 [^D^d] [^A^a] [^C^c] [^G^g] ^f/ g/ |
+[^A2^a2] [A2^f2a2] [B2b2] [^c2f2] |
+[^D11/4^F11/4B11/4^d11/4] z// [Dd] [F^f] [Dd] [=F=f] [Dd] |
+z3 [^C^c] [Cf] [^D^d] [D^f] [F=f] |
+z3 [^F^f] [^A^a] [Ff] [Aa] [Ff] |
+% Bar 140 (4:38)
+z3 [^A^f] ^c [Af] [Bb] [f^a] |
+z3 [^D^d] [^F^f] [Dd] [=F=f] [Dd] |
+z3 [B^g] [Bb] [^Gg] [^db] [Bg] |
+z3 [^D^d] [^A^a] [Dd] [Aa] [Dd] |
+z3 [Dd] [^A^a] [Dd] [Aa] [Dd] |
+z3 +mp+ ^D ^F D F D |
+z3 ^D ^F D F D |
+z3 ^C ^F C F C |
+z3 ^C F C F C |
+z3 ^D B D B D |
+% Bar 150 (4:58)
+z3 ^D B D B D |
+z3 ^F B F B F |
+z3 ^F ^d ^c B ^A |
+z3 ^D ^F D F D |
+z3 ^D ^F D F D |
+z3 ^F ^A F A F |
+z3 ^A ^c B A ^G |
+z3 ^C ^G C G C |
+z3 ^C ^G G ^F =F |
+z3 ^C F C F C |
+% Bar 160 (5:18)
+z3 ^C ^G G ^F =F |
+z3 |]
+
+X: 18
+%%Orig filename was Victory2Pipes.abc
+T: Victory v2 (multi) (5:21) - Basic Bagpipe (8)
+%%part-name Basic Bagpipe (8)
+%%made-for Basic Bagpipe
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++pp+ z3 D, F, D, F, D, |
+z3 D, F, D, F, D, |
+z3 C, F, C, F, C, |
+z3 C, E, C, E, C, |
+z3 D, ^A, D, A, D, |
+z3 D, ^A, D, A, D, |
+z3 F, ^A, F, A, F, |
+z3 F, D C ^A, =A, |
+z3 D, A, D, A, D, |
+% Bar 10 (0:18)
+z3 D, A, D, A, D, |
+z3 F, A, F, A, F, |
+z3 A, C ^A, =A, G, |
+z3 C, G, C, G, C, |
+z3 C, G, G, F, E, |
+z3 C, E, C, E, C, |
+z3 C, G, G, F, E, |
+z3 +mp+ D, F, D, F, D, |
+z3 D, F, C, F, E, |
+z3 D, F, D, F, D, |
+% Bar 20 (0:38)
+z3 D, F, C, F, E, |
+z3 D, F, D, F, D, |
+z3 D, G, C, F, E, |
+z3 D, A, D, A, D, |
+F, F, F, F, A, F, G, F, |
+z3 D, F, D, F, D, |
+z3 D, F, C, F, E, |
+z3 D, A, D, A, D, |
+F, F, F, F, C F, ^A, =A, |
+z3 D, F, D, F, D, |
+% Bar 30 (0:58)
+z3 G, ^A, G, A, G, |
+z3 D, A, D, A, D, |
+z3 ^C, A, C, C, A, |
+z3 A, F E D C |
+A,2 C2 A,2 A, F, |
+G,2 C,2 C,2 G, C, |
+^A,2 =A,2 G,2 F,2 |
+D,3 A, F E D C |
+A,2 C2 C2 C F |
+G2 C2 C2 F A |
+% Bar 40 (1:18)
+G2 D2 D2 C2 |
+D3 A, F E D C |
+A,2 C2 A,2 A, F, |
+G,2 C,2 C,2 G, C, |
+^A,2 C2 D2 E2 |
+D3 A, F E F G |
+A2 C2 A ^A =A F |
+G3 F E2 C2 |
+^A,4 D2 E2 |
+D3 D F D E D |
+% Bar 50 (1:38)
+z3 C E D F E |
+z3 D F D E D |
+z3 C A C F E |
+z3 D F D E D |
+z3 D G C F E |
+z3 D A C G F/ G/ |
+A4 ^A2 c2 |
+D3 D F D E D |
+z3 C E D F E |
+z3 D F D E D |
+% Bar 60 (1:58)
+z3 F c F ^A =A |
+z3 D F D E D |
+z3 G ^A G A G |
+z3 D A D A D |
+z3 ^C A C C A |
+z3 A f e d c |
+A2 c2 A2 A F |
+G2 C2 C2 G C |
+^A2 =A2 G2 F2 |
+D3 A f e d c |
+% Bar 70 (2:18)
+A2 c2 c2 c f |
+g2 c2 c2 f a |
+g2 d2 d2 c2 |
+d3 A f e d c |
+A2 c2 A2 A F |
+G2 C2 C2 G C |
+^A2 c2 d2 e2 |
+d3 A f e f g |
+a2 c2 a ^a =a f |
+g3 f e2 c2 |
+% Bar 80 (2:38)
+^A4 d2 e2 |
+D3 D F D E D |
+z3 C E D F E |
+z3 D F D E D |
+z3 C A C F E |
+z3 D F D E D |
+z3 D G C F E |
+z3 D A C G F/ G/ |
+A4 ^A2 c2 |
+D3 D F D E D |
+% Bar 90 (2:58)
+z3 C E D F E |
+z3 F A F A F |
+z3 F c F ^A =A |
+z3 D F D E D |
+z3 G ^A G A G |
+z3 D A D A D |
+z3 ^C A C C A |
+z3 +p+ D,3 E,2 |
+F,2 A,2 D2 F2 |
+G8 |
+% Bar 100 (3:18)
+C8 |
+z3 +mp+ F,3 G,2 |
+^G,2 C2 F2 ^G2 |
+^A8 |
+^D6 ^A c |
+^c8 |
+c4 F4 |
+^A8- |
+^A2 A2 A2 ^G ^F |
+F8 |
+% Bar 110 (3:38)
+C8 |
+^D7 =D/ ^D/ |
+D8 |
+z3 ^A ^f =f ^d ^c |
+^A2 ^c2 A2 A ^F |
+^G2 ^C2 C2 G C |
+B2 ^A2 ^G2 ^F2 |
+^D3 ^A ^f =f ^d ^c |
+^A2 ^c2 c2 c ^f |
+^g2 ^c2 c2 ^f ^a |
+% Bar 120 (3:58)
+^g2 ^d2 d2 ^c2 |
+^d3 ^A ^f =f d ^c |
+^A2 ^c2 A2 A ^F |
+^G2 ^C2 C2 G C |
+B2 ^c2 ^d2 f2 |
+^d3 ^A ^f =f ^f ^g |
+^a2 ^c2 a b a ^f |
+^g3 ^f =f2 ^c2 |
+B4 ^f2 =f2 |
+z4 [^D2^d2] [^C^c] [^A,^A-] |
+% Bar 130 (4:18)
+[^A,4^A4] [^G,2^G2] [A,A] [B,B] |
+[^A,8^A8] |
+[^A,2^A2] [^G,^G] [^F,2^F2] [G,G] [F,F] [=F,=F] |
+[^D,4^D4] [^F,2^F2] [=F,=F] [D,D-] |
+[^D,4^D4] [^G,2^G2] [^A,^A] [B,B] |
+[^A,8-^A8-] |
+[^A,8^A8] |
+z4 [^F2^f2] [=F=f] [^D^d-] |
+[^D4^d4] [^C2^c2] [Dd] [Ff] |
+[^F8^f8] |
+% Bar 140 (4:38)
+[^A2^a2] [^G^g] [^F2^f2] [Gg] [Ff] [=F=f] |
+[^D4^d4] [^F2^f2] [=F=f] [Dd-] |
+[^D4^d4] [^G2^g2] [^A^a] [Bb] |
+[^A8-^a8-] |
+[^A8^a8] |
+z3 +ppp+ ^D, ^F, D, F, D, |
+z3 ^D, ^F, D, F, D, |
+z3 ^C, ^F, C, F, C, |
+z3 ^C, F, C, F, C, |
+z3 ^D, B, D, B, D, |
+% Bar 150 (4:58)
+z3 ^D, B, D, B, D, |
+z3 ^F, B, F, B, F, |
+z3 ^F, ^D ^C B, ^A, |
+z3 ^D, ^F, D, F, D, |
+z3 ^D, ^F, D, F, D, |
+z3 ^F, ^A, F, A, F, |
+z3 ^A, ^C B, A, ^G, |
+z3 ^C, ^G, C, G, C, |
+z3 ^C, ^G, G, ^F, =F, |
+z3 ^C, F, C, F, C, |
+% Bar 160 (5:18)
+z3 ^C, ^G, G, ^F, =F, |
+z3 |]
+
+X: 15
+%%Orig filename was Victory2Soon.abc
+T: Victory v2 (multi) (5:21) - Basic Bassoon
+%%part-name Basic Bassoon
+%%made-for Basic Bassoon
+C: Two Steps From Hell (MIDI by Klath Ael)
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++p+ D2 z D D D D D |
+D2 z D D D D D |
+C2 z C C C C C |
+C2 z C C C C C |
+G,2 z G, G, G, G, G, |
+G,2 z G, G, G, G, G, |
+^A,2 z A, A, A, A, A, |
+^A,2 z A, A, A, A, A, |
+D2 z D D D D D |
+% Bar 10 (0:18)
+D2 z D D D D D |
+F2 z F F F F F |
+F2 z F F F F F |
+C2 z C C C C C |
+C2 z C C C C C |
+A,2 z A, A, A, A, A, |
+A,2 z A, A, A, A, A, |
++f+ ^A,8 |
++mf+ ^A, A, A, +f+ A, A, +mf+ A, +f+ C +mf+ C |
++f+ D8 |
+% Bar 20 (0:38)
++mf+ D D D +f+ D D +mf+ D +f+ F +mf+ F |
++f+ ^A,8 |
++mf+ ^A, A, A, +f+ A, A, +mf+ A, +f+ C +mf+ C |
++f+ D8 |
++mf+ D D D +f+ D D +mf+ D +f+ F +mf+ F |
++f+ ^A,8 |
++mf+ ^A, A, A, +f+ A, A, +mf+ A, +f+ C +mf+ C |
++f+ D8 |
++mf+ D D D +f+ D D +mf+ D +f+ F +mf+ F |
++f+ ^A,8 |
+% Bar 30 (0:58)
+G, +mf+ G, G, +f+ G, G, +mf+ G, +f+ G, +mf+ G, |
++f+ A,8 |
+A, +mf+ A, A, A, +f+ A, +mf+ A, +f+ A, +mf+ A, |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+% Bar 40 (1:18)
+G,8 |
+D6 D E |
+F2 F3 F F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+G,2 G,2 G,2 G,2 |
+^A,8- |
+% Bar 50 (1:38)
+^A,4 C4 |
+D8- |
+D4 F4 |
+^A,8- |
+^A,4 C4 |
+D8 |
+A4 G2 F2 |
+^A,8- |
+^A,4 C4 |
+D8- |
+% Bar 60 (1:58)
+D4 F4 |
+^A,8- |
+^A,4 G,4 |
+A,8- |
+A,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+% Bar 70 (2:18)
+F6 F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F2 F3 F F2 |
+C6 ^A, =A, |
+G,8 |
+D6 D E |
+F6 F2 |
+C6 ^A, =A, |
+% Bar 80 (2:38)
+G,2 G,2 G,2 G,2 |
+^A,8- |
+^A,4 C4 |
+D8- |
+D4 F4 |
+^A,8- |
+^A,4 C4 |
+D8 |
+A4 G2 F2 |
+^A,8- |
+% Bar 90 (2:58)
+^A,4 C4 |
+D8- |
+D4 F4 |
+^A,8- |
+^A,4 G,4 |
+A,8- |
+A,8 |
+D3 D D D D D |
+D3 D D D D D |
+C3 C C C C C |
+% Bar 100 (3:18)
+C3 C C C C C |
++p+ F3 F F F F F |
+F3 F F F F F |
+^A3 A A A A A |
+^D3 D D D D D |
+F3 F F F F F |
+F3 F F F F F |
+^D3 D D D D D |
+^D3 D D D D D |
+C3 C C C C C |
+% Bar 110 (3:38)
+C3 C C C C C |
+F3 +mp+ F F F F F |
+F3 +mf+ F F F F F |
+^D6 D F |
+^F6 F2 |
+^C6 B, ^A, |
+^G,8 |
+^D6 D F |
+^F6 F2 |
+^C6 B, ^A, |
+% Bar 120 (3:58)
+^G,8 |
+^D6 D F |
+^F2 F3 F F2 |
+^C6 B, ^A, |
+^G,8 |
+^D6 D F |
+^F6 F2 |
+^C6 B, ^A, |
+^G,2 G,2 G,2 G,2 |
+B,8- |
+% Bar 130 (4:18)
+B,4 ^C4 |
+^D8- |
+^D4 ^F4 |
+B,8- |
+B,4 ^C4 |
+^D8 |
+^A4 ^G2 ^F2 |
+B,8- |
+B,4 ^C4 |
+^D8- |
+% Bar 140 (4:38)
+^D4 ^F4 |
+B,8- |
+B,4 ^G,4 |
+^A,8- |
+^A,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (5:18)
+z8 |
+z3 |]
+

@@ -1,0 +1,946 @@
+N: TS  7,   9   8  10   2  21  22   6
+X: 9
+%%Orig filename was xWizardsAges.abc
+T: Wizards In Winter (2:56) - Lute of Ages
+%%part-name Lute of Ages
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++mp+ [E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z A,/ z/ [E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z [E,/-B,/-E/] [E,/B,/] |
+[G,/-D/-G/] [G,/D/] [G,/-D/-G/] [G,/D/] z [E,/-B,/-E/] [E,/B,/] [G,/-D/-G/] [G,/D/] [G,/-D/-G/] [G,/D/] z A,/ z/ |
+[E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z A,/ z/ [E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z [E,/-B,/-E/] [E,/B,/] |
++ff+ [B,^FB] z7 |
++mp+ [E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z A,/ z/ [E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z [E,/-B,/-E/] [E,/B,/] |
+[G,/-D/-G/] [G,/D/] [G,/-D/-G/] [G,/D/] z [E,/-B,/-E/] [E,/B,/] [G,/-D/-G/] [G,/D/] [G,/-D/-G/] [G,/D/] z A,/ z/ |
+[E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z A,/ z/ [E,/-B,/-E/] [E,/B,/] [E,/-B,/-E/] [E,/B,/] z [E,/-B,/-E/] [E,/B,/] |
++ff+ [B,^FB] z7 |
+[E,8B,8E8] |
+% Bar 10 (0:14)
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
++fff+ [B,^FB] z7 |
++ff+ [B,^FB] z2 +fff+ [B,FB] [B,FB] z2 [B,FB] |
+[B,^FB] z [A,EA] z [G,DG] z [^F,^CF] z |
+% Bar 20 (0:29)
++ff+ [E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
++fff+ [B,^FB] z7 |
+[B,^FB] z2 [B,FB] [B,FB] z2 [B,FB] |
+% Bar 30 (0:45)
+[B,^FB] z7 |
+z8 |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
+% Bar 40 (1:01)
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +ff+ [E,/B,/] z/ +mf+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++fff+ [B,^FB] z7 |
+[B,^FB] z7 |
+[B,^FB] z2 [B,FB] [B,FB] z2 [B,FB] |
+[B,^FB] z [A,EA] z [G,DG] z [^F,^CF] z |
+[E,8B,8E8] |
+[G,8D8G8] |
+% Bar 50 (1:16)
+[E,8B,8E8] |
+[B,^FB] z7 |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
+[B,^FB] z7 |
+[B,^FB] z7 |
+z8 |
+z8 |
+% Bar 60 (1:32)
+z8 |
+z8 |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+% Bar 70 (1:48)
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[E,B,] [E,B,] z [E,B,] [E,B,] [E,B,] z [E,B,] |
+[B,^FB] z7 |
+[B,^FB] z7 |
+% Bar 80 (2:03)
+[B,^FB] z2 [B,FB] [B,FB] z2 [B,FB] |
+[B,^FB] z [A,EA] z [G,DG] z [^F,^CF] z |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[B,^FB] z7 |
+% Bar 90 (2:19)
+[B,^FB] z7 |
+[B,^FB] z3 [B,FB] z3 |
+[B,^FB] z [A,EA] z [G,DG] z [^F,^CF] z |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,8B,8E8] |
+[G,8D8G8] |
+[E,/B,/] z/ [E,/B,/] z/ [^F,/^C/] z/ [F,/C/] z/ [G,/D/] z/ [G,/D/] z/ [A,/E/] z/ [A,/E/] z/ |
+% Bar 100 (2:35)
+[E,/B,/] z/ [E,/B,/] z/ [^F,/^C/] z/ [F,/C/] z/ [G,/D/] z/ [G,/D/] z/ [A,/E/] z/ [A,/E/] z/ |
+[E,/B,/] z/ [^F,/^C/] z/ [G,/D/] z/ [A,/E/] z/ [E,/B,/] z/ [F,/C/] z/ [G,/D/] z/ [A,/E/] z/ |
+[E,/B,/] z/ [^F,/^C/] z/ [G,/D/] z/ [A,/E/] z/ [E,/B,/] z/ [F,/C/] z/ [G,/D/] z/ [A,/E/] z/ |
+[E,8B,8E8] |
+[E,8B,8E8] |
+[E,8B,8E8] |
+[E,8B,8E8] |
+[E,4B,4E4] [E,4B,4E4] |
+[E,4B,4E4] [E,4B,4E4] |
+[E,4B,4E4] [E,4B,4E4] |
+% Bar 110 (2:50)
+[E,4B,4E4] [E,4B,4E4] |
++ff+ [E,8-B,8-E8-] |
+[E,8B,8E8] |
++fff+ [E,B,E] z7 |]
+
+X: 8
+%%Orig filename was xWizardsBass.abc
+T: Wizards In Winter (2:56) - Basic Theorbo
+%%part-name Basic Theorbo
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++p+ [E,B,] [E,B,] z A,/ z/ [E,B,] [E,B,] z [E,B,] |
+[D,G,] [D,G,] z [E,B,] [D,G,] [D,G,] z A,/ z/ |
+[E,B,] [E,B,] z A,/ z/ [E,B,] [E,B,] z [E,B,] |
++mf+ [^F,B,] z7 |
++p+ [E,B,] [E,B,] z A,/ z/ [E,B,] [E,B,] z [E,B,] |
+[D,G,] [D,G,] z [E,B,] [D,G,] [D,G,] z A,/ z/ |
+[E,B,] [E,B,] z A,/ z/ [E,B,] [E,B,] z [E,B,] |
++mf+ [^F,B,] z7 |
+[E,8B,8] |
+% Bar 10 (0:14)
+[D,8G,8] |
+[E,8B,8] |
+[^F,B,] z7 |
+[E,8B,8] |
+[D,8G,8] |
+[E,8B,8] |
+[^F,B,] z7 |
++f+ [^F,B,] z7 |
++mf+ [^F,B,] z2 +f+ [F,B,] [F,B,] z2 [F,B,] |
+[^F,B,] z [E,A,] z [D,G,] z [^C,F,] z |
+% Bar 20 (0:29)
++mf+ [E,8B,8] |
+[D,8G,8] |
+[E,8B,8] |
+[^F,B,] z7 |
+[E,8B,8] |
+[D,8G,8] |
+[E,8B,8] |
+[^F,B,] z7 |
++ff+ [^F,B,] z7 |
++f+ [^F,B,] z2 +ff+ [F,B,] [F,B,] z2 +f+ [F,B,] |
+% Bar 30 (0:45)
++ff+ [^F,B,] z7 |
+z8 |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
+% Bar 40 (1:01)
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ +mf+ [E,/B,/] z/ +mp+ [E,/B,/] z/ [E,/B,/] z/ [E,/B,/] z/ |
++ff+ [^F,B,] z7 |
+[^F,B,] z7 |
++f+ [^F,B,] z2 +ff+ [F,B,] [F,B,] z2 [F,B,] |
+[^F,B,] z [E,A,] z [D,G,] z [^C,F,] z |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+% Bar 50 (1:16)
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
++ff+ ^d z7 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
++ff+ ^d z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:32)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:03)
+z8 |
+z8 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
++ff+ ^d z7 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
++ff+ ^d z7 |
+% Bar 90 (2:19)
+z8 |
+z8 |
+z8 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+% Bar 100 (2:35)
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ a/ g/ f/ e/ +pp+ d2 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ a/ g/ f/ e/ +pp+ d2 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ a/ g/ f/ e/ +pp+ d2 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ a/ g/ f/ e/ +pp+ d2 |
++f+ b/ a/ g/ ^f/ a/ g/ f/ e/ g/ f/ e/ d/ f/ e/ d/ +p+ c/ |
++f+ e/ d/ c/ B/ d/ c/ B/ A/ c/ B/ A/ G/ B/ A/ G/ ^F/ |
+A/ G/ ^F/ E/ G/ F/ E/ +p+ D/ +f+ F/ E/ D/ C/ E/ D/ C/ B,/ |
+% Bar 110 (2:50)
+D/ C/ B,/ A,/ C/ B,/ A,/ G,/ B,/ A,/ G,/ ^F,/ A,/ G,/ F,/ E,/ |
+z8 |
+z8 |
+z8 |]
+
+X: 10
+%%Orig filename was xWizardsDrums.abc
+T: Wizards In Winter (2:56) - Basic Drum
+%%part-name Basic Drum
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++fff+ [^GB] +mf+ B +fff+ B [GB] [GB] +f+ B +fff+ B +mf+ B |
++fff+ [^GB] +mf+ B +fff+ B [GB] [GB] +f+ B +fff+ B +mf+ B |
++fff+ [^GB] +mf+ B +fff+ B [GB] [GB] +f+ B +fff+ B +mf+ B |
++fff+ ^G8 |
+[^GB] +mf+ B +fff+ B [GB] [GB] +f+ B +fff+ B +mf+ B |
++fff+ [^GB] +mf+ B +fff+ B [GB] [GB] +f+ B +fff+ B +mf+ B |
++fff+ [^GB] +mf+ B +fff+ B [GB] [GB] +f+ B +fff+ B +mf+ B |
++fff+ ^G8 |
+[^C2^G2A2] E2 [C2G2] E2 |
+% Bar 10 (0:14)
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8^G8] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8E8^G8] |
+[^C8E8^G8] |
+[^C3E3^G3] [CEG] [C3E3G3] [CEG] |
+[^C2E2^G2] [C2G2A2] [C2G2A2] [C2G2A2] |
+% Bar 20 (0:29)
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8^G8] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8E8^G8] |
+[^C8E8^G8] |
+[^C3E3^G3] [CEG] [C3E3G3] [CEG] |
+% Bar 30 (0:45)
+[^C8E8^G8] |
+z8 |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+% Bar 40 (1:01)
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^G2B2] [G2B2] [G2B2] [G2B2] |
+[^C8E8^G8] |
+[^C8E8^G8] |
+[^C3E3^G3] [CEG] [C3E3G3] [CEG] |
+[^C2E2^G2] [C2G2A2] [C2G2A2] [C2G2A2] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+% Bar 50 (1:16)
+[^C2^G2] E2 [C2G2] E2 |
+[^C8^G8] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8E8^G8] |
+[^C8E8^G8] |
+[^C8E8^G8] |
+z8 |
+z8 |
+% Bar 60 (1:32)
+z2 +mf+ ^C,2 z2 C,2 |
+z2 ^C,2 z2 C,2 |
++fff+ [^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+% Bar 70 (1:48)
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^Ga] ^d G a [G2a2] G a |
+[^C8E8^G8] |
+[^C8E8^G8] |
+% Bar 80 (2:03)
+[^C3E3^G3] [CEG] [C3E3G3] [CEG] |
+[^C2E2^G2] [C2G2A2] [C2G2A2] [C2G2A2] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8^G8] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C8E8^G8] |
+% Bar 90 (2:19)
+[^C8E8^G8] |
+[^C4E4^G4] [C4E4G4] |
+[^C2^G2A2] [C2G2A2] [C2G2A2] [C/-E/G/-A/-] [C/-E/G/-A/-] [C/-E/G/-A/-] [C/E/G/A/] |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2A2] E2 [C2G2] E2 |
+% Bar 100 (2:35)
+[^C2^G2A2] E G [C2G2] E2 |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2A2] E G [C2G2] E2 |
+[^C2^G2A2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C2^G2] E2 [C2G2] E2 |
+[^C2^G2] E G [C2G2] E2 |
+[^C4^G4A4] [C4G4A4] |
+[^C4^G4A4] [C4G4A4] |
+[^C4^G4A4] [C4G4A4] |
+% Bar 110 (2:50)
+[^C4^G4A4] +mf+ [E/G/] [E/G/] [C/E/] [C/E/] +fff+ G/ G/ C/ C/ |
+[^C8^G8A8] |
+z8 |
+[^C8^G8A8] |]
+
+X: 2
+%%Orig filename was xWizardsFiddle.abc
+T: Wizards In Winter (2:56) - Basic Fiddle
+%%part-name Basic Fiddle
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[g2b2] [^f2a2] [g2b2] [f2a2] |
+% Bar 10 (0:14)
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[G2e2] [^F2^d2] [G2e2] [e2g2] |
++mp+ [B^f] z7 |
++ff+ [g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[G2e2] [^F2^d2] [G2e2] [e2g2] |
++p+ [B/^f/] z15/2 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:29)
++ff+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
++fff+ ^d/ z15/2 |
++ff+ b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
++fff+ ^d z7 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ e8 |
+B8 |
+G8 |
+E8 |
+% Bar 40 (1:01)
+E8 |
+B,8 |
+G,8 |
+B8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ [g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+% Bar 50 (1:16)
+[G2e2] [^F2^d2] [G2e2] [e2g2] |
+[B^f] z7 |
+[g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[G2e2] [^F2^d2] [G2e2] [e2g2] |
+[B^f] z7 |
+z8 |
+z8 |
+z8 |
+b/ z3/2 a/ z3/2 ^f/ z3/2 e/ z3/2 |
+% Bar 60 (1:32)
++ff+ b z a z e z ^d z |
+e z ^d z e z ^f z |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:03)
+z8 |
+z8 |
++fff+ [g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[G2e2] [^F2^d2] [G2e2] [e2g2] |
+[B^f] z7 |
+[g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[G2e2] [^F2^d2] [G2e2] [e2g2] |
+z8 |
+% Bar 90 (2:19)
+z8 |
+z8 |
+z8 |
+[g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[g2b2] [^f2a2] [g2b2] [f2a2] |
+[e2g2] [d2^f2] [e2g2] [^F2^d2] |
+[e2g2] [^f2a2] [g2b2] [d2f2] |
+% Bar 100 (2:35)
+[e2g2] [^f2a2] [g2b2] [d2f2] |
+[eg] [^fa] [gb] [df] [eg] [fa] [gb] [df] |
+[eg] [^fa] [gb] [df] [eg] [fa] [gb] [df] |
+e/ d/ c'/ b/ d/ c'/ b/ a/ d/ c'/ b/ a/ b2 |
+e/ d/ c'/ b/ d/ c'/ b/ a/ c'/ b/ a/ a/ b2 |
+e/ d/ c'/ b/ d/ c'/ b/ a/ d/ c'/ b/ a/ b2 |
+e/ d/ c'/ b/ d/ c'/ b/ a/ c'/ b/ a/ a/ b2 |
+e/ d/ c'/ b/ d/ c'/ b/ a/ c'/ b/ a/ g/ b/ a/ g/ ^f/ |
+a/ g/ ^f/ e/ g/ f/ e/ d/ f/ e/ d/ c/ e/ d/ c/ B/ |
+d/ c/ B/ A/ c/ B/ A/ G/ B/ A/ G/ ^F/ A/ G/ F/ E/ |
+% Bar 110 (2:50)
+G/ ^F/ E/ D/ F/ E/ D/ C/ E/ D/ C/ B,/ D/ C/ B,/ A,/ |
++ff+ [e8-g8-] |
+[e8g8] |
+[e/b/] z15/2 |]
+
+X: 21
+%%Orig filename was xWizardsLute1.abc
+T: Wizards In Winter (2:56) - Basic Lute 1
+%%part-name Basic Lute 1
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z [B,/B/] z/ [^D/^d/] z/ [E/e/] z/ [^F/^f/] z/ [G/g/] z/ [A/a/] z/ [B/b/] z/ |
+z8 |
+z8 |
+z8 |
+z [B,/B/] z/ [^D/^d/] z/ [E/e/] z/ [^F/^f/] z/ [E/e/] z/ [D/d/] z/ [B,/B/] z/ |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z [B,/B/] z/ [^D/^d/] z/ [E/e/] z/ [^F/^f/] z/ [E/e/] z/ [D/d/] z/ [B,/B/] z/ |
+z8 |
+z8 |
+z8 |
+z3 +mp+ B, +ff+ E ^F/ z/ G/ z/ A/ z/ |
+B z2 +mp+ B, +ff+ E ^F/ z/ G/ z/ A/ z/ |
+B z2 B B z2 B |
+B z A z G z ^F z |
+% Bar 20 (0:29)
+z8 |
+z8 |
+z8 |
+z [B,/B/] z/ [^D/^d/] z/ [E/e/] z/ [^F/^f/] z/ [G/g/] z/ [A/a/] z/ [B/b/] z/ |
+z8 |
+z8 |
+z8 |
+z3 +mp+ B, +fff+ E ^F/ z/ G/ z/ A/ z/ |
+B z2 +mp+ B, +fff+ E ^F/ z/ G/ z/ A/ z/ |
+B z2 B B z2 B |
+% Bar 30 (0:45)
+B z A z ^F z E z |
++mp+ ^d z B z A z ^F2 |
++fff+ E z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z3 +mp+ B, +fff+ E ^F/ z/ G/ z/ A/ z/ |
+B z2 +mp+ B, +fff+ E ^F/ z/ G/ z/ A/ z/ |
+B z2 B B z2 B |
+B z A z G z ^F z |
+z8 |
+z8 |
+% Bar 50 (1:16)
+z8 |
+z +ff+ [B,/B/] z/ [^D/^d/] z/ [E/e/] z/ [^F/^f/] z/ [G/g/] z/ [A/a/] z/ [B/b/] z/ |
+z8 |
+z8 |
+z8 |
+z3 +mp+ B, +fff+ E ^F/ z/ G/ z/ A/ z/ |
+B z7 |
++mp+ B z7 |
+z8 |
+z8 |
+% Bar 60 (1:32)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 +fff+ [B,B] [Ee] [^F/^f/] z/ [G/g/] z/ [A/a/] z/ |
+[Bb] z2 +mp+ B, +fff+ E ^F/ z/ G/ z/ A/ z/ |
+% Bar 80 (2:03)
+B z2 B B z2 B |
+B z A z G z ^F z |
+z8 |
+z8 |
+z8 |
+z +ff+ [B,/B/] z/ [^D/^d/] z/ [E/e/] z/ [^F/^f/] z/ [G/g/] z/ [A/a/] z/ [B/b/] z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ e e ^f f g g d d |
+% Bar 100 (2:35)
+e e ^f f g g d d |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:50)
+z8 |
+z8 |
+z8 |
+z8 |]
+
+X: 22
+%%Orig filename was xWizardsLute2.abc
+T: Wizards In Winter (2:56) - Basic Lute 2
+%%part-name Basic Lute 2
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++mf+ [gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z7 |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z7 |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+% Bar 10 (0:14)
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z7 |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z2 B e f/ z/ g/ z/ a/ z/ |
+b z2 B e ^f/ z/ g/ z/ a/ z/ |
+b z2 b b z2 b |
+b z a z g z ^f z |
+% Bar 20 (0:29)
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z7 |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
++ff+ [B^f] z2 B e f/ z/ g/ z/ a/ z/ |
+b z2 B e ^f/ z/ g/ z/ a/ z/ |
+b z2 b b z2 b |
+% Bar 30 (0:45)
+b z a z ^f z e z |
+^d z B z A z ^F2 |
++f+ E z7 |
+z8 |
+z8 |
+z8 |
+z2 [eg] [d^f] [e2g2] [d2f2] |
+z2 [gb] [^fa] [g2b2] [f2a2] |
+z2 [eg] [d^f] [e2g2] [d2f2] |
+[G2e2] [^F2d2] [B,2B2] [F2d2] |
+% Bar 40 (1:01)
+z2 [Ge] [^Fd] [G2e2] [F2d2] |
+z2 [EB] [DA] [E2B2] [D2A2] |
+z2 [B,G] [A,^F] [B,2G2] [A,2F2] |
+[G,2E2] [^F,2D2] [E,2B,2] [F,2D2] |
+z3 +p+ B e ^f/ z/ +ff+ g/ z/ a/ z/ |
+b z2 B e ^f/ z/ g/ z/ a/ z/ |
+b z2 b b z2 b |
+b z a z g z ^f z |
++mf+ [gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+% Bar 50 (1:16)
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z7 |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+z3 +ff+ B e ^f/ z/ g/ z/ a/ z/ |
+b z2 [B,B] [Ee] [^F/^f/] z/ [G/g/] z/ [A/a/] z/ |
+b z2 [Bb] e ^f/ z/ g/ z/ a/ z/ |
++mf+ b z +f+ ^f z e z ^d z |
+b z a z ^f z e z |
+% Bar 60 (1:32)
++p+ ^d B +f+ A ^F E F E ^D |
+B, ^D B, A, B, ^F, E, F, |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 +ff+ B, E ^F/ z/ G/ z/ A/ z/ |
+% Bar 80 (2:03)
+B z2 B B z2 B |
+B z A z G z ^F z |
++mf+ [gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
+[B^f] z7 |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[Be] [Be] [Be] [B^d] [Be] [Be] [Be] [Bg] |
++f+ [B/b/] [A/a/] [G/g/] [^F/^f/] [A/a/] [G/g/] [F/f/] [E/e/] [G/g/] [F/f/] [E/e/] [^D/^d/] [F/f/] [E/e/] [D/d/] [B,/B/] |
+% Bar 90 (2:19)
+[B/b/] [A/a/] [G/g/] [^F/^f/] [A/a/] [G/g/] [F/f/] [E/e/] [G/g/] [F/f/] [E/e/] [^D/^d/] [F/f/] [E/e/] [D/d/] [B,/B/] |
+[B/b/] [A/a/] [G/g/] [^F/^f/] [A/a/] [G/g/] [F/f/] [E/e/] [B/b/] [A/a/] [G/g/] [F/f/] [A/a/] [G/g/] [F/f/] [E/e/] |
+B/ A/ G/ ^F/ ^c/ B/ A/ G/ ^d/ c/ B/ A/ ^f/ e/ d/ B/ |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[gb] [gb] [gb] [^fa] [gb] [gb] [gb] [fa] |
+[Bg] [Bg] [Bg] [A^f] [Bg] [Bg] [Bg] [Af] |
+[EG] [EG] [^FA] [FA] [GB] [GB] [DF] [DF] |
+% Bar 100 (2:35)
+[EG] [EG] [^FA] [FA] [GB] [GB] [DF] [DF] |
+[EG] [^FA] [GB] [DF] [EG] [FA] [GB] [DF] |
+[EG] [^FA] [GB] [DF] [EG] [FA] [GB] [DF] |
++ff+ [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] |
+[Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] |
+[Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] |
+[Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] [Ee] |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:50)
+z8 |
++mf+ [G,8-E8-] |
+[G,8E8] |
+[eg] z7 |]
+
+X: 6
+%%Orig filename was xWizardsMisty.abc
+T: Wizards In Winter (2:56) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: Trans-Siberian Orchestra
+Z: Raymiond of Gladden
+M: 4/4
+Q: 149
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:29)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 [Ge] [^Fd] [G2e2] [F2d2] |
+z2 [GB] [^FA] [G2B2] [F2A2] |
+z2 [EG] [D^F] [E2G2] [D2F2] |
+[E2G2] [D2^F2] [B,2E2] [D2F2] |
+% Bar 40 (1:01)
+z2 [Ge] [^Fd] [G2e2] [F2d2] |
+z2 [EB] [DA] [E2B2] [D2A2] |
+z2 [B,G] [A,^F] [B,2G2] [A,2F2] |
+[G,2E2] [^F,2D2] [E,2B,2] [F,2D2] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:32)
++ff+ B z A z E z ^D z |
+E z ^D z E z ^F z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+% Bar 70 (1:48)
+g z ^f z g z e z |
+b z a z g z ^f z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+g z ^f z g z e z |
+b z a z g z ^f z |
+z8 |
+z8 |
+% Bar 80 (2:03)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:19)
++mf+ b/ a/ g/ ^f/ a/ g/ f/ e/ g/ f/ e/ ^d/ f/ e/ d/ B/ |
+b/ a/ g/ ^f/ a/ g/ f/ e/ b/ a/ g/ f/ a/ g/ f/ e/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (2:35)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:50)
+z8 |
+z8 |
+z8 |
+z8 |]
+

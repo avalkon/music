@@ -1,0 +1,865 @@
+N: TS  8,   9  11   8   3  10   4  21  18
+X: 9
+%%Orig filename was Werewolves2Ages.abc
+T: Werewolves of London v2 (3:21) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++mf+ z8 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 10 (0:21)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 20 (0:45)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 30 (1:08)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 40 (1:31)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 50 (1:55)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 60 (2:18)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 70 (2:41)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+% Bar 80 (3:05)
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+G,2 z3 G, G2 |
+D2 d D C2 c C |
+z2 |]
+
+X: 11
+%%Orig filename was Werewolves2Bardic.abc
+T: Werewolves of London v2 (3:21) - Bardic Fiddle
+%%part-name Bardic Fiddle
+%%made-for Bardic Fiddle
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++p+ z8 |
+z8 |
+z8 |
+z8 |
+z5 G,/ z/ A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/^f/] z3/2 [C/G/] z3/2 [G/c/e/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/^f/] z3/2 [C/G/] z3/2 [G/c/e/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ A,// ^A,// B,/ D |
+% Bar 10 (0:21)
++pp+ [D/A/] z3/2 [A/d/^f/] z3/2 [C/G/] z3/2 [G/c/e/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] [D//G//] z// [D//G//] z// [d/g/b/] [e/g/b/] [gb] |
+% Bar 20 (0:45)
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G,/ z/ A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] [D//G//] z// [D//G//] z// [A/d/] +pp+ [B/e/] +p+ [dg] |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
+% Bar 30 (1:08)
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,D] [G,D] [G,/D/] [G,/D/] [G,D] [G,/D/] [G,D] G,/ A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] [D//G//] z// [D//G//] z// [A/d/] +pp+ [B/e/] +p+ [dg] |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] [g/b/] [D//G//B//] z// A/ +pp+ B/ +p+ [dg] |
+[D/-A/] D/ [D/A/] z/ [d2^f2a2] [C/G/] z/ [C/G/] z/ [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] [g/b/] [D//G//B//] z// A/ +pp+ B/ +p+ [dg] |
+% Bar 40 (1:31)
+[D/-A/] D/ [D/A/] z/ [d2^f2a2] [C/G/] z/ [C/G/] z/ [c2e2g2] |
+[gb] [g/b/] [g/b/] [gb] [g/b/] [g/b/] [g/b/] [g/b/] [gb] z2 |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
+% Bar 50 (1:55)
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [G,D] [DG] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [G,D] [DG] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [G,D] [DG] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,D] [G,D] [G,/D/] [G,/D/] [G,D] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,/D/] |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G, A,// ^A,// B,/ D |
+% Bar 60 (2:18)
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] [d/g/] [D//G//] z// A/ +pp+ B/ +p+ [dg] |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g3/2b3/2] G,/ G,/ G,/ A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G, [G,D] [DG] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
+% Bar 70 (2:41)
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G, A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G, A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G, A,// ^A,// B,/ D |
++pp+ [D/A/] z3/2 [A/d/] z/ [DA] [C/G/] z3/2 [G/c/] z/ +p+ [CG] |
+[G,/D/] z/ +pp+ [G,/D/] +p+ [G,D] [G,/D/] [G,D] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,/D/] [G,D] |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[G,/D/] z/ +pp+ [G,/D/] z/ [G,/D/] z/ [G,/D/] z/ +p+ [G,/D/] z/ G,/ z/ [DG] [G,D] |
+% Bar 80 (3:05)
+[D/-A/] D/ z [A2d2^f2] [C/G/] z3/2 [G2c2e2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G, A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G, A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+[g/b/] z/ [g/b/] z/ [egc'] [g2b2] G, A,// ^A,// B,/ D |
+[D/-A/] D/ z [d2^f2a2] [C/G/] z3/2 [c2e2g2] |
+z2 |]
+
+X: 8
+%%Orig filename was Werewolves2Bass.abc
+T: Werewolves of London v2 (3:21) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++f+ z7 ^C |
+D3 D C3 C |
+G,/ z/ G,/ z/ G,/ z/ G,/ z/ G,/ z/ G,/ z/ C/ z/ E/3 F/3 E/3 |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G,2 G,/ z/ C3/4 z3/4 E// ^D// |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D5/2 E// D// C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 10 (0:21)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 20 (0:45)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 30 (1:08)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 40 (1:31)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 50 (1:55)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 60 (2:18)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 70 (2:41)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+% Bar 80 (3:05)
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+G,/ z/ G,/ z/ G,/ z/ G, G,/ z/ G,/ z/ C/ z/ ^C |
+D D2 D C C2 C |
+z2 |]
+
+X: 3
+%%Orig filename was Werewolves2Clar.abc
+T: Werewolves of London v2 (3:21) - Basic Clarinet (8)
+%%part-name Basic Clarinet (8)
+%%made-for Basic Clarinet
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z2 G G G +mf+ E +ff+ G +mf+ G |
++ff+ G G/ G/ E D z4 |
+z2 G/ G/ G/ G/ G +mf+ E +ff+ G G |
+G +mf+ G +ff+ G G z4 |
+z3 G/ +mf+ E/ +ff+ G/ +mf+ E/ +ff+ G/ +mf+ E/ G G |
++ff+ G G D D z4 |
+z3 G/ G/ G/ G/ G G E |
+G G G G3 z2 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+% Bar 20 (0:45)
+z3 G g4- |
+g8 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+z3 G g4- |
+g8 |
+z2 A A A G G E |
+G G +mf+ E +ff+ D z4 |
+z4 A/ B/ A/ z/ +mf+ G/ G/ +ff+ G/3 ^G/3 ^A/3 |
+z8 |
+% Bar 30 (1:08)
+z2 A/ A/ A A G G E |
+G G z E z4 |
+z A A G A// ^A// B/ +mf+ =A +ff+ G +mf+ G- |
+G2 z6 |
+z3 +ff+ G g4 |
+G2 G G/ G G/ z3 |
+z3 G g4- |
+g8 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+% Bar 40 (1:31)
+z3 G g4- |
+g8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 z2/3 +mf+ B2/3 B2/3 |
+% Bar 50 (1:55)
+B +ff+ A/ A/ A A z3 G |
+G G/ G3/2 E z4 |
++mf+ A +ff+ A A A A G/ G/ z +mf+ G/ +ff+ G/- |
+G D z6 |
+z/ +mf+ B/ c/ B/ c/ B/ c A/ c// ^c/ d3/4 z2 |
+z/ A/ d/ ^c/ ^d// =d// c// =c// B// ^A// =A3/2 A// ^A// B// ^c// z2 |
+z2 d// c// ^A// =A// +ff+ G G G/ G/ G +mf+ G |
+G,2 z6 |
+z3 +ff+ G g4 |
+G2 G G/ G G/ z3 |
+% Bar 60 (2:18)
+z3 G g4- |
+g8 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+z3 G g4- |
+g8 |
+z +mf+ D +ff+ G G G z2 G |
+G G G E z4 |
+z2 A/ A/ A/ A3/2 G +mf+ G +ff+ G |
++mf+ G2 z6 |
+% Bar 70 (2:41)
+z5/2 E/ +ff+ G +mf+ G +ff+ G +mf+ G +ff+ A// ^A// B/ |
+G/ G/ G G E z4 |
+z A A A A G E G |
+E2 z6 |
+z2 A A G G G G/ G/ |
+E/ G/ G/ G/ G E z4 |
+z2 +mf+ D +ff+ G2 +mf+ D +ff+ G +mf+ D |
+z5 g z2 |
+z3 +ff+ G g4- |
+g8 |
+% Bar 80 (3:05)
+z4 G2 G G/ G/- |
+G/ +mf+ G/ z4 +ff+ A G z |
+z3 G g4- |
+g8 |
+z3 G2 G G G |
+z D z6 |
+z8 |
+z2 |]
+
+X: 10
+%%Orig filename was Werewolves2Drums.abc
+T: Werewolves of London v2 (3:21) - Basic Drum
+%%part-name Basic Drum
+%%made-for Basic Drum
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++fff+ z5 E E a |
+[A2^A2] [^C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] [C,A] |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [Ac] C, [C,A] [C,E] [C,A] |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] [C,A] |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] c [C,E] [C,A] C, [C,A] [Ec-] [Ac] |
+% Bar 10 (0:21)
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, +ffff+ [^CE] [CE] [CE] |
++fff+ [A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+% Bar 20 (0:45)
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, E/ E/ E/ E/ a/ a/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+% Bar 30 (1:08)
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] [^CE] +ffff+ [CE] [CE] [CE] |
++fff+ [A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+% Bar 40 (1:31)
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] c [C,A] [C,E] C, |
+[^C,A^A] C, [C,E] C, [Ac] [Ac] [C,E] c |
++ffff+ [^Ac] [Ac] +fff+ [Ec] +ffff+ c +fff+ [EA] E/ E/ B,/ B,/ B,/ B,/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] C, |
++ffff+ [^C,^A] C, +fff+ [C,E] +ffff+ C, +fff+ E/ +mf+ E/ z/ +fff+ E/ E/ E/ E/ E/ |
+[A^A] ^C, [C,E] C, [C,A] [C,A] [C,E] C, |
++ffff+ [^Ac] [Ac] +fff+ [^C,E] +ffff+ C, +fff+ [Ac] c [Ec] c |
+[^C,^A] C, [C,E] C, [C,A] [C,A] [C,E] C, |
+[^Ac] [Ac] [Ec] c E E/ E/ E a |
+% Bar 50 (1:55)
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] C, E E E/ E/ E/ E/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [Ec] [Ec] E/ E/ E/ E/ a/ a/ a/ a/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+% Bar 60 (2:18)
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] C, |
+[^C,^A] C, [C,E] C, a E B,/ B,/ G,/ a/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] [C,E] |
+[^C,A^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+% Bar 70 (2:41)
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] C, [C,A] E/ E/ E/ E/ a/ a/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^CE] [CE] [CE] [CE] [CE] [CE] [CE] [CE] |
+% Bar 80 (3:05)
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] C, E E B,/ a/ E/ E/ |
+[A^A] ^C, [C,E] C, [C,A] C, [C,E] [C,A] |
+[^C,^A] C, [C,E] [C,A] C, [C,A] [C,E] C, |
+[^C,^A] C, [C,E] C, [C,A] C, [C,E] [C,A] |
+z2 |]
+
+X: 4
+%%Orig filename was Werewolves2Horn.abc
+T: Werewolves of London v2 (3:21) - Basic Horn
+%%part-name Basic Horn
+%%made-for Basic Horn
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z2 G G G +ff+ E +ffff+ G +ff+ G |
++ffff+ G G/ G/ E D z4 |
+z2 G/ G/ G/ G/ G +ff+ E +ffff+ G G |
+G +ff+ G +ffff+ G G z4 |
+z3 G/ +ff+ E/ +ffff+ G/ +ff+ E/ +ffff+ G/ +ff+ E/ G G |
++ffff+ G G D D z4 |
+z3 G/ G/ G/ G/ G G E |
+G G G G3 z2 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+% Bar 20 (0:45)
+z3 G g4- |
+g8 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+z3 G g4- |
+g8 |
+z2 A A A G G E |
+G G +ff+ E +ffff+ D z4 |
+z4 A/ B/ A/ z/ +ff+ G/ G/ +ffff+ G/3 ^G/3 ^A/3 |
+z8 |
+% Bar 30 (1:08)
+z2 A/ A/ A A G G E |
+G G z E z4 |
+z A A G A// ^A// B/ +ff+ =A +ffff+ G +ff+ G- |
+G2 z6 |
+z3 +ffff+ G g4 |
+G2 G G/ G G/ z3 |
+z3 G g4- |
+g8 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+% Bar 40 (1:31)
+z3 G g4- |
+g8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 z2/3 +ff+ B2/3 B2/3 |
+% Bar 50 (1:55)
+B +ffff+ A/ A/ A A z3 G |
+G G/ G3/2 E z4 |
++ff+ A +ffff+ A A A A G/ G/ z +ff+ G/ +ffff+ G/- |
+G D z6 |
+z/ +ff+ B/ c/ B/ c/ B/ c A/ c// ^c/ d3/4 z2 |
+z/ A/ d/ ^c/ ^d// =d// c// =c// B// ^A// =A3/2 A// ^A// B// ^c// z2 |
+z2 d// c// ^A// =A// +ffff+ G G G/ G/ G +ff+ G |
+G,2 z6 |
+z3 +ffff+ G g4 |
+G2 G G/ G G/ z3 |
+% Bar 60 (2:18)
+z3 G g4- |
+g8 |
+z3 G g4 |
+G2 G G/ G G/ z3 |
+z3 G g4- |
+g8 |
+z +ff+ D +ffff+ G G G z2 G |
+G G G E z4 |
+z2 A/ A/ A/ A3/2 G +ff+ G +ffff+ G |
++ff+ G2 z6 |
+% Bar 70 (2:41)
+z5/2 E/ +ffff+ G +ff+ G +ffff+ G +ff+ G +ffff+ A// ^A// B/ |
+G/ G/ G G E z4 |
+z A A A A G E G |
+E2 z6 |
+z2 A A G G G G/ G/ |
+E/ G/ G/ G/ G E z4 |
+z2 +ff+ D +ffff+ G2 +ff+ D +ffff+ G +ff+ D |
+z5 g z2 |
+z3 +ffff+ G g4- |
+g8 |
+% Bar 80 (3:05)
+z4 G2 G G/ G/- |
+G/ +ff+ G/ z4 +ffff+ A G z |
+z3 G g4- |
+g8 |
+z3 G2 G G G |
+z D z6 |
+z8 |
+z2 |]
+
+X: 21
+%%Orig filename was Werewolves2Lute.abc
+T: Werewolves of London v2 (3:21) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++p+ z8 |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 10 (0:21)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 20 (0:45)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 30 (1:08)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 40 (1:31)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 50 (1:55)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 60 (2:18)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 70 (2:41)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+% Bar 80 (3:05)
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+[dg] [dg] [eg] [d5g5] |
+[db] [d3a3] [ca] [c3g3] |
+z2 |]
+
+X: 18
+%%Orig filename was Werewolves2Pipes.abc
+T: Werewolves of London v2 (3:21) - Basic Bagpipe
+%%part-name Basic Bagpipe
+%%made-for Basic Bagpipe
+C: Warren Zevon
+Z: Raymiond of Sting
+M: 4/4
+Q: 103
+K: C maj
+L: 1/8
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:08)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:31)
+z8 |
+z7 D, |
+F,// E,/ ^D,// =D, E,/ F,/ D, ^F,3/4 G,// G,2 D, |
+A,// ^A,// B,/ =A,// ^A,// B,/ D4 =A,// ^A,// B,/ D/ +mp+ B,/ |
++mf+ [D2^F2] [E//^G//-] [=F//G//] [^F3/2A3/2] [=G2B2] [Ad] [A//^f//-] [^A//f//] [B/-g/-] |
+[Bg] [G2d2] [g3-b3] +pp+ [gb] +mf+ D, |
+^F,// =F,// E,// ^D,// =D, D3/2 D/ D/ D/ D/ G,// z// E/ ^D/ =D |
+G A// ^A// B3/2 G/ G/ B/ A/ =A G g- |
+g d// ^d// e// d// =d g2 d/ ^c3/4 =c/ B// B |
+[Bg] [ca] [d/b/] [^c/-^a/] [c//=a//-] [=c//-a//] [c//^g//] [B//=g//] [Bg] [G3d3] |
+% Bar 50 (1:55)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (3:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 |]
+

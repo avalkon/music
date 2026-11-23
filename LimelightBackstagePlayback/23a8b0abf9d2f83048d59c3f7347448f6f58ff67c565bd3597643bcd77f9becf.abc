@@ -1,0 +1,265 @@
+N: TS  4,   9  21   5  22
+X: 9
+%%Orig filename was HomuraAges1.abc
+T: Homura (2:35) - Lute of Ages 1
+%%part-name Lute of Ages 1
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 76
+K: C maj
+
++mf+ G B, E G ^F D A, D |
+c G A D//- [D3/4-G3/4-B3/4-] [D2-G2-B2-] [D-G-B-] [D3/4G3/4B3/4] z// |
+B,//- [B,//-E//-^F//-] [B,E-F-B-] [E/F/B/] E/ F/ B/ e/ ^d2 e/ d/ e/ ^f/ |
++f+ e2 e/ ^d/ e/ ^f/ e2 e/ d/ e/ f/ |
+^g a/ ^f e/ e/ g13/4 z// g/ a/ |
+b b/ b b b e/ e e ^d |
+z/ ^c/ b ^f/ b/ ^g- g- g3/4 z// e/ ^d/ e/ f/ |
+[E2e2] e/ ^d/ e/ ^f/ ^g2- g3/4 z// g/ a/ |
+b b/ b3/2 b c' ^c ^d e- |
+% Bar 10 (0:28)
+e ^c b a b e/ e3/2 e |
+^f ^g/ a g/ g- g2- g- g3/4 z// |
+z ^c b a b e/ e3/2 e |
+^f ^g/ f e/ g- g2- g- g3/4 z// |
+z a ^g ^f g e/ e3/2 e |
+^f e ^d/ e/ e- e- e3/4 z// ^g/ f/ e- |
+e2- e3/4 z// a ^g e ^f3/2 g/- |
+^g2- g3/4 z// b- b2- b3/4 z// e- |
+e4- e2- e3/2 z/ |
+z3/2 b/ ^f/ ^d/ B/ ^F/ ^D/ B,/ ^F,/ +ff+ ^D,/ [E,/E/] [D,/D/] [E,/E/] [F,/F/] |
+% Bar 20 (1:00)
+[E,2^G,2B,2E2] [E,/E/] [^D,/^D/] [E,/E/] [^F,/^F/] [E,2G,2B,2E2] [E,/E/] [D,/D/] [E,/E/] [F,/F/] |
+[^G,^G] [A,/A/] [^F,^F] [E,/E/] [E,/E/] [G,3/2B,3/2E3/2G3/2] [G,E] [F,B,^D] [G,/G/] [A,/A/] |
+[B,E^GB] [B,/E/G/B/] [B,EGB] [B,EGB] [B,EB] [E,/E/] [E,E] [Ee] [^D-^d-] |
+[^D/^d/] [^C/^c/] [B,B] [^F,/^F/] [B,/B/] [^G,-=C-^G-] [G,-C-G-] [G,3/4C3/4G3/4] z// [E/e/] [D/d/] [E/e/] [F/^f/] |
+[E2^G2B2e2] [E/e/] [^D/^d/] [E/e/] [^F/^f/] [G2-^c2-e2-^g2-] [G3/4c3/4e3/4g3/4] z// [G/g/] [A/a/] |
+[Bb] [B/b/] [B3/2b3/2] [Bb] [cc'] ^c ^d e- |
+e ^c [Bb] [Aa] [Bb] [E/e/] [E3/2e3/2] [Ee] |
+[^FA^c^f] [^G/^g/] [Acea] [G/g/] [G-c-e-g-] [G-c-e-g-] [G3/4c3/4e3/4g3/4] z// [^G,2B,2E2] |
+z ^c [Bb] [Aa] [Bb] [E/e/] [E3/2e3/2] [Ee] |
+[^F^f] [^G/^g/] [Ff] [E/e/] [G-g-] [G-g-] [G3/4g3/4] z// [^G,2B,2] |
+% Bar 30 (1:31)
+z [Aa] [^G^g] [^F^f] [Gg] [E/e/] [E3/2e3/2] [Ee] |
+[^F^f] [Ee] [^D/^d/] [E/e/] [E-^G-B-e-] [E-G-B-e-] [E3/4G3/4B3/4e3/4] z// [G/^g/] [F/f/] [E-e-] |
+[E2-e2-] [E3/4e3/4] z// [Aa] [^G^g] +f+ [Ee] [^F3/2^f3/2] [G/-g/-] |
+[^G^g] +mf+ ^G, ^C E ^D B, ^F, B, |
+A E ^F [B,//-E//-] [B,3/4-E3/4-^G3/4-] [B,2-E2-G2-] [B,-E-G-] [B,3/4E3/4G3/4] z// |
++ff+ [C,2^D,2-^G,2-] [D,-G,-] [D,3/4G,3/4] z9/4 [^C/^c/] [=C/=c/] [^C/^c/] [^D/^d/] |
+[^C2F2^G2^c2] [C/c/] [=C/=c/] [^C/^c/] [^D/^d/] [C2^F2^A2c2] [C/c/] [=C/=c/] [^C/^c/] [D/d/] |
+[Ff] [^F/^f/] [^D^d] [^C/^c/] [C/c/] [=F3/2^G3/2c3/2=f3/2] [Fc] [DG=c] [F/f/] [^F/^f/] |
+[^G^cf^g] [G/c/f/g/] [Gcfg] [Gcfg] [Gcfg] [^C/c/] [Cc] c [=c-c'-] |
+[c/c'/] [^A/^a/] [^G^g] [^D/^d/] [G/g/] [F-=A-f-] [F-A-f-] [F3/4A3/4f3/4] z// [^C/^c/] [=C/=c/] [^C/^c/] [D/d/] |
+% Bar 40 (2:03)
+[^C2F2^G2^c2] [C/c/] [=C/=c/] [^C/^c/] [^D/^d/] [F2-^A2-c2-f2-] [F3/4A3/4c3/4f3/4] z// [F/f/] [^F/^f/] |
+[^G^g] [G/g/] [G3/2g3/2] [Gg] [Aa] [^A^a] [cc'] ^c- |
+^c [^A^a] [^G^g] [^F^f] [Gg] [^C/c/] [C3/2c3/2] [Cc] |
+[^D^F^A^d] [=F/f/] [^F=Ac^f] [=F/=f/] [F-^A-^c-f-] [F-A-c-f-] [F3/4A3/4c3/4f3/4] z// [F,2^G,2^C2] |
+z [^A^a] [^G^g] [^F^f] [Gg] [^C/^c/] [C3/2c3/2] [Cc] |
+[^D^d] [F/f/] [Dd] [^C/^c/] [F-f-] [F-f-] [F3/4f3/4] z// [F,2^G,2] |
+z [^F^f] [=F=f] [^D^d] [Ff] [^C/^c/] [C3/2c3/2] [Cc] |
+[^D^d] [^C^c] [=C/=c/] [^C/^c/] [C-F-^G-c-] [C-F-G-c-] [C3/4F3/4G3/4c3/4] z// [F/f/] [D/d/] [C-c-] |
+[^C2-^c2-] [C3/4c3/4] z// [^F^f] [=F=f] +f+ [Cc] [^D3/2^d3/2] [F/-f/-] |
++mf+ [^C,2-F2-f2-] [C,3/4-F3/4f3/4] C,//- [C,3/4^G3/4-^g3/4-] [G//-g//-] [=C,2-G2-g2-] [C,3/4-G3/4g3/4] C,//- [C,3/4^C3/4-^c3/4-] [C//-c//-] |
+% Bar 50 (2:34)
+[^C4-^c4-] [C2-c2-] [C3/2c3/2] z/ |]
+
+X: 21
+%%Orig filename was HomuraAges2.abc
+T: Homura (2:35) - Lute of Ages 2
+%%part-name Lute of Ages 2
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 76
+K: C maj
+
++mf+ g B e g ^f d A d |
+c' g a d//- [d3/4-g3/4-b3/4-] [d2-g2-b2-] [d-g-b-] [d3/4g3/4b3/4] z// |
+B//- [B//-e//-^f//-] [Be-f-b-] [e/f/b/] e/ f/ b/ e/ ^d2 e/ d/ e/ f/ |
++f+ e2 e/ ^d/ e/ ^f/ e2 e/ d/ e/ f/ |
+^g a/ ^f e/ e/ g13/4 z// g/ a/ |
+b b/ b b b e/ e e ^d |
+z/ ^c/ b ^f/ b/ ^g- g- g3/4 z// e/ ^d/ e/ f/ |
+e2 e/ ^d/ e/ ^f/ ^g2- g3/4 z// g/ a/ |
+b b/ b3/2 b c' ^c ^d e- |
+% Bar 10 (0:28)
+e ^c b a b e/ e3/2 e |
+^f ^g/ a g/ g- g2- g- g3/4 z// |
+z ^c b a b e/ e3/2 e |
+^f ^g/ f e/ g- g2- g- g3/4 z// |
+z a ^g ^f g e/ e3/2 e |
+^f e ^d/ e/ e- e- e3/4 z// ^g/ f/ e- |
+e2- e3/4 z// a ^g e ^f3/2 g/- |
+^g2- g3/4 z// b- b2- b3/4 z// e- |
+e4- e2- e3/2 z/ |
+z3/2 b/ ^f/ ^d/ b/ f/ d/ B/ ^F/ +ff+ ^D/ [E/e/] [D/d/] [E/e/] [F/f/] |
+% Bar 20 (1:00)
+[E2^G2B2e2] [E/e/] [^D/^d/] [E/e/] [^F/^f/] [E2G2B2e2] [E/e/] [D/d/] [E/e/] [F/f/] |
+[^G^g] [A/a/] [^F^f] [E/e/] [E/e/] [G3/2B3/2e3/2g3/2] [Ge] [FB^d] [G/g/] [A/a/] |
+[Be^gb] [B/e/g/b/] [Begb] [Begb] [Beb] [E/e/] [Ee] e ^d- |
+^d/ ^c/ [Bb] [^F/^f/] [B/b/] [^G-=c-^g-] [G-c-g-] [G3/4c3/4g3/4] z// e/ d/ e/ f/ |
+[e2^g2b2] e/ ^d/ e/ ^f/ [^c2-e2-g2-] [c3/4e3/4g3/4] z// g/ a/ |
+b b/ b3/2 b c' ^c ^d e- |
+e ^c b a b e/ e3/2 e |
+[^c^fa] ^g/ [cea] g/ [c-e-g-] [c-e-g-] [c3/4e3/4g3/4] z// [^G2B2e2] |
+z ^c b a b e/ e3/2 e |
+^f ^g/ f e/ g- g- g3/4 z// [^G2B2] |
+% Bar 30 (1:31)
+z a ^g ^f g e/ e3/2 e |
+^f e ^d/ e/ [e-^g-b-] [e-g-b-] [e3/4g3/4b3/4] z// g/ f/ e- |
+e2- e3/4 z// a ^g +f+ e ^f3/2 g/- |
+^g +mf+ ^G ^c e ^d B ^F B |
+a e ^f [B//-e//-] [B3/4-e3/4-^g3/4-] [B2-e2-g2-] [B-e-g-] [B3/4e3/4g3/4] z// |
++ff+ [C2^D2-^G2-] [D-G-] [D3/4G3/4] z9/4 ^c/ [=c/c'/] ^c/ ^d/ |
+[^c2f2^g2] c/ [=c/c'/] ^c/ ^d/ [c2^f2^a2] c/ [=c/c'/] ^c/ d/ |
+f ^f/ ^d ^c/ c/ [c3/2=f3/2^g3/2] [cf] [dgc'] f/ ^f/ |
+[^cf^g] [c/f/g/] [cfg] [cfg] [cfg] c/ c c c'- |
+c'/ ^a/ ^g ^d/ g/ [f-=a-] [f-a-] [f3/4a3/4] z// ^c/ [=c/c'/] ^c/ d/ |
+% Bar 40 (2:03)
+[^c2f2^g2] c/ [=c/c'/] ^c/ ^d/ [c2-f2-^a2-] [c3/4f3/4a3/4] z// f/ ^f/ |
+^g g/ g3/2 g a ^a c' ^c- |
+^c ^a ^g ^f g c/ c3/2 c |
+[^d^f^a] =f/ [^f=ac'] =f/ [^c-f-^a-] [c-f-a-] [c3/4f3/4a3/4] z// [F2^G2c2] |
+z ^a ^g ^f g ^c/ c3/2 c |
+^d f/ d ^c/ f- f- f3/4 z// [F2^G2] |
+z ^f =f ^d f ^c/ c3/2 c |
+^d ^c [=c/c'/] ^c/ [c-f-^g-] [c-f-g-] [c3/4f3/4g3/4] z// f/ d/ c- |
+^c2- c3/4 z// ^f =f +f+ c ^d3/2 f/- |
++mf+ [^C2-f2-] [C3/4-f3/4] C//- [C3/4^g3/4-] g//- [=C2-g2-] [C3/4-g3/4] C//- [C3/4^c3/4-] c//- |
+% Bar 50 (2:34)
+^c4- c2- c3/2 z/ |]
+
+X: 5
+%%Orig filename was HomuraHarp1.abc
+T: Homura (2:35) - Basic Harp 1
+%%part-name Basic Harp 1
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 76
+K: C maj
+
++mp+ e2- e- e3/4 z// d2- d- d3/4 z// |
+c' g c' g- g d g a |
+b ^f/ b/ z2 [f2-b2-] [f-b-] [f3/4b3/4] z// |
++mf+ ^c b e ^g ^f e a c |
+b a ^d ^f e b d ^g |
+^c b e ^g ^f e a c |
+b a ^d ^f c' ^g/ c'/ [^c/^a/] [d/c'/] [c/e/] [d/f/] |
+^c b e ^g ^f e a c |
+b a ^d ^f ^g d/ g/ c' a- |
+% Bar 10 (0:28)
+a e b ^c ^g e g b |
+[^c2^d2^a2] [d/^g/c'/] z/ [c-e-] [ce] b e g |
+a e b ^c ^g e g b |
+^g ^d [gc'] ^c- c g [ce] b |
+a e b ^c ^g e [g2b2] |
+^g ^d/ g/ c' ^c- c g [e2b2] |
+^f ^c [e2a2] B2 [^d2f2b2] |
+^C ^c ^g b B ^f b f |
+A e b ^c- c2- c- c3/4 z// |
++fff+ B,/ B, +mf+ b/ ^f/ ^d/ B/ ^F/ ^D/ B,/ ^F,/ +f+ ^D,/ +fff+ B,2 |
+% Bar 20 (1:00)
++f+ [^C,3/2^C3/2] ^c/ [c^g] C/ c/ [A,3/2A3/2] A/ [cea] A,/ A/ |
+[B,3/2B3/2] B/ [^d^fb] B,/ B/ [E,2E2] [^D,2^D2] |
+[^C,3/2^C3/2] ^c/ [c^g] C/ c/ [A,3/2A3/2] A/ [cea] [B,-B-] |
+[B,/B/] B/ ^d/ ^f/ b [B,B] [Cc] c'/ ^g/ d/ c/ ^G/ ^D/ |
+[^C,3/2^C3/2] ^c/ [c^g] C/ c/ [A,3/2A3/2] A/ [cea] A,/ A/ |
+[B,3/2B3/2] B/ [^d^fb] B,/ B/ [^G,3/2^G3/2] d/ [^gc'] [A,-A-] |
+[A,A] A/ e/ ^c/ e/ A [^G,^G] G/ e/ b G,/ G/ |
+[^D,2^D2] [^G,^G] [^C,3/2^C3/2] ^c/ ^g/ c/ e C/ c/ |
+[A,3/2A3/2] A/ [^cea] A,/ A/ [^G,^G] G/ e/ [^g2b2] |
+[^G,3/2^G3/2] ^d/ [^gc'] [^C3/2^c3/2] c/ g/ c/ e [Cc] |
+% Bar 30 (1:31)
+[A,A] A/ ^c/ [ea] A,/ A/ [^G,^G] G/ e/ b [G,G] |
+[^G,3/2^G3/2] ^d/ [^gc'] [^C3/2^c3/2] c/ g/ c/ e [B,B] |
+[A,2A2] [e2a2] [B,2B2] +mf+ [^f2b2] |
++mp+ ^c2- c- c3/4 z// b2- b- b3/4 z// |
+a e a e- e b e ^f/ ^D/ |
++f+ [^G,^G] G/ ^d/ [^g/c'/-] [d/c'/-] [G/c'/-] [G,//-c'//] G,// [G,2G2] z/ [G,3/2G3/2] |
+^A,3/2 ^A/ [^cf^a] A,/ A/ [^F,3/2^F3/2] F/ [Ac^f] F,/ F/ |
+[^G,3/2^G3/2] G/ [c^d^g] G,/ G/ [^C,2^C2] [=C,2=C2] |
+^A,3/2 ^A/ [^cf^a] A,/ A/ [^F,3/2^F3/2] F/ [Ac^f] [^G,-^G-] |
+[^G,/^G/] G/ c/ ^d/ ^g [G,G] [A,A] a/ f/ c/ A/ F/ C/ |
+% Bar 40 (2:03)
+^A,3/2 ^A/ [^cf^a] A,/ A/ [^F,3/2^F3/2] F/ [Ac^f] F,/ F/ |
+[^G,3/2^G3/2] G/ [c^d^g] G,/ G/ [F,3/2F3/2] c/ [fa] [^F,-^F-] |
+[^F,^F] F/ ^c/ ^a/ c/ F [=F,=F] F/ c/ ^g F,/ F/ |
+[C,2C2] [F,F] ^A,3/2 ^A/ f/ ^a/ ^c A,/ A/ |
+[^F,3/2^F3/2] F/ [^A^c^f] F,/ F/ [=F,=F] F/ c/ [=f2^g2] |
+[F,3/2F3/2] c/ [fa] [^A,3/2^A3/2] A/ f/ ^a/ ^c [A,A] |
+[^F,^F] F/ ^A/ [^c^f] F,/ F/ [=F,=F] F/ c/ ^g [F,F] |
+[F,3/2F3/2] c/ [fa] [^A,3/2^A3/2] A/ f/ ^a/ ^c [^G,^G] |
+[^F,2^F2] [^c2^f2] [^G,2^G2] +mf+ [^d2^g2] |
++mp+ [^A,2^A2] f2 [^G,2-^G2-] [G,3/4G3/4] z// ^a |
+% Bar 50 (2:34)
+[^F,4-^F4-] [F,2-F2-] [F,3/2F3/2] z/ |]
+
+X: 22
+%%Orig filename was HomuraHarp2.abc
+T: Homura (2:35) - Basic Harp 2
+%%part-name Basic Harp 2
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 76
+K: C maj
+
++mp+ E2- E- E3/4 z// D2- D- D3/4 z// |
+C G c G,- G, D G A |
+B, ^F/ B/ z2 [B,2-F2-B2-] [B,-F-B-] [B,3/4F3/4B3/4] z// |
++mf+ ^C B e ^g ^F, E A ^c |
+B, A ^d ^f E B d ^g |
+^C B e ^g ^F, E A ^c |
+B, A ^d ^f C ^G/ c/ [^A/^c/] [=c/d/] [^c/e/] [d/f/] |
+[^C^c] B e ^g ^F, E A c |
+B, A ^d ^f ^G, ^D/ ^G/ c A,- |
+% Bar 10 (0:28)
+A, E B ^c ^G, E ^G B |
+[^D,2^A,2^C2] [^G,/=C/^D/] z/ [^C,-E-] [C,E] B, E ^G |
+A, E B ^c ^G, E ^G B |
+^G, ^D [^Gc] ^C- C G [^ce] B, |
+A, E B ^c ^G, E [^G2B2] |
+^G, ^D/ ^G/ c ^C- C G [B2e2] |
+^F, ^C [E2A2] B,2 [B,2^D2^F2] |
+^C, C, ^G, B, B, ^F, B, F, |
+A, E, B, ^C- C2- C- C3/4 z// |
++fff+ B,/ B, +mf+ B,/ ^F,/ ^D,/ B,/ F,/ D,/ B,/ F,/ +f+ D,/ +fff+ B,2 |
+% Bar 20 (1:00)
++f+ ^C,3/2 C,/ [^G,^C] C,/ C,/ A,3/2 A,/ [C,E,A,] A,/ A,/ |
+B,3/2 B,/ [^D,^F,B,] B,/ B,/ E,2 D,2 |
+^C,3/2 C,/ [^G,^C] C,/ C,/ A,3/2 A,/ [C,E,A,] B,- |
+B,/ B,/ ^D,/ ^F,/ B, B, C, C/ ^G,/ D,/ C,/ G,/ D,/ |
+^C,3/2 C,/ [^G,^C] C,/ C,/ A,3/2 A,/ [C,E,A,] A,/ A,/ |
+B,3/2 B,/ [^D,^F,B,] B,/ B,/ ^G,3/2 D,/ [G,C] A,- |
+A, A,/ E,/ ^C/ E,/ A, ^G, G,/ E,/ B, G,/ G,/ |
+^D,2 ^G, ^C,3/2 C,/ G,/ ^C/ E C,/ C,/ |
+A,3/2 A,/ [^C,E,A,] A,/ A,/ ^G, G,/ E,/ [G,2B,2] |
+^G,3/2 ^D,/ [G,C] ^C,3/2 C,/ G,/ ^C/ E C, |
+% Bar 30 (1:31)
+A, A,/ ^C,/ [E,A,] A,/ A,/ ^G, G,/ E,/ B, G, |
+^G,3/2 ^D,/ [G,C] ^C,3/2 C,/ G,/ ^C/ E B, |
+A,2 [E,2A,2] B,2 +mf+ [^F,2B,2] |
++mp+ ^C2- C- C3/4 z// B,2- B,- B,3/4 z// |
+A, E A E,- E, B, E ^F/ ^D,/ |
++f+ ^G, G,/ ^D,/ [G,/C/-] [D,/C/-] [G,/C/-] [G,//-C//] G,// G,2 z/ G,3/2 |
+^A,3/2 A,/ [F,A,^C] A,/ A,/ ^F,3/2 F,/ [^C,F,A,] F,/ F,/ |
+^G,3/2 G,/ [C,^D,G,] G,/ G,/ ^C,2 =C,2 |
+^A,3/2 A,/ [F,A,^C] A,/ A,/ ^F,3/2 F,/ [^C,F,A,] ^G,- |
+^G,/ G,/ C,/ ^D,/ G, G, A, A,/ F,/ C,/ A,/ F,/ C,/ |
+% Bar 40 (2:03)
+^A,3/2 A,/ [F,A,^C] A,/ A,/ ^F,3/2 F,/ [^C,F,A,] F,/ F,/ |
+^G,3/2 G,/ [C,^D,G,] G,/ G,/ F,3/2 C,/ [F,A,] ^F,- |
+^F, F,/ ^C,/ ^A,/ C,/ F, =F, F,/ C,/ ^G, F,/ F,/ |
+C,2 F, ^A,3/2 A,/ F,/ A,/ ^C A,/ A,/ |
+^F,3/2 F,/ [^C,F,^A,] F,/ F,/ =F, F,/ C,/ [F,2^G,2] |
+F,3/2 C,/ [F,A,] ^A,3/2 A,/ F,/ A,/ ^C A, |
+^F, F,/ ^A,/ [^C,F,] F,/ F,/ =F, F,/ C,/ ^G, F, |
+F,3/2 C,/ [F,A,] ^A,3/2 A,/ F,/ A,/ ^C ^G, |
+^F,2 [^C,2F,2] ^G,2 +mf+ [^D,2G,2] |
++mp+ ^A,2 F2 ^G,2- G,3/4 z// A, |
+% Bar 50 (2:34)
+^F,4- F,2- F,3/2 z/ |]
+

@@ -1,0 +1,343 @@
+N: TS  6,   9   2   5  12   8   6
+X: 9
+%%Orig filename was KarjaAges.abc
+T: Karjalan Kunnailla (1:23) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Stratovarius
+Z: Kellinore of Gladden
+M: 3/4
+Q: 82
+K: C maj
+L: 1/8
+
++f+ z6 |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,2B2] |
+^C- [C-^G] [C-^c] [C-e] [C2c2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+% Bar 10 (0:19)
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+% Bar 20 (0:41)
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+^C- [C-^G] [C-^c] [C-e] [C-c] [CG] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+% Bar 30 (1:03)
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,2^A2] |
+%%Q: 68
+G,41/34- [G,41/34-^D41/34] [G,41/34-G41/34] [G,41/34-^d41/34] [G,41/17^A41/17] |
+%%Q: 67
+E82/67- [E82/67-^G82/67] [E82/67-B82/67] [E82/67-e82/67] [E82/67-B82/67] [E82/67G82/67] |
+%%Q: 74
+^C41/37- [C41/37-^G41/37] [C41/37-^c41/37] [C41/37-^d41/37] [C41/37-c41/37] [C41/37G41/37] |
+%%Q: 51
+^G,82/51- [G,82/51-^D82/51] [G,82/51-^G82/51] [G,82/51-^d82/51] [G,82/51-^A82/51] [G,82/51B82/51] |
+^G,82/17 |]
+
+X: 2
+%%Orig filename was KarjaFiddle.abc
+T: Karjalan Kunnailla (1:23) - Basic Fiddle
+%%part-name Basic Fiddle
+%%made-for Basic Fiddle
+C: Stratovarius
+Z: Kellinore of Gladden
+M: 3/4
+Q: 82
+K: C maj
+L: 1/8
+
++mp+ z4 ^D,3/2 z/ |
+B,4 ^F, ^G, |
+^A,2 A,2 B,3/2 z/ |
+^G,7/2 z/ G,2 |
+^D,7/2 z/ B, D, |
+^F,2 F,2 B,3/2 z/ |
+^G,2 G,2 E,3/2 z/ |
+^D,4 G,3/2 z/ |
+^A,2 z2 ^D, D, |
+% Bar 10 (0:19)
+B,4 ^D2 |
+^A,2 A, z B, +p+ A, |
++mp+ ^G,4 ^A,2 |
+^D,7/2 z/ ^A, +p+ B, |
++mp+ ^G,2 G,2 ^A,2 |
+^D4 G,3/2 z/ |
+^A,3 ^G,/ z/ A, +p+ B, |
++mp+ ^G,4 z2 |
+z5 ^D, |
+B,4 ^F, +p+ ^G, |
+% Bar 20 (0:41)
++mp+ ^A,2 A,3/2 z/ A, +p+ B, |
++mp+ ^G,2 G,2 G,2 |
+^D,7/2 z/ B, D, |
+^F,2 F,2 B,2 |
+^G,2 G,3/2 z// E,// ^D,3/2 z/ |
+^D,2 D,2 F,2 |
+G,3 z ^D,2 |
+B,7/2 z/ ^D2 |
+^A,2 A,2 +p+ B,3/2 z/ |
++mp+ ^G,2 G,2 ^A,2 |
+% Bar 30 (1:03)
+^D,7/2 z/ ^A, +p+ B, |
++mp+ ^G,2 G,2 ^A,2 |
+^D2 D3/2 z/ G, +p+ ^G,/ z/ |
+%%Q: 68
++mp+ ^A,41/17 A,41/34 +p+ ^G,41/34 A,41/34 B,41/68 z41/68 |
+%%Q: 67
++mp+ ^G,492/67 |
+%%Q: 74
+z246/37 |
+%%Q: 51
+z164/17 |
+z82/17 |]
+
+X: 5
+%%Orig filename was KarjaHarp.abc
+T: Karjalan Kunnailla (1:23) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+C: Stratovarius
+Z: Kellinore of Gladden
+M: 3/4
+Q: 82
+K: C maj
+L: 1/8
+
++f+ z6 |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,2B2] |
+^C- [C-^G] [C-^c] [C-e] [C2c2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+% Bar 10 (0:19)
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+% Bar 20 (0:41)
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+^C- [C-^G] [C-^c] [C-e] [C-c] [CG] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+% Bar 30 (1:03)
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,2^A2] |
+%%Q: 68
+G,41/34- [G,41/34-^D41/34] [G,41/34-G41/34] [G,41/34-^d41/34] [G,41/17^A41/17] |
+%%Q: 67
+E82/67- [E82/67-^G82/67] [E82/67-B82/67] [E82/67-e82/67] [E82/67-B82/67] [E82/67G82/67] |
+%%Q: 74
+^C41/37- [C41/37-^G41/37] [C41/37-^c41/37] [C41/37-^d41/37] [C41/37-c41/37] [C41/37G41/37] |
+%%Q: 51
+^G,82/51- [G,82/51-^D82/51] [G,82/51-^G82/51] [G,82/51-^d82/51] [G,82/51-^A82/51] [G,82/51B82/51] |
+^G,82/17 |]
+
+X: 12
+%%Orig filename was KarjaLonely.abc
+T: Karjalan Kunnailla (1:23) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+%%made-for Lonely Mountain Fiddle
+C: Stratovarius
+Z: Kellinore of Gladden
+M: 3/4
+Q: 82
+K: C maj
+L: 1/8
+
++ffff+ z4 ^D,3/2 z/ |
+B,4 ^F, ^G, |
+^A,2 A,2 B,3/2 z/ |
+^G,7/2 z/ G,2 |
+^D,7/2 z/ B, D, |
+^F,2 F,2 B,3/2 z/ |
+^G,2 G,2 E,3/2 z/ |
+^D,4 G,3/2 z/ |
+^A,2 z2 ^D, D, |
+% Bar 10 (0:19)
+B,4 ^D2 |
+^A,2 A, z B, A, |
+^G,4 ^A,2 |
+^D,7/2 z/ ^A, B, |
+^G,2 G,2 ^A,2 |
+^D4 G,3/2 z/ |
+^A,3 ^G,/ z/ A, B, |
+^G,4 z2 |
+z5 ^D, |
+B,4 ^F, ^G, |
+% Bar 20 (0:41)
+^A,2 A,3/2 z/ A, B, |
+^G,2 G,2 G,2 |
+^D,7/2 z/ B, D, |
+^F,2 F,2 B,2 |
+^G,2 G,3/2 z// E,// ^D,3/2 z/ |
+^D,2 D,2 F,2 |
+G,3 z ^D,2 |
+B,7/2 z/ ^D2 |
+^A,2 A,2 B,3/2 z/ |
+^G,2 G,2 ^A,2 |
+% Bar 30 (1:03)
+^D,7/2 z/ ^A, B, |
+^G,2 G,2 ^A,2 |
+^D2 D3/2 z/ G, ^G,/ z/ |
+%%Q: 68
+^A,41/17 A,41/34 ^G,41/34 A,41/34 B,41/68 z41/68 |
+%%Q: 67
+^G,492/67 |
+%%Q: 74
+z246/37 |
+%%Q: 51
+z164/17 |
+z82/17 |]
+
+X: 8
+%%Orig filename was KarjaLute.abc
+T: Karjalan Kunnailla (1:23) - Basic Lute
+%%part-name Basic Lute
+%%made-for Basic Lute
+C: Stratovarius
+Z: Kellinore of Gladden
+M: 3/4
+Q: 82
+K: C maj
+L: 1/8
+
++f+ z6 |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,2B2] |
+^C- [C-^G] [C-^c] [C-e] [C2c2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+% Bar 10 (0:19)
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+% Bar 20 (0:41)
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+^C- [C-^G] [C-^c] [C-e] [C-c] [CG] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+% Bar 30 (1:03)
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,2^A2] |
+%%Q: 68
+G,41/34- [G,41/34-^D41/34] [G,41/34-G41/34] [G,41/34-^d41/34] [G,41/17^A41/17] |
+%%Q: 67
+E82/67- [E82/67-^G82/67] [E82/67-B82/67] [E82/67-e82/67] [E82/67-B82/67] [E82/67G82/67] |
+%%Q: 74
+^C41/37- [C41/37-^G41/37] [C41/37-^c41/37] [C41/37-^d41/37] [C41/37-c41/37] [C41/37G41/37] |
+%%Q: 51
+^G,82/51- [G,82/51-^D82/51] [G,82/51-^G82/51] [G,82/51-^d82/51] [G,82/51-^A82/51] [G,82/51B82/51] |
+^G,82/17 |]
+
+X: 6
+%%Orig filename was KarjaMisty.abc
+T: Karjalan Kunnailla (1:23) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+%%made-for Misty Mountain Harp
+C: Stratovarius
+Z: Kellinore of Gladden
+M: 3/4
+Q: 82
+K: C maj
+L: 1/8
+
++f+ z6 |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,2B2] |
+^C- [C-^G] [C-^c] [C-e] [C2c2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+% Bar 10 (0:19)
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,-^A] [G,G] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+% Bar 20 (0:41)
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E-B] [EF] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+B,- [B,-^D] [B,-^F] [B,-^d] [B,-B] [B,F] |
+^C- [C-^G] [C-^c] [C-e] [C-c] [CG] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,-^A] [D,G] |
+G,- [G,-^D] [G,-G] [G,-^d] [G,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2B2] |
+^F,- [F,-^A,] [F,-^C] [F,-^f] [F,2^A2] |
+E- [E-^F] [E-B] [E-e] [E2B2] |
+% Bar 30 (1:03)
+^D,- [D,-^D] [D,-^F] [D,-^d] [D,2^A2] |
+^G,- [G,-^D] [G,-^G] [G,-^d] [G,2^A2] |
+^D,- [D,-^D] [D,-G] [D,-^d] [D,2^A2] |
+%%Q: 68
+G,41/34- [G,41/34-^D41/34] [G,41/34-G41/34] [G,41/34-^d41/34] [G,41/17^A41/17] |
+%%Q: 67
+E82/67- [E82/67-^G82/67] [E82/67-B82/67] [E82/67-e82/67] [E82/67-B82/67] [E82/67G82/67] |
+%%Q: 74
+^C41/37- [C41/37-^G41/37] [C41/37-^c41/37] [C41/37-^d41/37] [C41/37-c41/37] [C41/37G41/37] |
+%%Q: 51
+^G,82/51- [G,82/51-^D82/51] [G,82/51-^G82/51] [G,82/51-^d82/51] [G,82/51-^A82/51] [G,82/51B82/51] |
+^G,82/17 |]
+

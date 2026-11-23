@@ -1,0 +1,457 @@
+N: TS  6,   8   3   1   4  15  16
+X: 8
+%%Orig filename was HBOBass.abc
+T: HBO Theme 1983 (v2) (1:54) - Basic Theorbo
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Ferdinand Jay Smith III
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++fff+ z8 |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
++ff+ [B15/4b15/4] z// [A15/4a15/4] z// |
++fff+ [^F15/4^f15/4] z// [B,15/4B15/4] z// |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+% Bar 10 (0:18)
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+% Bar 20 (0:38)
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,8-A8-] |
+[A,5-A5-] [A,/3A/3] z2/3 z2 |
++ffff+ E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+A3/2 A/ c A z4 |
+% Bar 30 (0:58)
+B3/2 B/ d e d B z2 |
+E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+A3/2 A/ c A z4 |
+B3/2 B/ d e d B z2 |
++ff+ [C2c2] [C2c2] [C2c2] [C2c2] |
+[D2d2] [D2d2] [D2d2] [D2d2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[C2c2] [C2c2] [C2c2] [C2c2] |
+[C2c2] [C2c2] [C2c2] [C2c2] |
+% Bar 40 (1:18)
+[D2d2] [D2d2] [D2d2] [D2d2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
++ffff+ [B,/B/] [B,/B/] z2 [B,/B/] [B,/B/] z4 |
++ff+ [E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [Gg] [Aa] [Gg] [Ee] z2 |
++fff+ [E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+% Bar 50 (1:38)
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+A,2 A,2 A,2 A,2 |
+A,2 A,2 A,2 A,2 |
++ff+ A,15/4 z// +ffff+ A, z3 |
+z8 |]
+
+X: 3
+%%Orig filename was HBOClar.abc
+T: HBO Theme 1983 (v2) (1:54) - Basic Clarinet
+%%part-name Basic Clarinet
+%%made-for Basic Clarinet
+C: Ferdinand Jay Smith III
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++ff+ B//- [B//-e//-^f//-] [B15/2-e15/2-f15/2-b15/2-] |
+[B7-e7-^f7-b7-] [B2/3e2/3f2/3b2/3] z/3 |
+B,/ E/ ^F/ A/ B/ A/ F/ E/ B,4- |
+B,7- B,/3 z2/3 |
+B/ e/ ^f/ a/ b/ a/ f/ e/ B4- |
+B7- B/3 z2/3 |
++f+ b/ ^f/ e/ B/ b/ f/ e/ B/ b/ f/ +ff+ e/ B/ b/ f/ e/ B/ |
+b/ ^f/ e/ B/ b/ f/ e/ B/ +ffff+ [e2f2b2] +ff+ [G,E] [A,^F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+% Bar 10 (0:18)
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [B,2G2] [DB] |
+[CA] E/ E/ E/ E/ E [B,2G2] [A,//^F//-] F7/4 |
+[B,G] [A,^F] [G,5-E5-] [G,2/3E2/3] z/3 |
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [D2B2] [DB] |
+[CA] E/ E/ E/ E/ E [G2B2g2] [^F2A2^f2] |
+[GBg] [^FA^f] [E5-G5-e5-] [E2/3G2/3e2/3] z/3 |
+[GBg] [^FA^f] [E15/4G15/4e15/4] z// [EGe] [GBb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [Bdb] |
+% Bar 20 (0:38)
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [dg] |
+[^c8-e8-a8-] |
+[^c5-e5-a5-] [c/3e/3a/3] z2/3 z2 |
++f+ [E,8-E8-] |
+[E,29/4E29/4] z3/4 |
+z3/2 B,/ D E A z G E- |
+E5- E2/3 z/3 [G,E] [A,^F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,A] [A,^F] [G,11/4E11/4] z// [G,2E2] [DB] |
+[C15/4A15/4] z// [CA] [C2E2] [CEB] |
+% Bar 30 (0:58)
+[B,5-^F5-A5-] [B,2/3F2/3A2/3] z/3 [G,E] [A,F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,A] [A,^F] [G,11/4E11/4] z// [G,2E2] [DB] |
+[C15/4A15/4] z// [CA] [C2E2] [CEB] |
+[B,5-^F5-A5-] [B,2/3F2/3A2/3] z/3 [G,E] [A,F] |
+[B,11/4E11/4G11/4] z// [D^F] [B,11/4E11/4G11/4] z// [DF] |
+[CEG] [D^F] [C5-E5-] [C2/3E2/3] z/3 |
+[B2b2] [G2g2] [A2a2] [D2d2] |
+[Ee] E G ^F/ E9/4 z// [G,E] [A,F] |
+[B,11/4E11/4G11/4] z// [D^F] [B,11/4E11/4G11/4] z// [DF] |
+% Bar 40 (1:18)
+[CEG] [D^F] [C15/4E15/4] z// A/ B/ A/ G/ |
+E/ G/ A/ B/ A/ G/ E/ G/ A/ B/ A/ G/ E/ G/ A/ B/ |
++fff+ [B/e/^f/b/] [B/e/f/b/] z2 [B/e/f/b/] [B/e/f/b/] z +f+ A/ G/ A/ G3/2 |
+E11/4 z// A/ B B/ E/ G A z/ |
+B E G z3 [G,E] [A,^F] |
++ff+ [B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [B,2G2] [DB] |
+[CA] E/ E/ E/ E/ E [B,2G2] [A,//^F//-] F7/4 |
+[B,G] [A,^F] [G,5-E5-] [G,2/3E2/3] z/3 |
+% Bar 50 (1:38)
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [D2B2] [DB] |
+[CA] E/ E/ E/ E/ E [G2B2g2] [^F2A2^f2] |
+[GBg] [^FA^f] [E5-G5-e5-] [E2/3G2/3e2/3] z/3 |
+[GBg] [^FA^f] [E15/4G15/4e15/4] z// [EGe] [GBb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [Bdb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [dg] |
++f+ [e19/4a19/4c'19/4] z13/4 |
+z8 |]
+
+X: 1
+%%Orig filename was HBOFlute.abc
+T: HBO Theme 1983 (v2) (1:54) - Basic Flute (3)
+%%part-name Basic Flute (3)
+%%made-for Basic Flute
+C: Ferdinand Jay Smith III
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++ff+ B//- [B//-e//-^f//-] [B15/2-e15/2-f15/2-b15/2-] |
+[B7-e7-^f7-b7-] [B2/3e2/3f2/3b2/3] z/3 |
+z8 |
+z8 |
+B/ e/ ^f/ a/ b/ a/ f/ e/ B4- |
+B7- B/3 z2/3 |
++f+ b/ ^f/ e/ B/ b/ f/ e/ B/ b/ f/ +ff+ e/ B/ b/ f/ e/ B/ |
+b/ ^f/ e/ B/ b/ f/ e/ B/ +ffff+ [e2f2b2] +ff+ [G,E] [A,^F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+% Bar 10 (0:18)
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [B,2G2] [DB] |
+[CA] E/ E/ E/ E/ E [B,2G2] [A,//^F//-] F7/4 |
+[B,G] [A,^F] [G,5-E5-] [G,2/3E2/3] z/3 |
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [D2B2] [DB] |
+[CA] E/ E/ E/ E/ E [G2B2g2] [^F2A2^f2] |
+[GBg] [^FA^f] [E5-G5-e5-] [E2/3G2/3e2/3] z/3 |
+[GBg] [^FA^f] [E15/4G15/4e15/4] z// [EGe] [GBb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [Bdb] |
+% Bar 20 (0:38)
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [dg] |
+[^c8-e8-a8-] |
+[^c5-e5-a5-] [c/3e/3a/3] z2/3 z2 |
++f+ [E,8-E8-] |
+[E,29/4E29/4] z3/4 |
+z3/2 B,/ D E A z G E- |
+E5- E2/3 z/3 [G,E] [A,^F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,A] [A,^F] [G,11/4E11/4] z// [G,2E2] [DB] |
+[C15/4A15/4] z// [CA] [C2E2] [CEB] |
+% Bar 30 (0:58)
+[B,5-^F5-A5-] [B,2/3F2/3A2/3] z/3 [G,E] [A,F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,A] [A,^F] [G,11/4E11/4] z// [G,2E2] [DB] |
+[C15/4A15/4] z// [CA] [C2E2] [CEB] |
+[B,5-^F5-A5-] [B,2/3F2/3A2/3] z/3 [G,E] [A,F] |
+[B,11/4E11/4G11/4] z// [D^F] [B,11/4E11/4G11/4] z// [DF] |
+[CEG] [D^F] [C5-E5-] [C2/3E2/3] z/3 |
+[B2b2] [G2g2] [A2a2] [D2d2] |
+[Ee] E G ^F/ E9/4 z// [G,E] [A,F] |
+[B,11/4E11/4G11/4] z// [D^F] [B,11/4E11/4G11/4] z// [DF] |
+% Bar 40 (1:18)
+[CEG] [D^F] [C15/4E15/4] z// A/ B/ A/ G/ |
+E/ G/ A/ B/ A/ G/ E/ G/ A/ B/ A/ G/ E/ G/ A/ B/ |
++fff+ [B/e/^f/b/] [B/e/f/b/] z2 [B/e/f/b/] [B/e/f/b/] z +f+ A/ G/ A/ G3/2 |
+E11/4 z// A/ B B/ E/ G A z/ |
+B E G z3 [G,E] [A,^F] |
++ff+ [B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [B,2G2] [DB] |
+[CA] E/ E/ E/ E/ E [B,2G2] [A,//^F//-] F7/4 |
+[B,G] [A,^F] [G,5-E5-] [G,2/3E2/3] z/3 |
+% Bar 50 (1:38)
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [D2B2] [DB] |
+[CA] E/ E/ E/ E/ E [G2B2g2] [^F2A2^f2] |
+[GBg] [^FA^f] [E5-G5-e5-] [E2/3G2/3e2/3] z/3 |
+[GBg] [^FA^f] [E15/4G15/4e15/4] z// [EGe] [GBb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [Bdb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [dg] |
++f+ [e19/4a19/4c'19/4] z13/4 |
+z8 |]
+
+X: 4
+%%Orig filename was HBOHorn.abc
+T: HBO Theme 1983 (v2) (1:54) - Basic Horn (5)
+%%part-name Basic Horn (5)
+%%made-for Basic Horn
+C: Ferdinand Jay Smith III
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++ff+ B//- [B//-e//-^f//-] [B15/2-e15/2-f15/2-b15/2-] |
+[B7-e7-^f7-b7-] [B2/3e2/3f2/3b2/3] z/3 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ b/ ^f/ e/ B/ b/ f/ e/ B/ b/ f/ +ff+ e/ B/ b/ f/ e/ B/ |
+b/ ^f/ e/ B/ b/ f/ e/ B/ +ffff+ [e2f2b2] +ff+ [G,E] [A,^F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+% Bar 10 (0:18)
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [B,2G2] [DB] |
+[CA] E/ E/ E/ E/ E [B,2G2] [A,//^F//-] F7/4 |
+[B,G] [A,^F] [G,5-E5-] [G,2/3E2/3] z/3 |
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [D2B2] [DB] |
+[CA] E/ E/ E/ E/ E [G2B2g2] [^F2A2^f2] |
+[GBg] [^FA^f] [E5-G5-e5-] [E2/3G2/3e2/3] z/3 |
+[GBg] [^FA^f] [E15/4G15/4e15/4] z// [EGe] [GBb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [Bdb] |
+% Bar 20 (0:38)
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [dg] |
+[^c8-e8-a8-] |
+[^c5-e5-a5-] [c/3e/3a/3] z2/3 z2 |
++f+ [E,8-E8-] |
+[E,29/4E29/4] z3/4 |
+z3/2 B,/ D E A z G E- |
+E5- E2/3 z/3 [G,E] [A,^F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,A] [A,^F] [G,11/4E11/4] z// [G,2E2] [DB] |
+[C15/4A15/4] z// [CA] [C2E2] [CEB] |
+% Bar 30 (0:58)
+[B,5-^F5-A5-] [B,2/3F2/3A2/3] z/3 [G,E] [A,F] |
+[B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,A] [A,^F] [G,11/4E11/4] z// [G,2E2] [DB] |
+[C15/4A15/4] z// [CA] [C2E2] [CEB] |
+[B,5-^F5-A5-] [B,2/3F2/3A2/3] z/3 [G,E] [A,F] |
+[B,11/4E11/4G11/4] z// [D^F] [B,11/4E11/4G11/4] z// [DF] |
+[CEG] [D^F] [C5-E5-] [C2/3E2/3] z/3 |
+[B2b2] [G2g2] [A2a2] [D2d2] |
+[Ee] E G ^F/ E9/4 z// [G,E] [A,F] |
+[B,11/4E11/4G11/4] z// [D^F] [B,11/4E11/4G11/4] z// [DF] |
+% Bar 40 (1:18)
+[CEG] [D^F] [C15/4E15/4] z// A/ B/ A/ G/ |
+E/ G/ A/ B/ A/ G/ E/ G/ A/ B/ A/ G/ E/ G/ A/ B/ |
++fff+ [B/e/^f/b/] [B/e/f/b/] z2 [B/e/f/b/] [B/e/f/b/] z +f+ A/ G/ A/ G3/2 |
+E11/4 z// A/ B B/ E/ G A z/ |
+B E G z3 [G,E] [A,^F] |
++ff+ [B,11/4G11/4] z// [A,^F] [B,11/4G11/4] z// [A,F] |
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [B,2G2] [DB] |
+[CA] E/ E/ E/ E/ E [B,2G2] [A,//^F//-] F7/4 |
+[B,G] [A,^F] [G,5-E5-] [G,2/3E2/3] z/3 |
+% Bar 50 (1:38)
+[B,G] [A,^F] [G,15/4E15/4] z// [G,E] [DB] |
+[^CA] E/ A/ B A/ B/ e [D2B2] [DB] |
+[CA] E/ E/ E/ E/ E [G2B2g2] [^F2A2^f2] |
+[GBg] [^FA^f] [E5-G5-e5-] [E2/3G2/3e2/3] z/3 |
+[GBg] [^FA^f] [E15/4G15/4e15/4] z// [EGe] [GBb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [Bdb] |
+[A^ca] E/ A/ B A/ B/ e [B2d2b2] [dg] |
++f+ [e19/4a19/4c'19/4] z13/4 |
+z8 |]
+
+X: 15
+%%Orig filename was HBOSoon.abc
+T: HBO Theme 1983 (v2) (1:54) - Basic Bassoon (6)
+%%part-name Basic Bassoon (6)
+%%made-for Basic Bassoon
+C: Ferdinand Jay Smith III
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mf+ z8 |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
++mp+ [B15/4b15/4] z// [A15/4a15/4] z// |
++mf+ [^F15/4^f15/4] z// [B,15/4B15/4] z// |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+% Bar 10 (0:18)
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+% Bar 20 (0:38)
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,8-A8-] |
+[A,5-A5-] [A,/3A/3] z2/3 z2 |
++mp+ E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+A3/2 A/ c A z4 |
+% Bar 30 (0:58)
+B3/2 B/ d e d B z2 |
+E3/2 E/ G E z4 |
+E3/2 E/ G A G E z2 |
+A3/2 A/ c A z4 |
+B3/2 B/ d e d B z2 |
+[C2c2] [C2c2] [C2c2] [C2c2] |
+[D2d2] [D2d2] [D2d2] [D2d2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[C2c2] [C2c2] [C2c2] [C2c2] |
+[C2c2] [C2c2] [C2c2] [C2c2] |
+% Bar 40 (1:18)
+[D2d2] [D2d2] [D2d2] [D2d2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
++f+ [B,/B/] [B,/B/] z2 [B,/B/] [B,/B/] z4 |
++mp+ [E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [Gg] [Aa] [Gg] [Ee] z2 |
++mf+ [E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+% Bar 50 (1:38)
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[A2a2] [A2a2] [A2a2] [A2a2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[E2e2] [E2e2] [E2e2] [E2e2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
++mp+ A,15/4 z// +f+ A, z3 |
+z8 |]
+
+X: 16
+%%Orig filename was HBOSoonBR.abc
+T: HBO Theme 1983 (v2) (1:54) - Brusque Bassoon (4)
+%%part-name Brusque Bassoon (4)
+%%made-for Brusque Bassoon
+C: Ferdinand Jay Smith III
+Z: Raymiond of Sting
+M: 4/4
+Q: 120
+K: C maj
+L: 1/8
+
++mp+ z8 |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
+B, B B, B B, B B, B |
++p+ [B,15/4B15/4] z// [A,15/4A15/4] z// |
++mp+ [^F,15/4^F15/4] z// B,15/4 z// |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+% Bar 10 (0:18)
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+A,2 A,2 A,2 A,2 |
+% Bar 20 (0:38)
+A,2 A,2 A,2 A,2 |
+A,8- |
+A,5- A,/3 z2/3 z2 |
++f+ E,3/2 E,/ G, E, z4 |
+E,3/2 E,/ G, A, G, E, z2 |
+E,3/2 E,/ G, E, z4 |
+E,3/2 E,/ G, A, G, E, z2 |
+E,3/2 E,/ G, E, z4 |
+E,3/2 E,/ G, A, G, E, z2 |
+A,3/2 A,/ C A, z4 |
+% Bar 30 (0:58)
+B,3/2 B,/ D E D B, z2 |
+E,3/2 E,/ G, E, z4 |
+E,3/2 E,/ G, A, G, E, z2 |
+A,3/2 A,/ C A, z4 |
+B,3/2 B,/ D E D B, z2 |
++p+ [C,2C2] [C,2C2] [C,2C2] [C,2C2] |
+[D,2D2] [D,2D2] [D,2D2] [D,2D2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[C,2C2] [C,2C2] [C,2C2] [C,2C2] |
+[C,2C2] [C,2C2] [C,2C2] [C,2C2] |
+% Bar 40 (1:18)
+[D,2D2] [D,2D2] [D,2D2] [D,2D2] |
+A,2 A,2 A,2 A,2 |
++mf+ B,/ B,/ z2 B,/ B,/ z4 |
++p+ [E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [G,G] [A,A] [G,G] [E,E] z2 |
++mp+ [E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+% Bar 50 (1:38)
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[A,2A2] [A,2A2] [A,2A2] [A,2A2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+[E,2E2] [E,2E2] [E,2E2] [E,2E2] |
+A,2 A,2 A,2 A,2 |
+A,2 A,2 A,2 A,2 |
++p+ A,15/4 z// +mf+ A, z3 |
+z8 |]
+

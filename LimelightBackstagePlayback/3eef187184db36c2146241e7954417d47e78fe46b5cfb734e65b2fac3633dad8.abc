@@ -1,0 +1,723 @@
+N: TS  6,   9  11   8   3  10   4
+X: 9
+%%Orig filename was EliFuritaAges.abc
+%abc-2.1
+%%song-title       elifurita
+%%song-duration    4:23
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: elifurita (4:23) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 90
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^g/ ^d/ c/ ^G/ c/ d/ g- g =g/ ^g/ ^a/ f/ =d/ ^A/ |
+d/ f/ ^a- a =a/ ^a/ c'/ ^g/ ^d/ c/ d/ g/ c'- |
+c'2 ^A3/2 d3/2 f3/2 ^a3/2 |
+% Bar 10 (0:24)
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [c/-g/-] |
+[c/g/] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] |
+^g/ ^d/ c/ ^G/ c/ d/ g- g =g/ ^g/ ^a/ f/ =d/ ^A/ |
+d/ f/ ^a- a =a/ ^a/ c'/ ^g/ ^d/ c/ d/ g/ c'- |
+c'2 ^A3/2 d3/2 f3/2 ^a3/2 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [c/-g/-] |
+[c/g/] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] |
+e3/2 b3/2 a/ ^g/ ^f/ g e/ e3/2 b/- |
+% Bar 20 (0:50)
+b a/ ^g/ ^f/ g e/ e3/2 b3/2 a/ g/ |
+^f/ ^g e/ e3/2 b3/2 a/ g/ f/ g e/ |
+e3/2 b3/2 a/ g/ e/ g e/ e3/2 b/- |
+b a/ g/ e/ g e/ e3/2 b3/2 a/ g/ |
+e/ g e/ ^f/ d/ f/ a/ f/ a/ d/ f/ a/ d/ ^c/ d/ |
+e3/2 b3/2 a/ ^g/ ^f/ g e/ e3/2 b/- |
+b a/ ^g/ ^f/ g e/ e3/2 b3/2 a/ g/ |
+^f/ ^g e/ e3/2 b3/2 a/ g/ f/ g e/ |
+e3/2 b3/2 a/ g/ e/ g e/ e3/2 b/- |
+b a/ g/ e/ g e/ e3/2 b3/2 a/ g/ |
+% Bar 30 (1:17)
+e/ g e/ ^f/ d/ f/ a/ f/ a/ d/ f/ a/ d/ ^c/ d/ |
+e6 ^f2- |
+^f4 =f4- |
+f2 g2- g4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:44)
+^g/ ^d/ c/ ^G/ c/ d/ g- g =g/ ^g/ ^a/ f/ =d/ ^A/ |
+d/ f/ ^a- a =a/ ^a/ c'/ ^g/ ^d/ c/ d/ g/ c'- |
+c'2 ^A3/2 d3/2 f3/2 ^a3/2 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [c/-g/-] |
+[c/g/] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] |
+^g/ ^d/ c/ ^G/ c/ d/ g- g =g/ ^g/ ^a/ f/ =d/ ^A/ |
+d/ f/ ^a- a =a/ ^a/ c'/ ^g/ ^d/ c/ d/ g/ c'- |
+c'2 ^A3/2 d3/2 f3/2 ^a3/2 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [c/-g/-] |
+% Bar 50 (2:10)
+[c/g/] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] |
+e3/2 b3/2 a/ ^g/ ^f/ g e/ e3/2 b/- |
+b a/ ^g/ ^f/ g e/ e3/2 b3/2 a/ g/ |
+^f/ ^g e/ e3/2 b3/2 a/ g/ f/ g e/ |
+e3/2 b3/2 a/ g/ e/ g e/ e3/2 b/- |
+b a/ g/ e/ g e/ e3/2 b3/2 a/ g/ |
+e/ g e/ ^f/ d/ f/ a/ f/ a/ d/ f/ a/ d/ ^c/ d/ |
+e3/2 b3/2 a/ ^g/ ^f/ g e/ e3/2 b/- |
+b a/ ^g/ ^f/ g e/ e3/2 b3/2 a/ g/ |
+% Bar 60 (2:37)
+^f/ ^g e/ e3/2 b3/2 a/ g/ f/ g e/ |
+e3/2 b3/2 a/ g/ e/ g e/ e3/2 b/- |
+b a/ g/ e/ g e/ e3/2 b3/2 a/ g/ |
+e/ g e/ ^f/ d/ f/ a/ f/ a/ d/ f/ a/ d/ ^c/ d/ |
+e6 ^f2- |
+^f4 =f4- |
+f2 g2- g4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:04)
+z8 |
+z8 |
+z8 |
+^g/ ^d/ c/ ^G/ c/ d/ g- g =g/ ^g/ ^a/ f/ =d/ ^A/ |
+d/ f/ ^a- a =a/ ^a/ c'/ ^g/ ^d/ c/ d/ g/ c'- |
+c'2 ^A3/2 d3/2 f3/2 ^a3/2 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [c/-g/-] |
+[c/g/] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] |
+^g/ ^d/ c/ ^G/ c/ d/ g- g =g/ ^g/ ^a/ f/ =d/ ^A/ |
+% Bar 80 (3:30)
+d/ f/ ^a- a =a/ ^a/ c'/ ^g/ ^d/ c/ d/ g/ c'- |
+c'2 ^A3/2 d3/2 f3/2 ^a3/2 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [c/-g/-] |
+[c/g/] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] |
+e3/2 b3/2 a/ ^g/ ^f/ g e/ e3/2 b/- |
+b a/ ^g/ ^f/ g e/ e3/2 b3/2 a/ g/ |
+^f/ ^g e/ e3/2 b3/2 a/ g/ f/ g e/ |
+e3/2 b3/2 a/ g/ e/ g e/ e3/2 b/- |
+b a/ g/ e/ g e/ e3/2 b3/2 a/ g/ |
+% Bar 90 (3:57)
+e/ g e/ ^f/ d/ f/ a/ f/ a/ d/ f/ a/ d/ ^c/ d/ |
+e3/2 b3/2 a/ ^g/ ^f/ g e/ e3/2 b/- |
+b a/ ^g/ ^f/ g e/ e3/2 b3/2 a/ g/ |
+^f/ ^g e/ e3/2 b3/2 a/ g/ f/ g e/ |
+e3/2 b3/2 a/ g/ e/ g e/ e3/2 b/- |
+b a/ g/ e/ g e/ e3/2 b3/2 a/ g/ |
+e/ g e/ ^f/ d/ f/ a/ f/ a/ d/ f/ a/ d/ ^c/ d/ |
+e6 ^f2- |
+^f4 =f4- |
+f2 g2- g4 |]
+
+X: 11
+%%Orig filename was EliFuritaBardic.abc
+%abc-2.1
+%%song-title       elifurita
+%%song-duration    3:44
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: elifurita (3:44) - Bardic Fiddle
+%%part-name Bardic Fiddle
+M: 4/4
+Q: 90
+K: C maj
+
++fff+ C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
++ff+ C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:24)
+C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+z8 |
+z8 |
+C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+% Bar 20 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
++ff+ C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+% Bar 40 (1:44)
+z8 |
+z8 |
+z8 |
+C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+z8 |
+z8 |
+C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+% Bar 50 (2:10)
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+% Bar 70 (3:04)
++ff+ C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+z8 |
+z8 |
+C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |
+z8 |
+% Bar 80 (3:30)
+z8 |
+z8 |
+C G/ F G/ F G/ F/ E/ D/ C G/ F/- |
+F/ G/ F G/ F/ E/ D/ C G/ F G/ F |
+G/ F/ E/ D/ C G/ F G/ F G/ F/ E/ D/ |]
+
+X: 8
+%%Orig filename was EliFuritaBass.abc
+%abc-2.1
+%%song-title       elifurita
+%%song-duration    4:24
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: elifurita (4:24) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 90
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+^G, G,/ G, G,/ G, G,/ G, G,/ ^A, A,/ A,/- |
+^A,/ A,/ A, A,/ A, A,/ ^G, G,/ G, G,/ G, |
+^G,/ G, G,/ ^A, A,/ A, A,/ A, A,/ A, A,/ |
+% Bar 10 (0:24)
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+^G, G,/ G, G,/ G, G,/ G, G,/ ^A, A,/ A,/- |
+^A,/ A,/ A, A,/ A, A,/ ^G, G,/ G, G,/ G, |
+^G,/ G, G,/ ^A, A,/ A, A,/ A, A,/ A, A,/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+E E/ E E/ E E/ E E/ E E/ E/- |
+% Bar 20 (0:50)
+E/ E/ E E/ E E/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+E E/ E E/ E E/ E E/ E E/ E/- |
+E/ E/ E E/ E E/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ D D/ D D/ D |
+% Bar 30 (1:17)
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ D D/ D/- |
+D/ D/ D D/ D D/ C C/ C C/ C |
+C/ C C/ D D/ D D/ D D/ D D/ |
+z8 |
+z8 |
+z8 |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+% Bar 40 (1:44)
+^G, G,/ G, G,/ G, G,/ G, G,/ ^A, A,/ A,/- |
+^A,/ A,/ A, A,/ A, A,/ ^G, G,/ G, G,/ G, |
+^G,/ G, G,/ ^A, A,/ A, A,/ A, A,/ A, A,/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+^G, G,/ G, G,/ G, G,/ G, G,/ ^A, A,/ A,/- |
+^A,/ A,/ A, A,/ A, A,/ ^G, G,/ G, G,/ G, |
+^G,/ G, G,/ ^A, A,/ A, A,/ A, A,/ A, A,/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+% Bar 50 (2:10)
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+E E/ E E/ E E/ E E/ E E/ E/- |
+E/ E/ E E/ E E/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+E E/ E E/ E E/ E E/ E E/ E/- |
+E/ E/ E E/ E E/ D D/ D D/ D |
+% Bar 60 (2:37)
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ D D/ D/- |
+D/ D/ D D/ D D/ C C/ C C/ C |
+C/ C C/ D D/ D D/ D D/ D D/ |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:04)
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+^G, G,/ G, G,/ G, G,/ G, G,/ ^A, A,/ A,/- |
+^A,/ A,/ A, A,/ A, A,/ ^G, G,/ G, G,/ G, |
+^G,/ G, G,/ ^A, A,/ A, A,/ A, A,/ A, A,/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+^G, G,/ G, G,/ G, G,/ G, G,/ ^A, A,/ A,/- |
+% Bar 80 (3:30)
+^A,/ A,/ A, A,/ A, A,/ ^G, G,/ G, G,/ G, |
+^G,/ G, G,/ ^A, A,/ A, A,/ A, A,/ A, A,/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ C C/ C C/ C |
+C/ C C/ C C/ C C/ C C/ C C/ |
+E E/ E E/ E E/ E E/ E E/ E/- |
+E/ E/ E E/ E E/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ D D/ D D/ D |
+% Bar 90 (3:57)
+D/ D D/ D D/ D D/ D D/ D D/ |
+E E/ E E/ E E/ E E/ E E/ E/- |
+E/ E/ E E/ E E/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ C C/ C/- |
+C/ C/ C C/ C C/ D D/ D D/ D |
+D/ D D/ D D/ D D/ D D/ D D/ |
+C C/ C C/ C C/ C C/ D D/ D/- |
+D/ D/ D D/ D D/ C C/ C C/ C |
+C/ C C/ D D/ D D/ D D/ D D/ |]
+
+X: 3
+%%Orig filename was EliFuritaClar.abc
+%abc-2.1
+%%song-title       elifurita
+%%song-duration    4:23
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: elifurita (4:23) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 90
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:24)
+z8 |
+z8 |
+z8 |
+z3/2 C3/2 D3/2 ^D3/2 F3/2 =D/- |
+D ^A,3/2 ^A3/2 c3 d- |
+d/ ^d3/2 f3/2 =d3/2 ^A3/2 F3/2 |
+c4 z/ ^A/ =A/ G/ ^A G- |
+G3 z E4 |
+z/ D/ C/ B,/ C2- C4 |
+E8- |
+% Bar 20 (0:50)
+E4 z4 |
+z4 z E3/2 ^F3/2 |
+G8- |
+G4 A4- |
+A8 |
+E8- |
+E4 z4 |
+z4 z E3/2 ^F3/2 |
+G8- |
+G4 A4- |
+% Bar 30 (1:17)
+A8 |
+E3 ^F3/2 G3/2 A2- |
+A ^F3/2 D3/2 C4- |
+C2 D2- D4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:44)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3/2 C3/2 D3/2 ^D3/2 F3/2 =D/- |
+D ^A,3/2 ^A3/2 c3 d- |
+d/ ^d3/2 f3/2 =d3/2 ^A3/2 F3/2 |
+c4 z/ ^A/ =A/ G/ ^A G- |
+% Bar 50 (2:10)
+G3 z E4 |
+z/ D/ C/ B,/ C2- C4 |
+E8- |
+E4 z4 |
+z4 z E3/2 ^F3/2 |
+G8- |
+G4 A4- |
+A8 |
+E8- |
+E4 z4 |
+% Bar 60 (2:37)
+z4 z E3/2 ^F3/2 |
+G8- |
+G4 A4- |
+A8 |
+E3 ^F3/2 G3/2 A2- |
+A ^F3/2 D3/2 C4- |
+C2 D2- D4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (3:04)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3/2 C3/2 D3/2 ^D3/2 F3/2 =D/- |
+% Bar 80 (3:30)
+D ^A,3/2 ^A3/2 c3 d- |
+d/ ^d3/2 f3/2 =d3/2 ^A3/2 F3/2 |
+c4 z/ ^A/ =A/ G/ ^A G- |
+G3 z E4 |
+z/ D/ C/ B,/ C2- C4 |
+E8- |
+E4 z4 |
+z4 z E3/2 ^F3/2 |
+G8- |
+G4 A4- |
+% Bar 90 (3:57)
+A8 |
+E8- |
+E4 z4 |
+z4 z E3/2 ^F3/2 |
+G8- |
+G4 A4- |
+A8 |
+E3 ^F3/2 G3/2 A2- |
+A ^F3/2 D3/2 C4- |
+C2 D2- D4 |]
+
+X: 10
+%%Orig filename was EliFuritaDrums.abc
+%abc-2.1
+%%song-title       elifurita
+%%song-duration    4:24
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: elifurita (4:24) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 90
+K: C maj
+
++ff+ z8 |
+z4 z3/2 ^F/ z2 |
+z/ ^F/ z z3/2 F/ z2 z/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+% Bar 10 (0:24)
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+% Bar 20 (0:50)
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+% Bar 30 (1:17)
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+z8 |
+z4 z3/2 ^F/ z2 |
+z/ ^F/ z z3/2 F/ z2 z/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+% Bar 40 (1:44)
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+% Bar 50 (2:10)
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+% Bar 60 (2:37)
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+z8 |
+z4 z3/2 ^F/ z2 |
+z/ ^F/ z z3/2 F/ z2 z/ F/ F/ F/ |
+% Bar 70 (3:04)
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+% Bar 80 (3:30)
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+% Bar 90 (3:57)
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |
+a/ z/ a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ |
+z/ a/ a/ z/ a/ ^F/ F/ F/ [A/a/] z/ a/ F/ z/ a/ a/ z/ |
+a/ ^F/ z/ a/ a/ z/ a/ F/ z/ a/ a/ z/ a/ F/ F/ F/ |]
+
+X: 4
+%%Orig filename was EliFuritaHorn.abc
+%abc-2.1
+%%song-title       elifurita
+%%song-duration    4:24
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: elifurita (4:24) - Basic Horn
+%%part-name Basic Horn
+M: 4/4
+Q: 90
+K: C maj
+
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+[cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z/ +ff+ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] [D/G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [F/-A/-] |
+[F/^A/] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] z/ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] |
+[^D/^G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [FA] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] |
+% Bar 10 (0:24)
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z/ +ff+ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] [D/G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [F/-A/-] |
+[F/^A/] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] z/ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] |
+[^D/^G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [FA] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] |
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z8 |
+% Bar 20 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:17)
+z8 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [d/a/] [d/-a/-] |
+[d/a/] [d/a/] z [d/a/] [da] [d/a/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [g/c'/] [gc'] [g/c'/] z [g/c'/] [gc'] [g/c'/] |
+[cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+[cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+% Bar 40 (1:44)
+z/ +ff+ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] [D/G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [F/-A/-] |
+[F/^A/] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] z/ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] |
+[^D/^G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [FA] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] |
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z/ +ff+ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] [D/G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [F/-A/-] |
+[F/^A/] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] z/ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] |
+[^D/^G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [FA] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] |
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+% Bar 50 (2:10)
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [d/a/] [d/-a/-] |
+[d/a/] [d/a/] z [d/a/] [da] [d/a/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [g/c'/] [gc'] [g/c'/] z [g/c'/] [gc'] [g/c'/] |
+[cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+% Bar 70 (3:04)
+[cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z/ +ff+ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] [D/G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [F/-A/-] |
+[F/^A/] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] z/ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] |
+[^D/^G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [FA] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] |
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z/ +ff+ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] [D/G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [F/-A/-] |
+% Bar 80 (3:30)
+[F/^A/] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] z/ [^D/^G/] [D/G/] [DG] [D/G/] z/ [D/G/] |
+[^D/^G/] [DG] [D/G/] z/ [F/^A/] [F/A/] [FA] [F/A/] z/ [F/A/] [F/A/] [FA] [F/A/] |
++mf+ [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [c/-g/-] |
+[c/g/] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] |
+[c/g/] [c/g/] [c/g/] [c/g/] [cg] [c/g/] [cg] [c/g/] [cg] [c/g/] [c/g/] [c/g/] [c/g/] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (3:57)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z [c/g/] [cg] [c/g/] z [c/g/] [cg] [c/g/] z [d/a/] [d/-a/-] |
+[d/a/] [d/a/] z [d/a/] [da] [d/a/] z [c/g/] [cg] [c/g/] z |
+[c/g/] [cg] [c/g/] z [g/c'/] [gc'] [g/c'/] z [g/c'/] [gc'] [g/c'/] |]
+

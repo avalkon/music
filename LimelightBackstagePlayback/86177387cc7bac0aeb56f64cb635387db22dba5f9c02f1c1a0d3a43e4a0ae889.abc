@@ -1,0 +1,750 @@
+N: TS  6,   9   8   3  10   4   6
+X: 9
+%%Orig filename was BakerStreetAges.abc
+%abc-2.1
+%%song-title       Gerry Rafferty - Baker Street
+%%song-duration    3:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Gerry Rafferty - Baker Street (3:03) - Lute of Ages
+%%part-name Lute of Ages
+Z: Kaoss of Gladden
+M: 4/4
+Q: 125
+K: C maj
+
++mf+ [E,-^F,-A,-^C-E] [E,F,A,CA] +f+ e- +mf+ [A//-e//] A// z9/2 |
+z A e +f+ A- A3/4 z// +mf+ a- a +f+ e- |
+e +mf+ A e- +mp+ [A//-e//] A// z9/2 |
+z +mf+ A e A [B-b-] [B//b//] z// [A5/4a5/4] z// [Ee] |
+[D,-G,-B,-D] [D,G,B,A] d ^f3/4 z// g3/4 z// f3/4 z9/4 |
+z d- d3/4 z// d3/4 z// a d z a3/4 z// |
+z4 z ^f/ d f3/2 |
+a2 z3 ^f/ g f5/4 z// |
+[E,-^F,-A,-^C-E] [E,F,A,CA] +f+ e- +mf+ [A//-e//] A// z9/2 |
+% Bar 10 (0:17)
+z A e +f+ A- A3/4 z// +mf+ a- a +f+ e- |
+e +mf+ A e- +mp+ [A//-e//] A// z9/2 |
+z +mf+ A e A [B-b-] [B//b//] z// [A5/4a5/4] z// [Ee] |
+[D,-G,-B,-D] [D,G,B,A] d ^f3/4 z// g3/4 z// f3/4 z9/4 |
+z d- d3/4 z// d3/4 z// a d z a3/4 z// |
+z4 z ^f/ d f3/2 |
+a2 z3 ^f/ g f5/4 z// |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+% Bar 20 (0:36)
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[E3/2G3/2B3/2d3/2] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ |
+[G3/2B3/2d3/2] z/ [GBd] z/ [GBd] z/ [GBd] z/ [GBd] z/ |
+[A3/2d3/2^f3/2] z/ [Adf] z/ [Adf] z/ [Adg] z/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [Adf] A/ [A,-A-df] [A,/A/] [G/A/-d/-g/] [G/-A/d/g/-] [G/g/] [^F-Adf-] [F/f/] |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[E3/2G3/2B3/2d3/2] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ |
+% Bar 30 (0:55)
+[G3/2B3/2d3/2] z/ [GBd] z/ [GBd] z/ [GBd] z/ [GBd] z/ |
+[A3/2^c3/2e3/2] z/ [A3/4c3/4e3/4] z// A/ [A3/4c3/4e3/4] z// A/ [A3/4c3/4e3/4] z// A/ [Ace] z/ |
+[G,3/2G3/2B3/2d3/2] z13/2 |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[G3/2c3/2e3/2] z/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ [Gce] z/ |
+[G3/2B3/2d3/2] z/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [GBd] z/ |
+[B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |
+% Bar 40 (1:14)
+[B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A3/2^c3/2e3/2] z/ [Ace] z/ [Ace] z/ [Ace] z/ [Ace] z/ |
+% Bar 50 (1:34)
+[A3/2^c3/2e3/2] z/ [Ace] z/ [Ace] z/ [Ace] z/ [Ace] z/ |
+[A3/2^c3/2e3/2] z/ [Ace] z/ [Ace] z/ [Ace] z/ [Ace] z/ |
+[A3/2^c3/2e3/2] z/ [Ace] z/ [Ace] z/ [Ace] z/ [Ace] z/ |
+[E3/2G3/2B3/2d3/2] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ |
+[G3/2B3/2d3/2] z/ [GBd] z/ [GBd] z/ [GBd] z/ [GBd] z/ |
+[A3/2d3/2^f3/2] z/ [Adf] z/ [Adf] z/ [Adg] z/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [Adf] z/ [Adf] z/ [Adg] z/ [Adf] z/ |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+% Bar 60 (1:53)
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[E3/2G3/2B3/2d3/2] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ |
+[G3/2B3/2d3/2] z/ [GBd] z/ [GBd] z/ [GBd] z/ [GBd] z/ |
+[A3/2d3/2^f3/2] z/ [Adf] z/ [Adf] z/ [Adg] z/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [Adf] A/ [A,-A-df] [A,/A/] [G/A/-d/-g/] [G/-A/d/g/-] [G/g/] [^F-Adf-] [F/f/] |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[D3/2F3/2A3/2c3/2] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ [DFAc] z/ |
+[E3/2G3/2c3/2] z/ [EGc] z/ [EGc] z/ [EGc] z/ [EGc] z/ |
+[E3/2G3/2B3/2d3/2] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ [EGBd] z/ |
+% Bar 70 (2:12)
+[G3/2B3/2d3/2] z/ [GBd] z/ [GBd] z/ [GBd] z/ [GBd] z/ |
+[A3/2^c3/2e3/2] z/ [A3/4c3/4e3/4] z// A/ [A3/4c3/4e3/4] z// A/ [A3/4c3/4e3/4] z3/4 [A/c/-e/-] [c/e/] z/ |
+[G,3/2G3/2B3/2d3/2] z13/2 |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[G3/2c3/2e3/2] z/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ [Gce] z/ |
+[G3/2B3/2d3/2] z/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [GBd] z/ |
+[B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |
+% Bar 80 (2:31)
+[B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[G3/2c3/2e3/2] z/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ [Gce] z/ |
+[G3/2B3/2d3/2] z/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [GBd] z/ |
+[B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |
+[B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |
++mp+ [A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+% Bar 90 (2:50)
++p+ [A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// +mp+ D/ +p+ [A3/4d3/4f3/4] z// +mp+ D/ +p+ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
++pp+ [A3/2d3/2^f3/2] z/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [A3/4d3/4f3/4] z// D/ [Adf] z/ |
+[G3/2c3/2e3/2] z/ [G3/4c3/4e3/4] z// C/ [G3/4c3/4e3/4] z// C/ +ppp+ [G3/4c3/4e3/4] z// C/ [Gce] z/ |
+[G3/2B3/2d3/2] z/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [G3/4B3/4d3/4] z// E/ [GBd] z/ |
++pppp+ [B3/2d3/2g3/2] z/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [B3/4d3/4g3/4] z// G/ [Bdg] z/ |]
+
+X: 8
+%%Orig filename was BakerStreetBass.abc
+%abc-2.1
+%%song-title       Gerry Rafferty - Baker Street
+%%song-duration    3:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Gerry Rafferty - Baker Street (3:03) - Basic Theorbo
+%%part-name Basic Theorbo
+Z: Kaoss of Gladden
+M: 4/4
+Q: 125
+K: C maj
+
++ff+ A,8- |
+A,8- |
+A,8 |
+z8 |
+G,8- |
+G,8 |
+D,8- |
+D,8 |
+A,8- |
+% Bar 10 (0:17)
+A,8- |
+A,8 |
+z8 |
+G,8- |
+G,8 |
+D,8- |
+D,8 |
+D,8 |
+A,8 |
+D,8 |
+% Bar 20 (0:36)
+A,8 |
+E,8 |
+G,8 |
+D,8- |
+D,8 |
+D,8 |
+A,8 |
+D,8 |
+A,8 |
+E,8 |
+% Bar 30 (0:55)
+G,8 |
+z8 |
+z8 |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+C3/2 z/ C z/ C z/ C z/ C z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+% Bar 40 (1:14)
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+% Bar 50 (1:34)
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+% Bar 60 (1:53)
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+D,3/2 z/ D, z/ D, z/ D, z/ D, z/ |
+D,3/2 z/ D, z/ D, z/ D, z/ D, z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+% Bar 70 (2:12)
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+A,3/2 z/ A, z/ A, z/ A, z/ A, z/ |
+G, z z2 z4 |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+C3/2 z/ C z/ C z/ C z/ C z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+% Bar 80 (2:31)
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ D z/ D z/ |
+C3/2 z/ C z/ C z/ C z/ C z/ |
+E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
+G,3/2 z/ G, z/ G, z/ G, z/ G, z/ |
++mf+ D3/2 z/ D z/ D z/ D z/ +mp+ D z/ |
+% Bar 90 (2:50)
+D3/2 z/ D z/ D z/ D z/ D z/ |
+D3/2 z/ +p+ D z/ D z/ D z/ D z/ |
+D3/2 z/ D z/ D z/ +pp+ D z/ D z/ |
+C3/2 z/ C z/ C z/ C z/ C z/ |
++ppp+ E,3/2 z/ E, z/ E, z/ E, z/ E, z/ |
+G,3/2 z/ +pppp+ G, z/ G, z/ G, z/ G, z/ |]
+
+X: 3
+%%Orig filename was BakerStreetClar.abc
+%abc-2.1
+%%song-title       Gerry Rafferty - Baker Street
+%%song-duration    2:16
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Gerry Rafferty - Baker Street (2:16) - Basic Clarinet
+%%part-name Basic Clarinet
+Z: Kaoss of Gladden
+M: 4/4
+Q: 125
+K: C maj
+
++f+ z ^c B- [A//B//] z3/4 A// z3/4 A ^F A- |
+A- A// z3/4 A/ z/ A3/4 z17/4 |
+z ^c B A// z3/4 A// z3/4 A- A// z7/4 |
+z A// z3/4 A// z3/4 A/ z3/2 A +mf+ ^F- [F//G//-] G3/4- |
+G/ z/ +f+ G// z3/4 G// z3/4 +mf+ G// z3/4 +f+ G +mf+ E3/4 z5/4 A,3/4 z// |
+G3/4 z// G// z// +f+ G3/4 z// +mf+ G// z// A G3/2 z/ +f+ G +mf+ ^F |
++f+ G +mf+ ^F/ z/ +f+ F/ z/ +mf+ F z +f+ G z F |
+z8 |
+z ^c B- [A//-B//] A// z/ A// z3/4 A A ^F |
+% Bar 10 (0:17)
+A z A/ z/ B3/4 z5/4 ^F3/4 z// A3/4 z5/4 |
+z ^c B A// z3/4 A// z3/4 A3/4 z// A// z3/4 A |
+A3/4 z5/4 A// z3/4 A/ z3/2 A +mf+ ^F- [F//G//-] G3/4- |
+G/ z/ +f+ G// z3/4 G// z3/4 +mf+ G// z3/4 +f+ G +mf+ E3/4 z5/4 A,3/4 z// |
+G3/4 z// G// z// +f+ G3/4 z// +mf+ G// z// A z2 +f+ G +mf+ ^F |
++f+ G +mf+ ^F/ z/ +f+ F/ z/ +mf+ F z +f+ G z F |
+z8 |
+z A c B c B- [B//c//-] c3/4 B |
+c3 B- B- [B//c//-] c/ z9/4 |
+z A c B- [B//c//-] c3/4 +mf+ B +f+ c B- |
+% Bar 20 (0:36)
+[B//c//-] c11/4 B- B- [B//c//-] c// z3/2 G/ z/ |
+d3 c- c G3/4 z9/4 |
+d3 B- B- B3/4 z// G A- |
+A8- |
+A// z31/4 |
+z A c B- [B//c//-] c3/4 B- [B//c//-] c3/4 B- |
+[B//c//-] c11/4 B- B- [B//c//-] c// z5/2 |
+z A c3/4 z// B c B- [B//c//-] c3/4 B- |
+[B//c//-] c11/4 B- B- [B//c//-] c/ z5/4 +mf+ G/ z/ |
++f+ d3 c- c G3/4 z9/4 |
+% Bar 30 (0:55)
+d3 B- B2 G A- |
+A8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:14)
+z8 |
+z +ff+ ^c B- [A//B//] z3/4 A// z3/4 A ^F A- |
+A- A// z3/4 A/ z/ A3/4 z// B/ z5/2 E/ z/ |
+^c B A// z3/4 A// z7/4 A3/4 z// A3/4 z// A3/4 z// |
+A A A// z3/4 B/ z3/2 A +f+ ^F- [F//G//-] G3/4- |
+G/ z/ +ff+ G// z3/4 G// z3/4 G// z3/4 G +f+ E3/4 z5/4 A,3/4 z// |
+G3/4 z// G// z// +ff+ G3/4 z// +f+ G// z// A G3/2 z/ +ff+ G +f+ ^F |
++ff+ G ^F/ z/ F/ z/ +f+ F z +ff+ G z F |
+z8 |
+z ^c B- [A//B//] z3/4 A// z// A// z3/4 A/ ^F A- |
+% Bar 50 (1:34)
+A- A// z3/4 A/ z/ A3/4 z5/4 E// z3/4 ^F// z3/4 A// z3/4 |
+^c B A// z3/4 A// z11/4 A3/4 z// E3/4 z// |
+^F// z3/4 A// z7/4 A/ z3/2 A +f+ F- [F//G//-] G3/4- |
+G/ z/ +ff+ G// z3/4 G// z3/4 G// z3/4 G +f+ E3/4 z5/4 A,3/4 z// |
+G3/4 z// G// z// +ff+ G3/4 z// +f+ G// z// A G3/2 z/ +ff+ G +f+ ^F |
++ff+ G ^F/ z/ F/ z/ +f+ F z +ff+ G z F |
+z8 |
+z A c B c B- [B//c//-] c3/4 B |
+c3 B- B- [B//c//-] c/ z9/4 |
+z A c B- [B//c//-] c3/4 B c B- |
+% Bar 60 (1:53)
+[B//c//-] c11/4 B- B- [B//c//-] c// z3/2 G/ z/ |
+d3 c- c G3/4 z9/4 |
+d z B B- B- B3/4 z// G A- |
+A8- |
+A// z31/4 |
+z2 c B- [B//c//-] c3/4 B- [B//c//-] c3/4 B- |
+[B//c//-] c11/4 B- B- [B//c//-] c// z5/2 |
+z A c3/4 z// B c B- [B//c//-] c3/4 B- |
+[B//c//-] c11/4 B- B- [B//c//-] c/ z5/4 G/ z/ |
+d3 c- c G3/4 z9/4 |
+% Bar 70 (2:12)
+d3 B- B2 G A- |
+A8 |
+z8 |]
+
+X: 10
+%%Orig filename was BakerStreetDrums.abc
+%abc-2.1
+%%song-title       Gerry Rafferty - Baker Street
+%%song-duration    3:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Gerry Rafferty - Baker Street (3:03) - Basic Drum
+%%part-name Basic Drum
+Z: Kaoss of Gladden
+M: 4/4
+Q: 125
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+% Bar 20 (0:36)
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z3/2 |
+% Bar 30 (0:55)
+^A/ z3/2 A/ z3/2 A/ z3/2 A/ z/ A/ z/ |
+[^A,/E/^A/] E/ [A,/E/] E/ [A,/E/A/] z/ [A,/E/] [A,/E/] [A,/A/] E/ [A,/E/] E/ [A,/E/A/] [A,/E/] [A,/E/] E/ |
+[^A,/E/^A/^d/] z/ +mf+ A,/ z/ +f+ [A,/E/] z/ +mf+ A,/ A,/ +f+ [A,/E/] d/ [A,/d/] E/ [A,/F/a/] +mf+ A,/ +f+ [A,/a/] z/ |
+[^C,/^A,/A/-^A/] =A/- [C,/A,/A/-c/] A/ [C,/A,/E/F/^A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+% Bar 40 (1:14)
+[^A,/E/^A/] E/ [A,/E/] E/ [A,/E/A/] z/ [A,/E/] [A,/E/] [A,/A/] E/ [A,/E/] E/ [A,/E/A/] [A,/E/] [A,/E/] E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+% Bar 50 (1:34)
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+% Bar 60 (1:53)
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+% Bar 70 (2:12)
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
+[^A,/E/^A/] E/ [A,/E/] E/ [A,/E/A/] z/ [A,/E/] [A,/E/] [A,/A/] E/ [A,/E/] E/ [A,/E/A/] [A,/E/] [A,/E/] E/ |
+[^A,/E/^A/^d/] z/ +mf+ A,/ z/ +f+ [A,/E/] z/ +mf+ A,/ A,/ +f+ [A,/E/] d/ [A,/d/] E/ [A,/F/a/] +mf+ A,/ +f+ [A,/a/] z/ |
+[^C,/^A,/A/-^A/] =A/- [C,/A,/A/-c/] A/ [C,/A,/E/F/^A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+% Bar 80 (2:31)
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/G,/A,/E/F/A/] z/ [C,/A,/B,/c/] [A,/B,/] [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] +f+ a/ [C,/A,/E/F/A/a/] +mf+ [C,/A,/]
+	[C,/A,/E/c/] +f+ E/ |
+[^C,/^A,/A/-^A/] =A/- [C,/A,/A/-c/] A/ [C,/A,/E/F/^A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/] [C,/A,/E/c/]
+	+f+ E/ |
++mf+ [^C,/^A,/^A/] z/ +f+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mf+ [C,/A,/c/] A,/ +f+ [C,/A,/A/] +mf+ [C,/A,/] [C,/A,/c/] z/ +f+ [C,/A,/E/F/A/] +mf+ [C,/A,/]
+	[C,/A,/c/] +f+ E/ |
+[^A,/E/^A/^d/] z/ +mf+ A,/ z/ +f+ [A,/E/] z/ +mf+ A,/ A,/ +f+ [A,/E/] d/ [A,/d/] E/ [A,/F/a/] +mf+ A,/ +f+ [A,/a/] z/ |
+[^C,/^A,/A/^A/] z/ +mf+ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +mp+ [C,/A,/c/] A,/ +mf+ [C,/A,/A/] +mp+ [C,/A,/] [C,/A,/c/] z/ [C,/A,/E/F/A/] [C,/A,/] [C,/A,/c/] E/ |
+% Bar 90 (2:50)
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ [C,/A,/c/] A,/ [C,/A,/A/] +p+ [C,/A,/] [C,/A,/c/] z/ +mp+ [C,/A,/E/F/A/] +p+ [C,/A,/] [C,/A,/E/c/] +mp+ E/ |
++p+ [^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ [C,/A,/c/] A,/ [C,/A,/A/] [C,/A,/] [C,/A,/c/] z/ [C,/A,/E/F/A/] [C,/A,/] [C,/A,/c/] E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ +pp+ [C,/A,/c/] A,/ [C,/A,/A/] [C,/A,/] [C,/A,/c/] z/ [C,/A,/E/F/A/] [C,/A,/] [C,/A,/E/c/] E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ [C,/A,/c/] A,/ [C,/A,/A/] [C,/A,/] +ppp+ [C,/A,/c/] z/ +pp+ [C,/A,/E/F/A/] +ppp+ [C,/A,/] [C,/A,/c/] E/ |
+[^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ [C,/A,/c/] A,/ [C,/A,/A/] [C,/A,/] [C,/A,/c/] z/ [C,/A,/E/F/A/] [C,/A,/] [C,/A,/E/c/] E/ |
++pppp+ [^C,/^A,/^A/] z/ [C,/A,/c/] z/ [C,/A,/E/F/A/] z/ [C,/A,/c/] A,/ [C,/A,/A/] [C,/A,/] [C,/A,/c/] z/ [C,/A,/E/F/A/] [C,/A,/] [C,/A,/c/] z/ |]
+
+X: 4
+%%Orig filename was BakerStreetHorn.abc
+%abc-2.1
+%%song-title       Gerry Rafferty - Baker Street
+%%song-duration    3:02
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Gerry Rafferty - Baker Street (3:02) - Basic Horn
+%%part-name Basic Horn
+Z: Kaoss of Gladden
+M: 4/4
+Q: 125
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:55)
+z8 |
+z8 |
+z2 z z// F//- [F//A//] +mf+ c// +ff+ f- f// z// e5/4 z// d// z// c// z// |
+d// z// e/ d- d2- d4- |
+d2 z z// +f+ F//- +ff+ [F//A//] +f+ c// +ff+ f z/ e5/4 z// d// z// c// z// |
+A3/2 ^G// A25/4- |
+A z z A/ z/ f z/ e3/2 d// z// c// z// |
+c2- c/ z/ c/ z/ c2- c// z3/4 c3/4 z// |
+A2- A/ z/ A/ z/ f z/ e3/2 d/ c/ |
+f/ +f+ e/ +ff+ d- d c f/ e/ d- d3/4 z// c |
+% Bar 40 (1:14)
+f- f// e5/4 z// d z// c- c// A5/4 z// +fff+ G5/4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:34)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:53)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:12)
+z8 |
+z8 |
+z2 z z// +f+ F//- [F//A//] +mf+ c// +ff+ f- f// z// e5/4 z// d// z// c// z// |
+d// z// e/ d- d2- d4- |
+d2 z z// +f+ F//- +ff+ [F//A//] +f+ c// +ff+ f z/ e5/4 z// d// z// c// z// |
+A- A3/4 ^G/ A23/4- |
+A z z A/ z/ f z/ e3/2 d// z// c// z// |
+c2- c/ z/ c/ z/ c2- c// z3/4 c3/4 z// |
+A2- A/ z/ A/ z/ f z/ e3/2 d/ c/ |
+f/ +f+ e/ +ff+ d- d c f/ e/ d- d3/4 z// c- |
+% Bar 80 (2:31)
+c3/4 z5/2 +f+ F//- [F//A//] +mf+ c// +ff+ f- f// z// e5/4 z// d// z// c// z// |
+d// z// e/ d- d2- d4- |
+d2 z z// +f+ F//- +ff+ [F//A//] +f+ c// +ff+ f z/ e5/4 z// d// z// c// z// |
+A8- |
+A z z A/ z/ f z/ e3/2 d// z// c// z// |
+c2- c/ z/ c/ z/ c2- c// z3/4 c3/4 z// |
+A2- A/ z/ A/ z/ f z/ e3/2 d/ c/ |
+f/ +f+ e/ +ff+ d- d c f/ e/ d- d3/4 z// c- |
+c3/4 z5/2 +f+ F//- [F//A//] +mf+ c// +ff+ f- f// z// e5/4 z// d// z// c// z// |
+d// z// e/ d- d2- d4- |
+% Bar 90 (2:50)
+d2 z z// +mf+ F//- [F//A//] c// f z/ e5/4 z// d// z// c// z// |
+A8- |
+A z z +p+ A/ z/ f z/ e3/2 d// z// c// z// |
+c2- c/ z/ c/ z/ +pp+ c2- c// z3/4 c3/4 z// |
+A2- A/ z/ A/ z/ +ppp+ f z/ e3/2 d/ c/ |
+f/ e/ d- d +pppp+ c f/ e/ d- d3/4 z// c- |
+c3/4 z29/4 |]
+
+X: 6
+%%Orig filename was BakerStreetMisty.abc
+%abc-2.1
+%%song-title       Gerry Rafferty - Baker Street
+%%song-duration    3:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Gerry Rafferty - Baker Street (3:03) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+Z: Kaoss of Gladden
+M: 4/4
+Q: 125
+K: C maj
+
++mp+ A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+% Bar 10 (0:17)
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+% Bar 20 (0:36)
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+% Bar 30 (0:55)
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+z8 |
+z8 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+A +mf+ d +mp+ A a A +mf+ a +mp+ A- [A//d//-] d3/4 |
+% Bar 40 (1:14)
+A +mf+ d +mp+ A a A +mf+ a +mp+ A- [A//d//-] d3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+% Bar 50 (1:34)
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+A, +mf+ E +mp+ A, E A, +mf+ E +mp+ A- [E//-A//] E3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A, +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+d +mf+ A +mp+ d a d +mf+ a +mp+ d- [d//a//-] a3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+% Bar 60 (1:53)
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+% Bar 70 (2:12)
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [G//-d//] G3/4 |
+z8 |
+z8 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+A +mf+ d +mp+ A a A +mf+ a +mp+ A- [A//d//-] d3/4 |
+% Bar 80 (2:31)
+A +mf+ d +mp+ A a A +mf+ a +mp+ A- [A//d//-] d3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+D +mf+ A +mp+ D A D +mf+ A +mp+ d- [A//-d//] A3/4 |
+A +mf+ d +mp+ A a A +mf+ a +mp+ A- [A//d//-] d3/4 |
+A +mf+ d +mp+ A a A +mf+ a +mp+ A- [A//d//-] d3/4 |
+D A D A +p+ D +mp+ A d- [A//-d//] A3/4 |
+% Bar 90 (2:50)
+D A +p+ D A D A d- [A//-d//] A3/4 |
+D A D A +pp+ D +p+ A d- +pp+ [A//-d//] A3/4 |
+D A D A D A d- [A//-d//] A3/4 |
+D A +ppp+ D A D A d- [A//-d//] A3/4 |
+D A D A D A d- +pppp+ [A//-d//] A3/4 |
+A d A a A a A- [A//d//-] d3/4 |
+z8 |]
+

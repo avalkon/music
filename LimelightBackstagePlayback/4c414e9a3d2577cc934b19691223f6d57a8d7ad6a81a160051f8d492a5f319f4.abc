@@ -1,0 +1,119 @@
+%abc-2.1
+%%song-title       Fantasia I
+%%song-composer    Valentin Bakfark
+%%song-duration    3:16
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-05-09 10:24:49
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+X: 1
+T: Fantasia I (3:16) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Valentin Bakfark
+Z: Kellinore of Gladden
+M: 4/4
+Q: 79
+K: C maj
+L: 1/8
+
++mf+ B,4 D3 ^C |
+[B,3/2^F3/2-] [C/F/-] [B,F-] [A,/F/-] [G,/F/] [^F,A-] [E,A-] [F,A] [G,G] |
+[A,^F-] [^F,F-] [B,-F] [B,-E] [B,DB-] [^CB-] [B,-B-] [B,EB] |
+[B,^F-d-] [^CFd-] [B,-Dd] [B,-E^c] [B,-FB-] [B,DB] [A,2E2-c2-] |
+[G,-E^c] [G,-DB] [G,2B,2B2] [^F,3/2-^C3/2-B3/2] [F,/-C/-^A/] [F,/-C/-B/] [F,/-C/-A/] [F,/-C/-^G/] [F,/C/A/] |
++ff+ [B,2-B2-^f2-] +mf+ [B,2^F2-B2f2] +ff+ [F2a2-] +mf+ [E-B-a] +ff+ [EBg] |
+[B,2D2d2-^f2-] +mf+ [B,-df] +ff+ [B,^ce] [B,-^F-Bd] [B,-F-B] [B,F-f-] +mf+ [A,Ff-] |
+[G,-G-B-^f] +ff+ [G,-G-B-e] [G,G-B-e-] +mf+ [A,GBe-] [B,3/2-^F3/2-B3/2-e3/2] +ff+ [B,//-F//-B//-d//] [B,//-F//-B//-^c//] [B,3/2-F3/2-B3/2-d3/2]
+	[B,//-F//-B//c//] [B,//F//B//] |
+[^F,-^F-A-^c] [F,-FAB] [F,-F-A-c] [F,FAd] [E-Be-] +mf+ [Ece] +ff+ [D2d2-^f2-] |
+% Bar 10 (0:28)
++mf+ [G-d^f] +ff+ [G-d] [G2B2e2] [^F2-d2f2-] +mf+ [F-^c-f] +ff+ [F-c-e] |
+[^F-^c^f-] +mf+ [F/-B/f/-] [F/c/f/-] [D-d-f] +ff+ [Ddf] [G-B-e] [G-Bd] [G2B2e2] |
+[d2-^f2-] +mf+ [B,-df-] [B,-^cf] +ff+ [B,-Bf-] +mf+ [B,Af] +ff+ [G,2B2g2-] |
++mf+ [C2-G2-g2] +ff+ [C-E-Ge-] +mf+ [CE-Ae] +ff+ [B,-E-Bg-] +mf+ [B,-E^cg] +ff+ [B,2D2d2-^f2-] |
++mf+ [G-d^f] +ff+ [G-d] [G2B2-e2] [^F2-B2f2-] +mf+ [F-A-f] +ff+ [FAe] |
+[B,d-] +mf+ [^C^cd-] [B,-DB-d] +ff+ [B,EB-c] [B,-^F-Bd] [B,/-F/-A/B/-] +mf+ [B,/F/G/B/] +ff+ [G,2B2d2g2-] |
++mf+ [A,-A-^c-g] +ff+ [A,Ac^f] [B,2^F2-B2f2-] +mf+ [^F,-F-Bf] +ff+ [F,-F-^Ge] [F,2F2^A2c2] |
+[B,2-G2B2-d2-] +mf+ [B,2^F2B2d2] D2- [B,2D2] |
+[C2E2] [B,2^F2] [G,2-G2-] [G,2G2B2] |
+[A,2^F2^c2] [B,2G2B2] [C2-G2] [C3/2-E3/2-G3/2] [C//-E//-F//] [C//-E//-G//] |
+% Bar 20 (0:58)
+[C3/2-E3/2-A3/2] [C//-E//-G//] [C//E//A//] +ff+ [B,2D2B2^f2] [E,2E2G2g2] [B,2-D2B2-f2] |
+[B,2-G2-B2d2-] +mf+ [B,2G2-B2d2] +ff+ [G2^c2e2] [^F2d2-^f2-] |
++mf+ [D-d^f-] [D/-^c/f/-] [D/-B/f/] +ff+ [DA-a-] +mf+ [EA-a-] [^F-A-a] +ff+ [FAf] [E2-B2-g2-] |
++mf+ [B,2-E2B2g2] +ff+ [B,2D2d2^f2] [C2E2G2e2] [B,2D2-B2-g2-] |
++mf+ [G,-DB-g-] [G,EBg] +ff+ [A,2^F2A2^f2] [B,-G-B-d] +mf+ [B,GB^c] +ff+ [B,-F-Bf-] +mf+ [B,FAf-] |
+[E-G-^f-] [E-^FGf] +ff+ [E2-G2B2e2] [E2F2-d2-f2] [D-F-da-] +mf+ [DF^ca] |
++ff+ [EG-B-g-] +mf+ [A,GBg] +ff+ [B,-B-^f-] +mf+ [B,-B-^cf-] [B,-Bd-f-] [B,Adf] +ff+ [D2^F2B2f2] |
+[E2-G2-B2-e2] [E-GBg-] +mf+ [EA^cg-] [D-Bdg-] [DAcg] +ff+ [D-Bd-^f-] +mf+ [DAdf] |
++ff+ [E2G2-B2-e2] [E-GB-g-] +mf+ [E-^FBg-] [E-G^c-g-] [EAcg] +ff+ [D2B2d2^f2-] |
++mf+ [A,-Ac-^f-] [A,Gcf] +ff+ [C-^FA-e-] +mf+ [CEAe-] [B,-F-B-e] +ff+ [B,-F-B-d] [B,F-B-d-] +mf+ [A,FBd-] |
+% Bar 30 (1:29)
+[G,-GB-d-] [G,^FBd] +ff+ [A,2E2A2c2-] +mf+ [B,-D-F-c] +ff+ [B,DFB] [G,2D2G2-B2-] |
++mf+ [C-E-G-B] +ff+ [C/-E/-G/A/] [C/-E/G/] [C2E2A2] [B,-E-G-B] [B,-EG^c] [B,-D-^F-d] [B,DFB] |
+[E,-EG-^c-] +mf+ [E,DGc] +ff+ [G,-^CE-B-] +mf+ [G,B,EB] +ff+ [^F,3/2-C3/2-^F3/2-B3/2] [F,/-C/-F/-^A/] [F,/-C/-F/-B/] [F,/-C/-F/-A/] [F,//-C//-F//-B//]
+	[F,//-C//-F//-A//] [F,//-C//-F//-^G//] [F,//C//F//A//] |
+[B,2-B2-] +mf+ [B,2^F2B2] B2- [B,2B2-] |
+[E2-B2] [E2G2] [^C2A2-] [D-A] [D-G] |
+[D^F] [^CE] [B,-F-] [A,B,F] [G,E-G-] [^F,E-G-] [E,-EG] [E,EG] |
+[^F,2-^C2^F2-] [F,-D-F] [F,D-G] [F,-DA-] [F,CA] [G,2B,2B2] |
+[A,2E2^c2] +ff+ [B,2D2B2-] [^C2-E2-B2e2-] +mf+ [CE-A-e-] [B,E-A-e] |
++ff+ [A,-E-A^c-] +mf+ [A,EGc] +ff+ [B,2D2^F2d2] [E,E-G-B-] +mf+ [^F,E-G-B-] [G,E-G-B] +ff+ [A,EGc] |
+[B,D-^F-d] [^CDFe] [DB-d-^f-] +mf+ [B,Bdf-] [G-B-f] +ff+ [GBd] [E2G2B2e2] |
+% Bar 40 (1:59)
+[^F2-A2-d2^f2-] +mf+ [F-A^c-f-] [FGcf] [Fd-] [Dd] [E2c2-] |
+[^F-^c] [FB] +ff+ [G2B2e2] [F2-c2a2-] +mf+ [F-d-a] +ff+ [Fd^f] |
+[e2-g2-] +mf+ [E-eg-] [Edg] +ff+ [A2-^c2-e2] [Ac^f-] +mf+ [^FAf-] |
+[G-B-^f] +ff+ [GBe] [A2c2e2-] +mf+ [^F-A-e] +ff+ [F-A^c] [B,2F2B2^d2] |
+[E2-G2-B2e2-] +mf+ [EGc-e-] [CEc-e] [D-^F-c] [DFB] +ff+ [E2G2B2-] |
+[C2-E2-B2e2-] +mf+ [C-E-A-e] +ff+ [CE-A^f] [B,2-E2B2-g2] [B,2D2B2f2-] |
++mf+ [E2-B2-^f2] +ff+ [E-B-e-] +mf+ [E^FBe] +ff+ [G2e2] [B,2F2^d2] |
+[E2-G2-e2] [EGB-] +mf+ [^FAB] [G-B-] +ff+ [GB^c] [D2F2A2d2] |
+[E2-G2-^c2] [E-GB-] +mf+ [E^FAB] +ff+ [E-B-] [EB-c] [B,-D-B-d] [B,DBe] |
+[D-A-^f] [D-Ag] [D^F-d-a-] +mf+ [EFda-] [F-A-^c-a] +ff+ [FAcf] [E2B2e2g2] |
+% Bar 50 (2:29)
+[^F2A2d2^f2] [G-B^ce-] +mf+ [GBe] +ff+ [F3/2-c3/2-f3/2-] +mf+ [F/-^A/c/-f/-] [F/-B/c/-f/-] [F/-A/c/-f/-] [F/-^G/c/-f/-] [F/A/c/f/] |
+[B,-B-d] [B,-B^c] +ff+ [B,-B-b-] +mf+ [B,ABb-] [Gb] +ff+ [^Fa] [E-e-g] [Ee^f] |
+[A-e-] +mf+ [A-de] +ff+ [A^ca-] +mf+ [GBa-] [^FA-a] +ff+ [EAg] [D-d-^f] [D-de] |
+[D-d-] +mf+ [D^cd] +ff+ [Bd-g-] +mf+ [Ad-g-] [G-dg-] [G-cg] +ff+ [G2B2e2] |
+[^F-^c-a] [Fcg] [B,-B-^f] [B,B-e] [GBd-] +mf+ [FAd] [EGe-] [DFe-] |
+[^CE-e] [B,Ed] +ff+ [A,-^F-^ca-] +mf+ [A,F-Ba-] [D-FA-a] +ff+ [DEAg] [Dd-^f] [CEde] |
+[B,^F-d-] +mf+ [A,F^cd] +ff+ [G,G-Bg-] +mf+ [^F,GAg-] [E,-Gg-] [E,-FAg] +ff+ [E,-E-Bg-] +mf+ [E,Ecg] |
++ff+ [B,2-D2d2-^f2-] +mf+ [B,-^F-df] +ff+ [B,F^ce] [G-B-d] [GBe] [D2F2B2f2] |
+[E2G2^c2e2] [B,2^F2-B2-d2-] +mf+ [D2F2B2d2] +ff+ [A,2E2A2c2-] |
++mf+ [B,-D-^F-^c] +ff+ [B,DFB] [E,2E2G2B2-] +mf+ [B,-D-F-B] +ff+ [B,-D-F-c] [B,-D-Fd] [B,DGB] |
+% Bar 60 (3:00)
+[A,2E2A2^c2] [B,2D2^F2d2] [E,2-E2-G2-c2] [E,-EG-B-] +mf+ [E,DGB] |
++ff+ [^F,3/2-^C3/2-^F3/2-B3/2] [F,/-C/-F/-^A/] [F,/-C/-F/-B/] [F,/-C/-F/-A/] [F,/-C/-F/-^G/] [F,/C/F/A/] [B,2-F2B2-] +mf+ [B,2-F2-B2-] |
+[B,-^FB-] [B,EB-]
+	%%Q: 78
+	[D79/78F79/78-B79/78-] [^C79/78E79/78F79/78-B79/78]
+	%%Q: 76
+	+ff+ [B,79/76D79/76F79/76B79/76-] +mf+ [C79/76E79/76B79/76-]
+	%%Q: 75
+	[B,79/75D79/75-B79/75-] [A,79/75C79/75D79/75-B79/75-] |
+%%Q: 73
+[G,79/73B,79/73-D79/73-B79/73-] [^F,79/73B,79/73D79/73B79/73-]
+	%%Q: 72
+	[E,79/36E79/36-G79/36-B79/36-]
+	%%Q: 69
+	[B,158/69-E158/69G158/69B158/69-]
+	%%Q: 68
+	[B,79/68-^D79/68^F79/68B79/68-] [B,79/68^C79/68E79/68B79/68] |
+%%Q: 67
+[B,158/67^D158/67^F158/67]
+	%%Q: 62
+	[E,79/31E79/31G79/31]
+	%%Q: 55
+	[B,158/55-D158/55-F158/55-]
+	%%Q: 50
+	[B,79/100D79/100F79/100] |]
+

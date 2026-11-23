@@ -1,0 +1,1208 @@
+N: TS  8,  11   8  20  10   1   5   4  18
+X: 11
+%%Orig filename was xSleighRideBardic.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Bardic Fiddle
+%%part-name Bardic Fiddle
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:24)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 G,2 A,2 B,2 |
+D2 C2 B,2 A,2 |
+G,6 z2 |
+% Bar 30 (0:37)
+z8 |
+z4 G,2- G,3/2 z/ |
+^A,4 B,2- B,/ z3/2 |
+z8 |
+z8 |
+z2 [G,2g2] [A,2a2] [B,2b2] |
+[D2d2] [C2c'2] [B,2b2] [A,2a2] |
+[G,4-e4g4] [G,2e2-a2-] [e2a2] |
+[a4c'4] [g4b4] |
+z8 |
+% Bar 40 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[^F,4-^c4-^a4-] [F,3-c3a3-] [F,a] |
++f+ [^G,4-^d4-c'4-] [G,2-d2-c'2-] [G,-dc'-] [G,/c'/] z/ |
++ff+ [^C^A^f] z5/2 [C4A4f4] z/ |
+% Bar 50 (1:03)
+[^Dc-^g] c/ z13/2 |
+z8 |
+z8 |
+z2 ^G,2 ^A,2 C2 |
+^D2 ^C2 =C2 ^A,2 |
+^G,6 z2 |
+z8 |
+z4 ^G,2- G,3/2 z/ |
+B,4 C2- C/ z3/2 |
+z8 |
+% Bar 60 (1:16)
+z8 |
+z2 [^G,2^g2] [^A,2^a2] [C2c'2] |
+[^D2^d2] [^C2^c2] [=C2c'2] [^A,2^a2] |
+[^G,4-f4^g4] [G,2f2-^a2-] [f2a2] |
+[^c4^a4] [^g4c'4] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:29)
+z8 |
+z8 |
+z8 |
+[G,4-d4-b4-] [G,3-d3b3-] [G,b] |
++f+ [A,4-^c4-e4-] [A,2-c2-e2-] [A,-c-e] [A,/c/] z/ |
++ff+ [DBg] z5/2 [D4B4g4] z/ |
+[A,A] z +f+ [A3/2a3/2] z/ +ff+ [A3/2a3/2] z/ [Aa] z |
+[A,3/2a3/2] z/ [B,3/2b3/2] z/ [A,a] z/ +f+ [^F,/^f/] +ff+ [D,3/2d3/2] z/ |
+[E,3/2e3/2] z/ [E,e] z/ [^F,/^f/] +f+ [E,e] z/ [D,/d/] +ff+ [B,B] z |
+[A,8-A8-] |
+% Bar 80 (1:41)
+[A,3/2A3/2] z/ [B,3/2B3/2] z/ [^C,3/2^c3/2] z/ [E,3/2e3/2] z/ |
+[A,3/2a3/2] z/ [B,3/2b3/2] z/ [A,a] z/ +f+ [^F,/^f/] +ff+ [D,3/2d3/2] z/ |
+[E,e] z [E,e] z/ [^F,/^f/] [E,e] z/ [D,/d/] [B,3/2B3/2] z/ |
+[D,8d8] |
+z2 [A,3/2a3/2] z/ [A,3/2a3/2] z/ [A,a] z |
+[A,3/2a3/2] z/ [B,3/2b3/2] z/ [A,a] z/ +f+ [^F,/^f/] +ff+ [D,3/2d3/2] z/ |
+[E,3/2e3/2] z/ [E,e] z/ [^F,/^f/] +f+ [E,e] z/ [D,/d/] +ff+ [B,B] z |
+[A,8-A8-] |
+[A,3/2A3/2] z/ [B,3/2B3/2] z/ [^C,3/2^c3/2] z/ [E,3/2e3/2] z/ |
+[A,3/2a3/2] z/ [B,3/2b3/2] z/ [A,a] z/ +f+ [^F,/^f/] +ff+ [D,3/2d3/2] z/ |
+% Bar 90 (1:54)
+[E,e] z [E,e] z/ [^F,/^f/] [E,e] z/ [D,/d/] [B,3/2B3/2] z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+[^D4G4^A4] [D4G4c4] |
+[F4^G4c4] [F4^A4d4] |
+[^D4G4^A4] [D4G4c4] |
+[F4^G4c4] [F4^A4d4] |
+[^G,4-^d4-c'4-] [G,3-d3c'3-] [G,c'] |
+% Bar 100 (2:07)
++f+ [^A,4-d4-f4-] [A,2-d2-f2-] [A,-d-f] [A,/d/] z/ |
++ff+ [^Dc^g] z5/2 [D4c4g4] z/ |
+[^A,^A] z +f+ [A3/2^a3/2] z/ +ff+ [A3/2a3/2] z/ [Aa] z |
++f+ [^d4-g4-^a4] [d3g3c'3-] c' |
+[^d2-^g2-c'2-] [d3/2g3/2-c'3/2] g/- [=d3-g3^a3-] [da] |
+[^d4-g4-^a4] [d2-g2-c'2-] [d3/2g3/2c'3/2-] c'/ |
+[^d4^g4c'4] [=d4g4^a4] |
+[^d2-g2-^a2-] [d3/2-g3/2-a3/2] [d/-g/-] [d3g3c'3-] c' |
+[^d2-^g2-c'2-] [d3/2-g3/2-c'3/2] [d/g/-] [=d2-g2-^a2-] [d3/2-g3/2a3/2-] [d/a/] |
+[^d2-g2-^a2-] [d3/2-g3/2-a3/2] [d/-g/] [d2-g2-c'2-] [d3/2g3/2-c'3/2-] [g/c'/] |
+% Bar 110 (2:20)
+[^c4^f4^a4] [d4=f4] |
+[^d/-g/-^a/] [d7/2-g7/2-] [d3g3c'3-] c' |
+[^d2-^g2-c'2-] [d3/2g3/2-c'3/2] g/- [=d3-g3^a3-] [da] |
+[^d4-g4-^a4] [d2-g2-c'2-] [d3/2g3/2c'3/2-] c'/ |
+[^d4^g4c'4] [=d4g4^a4] |
+[^d2-g2-^a2-] [d3/2-g3/2-a3/2] [d/-g/-] [d3g3c'3-] c' |
+[^d2-^g2-c'2-] [d3/2-g3/2-c'3/2] [d/g/-] [=d2-g2-^a2-] [d3/2-g3/2a3/2-] [d/a/] |
+[^d4-g4-^a4] [d3g3c'3-] c' |
+[^d2-^g2-c'2-] [d3/2g3/2-c'3/2] g/- [=d3-g3^a3-] [da] |
+[^d4-g4-^a4] [d2-g2-c'2-] [d3/2g3/2c'3/2-] c'/ |
+% Bar 120 (2:33)
+[^d4^g4c'4] [=d4g4^a4] |
+[e2-^g2-b2-] [e3/2-g3/2-b3/2] [e/-g/-] [^c3-e3g3] c |
+[^c2-e2-a2-] [c3/2e3/2-a3/2-] [e/a/-] [^d2-a2-b2-] [d3/2-a3/2b3/2-] [d/b/] |
+[e2-^g2-b2-] [e3/2-g3/2-b3/2] [e/-g/-] [^c3-e3g3] c |
+[^c2-e2-a2-] [c3/2e3/2-a3/2-] [e/a/-] [^d2-a2-b2-] [d3/2-a3/2b3/2-] [d/b/] |
++ff+ [^c4-e4-a4-] [c2-e2-a2-] [c-ea] c/ z/ |
+[^d4-^f4-b4-] [d2-f2-b2-] [d3/2f3/2b3/2] z/ |
++f+ [e^gb] z7 |
+z8 |]
+
+X: 8
+%%Orig filename was xSleighRideBass.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Theorbo
+%%part-name Basic Theorbo
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+G2 A3/2 z/ G3/2 +f+ E/ +ff+ C3/2 z/ |
+D3/2 z/ E3/2 z/ +f+ D z/ C/ +ff+ A,2 |
+G,8- |
+G,8- |
+G,8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 D2 |
+^D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+% Bar 20 (0:24)
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+F,3/2 z/ A,2 C3/2 z/ F,3/2 z/ |
+G,3/2 z/ B,3/2 z/ D3/2 z/ G,3/2 z/ |
+D z5/2 D9/2 |
+G,3/2 z13/2 |
+C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+% Bar 30 (0:37)
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 D2 |
+^D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+% Bar 40 (0:50)
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+C2 ^G,3/2 z/ A,2 C2 |
+D3/2 z/ ^F,3/2 z/ G,2 B,3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^F,3/2 z/ ^A,2 ^C3/2 z/ F,3/2 z/ |
+^G,3/2 z/ C3/2 z/ ^D3/2 z/ G,3/2 z/ |
+^D z5/2 D9/2 |
+% Bar 50 (1:03)
+^G,3/2 z13/2 |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 ^D2 |
+E3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+% Bar 60 (1:16)
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+^C2 A,3/2 z/ ^A,2 C2 |
+^D3/2 z/ G,3/2 z/ ^G,2 C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+% Bar 70 (1:29)
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+G,3/2 z/ B,2 D3/2 z/ G,3/2 z/ |
+A,3/2 z/ ^C3/2 z/ E3/2 z/ A,3/2 z/ |
+E z5/2 E9/2 |
+A,3/2 z13/2 |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+% Bar 80 (1:41)
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 E2 |
+F3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+% Bar 90 (1:54)
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+D2 ^A,3/2 z/ B,2 D2 |
+E3/2 z/ ^G,3/2 z/ A,2 ^C3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^G,3/2 z/ C2 ^D3/2 z/ G,3/2 z/ |
+% Bar 100 (2:07)
+^A,3/2 z/ D3/2 z/ F3/2 z/ A,3/2 z/ |
+F z5/2 F9/2 |
+^A,3/2 z13/2 |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 F2 |
+% Bar 110 (2:20)
+^F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+^D2 B,3/2 z/ C2 D2 |
+% Bar 120 (2:33)
+F3/2 z/ A,3/2 z/ ^A,2 D3/2 z/ |
+E2 C3/2 z/ ^C2 E2 |
+^F3/2 z/ ^A,3/2 z/ B,2 ^D3/2 z/ |
+E2 C3/2 z/ ^C2 E2 |
+^F3/2 z/ ^A,3/2 z/ B,2 ^D3/2 z/ |
+A,3/2 z/ ^C2 E3/2 z/ A,3/2 z/ |
+B,3/2 z/ ^D3/2 z/ ^F3/2 z/ B,3/2 z/ |
+E3/2 z13/2 |
+z2 B, z/ E5/2- [E,/-E/] E, z/ |]
+
+X: 20
+%%Orig filename was xSleighRideCowbell.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Cowbell
+%%part-name Basic Cowbell
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++mf+ z8 |
+z2 G,/ z3/2 G,/ z3/2 G,/ z3/2 |
+G,/ z3/2 +mp+ G,/ z3/2 +mf+ G,/ z +mp+ G,/ +mf+ G,/ z3/2 |
+G,/ z3/2 G,/ z +mp+ G,/ G,/ z G,/ +mf+ G,/ z3/2 |
+G,/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+% Bar 20 (0:24)
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z15/2 |
+G,/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z15/2 |
+% Bar 50 (1:03)
+G,/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:29)
+z8 |
+z8 |
+z8 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z15/2 |
+G,/ z15/2 |
+z8 |
+z8 |
+z2 G,/ z3/2 G,/ z3/2 G,/ z3/2 |
+% Bar 80 (1:41)
+G,/ z3/2 G,/ z3/2 G,/ z3/2 G,/ z3/2 |
+G,/ z15/2 |
+z8 |
+z4 G,/ z7/2 |
+G,/ z7/2 G,/ z7/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (1:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,/ z3 G,/ z4 |
+% Bar 100 (2:07)
+G,/ z3 G,/ z4 |
+G,/ z15/2 |
+G,/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:20)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (2:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,/ z3 G,/ z4 |
+G,/ z3 G,/ z4 |
+G,/ z G,/ G,/ z G,/ G,/ z G,/ G,/ z G,/ |
+G,/ z15/2 |]
+
+X: 10
+%%Orig filename was xSleighRideDrums.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Drum
+%%part-name Basic Drum
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++mp+ z8 |
+G/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ [^G,/A,/] z3/2 [G,/B,/] z3/2 +mf+ [G,/A,/] z3/2 +f+ [G,/B,/] z3/2 |
+[^G,/A,/] z3/2 [G,/B,/] z3/2 [G,/A,/] z3/2 [G,/B,/] z3/2 |
+[^G,/A,/] z3/2 [G,/B,/] z3/2 [G,/A,/] z3/2 [G,/B,/] z3/2 |
+% Bar 10 (0:11)
+[^G,/A,/] z3/2 [G,/B,/] z3/2 [G,/A,/] z3/2 [G,/B,/] z3/2 |
+[^G,/A,/] z3/2 [G,/B,/] z3/2 +mf+ [G,/A,/] z3/2 +f+ [G,/B,/] z3/2 |
+[^G,/A,/] z3/2 [G,/B,/] z3/2 [G,/A,/] z3/2 [G,/B,/] z3/2 |
+[^G,/A,/] z3/2 [G,/B,/] z3/2 [G,/A,/] z3/2 [G,/B,/] z3/2 |
+[^G,/A,/] z3/2 [G,/B,/] z3/2 [G,/A,/] z +ff+ ^F/ [G,/B,/F/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 20 (0:24)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 [G,/^F/] z [C/A/] +mp+ G,/ z +f+ F/ +ff+ [G,/F/] z +f+ C/ |
++ff+ [^G,/^C/A/] z3/2 +mp+ G,/ z3/2 G,/ z3/2 +ff+ [G,/^F/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 30 (0:37)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 40 (0:50)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 [G,/^F/] z [C/A/] +mp+ G,/ z +f+ F/ +ff+ [G,/F/] z +f+ C/ |
+% Bar 50 (1:03)
++ff+ [^G,/^C/A/] z3/2 +mp+ G,/ z3/2 G,/ z3/2 +ff+ [G,/^F/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 60 (1:16)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 70 (1:29)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 [G,/^F/] z [C/A/] +mp+ G,/ z +f+ F/ +ff+ [G,/F/] z +f+ C/ |
++ff+ [^G,/^C/A/] z3/2 +mp+ G,/ z3/2 G,/ z3/2 +ff+ [G,/^F/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 80 (1:41)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 90 (1:54)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 100 (2:07)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 [G,/^F/] z [C/A/] +mp+ G,/ z +f+ F/ +ff+ [G,/F/] z +f+ C/ |
++ff+ [^G,/^C/A/] z3/2 +mp+ G,/ z3/2 G,/ z3/2 +ff+ [G,/^F/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 110 (2:20)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/A/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+% Bar 120 (2:33)
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 +f+ [G,/B,/^F/G/] z C/ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^G,/A,/^C/G/] z3/2 [G,/B,/^F/G/] z C/ +f+ [G,/A,/G/] z3/2 +ff+ [G,/B,/F/G/] z3/2 |
+[^C/A/] z3/2 +f+ ^C,/ z3/2 C,/ z3/2 +mf+ C,/ z3/2 |
+^C,/ z3/2 +ff+ ^F/ z [^C/A/] z2 C/ z3/2 |]
+
+X: 1
+%%Orig filename was xSleighRideFlute.abc
+%abc-2.1
+%%song-title       Sleigh Ride v2 (jazzy) (2:45) - Basic Flute
+%%song-duration    2:44
+%%song-transcriber Raymiond of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Flute (2:44) - Basic Flute
+%%part-name Basic Flute
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++f+ z8 |
+z2 G/ z3/2 G/ z3/2 G/ z3/2 |
+G/ z3/2 +mf+ A/ z3/2 +f+ G/ z +mf+ E/ +f+ C/ z3/2 |
+D/ z3/2 D/ z +mf+ E/ D/ z C/ +f+ A,/ z3/2 |
+G,/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:24)
+z8 |
+z8 |
+z8 |
+F/ z15/2 |
+G/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 +fff+ [E/G/] z +ff+ [E/G/] +fff+ [E/G/] z +ff+ [E/G/] +fff+ [E/G/] z3/2 |
+% Bar 40 (0:50)
+[F/A/] z3/2 [F/A/] z3/2 [G/B/] z7/2 |
+z2 [E/G/] z +ff+ [E/G/] +fff+ [E/G/] z +ff+ [E/G/] +fff+ [E/G/] z3/2 |
+[F/A/] z3/2 [F/A/] z3/2 [G/B/] z7/2 |
+z2 [F/^G/] z +ff+ [F/G/] [F/G/] z [F/G/] +fff+ [F/G/] z3/2 |
+[^F/^A/] z3/2 [F/A/] z3/2 [^G/c/] z7/2 |
+z2 [F/^G/] z [F/G/] [F/G/] z +ff+ [F/G/] +fff+ [F/G/] z3/2 |
+[^F/^A/] z3/2 [F/A/] z3/2 [^G/c/] z7/2 |
+z8 |
+z8 |
++f+ ^F/ z15/2 |
+% Bar 50 (1:03)
+^G/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 +fff+ [F/^G/] z +ff+ [F/G/] +fff+ [F/G/] z +ff+ [F/G/] +fff+ [F/G/] z3/2 |
+[^F/^A/] z3/2 [F/A/] z3/2 [^G/c/] z7/2 |
+z2 [F/^G/] z +ff+ [F/G/] +fff+ [F/G/] z +ff+ [F/G/] +fff+ [F/G/] z3/2 |
+[^F/^A/] z3/2 [F/A/] z3/2 [^G/c/] z7/2 |
+z2 [^F/A/] z +ff+ [F/A/] [F/A/] z [F/A/] +fff+ [F/A/] z3/2 |
+% Bar 70 (1:29)
+[G/B/] z3/2 [G/B/] z3/2 [A/^c/] z7/2 |
+z2 [^F/A/] z [F/A/] [F/A/] z +ff+ [F/A/] +fff+ [F/A/] z3/2 |
+[G/B/] z3/2 [G/B/] z3/2 [A/^c/] z7/2 |
+z8 |
+z8 |
++f+ G/ z15/2 |
+A/ z15/2 |
+z8 |
+z8 |
+z2 A/ z3/2 B/ z3/2 ^c/ z3/2 |
+% Bar 80 (1:41)
+e/ z3/2 d/ z3/2 ^c/ z3/2 B/ z3/2 |
+A/ z15/2 |
+z8 |
+z4 A/ z7/2 |
+c/ z7/2 ^c/ z7/2 |
+z8 |
+z8 |
+z2 A/ z3/2 B/ z3/2 ^c/ z3/2 |
+e/ z3/2 d/ z3/2 ^c/ z3/2 B/ z3/2 |
+A/ z15/2 |
+% Bar 90 (1:54)
+z8 |
+z2 +fff+ [^F/A/] z +ff+ [F/A/] +fff+ [F/A/] z +ff+ [F/A/] +fff+ [F/A/] z3/2 |
+[G/B/] z3/2 [G/B/] z3/2 [A/^c/] z7/2 |
+z2 [^F/A/] z +ff+ [F/A/] +fff+ [F/A/] z +ff+ [F/A/] +fff+ [F/A/] z3/2 |
+[G/B/] z3/2 [G/B/] z3/2 [A/^c/] z7/2 |
+z2 [G/^A/] z +ff+ [G/A/] [G/A/] z [G/A/] +fff+ [G/A/] z3/2 |
+[^G/c/] z3/2 [G/c/] z3/2 [^A/d/] z7/2 |
+z2 [G/^A/] z [G/A/] [G/A/] z +ff+ [G/A/] +fff+ [G/A/] z3/2 |
+[^G/c/] z3/2 [G/c/] z3/2 [^A/d/] z7/2 |
+z8 |
+% Bar 100 (2:07)
+z8 |
++f+ ^G/ z15/2 |
+^A/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:20)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 +fff+ [G/^A/] z +ff+ [G/A/] +fff+ [G/A/] z +ff+ [G/A/] +fff+ [G/A/] z3/2 |
+[^G/c/] z3/2 [G/c/] z3/2 [^A/d/] z7/2 |
+z2 [G/^A/] z +ff+ [G/A/] +fff+ [G/A/] z +ff+ [G/A/] +fff+ [G/A/] z3/2 |
+% Bar 120 (2:33)
+[^G/c/] z3/2 [G/c/] z3/2 [^A/d/] z7/2 |
+z2 [^G/B/] z +ff+ [G/B/] [G/B/] z [G/B/] +fff+ [G/B/] z3/2 |
+[A/^c/] z3/2 [A/c/] z3/2 [B/^d/] z7/2 |
+z2 [^G/B/] z [G/B/] [G/B/] z +ff+ [G/B/] +fff+ [G/B/] z3/2 |
+[A/^c/] z3/2 [A/c/] z3/2 [B/^d/] z7/2 |
+z8 |
+z8 |
++f+ E/ z e/ ^d/ z ^c/ B/ z A/ [^G/A/] z ^F/ |
+E/ z15/2 |]
+
+X: 5
+%%Orig filename was xSleighRideHarp.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Harp
+%%part-name Basic Harp
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[G2^A2^d2] [G2A2d2] [G2B2=d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+% Bar 20 (0:24)
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[A2c2f2] [A2c2f2] [A2c2f2] [A2c2f2] |
+[B2d2g2] [B2d2g2] [B2d2g2] [B2d2g2] |
+[Adf] z5/2 [A4d4f4] z/ |
+[Bdg] z7 |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+% Bar 30 (0:37)
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[G2^A2^d2] [G2A2d2] [G2B2=d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+% Bar 40 (0:50)
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[G2c2e2] [G2c2e2] [E2A2c2] [E2A2c2] |
+[A2d2f2] [A2d2f2] [G2B2d2] [G2B2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^A2^c2^f2] [A2c2f2] [A2c2f2] [A2c2f2] |
+[c2^d2^g2] [c2d2g2] [c2d2g2] [c2d2g2] |
+[^A^d^f] z5/2 [A4d4f4] z/ |
+% Bar 50 (1:03)
+[c^d^g] z7 |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^G2B2e2] [G2B2e2] [G2c2^d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+% Bar 60 (1:16)
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[^G2^c2f2] [G2c2f2] [F2^A2c2] [F2A2c2] |
+[^A2^d2^f2] [A2d2f2] [^G2c2d2] [G2c2d2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+% Bar 70 (1:29)
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[B2d2g2] [B2d2g2] [B2d2g2] [B2d2g2] |
+[^c2e2a2] [c2e2a2] [c2e2a2] [c2e2a2] |
+[Beg] z5/2 [B4e4g4] z/ |
+[^cea] z7 |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+% Bar 80 (1:41)
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[A2c2f2] [A2c2f2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+% Bar 90 (1:54)
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[A2d2^f2] [A2d2f2] [^F2B2d2] [F2B2d2] |
+[B2e2g2] [B2e2g2] [A2^c2e2] [A2c2e2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[c2^d2^g2] [c2d2g2] [c2d2g2] [c2d2g2] |
+% Bar 100 (2:07)
+[d2f2^a2] [d2f2a2] [d2f2a2] [d2f2a2] |
+[cf^g] z5/2 [c4f4g4] z/ |
+[df^a] z7 |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+% Bar 110 (2:20)
+[^A2^c2^f2] [A2c2f2] [A2d2=f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[^A2^d2g2] [A2d2g2] [G2c2d2] [G2c2d2] |
+% Bar 120 (2:33)
+[c2f2^g2] [c2f2g2] [^A2d2f2] [A2d2f2] |
+[B2e2^g2] [B2e2g2] [^G2^c2e2] [G2c2e2] |
+[^c2^f2a2] [c2f2a2] [B2^d2f2] [B2d2f2] |
+[B2e2^g2] [B2e2g2] [^G2^c2e2] [G2c2e2] |
+[^c2^f2a2] [c2f2a2] [B2^d2f2] [B2d2f2] |
+[^c2e2a2] [c2e2a2] [c2e2a2] [c2e2a2] |
+[^d2^f2b2] [d2f2b2] [d2f2b2] [d2f2b2] |
+[e3/2^g3/2b3/2] z13/2 |
+z2 a z/ [e5/2-^g5/2] [z2e/] |]
+
+X: 4
+%%Orig filename was xSleighRideHorn.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Horn
+%%part-name Basic Horn
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[G/e/] z3 [G3e3] z3/2 |
+[A/f/] z3 [B3g3] z3/2 |
+[G/e/] z3 [G5/2e5/2] z2 |
+[^Ag] z5/2 [B5/2g5/2] z2 |
+[G/e/] z3 [G3e3] z3/2 |
+% Bar 20 (0:24)
+[A/f/] z3 [B3g3] z3/2 |
+[A4-f4-] [A2-f2-] [A3/2f3/2] z/ |
+[B4-g4-] [B3g3] z |
+[Af] z5/2 [A4f4-] f/ |
+[B-g] B/ z13/2 |
+z8 |
+z8 |
+z2 +ff+ [eg] z/ [e/g/] [eg] z/ [e/g/] +fff+ [e3/2g3/2] z/ |
+[f3/2a3/2] z/ [f3/2a3/2] z/ [g3/2b3/2] z5/2 |
+z8 |
+% Bar 30 (0:37)
+z8 |
+z2 +ff+ [e3/2g3/2] [e/g/] [e3/2g3/2] [e/g/] [eg-] g/ z/ |
+[^d3/2g3/2] z/ [d3/2g3/2] z/ [=d3/2g3/2] z5/2 |
+z8 |
+z8 |
+z2 [eg] z/ [e/g/] [eg] z/ [e/g/] +fff+ [e3/2g3/2] z/ |
+[f3/2a3/2] z/ [f3/2a3/2] z/ [g3/2b3/2] z5/2 |
+z8 |
+z8 |
+z2 +ff+ [eg] z/ [e/g/] [eg] z/ [e/g/] +fff+ [e3/2g3/2] z/ |
+% Bar 40 (0:50)
+[f3/2a3/2] z/ [f3/2a3/2] z/ [g3/2b3/2] z5/2 |
+z2 +ff+ [eg] z/ [e/g/] [eg] z/ [e/g/] +fff+ [e3/2g3/2] z/ |
+[f3/2a3/2] z/ [f3/2a3/2] z/ [g3/2b3/2] z5/2 |
+z2 +ff+ [f^g] z/ [f/g/] [fg] z/ [f/g/] +fff+ [f3/2g3/2] z/ |
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [^g3/2c'3/2] z5/2 |
+z2 +ff+ [f^g] z/ [f/g/] [fg] z/ [f/g/] +fff+ [f3/2g3/2] z/ |
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [^g3/2c'3/2] z5/2 |
+[^A4-^f4-] [A2-f2-] [A3/2f3/2] z/ |
+[c4-^g4-] [c3g3] z |
+[^A^f] z5/2 [A4f4-] f/ |
+% Bar 50 (1:03)
+[c-^g] c/ z13/2 |
+z8 |
+z8 |
+z2 +ff+ [f^g] z/ [f/g/] [fg] z/ [f/g/] +fff+ [f3/2g3/2] z/ |
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [^g3/2c'3/2] z5/2 |
+z8 |
+z8 |
+z2 +ff+ [f3/2^g3/2] [f/g/] [f3/2g3/2] [f/g/] [fg-] g/ z/ |
+[e3/2^g3/2] z/ [e3/2g3/2] z/ [^d3/2g3/2] z5/2 |
+z8 |
+% Bar 60 (1:16)
+z8 |
+z2 [f^g] z/ [f/g/] [fg] z/ [f/g/] +fff+ [f3/2g3/2] z/ |
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [^g3/2c'3/2] z5/2 |
+z8 |
+z8 |
+z2 +ff+ [f^g] z/ [f/g/] [fg] z/ [f/g/] +fff+ [f3/2g3/2] z/ |
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [^g3/2c'3/2] z5/2 |
+z2 +ff+ [f^g] z/ [f/g/] [fg] z/ [f/g/] +fff+ [f3/2g3/2] z/ |
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [^g3/2c'3/2] z5/2 |
+z2 +ff+ [^fa] z/ [f/a/] [fa] z/ [f/a/] +fff+ [f3/2a3/2] z/ |
+% Bar 70 (1:29)
+[g3/2b3/2] z/ [g3/2b3/2] z/ [^c3/2a3/2] z5/2 |
+z2 +ff+ [^fa] z/ [f/a/] [fa] z/ [f/a/] +fff+ [f3/2a3/2] z/ |
+[g3/2b3/2] z/ [g3/2b3/2] z/ [^c3/2a3/2] z5/2 |
+[B4-g4-] [B2-g2-] [B3/2g3/2] z/ |
+[^c4-a4-] [c3a3] z |
+[Bg] z5/2 [B4g4-] g/ |
+[^c-a] c/ z13/2 |
+z8 |
+z8 |
+z2 +ff+ [^fa] z/ [f/a/] [fa] z/ [f/a/] +fff+ [f3/2a3/2] z/ |
+% Bar 80 (1:41)
+[g3/2b3/2] z/ [g3/2b3/2] z/ [^c3/2a3/2] z5/2 |
+z8 |
+z8 |
+z2 +ff+ [^f3/2a3/2] [f/a/] [f3/2a3/2] [f/a/] [fa-] a/ z/ |
+[f3/2a3/2] z/ [f3/2a3/2] z/ [e3/2a3/2] z5/2 |
+z8 |
+z8 |
+z2 [^fa] z/ [f/a/] [fa] z/ [f/a/] +fff+ [f3/2a3/2] z/ |
+[g3/2b3/2] z/ [g3/2b3/2] z/ [^c3/2a3/2] z5/2 |
+z8 |
+% Bar 90 (1:54)
+z8 |
+z2 +ff+ [^fa] z/ [f/a/] [fa] z/ [f/a/] +fff+ [f3/2a3/2] z/ |
+[g3/2b3/2] z/ [g3/2b3/2] z/ [^c3/2a3/2] z5/2 |
+z2 +ff+ [^fa] z/ [f/a/] [fa] z/ [f/a/] +fff+ [f3/2a3/2] z/ |
+[g3/2b3/2] z/ [g3/2b3/2] z/ [^c3/2a3/2] z5/2 |
+z2 +ff+ [g^a] z/ [g/a/] [ga] z/ [g/a/] +fff+ [g3/2a3/2] z/ |
+[^g3/2c'3/2] z/ [g3/2c'3/2] z/ [d3/2^a3/2] z5/2 |
+z2 +ff+ [g^a] z/ [g/a/] [ga] z/ [g/a/] +fff+ [g3/2a3/2] z/ |
+[^g3/2c'3/2] z/ [g3/2c'3/2] z/ [d3/2^a3/2] z5/2 |
+[c4-^g4-] [c2-g2-] [c3/2g3/2] z/ |
+% Bar 100 (2:07)
+[d4-^a4-] [d3a3] z |
+[c^g] z5/2 [c4g4-] g/ |
+[d-^a] d/ z13/2 |
+z8 |
+z8 |
+z2 +ff+ [g^a] z/ [g/a/] [ga] z/ [g/a/] +fff+ [g3/2a3/2] z/ |
+[^g3/2c'3/2] z/ [g3/2c'3/2] z/ [d3/2^a3/2] z5/2 |
+z8 |
+z8 |
+z2 +ff+ [g3/2^a3/2] [g/a/] [g3/2a3/2] [g/a/] [ga-] a/ z/ |
+% Bar 110 (2:20)
+[^f3/2^a3/2] z/ [f3/2a3/2] z/ [=f3/2a3/2] z5/2 |
+z8 |
+z8 |
+z2 [g^a] z/ [g/a/] [ga] z/ [g/a/] +fff+ [g3/2a3/2] z/ |
+[^g3/2c'3/2] z/ [g3/2c'3/2] z/ [d3/2^a3/2] z5/2 |
+z8 |
+z8 |
+z2 +ff+ [g^a] z/ [g/a/] [ga] z/ [g/a/] +fff+ [g3/2a3/2] z/ |
+[^g3/2c'3/2] z/ [g3/2c'3/2] z/ [d3/2^a3/2] z5/2 |
+z2 +ff+ [g^a] z/ [g/a/] [ga] z/ [g/a/] +fff+ [g3/2a3/2] z/ |
+% Bar 120 (2:33)
+[^g3/2c'3/2] z/ [g3/2c'3/2] z/ [d3/2^a3/2] z5/2 |
+z2 +ff+ [^gb] z/ [g/b/] [gb] z/ [g/b/] +fff+ [g3/2b3/2] z/ |
+[^c3/2a3/2] z/ [c3/2a3/2] z/ [^d3/2b3/2] z5/2 |
+z2 +ff+ [^gb] z/ [g/b/] [gb] z/ [g/b/] +fff+ [g3/2b3/2] z/ |
+[^c3/2a3/2] z/ [c3/2a3/2] z/ [^d3/2b3/2] z5/2 |
+[^c4-a4-] [c2-a2-] [c3/2a3/2] z/ |
+[^d4-b4-] [d3b3] z |
+[E3/2e3/2] z13/2 |
+z2 +ff+ [ac'] z/ [^c5/2^g5/2] z2 |]
+
+X: 18
+%%Orig filename was xSleighRidePipes.abc
+T: Sleigh Ride v2 (jazzy) (2:45) - Basic Bagpipe
+%%part-name Basic Bagpipe
+Z: Raymiond of Gladden
+M: 4/4
+Q: 186
+K: C maj
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:24)
+z8 |
+z8 |
+z8 |
+z8 |
+z2 g3/2 z/ g3/2 z/ g3/2 z/ |
+g3/2 z/ a3/2 z/ g z/ +ff+ e/ +ffff+ c3/2 z/ |
+d3/2 z/ d z/ +fff+ e/ +ffff+ d/ z c/ A3/2 z/ |
+G8- |
+G3/2 z/ A3/2 z/ B3/2 z/ +fff+ d3/2 z/ |
++ffff+ g3/2 z/ a3/2 z/ g z/ +fff+ e/ +ffff+ c3/2 z/ |
+% Bar 30 (0:37)
+d z d/ z e/ d/ z +fff+ c/ +ffff+ A3/2 z/ |
+c4- c2- c3/2 z/ |
+z2 g3/2 z/ g3/2 z/ g3/2 z/ |
+g3/2 z/ a3/2 z/ g z/ e/ c3/2 z/ |
+d z d/ z +fff+ e/ +ffff+ d z/ +ff+ c/ +ffff+ A3/2 z/ |
+G8- |
+G z A3/2 z/ B3/2 z/ d3/2 z/ |
+g z g z/ +fff+ a/ +f+ g z/ +ffff+ e/ +fff+ c3/2 z/ |
++ffff+ d3/2 z/ d z/ e/ d z/ +ff+ c/ +ffff+ A3/2 z/ |
+c8- |
+% Bar 40 (0:50)
+c z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:03)
+z2 ^g3/2 z/ g3/2 z/ g3/2 z/ |
+^g3/2 z/ ^a3/2 z/ g z/ +ff+ f/ +ffff+ ^c3/2 z/ |
+^d3/2 z/ d z/ +fff+ f/ +ffff+ d/ z ^c/ ^A3/2 z/ |
+^G8- |
+^G3/2 z/ ^A3/2 z/ c3/2 z/ +fff+ ^d3/2 z/ |
++ffff+ ^g3/2 z/ ^a3/2 z/ g z/ +fff+ f/ +ffff+ ^c3/2 z/ |
+^d z d/ z f/ d/ z +fff+ ^c/ +ffff+ ^A3/2 z/ |
+^c4- c2- c3/2 z/ |
+z2 ^g3/2 z/ g3/2 z/ g3/2 z/ |
+^g3/2 z/ ^a3/2 z/ g z/ f/ ^c3/2 z/ |
+% Bar 60 (1:16)
+^d z d/ z +fff+ f/ +ffff+ d z/ +ff+ ^c/ +ffff+ ^A3/2 z/ |
+^G8- |
+^G z ^A3/2 z/ c3/2 z/ ^d3/2 z/ |
+^g z g z/ +fff+ ^a/ +f+ g z/ +ffff+ f/ +fff+ ^c3/2 z/ |
++ffff+ ^d3/2 z/ d z/ f/ d z/ +ff+ ^c/ +ffff+ ^A3/2 z/ |
+^c8- |
+^c z7 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:29)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (1:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (1:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (2:07)
+z8 |
+z8 |
+z2 ^a3/2 z/ a3/2 z/ a3/2 z/ |
+^a3/2 z/ c'3/2 z/ a z/ +ff+ g/ +ffff+ ^d3/2 z/ |
+f3/2 z/ f z/ +fff+ g/ +ffff+ f/ z ^d/ c3/2 z/ |
+^A8- |
+^A3/2 z/ c3/2 z/ d3/2 z/ +fff+ f3/2 z/ |
++ffff+ ^a3/2 z/ c'3/2 z/ a z/ +fff+ g/ +ffff+ ^d3/2 z/ |
+f z f/ z g/ f/ z +fff+ ^d/ +ffff+ c3/2 z/ |
+^d4- d2- d3/2 z/ |
+% Bar 110 (2:20)
+z2 ^a3/2 z/ a3/2 z/ a3/2 z/ |
+^a3/2 z/ c'3/2 z/ a z/ g/ ^d3/2 z/ |
+f z f/ z +fff+ g/ +ffff+ f z/ +ff+ ^d/ +ffff+ c3/2 z/ |
+^A8- |
+^A z c3/2 z/ d3/2 z/ f3/2 z/ |
+^a z a z/ +fff+ c'/ +f+ a z/ +ffff+ g/ +fff+ ^d3/2 z/ |
++ffff+ f3/2 z/ f z/ g/ f z/ +ff+ ^d/ +ffff+ c3/2 z/ |
+^d8- |
+^d z7 |
+z8 |
+% Bar 120 (2:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+

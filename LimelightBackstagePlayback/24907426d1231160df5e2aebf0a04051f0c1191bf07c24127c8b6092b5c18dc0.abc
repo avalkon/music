@@ -1,0 +1,323 @@
+N: TS  2,   9   1
+X: 9
+%%Orig filename was TwasPrettyAges.abc
+%abc-2.1
+%%song-title       Twas Pretty to Be in Balinderry
+%%song-composer    Barry Taylor
+%%song-duration    2:25
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 23:25:45
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Twas Pretty to Be in Balinderry (2:25) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 3/4
+Q: 151
+K: C maj
+L: 1/8
+
++mp+ [D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-c-a-] [C-Ec-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-c-a-] [C-Ec-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+% Bar 10 (0:11)
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-Ee-g-] [C-Ee-g-] [C-Ge-g-] [C-ce-g-] [C-EGe-g-] [CGeg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+% Bar 20 (0:23)
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-c-a-] [C-Ec-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+% Bar 30 (0:35)
+[C-c-a-] [C-Ec-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-Ee-g-] [C-Ee-g-] [C-Ge-g-] [C-ce-g-] [C-EGe-g-] [CGeg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+% Bar 40 (0:47)
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-G-c-a-] [C-EGc-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-Ad-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+% Bar 50 (0:59)
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-G-c-a-] [C-EGc-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-Ee-g-] [C-Ee-g-] [C-Ge-g-] [C-ce-g-] [C-EGe-g-] [CGeg] |
+% Bar 60 (1:11)
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+% Bar 70 (1:23)
+[C-G-c-a-] [C-EGc-a-] [C-Gca-] [C-cga-] [C-Ec-a-] [CGca] |
+[D-Ad-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+[C-G-c-e-a-] [C-EGc-e-a-] [C-Gce-a-] [C-ce-ga-] [C-Ec-e-a-] [CGcea] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+% Bar 80 (1:35)
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-Ee-g-c'-] [C-Eeg-c'] [C-Ge-g-] [C-ceg] [C-EGg-] [CGg] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Eeg-c'] [C-Geg-] [C-ceg] [C-Ec-g-] [CGcg] |
+[C-e-g-a-] [C-Ee-g-a-] [C-Geg-a-] [C-cega] [C-Ec-g-] [CGcg] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+% Bar 90 (1:47)
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+[C-G-c-e-a-] [C-EGc-e-a-] [C-Gce-a-] [C-ce-ga-] [C-Ec-e-a-] [CGcea] |
+[D-Ad-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+[C-G-c-e-a-] [C-EGc-e-a-] [C-Gce-a-] [C-ce-ga-] [C-Ec-e-a-] [CGcea] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+% Bar 100 (1:59)
+[D-d-^f-] [D-Adf-] [D-df] [D-df] [D-A-] [DAd] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-Ee-g-c'-] [C-Eeg-c'] [C-Ge-g-] [C-ceg] [C-EGg-] [CGg] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Eeg-c'] [C-Geg-] [C-ceg] [C-Ec-g-] [CGcg] |
+[C-e-g-a-] [C-Ee-g-a-] [C-Geg-a-] [C-cega] [C-Ec-g-] [CGcg] |
+[D-^f-a-] [D-Af-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+% Bar 110 (2:10)
+[C-e-g-] [C-Ee-g-] [C-Geg-] [C-ceg-] [C-Ec-g-] [CGcg] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+[C-G-c-e-a-] [C-EGc-e-a-] [C-Gce-a-] [C-ce-ga-] [C-Ec-e-a-] [CGcea] |
+[D-Ad-^f-a-] [D-Adf-a-] [D-dfa-] [D-dfa-] [D-A-a-] [DAda] |
+[D-d-^f-a-] [D-Adf-a-] [D-dfa-] [D-fa-] [D-Ada-] [Dda] |
+[C-e-g-c'-] [C-Ee-g-c'-] [C-Geg-c'-] [C-ceg-c'-] [C-Ec-g-c'-] [CGcgc'] |
+[C-G-c-e-a-] [C-EGc-e-a-] [C-Gce-a-] [C-ce-ga-] [C-Ec-e-a-] [CGcea] |
+[D6-d6-^f6-a6-] |
+% Bar 120 (2:22)
+[D6-d6-^f6-a6-] |
+[D6d6^f6a6] |]
+
+X: 1
+%%Orig filename was TwasPrettyFlute.abc
+%abc-2.1
+%%song-title       Twas Pretty to Be in Balinderry
+%%song-composer    Barry Taylor
+%%song-duration    2:25
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-09-26 23:25:45
+%%swing-rhythm false
+%%mix-timings true
+%%organic             false
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Twas Pretty to Be in Balinderry (2:25) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 3/4
+Q: 151
+K: C maj
+L: 1/8
+
++fff+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z4 A,2 |
+^F, D,4 F, |
+% Bar 10 (0:11)
+A,4 A,2 |
+G,4 G,2 |
+G, ^F,3 F,2 |
+^F, D,3 F,2 |
+A,4 A,2 |
+G,4 G,2 |
+^F,4 A,2 |
+A, ^F,4 E, |
+D,4 G,2 |
+G, G, G,4 |
+% Bar 20 (0:23)
+G,2 G,4 |
+A, A,3 D,2 |
+G,3 E, C,2 |
+D, D,2 D,3 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:35)
+z4 A,2 |
+^F,2 D,2 F,2 |
+A,4 A,2 |
+G, G, G,4 |
+G,2 ^F,4 |
+^F,4 A,2 |
+A,4 A,2 |
+G, G,3 A,2 |
+G,2 ^F,3 A, |
+A, ^F,4 E, |
+% Bar 40 (0:47)
+D, D,4 G, |
+G,4 G,2 |
+G,4 A,2 |
+A,4 D,2 |
+G,3 E, C,2 |
+D, D,2 D,3 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (0:59)
+z6 |
+z6 |
+z4 [G,2A,2] |
+[^F,A,] [D,4F,4] [F,A,] |
+[A,4D4] [A,2D2] |
+[G,C] [G,C] [G,4C4] |
+[G,2B,2] [^F,4A,4] |
+[^F,A,] [D,3F,3] [F,2A,2] |
+[A,4D4] [A,2D2] |
+[G,4C4] [G,2C2] |
+% Bar 60 (1:11)
+[^F,4A,4] [A,2D2] |
+[A,D] [^F,4A,4] [E,G,] |
+[D,4^F,4] [G,2C2] |
+[G,4C4] [G,2C2] |
+[G,C] [G,5C5] |
+[A,3D3] [A,D] [D,2^F,2] |
+[G,3C3] [E,G,] [C,2E,2] |
+[D,^F,] [D,2F,2] [D,3F,3] |
+z6 |
+z6 |
+% Bar 70 (1:23)
+z6 |
++p+ A6 |
+D6 |
+c6 |
+E4- +fff+ [A,2D2E2] |
+[^F,A,A-] [D,4F,4A4-] [F,A,A] |
+[A,4D4] [A,2D2] |
+[G,4C4] [G,2C2] |
+[G,B,D-] [^F,3A,3D3-] [F,2A,2D2] |
+[^F,A,A-] [D,3F,3A3-] [F,2A,2A2] |
+% Bar 80 (1:35)
+[A,4D4] [A,2D2] |
+[G,2-C2-] +p+ [G,2C2E2] +fff+ [G,2C2G2] |
+[^F,4A,4A4-] [A,DA-] [A,DA] |
+[A,4D4A4-] [^F,A,A-] [E,G,A] |
+[D,4^F,4D4-] [G,2C2D2] |
+[G,C-] [G,-C-] +p+ [G,2C2E2] +fff+ [G,2C2G2] |
+[G,CA-] [G,3C3A3] [A,2C2G2] |
+[A,4D4^F4-] [D,2^F,2F2] |
+[G,CE-] [G,3E3-] [C,2E,2E2] |
+[D,^F,A-] [D,2F,2A2-] [D,3F,3A3] |
+% Bar 90 (1:47)
++p+ D6 |
+c6 |
+E6 |
+A6 |
+D6 |
+c6 |
+E4- +fff+ [A,2E2] |
+[^F,A-] [D,4A4-] [F,A] |
+[A,4D4-] [A,2D2] |
+[G,4C4-] [A,2C2] |
+% Bar 100 (1:59)
+[G,D-] [^F,3D3-] [F,2D2] |
+[^F,A-] [D,3A3-] [F,2A2] |
+[A,4D4-] [A,2D2] |
+[G,2-C2] +p+ [G,2E2] +fff+ [G,2G2] |
+[^F,4A4-] [A,2A2] |
+[A,A-] [^F,4A4-] [E,A] |
+[D,4D4-] [G,2D2] |
+[G,C-] [G,C] [G,2-E2] +p+ [G,2G2] |
++fff+ [G,2A2-] [G,2-A2] +p+ [G,2G2] |
++fff+ [A,^F-] [A,3F3-] [D,2F2] |
+% Bar 110 (2:10)
+[G,3E3-] [E,E-] [C,2E2] |
+[D,A-] [D,2A2-] [D,3A3] |
++p+ D6 |
+c6 |
+E6 |
+A6 |
+D6 |
+c6 |
+E6 |
+[^F6-A6-] |
+% Bar 120 (2:22)
+[^F6-A6-] |
+[^F6A6] |]
+

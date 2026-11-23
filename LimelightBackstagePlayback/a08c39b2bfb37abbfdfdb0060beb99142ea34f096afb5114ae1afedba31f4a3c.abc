@@ -1,0 +1,930 @@
+N: TS  9,   9  11   8   3  10   2   4   6  14
+X: 9
+%%Orig filename was Phantom5Ages.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Lute of Ages
+%%part-name Lute of Ages
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[C8G8] |
+[^G,4^D4] [^F,/-^C/] [F,3/2-G,3/2D3/2-] [F,/D/-] D3/2 |
+[C8G8] |
+[^G,4^D4] [^F,/-^C/] [F,3/2-G,3/2D3/2-] [F,/D/-] D3/2 |
+% Bar 10 (0:33)
+[C8G8] |
+[^G,4^D4] [^A,4F4] |
+[C8G8] |
+[^G,4^D4] [^A,4F4] |
+[C8G8] |
+[^G,4^D4] [^A,4F4] |
+[C8G8] |
+[C8G8] |
+[B,8^F8] |
+[C3G3] [CG] [C4G4] |
+% Bar 20 (1:10)
+[^G,4^D4] [^F,/^C/] [G,7/2D7/2] |
+[C3G3] [CG] [C4G4] |
+[^G,4^D4] [^F,/^C/] [G,7/2D7/2] |
+[F,8C8] |
+[^C4^G4] [^D4^A4] |
+[F,8C8] |
+[^C4^G4] [^D4^A4] |
+[F,8C8] |
+[^C4^G4] [^D4^A4] |
+[F,8C8] |
+% Bar 30 (1:47)
+[F,8C8] |
+[E8B8] |
+[F,3C3] [F,C] [F,4C4] |
+[^C4^G4] [B,/^F/] [C7/2G7/2] |
+[F,3C3] [F,C] [F,4C4] |
+[^C4^G4] [B,/^F/] [C7/2G7/2] |
+[D8A8] |
+[^A,4F4] [C4G4] |
+[D8A8] |
+[^A,4F4] [C4G4] |
+% Bar 40 (2:24)
+[D8A8] |
+[^A,4F4] [C4G4] |
+[D8A8] |
+[DA] D// D// D// D// [DA] D// D// D// D// [DA] D// D// D// D// [DA] D// D// D// D// |
+[^C^G] C// C// C// C// [CG] C// C// C// C// [CG] C// C// C// C// [CG] C// C// C// C// |
+[D8A8] |
+[^A,4F4] [^G,/^D/] [A,7/2F7/2] |
+[D8A8] |
+[^A,4F4] [^F,4^C4] |
+z8 |
+% Bar 50 (3:00)
+z8 |
+[^D8^A8] |
+[B,4^F4] [^C7/2-^G7/2-] [C/^D/G/] |
+F/ ^D/ ^F/ D/ =F/ D/ ^G/ D/ F/ D/ ^F/ D/ =F/ D/ ^A/ D/ |
+[B,4^F4] [^C4^G4] |
+[^D,4^A,4] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] [D,/A,/] |
+[B,4^F4] [^C4^G4] |
+[^D,8^A,8] |
+[^D/^A/] D/ D/ D/ [D/A/] D/ D/ D/ [D/A/] D/ D/ D/ [D/A/] D/ D/ D/ |
+[D/A/] D/ D/ D/ [D/A/] D/ D/ D/ [D/A/] D/ D/ D/ [D/A/] D/ D/ D/ |
+% Bar 60 (3:37)
+[^D2^A2] [D/A/] [D/A/] [D/A/] [D/A/] [DA] [D/A/] [D/A/] D/ =D/ ^C/ =C/ |
+[B,4^F4] [A,/E/] [B,3/2F3/2] ^A,/ B,/ ^C/ D/ |
+[^D2^A2] [D/A/] [D/A/] [D/A/] [D/A/] [DA] [D/A/] [D/A/] D/ =D/ ^C/ =C/ |
+[B,4^F4] [A,/E/] [B,3/2F3/2] ^A,/ B,/ ^C/ D/ |
+[F,2C2] [F,/C/] [F,/C/] [F,/C/] [F,/C/] [F,C] [F,/C/] [F,/C/] F/ E/ ^D/ =D/ |
+[^C4^G4] [B,/^F/] [C3/2G3/2] =C/ ^C/ ^D/ E/ |
+[F,2C2] [F,/C/] [F,/C/] [F,/C/] [F,/C/] [F,C] [F,/C/] [F,/C/] F/ E/ ^D/ =D/ |
+[^C4^G4] [B,/^F/] [C3/2G3/2] =C/ ^C/ ^D/ E/ |
+[F,2C2] [F,/C/] [F,/C/] [F,/C/] [F,/C/] [F,C] [F,/C/] [F,/C/] F/ E/ ^D/ =D/ |
+[^C4^G4] [B,/^F/] [C3/2G3/2] =C/ ^C/ ^D/ E/ |
+% Bar 70 (4:14)
+[F,2C2] [F,/C/] [F,/C/] [F,/C/] [F,/C/] [F,C] [F,/C/] [F,/C/] F/ E/ ^D/ =D/ |
+[^C4^G4] [B,/^F/] [C3/2G3/2] =C/ ^C/ ^D/ E/ |
+z8 |]
+
+X: 11
+%%Orig filename was Phantom5Bardic.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Bardic Fiddle
+%%part-name Bardic Fiddle
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++f+ z4 [C,4-G,4-] |
+[C,8G,8] |
+[^D,8^G,8] |
+[C,8G,8] |
+[^D,8^G,8] |
+[C,8G,8] |
+[^D,8^G,8] |
+[C,8G,8] |
+[^D,8^G,8] |
+% Bar 10 (0:33)
+[C,8G,8] |
+[^D,4^G,4] [F,4^A,4] |
+[C,8G,8] |
+[^D,4^G,4] [F,4^A,4] |
+[C,8G,8] |
+[^D,4^G,4] [F,4^A,4] |
+[C,8G,8] |
+[C,8G,8] |
+[F,8B,8] |
+[C,8G,8] |
+% Bar 20 (1:10)
+[^D,8^G,8] |
+[C,8G,8] |
+[^D,8^G,8] |
+[C,8F,8] |
+^G,4 [^D,4^A,4] |
+[C,8F,8] |
+^G,4 [^D,4^A,4] |
+[C,8F,8] |
+^G,4 [^D,4^A,4] |
+[C,8F,8] |
+% Bar 30 (1:47)
+[C,8F,8] |
+[E,8B,8] |
+[C,6-F,6-F6] [C,/-F,/-F/] [C,/-F,/-E/] [C,/-F,/-^D/] [C,/F,/=D/] |
+[^G,4-^C4] [G,/-B,/] [G,3/2-C3/2] [G,/-=C/] [G,/-^C/] [G,/-^D/] [G,/E/] |
+[C,6-F,6-F6] [C,/-F,/-F/] [C,/-F,/-E/] [C,/-F,/-^D/] [C,/F,/=D/] |
+[^G,4-^C4] [G,/-B,/] [G,3/2-C3/2] [G,/-=C/] [G,/-^C/] [G,/-^D/] [G,/E/] |
+[D,8A,8] |
+[F,/-^A,/-F/] [F,/-A,/-E/] [F,/-A,/-D/] [F,/-A,/-E/] [F,/-A,/-F/] [F,/-A,/-E/] [F,/-A,/-G/] [F,/A,/E/] [C,/-G,/-G/] [C,/-G,/-F/] [C,/-G,/-E/] [C,/-G,/-F/]
+	[C,/-G,/-G/] [C,/-G,/-E/] [C,/-G,/-c/] [C,/G,/E/] |
+[D,/-A,/-A/] [D,/-A,/-F/] [D,/-A,/-E/] [D,/-A,/-F/] [D,/-A,/-A/] [D,/-A,/-F/] [D,/-A,/-G/] [D,/-A,/-E/] [D,/-A,/-D/] [D,/-A,/-F/] [D,/-A,/-E/] [D,/-A,/-F/]
+	[D,/-A,/-G/] [D,/-A,/-E/] [D,/-A,/-F/] [D,/A,/D/] |
+[F,/-^A,/-F/] [F,/-A,/-E/] [F,/-A,/-D/] [F,/-A,/-E/] [F,/-A,/-F/] [F,/-A,/-E/] [F,/-A,/-G/] [F,/A,/E/] [C,/-G,/-G/] [C,/-G,/-F/] [C,/-G,/-E/] [C,/-G,/-F/]
+	[C,/-G,/-G/] [C,/-G,/-E/] [C,/-G,/-c/] [C,/G,/E/] |
+% Bar 40 (2:24)
+[D,/-A,/-A/] [D,/-A,/-F/] [D,/-A,/-E/] [D,/-A,/-F/] [D,/-A,/-A/] [D,/-A,/-F/] [D,/-A,/-G/] [D,/-A,/-E/] [D,/-A,/-D/] [D,/-A,/-F/] [D,/-A,/-E/] [D,/-A,/-F/]
+	[D,/-A,/-G/] [D,/-A,/-E/] [D,/-A,/-F/] [D,/A,/D/] |
+[F,//-^A,//-F//] [F,//-A,//-E//] [F,//-A,//-D//] [F,//-A,//-E//] [F,//-A,//-F//] [F,//-A,//-E//] [F,//-A,//-D//] [F,//-A,//-E//] [F,//-A,//-F//] [F,//-A,//-E//]
+	[F,//-A,//-D//] [F,//-A,//-E//] [F,//-A,//-F//] [F,//-A,//-E//] [F,//-A,//-D//] [F,//A,//E//] [C,//-G,//-G//] [C,//-G,//-F//] [C,//-G,//-E//] [C,//-G,//-F//]
+	[C,//-G,//-G//] [C,//-G,//-F//] [C,//-G,//-E//] [C,//-G,//-F//] [C,//-G,//-G//] [C,//-G,//-F//] [C,//-G,//-E//] [C,//-G,//-F//] [C,//-G,//-G//] [C,//-G,//-F//]
+	[C,//-G,//-E//] [C,//G,//F//] |
+[D,/-A,/-A/] [D,/-A,/-A/] [D,/-A,/-d/] [D,/-A,/-d/] [D,/-A,/-c/] [D,/-A,/-d/] [D,/-A,/-^A/] [D,/-A,/-c/] [D,/-A,/-=A/] [D,/-A,/-^A/] [D,/-A,/-G/] [D,/-A,/-=A/]
+	[D,/-A,/-F/] [D,/-A,/-G/] [D,/-A,/-E/] [D,/A,/F/] |
+[D,8A,8] |
+[^C,8^G,8] |
+[D,8A,8] |
+[F,8^A,8] |
+[D,8A,8] |
+[F,4^A,4] [^C,4^F,4^F4] |
+[^D,/^A,/] D,// D,// [D,/A,/] D,// D,// [D,/A,/] [F,3/2C3/2] [D,/A,/] D,// D,// [D,/A,/] D,// D,// [D,/A,/] [^F,3/2^C3/2] |
+% Bar 50 (3:00)
+[^D,/^A,/] D,// D,// [D,/A,/] D,// D,// [D,/A,/] [F,3/2C3/2] [D,/A,/] D,// D,// [D,/A,/] D,// D,// [D,/A,/] [^C,3/2^G,3/2] |
+[^D,8^A,8] |
+[^F,4B,4] [^C,4^G,4] |
+[^D,8^A,8] |
+[^F,4B,4] [^C,4^G,4] |
+[^D,8^A,8] |
+[^F,4B,4] [^C,4^G,4] |
+[^D,4-^A,4-] [D,/-A,/-^d/] [D,//-A,//-^A//] [D,//-A,//-B//] [D,/-A,/-^c/] [D,//-A,//-^F//] [D,//-A,//-^G//] [D,//-A,//-=F//] [D,//-A,//-^F//] [D,//-A,//-=F//]
+	[D,//-A,//-^D//] [D,//-A,//-^C//] [D,//-A,//-D//] [D,//-A,//-B,//] [D,//A,//C//] |
+[^D,8^A,8] |
+[D,8A,8] |
+% Bar 60 (3:37)
+[^D,8^A,8] |
+[^F,8B,8] |
+[^D,8^A,8] |
+[^F,8B,8] |
+[F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-^g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/]
+	[F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//]
+	[F,/-C/-f/] [F,//C//g//] |
+[^C,//-^G,//-^c//] [C,/-G,/-^G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//]
+	[C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/]
+	[C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//G,//] |
+[F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-^g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/]
+	[F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//]
+	[F,/-C/-f/] [F,//C//g//] |
+[^C,//-^G,//-^c//] [C,/-G,/-^G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//]
+	[C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/]
+	[C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//G,//f//] |
+[F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-^g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/]
+	[F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//]
+	[F,/-C/-f/] [F,//C//g//] |
+[^C,//-^G,//-^c//] [C,/-G,/-^G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//]
+	[C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/]
+	[C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//G,//] |
+% Bar 70 (4:14)
+[F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-^g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/]
+	[F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//] [F,/-C/-f/] [F,//-C//-g//] [F,//-C//-f//] [F,/-C/-c/] [F,//-C//-f//] [F,//-C//-g//]
+	[F,/-C/-f/] [F,//C//g//] |
+[^C,//-^G,//-^c//] [C,/-G,/-^G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//]
+	[C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/] [C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] [C,//-G,//-c//] [C,/-G,/-G/]
+	[C,//-G,//-c//] [C,//-G,//-f//] [C,/-G,/-c/] [C,//-G,//-f//] |
+[z8^C,2^G,2] |]
+
+X: 8
+%%Orig filename was Phantom5Bass.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Basic Theorbo
+%%part-name Basic Theorbo
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+C8 |
+^G,8 |
+C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ B,/ ^A,/ =A,/ |
+^G,/ G,/ G,/ G,/ C/ G,/ G,/ G,/ ^F,/ G,/ G,/ G,/ =G,/ ^G,/ ^A,/ B,/ |
+C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ B,/ ^A,/ =A,/ |
+^G,/ G,/ G,/ G,/ C/ G,/ G,/ G,/ ^F,/ G,/ G,/ G,/ =G,/ ^G,/ ^A,/ B,/ |
+% Bar 10 (0:33)
+C z/ C/ C z C z/ C/ C z |
+^G, z/ G,/ G, z ^A, z/ A,/ A, z |
+C z/ C/ C z C z/ C/ C z |
+^G, z/ G,/ G, z ^A, z/ A,/ A, z |
+C z/ C/ C z C z/ C/ C z |
+^G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ ^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ |
+C/ C/ C/ C/ C/ C/ C/ C/ G/ ^D/ F/ =D/ ^D/ C/ =D/ ^A,/ |
+C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ D/ |
+B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ C/ B,/ ^C/ B,/ ^D/ B,/ B,/ B,/ |
+C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ B,/ ^A,/ =A,/ |
+% Bar 20 (1:10)
+^G,/ G,/ G,/ G,/ C/ G,/ G,/ G,/ ^F,/ G,/ G,/ G,/ =G,/ ^G,/ ^A,/ B,/ |
+C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ C/ B,/ ^A,/ =A,/ |
+^G,/ G,/ G,/ G,/ C/ G,/ G,/ G,/ ^F,/ G,/ G,/ G,/ =G,/ ^G,/ ^A,/ B,/ |
+F, C/ F,/ F, F F, C/ F,/ F, F |
+^C F/ C/ C ^G ^D =G/ D/ D ^A |
+F z/ F/ F z F z/ F/ F z |
+^C F/ C/ C ^G ^D =G/ D/ D ^A |
+F z/ F/ F z F z/ F/ F z |
+^C/ C/ C/ C/ C/ C/ C/ C/ ^D/ D/ D/ D/ D/ D/ D/ D/ |
+F/ F/ F/ F/ F/ F/ F/ F/ c/ ^G/ ^A/ =G/ ^G/ F/ =G/ ^D/ |
+% Bar 30 (1:47)
+F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ G/ |
+E/ E/ E/ E/ E/ E/ E/ E/ F/ E/ G/ E/ ^G/ E/ E/ E/ |
+F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ E,/ ^D,/ =D,/ |
+^C,/ C,/ C,/ C,/ F,/ C,/ C,/ C,/ B,/ C,/ C,/ C,/ =C,/ ^C,/ ^D,/ E,/ |
+F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ E,/ ^D,/ =D,/ |
+^C,/ C,/ C,/ C,/ F,/ C,/ C,/ C,/ B,/ C,/ C,/ C,/ =C,/ ^C,/ ^D,/ E,/ |
+D/ D/ D/ D/ F/ D/ D/ D/ A/ D/ D/ D/ D/ D/ D/ D/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ C/ C/ C/ C/ C/ C/ C/ C/ |
+D/ D/ D/ D/ F/ D/ D/ D/ C/ D/ D/ D/ F/ E/ D/ C/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ D/ C/ C/ C/ C/ C/ C/ G/ E/ |
+% Bar 40 (2:24)
+D/ D/ D/ D/ F/ D/ G/ D/ D/ D/ D/ D/ D/ D/ D/ C/ |
+^A,/ A,/ A,/ A,/ A,/ A,/ A,/ A,/ C/ C/ C/ C/ C/ C/ C/ C/ |
+D/ D/ D/ D/ D/ D/ D/ D/ A/ F/ G/ E/ F/ D/ E/ C/ |
+D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ E/ |
+^C/ C/ C/ C/ C/ C/ C/ C/ D/ C/ ^D/ C/ F/ C/ C/ C/ |
+D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ ^C/ =C/ B,/ |
+^A,/ A,/ A,/ A,/ D/ A,/ A,/ A,/ ^G,/ A,/ A,/ A,/ =A,/ ^A,/ C/ ^C/ |
+D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ ^C/ =C/ B,/ |
+^A,/ A,/ A,/ A,/ D/ A,/ A,/ A,/ ^F,4 |
+^D/ D// D// D/ D// D// D/ F3/2 D/ D// D// D/ D// D// D// z// ^F3/2 |
+% Bar 50 (3:00)
+^D/ D// D// D/ D// D// D/ F3/2 D/ D// D// D/ D// D// D// z// ^C3/2 |
+^D2 z2 z4 |
+B, z/ B,/ B, z ^C z/ C/ C z |
+^D z/ D/ D z D z/ D/ D z |
+B, z/ B,/ B, z ^C z/ C/ C z |
+^D z/ D/ D z D z/ D/ D z |
+B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ ^C/ C/ C/ C/ C/ C/ C/ C/ |
+^D/ D/ D/ D/ D/ D/ D/ D/ ^A/ ^F/ ^G/ =F/ ^F/ D/ =F/ ^C/ |
+^D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ F/ |
+D/ D/ D/ D/ D/ D/ D/ D/ ^D/ =D/ E/ D/ ^F/ D/ D/ D/ |
+% Bar 60 (3:37)
+^D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ =D/ ^C/ =C/ |
+B,/ B,/ B,/ B,/ ^D/ B,/ B,/ B,/ A,/ B,/ B,/ B,/ ^A,/ B,/ ^C/ =D/ |
+^D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ D/ =D/ ^C/ =C/ |
+B,/ B,/ B,/ B,/ ^D/ B,/ B,/ B,/ A,/ B,/ B,/ B,/ ^A,/ B,/ ^C/ =D/ |
+F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ E/ ^D/ =D/ |
+^C/ C/ C/ C/ F/ C/ C/ C/ B,/ C/ C/ C/ =C/ ^C/ ^D/ E/ |
+F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ E/ ^D/ =D/ |
+^C/ C/ C/ C/ F/ C/ C/ C/ B,/ C/ C/ C/ =C/ ^C/ ^D/ E/ |
+F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ E/ ^D/ =D/ |
+^C/ C/ C/ C/ F/ C/ C/ C/ B,/ C/ C/ C/ =C/ ^C/ ^D/ E/ |
+% Bar 70 (4:14)
+F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ F/ E/ ^D/ =D/ |
+^C/ C/ C/ C/ F/ C/ C/ C/ B,/ C/ C/ C/ =C/ ^C/ ^D/ E/ |
+z8 |]
+
+X: 3
+%%Orig filename was Phantom5Clar.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Basic Clarinet
+%%part-name Basic Clarinet
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (1:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:47)
+[F8c8] |
+[E8B8] |
+[^G8c8] |
+[^G8^c8] |
+[^G8c8] |
+[^G8^c8] |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (2:24)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (3:00)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (3:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (4:14)
+z8 |
+z8 |
+z8 |]
+
+X: 10
+%%Orig filename was Phantom5Drums.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Basic Drum
+%%part-name Basic Drum
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+A A A A ^A/- [E/-=A/^A/] E/ z/ [=A/^A/-] [^F/A/] F// F// F// F// |
+[A^A] [E/-c/-] [E/A/c/] [Ac] [Ec] [Ac] [Ec] [A/c/-] [A/c/] [E/c/-] [A/c/] |
+[^Ac] [E/-c/-] [E/A/c/] [Ac] [Ec] c/- [A/c/] [Ec] c/- [A/c/] [E/c/-] [A/c/] |
+[A^A] [E/-c/-] [E/A/c/] [Ac] [Ec] [Ac] [Ec] [A/c/-] [A/c/] [E/c/-] [A/c/] |
+[^Ac] [E/-c/-] [E/A/c/] [Ac] [Ec] c/- [A/c/] [Ec] c/- [A/c/] [E/c/-] [A/c/] |
+% Bar 10 (0:33)
+[A^A] z/ A/ A [Ec] [^C,A] z/ A/ A [Ec] |
+[^C,^A] z/ A/ A [Ec] [C,A] z/ A/ A [Ec] |
+[^C,^A] z/ A/ A [Ec] [C,A] z/ A/ A [Ec] |
+[^C,^A] z/ A/ A [Ec] [C,A] z/ A/ A [Ec] |
+[^C,^A] z/ A/ [Ac] [C,E] [Ac] G,/ G,/ B,// B,// B,// B,// B,// B,// B,// B,// |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [=A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [Ac] [E=A] [A/^A/-] A/ ^F/ F/ |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [Ac] [E/-c/-] [E/A/c/] [A/c/-] c/ [E/-c/-] [E/=A/c/] |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [=A^Ac] [Ec] [Ac] [Ec] |
+[A^A] [E/-c/-] [E/A/c/] [Ac] [Ec] [Ac] [Ec] [A/c/-] [A/c/] [E/c/-] c/ |
+% Bar 20 (1:10)
+[^Ac] [E/-c/-] [E/A/c/] [Ac] [Ec] c/- [A/c/] [Ec] c/- [A/c/] [E/c/-] [A/c/] |
+[A^A] [E/-c/-] [E/A/c/] [Ac] [Ec] [Ac] [Ec] [A/c/-] [A/c/] [E/c/-] c/ |
+[^Ac] [E/-c/-] [E/A/c/] [Ac] [Ec] c/- [A/c/] [Ec] c/- [A/c/] [E/c/-] c/ |
+^A// z3/4 ^F/ A/ A/ z/ G/ z/ A/ z/ F/ A/ A/ z/ G/ z/ |
+^A/ z/ ^F/ A/ A/ z/ G/ z/ A/ z/ F/ A/ A/ z/ G/ z/ |
+^A/ z/ ^F/ A/ A/ z/ G/ z/ A/ z/ F/ A/ A/ z/ G/ z/ |
+^A/ z/ ^F/ A/ A/ z/ G/ z/ A/ z/ F/ A/ A/ z/ G/ z/ |
+^A/ z/ ^F/ A/ A/ z/ G/ z/ A/ z/ F/ A/ A/ A/ E/ A/ |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [=A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [Ac] [E/-c/] E/ c/ A/ [E/c/] z/ |
+% Bar 30 (1:47)
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [Ac] [E/-c/-] [E/A/c/] [A/c/-] c/ [E/-c/-] [E/=A/c/] |
+[A^A] [E/-c/-] [E/A/c/] [A/c/-] c/ [Ec] [=A^Ac] [Ec] [Ac] [Ec] |
+[A^A] [E/-c/-] [E/A/c/] [Ac] [Ec] [Ac] [Ec] [A/c/-] [A/c/] [E/c/-] c/ |
+[^Ac] [E/-c/-] [E/A/c/] [Ac] [Ec] c/- [A/c/] [Ec] c/- [A/c/] [E/c/-] [A/c/] |
+[A^A] [E/-c/-] [E/A/c/] [Ac] [Ec] [Ac] [Ec] [A/c/-] [A/c/] [E/c/-] c/ |
+[^Ac] [E/-c/-] [E/A/c/] [Ac] [Ec] c/- [A/c/] [Ec] c/- [A/c/] [E/c/-] [A/c/] |
+[A^A] [E/-c/] [E/A/] c/ A/ [E/c/] z/ [A/c/] A/ [E/c/] z/ [A/c/] A/ [E/c/] z/ |
+[A/^A/] z/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ c/ A/ [E/c/] z/ |
+[^A/c/] z/ [E/c/] z/ c/ A/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ |
+[A/^A/] z/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ c/ A/ [E/c/] z/ |
+% Bar 40 (2:24)
+[^A/c/] z/ [E/c/] z/ c/ A/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ |
+[^A/-c/] A/ [E/-c/] [E/A/] [A/c/] z/ [E/-c/] E/ [A/-c/] A/ [E/-c/] [E/A/] [A/c/] z/ [E/-c/] E/ |
+[^A/-c/] A/ [E/-c/] [E/A/] [A/c/] z/ [E/-c/] E/ [Ac] [Ec] G,// B,// B,// ^C// B,// a// C// C// |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[E//-A//^A//] E// E// E// E/ E// E// E/ [=A/^A/] z [E//-=A//^A//] E// E// E// E/ E// E// E// z// [=A//^A//] z5/4 |
+% Bar 50 (3:00)
+[E//-A//^A//] E// E// E// E/ E// E// E/ [=A/^A/] z [E//-=A//^A//] E// E// E// E/ E// E// E// z// [=A//^A//] z5/4 |
+B,// B,// B,// B,// B,// B,// B,// B,// G,// B,// B,// a// B,// B,// a// ^C// ^A2 C/ C/ ^F// F// F// F// |
+[A^A] [E/-c/] [E/A/] c/ A/ [E/c/] z/ [A/c/] A/ [E/c/] z/ [A/c/] A/ [E/c/] z/ |
+[A/^A/] z/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ c/ A/ [E/c/] z/ |
+[^A/c/] z/ [E/c/] z/ c/ A/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ |
+[A/^A/] z/ [E/c/] A/ [A/c/] z/ [E/c/] z/ [A/c/] A/ [E/c/] z/ c/ A/ [E/c/] z/ |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[E/A/] ^A// A// A// z// A// A// [E/=A/] ^A// A// A// z// A// A// [E/=A/] ^A// A// A// z// A// A// [E/=A/] z// E// B,// B,// B,// z// |
+[E/A/] ^A// A// A// z// A// A// [E/=A/] ^A// A// A// z// A// A// [E/=A/] z// A/ [E//A//-] A/ [B,3/4A3/4] [B,/A/] [B,3/4A3/4] |
+% Bar 60 (3:37)
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+% Bar 70 (4:14)
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+[A//-^A//] [^C//=A//-] [A//-^A//] [C//=A//] [E//-^A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-]
+	[C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-] [A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] [A//c//-] [C//c//-]
+	[A//c//-] [C//c//] [E//-A//c//-] [C//E//-c//-] [E//-A//c//-] [C//E//c//] |
+z8 |]
+
+X: 2
+%%Orig filename was Phantom5Fiddle.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Basic Fiddle
+%%part-name Basic Fiddle
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (1:10)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:47)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+F// F// E// E// F// F// E// E// F// F// E// E// F// F// E// E// G// G// F// F// G// G// F// F// G// G// F// F// G// G// F// F// |
+A// A// F// F// A// A// F// F// A// A// F// F// A// A// F// F// A// A// F// F// A// A// F// F// A// A// F// F// A// A// F// F// |
+f// f// e// e// f// f// e// e// f// f// e// e// f// f// e// e// g// g// f// f// g// g// f// f// g// g// f// f// g// g// f// f// |
+% Bar 40 (2:24)
+a// a// f// f// a// a// f// f// a// a// f// f// a// a// f// f// a// a// f// f// a// a// f// f// a// a// f// f// a// a// f// f// |
+[f4a4] [g4^a4] |
+d/ d/ f/ f/ e/ f/ d/ e/ c'/ d/ ^a/ c'/ =a/ ^a/ g/ =a/ |
+d/ a/ f/ a/ d/ a/ f/ a/ d/ a/ f/ a/ d/ a/ f/ a/ |
+^c/ e/ g/ c/ e/ c/ e/ g/ c/ e/ g/ c/ e/ c/ e/ g/ |
+[d8f8] |
+[d8^a8] |
+[d8a8] |
+g4 [^f//-^a//] f15/4 |
+^d2 z2 z4 |
+% Bar 50 (3:00)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (3:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (4:14)
+z8 |
+z8 |
+z8 |]
+
+X: 4
+%%Orig filename was Phantom5Horn.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Basic Horn
+%%part-name Basic Horn
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++fff+ z8 |
+[C,6C6] [C,/C/] B,/ ^A,/ =A,/ |
+^G,4 ^F,/ G,3/2 =G,/ ^G,/ ^A,/ B,/ |
+[C,6C6] [C,/C/] B,/ ^A,/ =A,/ |
+^G,4 ^F,/ G,2 z3/2 |
+[C,6C6] [C,/C/] B,/ ^A,/ =A,/ |
+^G,4 ^F,/ G,3/2 =G,/ ^G,/ ^A,/ B,/ |
+[C,6C6] [C,/C/] B,/ ^A,/ =A,/ |
+^G,4 ^F,/ G,3/2 =G,/ ^G,/ ^A,/ B,/ |
+% Bar 10 (0:33)
+[C,6C6] z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[C,6C6] [C,/C/] B,/ ^A,/ =A,/ |
+% Bar 20 (1:10)
+^G,4 ^F,/ G,3/2 =G,/ ^G,/ ^A,/ B,/ |
+[C,6C6] [C,/C/] B,/ ^A,/ =A,/ |
+^G,4 ^F,/ G,3/2 =G,/ ^G,/ ^A,/ B,/ |
+F,4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:47)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (2:24)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[D,6D6] [D,/D/] [^C,/^C/] [=C,/=C/] B,/ |
+^A,4 ^G,/ A,3/2 =A,/ ^A,/ [C,/C/] [^C,/^C/] |
+[D,6D6] [D,/D/] [^C,/^C/] [=C,/=C/] B,/ |
+^A,4 ^F,4 |
+z8 |
+% Bar 50 (3:00)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (3:37)
+[^D,6^D6] [D,/D/] [=D,/=D/] [^C,/^C/] [=C,/=C/] |
+B,4 A,/ B,3/2 ^A,/ B,/ [^C,/^C/] [D,/D/] |
+[^D,6^D6] [D,/D/] [=D,/=D/] [^C,/^C/] [=C,/=C/] |
+B,4 A,/ B,3/2 ^A,/ B,/ [^C,/^C/] [D,/D/] |
+F,6 F,/ E,/ ^D,/ =D,/ |
+^C,4 B,/ C,3/2 =C,/ ^C,/ ^D,/ E,/ |
+F,6 F,/ E,/ ^D,/ =D,/ |
+^C,4 B,/ C,3/2 =C,/ ^C,/ ^D,/ E,/ |
+F,7/4- +ff+ [F,//-^G,//] [F,//-C//] [F,/-G,/] [F,//-C//] [F,//-F//] [F,/-C/] [F,//-F//] [F,2^G2-] +fff+ [F,/G/-] [E,/G/-] [^D,/G/-] [=D,/G/] |
+^C,7/4- +ff+ [C,//-^G,//] [C,//-^C//] [C,/-G,/] [C,//-C//] [C,//-F//] [C,/-C/] [C,//F//] +fff+ [B,/^G/-] [C,3/2G3/2-] [=C,/G/-] [^C,/G/-] [^D,/G/-] [E,/G/] |
+% Bar 70 (4:14)
+F,7/4- +ff+ [F,//-^G,//] [F,//-C//] [F,/-G,/] [F,//-C//] [F,//-F//] [F,/-C/] [F,//-F//] [F,2^G2-] +fff+ [F,/G/-] [E,/G/-] [^D,/G/-] [=D,/G/] |
+^C,7/4- +ff+ [C,//-^G,//] [C,//-^C//] [C,/-G,/] [C,//-C//] [C,//-F//] [C,/-C/] [C,//F//] +fff+ [B,/^c/-] [C,3/2c3/2-] [=C,/c/-] [^C,/c/-] [^D,/c/-] [E,/c/] |
+z8 |]
+
+X: 6
+%%Orig filename was Phantom5Misty.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:33)
+z4 z g c' g |
+^a z/ ^g/ g2 z f a f |
+g4 z g c' g |
+^a z/ ^g/ g2 z f a f |
+g4 z g c' ^d |
+g z/ f/ f2 z f ^a f |
+g6 z g |
+c'4 z/ ^a/ ^g/ =g/ f/ ^d/ =d/ c'/ |
+b4 z b ^g z/ =g/ |
+g4 z4 |
+% Bar 20 (1:10)
+z8 |
+z8 |
+z8 |
+z4 z c f c |
+^d z/ ^c/ c2 z ^A d A |
+c4 z c f c |
+^d z/ ^c/ c2 z ^A d A |
+c4 z c f ^g |
+c' z/ ^a/ a2 z a ^d a |
+c'6 z c' |
+% Bar 30 (1:47)
+f4 z/ ^d/ ^c/ c'/ ^a/ ^g/ =g/ f/ |
+e4 z e ^c z/ c'/ |
+c'4 z4 |
+z8 |
+z8 |
+z8 |
+z4 z a d a |
+c' z/ ^a/ a2 z g c' g |
+a4 z a d a |
+c' z/ ^a/ a2 z g c' g |
+% Bar 40 (2:24)
+a4 z a d f |
+a z/ g/ g2 z g c' g |
+a6 z a |
+d4 z/ c'/ ^a/ =a/ g/ f/ e/ d/ |
+^c4 z c ^a z/ =a/ |
+a4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (3:00)
+z8 |
+z4 z ^a ^d a |
+^c z/ b/ b2 z ^g c g |
+^a4 z a ^d a |
+^c z/ b/ b2 z ^g c g |
+^a4 z a ^d ^f |
+^a z/ ^g/ g2 z g ^c g |
+^a6 z a |
+^d4 z/ ^c/ b/ ^a/ ^g/ ^f/ =f/ d/ |
+d4 z d b z/ ^a/ |
+% Bar 60 (3:37)
+^a4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ ^g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ |
+f/ ^c/ ^g/ c/ f/ c/ g/ c/ f/ c/ g/ c/ f/ c/ g/ c/ |
+^g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ |
+f/ ^c/ ^g/ c/ f/ c/ g/ c/ f/ c/ g/ c/ f/ c/ g/ c/ |
+% Bar 70 (4:14)
+^g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ |
+f/ ^c/ ^g/ c/ f/ c/ g/ c/ f/ c/ g/ c/ f/ c/ g/ c/ |
+z8 |]
+
+X: 14
+%%Orig filename was Phantom5Travellers.abc
+%abc-2.1
+%%song-title       Nightwish_-_The Phantom of the Opera
+%%song-duration    4:23
+%%song-transcriber Turinthi of Gladden
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Nightwish_-_The Phantom of the Opera (4:23) - Traveller's Trusty Fiddle
+%%part-name Traveller's Trusty Fiddle
+Z: Turinthi of Gladden
+M: 4/4
+Q: 65
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:33)
+z4 z G c G |
+^A z/ ^G/ G2 z F A F |
+G4 z G c G |
+^A z/ ^G/ G2 z F A F |
+G4 z G c ^d |
+g z/ f/ f2 z f ^a f |
+g6 z g |
+c'4 z/ ^a/ ^g/ =g/ f/ ^d/ =d/ c/ |
+B4 z B ^g z/ =g/ |
+g4 z4 |
+% Bar 20 (1:10)
+z8 |
+z8 |
+z8 |
+z4 z C F C |
+^D z/ ^C/ C2 z ^A, D A, |
+C4 z C F C |
+^D z/ ^C/ C2 z ^A, D A, |
+C4 z C F ^G |
+c z/ ^A/ A2 z A ^d A |
+c6 z c |
+% Bar 30 (1:47)
+f4 z/ ^d/ ^c/ =c/ ^A/ ^G/ =G/ F/ |
+E4 z E ^c z/ =c/ |
+c4 z4 |
+z8 |
+z8 |
+z8 |
+z4 z A d A |
+c z/ ^A/ A2 z G c G |
+A4 z A d A |
+c z/ ^A/ A2 z G c G |
+% Bar 40 (2:24)
+A4 z A d f |
+a z/ g/ g2 z g c' g |
+a6 z a |
+d4 z/ c'/ ^a/ =a/ g/ f/ e/ d/ |
+^c4 z c ^a z/ =a/ |
+a4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (3:00)
+z8 |
+z4 z ^A ^d A |
+^c z/ B/ B2 z ^G c G |
+^A4 z A ^d A |
+^c z/ B/ B2 z ^G c G |
+^A4 z A ^d ^f |
+^a z/ ^g/ g2 z g ^c g |
+^a6 z a |
+^d4 z/ ^c/ b/ ^a/ ^g/ ^f/ =f/ d/ |
+d4 z d b z/ ^a/ |
+% Bar 60 (3:37)
+^a4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ ^g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ |
+f/ ^c/ ^G/ c/ f/ c/ G/ c/ f/ c/ G/ c/ f/ c/ G/ c/ |
+^g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ |
+f/ ^c/ ^G/ c/ f/ c/ G/ c/ f/ c/ G/ c/ f/ c/ G/ c/ |
+% Bar 70 (4:14)
+^g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ g/ f/ |
+f/ ^c/ ^G/ c/ f/ c/ G/ c/ f/ c/ G/ c/ f/ c/ G/ c/ |
+z8 |]
+

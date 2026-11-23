@@ -1,0 +1,177 @@
+N: TS  2,   9   5
+X: 9
+%%Orig filename was StonefireAges.abc
+T: Stonefire (2:18) - Lute of Ages
+%%part-name Lute of Ages
+C: David Arkenstone
+Z: Raymiond of Gladden
+M: 4/4
+Q: 90
+K: C maj
+
++f+ z2 E +ff+ B- B4 |
+d6 +f+ E +ff+ B- |
+B4 d z z2 |
+z2 +f+ E +ff+ B- B4 |
+d6 +f+ E +ff+ B- |
+B4 +f+ A z z2 |
+z2 E +ff+ B e z z2 |
++f+ E +ff+ B +fff+ e z z2 +f+ D +ff+ A |
++fff+ d z z2 +f+ E +ff+ B e z |
+% Bar 10 (0:18)
+z2 +f+ E +ff+ B e z z2 |
++f+ E +ff+ B e2 z2 +f+ D +ff+ A |
+d z z2 +f+ B, +ff+ ^F B d |
+z B E B e z z2 |
++f+ E +ff+ B z +f+ e// z11/4 D +ff+ A |
+d z z2 +f+ E +ff+ B e z |
+z2 +f+ G +ff+ d +fff+ g z z2 |
++ff+ D A +fff+ d z z2 +f+ E +ff+ B |
++f+ [e2g2] +ff+ [d2^f2] +mf+ [B4-e4-] |
+[B2e2] +ff+ E, B, E z z2 |
+% Bar 20 (0:38)
++f+ E, +ff+ B, E z z2 D, A, |
+D z z2 +f+ E, +ff+ B, E z |
+z2 +f+ E, +ff+ B, E z z2 |
++f+ E, +ff+ B, E z z2 +f+ D, +ff+ A, |
+D z z2 +f+ B, +ff+ ^F, B, z |
+z2 +f+ E, +ff+ B, E z z2 |
++f+ E, +ff+ B, E z z2 +f+ D, +ff+ A, |
+D z z2 +f+ E, +ff+ B, E z |
+z2 +f+ G, +ff+ D G z z2 |
++f+ D, +ff+ A, D z z2 +f+ E, +ff+ B, |
+% Bar 30 (0:58)
+E z z2 z4 |
+z2 +f+ A,2 +fff+ [E4A4] |
++f+ G,2 +ff+ [D2-G2-] [D2G2] E2 |
++fff+ B4 +f+ D2 +ff+ A2- |
+A2 +f+ A,2 +ff+ [E4A4] |
++f+ B,2 +ff+ [^F2-B2-] [F2B2] +f+ ^F,2 |
++ff+ [E4^F4B4] +f+ ^F,2 +ff+ [E^A] B |
+^c2- +f+ [A,2c2] +ff+ [E4A4] |
++f+ G,2 +ff+ [D2-G2-] [D2G2] E2 |
++fff+ B4 +f+ D2 +ff+ A2- |
+% Bar 40 (1:18)
+A2 +f+ [C,3G,3C3] +ff+ [D,-A,-D-] [D,2A,2D2] |
+[E,4B,4E4] +f+ [^F,4-B,4-] |
+[^F,4B,4] +ff+ E B e z |
+z2 +f+ E +ff+ B z +f+ e// z11/4 |
+D +ff+ A d z z2 +f+ E +ff+ B |
+e z z2 +f+ E +ff+ B e z |
+z2 +f+ E +ff+ B e2 z2 |
++f+ D +ff+ A +fff+ d z z2 +f+ B, +ff+ ^F |
+B z z2 +f+ E +ff+ B e z |
+z2 +f+ E +ff+ B e z z2 |
+% Bar 50 (1:38)
++f+ D +ff+ A d z z2 +f+ E +ff+ B |
+e z z2 +f+ G, +ff+ D G z |
+z2 +f+ D, +ff+ A, D z z2 |
++f+ E, +ff+ B, +f+ [E2G2B2] +ff+ [D2^F2A2] [E2-G2-B2-] |
+[E4G4B4] +f+ E +ff+ B +fff+ e2- |
+e2 +f+ E +ff+ B +fff+ e4 |
++f+ D +ff+ A z3 +f+ d C +ff+ G |
+z2 [B,2G2] E B- B2- |
+B2 +f+ E +ff+ B +fff+ e//- [e//-g//-] [e7/2g7/2b7/2] |
++f+ B, +ff+ ^F +fff+ [B2d2] +ff+ [A2e2] +f+ B, +ff+ F |
+% Bar 60 (1:58)
++fff+ B2- [B2^d2] +f+ E +ff+ B +fff+ e2- |
+e2 +f+ E +ff+ B- B4 |
++f+ B, +ff+ ^F +fff+ B2 +ff+ A2 +f+ B, +ff+ F |
+B4 +f+ E, +ff+ B, E2- |
+E2 +f+ E, +ff+ B, E4 |
+B, ^F B2- B2 +f+ B, +ff+ ^F, |
+B,4 +f+ E, +ff+ B, E ^F |
+G +fff+ d a2- a4 |
++f+ E +ff+ B e ^f g +fff+ d z2 |
+z4 z3 +ff+ b- |
+% Bar 70 (2:18)
+b8 |]
+
+X: 5
+%%Orig filename was StonefireHarp.abc
+T: Stonefire (2:18) - Basic Harp
+%%part-name Basic Harp
+C: David Arkenstone
+Z: Raymiond of Gladden
+M: 4/4
+Q: 90
+K: C maj
+
++f+ z4 [G2B2] [E2G2] |
++ff+ [^F6A6] z2 |
++f+ [G2B2] [E2G2] +ff+ A +f+ G +ff+ ^F2- |
+^F2 z2 +f+ [G2B2] [E2G2] |
++ff+ [^F6A6] z2 |
++f+ [G2B2] [E2G2] ^F E +ff+ D2- |
+D2 E2 +fff+ B3 +ff+ ^c// +f+ B// A/ |
++ff+ B4 B ^c d2- |
+d e +f+ d ^c B4- |
+% Bar 10 (0:18)
+B2 E2 +ff+ B3 ^c// B// +f+ A/ |
++ff+ B2 E2 G B A2- |
+A +f+ G ^F// G// F// G// +ff+ E F3 z |
+^F z +fff+ E2 B3 +ff+ ^c// B// +f+ A/ |
++ff+ B3 z +fff+ B +ff+ ^c d2- |
+d e ^f g f// g// f// g// +f+ e B2- |
+B2 +fff+ g +ff+ ^f g2 +f+ f// g// f// g// e |
++ff+ ^f// g// f// g// +f+ e d2 +ff+ e f e2- |
+e4 z4 |
+z2 +f+ E2 +fff+ [G2B2] +ff+ [GB] [A//^c//] [G//B//] +f+ [^F/A/] |
+% Bar 20 (0:38)
++ff+ [G3B3] +f+ E +fff+ [GB] +ff+ [A^c] [A2-d2-] |
+[Ad] e d +f+ ^c [G4-B4-] |
+[G2B2] E2 +ff+ [G2B2] [GB] [A//^c//] [G//B//] +f+ [^F/A/] |
++ff+ [G2B2] z +f+ E +ff+ G +fff+ B +f+ [^F2-A2-] |
+[^FA] +ff+ G +f+ F// G// F// G// E +ff+ F3 +f+ D |
++ff+ ^F3/2 G// F// E2 +fff+ [G2B2] +ff+ [GB] [A//^c//] [G//B//] +f+ [F/A/] |
++ff+ [G3B3] +f+ E +fff+ [GB] +ff+ [A^c] [A2-d2-] |
+[Ad] [Ge] [A^f] [Bg] +f+ [Af] [Ge] [E2-B2-] |
+[E2B2] +fff+ [Bg] +ff+ [A^f] [B2g2] f// g// f// g// +f+ e |
++ff+ ^f// g// f// g// +f+ e +ff+ [^F2d2] [Ge] [Af] e2- |
+% Bar 30 (0:58)
++f+ [G2B2e2-] [^F2A2e2] [E4-G4-] |
+[E2G2] +ff+ [^C2E2A2] [A2e2] [Ae] [B^f] |
++f+ [G2d2] [E2-B2-] [E2B2] E2 |
++fff+ [E2-B2] +ff+ [E//-A//] [E//-B//] [E//-A//] [E//-B//] +f+ [EG] ^F E D2- |
+D2 +fff+ [^C2E2A2] [A2e2] +ff+ [Ae] [B^f] |
++f+ [^F2d2] B3 +ff+ d [F2-B2-^c2-] |
+[^FB^c] e +f+ d +ff+ e +f+ [F4^A4c4-] |
+^c +ff+ e +f+ [E2A2] +ff+ [A2e2] [Ae] [B^f] |
++f+ [G2d2] [E2-B2-] [E2B2] E2 |
++fff+ [E2-B2] +ff+ [E//-A//] [E//-B//] [E//-A//] [E//-B//] [EG] +f+ ^F E D2- |
+% Bar 40 (1:18)
+D2 +ff+ [CE] ^F G +f+ [DF] +ff+ G A |
+[EB] +f+ G E +ff+ G +f+ [B,4-^F4-] |
+[B,4^F4] E2 +fff+ B2- |
+B +ff+ ^c// +f+ B// A/ +ff+ B3 z +fff+ B +ff+ c |
+d3 e d ^c +f+ B2- |
+B4 E2 +ff+ B2- |
+B ^c// B// +f+ A/ +ff+ B2 z2 G B |
+A3 +f+ G +ff+ ^F// G// F// G// E F2- |
+^F G F G E2 +fff+ B2- |
+B +ff+ ^c// B// +f+ A/ +fff+ [B-g] +ff+ [B-^f] [B2g2-] [Bg-] [cg] |
+% Bar 50 (1:38)
++f+ [^F3d3] +ff+ [Ge] [A^f] [Bg] f// g// f// g// +f+ e |
+B4 +ff+ [GB] [^FA] [G2B2] |
++f+ [^FA] +ff+ [EG] [FA] +f+ [EG] +ff+ [D2F2] [EG] [FA] |
++f+ E6 z2 |
+z4 z2 z// +fff+ G//- [G3/2-B3/2-] |
++f+ [G-B-e] [GBd] +ff+ e// ^f// e// f// +f+ d +fff+ [G4B4] |
++f+ A// B// A// B// G +ff+ ^F2 G +f+ D +ff+ E2- |
+[B,2E2] [A,2D2] E3 D |
+E ^F G B +fff+ e +ff+ ^f g2 |
++f+ ^f// g// f// g// e +fff+ [D2d2] +ff+ [E2^c2] +f+ B2- |
+% Bar 60 (1:58)
++fff+ [E2^F2-B2] +ff+ [F//-B//] [F//-c//] [F//-B//] [F//-c//] +f+ [FA] +ff+ B2- +fff+ [G-B] +ff+ [G//-B//] [G//-c//] [G//-B//] [G//-c//] |
+[G2A2] B2 +f+ E2 +ff+ G// A// G// A// ^F |
+G2 +fff+ [D2d2] +ff+ [E2^c2] B2 |
++mf+ D2 +ff+ ^F2 E F G2 |
+^F// G// F// G// E E// F// E// F// +f+ D +ff+ D2 E F |
++f+ E2- E3/2 +ff+ ^F// +f+ E// D4- |
+D +ff+ E// ^F// [E//F//] E// [D//-F//] D7/4 E2- +f+ [E-b] [E-g] |
++ff+ [E-b] +f+ [Eg] +fff+ a +ff+ ^f +f+ d4 |
++fff+ b +f+ g +ff+ b +fff+ e +ff+ d +f+ ^c +ff+ [^f2-a2-] |
+[^f4-a4-] [f3a3] [e-b-] |
+% Bar 70 (2:18)
+[e8b8] |]
+

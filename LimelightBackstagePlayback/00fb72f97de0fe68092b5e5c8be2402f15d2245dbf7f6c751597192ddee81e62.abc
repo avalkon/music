@@ -1,0 +1,83 @@
+N: TS  2,   6  21
+X: 6
+%%Orig filename was MysteryMisty1.abc
+T: Mystery Harps (1:07) - Misty Mountain Harp 1
+%%part-name Misty Mountain Harp 1
+Z: Forte Maestro
+M: 4/4
+Q: 100
+K: C maj
+
++mp+ z4 z3 ^F, |
+G, ^D =D ^C D3 A,/ G,/ |
+^F,/ z/ A,/ z/ C/ z/ G/ z/ G// ^F/ z// D- D ^A,/ =A,/ |
+G, G, ^A, A, D D, G G, |
+^D ^F- F C/ D/ A, C- C ^A,/ =A,/ |
+G, [^D,^D] [=D,=D] [^C,^C] [D,D-] [D,-D-] [D,-D] [D,/-^A,/] [D,/=A,/] |
+^F,/ z/ A,/ z/ C,/ z/ G,/ z/ F,/ z/ D,- D, ^A,/ =A,/ |
+G,2 C2 D3 D |
+C C z ^D =D D,3/4 z// E,3/4 z// ^F,3/4 z// |
+% Bar 10 (0:21)
+G,2 C2 ^A, G z A, |
+A,- [A,3/4-A3/4] A,// z C/ ^C/ D/ z/ D,3/4 z// E,3/4 z// ^F,3/4 z// |
+G,2 C2 ^A,3 A, |
+A, A,3/4 z5/4 C/ ^C/ D/ z/ D,3/4 z// E,3/4 z// ^F,3/4 z// |
+G,2 C2 ^A,2 ^D2 |
+D2 ^D2 ^F4- |
+[^F4-^d4] [F4-c4d4] |
+[^F4A4c4] G3/2 z/ D3/2 z/ |
+G,3/2 z5/2 ^F G F z |
+z D/ z/ D/ z/ D,3/4 z// E,3/4 z// ^F,3/4 z// G,2 |
+% Bar 20 (0:45)
+C2 D3 D C C3/4 z// |
+z ^D =D3/4 z// D,3/4 z// E,3/4 z// ^F,3/4 z// G,2 |
+C2 ^A, G z A, =A,- [A,3/4-A3/4] A,// |
+z C/ ^C/ D3/4 z// D,3/4 z// E,3/4 z// ^F,3/4 z// G,2 |
+C2 ^A,3 A, =A, A,3/4 z// |
+z C/ ^C/ D3/4 z// D,3/4 z// E,3/4 z// ^F,3/4 z// G,2 |
+C2 ^A,2 ^D2 =D/- [D/-c/] [D/-^f/] [D/-a/] |
+[D/-c/] [D/-^f/] [D/-a/] [D/-c'/] [D/-f/] [D/-a/] [D/-c'/] [D/-d/] [D/-a/] [D/-c'/] [D/-d/] [D/f/] [G,2-G2-] |
+[G,2G2-] [G,2-G2-] [G,4-G4-] |
+[G,6G6] z2 |]
+
+X: 21
+%%Orig filename was MysteryMisty2.abc
+T: Mystery Harps (1:07) - Misty Mountain Harp 2
+%%part-name Misty Mountain Harp 2
+Z: Forte Maestro
+M: 4/4
+Q: 100
+K: C maj
+
++mp+ z4 z3 ^F |
+G ^d =d ^c d3 A/ G/ |
+^F/ z/ A/ z/ c/ z/ g/ z/ g// ^f/ z// d- d [^A/d/] [=A/c/] |
+[G2^A2] [D2G2A2] [G2A2d2] [A2d2g2] |
+[Ac^f] c//- [c3/4-^d3/4-a3/4-] [cda-] [A//-d//-a//] [A//d//] [c/f/] [^F3/4c3/4] z// [F-d-] [Fd] [^A/=d/] [=A/c/] |
+[G^A] ^d =d ^c d d//- [d//^d//] =d//- [d//^d//] =d- [=A/d/-] [G/d/] |
+^F/ z/ A/ z/ c/ z/ g/ z/ ^f/ z/ d- d [c/f/-] [d/f/] |
+[^Ag-] [dg] [^dg] d [c3=d3^f3] [d/f/] [d/a/] |
+[^dg] [=d3/4^d3/4] z5/4 [d/-g/-c'/] [d/g/^a/] [c3^f3=a3] [cf] |
+% Bar 10 (0:21)
+g/- [^A/g/-] [d/g/] g/ ^d/ d/- [d/g/] d/ =d [dg^a] z g |
+[^fc'] [^d3/4a3/4] z5/4 [a/c'/] [g/^a/] [f3=a3] [c/f/] =d/ |
+[^Ag-] [dg] [^dg-] [dg] [=dg-] [d-g-^a-] [dga] [d/a/] [d/g/] |
+[^dg] [=d3/4^d3/4] z5/4 [a/c'/] [g/^a/] [^f3=a3] [cf] |
+g/- [^A/g/-] [d/g/] g/ ^d/ d/- [d/g/] d/ =d/- [d/-g/] [d/^a/] d/ g/- [g/-a/] [^d/g/] g/ |
+^f/- [f/-a/] [f/c'/] f/ g/- [g/-^a/] [^d/g/] g/ [d3-=a3c'3-] [d/-^g/c'/-] [d/=g/c'/] |
+[^f3-a3-c'3-] [=f/^f/-a/-c'/-] [e/f/a/c'/] [^d3f3-a3-] [=d/f/-a/-] [^c/f/a/] |
+[^d3-^f3-c'3] [d/-f/-^a/] [d/f/g/] [=d/a/] z/ =a/ f/ [a/c'/] z/ g/ d/ |
+[g/^a/] z5/2 [G/^A/] z/ [=Ac] [^Ad] c z |
+z [^F//-^G//-^c//] [F3/4G3/4d3/4] [F//-G//-c//] [F3/4G3/4d3/4] z z [=c^f] [^Ag-] [dg] |
+% Bar 20 (0:45)
+[^dg] d [c3=d3^f3] [d/f/] [d/a/] [^dg] [=d3/4^d3/4] z// |
+z [^d/-g/-c'/] [d/g/^a/] [c3^f3=a3] [cf] g/- [^A/g/-] [=d/g/] g/ |
+^d/ d/- [d/g/] d/ =d [dg^a] z g [^fc'] [^d3/4=a3/4] z// |
+z [a/c'/] [g/^a/] [^f3=a3] [c/f/] d/ [^Ag-] [dg] |
+[^dg-] [dg] [=dg-] [d-g-^a-] [dga] [d/a/] [d/g/] [^dg] [=d3/4^d3/4] z// |
+z [a/c'/] [g/^a/] [^f3=a3] [cf] g/- [^A/g/-] [d/g/] g/ |
+^d/ d/- [d/g/] d/ =d/- [d/-g/] [d/^a/] d/ g/- [g/-a/] [^d/g/] g/ ^f2- |
+^f6 [g-^a-] [g-=a^a] |
+[g-^a-] [dga-] [^A2-g2a2] [A4-g4-=a4-^a4-] |
+[^A6g6a6^a6] z2 |]
+

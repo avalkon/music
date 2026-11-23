@@ -1,0 +1,1501 @@
+N: TS  6,   9   5   8   6  18  13
+X: 9
+%%Orig filename was Caribbean3Ages.abc
+T: Caribbean Blue (2:54) - Lute of Ages
+%%part-name Lute of Ages
+C: Enya
+Z: Raymiond of Gladden
+M: 3/4
+Q: 169
+K: C maj
+
++ff+ z6 |
+A,6 |
++f+ ^C6 |
+B,6 |
++mf+ ^F,6 |
+A,6 |
++f+ B,6 |
+^C6 |
++mf+ ^G,6 |
+% Bar 10 (0:09)
+A,6 |
++f+ ^C6 |
++mf+ B,6 |
++f+ ^F,6 |
++mp+ A,6 |
++mf+ B,6 |
++mp+ [E,6E6] |
++mf+ A, +f+ E +mf+ A +f+ E +mp+ A +f+ E |
++mf+ ^C +f+ E +mf+ ^G +f+ E +mp+ G +f+ E |
+B, ^F +mp+ B +f+ F +p+ B +mf+ F |
+% Bar 20 (0:20)
++f+ ^F, ^C A +mf+ C A +f+ C |
++mf+ A, +f+ E +p+ A +f+ E +mf+ A +f+ E |
++mp+ B, +f+ ^F +mf+ B +f+ F +p+ B +f+ F |
+^C E +mf+ ^G +f+ E +p+ G +f+ E |
+^G, +mp+ ^G +f+ B, +mf+ G ^C +mp+ G |
++f+ A, E +mf+ A +f+ E +mf+ A +f+ E |
++mf+ ^C E +mp+ ^G +f+ E +mf+ G +f+ E |
+B, +mf+ ^F B F +mp+ B +f+ F |
+^F, ^C +mf+ A C +mp+ A +f+ C |
++mf+ A, +f+ E +mp+ A +f+ E +p+ A +f+ E |
+% Bar 30 (0:30)
+B, ^F +mf+ B F +f+ B,2 |
++mf+ E,6- |
+E,6 |
++f+ B, +mf+ ^F B +f+ F +mp+ B +mf+ F |
++f+ A, E +mf+ A +f+ E +mp+ A +f+ E |
+E, B, +mp+ ^G +f+ B, +mf+ G +f+ B, |
+E, B, +mf+ ^G +f+ B, +mf+ G +ff+ B, |
++f+ B, ^F B F +mp+ B +f+ F |
+A, E +mf+ A +f+ E +mf+ A +ff+ E |
++f+ ^A, +mf+ ^F ^A F +mp+ A +f+ F |
+% Bar 40 (0:41)
+^A, ^F +mf+ ^A +f+ F +mf+ A F |
++f+ B, ^F +p+ B +f+ F +mf+ B +f+ F |
+A, E A E +mp+ A +f+ E |
+E, B, +mf+ ^G +f+ B, +mf+ G +f+ B, |
+E, B, +mf+ ^G +f+ B, +mf+ G +f+ B, |
+B, +mf+ ^F +f+ B +mf+ F +mp+ B +mf+ F |
++f+ A, E +mf+ A E +mp+ A +mf+ E |
++f+ ^A, +p+ ^F +mp+ ^A +mf+ F A +mp+ F |
++f+ ^A, +mf+ ^F ^A +f+ F +mf+ A F |
++f+ B, +mf+ ^F B +f+ F +mf+ B F |
+% Bar 50 (0:52)
++f+ B, +mf+ ^F +f+ B z3 |
+A, E +mf+ A +f+ E +mf+ A +f+ E |
+^C E ^G E +mf+ G +f+ E |
+B, ^F +mf+ B +f+ F B F |
+^F, ^C +mp+ A +f+ C +mp+ A +f+ C |
+A, E +mf+ A +f+ E A E |
++mf+ B, +f+ ^F +mf+ B +f+ F +mf+ B F |
++f+ ^C E +mf+ ^G +f+ E +mp+ G E |
++ff+ ^G, +mp+ ^G +ff+ B, +mf+ G +f+ ^C +mf+ G |
++ff+ A, +f+ E A E +mf+ A +f+ E |
+% Bar 60 (1:02)
+^C E +mp+ ^G +f+ E +mf+ G +f+ [EG] |
++mf+ B, +f+ ^F +mf+ B +f+ F +p+ B +f+ F |
+^F, ^C +mp+ A +f+ C +mp+ A +f+ C |
++ff+ A, +f+ E +mf+ A +f+ E +mf+ A +f+ E |
+B, ^F +mf+ B +f+ F +ff+ B,2 |
++f+ E, B, E B, +mp+ E +ff+ B, |
++f+ A, E A E +mp+ A +mf+ E |
++f+ ^C E ^G E +mf+ G +f+ E |
+B, ^F +mf+ B +f+ F +mp+ B +mf+ F |
++f+ ^F, ^C A +mf+ C A +f+ C |
+% Bar 70 (1:13)
+A, +ff+ E +mf+ A +f+ E +mp+ A +f+ E |
+B, ^F +mf+ B F +mp+ B +mf+ F |
++f+ ^C E +mf+ ^G +f+ E +mf+ G +f+ E |
+^G, +mf+ ^G +ff+ B, +mp+ G +f+ ^C +mf+ G |
++ff+ A, +f+ E +mp+ A +f+ E +p+ A +f+ E |
+^C E +mf+ ^G +f+ E +mf+ G +f+ E |
++ff+ B, +mf+ ^F B F B F |
++f+ ^F, ^C +mf+ A +f+ C +p+ A +f+ C |
+A, E +mf+ A +f+ E +mf+ A +f+ E |
+B, ^F +mf+ B +f+ F +mp+ B +mf+ F |
+% Bar 80 (1:24)
++ff+ E, B, +f+ E +ff+ B, +f+ E B, |
+E, B, E ^G B e |
++mf+ F +f+ A c A +mf+ c +f+ A |
+C E G E G +mf+ E |
++f+ E G +mf+ B +f+ G +mp+ B +f+ G |
+A, E +mp+ A +f+ E +mp+ A +f+ E |
+G, D B D +mf+ B +f+ D |
+D F +mf+ A +f+ F +mf+ A +f+ F |
+C G +mf+ c +f+ G +mf+ c +f+ G |
+^A, F +mf+ ^A +f+ F +mp+ A +f+ F |
+% Bar 90 (1:34)
+B, G +mp+ B +f+ G +mf+ B +f+ G |
+C G +mf+ c +f+ G +mf+ c +f+ G |
+E G B +mf+ G +mp+ B +f+ G |
+A, E +mf+ A +f+ E +mp+ A +f+ E |
+G, D +p+ B +f+ D +mf+ B +f+ D |
+D F +mf+ A +f+ F +mf+ A +f+ F |
+C G c G +mf+ c +f+ G |
+B, G +mf+ B +f+ G +mp+ B +f+ G |
+B, G B G B G |
++mf+ C +f+ G +mf+ c +f+ G +mf+ c +f+ G |
+% Bar 100 (1:45)
+C G c z3 |
+^A, F ^A F +mf+ A +f+ F |
+D F +mf+ A +f+ F +mf+ A +f+ F |
+C G +mf+ c +f+ G +mf+ c +f+ G |
+G, D ^A D +mf+ A +f+ D |
+^A, F ^A F A +mf+ F |
++f+ C G +mf+ c +f+ G +mf+ c +f+ G |
+D F A +mf+ F A F |
++ff+ A, +mp+ A +ff+ C +mf+ A +ff+ D +mf+ A |
++f+ ^A, F +mp+ ^A +f+ F +p+ A +mf+ F |
+% Bar 110 (1:56)
++f+ D F +mf+ A +f+ F +mp+ A +f+ F |
+C G +mf+ c +f+ G +mf+ c +f+ G |
++ff+ G, +f+ D +mf+ ^A +f+ D +mf+ A +f+ D |
+^A, F +mf+ ^A +f+ F +mf+ A +f+ F |
+C G +mf+ c +f+ G +mp+ c +f+ G |
+D F A F +mf+ A F |
++ff+ A, +mp+ A +ff+ C +mp+ A +f+ D +mp+ A |
++f+ ^A, F +mf+ ^A +f+ F +mf+ A +f+ F |
++ff+ D +f+ F +mf+ A F A +f+ F |
+C G +mf+ c +f+ G +p+ c +f+ G |
+% Bar 120 (2:06)
++fff+ G, +f+ D +mf+ ^A +f+ D +mp+ A +f+ D |
+^A, F ^A F A F |
+C G +mf+ c +f+ G +mp+ c +f+ G |
+D +mf+ F A +f+ F +mf+ A F |
++ff+ A, +mf+ A +f+ C +mp+ A +ff+ D +mp+ A |
++f+ ^A, +mf+ F ^A +f+ F A +mf+ F |
++f+ D F A F +mp+ A +mf+ F |
++f+ C G +mf+ c +f+ G +mf+ c +f+ G |
++ff+ G, +f+ D ^A D +mf+ A +f+ D |
+^A, F ^A F +mf+ A +f+ F |
+% Bar 130 (2:17)
+C G +mf+ c +f+ G +mf+ c G |
++f+ D F +mf+ A +f+ F +p+ A +f+ F |
++ff+ A, +mp+ A +f+ C +mf+ A +f+ D +mp+ A |
++f+ ^A, F +mf+ ^A +f+ F +mf+ A +f+ F |
+D F +mf+ A +f+ F +mp+ A +f+ F |
+C G c G +mp+ c +f+ G |
+G, D ^A D +mp+ A +f+ D |
+^A, F +mp+ ^A +f+ F +mp+ A +mf+ F |
++f+ C G +mf+ c +f+ G +mf+ c +f+ G |
+D F +mp+ A +mf+ F +f+ A F |
+% Bar 140 (2:28)
++ff+ A, +mf+ A +ff+ C +mf+ A +f+ D +mp+ A |
++f+ ^A, F +mf+ ^A F A +f+ [FA] |
+D F +mp+ A +mf+ F +mp+ A +p+ F |
++f+ C +mf+ G +mp+ c +f+ G +mf+ c G |
++ff+ G, +f+ D +mf+ ^A +f+ D +mf+ A +f+ D |
++ff+ ^A, +f+ F +mf+ ^A +f+ F +mf+ A +f+ F |
+C G +mf+ c +f+ G +mp+ c +f+ G |
+D F +mf+ A +f+ F +mf+ A F |
++ff+ A, +mf+ A +ff+ C +mf+ A +f+ D +mf+ A |
++ff+ ^A, +f+ F +mf+ ^A +f+ F +mf+ A +f+ F |
+% Bar 150 (2:38)
+D F A F A +mf+ F |
++f+ C G +mf+ c +f+ G +mp+ c +mf+ G |
++f+ G, D ^A D +mf+ A +f+ D |
+^A, F ^A F A F |
+C G c G +mp+ c +f+ G |
+D +mf+ F +f+ A F +mf+ A +f+ F |
++fff+ A, +mf+ A +f+ C +mp+ A +f+ D +p+ A |
++ff+ ^A, +f+ F ^A F +mp+ A +f+ F |
+D F A F +mf+ A +f+ F |
+C G c G +mf+ c +f+ G |
+% Bar 160 (2:49)
+G, D ^A D A D |
+^A, F ^A F A F |
+%%Q: 163
+C169/326-
+	%%Q: 157
+	C169/314
+	%%Q: 151
+	G169/302-
+	%%Q: 145
+	G169/290
+	%%Q: 140
+	+mp+ c169/280-
+	%%Q: 134
+	c169/268
+	%%Q: 128
+	+f+ G169/256-
+	%%Q: 125
+	G169/500-
+	%%Q: 123
+	G169/492
+	%%Q: 121
+	+mp+ c169/484-
+	%%Q: 117
+	c13/36-
+	%%Q: 114
+	c169/456-
+	%%Q: 111
+	c169/444
+	%%Q: 109
+	+f+ G169/436-
+	%%Q: 105
+	G169/420-
+	%%Q: 103
+	G169/412-
+	%%Q: 100
+	G169/400
+	%%Q: 163
+	F,169/326- |
+%%Q: 160
+F,169/320-
+	%%Q: 157
+	F,169/314-
+	%%Q: 153
+	F,169/306-
+	%%Q: 148
+	F,169/296-
+	%%Q: 145
+	F,169/290-
+	%%Q: 139
+	F,169/278-
+	%%Q: 136
+	F,169/272-
+	%%Q: 131
+	F,169/262-
+	%%Q: 128
+	F,169/256-
+	%%Q: 125
+	F,169/500-
+	%%Q: 123
+	F,169/492-
+	%%Q: 121
+	F,169/484- F,169/484 |
+%%Q: 120
+z169/60 z169/30 |]
+
+X: 5
+%%Orig filename was Caribbean3Harp.abc
+T: Caribbean Blue (2:54) - Basic Harp
+%%part-name Basic Harp
+C: Enya
+Z: Raymiond of Gladden
+M: 3/4
+Q: 169
+K: C maj
+
++fff+ z6 |
+A,6 |
++f+ ^C6 |
+B,6 |
+^F,6 |
++mf+ A,6 |
++ff+ B,6 |
++f+ ^C6 |
++mf+ ^G,6 |
+% Bar 10 (0:09)
+A,6 |
++f+ ^C6 |
++mf+ B,6 |
++f+ ^F,6 |
++mf+ A,6 |
+B,6 |
++mp+ [E,6E6] |
++mf+ A, +f+ E +mf+ A +f+ E +mp+ A +f+ E |
++mf+ ^C +f+ E +mf+ ^G +f+ E +mp+ G +ff+ E |
++f+ B, ^F +mf+ B +f+ F +p+ B +f+ F |
+% Bar 20 (0:20)
+^F, ^C A +mf+ C +f+ A C |
++mf+ A, +ff+ E +p+ A +f+ E +mf+ A +ff+ E |
++mp+ B, +f+ ^F +mf+ B +f+ F +p+ B +f+ F |
+^C E +mf+ ^G +f+ E +p+ G +f+ E |
+^G, +mf+ ^G +f+ B, +mf+ G ^C G |
++f+ A, E +mf+ A +f+ E +mf+ A +f+ E |
++mf+ ^C E ^G +f+ E +mf+ G +f+ E |
++ff+ B, +f+ ^F B F +mp+ B +f+ F |
++ff+ ^F, +f+ ^C +mf+ A C A +f+ C |
++mf+ A, +f+ E +mf+ A +f+ E +p+ A +f+ E |
+% Bar 30 (0:30)
+B, ^F B +mf+ F +f+ B,2 |
+E,6- |
+E,6 |
+B, ^F +mf+ B +f+ F +mp+ B +f+ F |
+A, +ff+ E +mf+ A +f+ E +mp+ A +f+ E |
+E, +ff+ B, +mf+ ^G +f+ B, G B, |
++ff+ E, B, +mf+ ^G +f+ B, +mf+ G +fff+ B, |
++f+ B, ^F B F +mp+ B +f+ F |
+A, +ff+ E +f+ A E +mf+ A +fff+ E |
++ff+ ^A, +f+ ^F +mf+ ^A +f+ F +mf+ A +f+ F |
+% Bar 40 (0:41)
+^A, ^F ^A F +mf+ A +f+ F |
+B, ^F +p+ B +f+ F +mf+ B +f+ F |
+A, +ff+ E +f+ A +ff+ E +mf+ A +f+ E |
+E, B, +mf+ ^G +ff+ B, +mf+ G +f+ B, |
++ff+ E, B, +mf+ ^G +ff+ B, +f+ G +ff+ B, |
++f+ B, +mf+ ^F +f+ B F +mf+ B +f+ F |
+A, E +mf+ A +f+ E +mp+ A +f+ E |
+^A, +p+ ^F +mp+ ^A +mf+ F +f+ A +mp+ F |
++f+ ^A, ^F +mf+ ^A +f+ F +mf+ A F |
++f+ B, ^F B F B F |
+% Bar 50 (0:52)
+B, ^F B z3 |
++ff+ A, +f+ E A +ff+ E +mf+ A +f+ E |
+^C +ff+ E +f+ ^G +ff+ E +f+ G +ff+ E |
++f+ B, ^F B +ff+ F +f+ B F |
++ff+ ^F, +f+ ^C +mf+ A +f+ C +mp+ A +f+ C |
++ff+ A, +f+ E +mf+ A +f+ E A E |
++mf+ B, +ff+ ^F +f+ B F +mf+ B F |
++f+ ^C E ^G E +mf+ G E |
++fff+ ^G, +mp+ ^G +fff+ B, +mf+ G +ff+ ^C +f+ G |
++fff+ A, +ff+ E +f+ A E +mf+ A +f+ E |
+% Bar 60 (1:02)
+^C E +mf+ ^G +ff+ E +mf+ G +f+ [EG] |
++mf+ B, +f+ ^F +mf+ B +f+ F +p+ B +f+ F |
++ff+ ^F, +f+ ^C +mf+ A +f+ C +mf+ A +f+ C |
++fff+ A, +f+ E A E +mf+ A +f+ E |
+B, ^F +mf+ B +f+ F +fff+ B,2 |
++ff+ E, +f+ B, E +ff+ B, +mp+ E +fff+ B, |
++ff+ A, E +f+ A +ff+ E +mf+ A E |
++f+ ^C E ^G E +mf+ G +f+ E |
++ff+ B, +f+ ^F +mf+ B +f+ F +mf+ B +f+ F |
+^F, ^C A C +mf+ A +f+ C |
+% Bar 70 (1:13)
++ff+ A, +fff+ E +mf+ A +f+ E +mf+ A +ff+ E |
++f+ B, ^F +mf+ B +f+ F +mp+ B +f+ F |
+^C E ^G E +mf+ G +ff+ E |
+^G, +f+ ^G +fff+ B, +mp+ G +ff+ ^C +mf+ G |
++fff+ A, +f+ E +mp+ A +f+ E +p+ A +f+ E |
+^C E +mf+ ^G +f+ E G E |
++fff+ B, +f+ ^F B F +mf+ B +f+ F |
+^F, ^C +mf+ A +f+ C +p+ A +f+ C |
+A, +ff+ E +mf+ A +ff+ E +mf+ A +ff+ E |
+B, +f+ ^F B F +mf+ B +f+ F |
+% Bar 80 (1:24)
++fff+ E, B, +f+ E +fff+ B, +f+ E +ff+ B, |
++f+ E, B, +ff+ E +f+ ^G B +ff+ e |
++f+ F A c +ff+ A +mf+ c +f+ A |
+C E G E G +mf+ E |
++f+ E G B +ff+ G +mf+ B +f+ G |
++ff+ A, E +mp+ A +ff+ E +mf+ A +f+ E |
++ff+ G, +f+ D B D +mf+ B +f+ D |
+D F +mf+ A +ff+ F +f+ A F |
+C +ff+ G +f+ c G c +ff+ G |
+^A, F +mf+ ^A +f+ F +mp+ A +ff+ F |
+% Bar 90 (1:34)
++f+ B, G +mp+ B +f+ G B +ff+ G |
++f+ C G c G +mf+ c +f+ G |
+E G B G +mp+ B +f+ G |
++ff+ A, +f+ E +mf+ A +f+ E +mp+ A +ff+ E |
++f+ G, D +p+ B +f+ D +mf+ B +f+ D |
+D F A F A +ff+ F |
++f+ C G c G +mf+ c +f+ G |
++ff+ B, +f+ G B G +mp+ B +f+ G |
+B, G B G B G |
+C G c G c G |
+% Bar 100 (1:45)
+C G +ff+ c z3 |
+^A, F ^A F +f+ A +ff+ F |
+D +f+ F A F A +ff+ F |
++f+ C G c G +mf+ c +f+ G |
+G, +ff+ D +f+ ^A +ff+ D +mf+ A +f+ D |
++ff+ ^A, F +f+ ^A F +ff+ A +mf+ F |
++ff+ C +f+ G +mf+ c +f+ G +mf+ c +ff+ G |
++f+ D F A F +mf+ A F |
++fff+ A, +mp+ A +fff+ C +f+ A +fff+ D +mf+ A |
++ff+ ^A, F +mf+ ^A +f+ F +p+ A +f+ F |
+% Bar 110 (1:56)
+D F +mf+ A +f+ F +mf+ A +f+ F |
++ff+ C +f+ G +mf+ c +f+ G +mf+ c +f+ G |
++fff+ G, +ff+ D +f+ ^A +ff+ D +mf+ A +f+ D |
++ff+ ^A, +f+ F +mf+ ^A +ff+ F +mf+ A +ff+ F |
+C +f+ G c G +mf+ c +f+ G |
++ff+ D +f+ F A F +mf+ A F |
++fff+ A, +mf+ A +fff+ C +mf+ A +ff+ D +mp+ A |
++ff+ ^A, +f+ F +mf+ ^A +f+ F +mf+ A +f+ F |
++fff+ D +f+ F +mf+ A +f+ F A F |
++ff+ C +f+ G c G +p+ c +ff+ G |
+% Bar 120 (2:06)
++fff+ G, +f+ D ^A +ff+ D +mp+ A +f+ D |
+^A, +ff+ F +f+ ^A F A F |
+C +ff+ G +mf+ c +f+ G +mf+ c +f+ G |
+D F +mf+ A +f+ F +mf+ A F |
++fff+ A, +mf+ A +ff+ C +mf+ A +fff+ D +mf+ A |
++ff+ ^A, +f+ F +mf+ ^A +f+ F A +mf+ F |
++ff+ D +f+ F A F +mp+ A +f+ F |
++ff+ C +f+ G c G +mf+ c +f+ G |
++fff+ G, +ff+ D +f+ ^A +ff+ D +mf+ A +ff+ D |
+^A, F +f+ ^A F A F |
+% Bar 130 (2:17)
+C G +mf+ c +f+ G c +mf+ G |
++f+ D F A F +p+ A +ff+ F |
++fff+ A, +mf+ A +ff+ C +mf+ A +ff+ D +mp+ A |
++f+ ^A, F ^A F +mf+ A +f+ F |
+D F A F +mp+ A +f+ F |
+C G c G +mp+ c +f+ G |
++ff+ G, +f+ D ^A +ff+ D +mf+ A +f+ D |
+^A, F +mf+ ^A +f+ F +mf+ A F |
++f+ C G c G +mf+ c +f+ G |
+D +ff+ F +mf+ A F +f+ A F |
+% Bar 140 (2:28)
++fff+ A, +mf+ A +fff+ C +mf+ A +ff+ D +mp+ A |
++ff+ ^A, +f+ F +mf+ ^A F A +f+ [FA] |
+D F +mf+ A +f+ F +mf+ A +p+ F |
++ff+ C +f+ G +mp+ c +f+ G +mf+ c G |
++fff+ G, +f+ D +mf+ ^A +f+ D +mf+ A +f+ D |
++fff+ ^A, +f+ F ^A F +mf+ A +f+ F |
++ff+ C +f+ G +mf+ c +f+ G +mp+ c +ff+ G |
++f+ D F +mf+ A +f+ F A F |
++fff+ A, +mf+ A +fff+ C +mf+ A +ff+ D +mf+ A |
++fff+ ^A, +ff+ F +f+ ^A F +mf+ A +f+ F |
+% Bar 150 (2:38)
+D +ff+ F +f+ A F A F |
+C G c G +mf+ c +f+ G |
++ff+ G, D +f+ ^A +ff+ D +f+ A D |
++ff+ ^A, +f+ F ^A F +ff+ A +f+ F |
++ff+ C +f+ G c G +mp+ c +ff+ G |
++f+ D F A F +mf+ A +f+ F |
++fff+ A, +mf+ A +ff+ C +mp+ A +ff+ D +p+ A |
++fff+ ^A, +f+ F +ff+ ^A +f+ F +mf+ A +f+ F |
+D F A F +mf+ A +ff+ F |
++f+ C G c G c G |
+% Bar 160 (2:49)
++ff+ G, D +f+ ^A +ff+ D +f+ A D |
++ff+ ^A, F ^A F +f+ A F |
+%%Q: 163
+C169/326-
+	%%Q: 157
+	C169/314
+	%%Q: 151
+	G169/302-
+	%%Q: 145
+	G169/290
+	%%Q: 140
+	+mf+ c169/280-
+	%%Q: 134
+	c169/268
+	%%Q: 128
+	+f+ G169/256-
+	%%Q: 125
+	G169/500-
+	%%Q: 123
+	G169/492
+	%%Q: 121
+	+mf+ c169/484-
+	%%Q: 117
+	c13/36-
+	%%Q: 114
+	c169/456-
+	%%Q: 111
+	c169/444
+	%%Q: 109
+	+ff+ G169/436-
+	%%Q: 105
+	G169/420-
+	%%Q: 103
+	G169/412-
+	%%Q: 100
+	G169/400
+	%%Q: 163
+	F,169/326- |
+%%Q: 160
+F,169/320-
+	%%Q: 157
+	F,169/314-
+	%%Q: 153
+	F,169/306-
+	%%Q: 148
+	F,169/296-
+	%%Q: 145
+	F,169/290-
+	%%Q: 139
+	F,169/278-
+	%%Q: 136
+	F,169/272-
+	%%Q: 131
+	F,169/262-
+	%%Q: 128
+	F,169/256-
+	%%Q: 125
+	F,169/500-
+	%%Q: 123
+	F,169/492-
+	%%Q: 121
+	F,169/484- F,169/484- |
+%%Q: 120
+F,169/40 z169/120 z169/60 |]
+
+X: 8
+%%Orig filename was Caribbean3Lute.abc
+T: Caribbean Blue (2:54) - Basic Lute
+%%part-name Basic Lute
+C: Enya
+Z: Raymiond of Gladden
+M: 3/4
+Q: 169
+K: C maj
+
++fff+ z6 |
+z2 [E2A2] [E2A2] |
+z2 [E2^G2] [E2G2] |
+z2 [^F2B2] [F2B2] |
+z2 +ff+ [^C2A2] +fff+ [C2A2] |
+z2 [E2A2] [E2A2] |
+z2 +ff+ [^F2B2] +fff+ [F2B2] |
+z2 [E2^G2] [E2G2] |
+z2 +ff+ [^D2^G2] +fff+ [D2G2] |
+% Bar 10 (0:09)
+z2 [E2A2] [E2A2] |
+z2 [E2^G2] [E2G2] |
+z2 [^F2B2] [F2B2] |
+z2 [^C2A2] [C2A2] |
+z2 [E2A2] [E2A2] |
+z2 [^D2^F2] [D2F2] |
+[^G6B6] |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:20)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:30)
+z6 |
++ff+ e +fff+ E +ff+ ^G +fff+ B +ff+ e E |
++fff+ ^G B e ^g b e |
+^d6 |
+^c6 |
++ff+ B6- |
+B6 |
++fff+ ^d6 |
+^c6 |
+^c6- |
+% Bar 40 (0:41)
+^c6 |
+^d6 |
+e4 ^d2 |
++ff+ e6- |
+e2 ^f2 +fff+ e2 |
+^d6 |
+e6 |
+^c6- |
+^c2 ^d2 +ff+ e2 |
+^d6- |
+% Bar 50 (0:52)
+^d3 z3 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (1:02)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 70 (1:13)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 80 (1:24)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 90 (1:34)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 100 (1:45)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 110 (1:56)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 120 (2:06)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 130 (2:17)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 140 (2:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 150 (2:38)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 160 (2:49)
+z6 |
+z6 |
+%%Q: 163
+z169/326
+	%%Q: 157
+	z169/314
+	%%Q: 151
+	z169/302
+	%%Q: 145
+	z169/290
+	%%Q: 140
+	z169/280
+	%%Q: 134
+	z169/268
+	%%Q: 128
+	z169/256
+	%%Q: 125
+	z169/500
+	%%Q: 123
+	z169/492
+	%%Q: 121
+	z169/484
+	%%Q: 117
+	z13/36
+	%%Q: 114
+	z169/456
+	%%Q: 111
+	z169/444
+	%%Q: 109
+	z169/436
+	%%Q: 105
+	z169/420
+	%%Q: 103
+	z169/412
+	%%Q: 100
+	z169/400
+	%%Q: 163
+	z169/326 |
+%%Q: 160
+z169/320
+	%%Q: 157
+	z169/314
+	%%Q: 153
+	z169/306
+	%%Q: 148
+	z169/296
+	%%Q: 145
+	z169/290
+	%%Q: 139
+	z169/278
+	%%Q: 136
+	z169/272
+	%%Q: 131
+	z169/262
+	%%Q: 128
+	z169/256
+	%%Q: 125
+	z169/500
+	%%Q: 123
+	z169/492
+	%%Q: 121
+	z169/484 z169/484 |
+%%Q: 120
+z169/60 z169/30 |]
+
+X: 6
+%%Orig filename was Caribbean3Misty.abc
+T: Caribbean Blue (2:54) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: Enya
+Z: Raymiond of Gladden
+M: 3/4
+Q: 169
+K: C maj
+
++fff+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:09)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:20)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:30)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (0:41)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (0:52)
+z6 |
+A6 |
+^c6 |
+B6 |
+^F6 |
+A6 |
+B6 |
+^c6 |
+^G6 |
+A6 |
+% Bar 60 (1:02)
+^c6 |
+B6 |
+^F6 |
+A6 |
+B6 |
+[E6e6] |
+A6 |
+^c6 |
+B6 |
+^F6 |
+% Bar 70 (1:13)
+A6 |
+B6 |
+^c6 |
+^G2 B2 ^c2 |
+A6 |
+^c6 |
+B6 |
+^F6 |
+A6 |
+B6 |
+% Bar 80 (1:24)
+E6- |
+E6 |
+f6 |
+c6 |
+e6 |
+A6 |
+G6 |
+d6 |
+c6 |
+^A6 |
+% Bar 90 (1:34)
+B6 |
+c6 |
+e6 |
+A6 |
+G6 |
+d6 |
+c6 |
+B6 |
+B6 |
+c6 |
+% Bar 100 (1:45)
+c2 z2 z2 |
+^A6 |
+d6 |
+c6 |
+G6 |
+^A6 |
+c6 |
+d6 |
+A2 c2 d2 |
+^A6 |
+% Bar 110 (1:56)
+d6 |
+c6 |
+G6 |
+^A6 |
+c6 |
+d6 |
+A2 c2 d2 |
+^A6 |
+d6 |
+c6 |
+% Bar 120 (2:06)
+G6 |
+^A6 |
+c6 |
+d6 |
+A2 c2 d2 |
+^A6 |
+d6 |
+c6 |
+G6 |
+^A6 |
+% Bar 130 (2:17)
+c6 |
+d6- |
+d6 |
+^A6 |
+d6 |
+c6 |
+G6 |
+^A6 |
+c6 |
+d6 |
+% Bar 140 (2:28)
+A2 c2 d2 |
+^A6 |
+d6 |
+c6 |
+G6 |
+^A6 |
+c6 |
+d6 |
+A2 c2 d2 |
+^A6 |
+% Bar 150 (2:38)
+d6 |
+c6 |
+G6 |
+^A6 |
+c6 |
+d6 |
+A2 c2 d2 |
+^A6 |
+d6 |
+c6 |
+% Bar 160 (2:49)
+G6 |
+^A6 |
+%%Q: 163
+c169/326-
+	%%Q: 157
+	c169/314-
+	%%Q: 151
+	c169/302-
+	%%Q: 145
+	c169/290-
+	%%Q: 140
+	c169/280-
+	%%Q: 134
+	c169/268-
+	%%Q: 128
+	c169/256-
+	%%Q: 125
+	c169/500-
+	%%Q: 123
+	c169/492-
+	%%Q: 121
+	c169/484-
+	%%Q: 117
+	c13/36-
+	%%Q: 114
+	c169/456-
+	%%Q: 111
+	c169/444-
+	%%Q: 109
+	c169/436-
+	%%Q: 105
+	c169/420-
+	%%Q: 103
+	c169/412-
+	%%Q: 100
+	c169/400
+	%%Q: 163
+	F169/326- |
+%%Q: 160
+F169/320-
+	%%Q: 157
+	F169/314-
+	%%Q: 153
+	F169/306-
+	%%Q: 148
+	F169/296-
+	%%Q: 145
+	F169/290-
+	%%Q: 139
+	F169/278-
+	%%Q: 136
+	F169/272-
+	%%Q: 131
+	F169/262-
+	%%Q: 128
+	F169/256-
+	%%Q: 125
+	F169/500-
+	%%Q: 123
+	F169/492-
+	%%Q: 121
+	F169/484- F169/484- |
+%%Q: 120
+F169/40 z169/120 z169/60 |]
+
+X: 18
+%%Orig filename was Caribbean3Pipes.abc
+T: Caribbean Blue (2:54) - Basic Bagpipe (OPT)
+%%part-name Basic Bagpipe (OPT)
+C: Enya
+Z: Raymiond of Gladden
+M: 3/4
+Q: 169
+K: C maj
+
++mp+ z6 |
+z2 [E,2A,2] [E,2A,2] |
+z2 [E,2^G,2] [E,2G,2] |
+z2 [^F,2B,2] [F,2B,2] |
+z2 +p+ [^C,2A,2] +mp+ [C,2A,2] |
+z2 [E,2A,2] [E,2A,2] |
+z2 +p+ [^F,2B,2] +mp+ [F,2B,2] |
+z2 [E,2^G,2] [E,2G,2] |
+z2 +p+ [^D,2^G,2] +mp+ [D,2G,2] |
+% Bar 10 (0:09)
+z2 [E,2A,2] [E,2A,2] |
+z2 [E,2^G,2] [E,2G,2] |
+z2 [^F,2B,2] [F,2B,2] |
+z2 [^C,2A,2] [C,2A,2] |
+z2 [E,2A,2] [E,2A,2] |
+z2 [^D,2^F,2] [D,2F,2] |
+[^G,6B,6] |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:20)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:30)
+z6 |
++p+ E +mp+ E, +p+ ^G, +mp+ B, +p+ E E, |
++mp+ ^G, B, E ^G B e |
+^D6 |
+^C6 |
++p+ B,6- |
+B,6 |
++mp+ ^D6 |
+^C6 |
+^C6- |
+% Bar 40 (0:41)
+^C6 |
+^D6 |
+E4 ^D2 |
++p+ E6- |
+E2 ^F2 +mp+ E2 |
+^D6 |
+E6 |
+^C6- |
+^C2 ^D2 +p+ E2 |
+^D6- |
+% Bar 50 (0:52)
+^D3 z3 |
++mp+ A,6 |
+^C6 |
++p+ B,6 |
+^F,6 |
++mp+ A,6 |
+B,6 |
+^C6 |
+^G,6 |
+A,6 |
+% Bar 60 (1:02)
+^C6 |
+B,6 |
++p+ ^F,6 |
++mp+ A,6 |
+B,6 |
++p+ [E,6E6] |
++mp+ A,6 |
+^C6 |
++p+ B,6 |
+^F,6 |
+% Bar 70 (1:13)
+A,6 |
+B,6 |
++mp+ ^C6 |
++p+ ^G,2 +mp+ B,2 ^C2 |
+A,6 |
+^C6 |
++pp+ B,6 |
++p+ ^F,6 |
++mp+ A,6 |
++p+ B,6 |
+% Bar 80 (1:24)
++mp+ E,6- |
+E,6 |
++p+ F6 |
+C6 |
++mp+ E6 |
+A,6 |
+G,6 |
+D6 |
+C6 |
+^A,6 |
+% Bar 90 (1:34)
+B,6 |
++p+ C6 |
++mp+ E6 |
+A,6 |
+G,6 |
++p+ D6 |
++mp+ C6 |
+B,6 |
+B,6 |
+C6 |
+% Bar 100 (1:45)
++p+ C2 z2 z2 |
+^A,6 |
++mp+ D6 |
++p+ C6 |
++mp+ G,6 |
+^A,6 |
+C6 |
++pp+ D6 |
++mp+ A,2 +p+ C2 +mp+ D2 |
++p+ ^A,6 |
+% Bar 110 (1:56)
++mp+ D6 |
+C6 |
+G,6 |
+^A,6 |
++p+ C6 |
++mp+ D6 |
+A,2 +p+ C2 +mp+ D2 |
++p+ ^A,6 |
++mp+ D6 |
++p+ C6 |
+% Bar 120 (2:06)
++mp+ G,6 |
++p+ ^A,6 |
++mp+ C6 |
++p+ D6 |
++mp+ A,2 C2 D2 |
++p+ ^A,6 |
++mp+ D6 |
+C6 |
++p+ G,6 |
++mp+ ^A,6 |
+% Bar 130 (2:17)
+C6 |
++p+ D6- |
+D6 |
+^A,6 |
++mp+ D6 |
+C6 |
++p+ G,6 |
+^A,6 |
++pp+ C6 |
++mp+ D6 |
+% Bar 140 (2:28)
+A,2 C2 D2 |
++p+ ^A,6 |
++mp+ D6 |
++p+ C6 |
+G,6 |
+^A,6 |
++pp+ C6 |
++mp+ D6 |
+A,2 +p+ C2 +mp+ D2 |
++p+ ^A,6 |
+% Bar 150 (2:38)
++mp+ D6 |
+C6 |
+G,6 |
+^A,6 |
+C6 |
+D6 |
+A,2 +p+ C2 +mp+ D2 |
+^A,6 |
+D6 |
+C6 |
+% Bar 160 (2:49)
+G,6 |
+^A,6 |
+%%Q: 163
+C169/326-
+	%%Q: 157
+	C169/314-
+	%%Q: 151
+	C169/302-
+	%%Q: 145
+	C169/290-
+	%%Q: 140
+	C169/280-
+	%%Q: 134
+	C169/268-
+	%%Q: 128
+	C169/256-
+	%%Q: 125
+	C169/500-
+	%%Q: 123
+	C169/492-
+	%%Q: 121
+	C169/484-
+	%%Q: 117
+	C13/36-
+	%%Q: 114
+	C169/456-
+	%%Q: 111
+	C169/444-
+	%%Q: 109
+	C169/436-
+	%%Q: 105
+	C169/420-
+	%%Q: 103
+	C169/412-
+	%%Q: 100
+	C169/400
+	%%Q: 163
+	F,169/326- |
+%%Q: 160
+F,169/320-
+	%%Q: 157
+	F,169/314-
+	%%Q: 153
+	F,169/306-
+	%%Q: 148
+	F,169/296-
+	%%Q: 145
+	F,169/290-
+	%%Q: 139
+	F,169/278-
+	%%Q: 136
+	F,169/272-
+	%%Q: 131
+	F,169/262-
+	%%Q: 128
+	F,169/256-
+	%%Q: 125
+	F,169/500-
+	%%Q: 123
+	F,169/492-
+	%%Q: 121
+	F,169/484- F,169/484- |
+%%Q: 120
+F,169/40 z169/120 z169/60 |]
+
+X: 13
+%%Orig filename was Caribbean3Sprightly.abc
+T: Caribbean Blue (2:54) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+C: Enya
+Z: Raymiond of Gladden
+M: 3/4
+Q: 169
+K: C maj
+
++pp+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:09)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:20)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:30)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (0:41)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (0:52)
+z6 |
+z2 E2 +p+ [E2A2] |
+z2 [E2^G2] [E2G2] |
+z2 +pp+ [^F2B2] +p+ [F2B2] |
+z2 [^C2A2] +pp+ [C2A2] |
+z2 +p+ [E2A2] [E2A2] |
+z2 [^F2B2] [F2B2] |
+z2 [E2^G2] [E2G2] |
+z2 +pp+ [^D2^G2] +p+ [D2G2] |
+z2 [E2A2] [E2A2] |
+% Bar 60 (1:02)
+z2 [E2^G2] [E2G2] |
+z2 [^F2B2] [F2B2] |
+z2 [^C2A2] [C2A2] |
+z2 [E2A2] [E2A2] |
+z2 +pp+ [^D2^F2] [D2F2] |
+[^D2^F2] +p+ [^G2-B2-] [G2-B2-] |
+[^G2B2] [E2A2] [E2A2] |
+z2 +pp+ [E2^G2] [E2G2] |
+z2 [^F2B2] [F2B2] |
+z2 [^C2A2] +p+ [C2A2] |
+% Bar 70 (1:13)
+z2 +pp+ [E2A2] [E2A2] |
+z2 [^F2B2] [F2B2] |
+z2 +p+ [E2^G2] [E2G2] |
+z2 +pp+ [^D2^G2] [D2G2] |
+z2 [E2A2] [E2A2] |
+z2 [E2^G2] +p+ [E2G2] |
+z2 [^F2B2] +pp+ [F2B2] |
+z2 [^C2A2] [C2A2] |
+z2 [E2A2] [E2A2] |
+z2 [^D2^F2] +ppp+ [D2F2] |
+% Bar 80 (1:24)
++pp+ [^G6B6] |
+z6 |
+z2 [A2c2] +p+ [A2c2] |
+z2 +pp+ [G2c2] +p+ [G2c2] |
+z2 +pp+ [G2e2] +p+ [G2e2] |
+z2 [A2c2] +pp+ [A2c2] |
+z2 [G2B2] +p+ [G2B2] |
+z2 +pp+ [A2d2] [A2d2] |
+z2 +p+ [G2c2] +pp+ [G2c2] |
+z2 [F2^A2] [F2A2] |
+% Bar 90 (1:34)
+z2 +p+ [G2B2] [G2B2] |
+z2 +pp+ [G2c2] +p+ [G2c2] |
+z2 +pp+ [G2e2] +p+ [G2e2] |
+z2 [A2e2] [A2e2] |
+z2 +pp+ [G2d2] +p+ [G2d2] |
+z2 [A2d2] +pp+ [A2d2] |
+z2 +p+ [G2e2] +pp+ [G2e2] |
+z2 +p+ [G2d2] [G2d2] |
+z2 [G2d2] [G2d2] |
+z2 [G2e2] +pp+ [G2e2] |
+% Bar 100 (1:45)
+[G2e2] z2 z2 |
+z2 [^A2f2] +p+ [A2f2] |
+z2 +ppp+ [A2f2] +p+ [A2f2] |
+z2 [c2f2] [c2e2] |
+z2 [G2d2] [G2d2] |
+z2 [^A2f2] [A2f2] |
+z2 [c2e2] [c2e2] |
+z2 [A2d2] [A2d2] |
+z2 +pp+ [A2e2] +p+ [A2e2] |
+z2 [^A2f2] [A2f2] |
+% Bar 110 (1:56)
+z2 [d2f2] +pp+ [A2f2] |
+z2 +p+ [c2f2] z2 |
+z2 [G2d2] [G2d2] |
+z2 [^A2d2] [A2d2] |
+z2 +pp+ [G2e2] [G2e2] |
+z2 +p+ [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] |
+z2 [^A2d2] [A2d2] |
+z2 +pp+ [A2d2] +p+ [A2d2] |
+z2 [G2c2] [G2c2] |
+% Bar 120 (2:06)
+z2 +pp+ [G2d2] +p+ [G2d2] |
+z2 +ppp+ [^A2f2] [A2f2] |
+z2 +pp+ [c2e2] +p+ [c2e2] |
+z2 +pp+ [A2d2] +p+ [A2d2] |
+z2 +pp+ [A2c2] [A2c2] |
+z2 [^A2f2] [A2f2] |
+z2 +p+ [d2f2] [d2f2] |
+z2 +pp+ [c2f2] +p+ [c2e2] |
+z2 +pp+ [G2d2] [G2d2] |
+z2 +p+ [^A2f2] [A2f2] |
+% Bar 130 (2:17)
+z2 [c2f2] +pp+ [c2e2] |
+z2 [A2d2] [A2d2] |
+z2 +p+ [A2d2] [A2d2] |
+z2 [^A2d2] [A2d2] |
+z2 +pp+ [A2d2] +p+ [A2d2] |
+z2 [G2c2] [G2c2] |
+z2 +pp+ [G2d2] +p+ [G2d2] |
+z2 +ppp+ [^A2f2] [A2f2] |
+z2 +pp+ [c2e2] +p+ [c2e2] |
+z2 +pp+ [A2d2] +p+ [A2d2] |
+% Bar 140 (2:28)
+z2 +pp+ [A2c2] [A2c2] |
+z2 [^A2f2] [A2f2] |
+z2 +p+ [d2f2] [d2f2] |
+z2 +pp+ [c2f2] +p+ [c2e2] |
+z2 +pp+ [G2d2] [G2d2] |
+z2 +p+ [^A2f2] [A2f2] |
+z2 [c2f2] +pp+ [c2e2] |
+z2 [A2d2] [A2d2] |
+z2 +p+ [A2d2] [A2d2] |
+z2 [^A2d2] [A2d2] |
+% Bar 150 (2:38)
+z2 +pp+ [A2d2] +p+ [A2d2] |
+z2 [G2c2] [G2c2] |
+z2 +pp+ [G2d2] +p+ [G2d2] |
+z2 +ppp+ [^A2f2] [A2f2] |
+z2 +pp+ [c2e2] +p+ [c2e2] |
+z2 +pp+ [A2d2] +p+ [A2d2] |
+z2 +pp+ [A2c2] [A2c2] |
+z2 [^A2f2] [A2f2] |
+z2 +p+ [d2f2] [d2f2] |
+z2 +pp+ [c2f2] +p+ [c2e2] |
+% Bar 160 (2:49)
+z2 +pp+ [G2d2] [G2d2] |
+z2 +p+ [^A2f2] [A2f2] |
+%%Q: 163
+z169/326
+	%%Q: 157
+	z169/314
+	%%Q: 151
+	z169/302
+	%%Q: 145
+	z169/290
+	%%Q: 140
+	[c169/280-f169/280-]
+	%%Q: 134
+	[c169/268-f169/268-]
+	%%Q: 128
+	[c169/256-f169/256-]
+	%%Q: 125
+	[c169/500-f169/500-]
+	%%Q: 123
+	[c169/492f169/492]
+	%%Q: 121
+	+pp+ [c169/484-e169/484-]
+	%%Q: 117
+	[c13/36-e13/36-]
+	%%Q: 114
+	[c169/456-e169/456-]
+	%%Q: 111
+	[c169/444-e169/444-]
+	%%Q: 109
+	[c169/436-e169/436-]
+	%%Q: 105
+	[c169/420-e169/420-]
+	%%Q: 103
+	[c169/412-e169/412-]
+	%%Q: 100
+	[c169/400e169/400]
+	%%Q: 163
+	+p+ A,169/326- |
+%%Q: 160
+A,169/320-
+	%%Q: 157
+	+pp+ [A,169/314-C169/314-]
+	%%Q: 153
+	[A,169/306-C169/306-]
+	%%Q: 148
+	+p+ [A,169/296-C169/296-F169/296-]
+	%%Q: 145
+	[A,169/290-C169/290-F169/290-]
+	%%Q: 139
+	[A,169/278-C169/278-F169/278-A169/278-]
+	%%Q: 136
+	[A,169/272-C169/272-F169/272-A169/272-c169/272-]
+	%%Q: 131
+	[A,169/262-C169/262-F169/262-A169/262-c169/262-]
+	%%Q: 128
+	[A,169/256-C169/256-F169/256-A169/256-c169/256-f169/256-]
+	%%Q: 125
+	[A,169/500-C169/500-F169/500-A169/500-c169/500-f169/500-]
+	%%Q: 123
+	[A,169/492-C169/492-F169/492-A169/492-c169/492-f169/492-]
+	%%Q: 121
+	[A,169/484-C169/484-F169/484-A169/484-c169/484-f169/484-] [A,169/484-C169/484-F169/484-A169/484-c169/484-f169/484-] |
+%%Q: 120
+[A,169/60-C169/60-F169/60-A169/60-c169/60-f169/60-] [A,169/120C169/120F169/120A169/120c169/120f169/120-] f169/480 z1859/480 |]
+

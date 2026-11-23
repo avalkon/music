@@ -1,0 +1,398 @@
+N: TS  6,   9   8  10   5  21   6
+X: 9
+%%Orig filename was GurengeAges.abc
+T: Gurenge (multi-6) (1:28) - Lute of Ages
+%%part-name Lute of Ages
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 135
+K: C maj
+
++ff+ z3 [C3/2c3/2] G3/2 [c2-e2-] |
+[c3e3] [D3/2d3/2] A3/2 [d2-^f2-] |
+[d3^f3] E3/2 B3/2 [e2-g2-] |
+[e3g3] [D3/2d3/2] A3/2 [d2-^f2-] |
+[d3^f3] [C3/2c3/2] [C3/2c3/2] [g2-b2-] |
+[g3b3] [D5-A5-d5-] |
+[D3A3d3] z5 |
+z8 |
+z8 |
+% Bar 10 (0:15)
+z8 |
+z3 e3/2 d3/2 e3/2 d/- |
+d e2 b3/2 a3/2 b3/2 a/- |
+a b/ b/ b/ b/ e3/2 d3/2 e3/2 d/- |
+d [e7-a7-c'7-] |
+[eac'] z2 e- [d/-e/] [d/e/-g/-] [e/g/-a/-] [d/-g/a/] [d3/2-^f3/2-] [d/e/-f/] |
+[d/e/a/-] [d/-a/] [d/e/-^f/-] [e/f/-] [d/-f/b/-] [d/-a/-b/] [d/f/-a/] [d/-f/] [d2a2] [d/a/-] [d/a/] [e/-g/-b/-] [e/-f/g/a/b/] |
+[e/-g/-b/-] [e/-^f/g/a/b/] [e-g-b-] [e/-g/a/b/c'/] [e3/2g3/2b3/2] [e2-g2-] [G,/-e/-g/-] [G,/C/-e/-g/-] [C/E/-e/-g/-] [E/G/-e/-g/-] |
+[G/c/-e/g/-] [c/e/-g/] [e/-g/-] [e/g/c'/-] [e/-c'/] e/ [d/-^f/-a/b/-] [d/f/g/b/-] [d/-f/b/-] [d/-f/-a/b/-] [d/f/g/b/-] [d/f/-b/-] [dfgb] [a/b/-] [a/-b/] |
+[^f/-a/-] [d/-f/a/] [d/a/-] a/- [g/-a/] g/ g/- [g/b/-] [d/-b/] [d/f/-] [f/a/-] a/- [g/-a/] [g/b/-] [d/-b/] [d/f/-] |
+% Bar 20 (0:33)
+[^f/a/-] a/- [a/b/-] [d/-b/] [d/f/-] [f/a/] [d4-f4-a4-] [d/-f/-a/-b/-] [d/f/-g/-a/-b/] |
+[d/-^f/-g/a/-] [d/-f/-a/-b/-] [d/-f/-g/-a/-b/] [d/-f/-g/-a/-] [d/-f/-g/a/-b/-] [d/f/g/-a/b/] [d/-g/] [d/b/-] [g/-b/] g/ g/- [d/-g/] [d/b/-] [g/-b/] [g/a/-]
+	[d/-a/] |
+[d/^f/-] f/ [d7g7b7] |
+z2 [e-g-c'-] [d/-e/g/-c'/-] [d/e/-g/-c'/-] [e/-g/-a/-c'/-] [d/-e/-g/-a/c'/-] [d3/2-e3/2g3/2-c'3/2-] [d/e/-g/-c'/-] [e/-g/-a/-c'/-] [d/-e/-g/-a/c'/-] |
+[d/e/-^f/-g/-c'/-] [e/-f/-g/-c'/-] [e/-f/g/-b/-c'/-] [e/g/a/-b/c'/] [f/-a/] [d/-f/] [d/a/-] a3/2 a [e2-g2-b2-] |
+[e3g3b3] z2 G,/- [G,/C/-] [C/E/-] [E/G/-] [G/c/-] [c/e/-] |
+[e/g/-] [g/c'/-] [e/-c'/] e/ [d-^fgb-] [d/-f/-a/b/-] [d/f/g/b/-] [d/-f/b/-] [d/-f/-a/b/-] [d/f/g/b/-] [d/f/-b/-] [d-f-gb-] [dfa-b] |
+[g/-a/-] [g/a/-b/-] [e/-a/-b/] [e/^f/-a/-] [f/g/-a/] [g/a/-] [C3/2c3/2a3/2-] [G/-a/] G [c2-e2-] |
+[c3e3] [D3/2d3/2] A3/2 [d2-^f2-] |
+[d3^f3] E3/2 B3/2 [e2-g2-] |
+% Bar 30 (0:51)
+[e3g3] [D3/2d3/2] A3/2 [d2-^f2-] |
+[d3^f3] [C3/2c3/2] [C3/2c3/2] [g2-b2-] |
+[g3b3] [D5-A5-d5-] |
+[D3A3d3] z5 |
+z4 z d2 d- |
+d b2 a b d b a |
+b/ b3/2 g a b d b a |
+b/ b3/2 d d g/ g3/2 d d |
+g a g d2 c'2 [e/b/] a/ |
+[d/g/] [e/a/] g/ [d/^f/] a [d3g3] g2 |
+% Bar 40 (1:09)
+a b a3 a a2 |
+b d b2- b2- b/ z3/2 |
+z4 z3 d/ e/ |
+^f/ g/ a2 a b d b a |
+b/ b3/2 g/ g/ a b d b a |
+b/ g3/2 g g3/2 a3/2 b2 |
+b g ^f3 d2 [e/b/] a/ |
+[d/g/] [e/a/] g/ [d/^f/] a [d3g3] g2 |
+a b a2- a2 a a- |
+a b7 |
+% Bar 50 (1:27)
+z8 |]
+
+X: 8
+%%Orig filename was GurengeBass.abc
+T: Gurenge (multi-6) (1:28) - Basic Theorbo
+%%part-name Basic Theorbo
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 135
+K: C maj
+
++ff+ z8 |
+[c/e/g/] [c/e/g/] [c/e/g/] [c/e/g/] [c/e/g/] [ceg] z9/2 |
+[c/e/g/] [c/e/g/] [c/e/g/] [c/e/g/] [c/e/g/] [ceg] z9/2 |
+z8 |
+z8 |
+z8 |
+z3 E E E E/ E E/ |
+E E E G, G, G, G,/ G, G,/ |
+G, G, G, A, A, A, A,/ A, A,/ |
+% Bar 10 (0:15)
+A, A, A, G, G, G, G,/ G, G,/ |
+G, G, G, E E E E/ E E/ |
+E E E G, G, G, G,/ G, G,/ |
+G, G, G, A, A, A, A,/ A, A,/ |
+A, A, A, G, G, G, G,/ G, G,/ |
+G, G, G, E E E E/ E E/ |
+E E E G, G, G, G,/ G, G,/ |
+G, G, G, A, A, A, A,/ A, A,/ |
+A, A, A, G, G, G, G,/ G, G,/ |
+G, G, G, E E E E/ E E/ |
+% Bar 20 (0:33)
+E E E G, G, G, G,/ G, G,/ |
+G, G, G, A, A, A, A,/ A, A,/ |
+A, A, A, G, G, G, G,/ G, G,/ |
+G, G, G, E E E E/ E E/ |
+E E E G, G, G, G,/ G, G,/ |
+G, G, G, A, A, A, A,/ A, A,/ |
+A, A, A, G, G, G, G,/ G, G,/ |
+G, G, G, E3/2 E3/2 E E- |
+E/ E3/2 E G,3/2 G,3/2 G, G,- |
+G,/ G,3/2 G, A,3/2 A,3/2 A, A,- |
+% Bar 30 (0:51)
+A,/ A,3/2 A, G,3/2 G,3/2 G, G,- |
+G,/ G,3/2 G, E3/2 E3/2 E E- |
+E/ E3/2 E G,3/2 G,3/2 G, G,- |
+G,/ G,3/2 G, A,- [A,/e/-] [A,/-e/] [A,e] [A,e] [A,-e] |
+[A,/^f/-] [A,/-f/] [A,g] [A,a] z5 |
+z3 D, D, D, D,/ D, D,/ |
+D, D, D, E, E, E, E,/ E, E,/ |
+E, E, E, B, B, B, B,/ B, B,/ |
+B, B, B, G, G, G, G,/ G, G,/ |
+G, G, G, C, C, C, C,/ C, C,/ |
+% Bar 40 (1:09)
+C, C, C, D, D, D, D,/ D, D,/ |
+D, D, D, z5 |
+z8 |
+z3 D, D, D, D,/ D, D,/ |
+D, D, D, E, E, E, E,/ E, E,/ |
+E, E, E, B, B, B, B,/ B, B,/ |
+B, B, B, G, G, G, G,/ G, G,/ |
+G, G, G, C, C, C, C,/ C, C,/ |
+C, C, C, z5 |
+z8 |
+% Bar 50 (1:27)
+z8 |]
+
+X: 10
+%%Orig filename was GurengeDrums.abc
+T: Gurenge (multi-6) (1:28) - Basic Drum
+%%part-name Basic Drum
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 135
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 [A/^A/c/] z A/ [E/=A/] z/ ^A/ z/ =A/ E/ |
+^A/ z/ [E/=A/] z3/2 [A/^A/c/] z A/ [E/=A/] z/ ^A/ z/ =A/ E/ |
+^A/ z/ [E/=A/] z3/2 [A/^A/c/] z A/ [E/=A/] z/ ^A/ z/ =A/ E/ |
+% Bar 10 (0:15)
+^A/ z/ [E/=A/] z3/2 [E/^F/A/] z/ ^A/ [E/F/] [=A/^A/] z/ E/ E/ [E/=A/] E/ |
+E/ E/ [A/^A/c/] z3/2 [=A/^A/c/] z/ A/ z/ [E/F/] z/ A/ z [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ z/ E/ E/ |
+^A/ z/ [E/F/] z/ A/ E/ E/ z/ A/ z/ [E/F/] z/ A/ z [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z/ E/ E/ A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+% Bar 20 (0:33)
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z E/ [E/A/] z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z3/2 A/ z/ A/ z/ [E/F/] z/ A/ [E/F/] A/ [E/F/] |
+^A/ z/ [E/F/] z/ [E/^F/] z/ [E/F/] B,/ a/ [E/F/] B,/ a/ [E/F/] a/ [E/F/] z/ |
+^A/ A/ [E/^F/=A/c/] z/ E/ E/ ^A/ z5/2 A/ z/ ^D/ z/ |
+z3 ^A/ z5/2 A/ z/ ^D/ z/ |
+z3 ^A/ z5/2 A/ z/ ^D/ z/ |
+% Bar 30 (0:51)
+z3 ^A/ z5/2 A/ z/ ^D/ z/ |
+z3 [E/^F/] z3/2 [E/F/] z3/2 [E/F/] z/ |
+z [E/^F/] z3/2 [E/F/] z3/2 [E/F/] z3/2 [E/F/] z/ |
+z [E/^F/] z3/2 [E/F/] z/ [E/F/] z/ [E/F/] z/ [E/F/] z/ [E/F/] z/ |
+[E/^F/] z/ [E/F/] z/ [E/F/] z11/2 |
+z3 [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ E/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ F/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+% Bar 40 (1:09)
+^A/ z/ [E/=A/c/] z/ ^F/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ z/ [A/^A/c/] z/ ^d/ B,/ [=A/a/] ^C/ E/ ^A/ E/ A/ |
+E/ z/ [A/^A/c/] z/ [=A/^A/c/] z/ G,/ ^d/ B,/ a/ [E/^F/] z/ [E/F/] z/ A,/ G,/ |
+^d/ B,/ [A/^A/c/] z3/2 [=A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [^C,/E/=A/] z/ ^F/ z/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ ^A/ E/ [=A/^A/] E/ |
+^A/ z/ [E/=A/c/] z/ ^F/ F/ [A/^A/c/] z/ A/ z/ [E/=A/c/] z/ B,/ E/ a/ E/ |
+^C/ z/ E/ z/ ^A/ A/ [E/=A/c/] z9/2 |
+z3 [E/A/c/] z/ B,/ a/ ^C/ z/ [E/A/c/] z/ ^d/ B,/ |
+% Bar 50 (1:27)
+a/ ^C/ [E/A/c/] z/ [E/A/c/] z11/2 |]
+
+X: 5
+%%Orig filename was GurengeHarp.abc
+T: Gurenge (multi-6) (1:28) - Basic Harp
+%%part-name Basic Harp
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 135
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 [E5-G5-B5-] |
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+% Bar 10 (0:15)
+[A,3C3E3] [G,5-B,5-D5-] |
+[G,3B,3D3] [E5-G5-B5-] |
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+[A,3C3E3] [G,5-B,5-D5-] |
+[G,3B,3D3] [E5-G5-B5-] |
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+[A,3C3E3] [G,5-B,5-D5-] |
+[G,3B,3D3] [E5-G5-B5-] |
+% Bar 20 (0:33)
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+[A,3C3E3] [G,5-B,5-D5-] |
+[G,3B,3D3] [E5-G5-B5-] |
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+[A,3C3E3] [G,5-B,5-D5-] |
+[G,3B,3D3] [E5-G5-B5-] |
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+% Bar 30 (0:51)
+[A,3C3E3] [G,5-B,5-D5-] |
+[G,3B,3D3] [E5-G5-B5-] |
+[E3G3B3] [G,5-B,5-D5-] |
+[G,3B,3D3] [A,5-C5-E5-] |
+[A,3C3E3] z5 |
+z3 e3/2 d3/2 e3/2 d/- |
+d e2 e3/2 d3/2 e3/2 d/- |
+d e/ e/ e/ e/ e3/2 d3/2 e3/2 d/- |
+d e2 e3/2 d3/2 e3/2 d/- |
+d e/ e/ e/ e/ e3/2 d3/2 e3/2 d/- |
+% Bar 40 (1:09)
+d e2 e3/2 d3/2 e3/2 d/- |
+d e/ e/ e/ e/ z5 |
+z8 |
+z3 e3/2 d3/2 e3/2 d/- |
+d e2 e3/2 d3/2 e3/2 d/- |
+d e/ e/ e/ e/ e3/2 d3/2 e3/2 d/- |
+d e2 e3/2 d3/2 e3/2 d/- |
+d e/ e/ e/ e/ e3/2 d3/2 e3/2 d/- |
+d e5 z2 |
+z8 |
+% Bar 50 (1:27)
+z8 |]
+
+X: 21
+%%Orig filename was GurengeLute.abc
+T: Gurenge (multi-6) (1:28) - Basic Lute
+%%part-name Basic Lute
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 135
+K: C maj
+
++ff+ z3 g3/2 ^f3/2 g2- |
+g3 g3/2 ^f3/2 g2- |
+g2 a g3/2 ^f3/2 e2- |
+e d d2- d4 |
+[g2b2] [db] [e5c'5] |
+[e2c'2] [eg] [^f5a5] |
+[e2g2] [^fa] [g5-b5-] |
+[g3b3] z5 |
+z8 |
+% Bar 10 (0:15)
+z8 |
+z3 e3/2 g3/2 ^f2 |
+d e d2- d3 [^f/a/] [f/a/] |
+[^f/a/] [e/g/] [fa] [ac'] [g3/2b3/2] [c7/2-e7/2-] |
+[c4e4] e g/ a b3/2 |
+a b d e3/2 g3/2 ^f2 |
+d e d2- d2 d/ d/ [g/b/] [^f/a/] |
+[g/b/] [^f/a/] [gb] [a/c'/] [g3/2b3/2] [e4-g4-] |
+[e2g2] g ^f3/2 f3/2 g a- |
+a2 g a3/2 g3/2 e2 |
+% Bar 20 (0:33)
+g b a2- a3/2 z5/2 |
+z2 g a3/2 g3/2 e2 |
+g d3 z4 |
+z2 g a3/2 g3/2 e2 |
+g b a3 a b a |
+b d b a3/2 g7/2- |
+g2 g ^f3/2 f3/2 g a- |
+a3 g3/2 ^f3/2 g2- |
+g3 g3/2 ^f3/2 g2- |
+g2 a g3/2 ^f3/2 e2- |
+% Bar 30 (0:51)
+e d d2- d4 |
+[g2b2] [db] [e5c'5] |
+[e2c'2] [eg] [^f5a5] |
+[e2g2] [^fa] [g5-b5-] |
+[g4-b4-] [gb] d2 d- |
+d b2 a b d b a |
+b/ b3/2 g a b d b a |
+b/ b3/2 d d g/ g3/2 d d |
+g a g d2 c'2 b- |
+b/ a3/2 g g3 g2 |
+% Bar 40 (1:09)
+a b a3 a a2 |
+b d b2- b2- b/ z3/2 |
+z4 z d2 d- |
+d b2 a b d b a |
+b/ b3/2 g/ g/ a b d b a |
+b/ g3/2 g g3/2 a3/2 b2 |
+b g ^f3 d2 b- |
+b/ a3/2 g g3 g2 |
+a b a2- a2 a a- |
+a b7 |
+% Bar 50 (1:27)
+z8 |]
+
+X: 6
+%%Orig filename was GurengeMisty.abc
+T: Gurenge (multi-6) (1:28) - Misty Mountain Harp
+%%part-name Misty Mountain Harp
+C: LiSA
+Z: Raymiond of Gladden
+M: 4/4
+Q: 135
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 e5- |
+e3 [E3/2e3/2] [D3/2d3/2] [E3/2e3/2] [D/-d/-] |
+[Dd] [E/e/] [E/e/] [E/e/] [E/e/] [E3/2e3/2] [D3/2d3/2] [E3/2e3/2] [D/-d/-] |
+[Dd] [E/e/] [E/e/] [E/e/] [E/e/] [E3/2e3/2] [D3/2d3/2] [E3/2e3/2] [D/-d/-] |
+% Bar 10 (0:15)
+[Dd] [E/e/] [E/e/] [E/e/] [E/e/] [E3/2e3/2] [D3/2d3/2] [E3/2e3/2] [D/-d/-] |
+[Dd] [E/e/] [E/e/] [E/e/] [E/e/] z5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:51)
+z8 |
+z8 |
+z8 |
+z8 |
+z3 e/ B/ G/ B/ e3- |
+e z2 [D,5-A,5-D5-^F5-A5-] |
+[D,3A,3D3^F3A3] [E,5-B,5-E5-G5-B5-] |
+[E,3B,3E3G3B3] [^F,5-B,5-D5-^F5-] |
+[^F,3B,3D3^F3] [G,5-D5-G5-B5-d5-] |
+[G,3D3G3B3d3] [C,5-G,5-C5-E5-G5-] |
+% Bar 40 (1:09)
+[C,3G,3C3E3G3] [D,5-A,5-D5-^F5-A5-] |
+[D,3A,3D3^F3A3] [E3/2e3/2] [D3/2d3/2] [E3/2e3/2] [D/-d/-] |
+[Dd] [Ee] [Ee] [E3/2e3/2] [D3/2d3/2] [A,3/2A3/2] [G,/-G/-] |
+[G,3G3] [D,5-A,5-D5-^F5-A5-] |
+[D,3A,3D3^F3A3] [E,5-B,5-E5-G5-B5-] |
+[E,3B,3E3G3B3] [^F,5-B,5-D5-^F5-] |
+[^F,3B,3D3^F3] [G,5-D5-G5-B5-d5-] |
+[G,3D3G3B3d3] [C,5-G,5-C5-E5-G5-] |
+[C,3G,3C3E3G3] z5 |
+z3 [E3/2e3/2] [D3/2d3/2] [E3/2e3/2] [D/-d/-] |
+% Bar 50 (1:27)
+[Dd] [Ee] [Ee] z5 |]
+

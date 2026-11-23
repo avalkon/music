@@ -1,0 +1,895 @@
+N: TS  6,   9   8   1   5   4   6
+X: 9
+%%Orig filename was HeartofCourageAges.abc
+T: Heart of Courage (multi) (3:48) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Two Steps From Hell (MIDI by SnowTheBard)
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++f+ C4 B,4 |
+C4 E4 |
+[C4D4] B,4 |
+[F,8A,8] |
+C4 D4 |
+E4 G4 |
+[C4D4] B,4 |
+[F,8A,8] |
+C4 B,4 |
+% Bar 10 (0:17)
+C4- [C4E4] |
+[C4D4] B,4 |
+[F,8A,8] |
+[A,4-C4] [A,4D4] |
+[A,8B,8] |
+^G,8 |
+z2 +ff+ ^G,2 G,2 +ffff+ G,2 |
+z4 E z3 |
+z2 G z G z3 |
+z4 D z3 |
+% Bar 20 (0:36)
+z2 A, z A, z F, +ff+ E, |
+z4 +ffff+ E z3 |
+z2 G z G z3 |
+z4 D z3 |
+z2 A, z A, z F, +fff+ E, |
+z2 +ffff+ [E2A2] [E2B2] [E2-c2-] |
+[E2c2] [G2c2] [G2d2] [G2-e2-] |
+[G2e2] [G2B2] [G2c2] [G2d2] |
+[A2f2] [A2e2] [A2d2] [A2-c2-] |
+[A2c2] [E2A2] [E2B2] [E2-c2-] |
+% Bar 30 (0:54)
+[E2c2] [G2c2] [G2d2] [G2e2] |
+[G4B4] [G2c2] [G2B2] |
+[D4A4] [D2F2] [D2-G2-] |
+[D2G2] [E2A2] [E2B2] [E2-c2-] |
+[E2c2] [G2c2] [G2d2] [G2-e2-] |
+[G2e2] [G2B2] [G2c2] [G2d2] |
+[A2f2] [A2e2] [A2d2] [A2-c2-] |
+[A2c2] [E2A2] [E2B2] [E2-c2-] |
+[E2c2] [G2c2] [G2c2] [G2d2] |
+[GB] [GB] [G2B2] [Gc] [Gc] [G2c2] |
+% Bar 40 (1:12)
+[Ad] [Ad] [A2d2] [Ae] [Ae] [A2e2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+[A2f2] [c2f2] [c2g2] [c2-a2-] |
+[c2a2] [G2e2] [G2f2] [G2g2] |
+[^A2^a2] [=A2=a2] [G2g2] [A2f2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+[A2f2] [c2f2] [c2g2] [c2a2] |
+[c4e4] [c2f2] [c2e2] |
+[G4d4] [G2^A2] [G2c2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+% Bar 50 (1:31)
+[A2f2] [c2f2] [c2g2] [c2-a2-] |
+[c2a2] [G2e2] [G2f2] [G2g2] |
+[^A2^a2] [=A2=a2] [G2g2] [A2f2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+[A2f2] [c2f2] [c2f2] [c2g2] |
+[ce] [ce] [ce] [ce] [cf] [cf] [cf] [cf] |
+[d2/3g2/3] [d2/3g2/3] [d2/3g2/3] [d2/3a2/3] [d2/3a2/3] [d2/3a2/3] [d2/3^a2/3] [d2/3a2/3] [d2/3a2/3] [f2/3c'2/3] [f2/3c'2/3] [f2/3-c'2/3-] |
+[f4c'4] z4 |
++fff+ A +f+ A A A +fff+ e +f+ A A +fff+ c |
++f+ c +fff+ c g +f+ c +fff+ g +f+ c c c |
+% Bar 60 (1:49)
++fff+ G +f+ G G G +fff+ d +f+ G G +fff+ D |
++f+ D +fff+ D A +f+ D +fff+ A +f+ D +fff+ F +f+ E |
++fff+ A +f+ A A A +fff+ e +f+ A A +fff+ c |
++f+ c +fff+ c g +f+ c +fff+ g +f+ c c c |
++fff+ G +f+ G G G +fff+ d +f+ G G +fff+ D |
++f+ D +fff+ D A +f+ D +fff+ A +f+ D +fff+ F +f+ E |
++fff+ A +f+ A A A +fff+ e +f+ A A +fff+ c |
++f+ c +fff+ c g +f+ c +fff+ g +f+ c c c |
++fff+ G +f+ G G G +fff+ d +f+ G G +fff+ D |
++f+ D +fff+ D A +f+ D +fff+ A +f+ D +fff+ F +f+ E |
+% Bar 70 (2:08)
++fff+ A +f+ A A A +fff+ e +f+ A A +fff+ c |
++f+ c +fff+ c g +f+ c +fff+ g +f+ c c c |
++fff+ G +f+ G G G +fff+ d +f+ G G +fff+ D |
++f+ D +fff+ D A +f+ D +fff+ A +f+ D +fff+ F +f+ E |
+z/ C/ E/ C/ +fff+ A/ +f+ C/ E/ C/ +fff+ B/ +f+ C/ E/ C/ +fff+ c/ +f+ C/ E/ C/ |
+z/ E/ G/ E/ +fff+ c/ +f+ E/ G/ E/ +fff+ d/ +f+ E/ G/ E/ +fff+ e/ +f+ E/ G/ E/ |
+z/ D/ G/ D/ +fff+ B/ +f+ D/ G/ D/ +fff+ c/ +f+ D/ G/ D/ +fff+ d/ +f+ D/ G/ D/ |
++fff+ f/ +f+ F/ A/ F/ +fff+ e/ +f+ F/ A/ F/ +fff+ d/ +f+ F/ A/ F/ +fff+ c/ +f+ F/ A/ F/ |
+z/ C/ E/ C/ +fff+ A/ +f+ C/ E/ C/ +fff+ B/ +f+ C/ E/ C/ +fff+ c/ +f+ C/ E/ C/ |
+z/ E/ G/ E/ +fff+ c/ +f+ E/ G/ E/ +fff+ d/ +f+ E/ G/ E/ +fff+ e/ +f+ E/ G/ E/ |
+% Bar 80 (2:26)
++fff+ B/ +f+ D/ G/ D/ +fff+ B/ +f+ D/ G/ D/ +fff+ c/ +f+ D/ G/ D/ +fff+ B/ +f+ D/ G/ D/ |
++fff+ A/ +f+ D/ F/ D/ +fff+ A/ +ff+ D/ F/ D/ +ffff+ F/ +ff+ B,/ D/ B,/ +ffff+ G/ +ff+ B,/ D/ B,/ |
+z/ C/ E/ C/ +ffff+ A/ +ff+ C/ E/ C/ +ffff+ B/ +ff+ C/ E/ C/ +ffff+ c/ +ff+ C/ E/ C/ |
+z/ E/ G/ E/ +ffff+ c/ +ff+ E/ G/ E/ +ffff+ d/ +ff+ E/ G/ E/ +ffff+ e/ +ff+ E/ G/ E/ |
+z/ D/ G/ D/ +ffff+ B/ +ff+ D/ G/ D/ +ffff+ c/ +ff+ D/ G/ D/ +ffff+ d/ +ff+ D/ G/ D/ |
++ffff+ f/ +ff+ F/ A/ F/ +ffff+ e/ +ff+ F/ A/ F/ +ffff+ d/ +ff+ F/ A/ F/ +ffff+ c/ +ff+ F/ A/ F/ |
+z/ C/ E/ C/ +ffff+ A/ +ff+ C/ E/ C/ +ffff+ B/ +ff+ C/ E/ C/ +ffff+ c/ +ff+ C/ E/ C/ |
+z/ E/ G/ E/ +ffff+ c/ +ff+ E/ G/ E/ +ffff+ c/ +ff+ E/ G/ E/ +ffff+ d/ +ff+ E/ G/ E/ |
++ffff+ B/ +ff+ D/ G/ D/ +ffff+ B/ +ff+ D/ G/ D/ +ffff+ c/ +ff+ D/ G/ D/ +ffff+ c/ +ff+ D/ G/ D/ |
++ffff+ d/ +ff+ F/ A/ F/ +ffff+ d/ +ff+ F/ A/ F/ +ffff+ e/ +fff+ F/ A/ F/ +ffff+ e/ +fff+ F/ A/ F/ |
+% Bar 90 (2:45)
++ffff+ [F,2D2] [F2d2] [E2e2] [F2f2] |
+[A,2F2] [A2f2] [G2g2] [A2a2] |
+[E,2C2] [c2e2] [c2f2] [c2g2] |
+[g2^a2] [f2=a2] [d2g2] [d2f2] |
+[F,2D2] [F2d2] [E2e2] [F2f2] |
+[A,2F2] [A2f2] [G2f2] [A2g2] |
+[ce] [ce] [c2e2] [cf] [cf] [c2f2] |
+[dg] [dg] [dg] [dg] [da] [da] [da] [da] |
+z2 +fff+ d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+% Bar 100 (3:03)
+z2 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 g2/3 c2/3 G2/3 |
+^a2/3 d2/3 ^A2/3 =a2/3 d2/3 A2/3 g2/3 d2/3 A2/3 f2/3 d2/3 =A2/3 |
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+e2/3 c2/3 G2/3 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 e2/3 c2/3 G2/3 |
+d2/3 G2/3 D2/3 d2/3 G2/3 D2/3 ^A2/3 G2/3 D2/3 c2/3 G2/3 D2/3 |
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+z2 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 g2/3 c2/3 G2/3 |
+^a2/3 d2/3 ^A2/3 =a2/3 d2/3 A2/3 g2/3 d2/3 A2/3 f2/3 d2/3 =A2/3 |
+% Bar 110 (3:22)
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 |
+e2/3 c2/3 G2/3 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 f2/3 c2/3 G2/3 |
+[d2/3g2/3] [d2/3g2/3] [d2/3g2/3] [d2/3a2/3] [d2/3a2/3] [d2/3a2/3] [d2/3^a2/3] [d2/3a2/3] [d2/3a2/3] [f2/3c'2/3] [f2/3c'2/3] [f2/3-c'2/3-] |
+[f4c'4] z4 |
++f+ A +mf+ A A A +f+ e +mf+ A A +f+ c |
++mf+ c +f+ c g +mf+ c +f+ g +mf+ c c c |
++f+ G +mf+ G G G +f+ d +mf+ G G +f+ D |
++mf+ D +f+ D A +mf+ D +f+ A +mf+ D +f+ F +mf+ E |
++f+ A +mf+ A A A +f+ e +mf+ A A +f+ c |
+% Bar 120 (3:40)
++mf+ c +f+ c g +mf+ c +f+ g +mf+ c c c |
++f+ G +mf+ G G G +f+ d +mf+ G G D |
++mp+ D +mf+ D A +mp+ D +mf+ A +mp+ D +mf+ F +mp+ E |
+E, C E C E A e a |
+z4 |]
+
+X: 8
+%%Orig filename was HeartofCourageBass.abc
+T: Heart of Courage (multi) (3:48) - Basic Theorbo (4)
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Two Steps From Hell (MIDI by SnowTheBard)
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A,A] +mf+ A A A +ff+ A +mf+ A A +ff+ [Cc] |
++mf+ c +ff+ c c +mf+ c +ff+ c +mf+ c c c |
++ff+ [G,G] +mf+ G G G +ff+ G +mf+ G G +ff+ [D,D] |
+% Bar 20 (0:36)
++mf+ D +ff+ D D +mf+ D +ff+ D +mf+ D z2 |
++ff+ [A,A] +mf+ A A A +ff+ A +mf+ A A +ff+ [Cc] |
++mf+ c +ff+ c c +mf+ c +ff+ c +mf+ c c c |
++ff+ [G,G] +mf+ G G G +ff+ G +mf+ G G +ff+ [D,D] |
++mf+ D +ff+ D D +mf+ D +ff+ D +mf+ D z2 |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+% Bar 30 (0:54)
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+% Bar 40 (1:12)
+D, A, D A, F A, E A, |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+% Bar 50 (1:31)
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D- |
+D4 z4 |
+A, E A E A E A E |
+C G c G c G c G |
+% Bar 60 (1:49)
+G, D G D G D G D |
+D, A, D A, D A, D A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E +ff+ A +mf+ E +ff+ B +mf+ E +ff+ c +mf+ E |
+C G +ff+ c +mf+ G +ff+ d +mf+ G +ff+ e +mf+ G |
+G, D +ff+ G +mf+ D +ff+ A +mf+ D +ff+ B +mf+ D |
+D, A, +ff+ D +mf+ A, +ff+ F +mf+ A, +ff+ E +mf+ A, |
+% Bar 70 (2:08)
+A, E +ff+ A +mf+ E +ff+ B +mf+ E +ff+ c +mf+ E |
+C G +ff+ c +mf+ G +ff+ d +mf+ G +ff+ e +mf+ G |
+G, D G D +ff+ c +mf+ D +ff+ B +mf+ D |
+D, A, D A, +ff+ F +mf+ A, +ff+ G +mf+ A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+% Bar 80 (2:26)
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+% Bar 90 (2:45)
++ff+ [D2d2] +mf+ [f2a2] [e2a2] [d2a2] |
++ff+ [F2f2] +mf+ [a2c'2] [g2c'2] [f2c'2] |
++ff+ [C2c2] +mf+ [e2g2] [d2g2] [c2g2] |
++ff+ [G,2G2] +mf+ [^A2d2] [=A2d2] [^A2d2] |
++ff+ [D2d2] +mf+ [f2a2] [e2a2] [d2a2] |
++ff+ [F2f2] +mf+ [a2c'2] [g2c'2] [f2c'2] |
++ff+ [C2c2] +mf+ [e2g2] [d2g2] [d2g2] |
++ff+ [G,2G2] +mf+ [^A2d2] [=A2d2] [A2d2] |
+D A d A e A f A |
+F c f c g c a c |
+% Bar 100 (3:03)
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+% Bar 110 (3:22)
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D- |
+D4 z4 |
+A, E +mp+ A E c4 |
+C G c G e4 |
+G, D G +p+ D B4 |
+D, A, D A, F4 |
+A, E A E c4 |
+% Bar 120 (3:40)
++pp+ C G c G e4 |
+G, D G D B4 |
++ppp+ D, A, D A, F4 |
+A, E A E A +pppp+ e a c' |
+z4 |]
+
+X: 1
+%%Orig filename was HeartofCourageFlute.abc
+T: Heart of Courage (multi) (3:48) - Basic Flute (5)
+%%part-name Basic Flute (5)
+%%made-for Basic Flute
+C: Two Steps From Hell (MIDI by SnowTheBard)
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:31)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A +p+ A A A +mf+ e +p+ A A +mf+ c |
++p+ c +mf+ c g +p+ c +mf+ g +p+ c c c |
+% Bar 60 (1:49)
++mf+ G +p+ G G G +mf+ d +p+ G G +mf+ D |
++p+ D +mf+ D A +p+ D +mf+ A +p+ D +mf+ F +p+ E |
++mf+ A +p+ A A A +mf+ e +p+ A A +mf+ c |
++p+ c +mf+ c g +p+ c +mf+ g +p+ c c c |
++mf+ G +p+ G G G +mf+ d +p+ G G +mf+ D |
++p+ D +mf+ D A +p+ D +mf+ A +p+ D +mf+ F +p+ E |
++mf+ A +p+ A A A +mf+ e +p+ A A +mf+ c |
++p+ c +mf+ c g +p+ c +mf+ g +p+ c c c |
++mf+ G +p+ G G G +mf+ d +p+ G G +mf+ D |
++p+ D +mf+ D A +p+ D +mf+ A +p+ D +mf+ F +p+ E |
+% Bar 70 (2:08)
++mf+ A +p+ A A A +mf+ e +p+ A A +mf+ c |
++p+ c +mf+ c g +p+ c +mf+ g +p+ c c c |
++mf+ G +p+ G G G +mf+ d +p+ G G +mf+ D |
++p+ D +mf+ D A +p+ D +mf+ A +p+ D +mf+ F +p+ E |
+z/ C/ E/ C/ +mf+ A/ +p+ C/ E/ C/ +mf+ B/ +p+ C/ E/ C/ +mf+ c/ +p+ C/ E/ C/ |
+z/ E/ G/ E/ +mf+ c/ +p+ E/ G/ E/ +mf+ d/ +p+ E/ G/ E/ +mf+ e/ +p+ E/ G/ E/ |
+z/ D/ G/ D/ +mf+ B/ +p+ D/ G/ D/ +mf+ c/ +p+ D/ G/ D/ +mf+ d/ +p+ D/ G/ D/ |
++mf+ f/ +p+ F/ A/ F/ +mf+ e/ +p+ F/ A/ F/ +mf+ d/ +p+ F/ A/ F/ +mf+ c/ +p+ F/ A/ F/ |
+z/ C/ E/ C/ +mf+ A/ +p+ C/ E/ C/ +mf+ B/ +p+ C/ E/ C/ +mf+ c/ +p+ C/ E/ C/ |
+z/ E/ G/ E/ +mf+ c/ +p+ E/ G/ E/ +mf+ d/ +p+ E/ G/ E/ +mf+ e/ +p+ E/ G/ E/ |
+% Bar 80 (2:26)
++mf+ B/ +p+ D/ G/ D/ +mf+ B/ +p+ D/ G/ D/ +mf+ c/ +p+ D/ G/ D/ +mf+ B/ +p+ D/ G/ D/ |
++mf+ A/ +p+ D/ +mp+ F/ D/ +mf+ A/ +mp+ D/ F/ D/ +f+ F/ +mp+ B,/ D/ B,/ +f+ G/ +mp+ B,/ D/ B,/ |
+z/ C/ E/ C/ +f+ A/ +mp+ C/ E/ C/ +f+ B/ +mp+ C/ E/ C/ +f+ c/ +mp+ C/ E/ C/ |
+z/ E/ G/ E/ +f+ c/ +mp+ E/ G/ E/ +f+ d/ +mp+ E/ G/ E/ +f+ e/ +mp+ E/ G/ E/ |
+z/ D/ G/ D/ +f+ B/ +mp+ D/ G/ D/ +f+ c/ +mp+ D/ G/ D/ +f+ d/ +mp+ D/ G/ D/ |
++f+ f/ +mp+ F/ A/ F/ +f+ e/ +mp+ F/ A/ F/ +f+ d/ +mp+ F/ A/ F/ +f+ c/ +mp+ F/ A/ F/ |
+z/ C/ E/ C/ +f+ A/ +mp+ C/ E/ C/ +f+ B/ +mp+ C/ E/ C/ +f+ c/ +mp+ C/ E/ C/ |
+z/ E/ G/ E/ +f+ c/ +mp+ E/ G/ E/ +f+ c/ +mp+ E/ G/ E/ +f+ d/ +mp+ E/ G/ E/ |
++f+ B/ +mp+ D/ G/ D/ +f+ B/ +mp+ D/ G/ D/ +f+ c/ +mp+ D/ G/ D/ +f+ c/ +mp+ D/ G/ D/ |
++f+ d/ +mp+ F/ A/ F/ +f+ d/ +mp+ F/ A/ F/ +f+ e/ +mp+ F/ A/ +mf+ F/ +f+ e/ +mf+ F/ A/ F/ |
+% Bar 90 (2:45)
++f+ [F,2D2] [F2d2] [E2e2] [F2f2] |
+[A,2F2] [A2f2] [G2g2] [A2a2] |
+[E,2C2] [c2e2] [c2f2] [c2g2] |
+[g2^a2] [f2=a2] [d2g2] [d2f2] |
+[F,2D2] [F2d2] [E2e2] [F2f2] |
+[A,2F2] [A2f2] [G2f2] [A2g2] |
+[ce] [ce] [c2e2] [cf] [cf] [c2f2] |
+[dg] [dg] [dg] [dg] [da] [da] [da] [da] |
+z2 +mf+ d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+% Bar 100 (3:03)
+z2 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 g2/3 c2/3 G2/3 |
+^a2/3 d2/3 ^A2/3 =a2/3 d2/3 A2/3 g2/3 d2/3 A2/3 f2/3 d2/3 =A2/3 |
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+e2/3 c2/3 G2/3 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 e2/3 c2/3 G2/3 |
+d2/3 G2/3 D2/3 d2/3 G2/3 D2/3 ^A2/3 G2/3 D2/3 c2/3 G2/3 D2/3 |
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+z2 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 g2/3 c2/3 G2/3 |
+^a2/3 d2/3 ^A2/3 =a2/3 d2/3 A2/3 g2/3 d2/3 A2/3 f2/3 d2/3 =A2/3 |
+% Bar 110 (3:22)
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 |
+e2/3 c2/3 G2/3 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 f2/3 c2/3 G2/3 |
+[d2/3g2/3] [d2/3g2/3] [d2/3g2/3] [d2/3a2/3] [d2/3a2/3] [d2/3a2/3] [d2/3^a2/3] [d2/3a2/3] [d2/3a2/3] [f2/3c'2/3] [f2/3c'2/3] [f2/3-c'2/3-] |
+[f4c'4] z4 |
++p+ A +pp+ A A A +p+ e +pp+ A A +p+ c |
++pp+ c +p+ c g +pp+ c +p+ g +pp+ c c c |
++p+ G +pp+ G G G +p+ d +pp+ G G D |
+D D A +ppp+ D +pp+ A +ppp+ D +pp+ F +ppp+ E |
++pp+ A +ppp+ A A A +pp+ e +ppp+ A A +pp+ c |
+% Bar 120 (3:40)
++ppp+ c +pp+ c g +ppp+ c g c c c |
+G G G G d +pppp+ G G +ppp+ D |
++pppp+ D D A D A D F E |
+E, C E C E A e a |
+z4 |]
+
+X: 5
+%%Orig filename was HeartofCourageHarp.abc
+T: Heart of Courage (multi) (3:48) - Basic Harp
+%%part-name Basic Harp
+%%made-for Basic Harp
+C: Two Steps From Hell (MIDI by SnowTheBard)
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++ff+ [A,8E8] |
+[C8E8] |
+[G,8D8] |
+[D,8A,8] |
+[A,8E8] |
+[C8G8] |
+[G,8D8] |
+[D,8A,8] |
+[A,8E8] |
+% Bar 10 (0:17)
+[C8E8] |
+[G,8D8] |
+[D,8A,8] |
+[F,8C8] |
+[E,8B,8] |
+[E,8-B,8-] |
+[E,8B,8] |
++ffff+ [A,A] +ff+ A A A +ffff+ A +ff+ A A +ffff+ [Cc] |
++ff+ c +ffff+ c c +ff+ c +ffff+ c +ff+ c c c |
++ffff+ [G,G] +ff+ G G G +ffff+ G +ff+ G G +ffff+ [D,D] |
+% Bar 20 (0:36)
++ff+ D +ffff+ D D +ff+ D +ffff+ D +ff+ D z2 |
++ffff+ [A,A] +ff+ A A A +ffff+ A +ff+ A A +ffff+ [Cc] |
++ff+ c +ffff+ c c +ff+ c +ffff+ c +ff+ c c c |
++ffff+ [G,G] +ff+ G G G +ffff+ G +ff+ G G +ffff+ [D,D] |
++ff+ D +ffff+ D D +ff+ D +ffff+ D +ff+ D z2 |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+% Bar 30 (0:54)
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+% Bar 40 (1:12)
+D, A, D A, F A, E A, |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+% Bar 50 (1:31)
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D- |
+D4 z4 |
+A, E A E A E A E |
+C G c G c G c G |
+% Bar 60 (1:49)
+G, D G D G D G D |
+D, A, D A, D A, D A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E +ffff+ A +ff+ E +ffff+ B +ff+ E +ffff+ c +ff+ E |
+C G +ffff+ c +ff+ G +ffff+ d +ff+ G +ffff+ e +ff+ G |
+G, D +ffff+ G +ff+ D +ffff+ A +ff+ D +ffff+ B +ff+ D |
+D, A, +ffff+ D +ff+ A, +ffff+ F +ff+ A, +ffff+ E +ff+ A, |
+% Bar 70 (2:08)
+A, E +ffff+ A +ff+ E +ffff+ B +ff+ E +ffff+ c +ff+ E |
+C G +ffff+ c +ff+ G +ffff+ d +ff+ G +ffff+ e +ff+ G |
+G, D G D +ffff+ c +ff+ D +ffff+ B +ff+ D |
+D, A, D A, +ffff+ F +ff+ A, +ffff+ G +ff+ A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+% Bar 80 (2:26)
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+A, E A E B E c E |
+C G c G d G e G |
+G, D G D A D B D |
+D, A, D A, F A, E A, |
+% Bar 90 (2:45)
++ffff+ [D2d2] +ff+ [f2a2] [e2a2] [d2a2] |
++ffff+ [F2f2] +ff+ [a2c'2] [g2c'2] [f2c'2] |
++ffff+ [C2c2] +ff+ [e2g2] [d2g2] [c2g2] |
++ffff+ [G,2G2] +ff+ [^A2d2] [=A2d2] [^A2d2] |
++ffff+ [D2d2] +ff+ [f2a2] [e2a2] [d2a2] |
++ffff+ [F2f2] +ff+ [a2c'2] [g2c'2] [f2c'2] |
++ffff+ [C2c2] +ff+ [e2g2] [d2g2] [d2g2] |
++ffff+ [G,2G2] +ff+ [^A2d2] [=A2d2] [A2d2] |
+D A d A e A f A |
+F c f c g c a c |
+% Bar 100 (3:03)
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+% Bar 110 (3:22)
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D- |
+D4 z4 |
+A, E A E c4 |
+C G c G e4 |
+G, D G D B4 |
+D, A, D A, F4 |
+A, E A E c4 |
+% Bar 120 (3:40)
+C G c G e4 |
+G, D G D +f+ B4 |
+D, A, D A, F4 |
++mf+ A, E A E A e +mp+ a c' |
+z4 |]
+
+X: 4
+%%Orig filename was HeartofCourageHorn.abc
+T: Heart of Courage (multi) (3:48) - Basic Horn (6)
+%%part-name Basic Horn (6)
+%%made-for Basic Horn
+C: Two Steps From Hell (MIDI by SnowTheBard)
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:54)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:31)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:08)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:26)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:45)
+[D2d2] +f+ [f2a2] [e2a2] [d2a2] |
++fff+ [F2f2] +f+ [a2c'2] [g2c'2] [f2c'2] |
++fff+ [C2c2] +f+ [e2g2] [d2g2] [c2g2] |
++fff+ [G,2G2] +f+ [^A2d2] [=A2d2] [^A2d2] |
++fff+ [D2d2] +f+ [f2a2] [e2a2] [d2a2] |
++fff+ [F2f2] +f+ [a2c'2] [g2c'2] [f2c'2] |
++fff+ [C2c2] +f+ [e2g2] [d2g2] [d2g2] |
++fff+ [G,2G2] +f+ [^A2d2] [=A2d2] [A2d2] |
+D A d A e A f A |
+F c f c g c a c |
+% Bar 100 (3:03)
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D |
+% Bar 110 (3:22)
+D A d A e A f A |
+F c f c g c a c |
+C G c G d G e G |
+G, D G D ^A D =A D- |
+D4 z4 |
+A, E +mf+ A E c4 |
+C G c G e4 |
++mp+ G, D G D B4 |
+D, A, D A, F4 |
++p+ A, E A E c4 |
+% Bar 120 (3:40)
+C G c G +pp+ e4 |
+G, D G D B4 |
+D, A, D +ppp+ A, F4 |
+A, E A E A e a +pppp+ c' |
+z4 |]
+
+X: 6
+%%Orig filename was HeartofCourageMisty.abc
+T: Heart of Courage (multi) (3:48) - Misty Mountain Harp (3)
+%%part-name Misty Mountain Harp (3)
+%%made-for Misty Mountain Harp
+C: Two Steps From Hell (MIDI by SnowTheBard)
+Z: Raymiond of Sting
+M: 4/4
+Q: 130
+K: C maj
+L: 1/8
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 [E2A2] [E2B2] [E2-c2-] |
+[E2c2] [G2c2] [G2d2] [G2-e2-] |
+[G2e2] [G2B2] [G2c2] [G2d2] |
+[A2f2] [A2e2] [A2d2] [A2-c2-] |
+[A2c2] [E2A2] [E2B2] [E2-c2-] |
+% Bar 30 (0:54)
+[E2c2] [G2c2] [G2d2] [G2e2] |
+[G4B4] [G2c2] [G2B2] |
+[D4A4] [D2F2] [D2-G2-] |
+[D2G2] [E2A2] [E2B2] [E2-c2-] |
+[E2c2] [G2c2] [G2d2] [G2-e2-] |
+[G2e2] [G2B2] [G2c2] [G2d2] |
+[A2f2] [A2e2] [A2d2] [A2-c2-] |
+[A2c2] [E2A2] [E2B2] [E2-c2-] |
+[E2c2] [G2c2] [G2c2] [G2d2] |
+[GB] [GB] [G2B2] [Gc] [Gc] [G2c2] |
+% Bar 40 (1:12)
+[Ad] [Ad] [A2d2] [Ae] [Ae] [A2e2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+[A2f2] [c2f2] [c2g2] [c2-a2-] |
+[c2a2] [G2e2] [G2f2] [G2g2] |
+[^A2^a2] [=A2=a2] [G2g2] [A2f2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+[A2f2] [c2f2] [c2g2] [c2a2] |
+[c4e4] [c2f2] [c2e2] |
+[G4d4] [G2^A2] [G2c2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+% Bar 50 (1:31)
+[A2f2] [c2f2] [c2g2] [c2-a2-] |
+[c2a2] [G2e2] [G2f2] [G2g2] |
+[^A2^a2] [=A2=a2] [G2g2] [A2f2] |
+z2 [A2d2] [A2e2] [A2-f2-] |
+[A2f2] [c2f2] [c2f2] [c2g2] |
+[ce] [ce] [ce] [ce] [cf] [cf] [cf] [cf] |
+[d2/3g2/3] [d2/3g2/3] [d2/3g2/3] [d2/3a2/3] [d2/3a2/3] [d2/3a2/3] [d2/3^a2/3] [d2/3a2/3] [d2/3a2/3] [f2/3c'2/3] [f2/3c'2/3] [f2/3-c'2/3-] |
+[f4c'4] z4 |
++ff+ A +mf+ A A A +ff+ e +mf+ A A +ff+ c |
++mf+ c +ff+ c g +mf+ c +ff+ g +mf+ c c c |
+% Bar 60 (1:49)
++ff+ G +mf+ G G G +ff+ d +mf+ G G +ff+ D |
++mf+ D +ff+ D A +mf+ D +ff+ A +mf+ D +ff+ F +mf+ E |
++ff+ A +mf+ A A A +ff+ e +mf+ A A +ff+ c |
++mf+ c +ff+ c g +mf+ c +ff+ g +mf+ c c c |
++ff+ G +mf+ G G G +ff+ d +mf+ G G +ff+ D |
++mf+ D +ff+ D A +mf+ D +ff+ A +mf+ D +ff+ F +mf+ E |
++ff+ A +mf+ A A A +ff+ e +mf+ A A +ff+ c |
++mf+ c +ff+ c g +mf+ c +ff+ g +mf+ c c c |
++ff+ G +mf+ G G G +ff+ d +mf+ G G +ff+ D |
++mf+ D +ff+ D A +mf+ D +ff+ A +mf+ D +ff+ F +mf+ E |
+% Bar 70 (2:08)
++ff+ A +mf+ A A A +ff+ e +mf+ A A +ff+ c |
++mf+ c +ff+ c g +mf+ c +ff+ g +mf+ c c c |
++ff+ G +mf+ G G G +ff+ d +mf+ G G +ff+ D |
++mf+ D +ff+ D A +mf+ D +ff+ A +mf+ D +ff+ F +mf+ E |
+z/ C/ E/ C/ +ff+ A/ +mf+ C/ E/ C/ +ff+ B/ +mf+ C/ E/ C/ +ff+ c/ +mf+ C/ E/ C/ |
+z/ E/ G/ E/ +ff+ c/ +mf+ E/ G/ E/ +ff+ d/ +mf+ E/ G/ E/ +ff+ e/ +mf+ E/ G/ E/ |
+z/ D/ G/ D/ +ff+ B/ +mf+ D/ G/ D/ +ff+ c/ +mf+ D/ G/ D/ +ff+ d/ +mf+ D/ G/ D/ |
++ff+ f/ +mf+ F/ A/ F/ +ff+ e/ +mf+ F/ A/ F/ +ff+ d/ +mf+ F/ A/ F/ +ff+ c/ +mf+ F/ A/ F/ |
+z/ C/ E/ C/ +ff+ A/ +mf+ C/ E/ C/ +ff+ B/ +mf+ C/ E/ C/ +ff+ c/ +mf+ C/ E/ C/ |
+z/ E/ G/ E/ +ff+ c/ +mf+ E/ G/ E/ +ff+ d/ +mf+ E/ G/ E/ +ff+ e/ +mf+ E/ G/ E/ |
+% Bar 80 (2:26)
++ff+ B/ +mf+ D/ G/ D/ +ff+ B/ +mf+ D/ G/ D/ +ff+ c/ +mf+ D/ G/ D/ +ff+ B/ +mf+ D/ G/ D/ |
++ff+ A/ +mf+ D/ +f+ F/ D/ +ff+ A/ +f+ D/ F/ D/ +fff+ F/ +f+ B,/ D/ B,/ +fff+ G/ +f+ B,/ D/ B,/ |
+z/ C/ E/ C/ +fff+ A/ +f+ C/ E/ C/ +fff+ B/ +f+ C/ E/ C/ +fff+ c/ +f+ C/ E/ C/ |
+z/ E/ G/ E/ +fff+ c/ +f+ E/ G/ E/ +fff+ d/ +f+ E/ G/ E/ +fff+ e/ +f+ E/ G/ E/ |
+z/ D/ G/ D/ +fff+ B/ +f+ D/ G/ D/ +fff+ c/ +f+ D/ G/ D/ +fff+ d/ +f+ D/ G/ D/ |
++fff+ f/ +f+ F/ A/ F/ +fff+ e/ +f+ F/ A/ F/ +fff+ d/ +f+ F/ A/ F/ +fff+ c/ +f+ F/ A/ F/ |
+z/ C/ E/ C/ +fff+ A/ +f+ C/ E/ C/ +fff+ B/ +f+ C/ E/ C/ +fff+ c/ +f+ C/ E/ C/ |
+z/ E/ G/ E/ +fff+ c/ +f+ E/ G/ E/ +fff+ c/ +f+ E/ G/ E/ +fff+ d/ +f+ E/ G/ E/ |
++fff+ B/ +f+ D/ G/ D/ +fff+ B/ +f+ D/ G/ D/ +fff+ c/ +f+ D/ G/ D/ +fff+ c/ +f+ D/ G/ D/ |
++fff+ d/ +f+ F/ A/ F/ +fff+ d/ +f+ F/ A/ F/ +fff+ e/ +f+ F/ A/ +ff+ F/ +fff+ e/ +ff+ F/ A/ F/ |
+% Bar 90 (2:45)
++fff+ [F,2D2] [F2d2] [E2e2] [F2f2] |
+[A,2F2] [A2f2] [G2g2] [A2a2] |
+[E,2C2] [c2e2] [c2f2] [c2g2] |
+[g2^a2] [f2=a2] [d2g2] [d2f2] |
+[F,2D2] [F2d2] [E2e2] [F2f2] |
+[A,2F2] [A2f2] [G2f2] [A2g2] |
+[ce] [ce] [c2e2] [cf] [cf] [c2f2] |
+[dg] [dg] [dg] [dg] [da] [da] [da] [da] |
+z2 +ff+ d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+% Bar 100 (3:03)
+z2 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 g2/3 c2/3 G2/3 |
+^a2/3 d2/3 ^A2/3 =a2/3 d2/3 A2/3 g2/3 d2/3 A2/3 f2/3 d2/3 =A2/3 |
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+e2/3 c2/3 G2/3 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 e2/3 c2/3 G2/3 |
+d2/3 G2/3 D2/3 d2/3 G2/3 D2/3 ^A2/3 G2/3 D2/3 c2/3 G2/3 D2/3 |
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 a2/3 c2/3 A2/3 |
+z2 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 g2/3 c2/3 G2/3 |
+^a2/3 d2/3 ^A2/3 =a2/3 d2/3 A2/3 g2/3 d2/3 A2/3 f2/3 d2/3 =A2/3 |
+% Bar 110 (3:22)
+z2 d2/3 A2/3 F2/3 e2/3 A2/3 F2/3 f2/3 A2/3 F2/3 |
+z2 f2/3 c2/3 A2/3 f2/3 c2/3 A2/3 g2/3 c2/3 A2/3 |
+e2/3 c2/3 G2/3 e2/3 c2/3 G2/3 f2/3 c2/3 G2/3 f2/3 c2/3 G2/3 |
+[d2/3g2/3] [d2/3g2/3] [d2/3g2/3] [d2/3a2/3] [d2/3a2/3] [d2/3a2/3] [d2/3^a2/3] [d2/3a2/3] [d2/3a2/3] [f2/3c'2/3] [f2/3c'2/3] [f2/3-c'2/3-] |
+[f4c'4] z4 |
++mf+ A +mp+ A A A +mf+ e +mp+ A A +mf+ c |
++mp+ c +mf+ c g +mp+ c g +p+ c c c |
++mp+ G +p+ G G G +mp+ d +p+ G G +mp+ D |
++p+ D +mp+ D A +p+ D A D F E |
+A +pp+ A A A +p+ e +pp+ A A +p+ c |
+% Bar 120 (3:40)
++pp+ c +p+ c +pp+ g c g c c c |
+G G +ppp+ G G +pp+ d +ppp+ G G D |
+D D A D A D F E |
+E, +pppp+ C E C E A e a |
+z4 |]
+

@@ -1,0 +1,423 @@
+N: TS  8,   3  20  10  21   1   5   8  18
+X: 3
+%%Orig filename was Celts2Clar.abc
+T: TheCeltsv2 clarinet(2:52)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z115/8 z43/8 [c4e4] z/4 [c6G6e6] z2 [d6A4f4] [g2B2] z2 [G6c6e6] z2
+[d6A4f4] [g2B2] z2 [F5A5c5] z3 [G5B5d5] z5 [A5F5c5] z3 [G5B5d5] z5
+[c6G6e6] z2 [d6A4f4] [B2g2] z2 [c6G6e6] z2 [d4A4f4] [d3B3g3] z
+[G3c3e3] z5 [A2F2c2] [G2B2d2] [A4c3e3] [df] [GEB] [F2A2c2] [G2B2d2]
+z2 [A2F2c2] [G2B2d2] [A3c3e3] [Afd] [B2G2d2] z2 [A2c2F2] [G2B2d2]
+[A3c3e3] [Afd] [GBE] [F2A2c2] [B2G2d2] z2 [c2A2F2] [G2B2d2] [A4c3e3]
+[fd] [B4G4d4] [G2c2e2] z6 [c6G6e6] z2 [d6A4f4] [g2B2] z2 [G6c6e6] z2
+[d6A4f4] [g2B2] z2 [F5A5c5] z3 [G5B5d5] z5 [A5F5c5] z3 [G5B5d5] z5
+[c6G6e6] z2 [d6A4f4] [B2g2] z2 [c6G6e6] z2 [d4A4f4] [d3B3g3] z
+[G6c6e6] z2 [G7c7e7]
+
+X: 20
+%%Orig filename was Celts2Cowbell.abc
+T: TheCeltsv2 cowbell(2:52)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z39/8 [C5/4z/8] G5/4 z39/4 [G7/8c7/8] z115/8 z115/8 z115/8 z115/8
+z115/8 z13/4 [G9/8c9/8] z55/8 [dg] z7 [G3/4z/8] c5/8 z59/8 [d5/8g5/8]
+z29/4 [G9/8c9/8] z115/8 z115/8 z115/8 z115/8 z27/8 [G13/8z/8] c3/2
+z115/8 z115/8 z77/8 [c7/8f7/8] z115/8 z11/4 [cf] z115/8 z5/2
+[G11/8z/8] c11/8 z53/8 [d5/4g11/8] z27/4 [G5/4c5/4] z27/4 [dz/8] g
+z55/8 [G3/4c7/8] z29/4 [Gc9/8] z5 [G9/4c19/8]
+
+X: 10
+%%Orig filename was Celts2Drums1.abc
+T: TheCeltsv2 drum(2:51)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z115/8 z75/8 c/4 c'/4 z3/2 [c/4c'/4] z7/4 f/4 g/4 z3/2 g/4 z7/4 d/4
+d/4 z3/2 d/4 z7/4 g/4 g/4 z3/2 g/4 z7/4 c/4 c'/4 z3/2 [c/4c'/4] z7/4
+g/4 g/4 z3/2 g/4 z7/4 d/4 d/4 z3/2 d/4 z7/4 g/4 g/4 z3/2 g/4 z7/4 f/4
+f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2 f/4 z/8 f/4 z/2 f/8
+z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2 g/4 z/8 g/4 z/2 g/8 z/8 g/8
+z5/8 g/4 z3/4 g/8 z/8 g/8 z/2 g/8 z/4 f/4 z3/4 d/4 z3/4 g/4 z3/2 g/4
+z7/4 f/4 f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2 f/4 z/8
+f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2 g/4 z/8 g/4 z/2 g/8
+z/8 g/8 z5/8 g/4 z3/4 g/8 z/8 g/8 z/2 g/8 z/4 f/4 z3/4 d/4 z3/4 g/4
+z3/2 g/4 z7/4 c/4 c'/4 z3/2 [c/4c'/4] z7/4 f/4 g/4 z3/2 g/4 z7/4 d/4
+d/4 z3/2 d/4 z7/4 g/4 g/4 z3/2 g/4 z7/4 c/4 c'/4 z3/2 [c/4c'/4] z7/4
+g/4 g/4 z3/2 g/4 z7/4 d/4 d/4 z3/2 d/4 z7/4 g/4 g/4 z3/2 g/4 z7/4 C/4
+e/4 z3/2 [C/4e/4] z7/4 C/4 e/4 z3/2 [C/4e/4] z7/4 F/4 f/4 z3/2 G/4
+g/4 z3/2 A/4 a/4 z3/2 [A/4a/4] z D/4 z3/4 E/4 z/2 F/4 f/4 z7/4
+[G/4g/4] z3/2 [G/4g/4] z7/4 F/4 f/4 z3/2 G/4 g/4 z3/2 A/4 a/4 z3/2
+[A/4a/4] z D/4 z3/4 [G/4g/4] z3/2 [G/4g/4] z7/4 F/4 f/4 z3/2 G/4 g/4
+z3/2 A/4 a/4 z3/2 [A/4a/4] z D/4 z3/4 E/4 z/2 F/4 f/4 z7/4 [G/4g/4]
+z3/2 [G/2g/4] z7/4 F/4 f/4 z3/2 G/4 g/4 z3/2 A/4 a/4 z3/2 [A/4a/4] z
+D/4 z3/4 [G/4g/4] z3/2 [G/4g/4] z7/4 C/4 c/4 z3/2 [C/4c/4] z7/4 C/4
+c/4 z3/2 [C/4c/4] z7/4 c/4 c'/4 z3/2 [c/4c'/4] z7/4 f/4 g/4 z3/2 g/4
+z7/4 d/4 d/4 z3/2 d/4 z7/4 g/4 g/4 z3/2 g/4 z7/4 c/4 c'/4 z3/2
+[c/4c'/4] z7/4 g/4 g/4 z3/2 g/4 z7/4 d/4 d/4 z3/2 d/4 z7/4 g/4 g/4
+z3/2 g/4 z7/4 f/4 f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2
+f/4 z/8 f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2 g/4 z/8 g/4
+z/2 g/8 z/8 g/8 z5/8 g/4 z3/4 g/8 z/8 g/8 z/2 g/8 z/4 f/4 z3/4 d/4
+z3/4 g/4 z3/2 g/4 z7/4 f/4 f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8
+f/8 z/2 f/4 z/8 f/4 z/2 f/8 z/8 f/8 z5/8 f/4 z3/4 f/8 z/8 f/8 z/2 g/4
+z/8 g/4 z/2 g/8 z/8 g/8 z5/8 g/4 z3/4 g/8 z/8 g/8 z/2 g/8 z/4 f/4
+z3/4 d/4 z3/4 g/4 z3/2 g/4 z7/4 c/4 c'/4 z3/2 [c/4c'/4] z7/4 f/4 g/4
+z3/2 g/4 z7/4 d/4 d/4 z3/2 d/4 z7/4 g/4 g/4 z3/2 g/4 z7/4 c/4 c'/4
+z3/2 [c/4c'/4] z7/4 g/4 g/4 z3/2 g/4 z7/4 d/4 d/4 z3/2 d/4 z7/4 g/4
+g/4 z3/2 g/4 z7/4 c/4 c'/8 z5/8 c'/8 z/8 c'/8 z5/8 [c/4c'/4] z3/4
+c'/8 z/8 c'/4 z3/8 c'/8 z/4 c'/4 z/2 c'/4 c'/4 z/2 [c/4c'/4] z3/4
+c'/4 c'/4 z3/8 c'/4 z/8 c'/4 z/2 c'/4 c'/4 z/2 [c/4c'/4] z3/4 c'/4
+[c/4c'/4] z3/8 c'/4 z/8 [c/4c'/4] z7/4 [c/4c'/4]
+
+X: 21
+%%Orig filename was Celts2Drums2.abc
+T: TheCeltsv2 drum2(2:51)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: -24
+L: 1/4
+Q: 108
+K: C
+
++f+
+z115/8 z75/8 C,/4 C/4 z3/2 [C,/4C/4] z7/4 F,/4 G/4 z3/2 [G,/4G/4] z7/4
+D,/4 D/4 z3/2 [D,/4D/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 C,/4 C/4
+z3/2 [C,/4C/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 D,/4 D/4 z3/2
+[D,/4D/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 F,/4 [F/4F,/8] z5/8 F/8
+z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 F/4 z/8 [F/4F,/8] z5/8
+F/8 z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 G/4 z/8 [G/4G,/8]
+z5/8 G/8 z/8 G/8 z5/8 [G/4G,/8] z7/8 G/8 z/8 G/8 z/2 G/8 z/4 F,/4
+z3/4 D,/4 z3/4 [G,/4G/4] z3/2 [G,/4G/4] z7/4 F,/4 [F/4F,/8] z5/8 F/8
+z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 F/4 z/8 [F/4F,/8] z5/8
+F/8 z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 G/4 z/8 [G/4G,/8]
+z5/8 G/8 z/8 G/8 z5/8 [G/4G,/8] z7/8 G/8 z/8 G/8 z/2 G/8 z/4 F,/4
+z3/4 D,/4 z3/4 G,/4 z3/2 [G,/4G/4] z7/4 C,/4 C/4 z3/2 [C,/4C/4] z7/4
+F,/4 G/4 z3/2 [G,/4G/4] z7/4 D,/4 D/4 z3/2 [D,/4D/4] z7/4 G,/4 G/4
+z3/2 [G,/4G/4] z7/4 C,/4 C/4 z3/2 [C,/4C/4] z7/4 G,/4 G/4 z3/2
+[G,/4G/4] z7/4 D,/4 D/4 z3/2 [D,/4D/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4]
+z7/4 C,/4 E,/4 z3/2 [C,/4E,/4] z7/4 C,/4 E,/4 z3/2 [C,/4E,/4] z7/4
+F,/4 F,/4 z3/2 G,/4 G,/4 z3/2 A,/4 A,/4 z3/2 A,/4 z D,/4 z3/4 E,/4
+z/2 F,/4 F,/4 z7/4 G,/4 z3/2 G,/4 z7/4 F,/4 F,/4 z3/2 G,/4 G,/4 z3/2
+A,/4 A,/4 z3/2 A,/4 z D,/4 z3/4 G,/4 z3/2 G,/4 z7/4 F,/4 F,/4 z3/2
+G,/4 G,/4 z3/2 A,/4 A,/4 z3/2 A,/4 z D,/4 z3/4 E,/4 z/2 F,/4 F,/4
+z7/4 G,/4 z3/2 G,/2 z3/2 F,/4 F,/4 z3/2 G,/4 G,/4 z3/2 A,/4 A,/4 z3/2
+A,/4 z D,/4 z3/4 G,/4 z3/2 G,/4 z7/4 C,/4 C,/4 z3/2 C,/4 z7/4 C,/4
+C,/4 z3/2 C,/4 z7/4 C,/4 C/4 z3/2 [C,/4C/4] z7/4 F,/4 G/4 z3/2
+[G,/4G/4] z7/4 D,/4 D/4 z3/2 [D,/4D/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4]
+z7/4 C,/4 C/4 z3/2 [C,/4C/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 D,/4
+D/4 z3/2 [D,/4D/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 F,/4 [F/4F,/8]
+z5/8 F/8 z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 F/4 z/8
+[F/4F,/8] z5/8 F/8 z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 G/4
+z/8 [G/4G,/8] z5/8 G/8 z/8 G/8 z5/8 [G/4G,/8] z7/8 G/8 z/8 G/8 z/2
+G/8 z/4 F,/4 z3/4 D,/4 z3/4 [G,/4G/4] z3/2 [G,/4G/4] z7/4 F,/4
+[F/4F,/8] z5/8 F/8 z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2 F/4
+z/8 [F/4F,/8] z5/8 F/8 z/8 F/8 z5/8 [F/4F,/4] z3/4 F/8 z/8 F/8 z/2
+G/4 z/8 [G/4G,/8] z5/8 G/8 z/8 G/8 z5/8 [G/4G,/8] z7/8 G/8 z/8 G/8
+z/2 G/8 z/4 F,/4 z3/4 D,/4 z3/4 G,/4 z3/2 [G,/4G/4] z7/4 C,/4 C/4
+z3/2 [C,/4C/4] z7/4 F,/4 G/4 z3/2 [G,/4G/4] z7/4 D,/4 D/4 z3/2
+[D,/4D/4] z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 C,/4 C/4 z3/2 [C,/4C/4]
+z7/4 G,/4 G/4 z3/2 [G,/4G/4] z7/4 D,/4 D/4 z3/2 [D,/4D/4] z7/4 G,/4
+G/4 z3/2 [G,/4G/4] z7/4 C,/4 C/8 z5/8 C/8 z/8 C/8 z5/8 [C,/4C/4] z3/4
+C/8 z/8 C/4 z3/8 C/8 z/4 C/4 z/2 C/4 C/4 z/2 [C,/4C/4] z3/4 C/4 C/4
+z3/8 C/4 z/8 C/4 z/2 C/4 C/4 z/2 [C,/4C/4] z3/4 C/4 [C,/4C/4] z3/8
+C/4 z/8 [C,/4C/4] z7/4 [C,/4C/4]
+
+X: 1
+%%Orig filename was Celts2Flute.abc
+T: TheCeltsv2 flute(2:52)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z17/4 [c19/4g19/4] z2 [d3/4a3/4] [d2a2] z6 [c2g2] z115/8 z115/8 z11/2
+c3/2 z/4 c5/4 z c z3/4 c3/8 z15/8 d7/2 z/4 B/4 c5/8 z7/8 A/4 z/4
+[A5/8z/2] B/4 z13/4 c3/2 z/4 c5/4 z3/4 c/4 c z3/4 c/2 z7/4 d B3 c/2 z
+A/8 z3/8 A/2 B/4 z17/4 [e5/8G9/8] z/8 g/4 z7 [f3/4A3/4] a/4 z7
+[e5/8G7/8] z/8 g/4 z7 [f3/4A3/4] a3/8 z111/8 c2 d2 c3 d B c2 B2 z2 c2
+d2 c3 d B2 z2 c2 d2 c3 d B c2 B2 z2 c2 d2 c3 d B4 c z115/8 z115/8
+z41/4 c3/2 z/4 c5/4 z c z3/4 c3/8 z15/8 d7/2 z/4 B/4 c5/8 z7/8 A/4
+z/4 [A5/8z/2] B/4 z13/4 c3/2 z/4 c5/4 z c z3/4 c/2 z7/4 d B3 c/2 z
+A/8 z3/8 A/2 B/4 z17/4 [e5/8G9/8] z/8 g/4 z7 [f3/4A3/4] a/4 z7
+[e5/8G7/8] z/8 g/4 z7 [f3/4A3/4] a3/8 z47/8 c z/2 c z/2 e5/8 z/8 c/4
+g z3/4 g3/8 z15/8 d13/8 z/8 e z/4 e3/8 z3/8 c/4 B3/2 z/2 [ce]
+
+X: 5
+%%Orig filename was Celts2Harp.abc
+T: TheCeltsv2 harp(2:52)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z4 [C,25/4G,25/4] z3/4 [D,5A,5] [c8G8C8C,] z3/4 C,7/4 z/4 C,/4 C, z3/4
+C,7/4 z/4 C,/4 [C4G4c4C,] z3/4 C,7/4 z/4 C,/4 [D4B4G4G,] z3/4 G,7/4
+z/4 G,/4 [E2A2d2D,] z3/4 [D,7/4z/4] [A2d2D2z7/4] D,/4 [G4D4B4G,] z3/4
+G,3/2 z/2 G,/4 [C4G4c4C,] z3/4 C,7/4 z/4 C,/4 [D4B4G4G,] z3/4 G,7/4
+z/4 G,/4 [D4d4A4D,] z3/4 D,3/2 z/2 D,/4 [D4B4G4A,/4] z/2 F,/4 G,2
+z3/4 G,/4 [C8F8A8F,3/4] z F,3/2 z/2 F,/4 F, z3/4 F,3/2 z/2 F,/4
+[D4B4G4G,] z3/4 G, z E,/8 z/8 [C2F2A2F,/2] z/2 D,/2 z/2 [D4G4B4G,]
+z3/4 G,3/2 z/2 G,/4 [C4A4F4F,] z3/4 F,7/4 z/4 F,/4 [C4A4F4F,] z3/4
+F,7/4 z/4 F,/4 [D4B4G4G,] z/2 G,5/4 z E,/8 z/8 [C2A2F2F,/4] z3/4 D,/4
+z3/4 [D4G4B4G,] z3/4 G,3/2 z/2 G,/4 [C4c4G4C,] z3/4 C,7/4 z/4 C,/4
+[D4G4B4G,] z3/4 G,7/4 z/4 G,/4 [D4A4d4D,] z3/4 D,7/4 z/4 D,/4
+[D4B4G4G,] z3/4 G,3/2 z/2 G,/4 [C4G4c4C,] z3/4 C,7/4 z/4 C,/4
+[D4G4B4G,] z3/4 G,7/4 z/4 G,/4 [d4A4D4D,] z3/4 D,3/2 z/2 D,/4
+[D4B4G4A,/4] z/2 F,/4 G,2 z3/4 G,/4 [C7G7c7C,] z3/4 C,7/4 z/4 C,/4 C,
+z3/4 C,7/4 z/4 C,/4 [A2C2F2a2f2F,5/4] z/2 F,/4 [D2G2B2g2b2G,5/4] z/2
+G,/4 [E4A4c4a3c'3A,] z3/4 A,5/4 [dbD,/2] z/2 [GEB,g2bE,3/4] z/4
+[C2F2A2c'2F,7/4z] a [D4G4B4g3b3G,5/4] z/2 G,7/4 z/4 G,/4
+[C2F2A2f2a2F,5/4] z/4 F,/4 z/4 [D2G2B2b2g2G,5/4] z/2 G,/4
+[E4A4c4a3c'3A,] z3/4 A,5/4 [bdD,/2] z/2 [G4D4B4g3b3G,5/4] z/2 G,7/4
+z/4 G,/4 [C2F2A2a2f2F,5/4] z/2 F,/4 [D2G2B2g2b2G,5/4] z/2 G,/4
+[E4A4c4a3c'3A,5/4] z/2 A,5/4 [bdD,3/4] z/4 [B,EGgbE,/2] z/2
+[C2F2A2a2c'2F,7/4] z/4 [D4G4B4g2b2G,5/4] z/2 G,7/4 z/4 G,/4
+[A2F2C2a2f2F,5/4] z/2 F,/4 [D2B2G2g2b2G,5/4] z/2 G,/4 [E4c4A4c'3a3A,]
+z3/4 [A,3/2z5/4] [bdD,3/4] z/4 [D4A4d4g4b4G,] z3/4 G,7/4 z/4 G,/4
+[c7G7C7g3c'3C,] z3/4 C,7/4 z/4 C,/4 C, z3/4 C,7/4 z/4 C,/4 [C4G4c4C,]
+z3/4 C,7/4 z/4 C,/4 [D4B4G4G,] z3/4 G,7/4 z/4 G,/4 [E2A2d2D,] z3/4
+[D,7/4z/4] [A2d2D2z7/4] D,/4 [G4D4B4G,] z3/4 G,3/2 z/2 G,/4
+[C4G4c4C,] z3/4 C,7/4 z/4 C,/4 [D4B4G4G,] z3/4 G,7/4 z/4 G,/4
+[D4d4A4D,] z3/4 D,3/2 z/2 D,/4 [D4B4G4A,/4] z/2 F,/4 G,2 z3/4 G,/4
+[C8F8A8F,3/4] z F,3/2 z/2 F,/4 F, z3/4 F,3/2 z/2 F,/4 [D4B4G4G,] z3/4
+G, z E,/8 z/8 [C2F2A2F,/2] z/2 D,/2 z/2 [D4G4B4G,] z3/4 G,3/2 z/2
+G,/4 [C4A4F4F,] z3/4 F,7/4 z/4 F,/4 [C4A4F4F,] z3/4 F,7/4 z/4 F,/4
+[D4B4G4G,] z/2 G,5/4 z E,/8 z/8 [C2A2F2F,/4] z3/4 D,/4 z3/4
+[D4G4B4G,] z3/4 G,3/2 z/2 G,/4 [C4c4G4C,] z3/4 C,7/4 z/4 C,/4
+[D4G4B4G,] z3/4 G,7/4 z/4 G,/4 [D4A4d4D,] z3/4 D,7/4 z/4 D,/4
+[D4B4G4G,] z3/4 G,3/2 z/2 G,/4 [C4G4c4C,] z3/4 C,7/4 z/4 C,/4
+[D4G4B4G,] z3/4 G,7/4 z/4 G,/4 [d4A4D4D,] z3/4 D,3/2 z/2 D,/4
+[D4B4G4A,/4] z/2 F,/4 G,2 z3/4 G,/4 [C13G13c13C,] z3/4 C,7/4 z/4 C,/4
+C, z3/4 C,7/4 z/4 C,/4 C, z3/4 C,7/4 z/4 C,/4 C,3/2 z/2 [C,7/4C2c2G2]
+
+X: 8
+%%Orig filename was Celts2Lute.abc
+T: TheCeltsv2 lute(2:50)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z115/8 z13/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8
+[C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8
+z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8
+[C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8
+z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8]
+C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [D,/8D/8]
+D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8
+[D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8
+z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8]
+D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8
+[D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8
+z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8]
+F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8
+[F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8
+z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [E,/8E/8] E/8 z/8 [F,/8F/8] F/8 z3/4 [D,/8D/8] D/8
+z3/4 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8]
+F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8
+[F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8
+z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8]
+F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [E,/8E/8] E/8 z/8 [F,/8F/8]
+F/8 z3/4 [D,/8D/8] D/8 z3/4 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8]
+C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8
+[C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8
+z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8]
+D/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8
+[C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [D,/8D/8] D/8 z3/8
+[D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8
+z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8]
+C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8
+[C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8
+z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8
+[F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8]
+A/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8 z/8 [A,/8A/8] A/8 z3/8
+[A,/4A/8] A/8 z/8 [D,/8D/8] D/8 z3/4 [E,/8E/8] E/8 z3/4 [F,/8F/8] F/8
+z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8]
+F/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8 z/8 [A,/8A/8] A/8
+z3/8 [A,/4A/8] A/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8 z/8 [D,/8D/8]
+D/8 z3/4 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8]
+F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8
+z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8]
+A/8 z/8 [D,/8D/8] D/8 z3/4 [E,/8E/8] E/8 z3/4 [F,/8F/8] F/8 z3/8
+[F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8 z/8 [A,/8A/8] A/8 z3/8
+[A,/4A/8] A/8 z/8 [A,/8A/8] A/8 z3/8 [A,/4A/8] A/8 z/8 [D,/8D/8] D/8
+z3/4 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8
+[C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8
+z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8]
+C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8
+[C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8
+z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8]
+D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8
+[D,/4D/8] D/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8
+[C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8
+z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [D,/8D/8] D/8
+z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8]
+D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8
+[F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8
+z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8]
+F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8
+[F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [G,/8G/8] G/8 z3/8 [E,/8E/8] E/8 z/8 [F,/8F/8] F/8 z3/4
+[D,/8D/8] D/8 z3/4 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8
+[F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8
+z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8]
+F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8
+[F,/4F/8] F/8 z/8 [F,/8F/8] F/8 z3/8 [F,/4F/8] F/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [E,/8E/8] E/8 z/8
+[F,/8F/8] F/8 z3/4 [D,/8D/8] D/8 z3/4 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [C,/8C/8] C/8
+z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8
+[D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8
+z3/8 [D,/4D/8] D/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8]
+G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8
+[G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8
+z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8]
+C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8
+z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [D,/8D/8]
+D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8
+[D,/8D/8] D/8 z3/8 [D,/4D/8] D/8 z/8 [D,/8D/8] D/8 z3/8 [D,/4D/8] D/8
+z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8]
+G/8 z/8 [G,/8G/8] G/8 z3/8 [G,/4G/8] G/8 z/8 [G,/8G/8] G/8 z3/8
+[G,/4G/8] G/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8
+z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8]
+C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8
+[C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8
+z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8]
+C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8
+[C,/4C/8] C/8 z/8 [C,/8C/8] C/8 z3/8 [C,/4C/8] C/8 z/8 [C,/8C/8] C/8
+
+X: 18
+%%Orig filename was Celts2Pipes.abc
+T: TheCeltsv2 bagppe(2:45)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: TheCelts 1.0.mid
+% Arangement by Florea - Elendilmir
+%  Transpose: 0
+L: 1/4
+Q: 108
+K: C
+
+z115/8 z69/8 e3/8 d/8 z/8 c3/8 g2 z5/8 c3/4 z/8 d/4 e/4 e d3/4
+[b5/4g5/4d5/4] d5/8 z/8 e/8 z/8 [f23/8z21/8] d/4 z/8 g3/8 f/4 d3/8
+e/2 z/8 c/4 z/8 d3/2 z/2 [e/2z3/8] d/4 c3/8 g19/8 z/4 c7/8 d/8 z/8
+e/8 z/8 e d3/4 [b5/4g5/4d5/4] d5/8 z/8 e/4 f21/8 d3/8 g3/8 f/4 d3/8
+e/2 z/4 [c3/8z/4] d3/2 z/2 e5/8 z/8 g/8 z/8 a21/8 z/8 [c'3/8z/4] b5/8
+z/8 g/4 a13/8 z9/8 a/4 b5/8 z/8 c'/8 z/8 c'7/8 z/8 b13/8 b3/8 c'/8
+z/4 b/4 g3/8 a/2 z/2 c'5/8 z3/8 b5/8 z3/8 g15/8 z/8 [e7/8z5/8] g3/8
+a21/8 c'/4 z/8 b5/8 g3/8 a19/8 z/4 a/4 z/8 b3/8 z3/8 c'/8 z/8 c' b3/2
+z/8 b3/8 [c'/2z3/8] b/4 g/4 z/8 a/2 z/2 c'5/8 z3/8 b7/8 z/8 g3/2 z/2
+[e/2z3/8] d/4 c3/8 g5/2 z/8 c3/4 z/8 d/4 e/4 e d3/4 [b5/4g5/4d5/4]
+d5/8 z/8 e/4 f21/8 z/8 d/8 z/8 g3/8 f/4 d3/8 e/2 z/4 c/4 d3/4
+[g5/4b5/4d5/4] [e/2z3/8] d/4 c/4 z/8 g21/8 c3/4 z/8 d/4 e/4 e d3/4
+[b5/4g5/4d5/4] d5/8 z/8 e/4 f21/8 z/8 d/4 g3/8 f/4 d3/8 e3/4 c/4 d3/4
+[g5/4b5/4d] d/4 e3/8 d/4 c/4 z/8 c25/8 z115/8 z115/8 z115/8 z115/8
+z67/8 e3/8 d/8 z/8 c3/8 g2 z5/8 c3/4 z/8 d/4 e/4 e d3/4
+[b5/4g5/4d5/4] d5/8 z/8 e/8 z/8 [f23/8z21/8] d/4 z/8 g3/8 f/4 d3/8
+e/2 z/8 c/4 z/8 d3/2 z/2 [e/2z3/8] d/4 c3/8 g19/8 z/4 c7/8 d/8 z/8
+e/8 z/8 e d/2 [b3/2g3/2d3/2] d5/8 z/8 e/4 f21/8 d3/8 g3/8 f/4 d3/8
+e/2 z/4 [c3/8z/4] d3/2 z/2 e5/8 z/8 g/8 z/8 a21/8 z/8 [c'3/8z/4] b5/8
+z/8 g/4 a13/8 z9/8 a/4 b5/8 z/8 c'/8 z/8 c'7/8 z/8 b13/8 b3/8 c'/8
+z/4 b/4 g3/8 a/2 z/2 c'5/8 z3/8 b5/8 z3/8 g15/8 z/8 [e7/8z5/8] g3/8
+a21/8 c'/4 z/8 b5/8 g3/8 a19/8 z/4 a/4 z/8 b3/8 z3/8 c'/8 z/8 c' b3/2
+z/8 b3/8 [c'/2z3/8] b/4 g/4 z/8 a/2 z/2 c'5/8 z3/8 b7/8 z/8 g3/2 z/2
+[e/2z3/8] d/4 c3/8 g5/2 z/8 c3/4 z/8 d/4 e/4 e d3/4 [b5/4g5/4d5/4]
+d5/8 z/8 e/4 f21/8 z/8 d/8 z/8 g3/8 f/4 d3/8 e/2 z/4 c/4 d3/4
+[g5/4b5/4d5/4] [e/2z3/8] d/4 c/4 z/8 g21/8 c3/4 z/8 d/4 e/4 e d3/4
+[b5/4g5/4d5/4] d5/8 z/8 e/4 f21/8 z/8 d/4 g3/8 f/4 d3/8 e3/4 c/4 d3/4
+[g5/4b5/4d] d/4 e3/8 d/4 c/4 z/8 c25/8
+

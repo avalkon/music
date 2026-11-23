@@ -1,0 +1,129 @@
+N: TS  2,   9   8
+X: 9
+%%Orig filename was GrandEscapeAges.abc
+T: Grand Escape (duet) (1:19) - Lute of Ages
+%%part-name Lute of Ages
+C: Yojiro Noda
+Z: Raymiond of Gladden
+M: 4/4
+Q: 146
+K: C maj
+
++f+ [^G4-B4-e4-] [G2-B2-e2-] [G3/2B3/2e3/2] z/ |
+[A4-^c4-e4-] [A2-c2-e2-] [A3/2c3/2e3/2] z/ |
+[B4-^d4-^f4-] [B2-d2-f2-] [B3/2d3/2f3/2] z/ |
+[^c4-e4-^g4-] [c2-e2-g2-] [c3/2e3/2g3/2] z/ |
+[^G4-B4-e4-] [G2-B2-e2-] [G3/2B3/2e3/2] z/ |
+[A4-^c4-e4-] [A2-c2-e2-] [A3/2c3/2e3/2] z/ |
+[B4-^d4-^f4-] [B2-d2-f2-] [B3/2d3/2f3/2] z/ |
+[^c4-e4-^g4-] [c2-e2-g2-] [c3/2e3/2g3/2] z/ |
++ff+ ^G, E ^G E B E G E |
+% Bar 10 (0:14)
+A, E A E ^c E A E |
+B, ^F B ^G ^d F B F |
+^C ^G ^c G e G c G |
+^G, E ^G E B E G E |
+A, E A E ^c E A E |
+B, ^F B F ^d B ^f d |
+b4- b2- b3/2 z/ |
+z8 |
+z8 |
+[^C,2^C2] C, [CE] C, [CE] C, [CE] |
+% Bar 20 (0:31)
+A,2 A, ^C A, C A, C |
+[E,2E2] E, ^G E, G E, G |
+E, ^G E, G E, G B,2 |
+[^C,2^C2] C, [CE] C, [CE] C, [CE] |
+A,2 A, ^C A, C A, C |
+B, B, B, B, B, B, B, B, |
+B, B/ ^F/ ^D/ B,/ ^F,/ ^D,/ B,/ z7/2 |
+[^C,^C] C [^G^c] A,2 A, [CEA] [E,-E-] |
+[E,E] E [^GB] B,2 B, [^D^FB] B, |
+[^C,^C] C [^G^c] A,2 A, [CEA] [E,-E-] |
+% Bar 30 (0:47)
+[E,E] E [^GBe] E B, B, [^D^FB] B, |
+[^C,^C] C [^G^c] A,2 A, [CEA] [E,-E-] |
+[E,E] E [^GB] B,2 B, [^D^FB] B, |
+[^C,^C] C [^G^c] A,2 A, [CEA] [E,-E-] |
+[E,E] E [^GBe] E B, B, [^D^FB] B, |
+A,2 A, ^C A, C A, C |
+^G,2 G, [G,B,] G, [G,B,] G, [G,B,] |
+B,2 B, ^D B, D B, D |
+[^C,2^C2] C, [CE] C, [CE] C, [CE] |
+A,2 A, ^C A, C A, C |
+% Bar 40 (1:04)
+^G,2 G, [G,B,] G, [G,B,] G, [G,B,] |
+B,2 B, ^D B, D B, D |
+[^C,2^C2] C, [CE] C, [CE] C, [CE] |
+A,2 A, ^C A, C A, C |
+^G,2 G, [G,B,] G, [G,B,] G, [G,B,] |
+B, B, B, B, B, B, B, B,- |
+B, B, B, z4 E,- |
+E,8- |
+E,8- |
+E,4- E,2- E,/ z3/2 |]
+
+X: 8
+%%Orig filename was GrandEscapeLute.abc
+T: Grand Escape (duet) (1:19) - Basic Lute
+%%part-name Basic Lute
+C: Yojiro Noda
+Z: Raymiond of Gladden
+M: 4/4
+Q: 146
+K: C maj
+
++ff+ z2 b2 e2 e ^d |
+e e ^f ^g2 e2 B- |
+B B e e e e ^f e- |
+e2 b b/ e3/2 e ^f e- |
+e2 b2 e2 ^d2 |
+e e ^f ^g2 e2 B |
+e e e e e e ^f e- |
+e2 b b/ e3/2 e ^f e- |
+e2 b e e ^d e d |
+% Bar 10 (0:14)
+e e ^f ^g2 e e B |
+e e e ^f2 e f [e-^g-] |
+[e2^g2] b b/ e3/2 e ^f e- |
+e2 b2 e2 ^d d |
+e e ^f ^g2 e e B |
+e e e e2 e ^f e- |
+e2 b b/ e3/2 e ^f e |
+B ^d e ^f/ d3/2 b ^c b |
+b/ ^d/ ^f/ b/ d/ f/ b2 e f [e-^g-] |
+[e2^g2] [B2e2g2b2] [A2a2] [^G2g2] |
+% Bar 20 (0:31)
+[A^cea] [^G^g] [Acea] [Gg] [E2e2] [^F^f] [E-G-B-e-] |
+[E2^G2B2e2] [B2e2^g2b2] [A2a2] [G2g2] |
+[Aa] [^G^g] [Aa] [Gg] [E2e2] [^F^f] [E-G-e-] |
+[E2^G2e2] [B2e2^g2b2] [A2a2] [G2g2] |
+[A^cea] [^G^g] [Aa] [Gg] [E2e2] [^F^f] [E-e-] |
+[E2e2] [B2^d2^f2b2] [A2a2] [^G2^g2] |
+[Aa] [^G^g] [Aa] [Gg] [E/e/] z3/2 [^F^f] [EGe] |
+[E^Ge] [^F^f] [G^g] [A2e2a2] [Gg] [Ff] [E-G-e-] |
+[E^Ge] [E2G2e2] [A9/2^d9/2^f9/2] z/ |
+[E^Ge] [EGe] [Beb] [B2e2b2] [A^ca] [G^g] [^F-^f-] |
+% Bar 30 (0:47)
+[^F^f] [^G^g] [Aa] [Gg] [Gg] [Aa] [Gg] [Ff] |
+[E^Ge] [^F^f] [G^g] [A2^c2e2a2] [Gg] [Ff] [E-G-e-] |
+[E^Ge] [E2G2e2] [^F9/2B9/2^d9/2^f9/2] z/ |
+[E^Ge] [EGe] [Beb] [B2e2b2] [A^ca] [G^g] [^F-^f-] |
+[^F^f] [^G^g] [Aa] [Gg] [Gg] [Aa] [Gg] [Ff] |
+[E3^G3e3] [B,B] [E2e2] [^D^d] [E-e-] |
+[E2-e2-] [E3/2e3/2] z/ [E2^G2e2] [EGe] [^F-A-^d-^f-] |
+[^F2A2^d2^f2] [FAdf] [FAdf] [FAdf] [^G^g] [Gg] [G-B-e-g-] |
+[^G2-B2-e2-^g2-] [G3/2B3/2e3/2g3/2] z/ [E2G2e2] [^D^d] [E-G-e-] |
+[E3^G3e3] [B,B] [Ee] [^F^f] [G^g] [E-G-e-] |
+% Bar 40 (1:04)
+[E2-^G2-e2-] [E3/2G3/2e3/2] z/ [E2G2e2] [EGe] [^F-A-^d-^f-] |
+[^F2A2^d2^f2] [FAdf] [FAdf] [FAdf] [^G^g] [Gg] [G-B-e-g-] |
+[^GBe^g] g [egb] g a g ^f [^c-e-a-] |
+[^cea] e [cea] e a ^g ^f [e-g-b-] |
+[e^gb] e [egb] e a g ^f e- |
+e B,/ E/ ^F/ B/ e/ ^f/ b/ e/ b/ e/ f [e-f-b-] |
+[e^fb] [efb] [efb] e a ^g f [e-g-] |
+[e2^g2] g b e ^f g b- |
+b2 ^g2 a g e b- |
+b4- b2- b3/2 z/ |]
+

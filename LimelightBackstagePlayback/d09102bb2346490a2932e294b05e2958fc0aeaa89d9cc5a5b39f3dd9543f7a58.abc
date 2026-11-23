@@ -1,0 +1,775 @@
+N: TS  6,   8   3  10   1   5  21
+X: 8
+%%Orig filename was FridayLoveBass.abc
+T: FridayImInLove [Theorbo] (3:11)
+%%part-name Basic Theorbo
+C: The Cure
+Z: ABC by Ailrien (Crickhollow)/midi by Frank Tang
+M: 4/4
+Q: 135
+K: C maj
+
++ffff+ G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+E2 E2 E E z C- |
+C C2 C C C2 z |
+G,2 G,2 G, G,2 D- |
+D D2 D D D2 z |
+G,2 G,2 G, G, z C- |
+% Bar 10 (0:15)
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+% Bar 20 (0:33)
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D z3 |
+C2 C2 C C z D- |
+D D2 D D z3 |
+E2 E2 E E z C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+% Bar 30 (0:51)
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+% Bar 40 (1:09)
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+% Bar 50 (1:27)
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+C2 C2 C C z D- |
+D z6 D- |
+[DE-] E E2 E E z C- |
+C C2 C2 z3 |
+G,2 G,2 G, G, z D- |
+% Bar 60 (1:44)
+D D2 D2 z3 |
+E2 z2 E2 E- [EF-] |
+F z2 F2 F2 F |
+[G,2G2-] [G,2G2] G,2 G,- [G,D-] |
+D z D2 D2 D- [DE] |
+E z3 E2 E- [EF-] |
+F z2 F2 F2 F |
+[G,2G2-] [G,2G2] G,2 G,- [G,D-] |
+D z D2 D2 D- [DE] |
+E z3 E2 E- [EF-] |
+% Bar 70 (2:02)
+F z2 F2 F2 F |
+[G,2G2-] [G,2G2] G,2 G,- [G,D-] |
+D z D2 D2 D- [DE] |
+E z3 E2 E- [EF-] |
+F z2 F2 F2 F |
+[G,2G2-] [G,2G2] G,2 G,- [G,D-] |
+D z7 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+% Bar 80 (2:20)
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+D D2 D D D z2 |
+E2 E E E z2 C- |
+% Bar 90 (2:38)
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+% Bar 100 (2:55)
+D D2 D D D z2 |
+G,2 G,2 G, G, z C- |
+C C2 C C C z2 |
+G,2 G, G, G, G, z D |
+D D2 D D D z2 |
+E2 E E E z2 C- |
+C C2 C C C z2 |
+G,2 G,2 G, G, z D- |
+D z7 |]
+
+X: 3
+%%Orig filename was FridayLoveClar.abc
+T: FridayImInLove [Clarinet] (3:11)
+%%part-name Clarinet
+C: The Cure
+Z: ABC by Ailrien (Crickhollow)/midi by Frank Tang
+M: 4/4
+Q: 135
+K: C maj
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+D D2 D D E2 D |
+% Bar 10 (0:15)
+D C2 C C2 z2 |
+D D2 D D D2 E- |
+E ^F2 D D2 z2 |
+E2 B,2 E D2 D- |
+D/- [C/D/] C2 C2 B,2 B,- |
+B, G,2 z [G,B] [G,2B2] [A,-A-] |
+[A,4-A4-] [A,A] z3 |
+D2 D2 D E2 D- |
+D C C2- C2 z2 |
+D2 D2 D D2 E- |
+% Bar 20 (0:33)
+E ^F2 D D E2 E- |
+E B,2 z E D2 D- |
+D C2 C C B,2 [B,-A-] |
+[B,A] [G,2B2] z [G,B] [G,2B2] [A,-A-] |
+[A,2A2] z2 z4 |
+[G,Gc] [G,Gc] [G,2G2c2] z [^F,-^F-B] [E,/-F,/E/-F/B/] [E,/-E/-] [D,/-E,/D/-E/A/-] [D,/-D/-A/-] |
+[D,2D2A2] z2 z3 [D,DA] |
+[G,2E2B2] [G,2E2B2] [G,EB] [G,2D2c2] [G,-D-A-] |
+[G,DA] [C,2C2G2] [C,2C2G2] z2 C |
+[G,2D2B2] [G,2D2B2] [A,EB] [A,2E2B2] [D,-E-B-] |
+% Bar 30 (0:51)
+[D,EB] [D,2^F2c2] [^F,3D3G3] z2 |
+G G/ z3/2 G z ^F2 F |
+z E2 E z4 |
+D2 D z D D2 E- |
+E ^F2 D4 z |
+E2 B,2 E D2 D- |
+D C2 C2 B,2 [B,-A-] |
+[B,A] [G,2B2] z [G,B] [G,2B2] [A,-A-] |
+[A,3A3] z5 |
+z4 z3 A- |
+% Bar 40 (1:09)
+A e2 d4 z |
+[G2B2d2g2] g g a a2 [A-d-^f-] |
+[Ad^f] f g f d f d f |
+d e g e g ^f e c- |
+c d2 c g d c d |
+[dgb] [dgb] [d2g2b2] [dgb] [d2g2c'2] [d-^f-a-] |
+[d^fa] [df] [eg] [eg] [fa] [fa] [ac'] [ac'] |
+[G2d2g2b2] [G-dgb] [Gd-g-b-] [Gd-g-b-] [^F2d2g2b2] F- |
+^F E2 E3 z2 |
+G2 D2 G- [D-G] D E- |
+% Bar 50 (1:27)
+E ^F2 D2 E2 E- |
+E B,2 z E2 D D- |
+D D2 D2 D2 [B,-A-] |
+[B,A] [G,2A2] z [G,B] [G,2B2] [A,-A-] |
+[A,A] z7 |
+[G,Gc] [G,Gc] [G,2G2c2] z [^F,-^F-B] [E,/-F,/E/-F/B/] [E,/-E/-] [D,/-E,/D/-E/A/-] [D,/-D/-A/-] |
+[D,2D2A2] z2 z3 [D,DA] |
+[G,2E2B2] [G,2E2B2] [G,EB] [G,2D2c2] [G,-D-A-] |
+[G,DA] [C,2C2G2] [C,2C2G2] z2 C |
+[G,2D2B2] [G,2D2B2] [A,EB] [A,2E2B2] [D,-E-B-] |
+% Bar 60 (1:44)
+[D,EB] [D,2^F2c2] [^F,3D3G3] z2 |
+z2 G2 G G G G- |
+G D G G G/ G/ G G G- |
+G D2 [DB] [DB] [D2B2] [E-B-] |
+[EB] [EB] [D2A2] [EB] [D2A2] [B,-G-] |
+[B,2G2] z2 [G/B/] [G/B/] [G/B/] z/ [A-c-] [G/-A/B/-c/] [G/-B/-] |
+[GB] [DG] [D2G2] [G/B/] [G/B/] [GB] [Ac] [G-B-] |
+[G2B2] z [DB] [D/B/] z/ [DA] [DG] [D-A-] |
+[DA] [EA] [DA] [E2B2] [D2A2] [B,-G-] |
+[B,2G2] [GB] [G/B/] z/ [G/B/] z/ [DG] [Ac] [G-B-] |
+% Bar 70 (2:02)
+[GB] [GB] [GB] [GB] [GB] [A2c2] [G-B-] |
+[G2B2] z [D-B] [D/E/-B/] E/- [D/-E/c/-] [D3/2c3/2] [E-A-] |
+[EA] [EA] [D2A2] [E/c/] [E/c/] [Ec] [DA] [B,-G-] |
+[B,2G2] [EG] [EG] [G/B/] [G/B/] [G/B/] z/ [Ac] [G-B-] |
+[G2B2] z [EG] [GB] [GB] [A2c2] |
+[G2B2] D2 G A2 [A-B-] |
+[AB] [A2c2] [A2d2] [A-c-] [AB-c] B |
+G G/ z3/2 G z ^F2 F |
+z E2 E z4 |
+D2 D z E D2 E- |
+% Bar 80 (2:20)
+E ^F2 D4 z |
+E2 B,2 E D2 D- |
+D C2 C2 B,2 [B,-A-] |
+[B,A] [G,2B2] z [G,B] [G,2B2] [A,-A-] |
+[A,3A3] z5 |
+[G3/2B3/2-] B/ [G2B2] [GB-] [^F-A-B] [FA] [FA-] |
+A [E2G2] [E4G4] z |
+[G2B2] [D2-G2] [DGB-] [D-GB] D [E-A-] |
+[EA] [^F2B2] [D4c4] z |
+[E2B2] [B,2B2] [EB] [D-B] D [D-B-] |
+% Bar 90 (2:38)
+[DB] [C2G2] [C2G2] [B,2E2] [B,-E-] |
+[B,E] [G,2D2] z [G,B] [G,2B2] [A,-A-] |
+[A,3G3-A3] G5 |
+z4 z3 A- |
+A z7 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (2:55)
+z8 |
+z4 z3 A- |
+A e2 d4 z |
+[G2B2d2g2] g g a a2 [A-d-^f-] |
+[Ad^f] f g f d f d f |
+d e g e g ^f e c- |
+c d2 c g d c d |
+[dgb] [dgb] [d2g2b2] [dgb] [d2g2c'2] [d-^f-a-] |
+[d4-^f4-a4-] [d3f3a3] z |]
+
+X: 10
+%%Orig filename was FridayLoveDrums.abc
+T: FridayImInLove [Drums] (3:11)
+%%part-name Drums
+C: The Cure
+Z: ABC by Ailrien (Crickhollow)/midi by Frank Tang
+M: 4/4
+Q: 135
+K: C maj
+
++ffff+ [^GA-B] A [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 10 (0:15)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 20 (0:33)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 30 (0:51)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 40 (1:09)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 50 (1:27)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GA-B] A [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GA-B] A [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+% Bar 60 (1:44)
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GA-B] A [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+% Bar 70 (2:02)
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GA-B] A [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GA-B] A [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 80 (2:20)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 90 (2:38)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+% Bar 100 (2:55)
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z [^F,Ec] G [GB] F, [Ec] z |
+[^GB] z [^F,Ec] z [GB] [F,G] [Ec] z |
+[^GB] z7 |]
+
+X: 1
+%%Orig filename was FridayLoveFlute.abc
+T: FridayImInLove [Flute] (3:11)
+%%part-name Flute
+C: The Cure
+Z: ABC by Ailrien (Crickhollow)/midi by Frank Tang
+M: 4/4
+Q: 135
+K: C maj
+
++ffff+ A B B A B A2 A- |
+A G2 A A G2 G |
+A B B A A B2 d- |
+d d c2 B4 |
+A2 B A B B2 [A-c-] |
+[Ac] A2 A A G G A |
+G,2 G D B A2 D,- |
+D, A, C G B A G A |
+z8 |
+% Bar 10 (0:15)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z C2 z G ^F E2 |
+A B B A B A2 A- |
+A G6 G |
+A B B A B B2 d- |
+% Bar 20 (0:33)
+d d c2 B4 |
+A2 B A B B2 c- |
+c B2 A A G2 G |
+G2 D D D E2 D- |
+D C2 z G ^F E2 |
+z8 |
+z8 |
+A2 B A B B2 c- |
+c B2 A2 G2 G |
+G2 D D D E2 D- |
+% Bar 30 (0:51)
+D C2 z G ^F E2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z C2 z G ^F E2 |
+A B B A B A2 A- |
+% Bar 40 (1:09)
+A G6 G |
+A B B A B B2 d- |
+d d c2 B4 |
+A2 B A B B2 c- |
+c B2 A A G2 G |
+G2 D D D E2 D- |
+D C2 z G ^F E2 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:27)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A2 B A B B2 c- |
+c B2 A2 G2 G |
+G2 D D D E2 D- |
+% Bar 60 (1:44)
+D C2 z G ^F E2 |
+z2 e e e d d d |
+d c c c c B B B |
+B4 z3 A |
+G ^F D2- D4 |
+z2 e e/ z/ e d d d |
+d c c c c B B B |
+B4 z3 A |
+G ^F D2- D4 |
+z2 e e e d d d |
+% Bar 70 (2:02)
+d c c c c B B B |
+B4 z3 A |
+G ^F D2- D2 z2 |
+z2 e e e d d d |
+d c c c c B B B |
+B4 z3 A |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:20)
+z8 |
+z8 |
+z8 |
+z8 |
+z C2 z G ^F E2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (2:38)
+z8 |
+z8 |
+z C2 z G ^F E2 |
+A B B A B A2 A- |
+A G6 G |
+A B B A B B2 d- |
+d d c2 B4 |
+A2 B A B B2 c- |
+c B2 A A G2 G |
+G2 D D D E2 D- |
+% Bar 100 (2:55)
+D C2 z G ^F E2 |
+A B B A B A2 A- |
+A G6 G |
+A B B A B B2 d- |
+d d c2 B4 |
+A2 B A B B2 c- |
+c B2 A A G2 G |
+G2 D D D E2 D- |
+D z7 |]
+
+X: 5
+%%Orig filename was FridayLoveHarp.abc
+T: FridayImInLove [Harp] (3:11)
+%%part-name Harp
+C: The Cure
+Z: ABC by Ailrien (Crickhollow)/midi by Frank Tang
+M: 4/4
+Q: 135
+K: C maj
+
++ffff+ [G4-B4d4g4] G2 z [G-c-e-g-] |
+[G3c3e3-g3] e- e z3 |
+[G4-B4d4g4] G2 z [A-d-^f-] |
+[A4-d4-^f4-] [Adf] z3 |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4-B4d4g4] G2 z [G-c-e-g-] |
+% Bar 10 (0:15)
+[G3c3e3-g3] e- e z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A4-d4-^f4-] [A3d3f3] z |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4-B4d4g4] G2 z [G-c-e-g-] |
+[G3c3e3-g3] e- e z3 |
+[G4-B4d4g4] G2 z [A-d-^f-] |
+% Bar 20 (0:33)
+[A4-d4-^f4-] [Adf] z3 |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4c4e4] z3 [A-d-^f-] |
+[A3d3^f3] z5 |
+[B4e4g4] z3 [G-c-e-] |
+[G4-c4-e4-] [G3c3e3] z |
+[G6B6d6] z [A-d-^f-] |
+% Bar 30 (0:51)
+[A2-d2-^f2-] [A3/2d3/2f3/2-] [A/-d/-f/-g/-] [Adfg-] g3/2 z3/2 |
+[B4d4g4] z3 [G-c-g-] |
+[G3c3g3] z5 |
+[B4d4g4] z3 [A-d-^f-] |
+[A4-d4-^f4-] [A3d3f3] z |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4-B4d4g4] G2 z [G-c-e-g-] |
+% Bar 40 (1:09)
+[G3c3e3-g3] e- e z3 |
+[G4-B4d4g4] G2 z [A-d-^f-] |
+[A4-d4-^f4-] [Adf] z3 |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4-B4d4g4] G2 z [G-c-e-g-] |
+[G3c3e3-g3] e- e z3 |
+[G4-B4d4g4] G2 z [A-d-^f-] |
+% Bar 50 (1:27)
+[A4-d4-^f4-] [Adf] z3 |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G6d6g6] z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[G6d6g6] z [A-d-^f-] |
+[A4-d4-^f4-] [Adf] z3 |
+[G4d4g4] z3 [A-d-^f-] |
+% Bar 60 (1:44)
+[A3d3^f3] z5 |
+[B4e4g4] z3 [F-A-c-] |
+[F3A3c3] z5 |
+[G4B4d4] z3 [A-d-^f-] |
+[A3d3^f3] z4 [B-e-g-] |
+[B3e3g3] z4 [F-A-c-] |
+[F3A3c3] z5 |
+[G6B6g6] z [A-d-^f-] |
+[A4-d4-^f4-] [Adf] z2 [B-e-g-] |
+[B4-e4-g4-] [Beg] z2 [F-A-c-] |
+% Bar 70 (2:02)
+[F4-A4-c4-] [FAc] z3 |
+[G6d6g6] z [A-d-^f-] |
+[A4-d4-^f4-] [Adf] z2 [B-e-g-] |
+[B4-e4-g4-] [Beg] z3 |
+z8 |
+z8 |
+z8 |
+[B4d4g4] z3 [G-c-g-] |
+[G3c3g3] z5 |
+[B4d4g4] z3 [A-d-^f-] |
+% Bar 80 (2:20)
+[A4-d4-^f4-] [A3d3f3] z |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[B4d4g4] z3 [G-c-g-] |
+[G3c3g3] z5 |
+[B4d4g4] z3 [A-d-^f-] |
+[A4-d4-^f4-] [A3d3f3] z |
+[B4-e4g4] B2 z [c-e-g-] |
+% Bar 90 (2:38)
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4-B4d4g4] G2 z [G-c-e-g-] |
+[G3c3e3-g3] e- e z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A4-d4-^f4-] [A3d3f3] z |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+% Bar 100 (2:55)
+[A3d3^f3-] [A-d-f-g-] [Adfg-] g z2 |
+[G4-B4d4g4] G2 z [G-c-e-g-] |
+[G3c3-e3-g3-] [c-e-g-] [ceg] z3 |
+[G4-B4d4g4] G2 z [A-d-^f-] |
+[A4-d4-^f4-] [Adf] z3 |
+[B4-e4g4] B2 z [c-e-g-] |
+[c4-e4-g4-] [ceg] z3 |
+[B4d4g4] z3 [A-d-^f-] |
+[A4-d4-^f4-] [A3d3f3] z |]
+
+X: 21
+%%Orig filename was FridayLoveLute.abc
+T: FridayImInLove [Basic Lute] (3:11)
+%%part-name Basic Lute
+C: The Cure
+Z: ABC by Ailrien (Crickhollow)/midi by Frank Tang
+M: 4/4
+Q: 135
+K: C maj
+
++ffff+ G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d c' a2 D- |
+D A ^f d g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+g2 d d d e2 d |
+d c2 z g ^f e2 |
+G2 g d b a2 C- |
+% Bar 10 (0:15)
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+% Bar 20 (0:33)
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+[C4G4c4g4c'4] c' b2 [D-A-d-^f-] |
+[DAd^f] A d f g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 ^f d b a2 D- |
+% Bar 30 (0:51)
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+G2 g d b a2 C- |
+% Bar 40 (1:09)
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+% Bar 50 (1:27)
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+[C4G4c4g4c'4] c' b2 [D-A-d-^f-] |
+[DAd^f] A d f g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 ^f d b a2 D- |
+% Bar 60 (1:44)
+D A c g b a g a |
+E2 B2 g ^f e F- |
+F c g c c' b g a |
+G2 g d b a2 D- |
+D A d ^f g f d f |
+E2 B2 g ^f e F- |
+F c g c c' b g a |
+G2 g- [d-g] [db-] [a-b] a D- |
+D A d ^f g f d f |
+E2 B2 g ^f e F- |
+% Bar 70 (2:02)
+F c g c c' b g a |
+G2 g d b a2 D- |
+D A d ^f g f d f |
+E2 B2 g ^f e F- |
+F c g c c' b g a |
+G2 g d b a2 D- |
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+% Bar 80 (2:20)
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+% Bar 90 (2:38)
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+% Bar 100 (2:55)
+D A c g b a g a |
+G2 g d b a2 C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D A- [A^f-] [df] g f d f |
+E2 B2 g ^f e C- |
+C c g c c' b a g |
+G2 g d b a2 D- |
+D z7 |]
+

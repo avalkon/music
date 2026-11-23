@@ -1,0 +1,237 @@
+N: TS  2,   9   1
+X: 9
+%%Orig filename was SallyGardensAges.abc
+%abc-2.1
+%%song-title       Down by the Sally Gardens
+%%song-composer    Barry Taylor
+%%song-duration    1:57
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-06-27 13:14:56
+%%swing-rhythm false
+%%mix-timings false
+%%organic             true
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Down by the Sally Gardens (1:57) - Lute of Ages
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 4/4
+Q: 100
+K: C maj
+L: 1/8
+
++mf+ z13/48 [Bd] [^ce] [D,/5D/5A/5d/5^f/5] z9/5 [^F/5A/5c/5e/5] z4/5 |
+%  (0:02)
+[Bd] [A,/5E/5A/5^c/5e/5] z9/5 [A/5c/5d/5^f/5] z4/5 [fa] [G,/5G/5d/5g/5b/5] z9/5 |
+%  (0:04)
++mp+ [A/5d/5] z4/5 G +mf+ [^F,/5^F/5d/5^f/5a/5] z9/5 [F/5d/5b/5] z4/5 [fa] |
+%  (0:06)
+[G,/5G/5d/5g/5b/5] z4/5 +mp+ A +mf+ [B^fa] [df] [A,/5A/5d/5e/5] z9/5 +mp+ [A/5^c/5] |
+%  (0:08)
+z4/5 +mf+ [Gd] [D,/5^F/5d/5] z9/5 +mp+ [E/5^c/5] z4/5 G [D,/5F/5d/5] |
+%  (0:10)
+z9/5 +mf+ [Bd] [^ce] [D,/5D/5A/5d/5^f/5] z9/5 [^F/5A/5c/5e/5] z4/5 [Bd] |
+%  (0:12)
+[A,/5E/5A/5^c/5e/5] z9/5 [A/5c/5d/5^f/5] z4/5 [fa] [G,/5G/5d/5g/5b/5] z9/5 +mp+ [A/5d/5] |
+%  (0:14)
+z4/5 G +mf+ [^F,/5^F/5d/5^f/5a/5] z9/5 [F/5d/5b/5] z4/5 [fa] [G,/5G/5d/5g/5b/5] |
+%  (0:16)
+z4/5 +mp+ A +mf+ [B^fa] [df] [A,/5A/5d/5e/5] z9/5 +mp+ [A/5^c/5] z4/5 |
+%  (0:18)
++mf+ [Gd] [D,/5^F/5d/5] z9/5 +mp+ [E/5^c/5] z4/5 G [D,/5F/5d/5] z9/5 |
+%  (0:20)
++mf+ [^f2a2] [B,/5^F/5d/5b/5] z9/5 [F2^c2a2] [G,/5G/5d/5g/5b/5] z9/5 [B2d2b2] [^F,/5A/5c/5d/5a/5] |
+%  (0:23)
+z4/5 [Bdb] [A/5^c/5a/5] z4/5 [Ggb] [D,/5^F/5d/5^f/5a/5] z9/5 [A/5d/5f/5] |
+%  (0:25)
+z4/5 [^fa] [G,/5D/5d/5g/5b/5] z9/5 [^F,/5f/5a/5] z4/5 [df] [E,/5G/5d/5a/5] |
+%  (0:26)
+z4/5 [eb] [A,/5A/5^c/5d/5^f/5] z4/5 [Geg] [D,/5^F/5d/5f/5] z9/5 +mp+ [E/5c/5] |
+%  (0:28)
+z4/5 G [D,/5^F/5d/5] z9/5 +mf+ [Bd] [^ce] [D,/5D/5A/5d/5^f/5] z9/5 |
+%  (0:31)
+[^F/5A/5^c/5e/5] z4/5 [Bd] [A,/5E/5A/5c/5e/5] z9/5 [A/5c/5d/5^f/5] z4/5 [fa] |
+%  (0:32)
+[G,/5G/5d/5g/5b/5] z9/5 +mp+ [A/5d/5] z4/5 G +mf+ [^F,/5^F/5d/5^f/5a/5] z9/5 [F/5d/5b/5] |
+%  (0:34)
+z4/5 [^fa] [G,/5G/5d/5g/5b/5] z4/5 +mp+ A +mf+ [Bfa] [df] [A,/5A/5d/5e/5] |
+%  (0:36)
+z9/5 +mp+ [A/5^c/5] z4/5 +mf+ [Gd] [D,/5^F/5d/5] z9/5 +mp+ [E/5c/5] z4/5 |
+%  (0:38)
+G [D,/5^F/5d/5] z9/5 +mf+ [Bd] [^ce] [D,/5F/5d/5^f/5] z4/5 +mp+ D |
+%  (0:40)
++mf+ [A^ce] [^FBd] [A,/5c/5e/5] z4/5 +mp+ A +mf+ [Fd^f] [Afa] [G,/5G/5g/5b/5] |
+%  (0:42)
+z4/5 +mp+ D B G +mf+ [^F,/5^c/5^f/5a/5] z4/5 +mp+ A +mf+ [^Fda] |
+%  (0:44)
+[A^fa] [G,/5G/5g/5b/5] z4/5 +mp+ B +mf+ [dfa] [Bdf] [A,/5A/5e/5] z4/5 |
+%  (0:46)
++mp+ ^c e +mf+ [Gcd] [D,/5^F/5d/5] z4/5 +mp+ A F A |
+%  (0:48)
+[D,/5d/5] z4/5 A +mf+ [^FBd] [E^ce] [D,/5F/5d/5^f/5] z4/5 +mp+ D |
+%  (0:50)
++mf+ [A^ce] [^FBd] [A,/5c/5e/5] z4/5 +mp+ A +mf+ [Fd^f] [Afa] [G,/5G/5g/5b/5] |
+%  (0:52)
+z4/5 +mp+ D B G +mf+ [^F,/5^c/5^f/5a/5] z4/5 +mp+ A +mf+ [^Fda] |
+%  (0:54)
+[A^fa] [G,/5G/5g/5b/5] z4/5 +mp+ B +mf+ [dfa] [Bdf] [A,/5A/5e/5] z4/5 |
+%  (0:55)
++mp+ ^c e +mf+ [Gcd] [D,/5^F/5d/5] z4/5 +mp+ A F A |
+%  (0:58)
+[D,/5d/5] z4/5 A +mf+ [^F/5^f/5a/5] z4/5 +mp+ E +mf+ [B,/5F/5d/5b/5] z4/5 |
+%  (0:59)
++mp+ A +mf+ [^c/5a/5] z4/5 +mp+ d +mf+ [G,/5D/5g/5b/5] z4/5 +mp+ G +mf+ [B/5d/5b/5] |
+%  (1:01)
+z4/5 +mp+ d +mf+ [^F,/5^C/5^c/5a/5] z4/5 [^Fdb] [Aca] [dgb] [D,/5D/5^f/5a/5] |
+%  (1:02)
+z4/5 +mp+ ^F +mf+ [Ad^f] [dfa] [G,/5D/5g/5b/5] z4/5 +mp+ G +mf+ [^F,/5B/5f/5a/5] |
+%  (1:04)
+z4/5 [d^f] [E,/5^c/5d/5a/5] z4/5 [Beb] [A,/5A/5d/5f/5] z4/5 [Geg] |
+%  (1:06)
+[D,/5D/5d/5^f/5] z4/5 +mp+ ^F A F [D,/5d/5] z4/5 A |
+%  (1:08)
++mf+ [^FBd] [A^ce] [D,/5D/5d/5^f/5] z4/5 +mp+ F +mf+ [Ace] [FBd] [A,/5c/5e/5] |
+%  (1:10)
+z4/5 +mp+ A +mf+ [^Fd^f] [Afa] [G,/5G/5g/5b/5] z4/5 +mp+ D B |
+%  (1:12)
+G +mf+ [^F,/5^c/5^f/5a/5] z4/5 +mp+ A +mf+ [^Fda] [Afa] [G,/5G/5g/5b/5] z4/5 |
+%  (1:13)
++mp+ B +mf+ [d^fa] [Bdf] [A,/5A/5e/5] z4/5 +mp+ ^c e +mf+ [Gcd] |
+%  (1:16)
+[D,/5^F/5d/5] z4/5 +mp+ A F A [D,/5d/5] z4/5 A |
+%  (1:17)
++mf+ [^G^ce] [^F^d^f] [E,/5E/5B/5e/5^g/5] z4/5 +p+ b +mf+ [G/5B/5d/5f/5] z4/5 [ceb] |
+%  (1:19)
+[B,/5^F/5B/5^d/5^f/5] z4/5 +p+ b +mf+ [B/5d/5e/5^g/5] z4/5 [gb] [A,/5A/5^c/5e/5a/5] z4/5 |
+%  (1:21)
++p+ a +mp+ [B/5e/5] z4/5 [Aa] +mf+ [^G,/5^G/5e/5^g/5b/5] z4/5 +p+ b +mf+ [G/5e/5b/5] |
+%  (1:22)
+z4/5 [^gb] [A,/5A/5^c/5e/5a/5] z4/5 +mp+ [Bc] +mf+ [cgb] [ceg] [B,/5B/5e/5^f/5] |
+%  (1:24)
+z4/5 +p+ b +mp+ [B/5^d/5] z4/5 +mf+ [Aeb] [E,/5^G/5e/5] z4/5 +p+ b |
+%  (1:26)
++mp+ [^F/5^d/5] z4/5 [Ab] [E,/5^G/5e/5] z9/5 +mf+ [^ce] [d^f] [E,/5E/5B/5e/5^g/5] |
+%  (1:28)
+z4/5 +p+ b +mf+ [^G/5B/5^d/5^f/5] z4/5 [^ceb] [B,/5^F/5B/5d/5f/5] z4/5 +p+ b |
+%  (1:29)
++mf+ [B/5^d/5e/5^g/5] z4/5 [gb] [A,/5A/5^c/5e/5a/5] z4/5 +p+ a +mp+ [B/5e/5] z4/5 |
+%  (1:31)
+[Aa] +mf+ [^G,/5^G/5e/5^g/5b/5] z4/5 +p+ b +mf+ [G/5e/5b/5] z4/5 [gb] [A,/5A/5^c/5e/5a/5] |
+%  (1:32)
+z4/5 +mp+ [B^c] +mf+ [c^gb] [ceg] [B,/5B/5e/5^f/5] z4/5 +p+ b +mp+ [B/5^d/5] |
+%  (1:34)
+z4/5 +mf+ [Aeb] [E,/5^G/5e/5] z4/5 +p+ b +mp+ [^F/5^d/5] z4/5 [Ab] |
+%  (1:36)
+[E,/5^G/5e/5] z9/5 +mf+ [^g2b2] [^C/5G/5^c/5e/5] z4/5 +p+ e +mf+ [G/5^d/5b/5] z4/5 |
+%  (1:38)
++p+ e +mf+ [A,/5A/5^c/5e/5a/5] z4/5 +p+ e +mf+ [c/5e/5] z4/5 +p+ e +mf+ [^G,/5B/5^d/5e/5b/5] |
+%  (1:40)
+z4/5 [^ce] [B/5^d/5b/5] z4/5 [Aca] [E,/5^G/5e/5^g/5b/5] z4/5 +p+ e |
+%  (1:41)
++mf+ [B/5e/5^g/5] z4/5 [egb] [A,/5E/5^c/5e/5a/5] z4/5 +p+ e +mf+ [^G,/5g/5b/5] z4/5 |
+%  (1:43)
+[e^g] [^F,/5A/5e/5b/5] z4/5 [^ce^f] [B,/5B/5^d/5e/5g/5] z4/5 [Adfa] [E,/5^G/5e/5g/5] |
+%  (1:44)
+z4/5 +p+ e +mp+ [^F/5^d/5] z4/5 [Ae] [E,/5^G/5e/5] z9/5 +mf+ [^ce] |
+%  (1:46)
+[^d^f] [E,/5E/5B/5e/5^g/5] z4/5 +p+ b +mf+ [^G/5B/5d/5f/5] z4/5 [^ceb] [B,/5^F/5B/5d/5f/5] |
+%  (1:48)
+z4/5 +p+ b +mf+ [B/5^d/5e/5^g/5] z4/5 [gb] [A,/5A/5^c/5e/5a/5] z4/5 +p+ a |
+%  (1:50)
++mp+ [B/5e/5] z4/5 [Aa] +mf+ [^G,/5^G/5e/5^g/5b/5] z4/5 +p+ b +mf+ [G/5e/5b/5] z4/5 |
+%  (1:51)
+[^gb] [A,/5A/5^c/5e/5a/5] z4/5 +mp+ [Bc] +mf+ [cgb] [ceg] [B,/5B/5e/5^f/5] z4/5 |
+%  (1:53)
++p+ b +mp+ [B/5^d/5] z4/5 +mf+ [Aeb] [E,/5^G/5e/5] z4/5 +p+ b +mp+ [^F/5d/5] |
+%  (1:55)
+z4/5 [Ab] [E,287/48^G287/48e287/48] |]
+
+X: 1
+%%Orig filename was SallyGardensFlute.abc
+%abc-2.1
+%%song-title       Down by the Sally Gardens
+%%song-composer    Barry Taylor
+%%song-duration    1:57
+%%song-transcriber Kellinore of Gladden
+%%abc-creator Maestro v4.1.3
+%%export-timestamp 2025-06-27 13:14:56
+%%swing-rhythm false
+%%mix-timings false
+%%organic             true
+%%organic-multi-stage false
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+T: Down by the Sally Gardens (1:57) - Basic Flute
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Barry Taylor
+Z: Kellinore of Gladden
+M: 4/4
+Q: 100
+K: C maj
+L: 1/8
+
++mf+ z13/48 [D,B,] [^C,E,] [D,2^F,2] [C,E,] [D,B,] [C,2E,2] |
+%  (0:03)
+[D,^F,] [F,A,] [G,4B,4] [F,2A,2] [B,D] [F,A,] [G,2B,2] [F,A,] |
+%  (0:07)
+[D,^F,] [E,3A,3] [D,G,] [D,6F,6] [D,B,] [^C,E,] [D,2F,2] [C,E,] |
+%  (0:12)
+[D,B,] [^C,2E,2] [D,^F,] [F,A,] [G,4B,4] [F,2A,2] [B,D] [F,A,] |
+%  (0:16)
+[G,2B,2] [^F,A,] [D,F,] [E,3A,3] [D,G,] [D,6F,6] [F,2A,2] [B,2D2] |
+%  (0:21)
+[A,2^C2] [G,2B,2] [B,2D2] [A,C] [B,D] [A,C] [G,B,] [^F,2A,2] |
+%  (0:25)
+[D,^F,] [F,A,] [G,2B,2] [F,A,] [D,F,] [D,A,] [E,B,] [F,D] |
+%  (0:27)
+[G,E] [^F,6D6] [D,B,] [^C,E,] [D,2F,2] [C,E,] [D,B,] [C,2E,2] |
+%  (0:32)
+[D,^F,] [F,A,] [G,4B,4] [F,2A,2] [B,D] [F,A,] [G,2B,2] [F,A,] |
+%  (0:36)
+[D,^F,] [E,3A,3] [D,G,] [D,6F,6] [D,B,] [^C,E,] [D,2F,2] [C,E,] |
+%  (0:40)
+[D,B,] [^C,2E,2] [D,^F,] [F,A,] [G,4B,4] [F,2A,2] [A,D] [F,A,] |
+%  (0:44)
+[G,2B,2] [^F,A,] [D,F,] [E,3A,3] [D,G,] [D,6F,6] [D,B,] [^C,E,] |
+%  (0:49)
+[D,2^F,2] [^C,E,] [D,B,] [C,2E,2] [D,F,] [F,A,] [G,4B,4] [F,2A,2] |
+%  (0:53)
+[A,D] [^F,A,] [G,2B,2] [F,A,] [D,F,] [E,3A,3] [D,G,] [D,6F,6] |
+%  (0:58)
+[^F,2A,2] [B,2D2] [A,2^C2] [G,2B,2] [B,2D2] [A,C] [B,D] [A,C] |
+%  (1:02)
+[G,B,] [^F,2A,2] [D,F,] [F,A,] [G,2B,2] [F,A,] [D,F,] [D,A,] |
+%  (1:05)
+[E,B,] [^F,D] [G,E] [F,6D6] [D,B,] [^C,E,] [D,2F,2] [C,E,] |
+%  (1:09)
+[D,B,] [^C,2E,2] [D,^F,] [F,A,] [G,4B,4] [F,2A,2] [A,D] [F,A,] |
+%  (1:13)
+[G,2B,2] [^F,A,] [D,F,] [E,3A,3] [D,G,] [D,6F,6] [^C,E,] [^D,F,] |
+%  (1:18)
+[E,2^G,2] [^D,^F,] [^C,E,] [D,2F,2] [E,G,] [G,B,] [A,4^C4] [G,2B,2] |
+%  (1:22)
+[B,E] [^G,B,] [A,2^C2] [G,B,] [E,G,] [^F,3B,3] [E,A,] [E,6G,6] |
+%  (1:27)
+[^C,E,] [^D,^F,] [E,2^G,2] [D,F,] [C,E,] [D,2F,2] [E,G,] [G,B,] |
+%  (1:30)
+[A,4^C4] [^G,2B,2] [B,E] [G,B,] [A,2C2] [G,B,] [E,G,] [^F,3B,3] |
+%  (1:34)
+[E,A,] [E,6^G,6] [G,2B,2] [^C2E2] [B,2^D2] [A,2C2] [C2E2] [B,D] |
+%  (1:40)
+[^CE] [B,^D] [A,C] [^G,2B,2] [E,G,] [G,B,] [A,2C2] [G,B,] |
+%  (1:43)
+[E,^G,] [E,B,] [^F,^C] [G,E] [A,^F] [G,6E6] [^C,E,] [^D,F,] |
+%  (1:47)
+[E,2^G,2] [^D,^F,] [^C,E,] [D,2F,2] [E,G,] [G,B,] [A,4^C4] [G,2B,2] |
+%  (1:51)
+[B,E] [^G,B,] [A,2^C2] [G,B,] [E,G,] [^F,3B,3] [E,A,] [E,479/48G,479/48] |]
+

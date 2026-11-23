@@ -1,0 +1,705 @@
+N: TS  8,  11   8   3  10   1   4  21  16
+X: 11
+%%Orig filename was xFelizBardic.abc
+T: feliz navidad (2:00) - Bardic Fiddle
+%%part-name Bardic Fiddle
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+[G3B3] G A B3 |
+[^FA] [F2A2] [FA] [E2G2] [E2G2] |
+[D3^F3] [D2G2B2] [D2A2] [DG] |
+[D2^F2] z A d2 ^c d |
+B8- |
+B2 z B e2 d B |
+A8- |
+% Bar 10 (0:15)
+A2 z A d2 ^c d |
+[G3B3] G [G2B2] [G2B2] |
+[^FA] [FA] [GB] [FA] [E2G2] [EG] [D-F-] |
+[D8-^F8-] |
+[D2^F2] z A d2 ^c d |
+B8- |
+B2 z B e2 d B |
+A8- |
+A2 z A d2 ^c d |
+B3 G B2 B2 |
+% Bar 20 (0:32)
+A A B A G2 G ^F- |
+^F8 |
+z [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [GB] [G3B3d3] |
+z [G^ce] [Gce] [Gce] [G2c2e2] [Gd] B |
+[D2^F2B2] [D2F2A2] ^G A3 |
+z [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [GB] [GB] [GBe] [GBd] |
+[GA^c] [G3A3c3] [G2B2d2] [G2c2e2] |
+e/ ^f e/ d2- d4- |
+% Bar 30 (0:49)
+d [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [^F^A] [G3B3] |
+z [G^ce] [Gce] [Gce] [G2c2e2] [Gd] B |
+[D2^F2B2] [D2F2A2] ^G A3 |
+z [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [G2B2] [GBe] d |
+[GA^c] [G3A3c3] [G2B2d2] [G2c2e2] |
+e/ ^f e/ d2- d4- |
+d2 z A d2 ^c d |
+B8- |
+% Bar 40 (1:06)
+B2 z B e2 d B |
+A8- |
+A2 z A d2 ^c d |
+B3 G B2 B2 |
+A A B A G2 G ^F- |
+^F8 |
+z [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [GB] [G3B3d3] |
+z [G^ce] [Gce] [Gce] [G2c2e2] [Gd] B |
+[D2^F2B2] [D2F2A2] ^G A3 |
+% Bar 50 (1:23)
+z [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [GB] [GB] [GBe] [GBd] |
+[GA^c] [G3A3c3] [G2B2d2] [G2c2e2] |
+e/ ^f e/ d2- d4- |
+d [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [^F^A] [G3B3] |
+z [G^ce] [Gce] [Gce] [G2c2e2] [Gd] B |
+[D2^F2B2] [D2F2A2] ^G A3 |
+z [Ad^f] [Adf] [Adf] [Adf] [A2e2] [Ad] |
+[G2B2d2] [G2B2] [G2B2] [GBe] d |
+% Bar 60 (1:41)
+[GA^c] [G3A3c3] [G2B2d2] [G2c2e2] |
+e/ ^f e/ d2- d4- |
+d2 z A d2 ^c d |
+B8- |
+B2 z B e2 d B |
+A8- |
+A2 z A d2 ^c d |
+B3 G B2 B2 |
+A A B A G2 G ^F- |
+^F8- |
+% Bar 70 (1:58)
+^F3 z5 |
+z8 |]
+
+X: 8
+%%Orig filename was xFelizBass.abc
+T: feliz navidad (2:00) - Basic Theorbo
+%%part-name Basic Theorbo
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+E3 G3 E2 |
+A3 E3 A2 |
+D2 A G2 ^F2 E |
+D2 z2 z4 |
+E3 G3 E2 |
+A3 E3 A2 |
+D3 A3 A2 |
+% Bar 10 (0:15)
+D3 A3 D2 |
+E3 e3 B2 |
+A3 E3 A2 |
+D2 d B2 A2 ^F |
+D2 z2 z4 |
+E3 G3 E2 |
+A3 E3 A2 |
+D3 A3 A2 |
+D3 A3 D2 |
+E3 e3 B2 |
+% Bar 20 (0:32)
+A3 E3 A2 |
+D2 d B2 A2 ^F |
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 e3 A2 |
+D3 d3 A2 |
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 A E2 A2 |
+D3 ^F G F2 E |
+% Bar 30 (0:49)
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 e3 A2 |
+D3 d3 A2 |
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 A E2 A2 |
+D3 ^F G F2 E |
+D2 z2 z4 |
+E3 G3 E2 |
+% Bar 40 (1:06)
+A3 E3 A2 |
+D3 A3 A2 |
+D3 A3 D2 |
+E3 e3 B2 |
+A3 E3 A2 |
+D2 d B2 A2 ^F |
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 e3 A2 |
+D3 d3 A2 |
+% Bar 50 (1:23)
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 A E2 A2 |
+D3 ^F G F2 E |
+D d d d d e2 ^f |
+g3 d3 G2 |
+A3 e3 A2 |
+D3 d3 A2 |
+D d d d d e2 ^f |
+g3 d3 G2 |
+% Bar 60 (1:41)
+A3 A E2 A2 |
+D3 ^F G F2 E |
+D2 z2 z4 |
+E3 G3 E2 |
+A3 E3 A2 |
+D3 A3 A2 |
+D3 A3 D2 |
+E3 e3 B2 |
+A3 E3 A2 |
+D2 d B2 A2 ^F |
+% Bar 70 (1:58)
+D2 A D5 |
+z8 |]
+
+X: 3
+%%Orig filename was xFelizClar.abc
+T: feliz navidad (2:00) - Clarinet
+%%part-name Clarinet
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:15)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:32)
+z8 |
+z8 |
+z2 ^F F F E2 D |
+D2 B,2 B, D3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+z ^F F F F E2 D |
+D2 B,2 B, B, E D |
+^C C3 D2 E2 |
+[E/A/-] [^FA-] [E/A/-] [D-A] [D-A] [D-B] [D2-A2] [D-G] |
+% Bar 30 (0:49)
+[D^F] F F F F E2 D |
+D2 B,2 ^A, B,3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+z ^F F F F E2 D |
+D2 B,2 B,2 E D |
+^C C3 D2 E2 |
+[E/A/-] [^FA-] [E/A/-] [D-A] [D-A] [D-B] [D2-A2] [D-G] |
+[D2^F2] z2 z4 |
+z8 |
+% Bar 40 (1:06)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 ^F F F E2 D |
+D2 B,2 B, D3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+% Bar 50 (1:23)
+z ^F F F F E2 D |
+D2 B,2 B, B, E D |
+^C C3 D2 E2 |
+[E/A/-] [^FA-] [E/A/-] [D-A] [D-A] [D-B] [D2-A2] [D-G] |
+[D^F] F F F F E2 D |
+D2 B,2 ^A, B,3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+z ^F F F F E2 D |
+D2 B,2 B,2 E D |
+% Bar 60 (1:41)
+^C C3 D2 E2 |
+[E/A/-] [^FA-] [E/A/-] [D-A] [D-A] [D-B] [D2-A2] [D-G] |
+[D2^F2] z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:58)
+z8 |
+z8 |]
+
+X: 10
+%%Orig filename was xFelizDrums.abc
+T: feliz navidad (2:00) - Drums
+%%part-name Drums
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++f+ A,/ z7/2 A,/ z7/2 |
+A,/ z3/2 +mf+ A,/ z3/2 +fff+ A,/ z3/2 +f+ A,/ z3/2 |
+[C,/G/c/] z/ [G/B/] z/ [E/G/] z/ [C,/G/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ G/ z/ +fff+ [C,/G/a/] [B,/^C/] |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [E/G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ |
+[C,/G/c/] +p+ E/ +f+ [E/G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+% Bar 10 (0:15)
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] E/ +ff+ [E/G/c/] +f+ E/ +fff+ [C,/^C/G/B/a/] +mf+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ G/ z/ +fff+ [C,/G/a/] +ff+ ^C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] +p+ E/ +f+ [E/G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [E/G/B/] z/ [C,/G/c/] z/ +fff+ [G/B/a/] B,/ +f+ [^C/G/c/] +mf+ C/ +fff+ [C,/G/B/a/] B,/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+% Bar 20 (0:32)
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [E/G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] +p+ E/ |
++f+ [C,/E/G/c/] +p+ E/ +f+ [G/B/] +p+ E/ +f+ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] E/ +ff+ [E/G/c/] +f+ E/ +fff+ [C,/^C/G/B/a/] +mf+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ +ff+ [C,/E/G/A/c/] z/ +pp+ B/ +ff+ [C,/E/G/A/] z [C,/E/G/A/] z/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ G/ z/ +fff+ [C,/G/a/-] +ff+ [^C/a/-] |
++f+ [C,/G/c/a/-] a/- [G/B/a/-] a/- [E/G/c/a/-] a/- [C,/G/B/a/-] a/- [C,/G/c/a/-] a/- [G/B/a/-] a/- [E/G/c/a/-] a/- [C,/G/B/a/-] a/- |
+[C,/G/c/a/-] a/- [G/B/a/-] a/- [E/G/c/a/-] a/- [C,/G/B/a/-] a/- [C,/G/c/a/-] a/- [G/B/a/-] a/- [E/G/c/a/-] a/- [C,/G/B/a/-] a/- |
+% Bar 30 (0:49)
+[C,/G/c/a/-] +p+ [E/a/-] +f+ [E/G/B/a/-] a/- [E/G/c/a/-] a/- [C,/G/B/a/-] a/- [C,/G/c/a/-] a/- [G/B/a/-] a/- [G/a/-] a/ [C,/G/] +ff+ ^C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] +p+ E/ +f+ [E/G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ [C,/G/c/] z/ +fff+ [G/B/a/] B,/ +f+ [^C/G/c/] +mf+ C/ +f+ [C,/C/G/B/] +ff+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] +p+ E/ +f+ [C,/G/B/] +p+ E/ |
++f+ [C,/G/c/] +p+ E/ +f+ [G/B/] +p+ E/ +f+ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+% Bar 40 (1:06)
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ [C,/G/c/] z/ +fff+ [G/B/a/] B,/ +f+ [^C/G/c/] +mf+ C/ +f+ [C,/C/G/B/] +ff+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] +p+ E/ +f+ [C,/G/B/] +p+ E/ |
++f+ [C,/G/c/] +p+ E/ +f+ [G/B/] +p+ E/ +f+ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [E/G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+% Bar 50 (1:23)
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ [C,/G/c/] z/ +fff+ [G/B/a/] B,/ +f+ [^C/G/c/] +mf+ C/ +f+ [C,/C/G/B/] +ff+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] +p+ E/ +f+ [C,/G/B/] +p+ E/ |
++f+ [C,/G/c/] +p+ E/ +f+ [G/B/] +p+ E/ +f+ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ +pp+ B/ z/ +f+ [E/c/] z/ [C,/B/] z/ +fff+ [C,/E/G/A/] z +ff+ [C,/E/G/A/] z [C,/E/G/A/] z/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ G/ z/ [C,/G/] +ff+ ^C/ |
+% Bar 60 (1:41)
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] +p+ E/ +f+ [C,/G/c/] z/ [G/B/] E/ +ff+ [E/G/c/] +f+ E/ +fff+ [C,/B,/^C/G/B/] +mf+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] +p+ E/ +f+ [E/G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [E/G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ [C,/G/c/] z/ +fff+ [G/B/a/] B,/ +ff+ [^C/G/c/] +mf+ C/ +f+ [C,/C/G/B/] +ff+ C/ |
++f+ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] +p+ E/ +f+ [C,/G/B/] +p+ E/ |
++f+ [C,/G/c/] +p+ E/ +f+ [G/B/] +p+ E/ +f+ [E/G/c/] z/ [C,/G/B/] z/ [C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/G/B/] z/ |
+% Bar 70 (1:58)
+[C,/G/c/] z/ [G/B/] z/ [E/G/c/] z/ [C,/E/G/B/] z/ [C,/G/c/] z/ +fff+ [G/B/a/] B,/ +f+ [^C/G/c/] +mf+ C/ +fff+ [C,/G/B/a/] B,/ |
+z8 |]
+
+X: 1
+%%Orig filename was xFelizFlute.abc
+T: feliz navidad (2:00) - Flute
+%%part-name Flute
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 A, D2 ^C D |
+B,8- |
+B,2 z B, E2 D B, |
+A,8- |
+% Bar 10 (0:15)
+A,2 z A, D2 ^C D |
+B,3 G, B,2 B,2 |
+A, A, B, A, G,2 G, ^F,- |
+^F,8- |
+^F,2 z A, D2 ^C D |
+B,8- |
+B,2 z B, E2 D B, |
+A,8- |
+A,2 z A, D2 ^C D |
+B,3 G, B,2 B,2 |
+% Bar 20 (0:32)
+A, A, B, A, G,2 G, ^F,- |
+^F,8 |
+z ^F F F F E2 D |
+D2 B,2 B, D3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+z ^F F F F E2 D |
+D2 B,2 B, B, E D |
+^C C3 D2 E2 |
+E/ ^F E/ D2- D4- |
+% Bar 30 (0:49)
+D ^F F F F E2 D |
+D2 B,2 ^A, B,3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+z ^F F F F E2 D |
+D2 B,2 B,2 E D |
+^C C3 D2 E2 |
+E/ ^F E/ D2- D4- |
+D2 z A, D2 ^C D |
+B,8- |
+% Bar 40 (1:06)
+B,2 z B, E2 D B, |
+A,8- |
+A,2 z A, D2 ^C D |
+B,3 G, B,2 B,2 |
+A, A, B, A, G,2 G, ^F,- |
+^F,8 |
+z ^F F F F E2 D |
+D2 B,2 B, D3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+% Bar 50 (1:23)
+z ^F F F F E2 D |
+D2 B,2 B, B, E D |
+^C C3 D2 E2 |
+E/ ^F E/ D2- D4- |
+D ^F F F F E2 D |
+D2 B,2 ^A, B,3 |
+z E E E E2 D B, |
+B,2 A,2 ^G, A,3 |
+z ^F F F F E2 D |
+D2 B,2 B,2 E D |
+% Bar 60 (1:41)
+^C C3 D2 E2 |
+E/ ^F E/ D2- D4- |
+D2 z A, D2 ^C D |
+B,8- |
+B,2 z B, E2 D B, |
+A,8- |
+A,2 z A, D2 ^C D |
+B,3 G, B,2 B,2 |
+A, A, B, A, G,2 G, ^F,- |
+^F,8- |
+% Bar 70 (1:58)
+^F,3 [A,5D5^F5] |
+z8 |]
+
+X: 4
+%%Orig filename was xFelizHorn.abc
+T: feliz navidad (2:00) - Horn
+%%part-name Horn
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,2 A, G,2 ^F,2 E, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+% Bar 10 (0:15)
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+% Bar 20 (0:32)
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+% Bar 30 (0:49)
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+% Bar 40 (1:06)
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+% Bar 50 (1:23)
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+% Bar 60 (1:41)
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+% Bar 70 (1:58)
+D,2 A, D,5 |
+z8 |]
+
+X: 21
+%%Orig filename was xFelizLute.abc
+T: feliz navidad (2:00) - Basic Lute
+%%part-name Basic Lute
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+z2 d2- d4 |
+^c8 |
+z8 |
+z8 |
+[d2g2] b g e d3 |
+^c2 g2- g4 |
+[d2^f2] a f d B3 |
+% Bar 10 (0:15)
+A2 ^f2- f4 |
+z2 ^c2- c4 |
+^f f g f e2 e d- |
+d2 z2 z4 |
+z8 |
+[d2g2] b g e d3 |
+^c2 g2- g4 |
+[d2^f2] a f d B3 |
+A2 ^f2- f4 |
+z2 ^c2- c4 |
+% Bar 20 (0:32)
+^f f g f e2 e d- |
+d2 z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[d2g2] b g e d3 |
+% Bar 40 (1:06)
+^c2 g2- g4 |
+[d2^f2] a f d B3 |
+A2 ^f2- f4 |
+z2 ^c2- c4 |
+^f f g f e2 e d- |
+d2 z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:41)
+z8 |
+z8 |
+z8 |
+[d2g2] b g e d3 |
+^c2 g2- g4 |
+[d2^f2] a f d B3 |
+A2 ^f2- f4 |
+z2 ^c2- c4 |
+^f f g f e2 e d- |
+d2 z2 z4 |
+% Bar 70 (1:58)
+z8 |
+z8 |]
+
+X: 16
+%%Orig filename was xFelizSoonBR.abc
+T: feliz navidad (2:00) - Brusque Bassoon
+%%part-name Brusque Bassoon
+Z: Cheggra
+M: 4/4
+Q: 140
+K: C maj
+
++fff+ z8 |
+z8 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,2 A, G,2 ^F,2 E, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+% Bar 10 (0:15)
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+% Bar 20 (0:32)
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+% Bar 30 (0:49)
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+% Bar 40 (1:06)
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+% Bar 50 (1:23)
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+A,3 E3 A,2 |
+D,3 D3 A,2 |
+D, D D D D E2 ^F |
+G3 D3 G,2 |
+% Bar 60 (1:41)
+A,3 A, E,2 A,2 |
+D,3 ^F, G, F,2 E, |
+D,2 z2 z4 |
+E,3 G,3 E,2 |
+A,3 E,3 A,2 |
+D,3 A,3 A,2 |
+D,3 A,3 D,2 |
+E,3 E3 B,2 |
+A,3 E,3 A,2 |
+D,2 D B,2 A,2 ^F, |
+% Bar 70 (1:58)
+D,2 A, D,5 |
+z8 |]
+

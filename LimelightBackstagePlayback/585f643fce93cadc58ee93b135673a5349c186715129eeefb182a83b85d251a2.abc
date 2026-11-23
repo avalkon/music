@@ -1,0 +1,649 @@
+N: TS  8,   9   8  21   3  22   1   5  23
+X: 9
+%%Orig filename was GaudeteAges.abc
+T: Gaudete_Multi8 [Lute of Ages] (2:07)
+%%part-name Lute of Ages
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ a2 +mf+ a2 +mp+ g2 +mf+ a b |
+c'2 c' b- b +mp+ a g2 |
++mf+ g2 g2 a2 b2- |
+b a +mp+ g2 +mf+ a b- b a |
++mp+ g2 +mf+ a2 +mp+ a2 +f+ a2 |
++mf+ a2 g2 a b c'2 |
+c' b- b a +mp+ g2 +mf+ g2 |
+g2 a2 b3 +mp+ a |
+g2 +mf+ a b- b a g2 |
+% Bar 10 (0:18)
+a2 a2 a a +mp+ g +mf+ a |
+c' +mp+ b a2 +mf+ a +mp+ f +mf+ e f |
++mp+ d2 d2 +mf+ d d f +mp+ d |
++mf+ f g a2 c' +mp+ a +mf+ b c' |
++mp+ a2 a2 a2 a2 |
+g2 +mf+ a b c'2 c' +mp+ b- |
+b +mf+ a +mp+ g2 +mf+ g2 g2 |
+a2 b3 +mp+ a g2 |
++mf+ a b- b a +mp+ g2 +mf+ a2 |
+a2 +f+ a2 +mf+ a2 +mp+ g2 |
+% Bar 20 (0:38)
++mf+ a b c'2 c' b- b a |
++mp+ g2 +mf+ g2 g2 a2 |
+b3 a +mp+ g2 +mf+ a b- |
+b a +mp+ g2 +mf+ a2 a2 |
+a a g a c' +mp+ b a2 |
++mf+ a +mp+ f e +mf+ f d2 d2 |
+d d f +mp+ d +mf+ f g a2 |
+c' +mp+ a +mf+ b c' a2 a2 |
++mp+ a2 a2 g2 +mf+ a b |
+c'2 c' +mp+ b- b +mf+ a g2 |
+% Bar 30 (0:58)
+g2 g2 a2 b2- |
+b +mp+ a g2 +mf+ a b- b a |
++mp+ g2 +mf+ a2 a2 +f+ a2 |
++mf+ a2 +mp+ g2 +mf+ a b c'2 |
+c' b- b +mp+ a +mf+ g2 g2 |
+g2 a2 b3 +mp+ a |
++mf+ g2 a b- b a +mp+ g2 |
++mf+ a2 a2 a a g a |
+c' +mp+ b +mf+ a2 +mp+ a f e +mf+ f |
++mp+ d2 +mf+ d2 d d f +mp+ d |
+% Bar 40 (1:18)
++mf+ f g a2 c' a b c' |
++mp+ a2 +mf+ a2 +p+ a2 +mf+ a2 |
++mp+ g2 +mf+ a b c'2 +mp+ c' +mf+ b- |
+b a +mp+ g2 +mf+ g2 g2 |
+a2 b3 +mp+ a g2 |
++mf+ a b- b +mp+ a g2 +mf+ a2 |
+a2 +f+ a2 +mf+ a2 g2 |
+a b c'2 c' b- b +mp+ a |
++mf+ g2 g2 g2 a2 |
+b3 +mp+ a +mf+ g2 a b- |
+% Bar 50 (1:38)
+b +mp+ a g2 +mf+ a2 a2 |
+a a +mp+ g +mf+ a +f+ c' +mf+ b a2 |
+a +mp+ f +mf+ e f +mp+ d2 +mf+ d2 |
+d d f d f g a2 |
+c' +mp+ a +mf+ b c' a2 a2 |
++p+ a2 +mp+ a2 g2 +mf+ a b |
+c'2 +mp+ c' +mf+ b- b +mp+ a g2 |
+g2 +mf+ g2 a2 b2- |
+b +mp+ a g2 +mf+ a b- b +mp+ a |
+g2 +mf+ a2 a2 +f+ a2 |
+% Bar 60 (1:58)
++mf+ a2 +mp+ g2 +mf+ a b c'2 |
++mp+ c' +mf+ b- b a g2 g2 |
+g2 a2 b3 +mp+ a |
+g2 +mf+ a b- b +mp+ a +mf+ g2 |
+a2 a2 z4 |]
+
+X: 8
+%%Orig filename was GaudeteBass1.abc
+T: Gaudete_Multi8 [Theorbo 1] (2:07)
+%%part-name Basic Theorbo1
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A,2 A,2 G,2 A, B, |
+C2 C B,- B, A, G,2 |
+G,2 G,2 A,2 B,2- |
+B, A, G,2 A, B,- B, A, |
+G,2 A,2 A,2 A,2 |
+A,2 E,2 E, +mf+ G, +mp+ G,2 |
+G, G,- G, G, E,2 E,2 |
+E,2 E,2 G,3 E, |
+E,2 D, +mf+ G,- G, +mp+ D, E,2 |
+% Bar 10 (0:18)
+E,2 E,2 +mf+ A, +mp+ A, G, A, |
+C B, A,2 A, F, E, F, |
+D,2 D,2 D, D, F, D, |
+F, G, A,2 +mf+ C +mp+ A, B, C |
+A,2 A,2 A,2 A,2 |
+G,2 A, B, +mf+ C2 +mp+ C B,- |
+B, A, G,2 G,2 G,2 |
+A,2 B,3 A, G,2 |
+A, B,- B, A, G,2 A,2 |
+A,2 A,2 A,2 E,2 |
+% Bar 20 (0:38)
+E, G, G,2 G, G,- G, G, |
+E,2 E,2 E,2 E,2 |
+G,3 E, E,2 D, G,- |
+G, D, E,2 E,2 E,2 |
+A, A, G, +mf+ A, C +mp+ B, A,2 |
+A, F, E, F, D,2 D,2 |
+D, D, F, D, F, G, A,2 |
++mf+ C +mp+ A, B, C A,2 A,2 |
+A,2 A,2 G,2 A, B, |
+C2 C B,- B, A, G,2 |
+% Bar 30 (0:58)
+G,2 G,2 A,2 B,2- |
+B, A, G,2 A, B,- B, A, |
+G,2 A,2 A,2 A,2 |
+A,2 E,2 E, +mf+ G, +mp+ G,2 |
+G, G,- G, G, E,2 E,2 |
++mf+ E,2 +mp+ E,2 G,3 E, |
+E,2 D, +mf+ G,- G, +mp+ D, E,2 |
+E,2 E,2 +mf+ A, +mp+ A, G, A, |
++mf+ C +mp+ B, A,2 A, F, E, F, |
+D,2 D,2 D, D, F, D, |
+% Bar 40 (1:18)
++mf+ F, +mp+ G, A,2 +mf+ C +mp+ A, B, +mf+ C |
++mp+ A,2 A,2 A,2 A,2 |
+G,2 A, B, C2 C B,- |
+B, A, G,2 G,2 G,2 |
++mf+ A,2 +mp+ B,3 A, G,2 |
+A, B,- B, A, G,2 A,2 |
+A,2 A,2 A,2 E,2 |
+E, G, G,2 G, G,- G, G, |
+E,2 +mf+ E,2 +mp+ E,2 E,2 |
+G,3 E, E,2 D, G,- |
+% Bar 50 (1:38)
+G, D, +mf+ E,2 +mp+ E,2 E,2 |
+A, A, G, A, +mf+ C +mp+ B, A,2 |
+A, F, E, F, D,2 D,2 |
+D, D, F, D, F, G, A,2 |
++mf+ C +mp+ A, B, C A,2 A,2 |
+A,2 A,2 G,2 A, B, |
+C2 C B,- B, A, G,2 |
+G,2 G,2 A,2 B,2- |
+B, A, G,2 A, B,- B, A, |
+G,2 A,2 A,2 A,2 |
+% Bar 60 (1:58)
+A,2 E,2 E, G, G,2 |
+G, G,- G, G, E,2 E,2 |
+E,2 E,2 G,3 E, |
+E,2 D, +mf+ G,- G, +mp+ D, E,2 |
+E,2 E,2 z4 |]
+
+X: 21
+%%Orig filename was GaudeteBass2.abc
+T: Gaudete_Multi8 [Theorbo 2] (2:07)
+%%part-name Basic Theorbo2
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A2 A2 E2 +mf+ A +mp+ G |
++mf+ c2 +mp+ c G- G +mf+ A +mp+ E2 |
++mf+ E2 +mp+ E2 +mf+ A2 +mp+ G2- |
+G +mf+ A +mp+ E2 ^F G- G +mf+ F |
++mp+ E2 +mf+ A2 A2 +mp+ A2 |
++mf+ c2 +mp+ B2 +mf+ c d e2 |
+e +mp+ d- d c B2 B2 |
+B2 +mf+ c2 +mp+ d3 +mf+ c |
++mp+ B2 A G- G +mf+ A B2 |
+% Bar 10 (0:18)
++mp+ A2 A2 +mf+ A A +mp+ G +mf+ A |
+c B +mp+ A2 A F E +mf+ F |
++mp+ D2 D2 D D +mf+ F +mp+ D |
+F +mf+ G A2 c +mp+ A B c |
+A2 +mf+ A2 A2 +mp+ A2 |
+E2 +mf+ A +mp+ G +mf+ c2 c +mp+ G- |
+G +mf+ A +mp+ E2 E2 E2 |
++mf+ A2 +mp+ G3 A E2 |
++mf+ ^F G- G +mp+ F E2 +mf+ A2 |
+A2 A2 c2 B2 |
+% Bar 20 (0:38)
+c d e2 e +mp+ d- d c |
++mf+ B2 +mp+ B2 +mf+ B2 c2 |
+d3 +mp+ c B2 A G- |
+G +mf+ A +mp+ B2 A2 +mf+ A2 |
+A A +mp+ G +mf+ A c +mp+ B A2 |
+A F E +mf+ F +mp+ D2 D2 |
+D +mf+ D F +mp+ D +mf+ F G A2 |
+c +mp+ A +mf+ B c +mp+ A2 A2 |
+A2 +mf+ A2 +mp+ E2 +mf+ A +mp+ G |
++mf+ c2 c G- G A +mp+ E2 |
+% Bar 30 (0:58)
+E2 E2 +mf+ A2 +mp+ G2- |
+G +mf+ A +mp+ E2 +mf+ ^F G- G +mp+ F |
+E2 +mf+ A2 +mp+ A2 +mf+ A2 |
+c2 +mp+ B2 +mf+ c d e2 |
++mp+ e d- d +mf+ c +mp+ B2 B2 |
++mf+ B2 c2 d3 +mp+ c |
+B2 A G- G +mf+ A B2 |
+A2 +mp+ A2 A A G A |
++mf+ c +mp+ B A2 +mf+ A +mp+ F E +mf+ F |
++mp+ D2 D2 +mf+ D D F +mp+ D |
+% Bar 40 (1:18)
++mf+ F G +mp+ A2 +mf+ c +mp+ A +mf+ B c |
++mp+ A2 +mf+ A2 +mp+ A2 A2 |
+E2 +mf+ A G c2 +mp+ c G- |
+G +mf+ A +mp+ E2 +mf+ E2 E2 |
+A2 +mp+ G3 +mf+ A +mp+ E2 |
+^F G- G F E2 +mf+ A2 |
+A2 A2 c2 +mp+ B2 |
+c +mf+ d e2 +mp+ e d- d c |
+B2 B2 B2 +mf+ c2 |
+d3 +mp+ c B2 +mf+ A G- |
+% Bar 50 (1:38)
+G A B2 A2 +mp+ A2 |
+A +mf+ A +mp+ G +mf+ A c +mp+ B A2 |
++mf+ A +mp+ F E +mf+ F +mp+ D2 D2 |
++mf+ D +mp+ D +mf+ F +mp+ D +mf+ F G +mp+ A2 |
++mf+ c +mp+ A +mf+ B c +mp+ A2 +mf+ A2 |
++mp+ A2 A2 E2 +mf+ A +mp+ G |
++mf+ c2 c +mp+ G- G +mf+ A +mp+ E2 |
+E2 +mf+ E2 A2 +mp+ G2- |
+G +mf+ A +mp+ E2 +mf+ ^F G- G +mp+ F |
+E2 +mf+ A2 +mp+ A2 +mf+ A2 |
+% Bar 60 (1:58)
+c2 +mp+ B2 +mf+ c d e2 |
+e d- d c B2 +mp+ B2 |
++mf+ B2 c2 d3 +mp+ c |
+B2 A G- G +mf+ A B2 |
++mp+ A2 +mf+ A2 z4 |]
+
+X: 3
+%%Orig filename was GaudeteClar1.abc
+T: Gaudete_Multi8 [Clarinet 1] (2:07)
+%%part-name Clarinet 1
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A2 +mf+ A2 +mp+ G2 +mf+ A B |
+c2 +mp+ c B- B A G2 |
+G2 G2 +mf+ A2 B2- |
+B A +mp+ G2 +mf+ A B- B +mp+ A |
+G2 +mf+ A2 +mp+ A2 A2 |
+A2 G2 A +mf+ B c2 |
+c +mp+ B- B A G2 +mf+ G2 |
++mp+ G2 +mf+ A2 B3 +mp+ A |
+G2 +mf+ A B- B +mp+ A G2 |
+% Bar 10 (0:18)
++mf+ A2 +mp+ A2 +mf+ A A +mp+ G +mf+ A |
+c B +mp+ A2 +mf+ A +mp+ F E +mf+ F |
++mp+ D2 D2 +mf+ D D F +mp+ D |
++mf+ F G A2 c +mp+ A +mf+ B c |
++mp+ A2 A2 A2 +mf+ A2 |
++mp+ G2 +mf+ A B c2 +mp+ c B- |
+B A G2 +mf+ G2 +mp+ G2 |
++mf+ A2 B3 +mp+ A G2 |
++mf+ A B- B +mp+ A G2 +mf+ A2 |
++mp+ A2 +mf+ A2 +mp+ A2 G2 |
+% Bar 20 (0:38)
++mf+ A B c2 +mp+ c B- B A |
+G2 +mf+ G2 +mp+ G2 +mf+ A2 |
+B3 +mp+ A G2 +mf+ A B- |
+B +mp+ A G2 +mf+ A2 +mp+ A2 |
+A +mf+ A +mp+ G +mf+ A c B +mp+ A2 |
++mf+ A +mp+ F E +mf+ F +mp+ D2 +mf+ D2 |
++mp+ D +mf+ D F +mp+ D +mf+ F G A2 |
+c +mp+ A +mf+ B c +mp+ A2 A2 |
++mf+ A2 A2 +mp+ G2 +mf+ A B |
+c2 +mp+ c B- B A G2 |
+% Bar 30 (0:58)
+G2 G2 +mf+ A2 B2- |
+B +mp+ A G2 +mf+ A B- B +mp+ A |
+G2 +mf+ A2 A2 +mp+ A2 |
++mf+ A2 +mp+ G2 +mf+ A B c2 |
++mp+ c B- B A G2 G2 |
+G2 A2 +mf+ B3 +mp+ A |
+G2 +mf+ A B- B +mp+ A G2 |
++mf+ A2 +mp+ A2 A +mf+ A +mp+ G +mf+ A |
+c +mp+ B A2 A F E +mf+ F |
++mp+ D2 D2 D +mf+ D F +mp+ D |
+% Bar 40 (1:18)
++mf+ F G A2 c +mp+ A +mf+ B c |
++mp+ A2 +mf+ A2 +mp+ A2 A2 |
+G2 +mf+ A B c2 c +mp+ B- |
+B A G2 G2 +mf+ G2 |
+A2 B3 +mp+ A G2 |
++mf+ A B- B +mp+ A G2 +mf+ A2 |
++mp+ A2 A2 +mf+ A2 +mp+ G2 |
++mf+ A B c2 +mp+ c B- B A |
+G2 +mf+ G2 G2 A2 |
+B3 +mp+ A G2 +mf+ A B- |
+% Bar 50 (1:38)
+B +mp+ A G2 +mf+ A2 A2 |
++mp+ A A G +mf+ A c B +mp+ A2 |
++mf+ A +mp+ F E +mf+ F +mp+ D2 +mf+ D2 |
++mp+ D +mf+ D F +mp+ D +mf+ F G A2 |
+c +mp+ A +mf+ B c +mp+ A2 A2 |
+A2 +mf+ A2 +mp+ G2 +mf+ A B |
+c2 +mp+ c B- B A G2 |
++mf+ G2 +mp+ G2 +mf+ A2 B2- |
+B +mp+ A G2 +mf+ A B- B +mp+ A |
+G2 +mf+ A2 A2 A2 |
+% Bar 60 (1:58)
++mp+ A2 G2 A +mf+ B c2 |
++mp+ c B- B A G2 G2 |
++mf+ G2 A2 B3 +mp+ A |
+G2 +mf+ A B- B +mp+ A G2 |
++mf+ A2 A2 z4 |]
+
+X: 22
+%%Orig filename was GaudeteClar2.abc
+T: Gaudete_Multi8 [Clarinet 2] (2:07)
+%%part-name Clarinet 2
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A,2 A,2 G,2 A, +mf+ B, |
+C2 C +mp+ B,- B, A, G,2 |
++mf+ G,2 G,2 A,2 B,2- |
+B, A, +mp+ G,2 +mf+ A, B,- B, +mp+ A, |
+G,2 +mf+ A,2 A,2 A,2 |
+C2 +mp+ B,2 +mf+ C D E2 |
++mp+ E D- D C B,2 B,2 |
++mf+ B,2 C2 D3 +mp+ C |
+B,2 +mf+ C D- D C B,2 |
+% Bar 10 (0:18)
++mp+ A,2 +mf+ A,2 A, A, +mp+ G, +mf+ A, |
+C B, +mp+ A,2 +mf+ A, +mp+ F, E, F, |
+D,2 D,2 D, +mf+ D, F, +mp+ D, |
++mf+ F, +mp+ G, +mf+ A,2 C A, B, +mp+ C |
+A,2 A,2 A,2 A,2 |
+G,2 A, +mf+ B, C2 C +mp+ B,- |
+B, A, G,2 G,2 +mf+ G,2 |
+A,2 B,3 +mp+ A, G,2 |
++mf+ A, B,- B, +mp+ A, G,2 +mf+ A,2 |
++mp+ A,2 +mf+ A,2 C2 B,2 |
+% Bar 20 (0:38)
+C D E2 E +mp+ D- D C |
+B,2 B,2 B,2 +mf+ C2 |
+D3 +mp+ C B,2 +mf+ C D- |
+D +mp+ C B,2 +mf+ A,2 A,2 |
++mp+ A, A, G, +mf+ A, C B, +mp+ A,2 |
++mf+ A, +mp+ F, E, +mf+ F, +mp+ D,2 D,2 |
+D, D, +mf+ F, +mp+ D, F, +mf+ G, A,2 |
+C +mp+ A, +mf+ B, +mp+ C A,2 +mf+ A,2 |
++mp+ A,2 +mf+ A,2 +mp+ G,2 +mf+ A, B, |
+C2 C +mp+ B,- B, A, G,2 |
+% Bar 30 (0:58)
+G,2 +mf+ G,2 +mp+ A,2 +mf+ B,2- |
+B, +mp+ A, G,2 +mf+ A, B,- B, +mp+ A, |
+G,2 A,2 +mf+ A,2 +mp+ A,2 |
++mf+ C2 +mp+ B,2 +mf+ C D E2 |
++mp+ E D- D C B,2 B,2 |
++mf+ B,2 C2 D3 C |
++mp+ B,2 +mf+ C D- D +mp+ C B,2 |
+A,2 A,2 A, A, G, +mf+ A, |
+C +mp+ B, +mf+ A,2 A, +mp+ F, E, F, |
+D,2 +mf+ D,2 +mp+ D, +mf+ D, F, +mp+ D, |
+% Bar 40 (1:18)
++mf+ F, G, A,2 C +mp+ A, +mf+ B, C |
++mp+ A,2 A,2 A,2 A,2 |
+G,2 +mf+ A, B, +mp+ C2 +mf+ C +mp+ B,- |
+B, A, +mf+ G,2 +mp+ G,2 +mf+ G,2 |
+A,2 +mp+ B,3 A, +mf+ G,2 |
+A, B,- B, +mp+ A, G,2 +mf+ A,2 |
++mp+ A,2 +mf+ A,2 C2 B,2 |
+C D E2 E +mp+ D- D C |
+B,2 +mf+ B,2 +mp+ B,2 +mf+ C2 |
+D3 +mp+ C B,2 +mf+ C D- |
+% Bar 50 (1:38)
+D +mp+ C B,2 A,2 +mf+ A,2 |
++mp+ A, A, G, +mf+ A, C +mp+ B, A,2 |
+A, F, E, +mf+ F, +mp+ D,2 +mf+ D,2 |
++mp+ D, D, F, D, +mf+ F, G, A,2 |
+C +mp+ A, +mf+ B, C +mp+ A,2 A,2 |
++mf+ A,2 A,2 +mp+ G,2 +mf+ A, B, |
++mp+ C2 C B,- B, A, G,2 |
+G,2 G,2 +mf+ A,2 B,2- |
+B, A, +mp+ G,2 +mf+ A, B,- B, +mp+ A, |
+G,2 +mf+ A,2 +mp+ A,2 A,2 |
+% Bar 60 (1:58)
++mf+ C2 +mp+ B,2 +mf+ C D E2 |
++mp+ E D- D C B,2 B,2 |
+B,2 C2 +mf+ D3 +mp+ C |
+B,2 +mf+ C D- D +mp+ C +mf+ B,2 |
++mp+ A,2 A,2 z4 |]
+
+X: 1
+%%Orig filename was GaudeteFlute.abc
+T: Gaudete_Multi8 [Flute] (2:07)
+%%part-name Flute
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ A,2 A,2 G,2 A, B, |
+C2 C B,- B, A, G,2 |
+G,2 G,2 A,2 B,2- |
+B, A, G,2 A, B,- B, A, |
+G,2 A,2 A,2 A2 |
+A2 G2 A B c2 |
+c B- B A G2 G2 |
+G2 A2 B3 A |
+G2 A B- B A G2 |
+% Bar 10 (0:18)
+A2 A2 A A G A |
+c B A2 A F E F |
+D2 D2 D D F D |
+F G A2 c A B c |
+A2 A2 +ff+ A,2 +fff+ A,2 |
+G,2 A, B, C2 C B,- |
+B, A, G,2 G,2 G,2 |
+A,2 B,3 A, G,2 |
+A, B,- B, A, G,2 A,2 |
+A,2 A2 A2 G2 |
+% Bar 20 (0:38)
+A B c2 c B- B A |
+G2 G2 G2 A2 |
+B3 A G2 A B- |
+B A G2 A2 A2 |
+A A G A c B A2 |
+A F E F D2 D2 |
+D D F D F G A2 |
+c A B c A2 A2 |
++ff+ A,2 +fff+ A,2 G,2 A, B, |
+C2 C B,- B, A, G,2 |
+% Bar 30 (0:58)
+G,2 G,2 A,2 B,2- |
+B, A, G,2 A, B,- B, A, |
+G,2 A,2 A,2 A2 |
+A2 G2 A B c2 |
+c B- B A G2 G2 |
+G2 A2 B3 A |
+G2 A B- B A G2 |
+A2 A2 A A G A |
+c B A2 A F E F |
+D2 D2 D D F D |
+% Bar 40 (1:18)
+F G A2 c A B c |
+A2 A2 +ff+ A,2 +fff+ A,2 |
+G,2 A, B, C2 C B,- |
+B, A, G,2 G,2 G,2 |
+A,2 B,3 A, G,2 |
+A, B,- B, A, G,2 A,2 |
+A,2 A2 A2 G2 |
+A B c2 c B- B A |
+G2 G2 G2 A2 |
+B3 A G2 A B- |
+% Bar 50 (1:38)
+B A G2 A2 A2 |
+A A G A c B A2 |
+A F E F D2 D2 |
+D D F D F G A2 |
+c A B c A2 A2 |
++ff+ A,2 +fff+ A,2 G,2 A, B, |
+C2 C B,- B, A, G,2 |
+G,2 G,2 A,2 B,2- |
+B, A, G,2 A, B,- B, A, |
+G,2 A,2 A,2 A2 |
+% Bar 60 (1:58)
+A2 G2 A B c2 |
+c B- B A G2 G2 |
+G2 A2 B3 A |
+G2 A B- B A G2 |
+A2 A2 z4 |]
+
+X: 5
+%%Orig filename was GaudeteHarp1.abc
+T: Gaudete_Multi8 [Harp 1] (2:07)
+%%part-name Harp 1
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A2 +mf+ A2 +mp+ G2 +mf+ A B |
+c2 c B- B A +mp+ G2 |
++mf+ G2 G2 A2 B2- |
+B A +mp+ G2 +mf+ A B- B +mp+ A |
++mf+ G2 A2 A2 A2 |
+c2 B2 c d e2 |
+e +mp+ d- d c +mf+ B2 B2 |
+B2 c2 d3 c |
+B2 c d- d c B2 |
+% Bar 10 (0:18)
++mp+ A2 +mf+ A2 +f+ a +mf+ a g a |
+c' b +mp+ a2 +mf+ a +mp+ f e +mf+ f |
++mp+ d2 +mf+ d2 d d f +mp+ d |
++mf+ f g a2 c' +mp+ a +mf+ b c' |
++mp+ a2 a2 A2 A2 |
+G2 +mf+ A B c2 c +mp+ B- |
+B +mf+ A G2 G2 G2 |
+A2 B3 +mp+ A +mf+ G2 |
+A B- B +mp+ A +mf+ G2 A2 |
++mp+ A2 +mf+ A2 c2 B2 |
+% Bar 20 (0:38)
+c d e2 e +mp+ d- d c |
++mf+ B2 B2 B2 c2 |
+d3 +mp+ c +mf+ B2 c d- |
+d c B2 +mp+ A2 +mf+ A2 |
++f+ a +mf+ a g a c' b +mp+ a2 |
++mf+ a +mp+ f e +mf+ f +mp+ d2 +mf+ d2 |
+d d f +mp+ d +mf+ f g a2 |
+c' +mp+ a +mf+ b c' +mp+ a2 +mf+ a2 |
++mp+ A2 +mf+ A2 +mp+ G2 +mf+ A B |
+c2 c B- B A G2 |
+% Bar 30 (0:58)
+G2 G2 A2 B2- |
+B A G2 A B- B A |
+G2 A2 A2 A2 |
+c2 B2 c d e2 |
+e +mp+ d- d c +mf+ B2 B2 |
+B2 c2 d3 c |
+B2 c d- d +mp+ c +mf+ B2 |
++mp+ A2 +mf+ A2 +f+ a +mf+ a g a |
+c' b +mp+ a2 +mf+ a +mp+ f e +mf+ f |
+d2 +mp+ d2 +mf+ d d f +mp+ d |
+% Bar 40 (1:18)
++mf+ f g a2 c' a b c' |
+a2 +mp+ a2 A2 A2 |
++mf+ G2 A B c2 c B- |
+B A G2 G2 G2 |
+A2 B3 +mp+ A G2 |
++mf+ A B- B A +mp+ G2 +mf+ A2 |
+A2 A2 c2 B2 |
+c d e2 e +mp+ d- d c |
+B2 +mf+ B2 B2 c2 |
+d3 +mp+ c B2 +mf+ c d- |
+% Bar 50 (1:38)
+d c B2 +mp+ A2 +mf+ A2 |
++f+ a +mf+ a g a c' +mp+ b a2 |
++mf+ a +mp+ f e +mf+ f +mp+ d2 +mf+ d2 |
+d d f d f g a2 |
+c' a b c' +mp+ a2 +mf+ a2 |
++mp+ A2 +mf+ A2 G2 A B |
+c2 c B- B +mp+ A G2 |
++mf+ G2 G2 A2 B2- |
+B +mp+ A +mf+ G2 A B- B +mp+ A |
++mf+ G2 A2 A2 A2 |
+% Bar 60 (1:58)
+c2 B2 c d e2 |
++mp+ e +mf+ d- d +mp+ c +mf+ B2 B2 |
+B2 c2 d3 +mp+ c |
++mf+ B2 c d- d +mp+ c +mf+ B2 |
+A2 A2 z4 |]
+
+X: 23
+%%Orig filename was GaudeteHarp2.abc
+T: Gaudete_Multi8 [Harp 2] (2:07)
+%%part-name Harp 2
+C: English Renaissance
+Z: Arranged by Finarphin
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ A2 +mf+ A2 +mp+ E2 +mf+ A +mp+ G |
++mf+ C2 +mp+ C G- G +mf+ A +mp+ E2 |
++mf+ E2 +mp+ E2 +mf+ A2 G2- |
+G A +mp+ E2 +mf+ ^F G- G +mp+ F |
+E2 +mf+ A2 +mp+ A2 A2 |
++mf+ A2 +mp+ E2 +mf+ A +mp+ G +mf+ C2 |
++mp+ C G- G +mf+ A +mp+ E2 +mf+ E2 |
+E2 A2 +mp+ G3 A |
+E2 +mf+ ^F G- G +mp+ F E2 |
+% Bar 10 (0:18)
++mf+ A2 A2 A +mp+ A G +mf+ A |
+C +mp+ B A2 A F E +mf+ F |
++mp+ D2 +mf+ D2 +mp+ D D F D |
++mf+ F +mp+ G +mf+ A2 C +mp+ A +mf+ B C |
++mp+ A2 A2 +mf+ A2 +mp+ A2 |
+E2 A +mf+ G C2 C +mp+ G- |
+G +mf+ A +mp+ E2 E2 +mf+ E2 |
+A2 +mp+ G3 A E2 |
+^F +mf+ G- G F +mp+ E2 +mf+ A2 |
+A2 +mp+ A2 A2 E2 |
+% Bar 20 (0:38)
++mf+ A +mp+ G +mf+ C2 +mp+ C G- G A |
+E2 +mf+ E2 +mp+ E2 +mf+ A2 |
++mp+ G3 +mf+ A +mp+ E2 +mf+ ^F G- |
+G +mp+ ^F E2 +mf+ A2 A2 |
++mp+ A +mf+ A +mp+ G A +mf+ C +mp+ B +mf+ A2 |
++mp+ A F E +mf+ F +mp+ D2 D2 |
+D D +mf+ F +mp+ D +mf+ F G A2 |
+C +mp+ A +mf+ B C +mp+ A2 A2 |
+A2 A2 E2 +mf+ A +mp+ G |
++mf+ C2 C +mp+ G- G +mf+ A +mp+ E2 |
+% Bar 30 (0:58)
++mf+ E2 +mp+ E2 +mf+ A2 +mp+ G2- |
+G +mf+ A +mp+ E2 +mf+ ^F G- G +mp+ F |
+E2 +mf+ A2 +mp+ A2 A2 |
+A2 E2 A +mf+ G C2 |
+C +mp+ G- G +mf+ A +mp+ E2 E2 |
++mf+ E2 A2 +mp+ G3 +mf+ A |
++mp+ E2 +mf+ ^F G- G +mp+ F E2 |
+A2 +mf+ A2 +mp+ A +mf+ A +mp+ G +mf+ A |
+C +mp+ B A2 +mf+ A +mp+ F E +mf+ F |
++mp+ D2 +mf+ D2 +mp+ D D F D |
+% Bar 40 (1:18)
++mf+ F G A2 C +mp+ A +mf+ B +mp+ C |
++mf+ A2 +mp+ A2 +mf+ A2 +mp+ A2 |
+E2 +mf+ A +mp+ G +mf+ C2 C +mp+ G- |
+G A E2 E2 +mf+ E2 |
+A2 +mp+ G3 +mf+ A +mp+ E2 |
++mf+ ^F G- G +mp+ F E2 +mf+ A2 |
++mp+ A2 A2 A2 E2 |
++mf+ A +mp+ G +mf+ C2 +mp+ C G- G A |
+E2 +mf+ E2 +mp+ E2 +mf+ A2 |
++mp+ G3 +mf+ A +mp+ E2 +mf+ ^F G- |
+% Bar 50 (1:38)
+G +mp+ ^F +mf+ E2 A2 A2 |
+A +mp+ A G +mf+ A C +mp+ B A2 |
+A F +mf+ E +mp+ F D2 D2 |
+D D +mf+ F +mp+ D +mf+ F G A2 |
+C +mp+ A +mf+ B +mp+ C A2 +mf+ A2 |
++mp+ A2 A2 E2 +mf+ A +mp+ G |
++mf+ C2 C +mp+ G- G +mf+ A +mp+ E2 |
+E2 E2 +mf+ A2 +mp+ G2- |
+G +mf+ A +mp+ E2 +mf+ ^F G- G +mp+ F |
+E2 +mf+ A2 A2 A2 |
+% Bar 60 (1:58)
+A2 +mp+ E2 +mf+ A +mp+ G +mf+ C2 |
++mp+ C G- G +mf+ A +mp+ E2 E2 |
+E2 +mf+ A2 +mp+ G3 +mf+ A |
++mp+ E2 +mf+ ^F +mp+ G- G F E2 |
++mf+ A2 A2 z4 |]
+

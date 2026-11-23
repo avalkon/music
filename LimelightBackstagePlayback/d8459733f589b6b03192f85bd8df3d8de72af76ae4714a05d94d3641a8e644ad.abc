@@ -1,0 +1,176 @@
+N: TS  4,   1   4   8  21
+X: 1
+%%Orig filename was LoeilletFlute.abc
+T: Loeillet (0:00) - Fast Version (Flute)
+M: 4/4
+L: 1/8
+Q:1/4=80
+K:C
+V:1
+
+x8| \
+x8| \
+x8| \
+x8|
+x4^GB/2^d/2 ^g=g| \
+^g2 x^a b=g ^g^d/2^c/2| \
+B2 x^d e^c/2B/2 ^A=g| \
+^g^G B^c ^de/2^A/2 B/2x/2^A/2^G/2|
+^G2 x2 ^GB/2^d/2 ^g[^a/2=g/2-]g/2| \
+^g (3^a/2b/2^g/2 b=g ^g^d/2^c/2 BB| \
+^c3/2x/2 e3/2e/2 x/2e/2^d x^g/2^a/2| \
+=g/2^d/2^g/2^a/2 b/2x/2^a/2^g/2 ^g2 x^a|
+b^a ^g=g ^g^a/2b<^fe/2| \
+^de/2x/2 ^f2- ^f/2x/2e/2^d/2 e2-| \
+e/2x/2^d/2<^c/2 ^d2- ^d/2x/2e/2^d/2 ^c^c/2B/2| \
+^A^F B2- B/2^d/2^c/2B/2 ^c/2e/2^d/2^c/2|
+^de ^f^g/2x/2 ^c/2e/2^d/2^c/2 x/2x/2^c/2<B/2| \
+B2 x2 B^d/2^f/2 b^a/2x/2| \
+b^f/2e/2 ^d (3e/2^d/2^c/2 x/2^d2-^d/2^g/2^f/2| \
+=f^c ^f^A x/2B2^d/2^c/2B/2|
+^AB/2x/2 ^c^d ^G^c3/2B/2^A/2^G/2| \
+^A=f/2^f/2 ^A/2x/2^G/2^F/2 ^F2 x^G| \
+^A/2B/2^c/2B/2 ^A^F ^G^c/2^d/2 ^c/2B/2^A/2^G/2| \
+^A^d/2e/2 ^d/2^c/2B/2^A/2 B^G x^A|
+B^d ^G^G e/2^d/2^c x^d| \
+e^c/2B<^A^A/2 ^g=g x^d| \
+e/2^d/2^c/2^d<ee/2 e/2^d/2^d ^d/2^c/2^c| \
+^c/2B/2B b/2^a/2^a ^a/2^g/2^g ^g^a/2b/2|
+=g/2^d/2^g/2^a/2 b/2x/2^a/2^g/2 ^g2 x2| \
+^GB/2^d/2 ^g=g ^g2 x (3^a/2b/2^g/2| \
+b=g ^g^d/2^c/2 B2 x^d| \
+e^c/2B/2 ^A=g ^g2 x^d|
+e/2^d/2^c/2B/2 B/2x/2^A/2^G/2 ^G4| \
+x8| \
+
+X: 4
+%%Orig filename was LoeilletHorn.abc
+T:Loeillet (0:00) - Fast Version (Horn)
+M:4/4
+L:1/8
+Q:1/4=80
+K:Cmaj
+
+x8| \
+^G,B,/2^D/2 ^G=G ^G2 x^A| \
+B=G ^G^D/2^C/2 B,2 x^D| \
+E^C/2B,/2 ^A,=G ^G^G, B,^C|
+^DE/2^C/2 ^D^D, ^G,2 x2| \
+^G,B,/2^D/2 ^G=G ^G^A B=G| \
+^G^D/2^C/2 B,B ^c2 x^c| \
+B^A ^G^A B^c ^d^D|
+^G,B,/2^D/2 ^G=G ^G2 x^A| \
+B=G ^G^D/2^C/2 B,2 x^D| \
+E^C/2B,/2 ^A,=G ^G^G, B,^C| \
+^D/2^C/2B,/2^C/2 ^D^D, ^G,B,/2^D/2 ^G=G|
+^G2 x^A B^G ^A^F| \
+B,^C ^DB,2<^G2^F/2E/2| \
+^F3E/2^D/2 E2 x^C| \
+^FE ^D^C B,2 ^A,2|
+B,^C ^DE ^FB, ^F^F,| \
+B,^D/2^F/2 B^A B2 x^c| \
+^d2 x^A B^A B^G| \
+^cB ^A^F ^G^F =F^C|
+^F^G ^AB ^c2 =F2| \
+^FB, ^C^C, ^F,^A,/2^C/2 ^F=F| \
+^F2 x^F =F2 x^C| \
+^F2 =G2 ^G,B,/2^D/2 ^G=G|
+^G2 x^G ^CE/2^G/2 ^c=c| \
+^c2 x^C ^D^C B,^G,| \
+^CB, ^A,^F, xB, x^A,| \
+x^G, x^F, xE, x^C|
+^D/2^C/2B,/2^C/2 ^D^D, ^G,B,/2^D/2 ^G=G| \
+^G2 x^A BB,/2^D/2 ^G=G| \
+^G^A B=G ^G^D/2^C/2 B,B| \
+^c2 x^c B^A B^G|
+^c^A ^d^D ^G,4| \
+x8| \
+
+X: 8
+%%Orig filename was LoeilletLute1.abc
+T: Loeillet (0:00) - Fast Version (1st Lute)
+M: 4/4
+L: 1/8
+Q:1/4=80
+K:C
+V:1
+
+x8| \
+[^G2^D2B,2] x[^D^A,] [^G^DB,]B,/2^D/2 ^G[=G^C]| \
+[^G^D-][^A^D] [B^G^D-][^A=G^D] [^G^D-][^A/2^D/2-][B/2^D/2] ^G[=G^D]| \
+[^G-^C][^GE] [^c/2-=G/2E/2-][^c/2-^G/2E/2-][^c^AE] [^c^G-E][B^G^D] ^D/2-[B/2^D/2][^A/2E/2-][^G/2E/2]|
+[=G^D-][^G/2-^D/2][^G/2-E/2] [^G^D-^A,-][=G^D^A,] [^G2^D2B,2] x2| \
+[^G2^D2B,2] x[^D^A,] [^DB,][=G^C] [^G^D-][^A^D-]| \
+[B/2-^D/2][B/2-E/2][B/2^F/2][^A/2E/2] [B/2^D/2-][^A/2^D/2][^G-^D] [^G2E2] x[^A=G^D-]| \
+[^G2^D2] [B^G^D][^A=G^C] [^G^D][^AE] [^A-^G][^A=G]|
+[^G2^D2B,2] x[^A^D] [^G2^D2B,2] x[=G^C]| \
+[^G^D][^D-^A,] [^DB,][=G^D^A,] [^G2^D2B,2] x[B=GB,]| \
+[^G-^C][^G/2-E/2][^G/2^D/2] [=G/2^C/2-][^G/2^C/2][^AE^C] [^G-E^C][^G2^D2B,2][^GE^A,]| \
+[=G^D^A,][^G-B,] [^G^D-^A,-][=G^D^A,] [^G2^D2B,2] x[^A^D]|
+[B2^D2] x[=G^C] [^G^D-][B^D] [^F^C][^c-E]| \
+[^c/2^D/2-][^c/2^D/2][B/2E/2-][^A/2E/2] [B/2^F/2-][B/2^F/2-][^c/2^F/2-][^d/2^F/2] [B2-^F2] [B/2E/2-][B/2E/2-][^A/2E/2-][^G/2E/2-]| \
+[^A2-E2] [^A^D-][^G/2^D/2-][^F/2^D/2-] [^G-^D][^G/2-^C/2][^G/2-B,/2] [^G^C-][^A/2^C/2-][B/2^C/2-]| \
+[^A2^C2] [B-^F][BE] [B-^D][B^F-] [^c-^F][^c^C]|
+[B^D][^A/2E/2-][^G/2E/2] [^FB,-][^GB,] [E^A,][^DB,] [^CB,][^F^A,]| \
+[^D2B,2] x[^F^C] [^F2^D2] x[^c^AE]| \
+[B2^F2] x[^F^C] [^F2^D2-] [^G2-^D2]| \
+[^G2=F2] [^c2^A2^F2] [B2^F2^D2] [B2^G2^C2]|
+[^A^F^C][=FB,] [^F^C][^G^D] [=F^C][^F^D] [^G^C-][^A/2^C/2-][B/2^C/2]| \
+[^A^F^C][B^F^D] [^G-^F^C-][^G=F^C] [^F2^C2^A,2] x[^C^G,]| \
+[^C2^A,2] x[^C^A,] [^C2^G,2] x[=F^C]| \
+[^F3/2^C3/2-^A,3/2-][E/2^C/2^A,/2] [^D2^A,2] [^G2^D2B,2] x[^D^A,]|
+[^D2B,2] x[^D=C] [E2^C2] x[^G^D]| \
+[^G2E2] x[^AE] [=G^D-][^A^D] [^G^D-][B^D]| \
+[^G2E2] [^c2E2] ^c[B^F^D] x[^c^F^C]| \
+x[B^G^D] x[^A^D] x[^G^DB,] x[^AE]|
+[=G^D-][^G2^D2][=G^C] [^G2^D2B,2] x[^D^A,]| \
+[^D2B,2] x[=G^C] [^G/2^D/2-][=G/2^D/2-][^G/2^D/2-][^A/2^D/2] [B/2^D/2-][^c/2^D/2-][^A/2^D/2-][^d/2^D/2-]| \
+[B^D][=G^C] [^G^D-][^A^D] [B/2^D/2-][^c/2^D/2][B/2=G/2-][^A/2G/2] ^G[^G^D]| \
+[^G2E2] x[^A=G^D] [^d^G-^D-][^c^G-^D-] [^d^G-^D-][B^G^D]|
+[e^G-E-][^c^GE] [^A-^G][^A=G] [^G4^D4B,4]| \
+x8| \
+
+X: 21
+%%Orig filename was LoeilletLute2.abc
+T:Loeillet (0:00) - Fast Version (2nd Lute)
+M:4/4
+L:1/8
+Q:1/4=80
+K:Cmaj
+V:1
+
+x8| \
+^G,B,/2^D/2 ^G=G ^G2 x^A| \
+B=G ^G^D/2^C/2 B,2 x^D| \
+E^C/2B,/2 ^A,=G ^G^G, B,^C|
+^DE/2^C/2 ^D^D, ^G,2 x2| \
+^G,B,/2^D/2 ^G=G ^G^A B=G| \
+^G^D/2^C/2 B,B ^c2 x^c| \
+B^A ^G^A B^c ^d^D|
+^G,B,/2^D/2 ^G=G ^G2 x^A| \
+B=G ^G^D/2^C/2 B,2 x^D| \
+E^C/2B,/2 ^A,=G ^G^G, B,^C| \
+^D/2^C/2B,/2^C/2 ^D^D, ^G,B,/2^D/2 ^G=G|
+^G2 x^A B^G ^A^F| \
+B,^C ^DB,2<^G2^F/2E/2| \
+^F3E/2^D/2 E2 x^C| \
+^FE ^D^C B,2 ^A,2|
+B,^C ^DE ^FB, ^F^F,| \
+B,^D/2^F/2 B^A B2 x^c| \
+^d2 x^A B^A B^G| \
+^cB ^A^F ^G^F =F^C|
+^F^G ^AB ^c2 =F2| \
+^FB, ^C^C, ^F,^A,/2^C/2 ^F=F| \
+^F2 x^F =F2 x^C| \
+^F2 =G2 ^G,B,/2^D/2 ^G=G|
+^G2 x^G ^CE/2^G/2 ^c=c| \
+^c2 x^C ^D^C B,^G,| \
+^CB, ^A,^F, xB, x^A,| \
+x^G, x^F, xE, x^C|
+^D/2^C/2B,/2^C/2 ^D^D, ^G,B,/2^D/2 ^G=G| \
+^G2 x^A BB,/2^D/2 ^G=G| \
+^G^A B=G ^G^D/2^C/2 B,B| \
+^c2 x^c B^A B^G|
+^c^A ^d^D ^G,4| \
+x8| \
+

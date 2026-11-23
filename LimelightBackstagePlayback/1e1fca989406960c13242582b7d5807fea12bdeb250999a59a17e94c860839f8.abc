@@ -1,0 +1,1342 @@
+N: TS  9,   8   3  21  20  10   1  22   4  18
+X: 8
+%%Orig filename was DiggyHoleBass.abc
+T: DiggyDiggyHole_Multi9 [Theorbo] (4:12)
+%%part-name Basic Theorbo
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+% Bar 10 (0:18)
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F4 ^D4 |
+^C4 ^D4 |
+F4 ^D4 |
+% Bar 20 (0:38)
+^C4 =C4 |
++ff+ c ^A c A c ^c =c2 |
++mp+ ^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+C3/4 G/ c3/4 ^d3/4 c/ G3/4 [C2G2] z2 |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+z8 |
+% Bar 30 (0:58)
+z8 |
+F4 ^G4 |
+^A4 F4 |
+^G4 ^D4 |
+^G4 =G4 |
+F4 ^G4 |
+^A4 F4 |
+^G4 ^D4 |
+^G4 =G4 |
++mf+ F z F z F z ^D z |
+% Bar 40 (1:18)
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F4 ^D4 |
+^C4 ^D4 |
+F4 ^D4 |
+^C4 =C4 |
++ff+ c ^A c A c ^c =c2 |
+% Bar 50 (1:38)
++mp+ ^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+C3/4 G/ c3/4 ^d3/4 c/ G3/4 [C2G2] z2 |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+z8 |
+z8 |
+F4 ^G4 |
+% Bar 60 (1:58)
+^A4 F4 |
+^G4 ^D4 |
+^G4 =G4 |
+F4 ^G4 |
+^A4 F4 |
+^G4 ^D4 |
+^G4 =G4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^c2 =c ^A c4 |
+% Bar 80 (2:38)
+^d2 c ^A ^G3 F |
+^G F G2 G ^A c2 |
+^A A A c ^d f d2 |
++mf+ F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F z F z F z ^D z |
+F z F z F z C z |
+F4 ^D4 |
+% Bar 90 (2:58)
+^C4 ^D4 |
+F4 ^D4 |
+^C4 =C4 |
++ff+ c ^A c A c ^c =c2 |
++mp+ ^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+^C3/4 ^G/ ^c3/4 f3/4 c/ G3/4 [C2G2] [C2G2] |
+C3/4 G/ c3/4 ^d3/4 c/ G3/4 [C2G2] z2 |
+% Bar 100 (3:18)
+^D3/4 ^A/ ^d3/4 g3/4 d/ A3/4 [D2A2] [D2A2] |
+z8 |
+z8 |
+F4 ^G4 |
+^A4 F4 |
+^G4 ^D4 |
+^G4 =G4 |
+F4 ^G4 |
+^A4 F4 |
+^G4 ^D4 |
+% Bar 110 (3:38)
+^G4 =G4 |
+z8 |
+z8 |
+z8 |
+z8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+z8 |
+z8 |
+^c2 =c ^A c4 |
+^d2 c ^A ^G3 F |
+^G F G2 G ^A c2 |
+^A A A c ^d f d2 |
+z8 |]
+
+X: 3
+%%Orig filename was DiggyHoleClar1.abc
+T: DiggyDiggyHole_Multi9 [Clarinet 1] (4:12)
+%%part-name Clarinet 1
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+F F F G ^G ^A c2 |
+z8 |
+F F F G ^G ^A c2 |
+z8 |
+F ^D F D F G ^G2 |
+^c c c c =c ^A c2 |
+F ^D F D ^G ^A c2 |
+% Bar 20 (0:38)
+G G G F G ^G =G2 |
+z8 |
+^c2 =c ^A c4 |
+^A A A c A ^G F2 |
+^c2 =c ^A c3 ^G |
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+^d2 c ^A ^G3 F |
+^G F G2 G ^A c2 |
+^A A A ^c ^d f d2 |
+% Bar 30 (0:58)
+z8 |
+F2 F G ^G2 G c |
+^A2 ^G =G F4 |
+^G F G F ^D4 |
+^G F G F =G4 |
+F2 F G ^G2 G c |
+^A2 ^G =G F4 |
+^G F G F ^D4 |
+^G F G F =G4 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+F F F G ^G ^A c2 |
+z8 |
+F F F G ^G ^A c2 |
+z8 |
+F ^D F D F G ^G2 |
+^c c c c =c ^A c2 |
+F ^D F D ^G ^A c2 |
+G G G F G ^G =G2 |
+z8 |
+% Bar 50 (1:38)
+^c2 =c ^A c4 |
+^A A A c A ^G F2 |
+^c2 =c ^A c3 ^G |
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+^d2 c ^A ^G3 F |
+^G F G2 G ^A c2 |
+^A A A ^c ^d f d2 |
+z8 |
+F2 F G ^G2 G c |
+% Bar 60 (1:58)
+^A2 ^G =G F4 |
+^G F G F ^D4 |
+^G F G F =G4 |
+F2 F G ^G2 G c |
+^A2 ^G =G F4 |
+^G F G F ^D4 |
+^G F G F =G4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
++mp+ ^G8 |
+c8 |
+G8 |
+^d8 |
+^c2 =c ^A c4 |
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+% Bar 80 (2:38)
+^d2 c ^A ^G3 F |
+^G F G2 G ^A c2 |
+^A A A c ^d f d2 |
+z8 |
+z8 |
++fff+ F F F G ^G ^A c2 |
+z8 |
+F F F G ^G ^A c2 |
+z8 |
+F ^D F D F G ^G2 |
+% Bar 90 (2:58)
+^c c c c =c ^A c2 |
+F ^D F D ^G ^A c2 |
+G G G F G ^G =G2 |
+z8 |
+^c2 =c ^A c4 |
+^A A A c A ^G F2 |
+^c2 =c ^A c3 ^G |
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+^d2 c ^A ^G3 F |
+% Bar 100 (3:18)
+^G F G2 G ^A c2 |
+^A A A ^c ^d f d2 |
+z8 |
+F2 F G ^G2 G c |
+^A2 ^G =G F4 |
+^G F G F ^D4 |
+^G F G F =G4 |
+F2 F G ^G2 G c |
+^A2 ^G =G F4 |
+^G F G F ^D4 |
+% Bar 110 (3:38)
+^G F G F =G4 |
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ ^G8 |
+c8 |
+G8 |
+^d8 |
+^c2 =c ^A c4 |
+% Bar 120 (3:58)
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+^A A A c A ^G F2 |
+^c2 =c ^A c4 |
+^d2 c ^A ^G3 F |
+^G F G2 G ^A c2 |
+^A A A c ^d f d2 |
+z8 |]
+
+X: 21
+%%Orig filename was DiggyHoleClar2.abc
+T: DiggyDiggyHole_Multi9 [Clarinet 2] (4:12)
+%%part-name Clarinet 2
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++p+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^G,8- |
+% Bar 10 (0:18)
+^G,8 |
+z8 |
+^G,4 =G,4 |
+z8 |
+^C z ^G, z G, =G, F,2 |
+z8 |
+^C z ^G, z G, =G, F,2 |
++pp+ F4 ^D4 |
+^C4 ^D4 |
+F4 ^D4 |
+% Bar 20 (0:38)
+^C4 =C4 |
+z8 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+% Bar 30 (0:58)
+z8 |
+F, C F C F, C F C |
+^D, ^A, ^D A, D, A, D A, |
+^G F ^D C G F D C |
+G ^D ^C =C G D ^C =C |
+F, C F C F, C F C |
+^D, ^A, ^D A, D, A, D A, |
+^G F ^D C G F D C |
+G ^D ^C =C G D ^C =C |
+z8 |
+% Bar 40 (1:18)
++p+ ^G,4 =G,4 |
+z8 |
+^C z ^G, z G, =G, F,2 |
+z8 |
+^C z ^G, z G, =G, F,2 |
++pp+ F4 ^D4 |
+^C4 ^D4 |
+F4 ^D4 |
+^C4 =C4 |
+z8 |
+% Bar 50 (1:38)
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+z8 |
+F, C F C F, C F C |
+% Bar 60 (1:58)
+^D, ^A, ^D A, D, A, D A, |
+^G F ^D C G F D C |
+G ^D ^C =C G D ^C =C |
+F, C F C F, C F C |
+^D, ^A, ^D A, D, A, D A, |
+^G F ^D C G F D C |
+G ^D ^C =C G D ^C =C |
+^G,8 |
+C8 |
+G,8 |
+% Bar 70 (2:18)
+^D8 |
+^G,8 |
+C8 |
+G,8 |
+^D8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^C2 =C ^A, C4 |
+% Bar 80 (2:38)
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
+z8 |
++p+ ^G,4 =G,4 |
+z8 |
+^C z ^G, z G, =G, F,2 |
+z8 |
+^C z ^G, z G, =G, F,2 |
++pp+ F4 ^D4 |
+% Bar 90 (2:58)
+^C4 ^D4 |
+F4 ^D4 |
+^C4 =C4 |
+z8 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+F4 ^D4 |
+^C4 =C4 |
+% Bar 100 (3:18)
+F4 ^D4 |
+^C4 =C4 |
+z8 |
+F, C F C F, C F C |
+^D, ^A, ^D A, D, A, D A, |
+^G F ^D C G F D C |
+G ^D ^C =C G D ^C =C |
+F, C F C F, C F C |
+^D, ^A, ^D A, D, A, D A, |
+^G F ^D C G F D C |
+% Bar 110 (3:38)
+G ^D ^C =C G D ^C =C |
+^G,8 |
+C8 |
+G,8 |
+^D8 |
+^G,8 |
+C8 |
+G,8 |
+^D8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+z8 |
+z8 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
+z8 |]
+
+X: 20
+%%Orig filename was DiggyHoleCowbell.abc
+T: DiggyDiggyHole_Multi9 [Cowbell] (4:12)
+%%part-name Cowbell
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++pp+ z8 |
+z8 |
+z8 |
+z8 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+% Bar 10 (0:18)
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+% Bar 20 (0:38)
+z2 G,2 G, G, G,2 |
+G,2 z2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+% Bar 30 (0:58)
+G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+% Bar 40 (1:18)
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+G,2 z2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+% Bar 50 (1:38)
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:38)
+z8 |
+z8 |
+z8 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+% Bar 90 (2:58)
+z2 G,2 G, G, G,2 |
+z2 G,2 z2 G, G, |
+z2 G,2 G, G, G,2 |
+G,2 z2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+% Bar 100 (3:18)
+z2 G,2 z2 G, G, |
+z2 G,2 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (3:38)
+G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 G,3/4 G,/ G,3/4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+X: 10
+%%Orig filename was DiggyHoleDrums.abc
+T: DiggyDiggyHole_Multi9 [Drums] (4:12)
+%%part-name Drums
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++f+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
++ff+ [D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
++fff+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 10 (0:18)
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] z [DG] z [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] z [DG] z [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 20 (0:38)
+[D^G] [DG] [DG] [DG] [DG] [DG] [D2G2] |
+[D2^G2] z2 [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 30 (0:58)
+[D3/4^G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
++ff+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D3/4^G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
++fff+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 40 (1:18)
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] z [DG] z [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] z [DG] z [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D2G2] |
+[D2^G2] z2 [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 50 (1:38)
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D3/4^G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
++ff+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 60 (1:58)
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D3/4^G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:38)
+z8 |
+z8 |
+z8 |
++fff+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] z [DG] z [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] z [DG] z [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 90 (2:58)
+[D^G] [DG] [DG] [DG] [DG] [DG] [D2G2] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D2G2] |
+[D2^G2] z2 [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 100 (3:18)
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D3/4^G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
++ff+ [D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+[D^G] [DG] [DG] [DG] [DG] [DG] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+% Bar 110 (3:38)
+[D3/4^G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] [D3/4G3/4] [D/G/] [D3/4G3/4] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+X: 1
+%%Orig filename was DiggyHoleFlute1.abc
+T: DiggyDiggyHole_Multi9 [Flute 1] (4:12)
+%%part-name Flute 1
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+F, F, F, G, ^G, ^A, C2 |
+z8 |
+F, F, F, G, ^G, ^A, C2 |
+z8 |
+F, ^D, F, D, F, G, ^G,2 |
+^C C C C =C ^A, C2 |
+F, ^D, F, D, ^G, ^A, C2 |
+% Bar 20 (0:38)
+G, G, G, F, G, ^G, =G,2 |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+% Bar 30 (0:58)
+z8 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+F, F, F, G, ^G, ^A, C2 |
+z8 |
+F, F, F, G, ^G, ^A, C2 |
+z8 |
+F, ^D, F, D, F, G, ^G,2 |
+^C C C C =C ^A, C2 |
+F, ^D, F, D, ^G, ^A, C2 |
+G, G, G, F, G, ^G, =G,2 |
+z8 |
+% Bar 50 (1:38)
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
+F,2 F, G, ^G,2 G, C |
+% Bar 60 (1:58)
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
++mp+ ^G,8 |
+C8 |
+G,8 |
+^D8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+% Bar 80 (2:38)
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
+z8 |
+z8 |
++fff+ F, F, F, G, ^G, ^A, C2 |
+z8 |
+F, F, F, G, ^G, ^A, C2 |
+z8 |
+F, ^D, F, D, F, G, ^G,2 |
+% Bar 90 (2:58)
+^C C C C =C ^A, C2 |
+F, ^D, F, D, ^G, ^A, C2 |
+G, G, G, F, G, ^G, =G,2 |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+% Bar 100 (3:18)
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+% Bar 110 (3:38)
+^G, F, G, F, =G,4 |
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ ^G,8 |
+C8 |
+G,8 |
+^D8 |
+^C2 =C ^A, C4 |
+% Bar 120 (3:58)
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
+z8 |]
+
+X: 22
+%%Orig filename was DiggyHoleFlute2.abc
+T: DiggyDiggyHole_Multi9 [Flute 2] (4:12)
+%%part-name Flute 2
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+% Bar 10 (0:18)
+F, ^G, F, G, F,2 C,2 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+z8 |
++mp+ [F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,2^G,2] [F,2G,2] [F,2G,2] [F,2G,2] |
+z8 |
+% Bar 20 (0:38)
+[^D,2G,2] [D,2G,2] [D,2G,2] [D,2G,2] |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+% Bar 30 (0:58)
+z8 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
++mf+ F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+% Bar 40 (1:18)
+F, ^G, F, G, F,2 C,2 |
+z8 |
++mp+ [F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,2^G,2] [F,2G,2] [F,2G,2] [F,2G,2] |
+z8 |
+[^D,2G,2] [D,2G,2] [D,2G,2] [D,2G,2] |
+z8 |
+% Bar 50 (1:38)
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
+F,2 F, G, ^G,2 G, C |
+% Bar 60 (1:58)
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+% Bar 80 (2:38)
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
++mf+ F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+z8 |
++mp+ [F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+% Bar 90 (2:58)
+[F,2^G,2] [F,2G,2] [F,2G,2] [F,2G,2] |
+z8 |
+[^D,2G,2] [D,2G,2] [D,2G,2] [D,2G,2] |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+% Bar 100 (3:18)
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+% Bar 110 (3:38)
+^G, F, G, F, =G,4 |
+z8 |
+z8 |
+z8 |
+z8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
+z8 |]
+
+X: 4
+%%Orig filename was DiggyHoleHorn.abc
+T: DiggyDiggyHole_Multi9 [Horn] (4:12)
+%%part-name Horn
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++p+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+F8- |
+% Bar 10 (0:18)
+F8 |
+z8 |
+^G4 =G4 |
+z8 |
+^G, z G, z G, =G, F,2 |
+z8 |
+^G, z G, z G, =G, F,2 |
++pp+ F,4 ^D,4 |
+^C,4 ^D,4 |
+F,4 ^D,4 |
+% Bar 20 (0:38)
+^C,4 =C,4 |
+z8 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+% Bar 30 (0:58)
+z8 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+^A,4 C4 |
+z8 |
+% Bar 40 (1:18)
++p+ ^G4 =G4 |
+z8 |
+^G, z G, z G, =G, F,2 |
+z8 |
+^G, z G, z G, =G, F,2 |
++pp+ F,4 ^D,4 |
+^C,4 ^D,4 |
+F,4 ^D,4 |
+^C,4 =C,4 |
+z8 |
+% Bar 50 (1:38)
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+z8 |
+F,4 ^G,4 |
+% Bar 60 (1:58)
+G,4 F,4 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+^A,4 C4 |
+^G,8 |
+^G,8 |
+G,8 |
+% Bar 70 (2:18)
+G,8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^C2 =C ^A, C4 |
+% Bar 80 (2:38)
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
++p+ ^G4 =G4 |
+z8 |
+^G, z G, z G, =G, F,2 |
+z8 |
+^G, z G, z G, =G, F,2 |
++pp+ F,4 ^D,4 |
+% Bar 90 (2:58)
+^C,4 ^D,4 |
+F,4 ^D,4 |
+^C,4 =C,4 |
+z8 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+F,4 ^D,4 |
+^C4 ^A,4 |
+% Bar 100 (3:18)
+F,4 ^D,4 |
+^C4 ^A,4 |
+z8 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+G,4 F,4 |
+F,4 ^G,4 |
+% Bar 110 (3:38)
+^A,4 C4 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+z8 |
+z8 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |]
+
+X: 18
+%%Orig filename was DiggyHolePipes.abc
+T: DiggyDiggyHole_Multi9 [Bagpipe] (4:12)
+%%part-name Bagpipe
+Z: Arranged by Fin
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+% Bar 10 (0:18)
+F, ^G, F, G, F,2 C,2 |
+F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+z8 |
++mp+ [F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,2^G,2] [F,2G,2] [F,2G,2] [F,2G,2] |
+z8 |
+% Bar 20 (0:38)
+[^D,2G,2] [D,2G,2] [D,2G,2] [D,2G,2] |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+% Bar 30 (0:58)
+z8 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
++mf+ F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+% Bar 40 (1:18)
+F, ^G, F, G, F,2 C,2 |
+z8 |
++mp+ [F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,2^G,2] [F,2G,2] [F,2G,2] [F,2G,2] |
+z8 |
+[^D,2G,2] [D,2G,2] [D,2G,2] [D,2G,2] |
+z8 |
+% Bar 50 (1:38)
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
+F,2 F, G, ^G,2 G, C |
+% Bar 60 (1:58)
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:18)
+z8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+% Bar 80 (2:38)
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
++mf+ F, ^G, F, G, F, G, =G,3/4 F,/ ^D,3/4 |
+F, ^G, F, G, F,2 C,2 |
+z8 |
++mp+ [F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+[F,^G,^C] z [F,G,] z [F,G,] [^D,=G,] F,2 |
+z8 |
+% Bar 90 (2:58)
+[F,2^G,2] [F,2G,2] [F,2G,2] [F,2G,2] |
+z8 |
+[^D,2G,2] [D,2G,2] [D,2G,2] [D,2G,2] |
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C3 ^G, |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+% Bar 100 (3:18)
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, ^C ^D F D2 |
+z8 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+^G, F, G, F, =G,4 |
+F,2 F, G, ^G,2 G, C |
+^A,2 ^G, =G, F,4 |
+^G, F, G, F, ^D,4 |
+% Bar 110 (3:38)
+^G, F, G, F, =G,4 |
+z8 |
+z8 |
+z8 |
+z8 |
+^G,8 |
+^G,8 |
+G,8 |
+G,8 |
+z8 |
+% Bar 120 (3:58)
+z8 |
+^C2 =C ^A, C4 |
+^A, A, A, C A, ^G, F,2 |
+^C2 =C ^A, C4 |
+^D2 C ^A, ^G,3 F, |
+^G, F, G,2 G, ^A, C2 |
+^A, A, A, C ^D F D2 |
+z8 |]
+

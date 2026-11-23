@@ -1,0 +1,904 @@
+N: TS  6,   9   8  10   1   6  21
+X: 9
+%%Orig filename was ScatterAges.abc
+%abc-2.1
+%%song-title       scatter
+%%song-duration    2:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Scatter (2:05) - Lute of Ages
+%%part-name Lute of Ages
+Z: Kaoss of Gladden
+M: 6/8
+Q: 190
+K: C maj
+
+%%Q: 189
++ff+ z190/63 |
+%%Q: 190
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 10 (0:08)
+z3 |
+[A3-c3-e3-] |
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+[G3B3d3] |
+[A3-c3-e3-] |
+[A3c3e3] |
+[G3-B3-d3-] |
+[G3/2B3/2d3/2] [A3/2c3/2e3/2] |
+[A3-c3-e3-] |
+% Bar 20 (0:18)
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+[G3B3d3] |
+[A3-c3-e3-] |
+[A3c3e3] |
+[G3-B3-d3-] |
+[G3/2B3/2d3/2] [A3/2c3/2e3/2] |
+[A3-c3-e3-] |
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+% Bar 30 (0:27)
+[G3B3d3] |
+[A3-c3-e3-] |
+[A3c3e3] |
+[G3-B3-d3-] |
+[G3/2B3/2d3/2] [A3/2c3/2e3/2] |
+[c3-e3-a3-] |
+[c3/2e3/2a3/2] [B3/2d3/2g3/2] |
+[d3g3b3] |
+[B3d3g3] |
+[c3-e3-a3-] |
+% Bar 40 (0:36)
+[c3e3a3] |
+[d3-g3-b3-] |
+[d3/2g3/2b3/2] [B3/2d3/2g3/2] |
+[c3-e3-a3-] |
+[c3/2e3/2a3/2] [B3/2d3/2g3/2] |
+[d3g3b3] |
+[B3d3g3] |
+[c3-e3-a3-] |
+[c3e3a3] |
+[d3-g3-b3-] |
+% Bar 50 (0:46)
+[d3/2g3/2b3/2] [e3/2a3/2c'3/2] |
+[e3a3c'3] |
+[d3g3b3] |
+[e3g3b3] |
+[d3g3b3] |
+[e3a3c'3] |
+[d3g3b3] |
+[e3-g3-b3-] |
+[e3/2g3/2b3/2] [e3/2a3/2c'3/2] |
+[e3a3c'3] |
+% Bar 60 (0:55)
+[d3g3b3] |
+[e3g3b3] |
+[d3g3b3] |
+[e3a3c'3] |
+[d3g3b3] |
+[e3-g3-b3-] |
+[e3/2g3/2b3/2] [e3/2a3/2c'3/2] |
+^c/- [c/-e/] [c/a/] B/- [B/-e/] [B/a/] |
+A/- [A/-^c/] [A/e/] ^F/- [F/-A/] [F/e/] |
+E/- [E/-A/] [E/e/] A/- [A/-^c/] [A/e/] |
+% Bar 70 (1:05)
+E/- [E/-A/] [E/e/] ^F/- [F/-A/] [F/^c/] |
+^c/- [c/-e/] [c/a/] B/- [B/-e/] [B/a/] |
+A/- [A/-^c/] [A/e/] ^F/- [F/-A/] [F/e/] |
+E/- [E/-A/] [E/e/] ^F/- [F/-^c/] [F/e/] |
+E/- [E/-A/] [E/e/] ^F/- [F/-A/] [F/^c/] |
+^c/- [c/-e/] [c/a/] B/- [B/-e/] [B/a/] |
+A/- [A/-^c/] [A/e/] ^F/- [F/-A/] [F/e/] |
+E/- [E/-A/] [E/e/] A/- [A/-^c/] [A/e/] |
+E/- [E/-A/] [E/e/] ^F/- [F/-A/] [F/^c/] |
+^c/- [c/-e/] [c/a/] B/- [B/-e/] [B/a/] |
+% Bar 80 (1:14)
+A/- [A/-^c/] [A/e/] ^F/- [F/-A/] [F/e/] |
+E/- [E/-A/] [E/e/] ^F/- [F/-^c/] [F/e/] |
+E/- [E/-A/] [E/e/] ^F/- [F/-A/] [F/^c/] |
+E/ A/ e/ ^F/ A/ e/ |
+E/ A/ ^c/ ^C/ E/ A/ |
+E/ A/ ^c/ ^F/ A/ e/ |
+E/ A/ ^c/ B,/ E/ A/ |
+E/ A/ e/ ^F/ A/ e/ |
+E/ A/ ^c/ ^C/ E/ A/ |
+E/- [E/-A/] [E/e/] ^F/- [F/-^c/] [F/e/] |
+% Bar 90 (1:24)
+E/- [E/-A/] [E/e/] ^F/- [F/-A/] [F/^c/] |
+E/ A/ e/ ^F/ A/ e/ |
+E/ A/ ^c/ ^C/ E/ A/ |
+E/ A/ ^c/ ^F/ A/ e/ |
+E/ A/ ^c/ B,/ E/ A/ |
+E/ A/ e/ ^F/ A/ e/ |
+E/ A/ ^c/ ^C/ E/ A/ |
+E/- [E/-A/] [E/e/] ^F/- [F/-^c/] [F/e/] |
+E/- [E/-A/] [E/e/] E3/2 |
+[A3-c3-e3-] |
+% Bar 100 (1:33)
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+[G3B3d3] |
+[A3-c3-e3-] |
+[A3c3e3] |
+[G3-B3-d3-] |
+[G3/2B3/2d3/2] [A3/2c3/2e3/2] |
+[A3-c3-e3-] |
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+% Bar 110 (1:43)
+[G3B3d3] |
+[A3-c3-e3-] |
+[A3c3e3] |
+[G3-B3-d3-] |
+[G3/2B3/2d3/2] [A3/2c3/2e3/2] |
+[A3-c3-e3-] |
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+[G3B3d3] |
+[A3-c3-e3-] |
+% Bar 120 (1:52)
+[A3c3e3] |
+[G3-B3-d3-] |
+[G3/2B3/2d3/2] [A3/2c3/2e3/2] |
+[A3-c3-e3-] |
+[A3/2c3/2e3/2] [G3/2B3/2d3/2] |
+[A3c3e3] |
+[G3B3d3] |
+[A3-c3-e3-] |
+[A3c3e3] |
+[G3-B3-d3-] |
+% Bar 130 (2:02)
+[G3/2B3/2d3/2] [A3/2-c3/2-e3/2-] |
+[A3-c3-e3-] |
+[A3/2c3/2e3/2] z3/2 |]
+
+X: 8
+%%Orig filename was ScatterBass.abc
+%abc-2.1
+%%song-title       scatter
+%%song-duration    2:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Scatter (2:05) - Basic Theorbo
+%%part-name Basic Theorbo
+Z: Kaoss of Gladden
+M: 6/8
+Q: 190
+K: C maj
+
+%%Q: 189
++fff+ z190/63 |
+%%Q: 190
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 10 (0:08)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 20 (0:18)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (0:27)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+A,3- |
+A,3 |
+G,3 |
+G,3 |
+A,3- |
+% Bar 40 (0:36)
+A,3 |
+G,3- |
+G,3/2 G,3/2 |
+A,3- |
+A,3 |
+G,3 |
+G,3 |
+A,3- |
+A,3 |
+G,3- |
+% Bar 50 (0:46)
+G,3/2 A,3/2 |
+A,3 |
+G,3 |
+G,3 |
+G,3 |
+A,3 |
+G,3 |
+G,3- |
+G,3/2 A,3/2 |
+A,3 |
+% Bar 60 (0:55)
+G,3 |
+G,3 |
+G,3 |
+A,3 |
+G,3 |
+G,3- |
+G,3/2 A,3/2 |
++mf+ ^C3/2 B,3/2 |
+A,3/2 ^F,3/2 |
+E,3/2 A,3/2 |
+% Bar 70 (1:05)
+E,3/2 B,3/2 |
+^C3/2 B,3/2 |
+A,3/2 ^F,3/2 |
+E,3/2 E3/2 |
+z E,/ A,3/2 |
+^C3/2 B,3/2 |
+A,3/2 ^F,3/2 |
+E,3/2 A,3/2 |
+E,3/2 B,3/2 |
+^C3/2 B,3/2 |
+% Bar 80 (1:14)
+A,3/2 ^F,3/2 |
+E,3/2 E3/2 |
+z E,/ A,3/2 |
+^C3/2 D3/2 |
+E3/2 E3/2 |
+A,3/2 E3/2 |
+E3/2 E,3/2 |
+^C3/2 D3/2 |
+E3/2 E3/2 |
+B,3/2 E3/2 |
+% Bar 90 (1:24)
+z E,/ A,3/2 |
+^C3/2 D3/2 |
+E3/2 E3/2 |
+A,3/2 E3/2 |
+E3/2 E,3/2 |
+^C3/2 D3/2 |
+E3/2 E3/2 |
+B,3/2 E3/2 |
+z E,/ A,3/2 |
++f+ A,3- |
+% Bar 100 (1:33)
+A,3/2 G,3/2 |
+A,3 |
+G,3 |
+A,3- |
+A,3 |
+G,3- |
+G,3/2 A,3/2 |
+A,3- |
+A,3/2 G,3/2 |
+A,3 |
+% Bar 110 (1:43)
+G,3 |
+A,3- |
+A,3 |
+G,3- |
+G,3/2 A,3/2 |
+A,3- |
+A,3/2 G,3/2 |
+A,3 |
+G,3 |
+A,3- |
+% Bar 120 (1:52)
+A,3 |
+G,3- |
+G,3/2 A,3/2 |
+A,3- |
+A,3/2 G,3/2 |
+A,3 |
+G,3 |
+A,3- |
+A,3 |
+G,3- |
+% Bar 130 (2:02)
+G,3/2 A,3/2- |
+A,3- |
+A,3/2 z3/2 |]
+
+X: 10
+%%Orig filename was ScatterDrums.abc
+%abc-2.1
+%%song-title       scatter
+%%song-duration    2:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Scatter (2:05) - Basic Drum
+%%part-name Basic Drum
+Z: Kaoss of Gladden
+M: 6/8
+Q: 190
+K: C maj
+
+%%Q: 189
++ffff+ ^D,95/189 z190/189 D,95/189 z190/189 |
+%%Q: 190
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 10 (0:08)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 20 (0:18)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 30 (0:27)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 40 (0:36)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 50 (0:46)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 60 (0:55)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 70 (1:05)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 80 (1:14)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 90 (1:24)
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+^D,/ z D,/ z |
+% Bar 100 (1:33)
+^D,/ z5/2 |
+^D,/ z D,/ z |
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+^D,/ z5/2 |
+^D,/ z D,/ z |
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+^D,/ z5/2 |
+^D,/ z D,/ z |
+% Bar 110 (1:43)
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+^D,/ z5/2 |
+^D,/ z D,/ z |
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+^D,/ z5/2 |
+^D,/ z D,/ z |
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+% Bar 120 (1:52)
+^D,/ z5/2 |
+^D,/ z D,/ z |
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+^D,/ z5/2 |
+^D,/ z D,/ z |
+^D,/ D,/ D,/ D,/ D,/ D,/ |
+^D,/ z D,/ z |
+^D,/ z5/2 |
+^D,/ z D,/ z |
+% Bar 130 (2:02)
+^D,/ D,/ D,/ D,/ z |]
+
+X: 1
+%%Orig filename was ScatterFlute.abc
+%abc-2.1
+%%song-title       scatter
+%%song-duration    1:02
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Scatter (2:05) - Basic Flute
+%%part-name Basic Flute
+Z: Kaoss of Gladden
+M: 6/8
+Q: 190
+K: C maj
+
+%%Q: 189
++f+ z190/63 |
+%%Q: 190
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 10 (0:08)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 20 (0:18)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (0:27)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+E/ A/ A/ E/ A/ A/ |
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ G/ E/ D/ |
+E/ A/ A/ E/ A/ A/ |
+% Bar 40 (0:36)
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ A G/ |
+E/ A/ A/ E/ A/ A/ |
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ G/ E/ D/ |
+E/ A/ A/ E/ A/ A/ |
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+% Bar 50 (0:46)
+d/ B/ A/ A d/ |
+e/ a/ a/ a/ g/ e/ |
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ e/ ^f/ g/ f/ g/ |
+e/ a/ a/ a/ g/ e/ |
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ A d/ |
+e/ a/ a/ a/ g/ e/ |
+% Bar 60 (0:55)
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ e/ ^f/ g/ f/ g/ |
+e/ a/ a/ a/ g/ e/ |
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ A3/2 |]
+
+X: 6
+%%Orig filename was ScatterMisty1.abc
+%abc-2.1
+%%song-title       scatter
+%%song-duration    2:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Scatter (2:05) - Misty Mountain Harp 1
+%%part-name Misty Mountain Harp 1
+Z: Kaoss of Gladden
+M: 6/8
+Q: 190
+K: C maj
+
+%%Q: 189
++fff+ z190/63 |
+%%Q: 190
+z2 z/ d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ A/ B/ d/ |
+e/ A/ A/ B A/ |
+d/ B/ G/ G/ B/ d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ B/ A/ E/ |
+G/ A/ B/ d/ g/ e/ |
+% Bar 10 (0:08)
+d/ B/ G/ A d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ A/ B/ d/ |
+e/ A/ A/ B A/ |
+d/ B/ G/ G/ B/ d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ B/ A/ E/ |
+G/ A/ B/ d/ g/ e/ |
+d/ B/ G/ A d/ |
+e/ a/ a/ e/ g/ g/ |
+% Bar 20 (0:18)
+d/ B/ A/ A/ B/ d/ |
+e/ a/ a/ e/ g/ g/ |
+d/ B/ G/ G/ B/ d/ |
+e/ a/ a/ g e/ |
+d/ B/ A/ A/ G/ E/ |
+G/ A/ B/ d/ g/ e/ |
+d/ B/ G/ A d/ |
+e/ a/ a/ e/ g/ g/ |
+d/ B/ A/ A/ B/ d/ |
+e/ a/ a/ e/ g/ g/ |
+% Bar 30 (0:27)
+d/ B/ G/ G/ B/ d/ |
+e/ a/ a/ g e/ |
+d/ B/ A/ A/ G/ E/ |
+G/ A/ B/ d/ g/ e/ |
+d/ B/ G/ A G/ |
+E/ A/ A/ E/ A/ A/ |
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ G/ E/ D/ |
+E/ A/ A/ E/ A/ A/ |
+% Bar 40 (0:36)
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ A G/ |
+E/ A/ A/ E/ A/ A/ |
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ G/ E/ D/ |
+E/ A/ A/ E/ A/ A/ |
+B/ A/ B/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+% Bar 50 (0:46)
+d/ B/ A/ A d/ |
+e/ a/ a/ a/ g/ e/ |
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ e/ ^f/ g/ f/ g/ |
+e/ a/ a/ a/ g/ e/ |
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ A d/ |
+e/ a/ a/ a/ g/ e/ |
+% Bar 60 (0:55)
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ e/ ^f/ g/ f/ g/ |
+e/ a/ a/ a/ g/ e/ |
+d/ B/ A/ G A/ |
+B/ e/ e/ e/ d/ B/ |
+d/ B/ A/ A z/ |
+z3 |
+z3 |
+z3 |
+% Bar 70 (1:05)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 80 (1:14)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 90 (1:24)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z2 z/ d/ |
+e/ A/ A/ B A/ |
+% Bar 100 (1:33)
+e/ A/ A/ A/ B/ d/ |
+e/ A/ A/ B A/ |
+d/ B/ G/ G/ B/ d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ B/ A/ E/ |
+G/ A/ B/ d/ g/ e/ |
+d/ B/ G/ A d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ A/ B/ d/ |
+e/ A/ A/ B A/ |
+% Bar 110 (1:43)
+d/ B/ G/ G/ B/ d/ |
+e/ A/ A/ B A/ |
+e/ A/ A/ B/ A/ E/ |
+G/ A/ B/ d/ g/ e/ |
+d/ B/ G/ A d/ |
+e/ a/ a/ e/ g/ g/ |
+d/ B/ A/ A/ B/ d/ |
+e/ a/ a/ e/ g/ g/ |
+d/ B/ G/ G/ B/ d/ |
+e/ a/ a/ g e/ |
+% Bar 120 (1:52)
+d/ B/ A/ A/ G/ E/ |
+G/ A/ B/ d/ g/ e/ |
+d/ B/ G/ A d/ |
+e/ a/ a/ e/ g/ g/ |
+d/ B/ A/ A/ B/ d/ |
+e/ a/ a/ e/ g/ g/ |
+d/ B/ G/ G/ B/ d/ |
+e/ a/ a/ g e/ |
+d/ B/ A/ A/ G/ E/ |
+G/ A/ B/ d/ g/ e/ |
+% Bar 130 (2:02)
+d/ B/ G/ A3/2- |
+A3- |
+A3/2 z3/2 |]
+
+X: 21
+%%Orig filename was ScatterMisty2.abc
+%abc-2.1
+%%song-title       scatter
+%%song-duration    2:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+T: Scatter (2:05) - Misty Mountain Harp 2
+%%part-name Misty Mountain Harp 2
+Z: Kaoss of Gladden
+M: 6/8
+Q: 190
+K: C maj
+
+%%Q: 189
++f+ z190/63 |
+%%Q: 190
+z2 z/ D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ A,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ B,/ A,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+% Bar 10 (0:08)
+D/ B,/ G,/ A, D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ A,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ B,/ A,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+D/ B,/ G,/ A, D/ |
+E/ A/ A/ E/ G/ G/ |
+% Bar 20 (0:18)
+D/ B,/ A,/ A,/ B,/ D/ |
+E/ A/ A/ E/ G/ G/ |
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A/ A/ G E/ |
+D/ B,/ A,/ A,/ G,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+D/ B,/ G,/ A, D/ |
+E/ A/ A/ E/ G/ G/ |
+D/ B,/ A,/ A,/ B,/ D/ |
+E/ A/ A/ E/ G/ G/ |
+% Bar 30 (0:27)
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A/ A/ G E/ |
+D/ B,/ A,/ A,/ G,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+D/ B,/ G,/ A,3/2 |
+A,/ G,/ E,/ B,/ G,/ E,/ |
+D/ C/ D/ B,/ G,/ D,/ |
+D/ G,/ E,/ E/ B,/ G,/ |
+E/ B,/ G,/ B,/ G,/ D,/ |
+A,/ G,/ E,/ B,/ G,/ E,/ |
+% Bar 40 (0:36)
+D/ C/ D/ B,/ G,/ D,/ |
+D/ G,/ E,/ E/ B,/ G,/ |
+E/ B,/ G,/ B,/ G,/ D,/ |
+A,/ G,/ E,/ B,/ G,/ E,/ |
+D/ C/ D/ B,/ G,/ D,/ |
+D/ G,/ E,/ E/ B,/ G,/ |
+E/ B,/ G,/ B,/ G,/ D,/ |
+A,/ G,/ E,/ B,/ G,/ E,/ |
+D/ C/ D/ B,/ G,/ D,/ |
+D/ G,/ E,/ E/ B,/ G,/ |
+% Bar 50 (0:46)
+E/ B,/ G,/ D/ B,/ G,/ |
+G/ E/ B,/ E/ B,/ G,/ |
+G/ D/ B,/ D/ B,/ G,/ |
+D/ B,/ G,/ E/ B,/ G,/ |
+D/ B,/ G,/ G/ B,/ G,/ |
+G/ E/ B,/ E/ B,/ G,/ |
+G/ D/ B,/ D/ B,/ G,/ |
+D/ G,/ E,/ E/ B,/ G,/ |
+D/ B,/ G,/ D/ B,/ G,/ |
+G/ E/ B,/ E/ B,/ G,/ |
+% Bar 60 (0:55)
+G/ D/ B,/ D/ B,/ G,/ |
+D/ B,/ G,/ E/ B,/ G,/ |
+D/ B,/ G,/ G/ B,/ G,/ |
+G/ E/ B,/ E/ B,/ G,/ |
+G/ D/ B,/ D/ B,/ G,/ |
+D/ G,/ E,/ E/ B,/ G,/ |
+G,/ B,/ G,/ D [A/a/] |
++ff+ [E/e/] [^C/^c/] [A,/A/] [B,/B/] [A,/A/] [^F,/^F/] |
+[A,/A/] [^F,/^F/] [E,/E/] [E,/E/] [F,/F/] [A,/A/] |
+[B,/B/] [D/d/] [^C/^c/] [B,/B/] [A,/A/] [B,/B/] |
+% Bar 70 (1:05)
+[^C/^c/] [B,/B/] [B,/B/] [B,B] [A/a/] |
+[E/e/] [^C/^c/] [A,/A/] [B,/B/] [A,/A/] [^F,/^F/] |
+[A,/A/] [^F,/^F/] [E,/E/] [E,/E/] [F,/F/] [A,/A/] |
+[B,/B/] [D/d/] [^C/^c/] [B,/B/] [A,/A/] [B,/B/] |
+[^C/^c/] [A,/A/] [A,/A/] [A,A] [A/a/] |
+[E/e/] [^C/^c/] [A,/A/] [B,/B/] [A,/A/] [^F,/^F/] |
+[A,/A/] [^F,/^F/] [E,/E/] [E,/E/] [F,/F/] [A,/A/] |
+[B,/B/] [D/d/] [^C/^c/] [B,/B/] [A,/A/] [B,/B/] |
+[^C/^c/] [B,/B/] [B,/B/] [B,B] [A/a/] |
+[E/e/] [^C/^c/] [A,/A/] [B,/B/] [A,/A/] [^F,/^F/] |
+% Bar 80 (1:14)
+[A,/A/] [^F,/^F/] [E,/E/] [E,/E/] [F,/F/] [A,/A/] |
+[B,/B/] [D/d/] [^C/^c/] [B,/B/] [A,/A/] [B,/B/] |
+[^C/^c/] [A,/A/] [A,/A/] [A,A] [A,/A/] |
+[A,/A/] [E/e/] [E/e/] [D/d/] [^F/^f/] [F/f/] |
+[^C/^c/] [E/e/] [E/e/] [E/e/] [C/c/] [A,/A/] |
+[^C/^c/] [D/d/] [E/e/] [E/e/] [A/a/] [^F/^f/] |
+[E/e/] [^C/^c/] [A,/A/] [B,B] [A,/A/] |
+[A,/A/] [E/e/] [E/e/] [D/d/] [^F/^f/] [F/f/] |
+[^C/^c/] [E/e/] [E/e/] [E/e/] [C/c/] [A,/A/] |
+[B,/B/] [D/d/] [^C/^c/] [B,/B/] [A,/A/] [B,/B/] |
+% Bar 90 (1:24)
+[^C/^c/] [A,/A/] [A,/A/] [A,A] [A,/A/] |
+[A,/A/] [E/e/] [E/e/] [D/d/] [^F/^f/] [F/f/] |
+[^C/^c/] [E/e/] [E/e/] [E/e/] [C/c/] [A,/A/] |
+[^C/^c/] [D/d/] [E/e/] [E/e/] [A/a/] [^F/^f/] |
+[E/e/] [^C/^c/] [A,/A/] [B,B] [A,/A/] |
+[A,/A/] [E/e/] [E/e/] [D/d/] [^F/^f/] [F/f/] |
+[^C/^c/] [E/e/] [E/e/] [E/e/] [C/c/] [A,/A/] |
+[B,/B/] [D/d/] [^C/^c/] [B,/B/] [A,/A/] [B,/B/] |
+[^C/^c/] [A,/A/] [A,/A/] [A,A] D/ |
++fff+ E/ A,/ A,/ B, A,/ |
+% Bar 100 (1:33)
+E/ A,/ A,/ A,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ B,/ A,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+D/ B,/ G,/ A, D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ A,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+% Bar 110 (1:43)
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A,/ A,/ B, A,/ |
+E/ A,/ A,/ B,/ A,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+D/ B,/ G,/ A, D/ |
+E/ A/ A/ E/ G/ G/ |
+D/ B,/ A,/ A,/ B,/ D/ |
+E/ A/ A/ E/ G/ G/ |
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A/ A/ G E/ |
+% Bar 120 (1:52)
+D/ B,/ A,/ A,/ G,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+D/ B,/ G,/ A, D/ |
+E/ A/ A/ E/ G/ G/ |
+D/ B,/ A,/ A,/ B,/ D/ |
+E/ A/ A/ E/ G/ G/ |
+D/ B,/ G,/ G,/ B,/ D/ |
+E/ A/ A/ G E/ |
+D/ B,/ A,/ A,/ G,/ E,/ |
+G,/ A,/ B,/ D/ G/ E/ |
+% Bar 130 (2:02)
+D/ B,/ G,/ A,3/2- |
+A,3- |
+A,3/2 z3/2 |]
+
